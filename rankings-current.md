@@ -1,4 +1,4 @@
-Generated 2016-02-27.
+Generated 2016-02-28.
 
 | Rank | Player              | Skill | # Matches |
 |------|---------------------|-------|-----------|
@@ -16,18 +16,18 @@ Generated 2016-02-27.
 |   12 | Mark Modera         |  24.4 |       288 |
 |   13 | Dan Meier           |  24.1 |        31 |
 |   14 | Aditya Guntuboyina  |  24.0 |        68 |
-|   15 | Benjamin Vicuna     |  23.1 |        42 |
-|   16 | Jonathan Hankar     |  22.9 |       167 |
-|   17 | Andrew Lawrie       |  22.9 |        40 |
-|   18 | Matt Wong           |  22.9 |        47 |
-|   19 | Mike Jensen-Akula   |  22.6 |       202 |
-|   20 | Reid Johnsen        |  22.3 |        10 |
-|   21 | Ronald Dahl         |  21.7 |        45 |
-|   22 | Sam McCormick       |  21.7 |        13 |
+|   15 | Reid Johnsen        |  23.5 |        11 |
+|   16 | Benjamin Vicuna     |  23.1 |        42 |
+|   17 | Jonathan Hankar     |  22.9 |       167 |
+|   18 | Andrew Lawrie       |  22.9 |        40 |
+|   19 | Matt Wong           |  22.9 |        47 |
+|   20 | Mike Jensen-Akula   |  22.6 |       202 |
+|   21 | Sam McCormick       |  21.7 |        13 |
+|   22 | Ronald Dahl         |  21.5 |        46 |
 |   23 | Jared Bard          |  21.4 |        14 |
-|   24 | Shaun Lim           |  20.7 |        26 |
+|   24 | Shaun Lim           |  21.4 |        27 |
 |   25 | Jonathan Francis    |  20.0 |        49 |
-|   26 | Jacob Kersey        |  19.9 |         8 |
+|   26 | Jacob Kersey        |  19.8 |         9 |
 |   27 | Andrew Proudfoot    |  19.8 |        26 |
 |   28 | Chris Flores        |  19.5 |       240 |
 |   29 | Andrew Pritchard    |  18.9 |        16 |
@@ -40,9 +40,9 @@ Generated 2016-02-27.
 |   36 | Jeff Gordon         |  15.2 |        13 |
 |   37 | Subrato Dey         |  14.6 |        10 |
 |   38 | Josh Trauner        |  14.5 |         7 |
-|   39 | Terry Chang         |  14.1 |        29 |
-|   40 | Rupert Myers        |  14.0 |        21 |
-|   41 | Sam Trachtman       |  13.8 |         2 |
+|   39 | Sam Trachtman       |  14.3 |         2 |
+|   40 | Terry Chang         |  14.1 |        29 |
+|   41 | Rupert Myers        |  14.0 |        21 |
 |   42 | Eric Borden         |  13.4 |        13 |
 |   43 | Reto Sutter         |  12.9 |        33 |
 |   44 | Myles Gordon        |  10.4 |        39 |
