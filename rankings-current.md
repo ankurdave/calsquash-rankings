@@ -3,7 +3,7 @@ Generated 2016-02-28.
 | Rank | Player              | Skill | # Matches |
 |------|---------------------|-------|-----------|
 |    1 | Ashley Kayler       |  42.9 |       201 |
-|    2 | Rees Sweeney-Taylor |  36.5 |        70 |
+|    2 | Rees Sweeney-Taylor |  36.5 |        71 |
 |    3 | Thomas Lowish       |  35.9 |         6 |
 |    4 | Jim Veitch          |  29.4 |       399 |
 |    5 | Frank Kennamer      |  28.8 |       189 |
@@ -11,13 +11,13 @@ Generated 2016-02-28.
 |    7 | Vishi               |  27.7 |        37 |
 |    8 | Glenn Forrester     |  26.9 |       352 |
 |    9 | Ignacio Canals      |  26.6 |        21 |
-|   10 | Arvind Muralimohan  |  25.4 |        11 |
-|   11 | Nick Cobbett        |  24.7 |        10 |
+|   10 | Arvind Muralimohan  |  25.9 |        12 |
+|   11 | Nick Cobbett        |  24.7 |        11 |
 |   12 | Mark Modera         |  24.4 |       288 |
 |   13 | Dan Meier           |  24.1 |        31 |
 |   14 | Aditya Guntuboyina  |  24.0 |        68 |
 |   15 | Reid Johnsen        |  23.5 |        11 |
-|   16 | Benjamin Vicuna     |  23.1 |        42 |
+|   16 | Benjamin Vicuna     |  23.0 |        43 |
 |   17 | Jonathan Hankar     |  22.9 |       167 |
 |   18 | Andrew Lawrie       |  22.9 |        40 |
 |   19 | Matt Wong           |  22.9 |        47 |
@@ -53,14 +53,14 @@ Generated 2016-02-28.
 |   49 | Nikhil Paranjape    |   7.3 |         8 |
 |   50 | Wayne Heiser        |   4.8 |         6 |
 |   51 | Nikhil Srivastava   |   4.8 |        15 |
-|   52 | Zsolt Bartha        |   3.3 |        36 |
+|   52 | Zsolt Bartha        |   4.0 |        37 |
 |   53 | Matan Sela          |   1.0 |         1 |
 |   54 | Rodrigo Calmet      |   0.7 |         1 |
-|   55 | Nick Firmani        |   0.4 |         1 |
-|   56 | Keaton Noon         |   0.1 |         7 |
-|   57 | Sandra Harpster     |   0.0 |         1 |
-|   58 | Alok Singh          |  -0.0 |         4 |
-|   59 | Nate Aden           |  -0.8 |         1 |
-|   60 | Josh Lebowitz       |  -2.0 |         3 |
-|   61 | Marco Eres          |  -3.6 |         2 |
+|   55 | Keaton Noon         |   0.1 |         7 |
+|   56 | Sandra Harpster     |   0.0 |         1 |
+|   57 | Alok Singh          |  -0.0 |         4 |
+|   58 | Nate Aden           |  -0.8 |         1 |
+|   59 | Josh Lebowitz       |  -2.0 |         3 |
+|   60 | Marco Eres          |  -3.6 |         2 |
+|   61 | Nick Firmani        |  -3.8 |         2 |
 |   62 | Padma Maitland      |  -4.7 |         2 |
