@@ -87,17 +87,20 @@ def parse_matches():
 
   Return a chronologically-ordered list of tuples (player1, player2) meaning
   player1 beat player2, as well as the position within this list corresponding
-  to the start of the current month.
+  to the start of the current month, and 12-month trailing period.
   """
   matches = []
 
   sys.stdout.write('Parsing')
   sys.stdout.flush()
-  for filename in sorted(os.listdir(scraped_dir), key=file_sort):
+  files = sorted(os.listdir(scraped_dir), key=file_sort)
+  for filename in files:
     sys.stdout.write('.')
     sys.stdout.flush()
-    if filename == 'current.html':
+    if filename == files[-1]:
       current_month_start_pos = len(matches)
+    if filename == files[-12]:
+      trailing_12mo_start_pos = len(matches)
     with io.open(os.path.join(scraped_dir, filename), 'r', encoding='utf8') as f:
       s = bs4.BeautifulSoup(f.read(), 'html.parser')
       for table in s.find_all('table'):
@@ -113,7 +116,7 @@ def parse_matches():
         matches += scores_to_match_results(scores)
   sys.stdout.write('done.\n')
 
-  return matches, current_month_start_pos
+  return matches, current_month_start_pos, trailing_12mo_start_pos
 
 def calculate_ratings(matches):
   """Calculate TrueSkill ratings from match history.
@@ -136,7 +139,8 @@ def calculate_ratings(matches):
 
   return ratings, num_matches
 
-def print_leaderboard(ratings, num_matches, outfile, ratings_prev=None, player_pred=None):
+def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
+                      player_pred=None):
   """Write ratings as Markdown table to outfile, with optional player filter."""
   leaderboard = filter(
     player_pred, sorted(
@@ -144,21 +148,29 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_prev=None, player_p
   tbl = prettytable.PrettyTable()
   tbl.junction_char = '|'
   tbl.hrules = prettytable.HEADER
-  tbl.field_names = ['Rank', 'Player', 'Skill', '# Matches', u'\u0394 Skill']
-  tbl.align['Rank'] = tbl.align['Skill'] = tbl.align['# Matches'] = tbl.align[u'\u0394 Skill'] = 'r'
+  tbl.field_names = ['Rank', 'Player', 'Skill', '# Matches', u'1-mo \u0394 Skill', u'12-mo \u0394 Skill']
+  tbl.align['Rank'] = tbl.align['Skill'] = tbl.align['# Matches'] = tbl.align[u'1-mo \u0394 Skill'] = tbl.align[u'12-mo \u0394 Skill'] = 'r'
   tbl.align['Player'] = 'l'
   tbl.float_format = '.1'
+
+  def get_prev_skill(name, prev_ratings, cur_skill):
+    if name in prev_ratings:
+      prev_skill = env.expose(prev_ratings[name])
+      if abs(cur_skill - prev_skill) < 0.01:
+        return None
+      else:
+        return prev_skill
+
   i = 1
   for name, rating in leaderboard:
     cur_skill = env.expose(rating)
-    prev_skill = None
-    if name in ratings_prev:
-      prev_skill = env.expose(ratings_prev[name])
-      if abs(cur_skill - prev_skill) < 0.01:
-        prev_skill = None
+    skill_1mo = get_prev_skill(name, ratings_1mo, cur_skill)
+    skill_12mo = get_prev_skill(name, ratings_12mo, cur_skill)
     tbl.add_row([i, name, cur_skill, num_matches[name],
-                 '%+.2f' % (cur_skill - prev_skill) if prev_skill else ''])
+                 '%+.2f' % (cur_skill - skill_1mo) if skill_1mo else '',
+                 '%+.2f' % (cur_skill - skill_12mo) if skill_12mo else ''])
     i += 1
+
   with io.open(os.path.join(script_dir, outfile), 'w', encoding='utf8') as f:
     f.write(u'Generated %s.\n\n' % datetime.date.today().isoformat())
     f.write(tbl.get_string())
@@ -178,14 +190,15 @@ def current_players():
   return players
 
 def main():
-  matches, current_month_start_pos = parse_matches()
-  ratings_prev, _ = calculate_ratings(matches[0:current_month_start_pos])
+  matches, current_month_start_pos, trailing_12mo_start_pos = parse_matches()
+  ratings_1mo, _ = calculate_ratings(matches[0:current_month_start_pos])
+  ratings_12mo, _ = calculate_ratings(matches[0:trailing_12mo_start_pos])
   ratings, num_matches = calculate_ratings(matches)
   print_leaderboard(ratings, num_matches, outfile='rankings-all.md',
-                    ratings_prev=ratings_prev)
+                    ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo)
   cau = set(current_players())
   print_leaderboard(ratings, num_matches, outfile='rankings-current.md',
-                    ratings_prev=ratings_prev,
+                    ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
                     player_pred=lambda r: r[0] in cau)
 
 if __name__=='__main__':
