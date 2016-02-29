@@ -2,11 +2,11 @@ Generated 2016-02-29.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler       |  42.9 |       201 |        +0.02 |         +0.05 |
+|    1 | Ashley Kayler       |  42.9 |       201 |        +0.03 |         +0.07 |
 |    2 | Rees Sweeney-Taylor |  36.5 |        71 |        +0.08 |         +1.08 |
 |    3 | Thomas Lowish       |  35.9 |         6 |              |         +1.48 |
-|    4 | Jim Veitch          |  29.4 |       399 |        +0.17 |         -0.05 |
-|    5 | Frank Kennamer      |  28.8 |       189 |        -0.04 |         +0.43 |
+|    4 | Jim Veitch          |  29.4 |       399 |        +0.18 |         -0.04 |
+|    5 | Frank Kennamer      |  28.8 |       190 |        -0.10 |         +0.37 |
 |    6 | John Kunze          |  28.4 |       283 |        +0.16 |         -0.27 |
 |    7 | Vishi               |  27.7 |        37 |              |         +9.91 |
 |    8 | Glenn Forrester     |  26.9 |       352 |        -0.06 |         +0.43 |
@@ -19,20 +19,20 @@ Generated 2016-02-29.
 |   15 | Reid Johnsen        |  23.5 |        11 |        +1.49 |         +7.69 |
 |   16 | Benjamin Vicuna     |  23.0 |        43 |        -0.13 |         +7.75 |
 |   17 | Jonathan Hankar     |  22.9 |       167 |        -0.23 |               |
-|   18 | Andrew Lawrie       |  22.9 |        40 |        -0.51 |        +20.46 |
+|   18 | Andrew Lawrie       |  22.9 |        40 |        -0.50 |        +20.47 |
 |   19 | Matt Wong           |  22.9 |        47 |        +0.67 |               |
 |   20 | Mike Jensen-Akula   |  22.6 |       202 |        -0.05 |         -0.05 |
-|   21 | Sam McCormick       |  21.7 |        13 |              |               |
-|   22 | Ronald Dahl         |  21.5 |        46 |        -0.55 |         -0.55 |
-|   23 | Jared Bard          |  21.4 |        14 |        +0.77 |         +3.85 |
-|   24 | Shaun Lim           |  21.4 |        27 |        +1.56 |         +1.28 |
-|   25 | Jonathan Francis    |  20.0 |        49 |        -0.03 |         +2.27 |
-|   26 | Jacob Kersey        |  19.8 |         9 |        +2.01 |               |
-|   27 | Andrew Proudfoot    |  19.8 |        26 |              |               |
-|   28 | Chris Flores        |  19.5 |       240 |        +0.04 |         -0.65 |
-|   29 | Andrew Pritchard    |  18.9 |        16 |        +1.05 |               |
-|   30 | Jaime Perez         |  18.0 |         7 |        +3.87 |               |
-|   31 | Ethan Kerr          |  17.3 |         3 |              |               |
+|   21 | Ethan Kerr          |  22.0 |         4 |              |               |
+|   22 | Sam McCormick       |  21.7 |        13 |              |               |
+|   23 | Ronald Dahl         |  21.5 |        46 |        -0.55 |         -0.55 |
+|   24 | Jared Bard          |  21.4 |        14 |        +0.77 |         +3.85 |
+|   25 | Shaun Lim           |  21.4 |        27 |        +1.56 |         +1.28 |
+|   26 | Jonathan Francis    |  20.0 |        49 |        -0.03 |         +2.27 |
+|   27 | Jacob Kersey        |  19.8 |         9 |        +2.01 |               |
+|   28 | Andrew Proudfoot    |  19.8 |        26 |              |               |
+|   29 | Chris Flores        |  19.5 |       240 |        +0.04 |         -0.65 |
+|   30 | Andrew Pritchard    |  18.9 |        16 |        +1.06 |               |
+|   31 | Jaime Perez         |  18.0 |         7 |        +3.87 |               |
 |   32 | Kent Daniels        |  16.8 |        65 |        +0.04 |         +2.94 |
 |   33 | Saurabh Baja        |  16.3 |         4 |              |               |
 |   34 | George Roche        |  15.5 |        13 |        +0.20 |         +2.39 |
