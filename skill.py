@@ -85,8 +85,9 @@ def file_sort(filename):
 def parse_matches():
   """Parse box league files and return match results.
 
-  Return a chronologically-ordered list of tuples (player1, player2, score)
-  meaning player1 beat player2 with score.
+  Return a chronologically-ordered list of tuples (player1, player2) meaning
+  player1 beat player2, as well as the position within this list corresponding
+  to the start of the current month.
   """
   matches = []
 
@@ -95,6 +96,8 @@ def parse_matches():
   for filename in sorted(os.listdir(scraped_dir), key=file_sort):
     sys.stdout.write('.')
     sys.stdout.flush()
+    if filename == 'current.html':
+      current_month_start_pos = len(matches)
     with io.open(os.path.join(scraped_dir, filename), 'r', encoding='utf8') as f:
       s = bs4.BeautifulSoup(f.read(), 'html.parser')
       for table in s.find_all('table'):
@@ -110,7 +113,7 @@ def parse_matches():
         matches += scores_to_match_results(scores)
   sys.stdout.write('done.\n')
 
-  return matches
+  return matches, current_month_start_pos
 
 def calculate_ratings(matches):
   """Calculate TrueSkill ratings from match history.
@@ -133,7 +136,7 @@ def calculate_ratings(matches):
 
   return ratings, num_matches
 
-def print_leaderboard(ratings, num_matches, outfile, player_pred=None):
+def print_leaderboard(ratings, num_matches, outfile, ratings_prev=None, player_pred=None):
   """Write ratings as Markdown table to outfile, with optional player filter."""
   leaderboard = filter(
     player_pred, sorted(
@@ -141,16 +144,22 @@ def print_leaderboard(ratings, num_matches, outfile, player_pred=None):
   tbl = prettytable.PrettyTable()
   tbl.junction_char = '|'
   tbl.hrules = prettytable.HEADER
-  tbl.field_names = ['Rank', 'Player', 'Skill', '# Matches']
-  tbl.align['Rank'] = tbl.align['Skill'] = tbl.align['# Matches'] = 'r'
+  tbl.field_names = ['Rank', 'Player', 'Skill', '# Matches', u'\u0394 Skill']
+  tbl.align['Rank'] = tbl.align['Skill'] = tbl.align['# Matches'] = tbl.align[u'\u0394 Skill'] = 'r'
   tbl.align['Player'] = 'l'
   tbl.float_format = '.1'
   i = 1
   for name, rating in leaderboard:
-    tbl.add_row([i, name, env.expose(rating), num_matches[name]])
+    cur_skill = env.expose(rating)
+    if name in ratings_prev:
+      prev_skill = env.expose(ratings_prev[name])
+      if abs(cur_skill - prev_skill) < 0.6: # only show large changes
+        prev_skill = None
+    tbl.add_row([i, name, cur_skill, num_matches[name],
+                 '%+.1f' % (cur_skill - prev_skill) if prev_skill else ''])
     i += 1
-  with open(os.path.join(script_dir, outfile), 'w') as f:
-    f.write('Generated %s.\n\n' % datetime.date.today().isoformat())
+  with io.open(os.path.join(script_dir, outfile), 'w', encoding='utf8') as f:
+    f.write(u'Generated %s.\n\n' % datetime.date.today().isoformat())
     f.write(tbl.get_string())
   print 'Wrote %s.' % outfile
 
@@ -168,13 +177,14 @@ def current_players():
   return players
 
 def main():
-  matches = parse_matches()
+  matches, current_month_start_pos = parse_matches()
+  ratings_prev, _ = calculate_ratings(matches[0:current_month_start_pos])
   ratings, num_matches = calculate_ratings(matches)
-  print_leaderboard(ratings, num_matches,
-                    outfile='rankings-all.md')
+  print_leaderboard(ratings, num_matches, outfile='rankings-all.md',
+                    ratings_prev=ratings_prev)
   cau = set(current_players())
-  print_leaderboard(ratings, num_matches,
-                    outfile='rankings-current.md',
+  print_leaderboard(ratings, num_matches, outfile='rankings-current.md',
+                    ratings_prev=ratings_prev,
                     player_pred=lambda r: r[0] in cau)
 
 if __name__=='__main__':
