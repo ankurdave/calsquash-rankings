@@ -45,7 +45,7 @@ Generated 2016-02-29.
 |   41 | Matt Nelson-Teutsch       |  26.5 |        10 |              |               |
 |   42 | Ali Rahim                 |  26.2 |        24 |              |               |
 |   43 | Amos Vernon               |  25.9 |        30 |              |               |
-|   44 | Arvind Muralimohan        |  25.9 |        12 |        +0.50 |               |
+|   44 | Arvind Muralimohan        |  25.9 |        12 |        +0.46 |               |
 |   45 | Ben Seelig                |  25.7 |        69 |              |               |
 |   46 | Annie Rein-Weston         |  25.6 |        18 |              |               |
 |   47 | Mikael Rehn               |  25.3 |         5 |              |               |
@@ -71,18 +71,18 @@ Generated 2016-02-29.
 |   67 | Thomas Krussig            |  23.4 |        16 |              |         +3.38 |
 |   68 | Andrew Hsu                |  23.3 |        15 |              |               |
 |   69 | Joe Farrell               |  23.3 |        30 |              |               |
-|   70 | Vyas Sekar                |  23.2 |        17 |              |               |
-|   71 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   72 | Sonesh Surana             |  23.1 |        95 |              |               |
-|   73 | Sushil Shetty             |  23.0 |        23 |              |               |
-|   74 | Benjamin Vicuna           |  23.0 |        43 |        -0.13 |         +7.75 |
+|   70 | Benjamin Vicuna           |  23.3 |        44 |        +0.14 |         +8.01 |
+|   71 | Vyas Sekar                |  23.2 |        17 |              |               |
+|   72 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   73 | Sonesh Surana             |  23.1 |        95 |              |               |
+|   74 | Sushil Shetty             |  23.0 |        23 |              |               |
 |   75 | Gary Golding              |  23.0 |         6 |              |               |
 |   76 | Jan Beranek               |  22.9 |        46 |              |               |
-|   77 | Jonathan Hankar           |  22.9 |       167 |        -0.23 |               |
-|   78 | Andrew Lawrie             |  22.9 |        40 |        -0.50 |        +20.47 |
-|   79 | Matt Wong                 |  22.9 |        47 |        +0.67 |               |
-|   80 | Alex Jermyn               |  22.8 |         3 |              |               |
-|   81 | Prakash Bathini           |  22.8 |       117 |              |         -0.42 |
+|   77 | Andrew Lawrie             |  22.9 |        40 |        -0.50 |        +20.47 |
+|   78 | Jonathan Hankar           |  22.9 |       167 |        -0.23 |               |
+|   79 | Alex Jermyn               |  22.8 |         3 |              |               |
+|   80 | Prakash Bathini           |  22.8 |       117 |              |         -0.42 |
+|   81 | Matt Wong                 |  22.8 |        48 |        +0.50 |               |
 |   82 | Dante Popple              |  22.7 |        17 |              |               |
 |   83 | Mike Jensen-Akula         |  22.6 |       202 |        -0.05 |         -0.05 |
 |   84 | Adam Angsten              |  22.5 |         3 |              |               |

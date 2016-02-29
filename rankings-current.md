@@ -11,16 +11,16 @@ Generated 2016-02-29.
 |    7 | Vishi               |  27.7 |        37 |              |         +9.91 |
 |    8 | Glenn Forrester     |  26.9 |       352 |        -0.06 |         +0.43 |
 |    9 | Ignacio Canals      |  26.6 |        21 |              |               |
-|   10 | Arvind Muralimohan  |  25.9 |        12 |        +0.50 |               |
+|   10 | Arvind Muralimohan  |  25.9 |        12 |        +0.46 |               |
 |   11 | Nick Cobbett        |  24.7 |        11 |        +1.01 |               |
 |   12 | Mark Modera         |  24.4 |       288 |        -0.08 |         -1.09 |
 |   13 | Dan Meier           |  24.1 |        31 |        +0.38 |         +6.60 |
 |   14 | Aditya Guntuboyina  |  24.0 |        68 |        +0.23 |         +2.61 |
 |   15 | Reid Johnsen        |  23.5 |        11 |        +1.49 |         +7.69 |
-|   16 | Benjamin Vicuna     |  23.0 |        43 |        -0.13 |         +7.75 |
-|   17 | Jonathan Hankar     |  22.9 |       167 |        -0.23 |               |
-|   18 | Andrew Lawrie       |  22.9 |        40 |        -0.50 |        +20.47 |
-|   19 | Matt Wong           |  22.9 |        47 |        +0.67 |               |
+|   16 | Benjamin Vicuna     |  23.3 |        44 |        +0.14 |         +8.01 |
+|   17 | Andrew Lawrie       |  22.9 |        40 |        -0.50 |        +20.47 |
+|   18 | Jonathan Hankar     |  22.9 |       167 |        -0.23 |               |
+|   19 | Matt Wong           |  22.8 |        48 |        +0.50 |               |
 |   20 | Mike Jensen-Akula   |  22.6 |       202 |        -0.05 |         -0.05 |
 |   21 | Ethan Kerr          |  22.0 |         4 |              |               |
 |   22 | Sam McCormick       |  21.7 |        13 |              |               |
