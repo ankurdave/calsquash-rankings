@@ -151,12 +151,13 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_prev=None, player_p
   i = 1
   for name, rating in leaderboard:
     cur_skill = env.expose(rating)
+    prev_skill = None
     if name in ratings_prev:
       prev_skill = env.expose(ratings_prev[name])
-      if abs(cur_skill - prev_skill) < 0.6: # only show large changes
+      if abs(cur_skill - prev_skill) < 0.01:
         prev_skill = None
     tbl.add_row([i, name, cur_skill, num_matches[name],
-                 '%+.1f' % (cur_skill - prev_skill) if prev_skill else ''])
+                 '%+.2f' % (cur_skill - prev_skill) if prev_skill else ''])
     i += 1
   with io.open(os.path.join(script_dir, outfile), 'w', encoding='utf8') as f:
     f.write(u'Generated %s.\n\n' % datetime.date.today().isoformat())
