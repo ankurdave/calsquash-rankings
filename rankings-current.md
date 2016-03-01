@@ -16,8 +16,8 @@ Generated 2016-03-01.
 |   12 | Mark Modera         |  24.4 |       288 |        -0.08 |         -1.09 |
 |   13 | Dan Meier           |  24.1 |        31 |        +0.38 |         +6.60 |
 |   14 | Aditya Guntuboyina  |  24.0 |        68 |        +0.23 |         +2.61 |
-|   15 | Reid Johnsen        |  23.5 |        11 |        +1.49 |         +7.69 |
-|   16 | Benjamin Vicuna     |  23.3 |        44 |        +0.14 |         +8.01 |
+|   15 | Benjamin Vicuna     |  23.3 |        44 |        +0.14 |         +8.01 |
+|   16 | Reid Johnsen        |  23.3 |        11 |        +1.26 |         +7.46 |
 |   17 | Andrew Lawrie       |  22.9 |        40 |        -0.50 |        +20.47 |
 |   18 | Jonathan Hankar     |  22.9 |       167 |        -0.23 |               |
 |   19 | Matt Wong           |  22.8 |        48 |        +0.50 |               |
@@ -27,11 +27,11 @@ Generated 2016-03-01.
 |   23 | Ronald Dahl         |  21.5 |        46 |        -0.55 |         -0.55 |
 |   24 | Jared Bard          |  21.4 |        14 |        +0.77 |         +3.85 |
 |   25 | Shaun Lim           |  21.4 |        27 |        +1.56 |         +1.28 |
-|   26 | Jonathan Francis    |  20.0 |        49 |        -0.03 |         +2.27 |
-|   27 | Jacob Kersey        |  19.8 |         9 |        +2.01 |               |
-|   28 | Andrew Proudfoot    |  19.8 |        26 |              |               |
-|   29 | Chris Flores        |  19.5 |       240 |        +0.04 |         -0.65 |
-|   30 | Andrew Pritchard    |  18.9 |        16 |        +1.06 |               |
+|   26 | Jonathan Francis    |  20.4 |        50 |        +0.32 |         +2.62 |
+|   27 | Andrew Proudfoot    |  19.8 |        26 |              |               |
+|   28 | Chris Flores        |  19.5 |       240 |        +0.04 |         -0.65 |
+|   29 | Andrew Pritchard    |  18.9 |        16 |        +1.06 |               |
+|   30 | Jacob Kersey        |  18.7 |        10 |        +0.94 |               |
 |   31 | Jaime Perez         |  18.0 |         7 |        +3.87 |               |
 |   32 | Kent Daniels        |  16.9 |        66 |        +0.14 |         +3.04 |
 |   33 | Saurabh Baja        |  16.3 |         4 |              |               |

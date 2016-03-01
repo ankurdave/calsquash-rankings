@@ -67,11 +67,11 @@ Generated 2016-03-01.
 |   63 | Martin Stokes             |  23.7 |        12 |              |               |
 |   64 | Matt Waid                 |  23.7 |        51 |              |               |
 |   65 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   66 | Reid Johnsen              |  23.5 |        11 |        +1.49 |         +7.69 |
-|   67 | Thomas Krussig            |  23.4 |        16 |              |         +3.38 |
-|   68 | Andrew Hsu                |  23.3 |        15 |              |               |
-|   69 | Joe Farrell               |  23.3 |        30 |              |               |
-|   70 | Benjamin Vicuna           |  23.3 |        44 |        +0.14 |         +8.01 |
+|   66 | Thomas Krussig            |  23.4 |        16 |              |         +3.38 |
+|   67 | Andrew Hsu                |  23.3 |        15 |              |               |
+|   68 | Joe Farrell               |  23.3 |        30 |              |               |
+|   69 | Benjamin Vicuna           |  23.3 |        44 |        +0.14 |         +8.01 |
+|   70 | Reid Johnsen              |  23.3 |        11 |        +1.26 |         +7.46 |
 |   71 | Vyas Sekar                |  23.2 |        17 |              |               |
 |   72 | Mikey Zarem               |  23.2 |         8 |              |               |
 |   73 | Sonesh Surana             |  23.1 |        95 |              |               |
@@ -120,26 +120,26 @@ Generated 2016-03-01.
 |  116 | Aaron Socha               |  20.8 |        24 |              |               |
 |  117 | Omair Azam                |  20.6 |        18 |              |               |
 |  118 | Ian MacDonald             |  20.5 |        59 |              |               |
-|  119 | Dror Matalon              |  20.2 |       334 |              |         -1.06 |
-|  120 | Jonathan Francis          |  20.0 |        49 |        -0.03 |         +2.27 |
-|  121 | Jacob Kersey              |  19.8 |         9 |        +2.01 |               |
-|  122 | Andrew Proudfoot          |  19.8 |        26 |              |               |
-|  123 | Whit Eldredge             |  19.7 |         2 |              |               |
-|  124 | Christian Fuentes         |  19.7 |         8 |              |               |
-|  125 | Sunil Bhave               |  19.6 |        26 |              |               |
-|  126 | Chris Flores              |  19.5 |       240 |        +0.04 |         -0.65 |
-|  127 | Pierre Darancet           |  19.5 |        94 |              |               |
-|  128 | Sardar Nauman             |  19.3 |         4 |              |               |
-|  129 | Gabriel Kahn              |  19.3 |         5 |              |        +11.95 |
-|  130 | Niklas Linde              |  19.3 |        23 |              |               |
-|  131 | Ariel Grostern            |  19.1 |        94 |              |               |
-|  132 | Julian Marshall           |  19.1 |        31 |              |               |
-|  133 | Tim Bruckner              |  19.1 |        10 |              |               |
-|  134 | Allic Sivaramakrishnan    |  18.9 |        22 |              |               |
-|  135 | Bhuvan Jain               |  18.9 |        18 |              |               |
-|  136 | John Eng                  |  18.9 |        28 |              |               |
-|  137 | Andrew Pritchard          |  18.9 |        16 |        +1.06 |               |
-|  138 | Jeff Diamond              |  18.8 |        44 |              |               |
+|  119 | Jonathan Francis          |  20.4 |        50 |        +0.32 |         +2.62 |
+|  120 | Dror Matalon              |  20.2 |       334 |              |         -1.06 |
+|  121 | Andrew Proudfoot          |  19.8 |        26 |              |               |
+|  122 | Whit Eldredge             |  19.7 |         2 |              |               |
+|  123 | Christian Fuentes         |  19.7 |         8 |              |               |
+|  124 | Sunil Bhave               |  19.6 |        26 |              |               |
+|  125 | Chris Flores              |  19.5 |       240 |        +0.04 |         -0.65 |
+|  126 | Pierre Darancet           |  19.5 |        94 |              |               |
+|  127 | Sardar Nauman             |  19.3 |         4 |              |               |
+|  128 | Gabriel Kahn              |  19.3 |         5 |              |        +11.95 |
+|  129 | Niklas Linde              |  19.3 |        23 |              |               |
+|  130 | Ariel Grostern            |  19.1 |        94 |              |               |
+|  131 | Julian Marshall           |  19.1 |        31 |              |               |
+|  132 | Tim Bruckner              |  19.1 |        10 |              |               |
+|  133 | Allic Sivaramakrishnan    |  18.9 |        22 |              |               |
+|  134 | Bhuvan Jain               |  18.9 |        18 |              |               |
+|  135 | John Eng                  |  18.9 |        28 |              |               |
+|  136 | Andrew Pritchard          |  18.9 |        16 |        +1.06 |               |
+|  137 | Jeff Diamond              |  18.8 |        44 |              |               |
+|  138 | Jacob Kersey              |  18.7 |        10 |        +0.94 |               |
 |  139 | Madhav Pai                |  18.7 |         5 |              |               |
 |  140 | Blake Woodard             |  18.6 |        10 |              |               |
 |  141 | John Corcoran             |  18.6 |        49 |              |               |
@@ -394,12 +394,12 @@ Generated 2016-03-01.
 |  390 | Mark Shapero              |   1.1 |         7 |              |               |
 |  391 | Aman Gupta                |   1.1 |         3 |              |               |
 |  392 | Akira Chiwaki             |   1.1 |         3 |              |               |
-|  393 | Matan Sela                |   1.0 |         1 |              |               |
-|  394 | Matthew Mak               |   1.0 |         1 |              |               |
-|  395 | Julian Gill               |   1.0 |         1 |              |               |
-|  396 | David Vogel               |   1.0 |         7 |              |               |
-|  397 | Aubrey Shick              |   1.0 |        30 |              |         +0.61 |
-|  398 | Alexis Madrigal           |   1.0 |         2 |              |               |
+|  393 | Matthew Mak               |   1.0 |         1 |              |               |
+|  394 | Julian Gill               |   1.0 |         1 |              |               |
+|  395 | David Vogel               |   1.0 |         7 |              |               |
+|  396 | Aubrey Shick              |   1.0 |        30 |              |         +0.61 |
+|  397 | Alexis Madrigal           |   1.0 |         2 |              |               |
+|  398 | Matan Sela                |   1.0 |         1 |              |               |
 |  399 | Jesus Nieto Gonzalez      |   0.9 |         2 |              |               |
 |  400 | Sudeep Agarwal            |   0.9 |         3 |              |               |
 |  401 | Heather Dunbar            |   0.9 |         1 |              |               |
