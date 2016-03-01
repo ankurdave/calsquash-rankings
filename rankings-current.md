@@ -33,7 +33,7 @@ Generated 2016-02-29.
 |   29 | Chris Flores        |  19.5 |       240 |        +0.04 |         -0.65 |
 |   30 | Andrew Pritchard    |  18.9 |        16 |        +1.06 |               |
 |   31 | Jaime Perez         |  18.0 |         7 |        +3.87 |               |
-|   32 | Kent Daniels        |  16.8 |        65 |        +0.04 |         +2.94 |
+|   32 | Kent Daniels        |  16.9 |        66 |        +0.14 |         +3.04 |
 |   33 | Saurabh Baja        |  16.3 |         4 |              |               |
 |   34 | Josh Trauner        |  15.7 |         8 |        +7.61 |               |
 |   35 | George Roche        |  15.5 |        13 |        +0.20 |         +2.39 |
@@ -45,7 +45,7 @@ Generated 2016-02-29.
 |   41 | Rupert Myers        |  14.0 |        21 |        +0.59 |               |
 |   42 | Eric Borden         |  13.4 |        13 |        +1.68 |               |
 |   43 | Reto Sutter         |  12.9 |        33 |        +0.43 |         +5.01 |
-|   44 | Myles Gordon        |  10.4 |        39 |        -0.03 |         +2.88 |
+|   44 | Myles Gordon        |  10.3 |        40 |        -0.10 |         +2.80 |
 |   45 | Anthony Patterson   |  10.1 |         6 |              |               |
 |   46 | Duo Wang            |   9.8 |        49 |              |         +5.28 |
 |   47 | Ankur Dave          |   9.6 |        24 |        -0.14 |               |

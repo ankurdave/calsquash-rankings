@@ -180,8 +180,8 @@ Generated 2016-02-29.
 |  176 | Nacho Quaglio             |  17.0 |         3 |              |               |
 |  177 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  178 | Sebastien Biraud          |  16.9 |        60 |              |               |
-|  179 | Sarah Mcneil              |  16.8 |        24 |              |               |
-|  180 | Kent Daniels              |  16.8 |        65 |        +0.04 |         +2.94 |
+|  179 | Kent Daniels              |  16.9 |        66 |        +0.14 |         +3.04 |
+|  180 | Sarah Mcneil              |  16.8 |        24 |              |               |
 |  181 | William Coleman           |  16.7 |        48 |              |               |
 |  182 | Viraj Paropkari           |  16.6 |        16 |              |               |
 |  183 | Dennis Dornan             |  16.6 |        12 |              |               |
@@ -277,8 +277,8 @@ Generated 2016-02-29.
 |  273 | Axel Eriksson             |  10.7 |         5 |              |               |
 |  274 | Jason Facchin             |  10.5 |         3 |              |               |
 |  275 | Jamie Paterson            |  10.4 |         4 |              |               |
-|  276 | Myles Gordon              |  10.4 |        39 |        -0.03 |         +2.88 |
-|  277 | Reed Foster               |  10.3 |         8 |              |               |
+|  276 | Reed Foster               |  10.3 |         8 |              |               |
+|  277 | Myles Gordon              |  10.3 |        40 |        -0.10 |         +2.80 |
 |  278 | Sameer Abraham            |  10.3 |        24 |              |               |
 |  279 | Lewis Moore               |  10.3 |        69 |              |               |
 |  280 | Paul Chang                |  10.3 |         7 |              |               |
