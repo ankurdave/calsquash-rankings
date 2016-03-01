@@ -13,8 +13,8 @@ Generated 2016-03-01.
 |    9 | Ignacio Canals      |  26.6 |        21 |              |               |
 |   10 | Arvind Muralimohan  |  25.9 |        12 |        +0.46 |               |
 |   11 | Nick Cobbett        |  24.7 |        11 |        +1.01 |               |
-|   12 | Mark Modera         |  24.4 |       288 |        -0.08 |         -1.09 |
-|   13 | Dan Meier           |  24.1 |        31 |        +0.38 |         +6.60 |
+|   12 | Dan Meier           |  24.4 |        32 |        +0.70 |         +6.92 |
+|   13 | Mark Modera         |  24.3 |       289 |        -0.15 |         -1.16 |
 |   14 | Aditya Guntuboyina  |  24.0 |        68 |        +0.23 |         +2.61 |
 |   15 | Benjamin Vicuna     |  23.3 |        44 |        +0.14 |         +8.01 |
 |   16 | Reid Johnsen        |  23.3 |        11 |        +1.26 |         +7.46 |
@@ -32,7 +32,7 @@ Generated 2016-03-01.
 |   28 | Chris Flores        |  19.5 |       240 |        +0.04 |         -0.65 |
 |   29 | Andrew Pritchard    |  18.9 |        16 |        +1.06 |               |
 |   30 | Jacob Kersey        |  18.7 |        10 |        +0.94 |               |
-|   31 | Jaime Perez         |  18.0 |         7 |        +3.87 |               |
+|   31 | Jaime Perez         |  18.1 |         7 |        +3.91 |               |
 |   32 | Kent Daniels        |  16.9 |        66 |        +0.14 |         +3.04 |
 |   33 | Saurabh Baja        |  16.3 |         4 |              |               |
 |   34 | Josh Trauner        |  15.7 |         8 |        +7.61 |               |

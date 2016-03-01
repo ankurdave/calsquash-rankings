@@ -52,10 +52,10 @@ Generated 2016-03-01.
 |   48 | Nick Cobbett              |  24.7 |        11 |        +1.01 |               |
 |   49 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   50 | Dan Bohn                  |  24.6 |        73 |              |         +0.33 |
-|   51 | Mark Modera               |  24.4 |       288 |        -0.08 |         -1.09 |
-|   52 | Christopher Tsang         |  24.2 |        76 |              |               |
-|   53 | Charlie Weiss             |  24.2 |        70 |              |         +1.30 |
-|   54 | Dan Meier                 |  24.1 |        31 |        +0.38 |         +6.60 |
+|   51 | Dan Meier                 |  24.4 |        32 |        +0.70 |         +6.92 |
+|   52 | Mark Modera               |  24.3 |       289 |        -0.15 |         -1.16 |
+|   53 | Christopher Tsang         |  24.2 |        76 |              |               |
+|   54 | Charlie Weiss             |  24.2 |        70 |              |         +1.30 |
 |   55 | Adam Pollak               |  24.1 |        31 |              |               |
 |   56 | Toby Reiner               |  24.1 |       159 |              |               |
 |   57 | Nader Shoaibi             |  24.1 |        64 |              |               |
@@ -151,9 +151,9 @@ Generated 2016-03-01.
 |  147 | William Seles             |  18.2 |        15 |              |         +2.25 |
 |  148 | Javed Ahmed               |  18.1 |        58 |              |               |
 |  149 | Jaime Vidal               |  18.1 |         8 |              |               |
-|  150 | Lucas Cheon               |  18.0 |        19 |              |               |
-|  151 | Anubhav Gupta             |  18.0 |         8 |              |               |
-|  152 | Jaime Perez               |  18.0 |         7 |        +3.87 |               |
+|  150 | Jaime Perez               |  18.1 |         7 |        +3.91 |               |
+|  151 | Lucas Cheon               |  18.0 |        19 |              |               |
+|  152 | Anubhav Gupta             |  18.0 |         8 |              |               |
 |  153 | Geoffrey Barrows          |  18.0 |        14 |              |               |
 |  154 | Himanshu Jatia            |  18.0 |         4 |              |               |
 |  155 | Jamie Funk                |  18.0 |        30 |              |               |
