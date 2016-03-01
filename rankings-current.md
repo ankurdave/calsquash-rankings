@@ -54,13 +54,13 @@ Generated 2016-02-29.
 |   50 | Nikhil Srivastava   |   4.8 |        15 |              |               |
 |   51 | Wayne Heiser        |   4.5 |         7 |        +3.58 |               |
 |   52 | Zsolt Bartha        |   4.0 |        37 |        +1.28 |         -2.85 |
-|   53 | Matan Sela          |   1.0 |         1 |              |               |
-|   54 | Rodrigo Calmet      |   0.7 |         1 |              |               |
-|   55 | Keaton Noon         |   0.1 |         7 |        +3.24 |               |
-|   56 | Sandra Harpster     |   0.0 |         1 |              |               |
+|   53 | Sandra Harpster     |   3.6 |         2 |              |               |
+|   54 | Matan Sela          |   1.0 |         1 |              |               |
+|   55 | Rodrigo Calmet      |   0.7 |         1 |              |               |
+|   56 | Keaton Noon         |   0.1 |         7 |        +3.24 |               |
 |   57 | Alok Singh          |  -0.0 |         4 |              |               |
 |   58 | Nate Aden           |  -0.8 |         1 |              |               |
 |   59 | Josh Lebowitz       |  -1.9 |         3 |              |               |
 |   60 | Marco Eres          |  -3.6 |         2 |              |               |
-|   61 | Nick Firmani        |  -3.8 |         2 |              |               |
+|   61 | Nick Firmani        |  -3.9 |         3 |              |               |
 |   62 | Padma Maitland      |  -4.7 |         2 |              |               |
