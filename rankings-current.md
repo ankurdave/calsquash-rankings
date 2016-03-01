@@ -35,13 +35,13 @@ Generated 2016-02-29.
 |   31 | Jaime Perez         |  18.0 |         7 |        +3.87 |               |
 |   32 | Kent Daniels        |  16.8 |        65 |        +0.04 |         +2.94 |
 |   33 | Saurabh Baja        |  16.3 |         4 |              |               |
-|   34 | George Roche        |  15.5 |        13 |        +0.20 |         +2.39 |
-|   35 | Daniel Schwartz     |  15.4 |         4 |              |               |
-|   36 | Jeff Gordon         |  15.2 |        13 |        -0.93 |               |
-|   37 | Subrato Dey         |  14.6 |        10 |        +1.42 |               |
-|   38 | Josh Trauner        |  14.5 |         7 |        +6.43 |               |
+|   34 | Josh Trauner        |  15.7 |         8 |        +7.61 |               |
+|   35 | George Roche        |  15.5 |        13 |        +0.20 |         +2.39 |
+|   36 | Daniel Schwartz     |  15.4 |         4 |              |               |
+|   37 | Jeff Gordon         |  15.2 |        13 |        -0.99 |               |
+|   38 | Subrato Dey         |  14.6 |        10 |        +1.42 |               |
 |   39 | Sam Trachtman       |  14.3 |         2 |              |               |
-|   40 | Terry Chang         |  14.1 |        29 |        +1.54 |         +3.34 |
+|   40 | Terry Chang         |  14.1 |        29 |        +1.52 |         +3.33 |
 |   41 | Rupert Myers        |  14.0 |        21 |        +0.59 |               |
 |   42 | Eric Borden         |  13.4 |        13 |        +1.68 |               |
 |   43 | Reto Sutter         |  12.9 |        33 |        +0.43 |         +5.01 |
@@ -51,8 +51,8 @@ Generated 2016-02-29.
 |   47 | Ankur Dave          |   9.6 |        24 |        -0.14 |               |
 |   48 | Gene Zubovich       |   9.3 |        19 |        -0.18 |               |
 |   49 | Nikhil Paranjape    |   7.3 |         8 |        -0.34 |               |
-|   50 | Wayne Heiser        |   4.8 |         6 |        +3.94 |               |
-|   51 | Nikhil Srivastava   |   4.8 |        15 |              |               |
+|   50 | Nikhil Srivastava   |   4.8 |        15 |              |               |
+|   51 | Wayne Heiser        |   4.5 |         7 |        +3.58 |               |
 |   52 | Zsolt Bartha        |   4.0 |        37 |        +1.28 |         -2.85 |
 |   53 | Matan Sela          |   1.0 |         1 |              |               |
 |   54 | Rodrigo Calmet      |   0.7 |         1 |              |               |
@@ -60,7 +60,7 @@ Generated 2016-02-29.
 |   56 | Sandra Harpster     |   0.0 |         1 |              |               |
 |   57 | Alok Singh          |  -0.0 |         4 |              |               |
 |   58 | Nate Aden           |  -0.8 |         1 |              |               |
-|   59 | Josh Lebowitz       |  -2.0 |         3 |              |               |
+|   59 | Josh Lebowitz       |  -1.9 |         3 |              |               |
 |   60 | Marco Eres          |  -3.6 |         2 |              |               |
 |   61 | Nick Firmani        |  -3.8 |         2 |              |               |
 |   62 | Padma Maitland      |  -4.7 |         2 |              |               |

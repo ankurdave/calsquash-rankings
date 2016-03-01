@@ -196,40 +196,40 @@ Generated 2016-02-29.
 |  192 | Troup Howard              |  16.0 |        34 |              |         +0.35 |
 |  193 | Toni Queck                |  16.0 |        20 |              |               |
 |  194 | Jaime Paterson            |  15.7 |         1 |              |               |
-|  195 | Jeff Bird                 |  15.7 |        38 |              |               |
-|  196 | Casey Harelson            |  15.7 |        20 |              |               |
-|  197 | George Roche              |  15.5 |        13 |        +0.20 |         +2.39 |
-|  198 | Nick Paget                |  15.5 |        35 |              |               |
-|  199 | Daniel Schwartz           |  15.4 |         4 |              |               |
-|  200 | Allan Dafoe               |  15.4 |        43 |              |               |
-|  201 | David Bratt               |  15.4 |        16 |              |               |
-|  202 | Doug Kreutzer             |  15.3 |        10 |              |               |
-|  203 | Ranjit Jhala              |  15.2 |         6 |              |               |
-|  204 | Jeff Gordon               |  15.2 |        13 |        -0.93 |               |
+|  195 | Josh Trauner              |  15.7 |         8 |        +7.61 |               |
+|  196 | Jeff Bird                 |  15.7 |        38 |              |               |
+|  197 | Casey Harelson            |  15.7 |        20 |              |               |
+|  198 | George Roche              |  15.5 |        13 |        +0.20 |         +2.39 |
+|  199 | Nick Paget                |  15.5 |        35 |              |               |
+|  200 | Daniel Schwartz           |  15.4 |         4 |              |               |
+|  201 | Allan Dafoe               |  15.4 |        43 |              |               |
+|  202 | David Bratt               |  15.4 |        16 |              |               |
+|  203 | Doug Kreutzer             |  15.3 |        10 |              |               |
+|  204 | Ranjit Jhala              |  15.2 |         6 |              |               |
 |  205 | Tuyen Le                  |  15.2 |         5 |              |               |
 |  206 | Chris Harrelson           |  15.2 |        47 |              |               |
-|  207 | Matthew Brett             |  15.1 |        20 |              |               |
-|  208 | Narayan Sankaran          |  15.1 |        24 |              |               |
-|  209 | Alex Marqusee             |  15.0 |        28 |              |         +2.45 |
-|  210 | Athulan Vijayaraghavan    |  15.0 |        29 |              |               |
-|  211 | Liam King                 |  15.0 |         6 |              |               |
-|  212 | Kedar Viswanathan         |  15.0 |        16 |              |               |
-|  213 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
-|  214 | Peter Duerr               |  14.9 |        24 |              |               |
-|  215 | Lakshya Rustagi           |  14.8 |         2 |              |               |
-|  216 | Jayanth Kannan            |  14.8 |        20 |              |               |
-|  217 | Angie Ng                  |  14.8 |        12 |              |               |
-|  218 | Nicholas Monsees          |  14.7 |         5 |              |               |
-|  219 | Subrato Dey               |  14.6 |        10 |        +1.42 |               |
-|  220 | Yating Liu                |  14.6 |         7 |              |               |
-|  221 | Josh Trauner              |  14.5 |         7 |        +6.43 |               |
+|  207 | Jeff Gordon               |  15.2 |        13 |        -0.99 |               |
+|  208 | Matthew Brett             |  15.1 |        20 |              |               |
+|  209 | Narayan Sankaran          |  15.1 |        24 |              |               |
+|  210 | Alex Marqusee             |  15.0 |        28 |              |         +2.45 |
+|  211 | Athulan Vijayaraghavan    |  15.0 |        29 |              |               |
+|  212 | Liam King                 |  15.0 |         6 |              |               |
+|  213 | Kedar Viswanathan         |  15.0 |        16 |              |               |
+|  214 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
+|  215 | Peter Duerr               |  14.9 |        24 |              |               |
+|  216 | Lakshya Rustagi           |  14.8 |         2 |              |               |
+|  217 | Jayanth Kannan            |  14.8 |        20 |              |               |
+|  218 | Angie Ng                  |  14.8 |        12 |              |               |
+|  219 | Nicholas Monsees          |  14.7 |         5 |              |               |
+|  220 | Subrato Dey               |  14.6 |        10 |        +1.42 |               |
+|  221 | Yating Liu                |  14.6 |         7 |              |               |
 |  222 | Frederick Bayles          |  14.5 |         8 |              |               |
 |  223 | John Grim                 |  14.4 |        13 |              |               |
 |  224 | David Shabelman           |  14.3 |        30 |              |               |
 |  225 | Sam Trachtman             |  14.3 |         2 |              |               |
 |  226 | Chinghway Lim             |  14.2 |        10 |              |               |
 |  227 | Peter Dering              |  14.1 |         9 |              |               |
-|  228 | Terry Chang               |  14.1 |        29 |        +1.54 |         +3.34 |
+|  228 | Terry Chang               |  14.1 |        29 |        +1.52 |         +3.33 |
 |  229 | Rupert Myers              |  14.0 |        21 |        +0.59 |               |
 |  230 | Greg Adams                |  14.0 |        10 |              |               |
 |  231 | Vipul Singhvi             |  13.9 |         8 |              |               |
@@ -358,11 +358,11 @@ Generated 2016-02-29.
 |  354 | Lucy Fairweather          |   4.9 |        11 |              |               |
 |  355 | Anosha Siripala           |   4.9 |        10 |              |               |
 |  356 | Robert Broesler           |   4.8 |         4 |              |               |
-|  357 | Wayne Heiser              |   4.8 |         6 |        +3.94 |               |
-|  358 | Nikhil Srivastava         |   4.8 |        15 |              |               |
-|  359 | Alexander Zuern           |   4.8 |        25 |              |               |
-|  360 | Anurag Gupta              |   4.7 |         6 |              |               |
-|  361 | Vishnu Narayanan          |   4.7 |        12 |              |               |
+|  357 | Nikhil Srivastava         |   4.8 |        15 |              |               |
+|  358 | Alexander Zuern           |   4.8 |        25 |              |               |
+|  359 | Anurag Gupta              |   4.7 |         6 |              |               |
+|  360 | Vishnu Narayanan          |   4.7 |        12 |              |               |
+|  361 | Wayne Heiser              |   4.5 |         7 |        +3.58 |               |
 |  362 | Greg Sperla               |   4.5 |         8 |              |               |
 |  363 | Mohammad Salama           |   4.2 |         5 |              |               |
 |  364 | Zsolt Bartha              |   4.0 |        37 |        +1.28 |         -2.85 |
@@ -454,7 +454,7 @@ Generated 2016-02-29.
 |  450 | Judah Purcell             |  -1.7 |         1 |              |               |
 |  451 | Emily Moylan              |  -1.7 |        17 |              |               |
 |  452 | Nathaniel Rice            |  -1.8 |         3 |              |               |
-|  453 | Josh Lebowitz             |  -2.0 |         3 |              |               |
+|  453 | Josh Lebowitz             |  -1.9 |         3 |              |               |
 |  454 | Ann Connolly              |  -2.0 |         2 |              |               |
 |  455 | David Zhu                 |  -2.0 |         2 |              |               |
 |  456 | Jenny Cheng               |  -2.2 |         1 |              |               |
