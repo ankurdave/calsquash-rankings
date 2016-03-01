@@ -93,17 +93,17 @@ Generated 2016-03-01.
 |   89 | Lyle Fearnley             |  22.2 |        30 |              |               |
 |   90 | Paul Greene               |  22.1 |         8 |              |               |
 |   91 | Kelvin Wong               |  22.0 |        44 |              |               |
-|   92 | Ethan Kerr                |  22.0 |         4 |              |               |
-|   93 | Philip Bildner            |  22.0 |        22 |              |               |
-|   94 | Harlan Yu                 |  21.9 |        19 |              |               |
-|   95 | Robert Schwartz           |  21.7 |        73 |              |         +2.10 |
-|   96 | Sam McCormick             |  21.7 |        13 |              |               |
-|   97 | Amy Lee                   |  21.6 |        56 |              |               |
-|   98 | Kameshwar Poolla          |  21.6 |        11 |              |               |
-|   99 | Zarah Rahman              |  21.5 |        13 |              |               |
-|  100 | Ronald Dahl               |  21.5 |        46 |        -0.55 |         -0.55 |
-|  101 | Robert Ashmore            |  21.5 |       104 |              |               |
-|  102 | Jared Bard                |  21.4 |        14 |        +0.77 |         +3.85 |
+|   92 | Jared Bard                |  22.0 |        15 |        +1.34 |         +4.41 |
+|   93 | Ethan Kerr                |  22.0 |         4 |              |               |
+|   94 | Philip Bildner            |  22.0 |        22 |              |               |
+|   95 | Harlan Yu                 |  21.9 |        19 |              |               |
+|   96 | Robert Schwartz           |  21.7 |        73 |              |         +2.10 |
+|   97 | Sam McCormick             |  21.7 |        13 |              |               |
+|   98 | Amy Lee                   |  21.6 |        56 |              |               |
+|   99 | Kameshwar Poolla          |  21.6 |        11 |              |               |
+|  100 | Zarah Rahman              |  21.5 |        13 |              |               |
+|  101 | Ronald Dahl               |  21.5 |        46 |        -0.55 |         -0.55 |
+|  102 | Robert Ashmore            |  21.5 |       104 |              |               |
 |  103 | Phin Lee                  |  21.4 |        16 |              |               |
 |  104 | Shaun Lim                 |  21.4 |        27 |        +1.56 |         +1.28 |
 |  105 | Dev Millstein             |  21.3 |        92 |              |               |
@@ -126,8 +126,8 @@ Generated 2016-03-01.
 |  122 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  123 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  124 | Sunil Bhave               |  19.6 |        26 |              |               |
-|  125 | Chris Flores              |  19.5 |       240 |        +0.04 |         -0.65 |
-|  126 | Pierre Darancet           |  19.5 |        94 |              |               |
+|  125 | Pierre Darancet           |  19.5 |        94 |              |               |
+|  126 | Chris Flores              |  19.5 |       241 |        +0.01 |         -0.68 |
 |  127 | Sardar Nauman             |  19.3 |         4 |              |               |
 |  128 | Gabriel Kahn              |  19.3 |         5 |              |        +11.95 |
 |  129 | Niklas Linde              |  19.3 |        23 |              |               |

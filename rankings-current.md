@@ -22,14 +22,14 @@ Generated 2016-03-01.
 |   18 | Jonathan Hankar     |  22.9 |       167 |        -0.23 |               |
 |   19 | Matt Wong           |  22.8 |        48 |        +0.50 |               |
 |   20 | Mike Jensen-Akula   |  22.6 |       202 |        -0.05 |         -0.05 |
-|   21 | Ethan Kerr          |  22.0 |         4 |              |               |
-|   22 | Sam McCormick       |  21.7 |        13 |              |               |
-|   23 | Ronald Dahl         |  21.5 |        46 |        -0.55 |         -0.55 |
-|   24 | Jared Bard          |  21.4 |        14 |        +0.77 |         +3.85 |
+|   21 | Jared Bard          |  22.0 |        15 |        +1.34 |         +4.41 |
+|   22 | Ethan Kerr          |  22.0 |         4 |              |               |
+|   23 | Sam McCormick       |  21.7 |        13 |              |               |
+|   24 | Ronald Dahl         |  21.5 |        46 |        -0.55 |         -0.55 |
 |   25 | Shaun Lim           |  21.4 |        27 |        +1.56 |         +1.28 |
 |   26 | Jonathan Francis    |  20.4 |        50 |        +0.32 |         +2.62 |
 |   27 | Andrew Proudfoot    |  19.8 |        26 |              |               |
-|   28 | Chris Flores        |  19.5 |       240 |        +0.04 |         -0.65 |
+|   28 | Chris Flores        |  19.5 |       241 |        +0.01 |         -0.68 |
 |   29 | Andrew Pritchard    |  18.9 |        16 |        +1.06 |               |
 |   30 | Jacob Kersey        |  18.7 |        10 |        +0.94 |               |
 |   31 | Jaime Perez         |  18.1 |         7 |        +3.91 |               |
