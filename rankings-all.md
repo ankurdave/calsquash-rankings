@@ -80,20 +80,20 @@ Generated 2016-03-01.
 |   76 | Jan Beranek               |  22.9 |        46 |              |               |
 |   77 | Andrew Lawrie             |  22.9 |        40 |        -0.50 |        +20.47 |
 |   78 | Jonathan Hankar           |  22.9 |       167 |        -0.23 |               |
-|   79 | Alex Jermyn               |  22.8 |         3 |              |               |
-|   80 | Prakash Bathini           |  22.8 |       117 |              |         -0.42 |
-|   81 | Matt Wong                 |  22.8 |        48 |        +0.50 |               |
-|   82 | Dante Popple              |  22.7 |        17 |              |               |
-|   83 | Mike Jensen-Akula         |  22.6 |       202 |        -0.05 |         -0.05 |
-|   84 | Adam Angsten              |  22.5 |         3 |              |               |
-|   85 | Richard Chan              |  22.5 |         9 |              |               |
-|   86 | Orion Hodson              |  22.5 |        31 |              |               |
-|   87 | Rahul Gupta               |  22.3 |         7 |              |               |
-|   88 | Peter McDermott           |  22.3 |        10 |              |               |
-|   89 | Lyle Fearnley             |  22.2 |        30 |              |               |
-|   90 | Paul Greene               |  22.1 |         8 |              |               |
-|   91 | Kelvin Wong               |  22.0 |        44 |              |               |
-|   92 | Jared Bard                |  22.0 |        15 |        +1.34 |         +4.41 |
+|   79 | Jared Bard                |  22.9 |        16 |        +2.23 |         +5.31 |
+|   80 | Alex Jermyn               |  22.8 |         3 |              |               |
+|   81 | Prakash Bathini           |  22.8 |       117 |              |         -0.42 |
+|   82 | Matt Wong                 |  22.8 |        48 |        +0.50 |               |
+|   83 | Dante Popple              |  22.7 |        17 |              |               |
+|   84 | Mike Jensen-Akula         |  22.6 |       202 |        -0.05 |         -0.05 |
+|   85 | Adam Angsten              |  22.5 |         3 |              |               |
+|   86 | Richard Chan              |  22.5 |         9 |              |               |
+|   87 | Orion Hodson              |  22.5 |        31 |              |               |
+|   88 | Rahul Gupta               |  22.3 |         7 |              |               |
+|   89 | Peter McDermott           |  22.3 |        10 |              |               |
+|   90 | Lyle Fearnley             |  22.2 |        30 |              |               |
+|   91 | Paul Greene               |  22.1 |         8 |              |               |
+|   92 | Kelvin Wong               |  22.0 |        44 |              |               |
 |   93 | Ethan Kerr                |  22.0 |         4 |              |               |
 |   94 | Philip Bildner            |  22.0 |        22 |              |               |
 |   95 | Harlan Yu                 |  21.9 |        19 |              |               |
@@ -102,14 +102,14 @@ Generated 2016-03-01.
 |   98 | Amy Lee                   |  21.6 |        56 |              |               |
 |   99 | Kameshwar Poolla          |  21.6 |        11 |              |               |
 |  100 | Zarah Rahman              |  21.5 |        13 |              |               |
-|  101 | Ronald Dahl               |  21.5 |        46 |        -0.55 |         -0.55 |
+|  101 | Ronald Dahl               |  21.5 |        46 |        -0.56 |         -0.56 |
 |  102 | Robert Ashmore            |  21.5 |       104 |              |               |
 |  103 | Phin Lee                  |  21.4 |        16 |              |               |
-|  104 | Shaun Lim                 |  21.4 |        27 |        +1.56 |         +1.28 |
-|  105 | Dev Millstein             |  21.3 |        92 |              |               |
-|  106 | Matthew Elliott           |  21.3 |         7 |              |               |
-|  107 | Matthew Zaragoza-Watkins  |  21.2 |        63 |              |               |
-|  108 | Garvin Heath              |  21.2 |        28 |              |               |
+|  104 | Dev Millstein             |  21.3 |        92 |              |               |
+|  105 | Matthew Elliott           |  21.3 |         7 |              |               |
+|  106 | Matthew Zaragoza-Watkins  |  21.2 |        63 |              |               |
+|  107 | Garvin Heath              |  21.2 |        28 |              |               |
+|  108 | Shaun Lim                 |  21.2 |        28 |        +1.40 |         +1.12 |
 |  109 | Joseff Farrell            |  21.2 |         5 |              |               |
 |  110 | Rishabh Kasliwal          |  21.0 |        26 |              |               |
 |  111 | Robert Jeng               |  20.9 |        26 |              |               |

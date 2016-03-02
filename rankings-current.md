@@ -20,13 +20,13 @@ Generated 2016-03-01.
 |   16 | Reid Johnsen        |  23.3 |        11 |        +1.26 |         +7.46 |
 |   17 | Andrew Lawrie       |  22.9 |        40 |        -0.50 |        +20.47 |
 |   18 | Jonathan Hankar     |  22.9 |       167 |        -0.23 |               |
-|   19 | Matt Wong           |  22.8 |        48 |        +0.50 |               |
-|   20 | Mike Jensen-Akula   |  22.6 |       202 |        -0.05 |         -0.05 |
-|   21 | Jared Bard          |  22.0 |        15 |        +1.34 |         +4.41 |
+|   19 | Jared Bard          |  22.9 |        16 |        +2.23 |         +5.31 |
+|   20 | Matt Wong           |  22.8 |        48 |        +0.50 |               |
+|   21 | Mike Jensen-Akula   |  22.6 |       202 |        -0.05 |         -0.05 |
 |   22 | Ethan Kerr          |  22.0 |         4 |              |               |
 |   23 | Sam McCormick       |  21.7 |        13 |              |               |
-|   24 | Ronald Dahl         |  21.5 |        46 |        -0.55 |         -0.55 |
-|   25 | Shaun Lim           |  21.4 |        27 |        +1.56 |         +1.28 |
+|   24 | Ronald Dahl         |  21.5 |        46 |        -0.56 |         -0.56 |
+|   25 | Shaun Lim           |  21.2 |        28 |        +1.40 |         +1.12 |
 |   26 | Jonathan Francis    |  20.4 |        50 |        +0.32 |         +2.62 |
 |   27 | Andrew Proudfoot    |  19.8 |        26 |              |               |
 |   28 | Chris Flores        |  19.5 |       241 |        +0.01 |         -0.68 |
