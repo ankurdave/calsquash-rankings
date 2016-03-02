@@ -190,16 +190,16 @@ Generated 2016-03-01.
 |  186 | Ben Ailes                 |  16.4 |        48 |              |               |
 |  187 | Darren Morgan             |  16.4 |        11 |              |               |
 |  188 | Saurabh Baja              |  16.3 |         4 |              |               |
-|  189 | Anirudh Todi              |  16.1 |         3 |              |               |
-|  190 | Rich Shapiro              |  16.1 |        82 |              |               |
-|  191 | Andrew Green              |  16.0 |        52 |              |               |
-|  192 | Troup Howard              |  16.0 |        34 |              |         +0.35 |
-|  193 | Toni Queck                |  16.0 |        20 |              |               |
-|  194 | Jaime Paterson            |  15.7 |         1 |              |               |
-|  195 | Josh Trauner              |  15.7 |         8 |        +7.61 |               |
-|  196 | Jeff Bird                 |  15.7 |        38 |              |               |
-|  197 | Casey Harelson            |  15.7 |        20 |              |               |
-|  198 | George Roche              |  15.5 |        13 |        +0.20 |         +2.39 |
+|  189 | George Roche              |  16.2 |        14 |        +0.86 |         +3.05 |
+|  190 | Anirudh Todi              |  16.1 |         3 |              |               |
+|  191 | Rich Shapiro              |  16.1 |        82 |              |               |
+|  192 | Andrew Green              |  16.0 |        52 |              |               |
+|  193 | Troup Howard              |  16.0 |        34 |              |         +0.35 |
+|  194 | Toni Queck                |  16.0 |        20 |              |               |
+|  195 | Jaime Paterson            |  15.7 |         1 |              |               |
+|  196 | Josh Trauner              |  15.7 |         8 |        +7.61 |               |
+|  197 | Jeff Bird                 |  15.7 |        38 |              |               |
+|  198 | Casey Harelson            |  15.7 |        20 |              |               |
 |  199 | Nick Paget                |  15.5 |        35 |              |               |
 |  200 | Daniel Schwartz           |  15.4 |         4 |              |               |
 |  201 | Allan Dafoe               |  15.4 |        43 |              |               |
@@ -249,10 +249,10 @@ Generated 2016-03-01.
 |  245 | Steven Hahm               |  13.0 |         5 |              |               |
 |  246 | David Isaksson            |  13.0 |        22 |              |         +7.78 |
 |  247 | Gautam Tankha             |  13.0 |         7 |              |               |
-|  248 | Sushant Jain              |  12.9 |        12 |              |               |
-|  249 | Louis Russell             |  12.9 |        20 |              |         -0.72 |
-|  250 | Akash Sharma              |  12.9 |         8 |              |        +12.59 |
-|  251 | Reto Sutter               |  12.9 |        33 |        +0.43 |         +5.01 |
+|  248 | Reto Sutter               |  13.0 |        35 |        +0.56 |         +5.14 |
+|  249 | Sushant Jain              |  12.9 |        12 |              |               |
+|  250 | Louis Russell             |  12.9 |        20 |              |         -0.72 |
+|  251 | Akash Sharma              |  12.9 |         8 |              |        +12.59 |
 |  252 | Marco Gonzalez-Navarro    |  12.8 |        32 |              |               |
 |  253 | Marghoob Mohiyuddin       |  12.7 |        31 |              |               |
 |  254 | Mekoce Walker             |  12.6 |        38 |              |               |
@@ -358,8 +358,8 @@ Generated 2016-03-01.
 |  354 | Lucy Fairweather          |   4.9 |        11 |              |               |
 |  355 | Anosha Siripala           |   4.9 |        10 |              |               |
 |  356 | Robert Broesler           |   4.8 |         4 |              |               |
-|  357 | Nikhil Srivastava         |   4.8 |        15 |              |               |
-|  358 | Alexander Zuern           |   4.8 |        25 |              |               |
+|  357 | Alexander Zuern           |   4.8 |        25 |              |               |
+|  358 | Nikhil Srivastava         |   4.7 |        16 |        -0.12 |               |
 |  359 | Anurag Gupta              |   4.7 |         6 |              |               |
 |  360 | Vishnu Narayanan          |   4.7 |        12 |              |               |
 |  361 | Wayne Heiser              |   4.5 |         7 |        +3.58 |               |

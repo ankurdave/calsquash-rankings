@@ -35,8 +35,8 @@ Generated 2016-03-01.
 |   31 | Jaime Perez         |  18.1 |         7 |        +3.91 |               |
 |   32 | Kent Daniels        |  16.9 |        66 |        +0.14 |         +3.04 |
 |   33 | Saurabh Baja        |  16.3 |         4 |              |               |
-|   34 | Josh Trauner        |  15.7 |         8 |        +7.61 |               |
-|   35 | George Roche        |  15.5 |        13 |        +0.20 |         +2.39 |
+|   34 | George Roche        |  16.2 |        14 |        +0.86 |         +3.05 |
+|   35 | Josh Trauner        |  15.7 |         8 |        +7.61 |               |
 |   36 | Daniel Schwartz     |  15.4 |         4 |              |               |
 |   37 | Jeff Gordon         |  15.2 |        13 |        -0.99 |               |
 |   38 | Subrato Dey         |  14.6 |        10 |        +1.42 |               |
@@ -44,14 +44,14 @@ Generated 2016-03-01.
 |   40 | Terry Chang         |  14.1 |        29 |        +1.52 |         +3.33 |
 |   41 | Rupert Myers        |  14.0 |        21 |        +0.59 |               |
 |   42 | Eric Borden         |  13.4 |        13 |        +1.68 |               |
-|   43 | Reto Sutter         |  12.9 |        33 |        +0.43 |         +5.01 |
+|   43 | Reto Sutter         |  13.0 |        35 |        +0.56 |         +5.14 |
 |   44 | Myles Gordon        |  10.3 |        40 |        -0.10 |         +2.80 |
 |   45 | Anthony Patterson   |  10.1 |         6 |              |               |
 |   46 | Duo Wang            |   9.8 |        49 |              |         +5.28 |
 |   47 | Ankur Dave          |   9.6 |        24 |        -0.14 |               |
 |   48 | Gene Zubovich       |   9.3 |        19 |        -0.18 |               |
 |   49 | Nikhil Paranjape    |   7.3 |         8 |        -0.34 |               |
-|   50 | Nikhil Srivastava   |   4.8 |        15 |              |               |
+|   50 | Nikhil Srivastava   |   4.7 |        16 |        -0.12 |               |
 |   51 | Wayne Heiser        |   4.5 |         7 |        +3.58 |               |
 |   52 | Zsolt Bartha        |   4.0 |        37 |        +1.28 |         -2.85 |
 |   53 | Sandra Harpster     |   3.6 |         2 |              |               |
