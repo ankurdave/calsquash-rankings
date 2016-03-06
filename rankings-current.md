@@ -43,18 +43,19 @@ Generated 2016-03-05.
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.97 |
 |   40 | Myles Gordon        |  10.3 |        40 |              |         +2.80 |
 |   41 | Anthony Patterson   |  10.1 |         6 |              |               |
-|   42 | Ankur Dave          |   9.6 |        24 |              |               |
-|   43 | Gene Zubovich       |   9.3 |        19 |              |         +3.38 |
-|   44 | Nikhil Paranjape    |   7.3 |         8 |              |               |
-|   45 | Nikhil Srivastava   |   4.7 |        16 |              |               |
-|   46 | Wayne Heiser        |   4.5 |         7 |              |               |
-|   47 | Zsolt Bartha        |   4.0 |        37 |              |         -1.71 |
-|   48 | Sandra Harpster     |   3.6 |         2 |              |               |
-|   49 | Matan Sela          |   1.0 |         1 |              |               |
-|   50 | Keaton Noon         |   0.1 |         7 |              |               |
-|   51 | Alok Singh          |  -0.0 |         4 |              |               |
-|   52 | Nate Aden           |  -0.8 |         1 |              |               |
-|   53 | Josh Lebowitz       |  -1.9 |         3 |              |               |
-|   54 | Marco Eres          |  -3.6 |         2 |              |               |
-|   55 | Nick Firmani        |  -3.9 |         3 |              |               |
-|   56 | Padma Maitland      |  -4.7 |         2 |              |               |
+|   42 | Duo Wang            |   9.8 |        49 |              |         +3.55 |
+|   43 | Ankur Dave          |   9.6 |        24 |              |               |
+|   44 | Gene Zubovich       |   9.3 |        19 |              |         +3.38 |
+|   45 | Nikhil Paranjape    |   7.3 |         8 |              |               |
+|   46 | Nikhil Srivastava   |   4.7 |        16 |              |               |
+|   47 | Wayne Heiser        |   4.5 |         7 |              |               |
+|   48 | Zsolt Bartha        |   4.0 |        37 |              |         -1.71 |
+|   49 | Sandra Harpster     |   3.6 |         2 |              |               |
+|   50 | Matan Sela          |   1.0 |         1 |              |               |
+|   51 | Keaton Noon         |   0.1 |         7 |              |               |
+|   52 | Alok Singh          |  -0.0 |         4 |              |               |
+|   53 | Nate Aden           |  -0.8 |         1 |              |               |
+|   54 | Josh Lebowitz       |  -1.9 |         3 |              |               |
+|   55 | Marco Eres          |  -3.6 |         2 |              |               |
+|   56 | Nick Firmani        |  -3.9 |         3 |              |               |
+|   57 | Padma Maitland      |  -4.7 |         2 |              |               |
