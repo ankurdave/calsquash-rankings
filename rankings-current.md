@@ -15,8 +15,8 @@ Generated 2016-03-07.
 |   11 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
 |   12 | Benjamin Vicuna     |  23.4 |        44 |              |         +7.50 |
 |   13 | Reid Johnsen        |  23.3 |        11 |              |         +7.48 |
-|   14 | Jonathan Hankar     |  23.0 |       167 |              |         -0.23 |
-|   15 | Andrew Lawrie       |  23.0 |        40 |              |        +19.95 |
+|   14 | Andrew Lawrie       |  23.3 |        41 |        +0.28 |        +20.23 |
+|   15 | Jonathan Hankar     |  23.0 |       167 |              |         -0.23 |
 |   16 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
 |   17 | Matt Wong           |  22.8 |        48 |              |               |
 |   18 | Mike Jensen-Akula   |  22.7 |       202 |              |         -0.06 |
@@ -28,7 +28,7 @@ Generated 2016-03-07.
 |   24 | Chris Flores        |  19.7 |       284 |              |         -0.72 |
 |   25 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   26 | Jacob Kersey        |  18.8 |        10 |              |               |
-|   27 | Jaime Perez         |  18.1 |         7 |              |               |
+|   27 | Jaime Perez         |  17.5 |         8 |        -0.62 |               |
 |   28 | Kent Daniels        |  16.9 |        66 |              |         +2.58 |
 |   29 | Saurabh Bajaj       |  16.3 |         4 |              |               |
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |

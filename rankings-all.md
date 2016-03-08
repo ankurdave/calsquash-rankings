@@ -72,14 +72,14 @@ Generated 2016-03-07.
 |   68 | Andrew Hsu                |  23.4 |        15 |              |               |
 |   69 | Benjamin Vicuna           |  23.4 |        44 |              |         +7.50 |
 |   70 | Reid Johnsen              |  23.3 |        11 |              |         +7.48 |
-|   71 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   72 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   73 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   74 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   75 | Jan Beranek               |  23.1 |        46 |              |               |
-|   76 | Gary Golding              |  23.1 |         6 |              |               |
-|   77 | Jonathan Hankar           |  23.0 |       167 |              |         -0.23 |
-|   78 | Andrew Lawrie             |  23.0 |        40 |              |        +19.95 |
+|   71 | Andrew Lawrie             |  23.3 |        41 |        +0.28 |        +20.23 |
+|   72 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   73 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   74 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   75 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   76 | Jan Beranek               |  23.1 |        46 |              |               |
+|   77 | Gary Golding              |  23.1 |         6 |              |               |
+|   78 | Jonathan Hankar           |  23.0 |       167 |              |         -0.23 |
 |   79 | Jared Bard                |  23.0 |        16 |              |         +5.31 |
 |   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.43 |
 |   81 | Alex Jermyn               |  22.9 |         3 |              |               |
@@ -150,19 +150,19 @@ Generated 2016-03-07.
 |  146 | Javed Ahmed               |  18.2 |        58 |              |               |
 |  147 | Andres Ramirez            |  18.2 |         8 |              |               |
 |  148 | Jaime Vidal               |  18.2 |         8 |              |               |
-|  149 | Jaime Perez               |  18.1 |         7 |              |               |
-|  150 | Geoffrey Barrows          |  18.1 |        14 |              |               |
-|  151 | Jamie Funk                |  18.1 |        30 |              |               |
-|  152 | Lucas Cheon               |  18.1 |        19 |              |               |
-|  153 | Himanshu Jatia            |  18.1 |         4 |              |               |
-|  154 | Anubhav Gupta             |  18.0 |         8 |              |               |
-|  155 | Kenny Bell                |  18.0 |        97 |              |         +1.12 |
-|  156 | Andres Rodriguez          |  18.0 |        55 |              |         +0.84 |
-|  157 | Robert Geiger             |  17.8 |         8 |              |               |
-|  158 | Jim Evans                 |  17.8 |       216 |              |               |
-|  159 | Hari Dhavala              |  17.7 |        27 |              |               |
-|  160 | Britta Gardner            |  17.7 |        16 |              |               |
-|  161 | Thomas Scanlon            |  17.6 |        20 |              |               |
+|  149 | Geoffrey Barrows          |  18.1 |        14 |              |               |
+|  150 | Jamie Funk                |  18.1 |        30 |              |               |
+|  151 | Lucas Cheon               |  18.1 |        19 |              |               |
+|  152 | Himanshu Jatia            |  18.1 |         4 |              |               |
+|  153 | Anubhav Gupta             |  18.0 |         8 |              |               |
+|  154 | Kenny Bell                |  18.0 |        97 |              |         +1.12 |
+|  155 | Andres Rodriguez          |  18.0 |        55 |              |         +0.84 |
+|  156 | Robert Geiger             |  17.8 |         8 |              |               |
+|  157 | Jim Evans                 |  17.8 |       216 |              |               |
+|  158 | Hari Dhavala              |  17.7 |        27 |              |               |
+|  159 | Britta Gardner            |  17.7 |        16 |              |               |
+|  160 | Thomas Scanlon            |  17.6 |        20 |              |               |
+|  161 | Jaime Perez               |  17.5 |         8 |        -0.62 |               |
 |  162 | Neil Conway               |  17.5 |        55 |              |               |
 |  163 | Frank Kennan              |  17.5 |        11 |              |               |
 |  164 | Adam Jacob                |  17.4 |         3 |              |               |
