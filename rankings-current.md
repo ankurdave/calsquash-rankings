@@ -43,8 +43,8 @@ Generated 2016-03-07.
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
 |   40 | Myles Gordon        |  10.3 |        40 |              |         +2.80 |
 |   41 | Anthony Patterson   |  10.2 |         6 |              |               |
-|   42 | Duo Wang            |   9.8 |        49 |              |         +3.55 |
-|   43 | Ankur Dave          |   9.6 |        24 |              |               |
+|   42 | Ankur Dave          |  10.1 |        25 |        +0.51 |               |
+|   43 | Duo Wang            |   9.6 |        50 |        -0.16 |         +3.38 |
 |   44 | Gene Zubovich       |   9.4 |        19 |              |         +3.39 |
 |   45 | Nikhil Paranjape    |   7.3 |         8 |              |               |
 |   46 | Nikhil Srivastava   |   4.8 |        16 |              |               |

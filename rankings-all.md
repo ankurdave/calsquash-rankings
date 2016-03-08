@@ -283,16 +283,16 @@ Generated 2016-03-07.
 |  279 | Lewis Moore               |  10.3 |        69 |              |               |
 |  280 | Paul Chang                |  10.3 |         7 |              |               |
 |  281 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  282 | Shridhar Mubaraq Mishra   |  10.1 |        13 |              |               |
-|  283 | Neil Sachs                |   9.9 |        12 |              |               |
-|  284 | Zaid Shlah                |   9.8 |         8 |              |               |
-|  285 | Zach Brown                |   9.8 |         3 |              |               |
-|  286 | Allie Giovanelli          |   9.8 |         4 |              |               |
-|  287 | Duo Wang                  |   9.8 |        49 |              |         +3.55 |
+|  282 | Ankur Dave                |  10.1 |        25 |        +0.51 |               |
+|  283 | Shridhar Mubaraq Mishra   |  10.1 |        13 |              |               |
+|  284 | Neil Sachs                |   9.9 |        12 |              |               |
+|  285 | Zaid Shlah                |   9.8 |         8 |              |               |
+|  286 | Zach Brown                |   9.8 |         3 |              |               |
+|  287 | Allie Giovanelli          |   9.8 |         4 |              |               |
 |  288 | Jared Nunn                |   9.7 |         5 |              |               |
 |  289 | Alexander Porcaro         |   9.7 |         2 |              |               |
-|  290 | Lars Foleide              |   9.6 |        11 |              |               |
-|  291 | Ankur Dave                |   9.6 |        24 |              |               |
+|  290 | Duo Wang                  |   9.6 |        50 |        -0.16 |         +3.38 |
+|  291 | Lars Foleide              |   9.6 |        11 |              |               |
 |  292 | Gurj Johal                |   9.5 |         2 |              |               |
 |  293 | Jake Toy                  |   9.5 |         5 |              |               |
 |  294 | Kevin Fox                 |   9.5 |         7 |              |               |
