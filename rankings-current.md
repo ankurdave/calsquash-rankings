@@ -51,11 +51,12 @@ Generated 2016-03-08.
 |   47 | Wayne Heiser        |   4.5 |         7 |              |               |
 |   48 | Zsolt Bartha        |   4.0 |        37 |              |         -1.72 |
 |   49 | Sandra Harpster     |   3.6 |         2 |              |               |
-|   50 | Matan Sela          |   1.0 |         1 |              |               |
-|   51 | Keaton Noon         |   0.1 |         7 |              |               |
-|   52 | Alok Singh          |   0.0 |         4 |              |               |
-|   53 | Nate Aden           |  -0.8 |         1 |              |               |
-|   54 | Josh Lebowitz       |  -1.8 |         3 |              |               |
-|   55 | Marco Eres          |  -3.6 |         2 |              |               |
-|   56 | Nick Firmani        |  -3.9 |         3 |              |               |
-|   57 | Padma Maitland      |  -4.7 |         2 |              |               |
+|   50 | Raphael Magarik     |   3.3 |         1 |              |               |
+|   51 | Matan Sela          |   1.0 |         1 |              |               |
+|   52 | Keaton Noon         |   0.1 |         7 |              |               |
+|   53 | Alok Singh          |   0.0 |         4 |              |               |
+|   54 | Nate Aden           |  -0.8 |         1 |              |               |
+|   55 | Josh Lebowitz       |  -1.8 |         3 |              |               |
+|   56 | Marco Eres          |  -3.6 |         2 |              |               |
+|   57 | Nick Firmani        |  -3.9 |         3 |              |               |
+|   58 | Padma Maitland      |  -4.7 |         3 |              |               |
