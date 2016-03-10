@@ -67,16 +67,16 @@ Generated 2016-03-09.
 |   63 | Sean O'Nuallain           |  23.8 |        43 |              |               |
 |   64 | Martin Stokes             |  23.8 |        12 |              |               |
 |   65 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   66 | Thomas Krussig            |  23.5 |        16 |              |         +2.93 |
-|   67 | Joe Farrell               |  23.4 |        30 |              |               |
-|   68 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   69 | Benjamin Vicuna           |  23.4 |        44 |              |         +7.50 |
+|   66 | Benjamin Vicuna           |  23.6 |        45 |        +0.28 |         +7.78 |
+|   67 | Thomas Krussig            |  23.5 |        16 |              |         +2.93 |
+|   68 | Joe Farrell               |  23.4 |        30 |              |               |
+|   69 | Andrew Hsu                |  23.4 |        15 |              |               |
 |   70 | Reid Johnsen              |  23.3 |        11 |              |         +7.48 |
-|   71 | Andrew Lawrie             |  23.3 |        41 |        +0.28 |        +20.23 |
-|   72 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   73 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   74 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   75 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   71 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   72 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   73 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   74 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   75 | Andrew Lawrie             |  23.1 |        42 |        +0.10 |        +20.05 |
 |   76 | Jan Beranek               |  23.1 |        46 |              |               |
 |   77 | Gary Golding              |  23.1 |         6 |              |               |
 |   78 | Jonathan Hankar           |  23.0 |       167 |              |         -0.23 |
