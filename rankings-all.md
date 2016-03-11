@@ -79,8 +79,8 @@ Generated 2016-03-10.
 |   75 | Andrew Lawrie             |  23.1 |        42 |        +0.10 |        +20.05 |
 |   76 | Jan Beranek               |  23.1 |        46 |              |               |
 |   77 | Gary Golding              |  23.1 |         6 |              |               |
-|   78 | Jonathan Hankar           |  23.0 |       167 |              |         -0.23 |
-|   79 | Jared Bard                |  23.0 |        16 |              |         +5.31 |
+|   78 | Jared Bard                |  23.0 |        16 |              |         +5.31 |
+|   79 | Jonathan Hankar           |  23.0 |       168 |        -0.07 |         -0.31 |
 |   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.43 |
 |   81 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   82 | Matt Wong                 |  22.8 |        48 |              |               |
@@ -121,24 +121,24 @@ Generated 2016-03-10.
 |  117 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  118 | Jonathan Francis          |  20.4 |        50 |              |         +1.85 |
 |  119 | Dror Matalon              |  20.3 |       334 |              |         -0.92 |
-|  120 | Andrew Proudfoot          |  19.8 |        26 |              |               |
-|  121 | Whit Eldredge             |  19.7 |         2 |              |               |
-|  122 | Chris Flores              |  19.7 |       284 |              |         -0.72 |
-|  123 | Christian Fuentes         |  19.7 |         8 |              |               |
-|  124 | Pierre Darancet           |  19.6 |        94 |              |               |
-|  125 | Sunil Bhave               |  19.6 |        26 |              |               |
-|  126 | Sardar Nauman             |  19.5 |         4 |              |               |
-|  127 | Gabriel Kahn              |  19.4 |         5 |              |        +11.97 |
-|  128 | Niklas Linde              |  19.3 |        23 |              |               |
-|  129 | Tim Bruckner              |  19.2 |        10 |              |               |
-|  130 | Ariel Grostern            |  19.2 |        94 |              |               |
-|  131 | Julian Marshall           |  19.1 |        31 |              |               |
-|  132 | Allic Sivaramakrishnan    |  19.1 |        22 |              |               |
-|  133 | John Eng                  |  19.0 |        28 |              |               |
-|  134 | Andrew Pritchard          |  18.9 |        16 |              |               |
-|  135 | Bhuvan Jain               |  18.9 |        18 |              |               |
-|  136 | Jeff Diamond              |  18.8 |        44 |              |               |
-|  137 | Jacob Kersey              |  18.8 |        10 |              |               |
+|  120 | Jacob Kersey              |  20.1 |        11 |        +1.26 |               |
+|  121 | Andrew Proudfoot          |  19.8 |        26 |              |               |
+|  122 | Whit Eldredge             |  19.7 |         2 |              |               |
+|  123 | Chris Flores              |  19.7 |       284 |              |         -0.72 |
+|  124 | Christian Fuentes         |  19.7 |         8 |              |               |
+|  125 | Pierre Darancet           |  19.6 |        94 |              |               |
+|  126 | Sunil Bhave               |  19.6 |        26 |              |               |
+|  127 | Sardar Nauman             |  19.5 |         4 |              |               |
+|  128 | Gabriel Kahn              |  19.4 |         5 |              |        +11.97 |
+|  129 | Niklas Linde              |  19.3 |        23 |              |               |
+|  130 | Tim Bruckner              |  19.2 |        10 |              |               |
+|  131 | Ariel Grostern            |  19.2 |        94 |              |               |
+|  132 | Julian Marshall           |  19.1 |        31 |              |               |
+|  133 | Allic Sivaramakrishnan    |  19.1 |        22 |              |               |
+|  134 | John Eng                  |  19.0 |        28 |              |               |
+|  135 | Andrew Pritchard          |  18.9 |        16 |              |               |
+|  136 | Bhuvan Jain               |  18.9 |        18 |              |               |
+|  137 | Jeff Diamond              |  18.8 |        44 |              |               |
 |  138 | Blake Woodard             |  18.7 |        10 |              |               |
 |  139 | Madhav Pai                |  18.7 |         5 |              |               |
 |  140 | John Corcoran             |  18.7 |        49 |              |               |

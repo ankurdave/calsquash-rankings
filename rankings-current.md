@@ -16,8 +16,8 @@ Generated 2016-03-10.
 |   12 | Benjamin Vicuna     |  23.6 |        45 |        +0.28 |         +7.78 |
 |   13 | Reid Johnsen        |  23.3 |        11 |              |         +7.48 |
 |   14 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.05 |
-|   15 | Jonathan Hankar     |  23.0 |       167 |              |         -0.23 |
-|   16 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
+|   15 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
+|   16 | Jonathan Hankar     |  23.0 |       168 |        -0.07 |         -0.31 |
 |   17 | Matt Wong           |  22.8 |        48 |              |               |
 |   18 | Mike Jensen-Akula   |  22.7 |       202 |              |         -0.06 |
 |   19 | Ethan Kerr          |  22.1 |         4 |              |               |
@@ -25,9 +25,9 @@ Generated 2016-03-10.
 |   21 | Shaun Lim           |  21.3 |        28 |              |         +1.13 |
 |   22 | Jonathan Francis    |  20.4 |        50 |              |         +1.85 |
 |   23 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
-|   24 | Chris Flores        |  19.7 |       284 |              |         -0.72 |
-|   25 | Andrew Pritchard    |  18.9 |        16 |              |               |
-|   26 | Jacob Kersey        |  18.8 |        10 |              |               |
+|   24 | Jacob Kersey        |  20.1 |        11 |        +1.26 |               |
+|   25 | Chris Flores        |  19.7 |       284 |              |         -0.72 |
+|   26 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   27 | Jaime Perez         |  17.5 |         8 |        -0.62 |               |
 |   28 | Kent Daniels        |  16.9 |        66 |              |         +2.58 |
 |   29 | Saurabh Bajaj       |  16.3 |         4 |              |               |
