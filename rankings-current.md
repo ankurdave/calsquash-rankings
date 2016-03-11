@@ -7,8 +7,8 @@ Generated 2016-03-10.
 |    3 | Jim Veitch          |  29.4 |       399 |              |         +0.15 |
 |    4 | Frank Kennamer      |  28.8 |       191 |              |         +0.37 |
 |    5 | John Kunze          |  28.5 |       283 |              |         -0.26 |
-|    6 | Glenn Forrester     |  27.0 |       352 |              |         +0.17 |
-|    7 | Arvind Muralimohan  |  26.0 |        12 |              |               |
+|    6 | Glenn Forrester     |  27.0 |       353 |        -0.04 |         +0.13 |
+|    7 | Arvind Muralimohan  |  26.8 |        13 |        +0.86 |               |
 |    8 | Nick Cobbett        |  24.7 |        11 |              |               |
 |    9 | Dan Meier           |  24.5 |        32 |              |         +7.47 |
 |   10 | Mark Modera         |  24.4 |       289 |              |         -1.16 |

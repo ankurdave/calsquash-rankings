@@ -37,15 +37,15 @@ Generated 2016-03-10.
 |   33 | Vishi                     |  27.8 |        37 |              |         +4.14 |
 |   34 | Heba Nossier              |  27.6 |        14 |              |         +7.03 |
 |   35 | Hussain Raza              |  27.3 |        50 |              |               |
-|   36 | Glenn Forrester           |  27.0 |       352 |              |         +0.17 |
-|   37 | Stephen Dang              |  26.8 |        34 |              |               |
-|   38 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
-|   39 | Ignacio Canals            |  26.7 |        21 |              |               |
-|   40 | Nauman Sardar             |  26.6 |        40 |              |               |
-|   41 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
-|   42 | Ali Rahim                 |  26.2 |        24 |              |               |
-|   43 | Amos Vernon               |  26.0 |        30 |              |               |
-|   44 | Arvind Muralimohan        |  26.0 |        12 |              |               |
+|   36 | Glenn Forrester           |  27.0 |       353 |        -0.04 |         +0.13 |
+|   37 | Arvind Muralimohan        |  26.8 |        13 |        +0.86 |               |
+|   38 | Stephen Dang              |  26.8 |        34 |              |               |
+|   39 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
+|   40 | Ignacio Canals            |  26.7 |        21 |              |               |
+|   41 | Nauman Sardar             |  26.6 |        40 |              |               |
+|   42 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
+|   43 | Ali Rahim                 |  26.2 |        24 |              |               |
+|   44 | Amos Vernon               |  26.0 |        30 |              |               |
 |   45 | Ben Seelig                |  25.8 |        69 |              |               |
 |   46 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   47 | Mikael Rehn               |  25.4 |         5 |              |               |
