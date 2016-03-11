@@ -59,19 +59,19 @@ Generated 2016-03-11.
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
 |   56 | Toby Reiner               |  24.2 |       159 |              |               |
 |   57 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   58 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
-|   59 | Jon Shih                  |  24.0 |        47 |              |               |
-|   60 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   61 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   62 | Matt Waid                 |  23.8 |        51 |              |               |
-|   63 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   64 | Martin Stokes             |  23.8 |        12 |              |               |
-|   65 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   66 | Benjamin Vicuna           |  23.6 |        45 |        +0.28 |         +7.78 |
-|   67 | Thomas Krussig            |  23.5 |        16 |              |         +2.93 |
-|   68 | Joe Farrell               |  23.4 |        30 |              |               |
-|   69 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   70 | Reid Johnsen              |  23.3 |        11 |              |         +7.48 |
+|   58 | Reid Johnsen              |  24.1 |        12 |        +0.83 |         +8.31 |
+|   59 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
+|   60 | Jon Shih                  |  24.0 |        47 |              |               |
+|   61 | Daniel Greengard          |  23.9 |        37 |              |               |
+|   62 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   63 | Matt Waid                 |  23.8 |        51 |              |               |
+|   64 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   65 | Martin Stokes             |  23.8 |        12 |              |               |
+|   66 | Todd Wirsching            |  23.7 |         8 |              |               |
+|   67 | Benjamin Vicuna           |  23.6 |        45 |        +0.28 |         +7.78 |
+|   68 | Thomas Krussig            |  23.5 |        16 |              |         +2.93 |
+|   69 | Joe Farrell               |  23.4 |        30 |              |               |
+|   70 | Andrew Hsu                |  23.4 |        15 |              |               |
 |   71 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   72 | Sushil Shetty             |  23.3 |        23 |              |               |
 |   73 | Sonesh Surana             |  23.2 |        95 |              |               |
@@ -195,7 +195,7 @@ Generated 2016-03-11.
 |  191 | Troup Howard              |  16.1 |        34 |              |         -0.29 |
 |  192 | Andrew Green              |  16.1 |        52 |              |               |
 |  193 | Toni Queck                |  16.0 |        20 |              |               |
-|  194 | Josh Trauner              |  15.8 |         8 |              |               |
+|  194 | Josh Trauner              |  15.8 |         9 |        -0.03 |               |
 |  195 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  196 | Jeff Bird                 |  15.7 |        38 |              |               |
 |  197 | Casey Harelson            |  15.7 |        20 |              |               |

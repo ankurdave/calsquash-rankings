@@ -12,9 +12,9 @@ Generated 2016-03-11.
 |    8 | Nick Cobbett        |  24.7 |        11 |              |               |
 |    9 | Dan Meier           |  24.5 |        32 |              |         +7.47 |
 |   10 | Mark Modera         |  24.4 |       289 |              |         -1.16 |
-|   11 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
-|   12 | Benjamin Vicuna     |  23.6 |        45 |        +0.28 |         +7.78 |
-|   13 | Reid Johnsen        |  23.3 |        11 |              |         +7.48 |
+|   11 | Reid Johnsen        |  24.1 |        12 |        +0.83 |         +8.31 |
+|   12 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
+|   13 | Benjamin Vicuna     |  23.6 |        45 |        +0.28 |         +7.78 |
 |   14 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.05 |
 |   15 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
 |   16 | Jonathan Hankar     |  23.0 |       168 |        -0.07 |         -0.31 |
@@ -32,7 +32,7 @@ Generated 2016-03-11.
 |   28 | Kent Daniels        |  16.9 |        66 |              |         +2.58 |
 |   29 | Saurabh Bajaj       |  16.3 |         4 |              |               |
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |
-|   31 | Josh Trauner        |  15.8 |         8 |              |               |
+|   31 | Josh Trauner        |  15.8 |         9 |        -0.03 |               |
 |   32 | Daniel Schwartz     |  15.5 |         4 |              |               |
 |   33 | Jeff Gordon         |  15.2 |        13 |              |               |
 |   34 | Subrato Dey         |  14.7 |        10 |              |               |
