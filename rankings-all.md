@@ -36,9 +36,9 @@ Generated 2016-03-11.
 |   32 | Andrew Moylan             |  27.8 |        95 |              |               |
 |   33 | Vishi                     |  27.8 |        37 |              |         +4.14 |
 |   34 | Heba Nossier              |  27.6 |        14 |              |         +7.03 |
-|   35 | Hussain Raza              |  27.3 |        50 |              |               |
-|   36 | Glenn Forrester           |  27.0 |       353 |        -0.04 |         +0.13 |
-|   37 | Arvind Muralimohan        |  26.8 |        13 |        +0.86 |               |
+|   35 | Arvind Muralimohan        |  27.3 |        14 |        +1.32 |               |
+|   36 | Hussain Raza              |  27.3 |        50 |              |               |
+|   37 | Glenn Forrester           |  27.0 |       353 |        -0.04 |         +0.13 |
 |   38 | Stephen Dang              |  26.8 |        34 |              |               |
 |   39 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
 |   40 | Ignacio Canals            |  26.7 |        21 |              |               |
@@ -83,8 +83,8 @@ Generated 2016-03-11.
 |   79 | Jonathan Hankar           |  23.0 |       168 |        -0.07 |         -0.31 |
 |   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.43 |
 |   81 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   82 | Matt Wong                 |  22.8 |        48 |              |               |
-|   83 | Dante Popple              |  22.8 |        17 |              |               |
+|   82 | Dante Popple              |  22.8 |        17 |              |               |
+|   83 | Matt Wong                 |  22.8 |        49 |        -0.04 |               |
 |   84 | Mike Jensen-Akula         |  22.7 |       202 |              |         -0.06 |
 |   85 | Adam Angsten              |  22.5 |         3 |              |               |
 |   86 | Richard Chan              |  22.5 |         9 |              |               |
