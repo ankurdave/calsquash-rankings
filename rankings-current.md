@@ -32,8 +32,8 @@ Generated 2016-03-11.
 |   28 | Kent Daniels        |  16.9 |        66 |              |         +2.58 |
 |   29 | Saurabh Bajaj       |  16.3 |         4 |              |               |
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |
-|   31 | Josh Trauner        |  15.8 |         9 |        -0.03 |               |
-|   32 | Daniel Schwartz     |  15.5 |         4 |              |               |
+|   31 | Daniel Schwartz     |  15.8 |         5 |        +0.37 |               |
+|   32 | Josh Trauner        |  15.8 |         9 |        -0.03 |               |
 |   33 | Jeff Gordon         |  15.2 |        13 |              |               |
 |   34 | Subrato Dey         |  14.7 |        10 |              |               |
 |   35 | Sam Trachtman       |  14.3 |         2 |              |               |
@@ -54,7 +54,7 @@ Generated 2016-03-11.
 |   50 | Raphael Magarik     |   3.3 |         1 |              |               |
 |   51 | Matan Sela          |   1.0 |         1 |              |               |
 |   52 | Keaton Noon         |   0.1 |         7 |              |               |
-|   53 | Alok Singh          |   0.0 |         4 |              |               |
+|   53 | Alok Singh          |   0.0 |         5 |        +0.02 |               |
 |   54 | Nate Aden           |  -0.8 |         1 |              |               |
 |   55 | Josh Lebowitz       |  -1.8 |         3 |              |               |
 |   56 | Marco Eres          |  -3.6 |         2 |              |               |

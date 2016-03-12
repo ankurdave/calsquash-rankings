@@ -195,13 +195,13 @@ Generated 2016-03-11.
 |  191 | Troup Howard              |  16.1 |        34 |              |         -0.29 |
 |  192 | Andrew Green              |  16.1 |        52 |              |               |
 |  193 | Toni Queck                |  16.0 |        20 |              |               |
-|  194 | Josh Trauner              |  15.8 |         9 |        -0.03 |               |
-|  195 | Jaime Paterson            |  15.7 |         1 |              |               |
-|  196 | Jeff Bird                 |  15.7 |        38 |              |               |
-|  197 | Casey Harelson            |  15.7 |        20 |              |               |
-|  198 | Nick Paget                |  15.6 |        35 |              |               |
-|  199 | Allan Dafoe               |  15.5 |        43 |              |               |
-|  200 | Daniel Schwartz           |  15.5 |         4 |              |               |
+|  194 | Daniel Schwartz           |  15.8 |         5 |        +0.37 |               |
+|  195 | Josh Trauner              |  15.8 |         9 |        -0.03 |               |
+|  196 | Jaime Paterson            |  15.7 |         1 |              |               |
+|  197 | Jeff Bird                 |  15.7 |        38 |              |               |
+|  198 | Casey Harelson            |  15.7 |        20 |              |               |
+|  199 | Nick Paget                |  15.6 |        35 |              |               |
+|  200 | Allan Dafoe               |  15.5 |        43 |              |               |
 |  201 | David Bratt               |  15.4 |        16 |              |         +3.54 |
 |  202 | Doug Kreutzer             |  15.3 |        10 |              |               |
 |  203 | Jeff Gordon               |  15.2 |        13 |              |               |
@@ -419,10 +419,10 @@ Generated 2016-03-11.
 |  415 | Michael Mann              |   0.1 |         4 |              |               |
 |  416 | Tammy J Faridi            |   0.1 |        27 |              |               |
 |  417 | Pablo Paredes             |   0.0 |         1 |              |               |
-|  418 | Markus Boese              |   0.0 |         1 |              |               |
-|  419 | Wyss Roman                |   0.0 |         2 |              |               |
-|  420 | Milind Sanghavi           |   0.0 |         1 |              |               |
-|  421 | Alok Singh                |   0.0 |         4 |              |               |
+|  418 | Alok Singh                |   0.0 |         5 |        +0.02 |               |
+|  419 | Markus Boese              |   0.0 |         1 |              |               |
+|  420 | Wyss Roman                |   0.0 |         2 |              |               |
+|  421 | Milind Sanghavi           |   0.0 |         1 |              |               |
 |  422 | Jane Pan                  |  -0.0 |         1 |              |               |
 |  423 | Ashley Mercer             |  -0.1 |         5 |              |               |
 |  424 | Jeremy Brown              |  -0.1 |         4 |              |               |
