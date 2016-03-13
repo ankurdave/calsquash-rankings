@@ -22,14 +22,14 @@ Generated 2016-03-13.
 |   18 | Ethan Kerr          |  22.1 |         4 |              |               |
 |   19 | Reid Johnsen        |  21.9 |        13 |        -1.38 |         +6.10 |
 |   20 | Ronald Dahl         |  21.6 |        46 |              |         -0.55 |
-|   21 | Shaun Lim           |  21.3 |        28 |              |         +1.13 |
+|   21 | Shaun Lim           |  21.2 |        29 |        -0.12 |         +1.00 |
 |   22 | Jonathan Francis    |  20.4 |        50 |              |         +1.85 |
 |   23 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
-|   24 | Jacob Kersey        |  20.1 |        11 |        +1.26 |               |
-|   25 | Chris Flores        |  19.7 |       284 |              |         -0.72 |
-|   26 | Andrew Pritchard    |  18.9 |        16 |              |               |
-|   27 | Jaime Perez         |  17.5 |         8 |        -0.62 |               |
-|   28 | Saurabh Bajaj       |  17.1 |         5 |        +0.73 |               |
+|   24 | Saurabh Bajaj       |  20.2 |         7 |        +3.89 |               |
+|   25 | Jacob Kersey        |  20.1 |        11 |        +1.26 |               |
+|   26 | Chris Flores        |  19.7 |       284 |              |         -0.72 |
+|   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
+|   28 | Jaime Perez         |  17.5 |         8 |        -0.62 |               |
 |   29 | Kent Daniels        |  16.9 |        66 |              |         +2.58 |
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |
 |   31 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
@@ -58,7 +58,7 @@ Generated 2016-03-13.
 |   54 | Keaton Noon         |   0.1 |         7 |              |               |
 |   55 | Alok Singh          |   0.0 |         5 |        +0.02 |               |
 |   56 | Nate Aden           |  -0.8 |         1 |              |               |
-|   57 | Shantanu Mittal     |  -3.4 |         1 |              |               |
+|   57 | Shantanu Mittal     |  -3.2 |         2 |              |               |
 |   58 | Marco Eres          |  -3.7 |         3 |        -0.02 |               |
 |   59 | Nick Firmani        |  -3.9 |         3 |              |               |
 |   60 | Padma Maitland      |  -4.7 |         3 |              |               |
