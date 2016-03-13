@@ -29,8 +29,8 @@ Generated 2016-03-13.
 |   25 | Chris Flores        |  19.7 |       284 |              |         -0.72 |
 |   26 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   27 | Jaime Perez         |  17.5 |         8 |        -0.62 |               |
-|   28 | Kent Daniels        |  16.9 |        66 |              |         +2.58 |
-|   29 | Saurabh Bajaj       |  16.3 |         4 |              |               |
+|   28 | Saurabh Bajaj       |  17.1 |         5 |        +0.73 |               |
+|   29 | Kent Daniels        |  16.9 |        66 |              |         +2.58 |
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |
 |   31 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
 |   32 | Daniel Schwartz     |  15.8 |         5 |        +0.37 |               |
@@ -53,11 +53,12 @@ Generated 2016-03-13.
 |   49 | Sandra Harpster     |   3.6 |         2 |              |               |
 |   50 | Jose Lara           |   3.4 |         1 |              |               |
 |   51 | Raphael Magarik     |   3.3 |         1 |              |               |
-|   52 | Matan Sela          |   1.0 |         1 |              |               |
-|   53 | Keaton Noon         |   0.1 |         7 |              |               |
-|   54 | Alok Singh          |   0.0 |         5 |        +0.02 |               |
-|   55 | Nate Aden           |  -0.8 |         1 |              |               |
-|   56 | Josh Lebowitz       |  -1.8 |         3 |              |               |
-|   57 | Marco Eres          |  -3.7 |         3 |        -0.02 |               |
-|   58 | Nick Firmani        |  -3.9 |         3 |              |               |
-|   59 | Padma Maitland      |  -4.7 |         3 |              |               |
+|   52 | Josh Lebowitz       |   2.8 |         5 |        +4.64 |               |
+|   53 | Matan Sela          |   1.0 |         1 |              |               |
+|   54 | Keaton Noon         |   0.1 |         7 |              |               |
+|   55 | Alok Singh          |   0.0 |         5 |        +0.02 |               |
+|   56 | Nate Aden           |  -0.8 |         1 |              |               |
+|   57 | Shantanu Mittal     |  -3.4 |         1 |              |               |
+|   58 | Marco Eres          |  -3.7 |         3 |        -0.02 |               |
+|   59 | Nick Firmani        |  -3.9 |         3 |              |               |
+|   60 | Padma Maitland      |  -4.7 |         3 |              |               |
