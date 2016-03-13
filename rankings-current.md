@@ -12,15 +12,15 @@ Generated 2016-03-13.
 |    8 | Nick Cobbett        |  24.7 |        11 |              |               |
 |    9 | Dan Meier           |  24.5 |        32 |              |         +7.47 |
 |   10 | Mark Modera         |  24.4 |       289 |              |         -1.16 |
-|   11 | Reid Johnsen        |  24.1 |        12 |        +0.83 |         +8.31 |
-|   12 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
-|   13 | Benjamin Vicuna     |  23.6 |        45 |        +0.28 |         +7.78 |
+|   11 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
+|   12 | Benjamin Vicuna     |  23.6 |        45 |        +0.28 |         +7.78 |
+|   13 | Jonathan Hankar     |  23.2 |       169 |        +0.13 |         -0.10 |
 |   14 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.05 |
 |   15 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
-|   16 | Jonathan Hankar     |  23.0 |       168 |        -0.07 |         -0.31 |
-|   17 | Matt Wong           |  22.8 |        49 |        -0.04 |               |
-|   18 | Mike Jensen-Akula   |  22.7 |       202 |              |         -0.06 |
-|   19 | Ethan Kerr          |  22.1 |         4 |              |               |
+|   16 | Matt Wong           |  22.8 |        49 |        -0.04 |               |
+|   17 | Mike Jensen-Akula   |  22.7 |       202 |              |         -0.06 |
+|   18 | Ethan Kerr          |  22.1 |         4 |              |               |
+|   19 | Reid Johnsen        |  21.9 |        13 |        -1.38 |         +6.10 |
 |   20 | Ronald Dahl         |  21.6 |        46 |              |         -0.55 |
 |   21 | Shaun Lim           |  21.3 |        28 |              |         +1.13 |
 |   22 | Jonathan Francis    |  20.4 |        50 |              |         +1.85 |

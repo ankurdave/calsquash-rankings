@@ -59,43 +59,43 @@ Generated 2016-03-13.
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
 |   56 | Toby Reiner               |  24.2 |       159 |              |               |
 |   57 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   58 | Reid Johnsen              |  24.1 |        12 |        +0.83 |         +8.31 |
-|   59 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
-|   60 | Jon Shih                  |  24.0 |        47 |              |               |
-|   61 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   62 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   63 | Matt Waid                 |  23.8 |        51 |              |               |
-|   64 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   65 | Martin Stokes             |  23.8 |        12 |              |               |
-|   66 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   67 | Benjamin Vicuna           |  23.6 |        45 |        +0.28 |         +7.78 |
-|   68 | Thomas Krussig            |  23.5 |        16 |              |         +2.93 |
-|   69 | Joe Farrell               |  23.4 |        30 |              |               |
-|   70 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   71 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   72 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   73 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   74 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   58 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
+|   59 | Jon Shih                  |  24.0 |        47 |              |               |
+|   60 | Daniel Greengard          |  23.9 |        37 |              |               |
+|   61 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   62 | Matt Waid                 |  23.8 |        51 |              |               |
+|   63 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   64 | Martin Stokes             |  23.8 |        12 |              |               |
+|   65 | Todd Wirsching            |  23.7 |         8 |              |               |
+|   66 | Benjamin Vicuna           |  23.6 |        45 |        +0.28 |         +7.78 |
+|   67 | Thomas Krussig            |  23.5 |        16 |              |         +2.93 |
+|   68 | Joe Farrell               |  23.4 |        30 |              |               |
+|   69 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   70 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   71 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   72 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   73 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   74 | Jonathan Hankar           |  23.2 |       169 |        +0.13 |         -0.10 |
 |   75 | Andrew Lawrie             |  23.1 |        42 |        +0.10 |        +20.05 |
 |   76 | Jan Beranek               |  23.1 |        46 |              |               |
 |   77 | Gary Golding              |  23.1 |         6 |              |               |
 |   78 | Jared Bard                |  23.0 |        16 |              |         +5.31 |
-|   79 | Jonathan Hankar           |  23.0 |       168 |        -0.07 |         -0.31 |
-|   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.43 |
-|   81 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   82 | Dante Popple              |  22.8 |        17 |              |               |
-|   83 | Matt Wong                 |  22.8 |        49 |        -0.04 |               |
-|   84 | Mike Jensen-Akula         |  22.7 |       202 |              |         -0.06 |
-|   85 | Adam Angsten              |  22.5 |         3 |              |               |
-|   86 | Richard Chan              |  22.5 |         9 |              |               |
-|   87 | Orion Hodson              |  22.5 |        31 |              |               |
-|   88 | Rahul Gupta               |  22.4 |         7 |              |               |
-|   89 | Lyle Fearnley             |  22.3 |        30 |              |               |
-|   90 | Peter McDermott           |  22.3 |        10 |              |               |
-|   91 | Paul Greene               |  22.1 |         8 |              |               |
-|   92 | Ethan Kerr                |  22.1 |         4 |              |               |
-|   93 | Philip Bildner            |  22.1 |        22 |              |               |
-|   94 | Kelvin Wong               |  22.0 |        44 |              |               |
+|   79 | Prakash Bathini           |  22.9 |       117 |              |         -0.43 |
+|   80 | Alex Jermyn               |  22.9 |         3 |              |               |
+|   81 | Dante Popple              |  22.8 |        17 |              |               |
+|   82 | Matt Wong                 |  22.8 |        49 |        -0.04 |               |
+|   83 | Mike Jensen-Akula         |  22.7 |       202 |              |         -0.06 |
+|   84 | Adam Angsten              |  22.5 |         3 |              |               |
+|   85 | Richard Chan              |  22.5 |         9 |              |               |
+|   86 | Orion Hodson              |  22.5 |        31 |              |               |
+|   87 | Rahul Gupta               |  22.4 |         7 |              |               |
+|   88 | Lyle Fearnley             |  22.3 |        30 |              |               |
+|   89 | Peter McDermott           |  22.3 |        10 |              |               |
+|   90 | Paul Greene               |  22.1 |         8 |              |               |
+|   91 | Ethan Kerr                |  22.1 |         4 |              |               |
+|   92 | Philip Bildner            |  22.1 |        22 |              |               |
+|   93 | Kelvin Wong               |  22.0 |        44 |              |               |
+|   94 | Reid Johnsen              |  21.9 |        13 |        -1.38 |         +6.10 |
 |   95 | Harlan Yu                 |  21.9 |        19 |              |               |
 |   96 | Robert Schwartz           |  21.8 |        73 |              |         +1.29 |
 |   97 | Sam McCormick             |  21.7 |        13 |              |               |
