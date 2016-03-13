@@ -84,7 +84,7 @@ Generated 2016-03-13.
 |   80 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   81 | Dante Popple              |  22.8 |        17 |              |               |
 |   82 | Matt Wong                 |  22.8 |        49 |        -0.04 |               |
-|   83 | Mike Jensen-Akula         |  22.7 |       202 |              |         -0.06 |
+|   83 | Mike Jensen-Akula         |  22.8 |       203 |        +0.05 |               |
 |   84 | Adam Angsten              |  22.5 |         3 |              |               |
 |   85 | Richard Chan              |  22.5 |         9 |              |               |
 |   86 | Orion Hodson              |  22.5 |        31 |              |               |
@@ -228,10 +228,10 @@ Generated 2016-03-13.
 |  224 | Sam Trachtman             |  14.3 |         2 |              |               |
 |  225 | Peter Dering              |  14.3 |         9 |              |               |
 |  226 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  227 | Rupert Myers              |  14.1 |        21 |              |               |
-|  228 | Wesley Huang              |  14.0 |         8 |              |               |
-|  229 | Terry Chang               |  14.0 |        30 |        -0.15 |         +3.19 |
-|  230 | Greg Adams                |  14.0 |        10 |              |               |
+|  227 | Wesley Huang              |  14.0 |         8 |              |               |
+|  228 | Terry Chang               |  14.0 |        30 |        -0.15 |         +3.19 |
+|  229 | Greg Adams                |  14.0 |        10 |              |               |
+|  230 | Rupert Myers              |  14.0 |        22 |        -0.11 |               |
 |  231 | Vipul Singhvi             |  14.0 |         8 |              |               |
 |  232 | Baxter Leman              |  13.9 |         6 |              |               |
 |  233 | Mike Delanty              |  13.9 |        12 |              |               |

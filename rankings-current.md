@@ -18,7 +18,7 @@ Generated 2016-03-13.
 |   14 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.05 |
 |   15 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
 |   16 | Matt Wong           |  22.8 |        49 |        -0.04 |               |
-|   17 | Mike Jensen-Akula   |  22.7 |       202 |              |         -0.06 |
+|   17 | Mike Jensen-Akula   |  22.8 |       203 |        +0.05 |               |
 |   18 | Ethan Kerr          |  22.1 |         4 |              |               |
 |   19 | Reid Johnsen        |  21.9 |        13 |        -1.38 |         +6.10 |
 |   20 | Ronald Dahl         |  21.6 |        46 |              |         -0.55 |
@@ -37,8 +37,8 @@ Generated 2016-03-13.
 |   33 | Josh Trauner        |  15.8 |         9 |        -0.03 |               |
 |   34 | Subrato Dey         |  14.7 |        10 |              |               |
 |   35 | Sam Trachtman       |  14.3 |         2 |              |               |
-|   36 | Rupert Myers        |  14.1 |        21 |              |               |
-|   37 | Terry Chang         |  14.0 |        30 |        -0.15 |         +3.19 |
+|   36 | Terry Chang         |  14.0 |        30 |        -0.15 |         +3.19 |
+|   37 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   38 | Eric Borden         |  13.5 |        13 |              |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
 |   40 | Myles Gordon        |  10.3 |        40 |              |         +2.80 |
