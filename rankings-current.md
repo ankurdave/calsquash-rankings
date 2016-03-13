@@ -32,13 +32,13 @@ Generated 2016-03-13.
 |   28 | Kent Daniels        |  16.9 |        66 |              |         +2.58 |
 |   29 | Saurabh Bajaj       |  16.3 |         4 |              |               |
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |
-|   31 | Daniel Schwartz     |  15.8 |         5 |        +0.37 |               |
-|   32 | Josh Trauner        |  15.8 |         9 |        -0.03 |               |
-|   33 | Jeff Gordon         |  15.2 |        13 |              |               |
+|   31 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
+|   32 | Daniel Schwartz     |  15.8 |         5 |        +0.37 |               |
+|   33 | Josh Trauner        |  15.8 |         9 |        -0.03 |               |
 |   34 | Subrato Dey         |  14.7 |        10 |              |               |
 |   35 | Sam Trachtman       |  14.3 |         2 |              |               |
-|   36 | Terry Chang         |  14.1 |        29 |              |         +3.34 |
-|   37 | Rupert Myers        |  14.1 |        21 |              |               |
+|   36 | Rupert Myers        |  14.1 |        21 |              |               |
+|   37 | Terry Chang         |  14.0 |        30 |        -0.15 |         +3.19 |
 |   38 | Eric Borden         |  13.5 |        13 |              |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
 |   40 | Myles Gordon        |  10.3 |        40 |              |         +2.80 |

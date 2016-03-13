@@ -194,17 +194,17 @@ Generated 2016-03-13.
 |  190 | Rich Shapiro              |  16.1 |        82 |              |               |
 |  191 | Troup Howard              |  16.1 |        34 |              |         -0.29 |
 |  192 | Andrew Green              |  16.1 |        52 |              |               |
-|  193 | Toni Queck                |  16.0 |        20 |              |               |
-|  194 | Daniel Schwartz           |  15.8 |         5 |        +0.37 |               |
-|  195 | Josh Trauner              |  15.8 |         9 |        -0.03 |               |
-|  196 | Jaime Paterson            |  15.7 |         1 |              |               |
-|  197 | Jeff Bird                 |  15.7 |        38 |              |               |
-|  198 | Casey Harelson            |  15.7 |        20 |              |               |
-|  199 | Nick Paget                |  15.6 |        35 |              |               |
-|  200 | Allan Dafoe               |  15.5 |        43 |              |               |
-|  201 | David Bratt               |  15.4 |        16 |              |         +3.54 |
-|  202 | Doug Kreutzer             |  15.3 |        10 |              |               |
-|  203 | Jeff Gordon               |  15.2 |        13 |              |               |
+|  193 | Jeff Gordon               |  16.0 |        14 |        +0.79 |               |
+|  194 | Toni Queck                |  16.0 |        20 |              |               |
+|  195 | Daniel Schwartz           |  15.8 |         5 |        +0.37 |               |
+|  196 | Josh Trauner              |  15.8 |         9 |        -0.03 |               |
+|  197 | Jaime Paterson            |  15.7 |         1 |              |               |
+|  198 | Jeff Bird                 |  15.7 |        38 |              |               |
+|  199 | Casey Harelson            |  15.7 |        20 |              |               |
+|  200 | Nick Paget                |  15.6 |        35 |              |               |
+|  201 | Allan Dafoe               |  15.5 |        43 |              |               |
+|  202 | David Bratt               |  15.4 |        16 |              |         +3.54 |
+|  203 | Doug Kreutzer             |  15.3 |        10 |              |               |
 |  204 | Ranjit Jhala              |  15.2 |         6 |              |               |
 |  205 | Chris Harrelson           |  15.2 |        47 |              |               |
 |  206 | Tuyen Le                  |  15.2 |         5 |              |               |
@@ -228,9 +228,9 @@ Generated 2016-03-13.
 |  224 | Sam Trachtman             |  14.3 |         2 |              |               |
 |  225 | Peter Dering              |  14.3 |         9 |              |               |
 |  226 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  227 | Terry Chang               |  14.1 |        29 |              |         +3.34 |
-|  228 | Rupert Myers              |  14.1 |        21 |              |               |
-|  229 | Wesley Huang              |  14.0 |         8 |              |               |
+|  227 | Rupert Myers              |  14.1 |        21 |              |               |
+|  228 | Wesley Huang              |  14.0 |         8 |              |               |
+|  229 | Terry Chang               |  14.0 |        30 |        -0.15 |         +3.19 |
 |  230 | Greg Adams                |  14.0 |        10 |              |               |
 |  231 | Vipul Singhvi             |  14.0 |         8 |              |               |
 |  232 | Baxter Leman              |  13.9 |         6 |              |               |
