@@ -2,9 +2,9 @@ Generated 2016-03-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  42.9 |       202 |              |         +0.07 |
+|    1 | Ashley Kayler             |  43.0 |       203 |        +0.09 |         +0.16 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
-|    3 | Rees Sweeney-Taylor       |  36.6 |        71 |              |         +1.09 |
+|    3 | Rees Sweeney-Taylor       |  36.5 |        72 |        -0.06 |         +1.02 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
 |    5 | Tanu Sankalia             |  36.2 |        94 |              |               |
 |    6 | Thomas Lowish             |  35.9 |         6 |              |         +1.48 |
