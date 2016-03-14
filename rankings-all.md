@@ -73,9 +73,9 @@ Generated 2016-03-13.
 |   69 | Andrew Hsu                |  23.4 |        15 |              |               |
 |   70 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   71 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   72 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   73 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   74 | Jonathan Hankar           |  23.2 |       169 |        +0.13 |         -0.10 |
+|   72 | Jonathan Hankar           |  23.3 |       170 |        +0.22 |         -0.01 |
+|   73 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   74 | Mikey Zarem               |  23.2 |         8 |              |               |
 |   75 | Andrew Lawrie             |  23.1 |        42 |        +0.10 |        +20.05 |
 |   76 | Jan Beranek               |  23.1 |        46 |              |               |
 |   77 | Gary Golding              |  23.1 |         6 |              |               |
@@ -197,13 +197,13 @@ Generated 2016-03-13.
 |  193 | Jeff Gordon               |  16.0 |        14 |        +0.79 |               |
 |  194 | Toni Queck                |  16.0 |        20 |              |               |
 |  195 | Daniel Schwartz           |  15.8 |         5 |        +0.37 |               |
-|  196 | Josh Trauner              |  15.8 |         9 |        -0.03 |               |
-|  197 | Jaime Paterson            |  15.7 |         1 |              |               |
-|  198 | Jeff Bird                 |  15.7 |        38 |              |               |
-|  199 | Casey Harelson            |  15.7 |        20 |              |               |
-|  200 | Nick Paget                |  15.6 |        35 |              |               |
-|  201 | Allan Dafoe               |  15.5 |        43 |              |               |
-|  202 | David Bratt               |  15.4 |        16 |              |         +3.54 |
+|  196 | Jaime Paterson            |  15.7 |         1 |              |               |
+|  197 | Jeff Bird                 |  15.7 |        38 |              |               |
+|  198 | Casey Harelson            |  15.7 |        20 |              |               |
+|  199 | Nick Paget                |  15.6 |        35 |              |               |
+|  200 | Allan Dafoe               |  15.5 |        43 |              |               |
+|  201 | David Bratt               |  15.4 |        16 |              |         +3.54 |
+|  202 | Josh Trauner              |  15.3 |        10 |        -0.44 |               |
 |  203 | Doug Kreutzer             |  15.3 |        10 |              |               |
 |  204 | Ranjit Jhala              |  15.2 |         6 |              |               |
 |  205 | Chris Harrelson           |  15.2 |        47 |              |               |

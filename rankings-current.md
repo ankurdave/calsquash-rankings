@@ -14,7 +14,7 @@ Generated 2016-03-13.
 |   10 | Mark Modera         |  24.4 |       289 |              |         -1.16 |
 |   11 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
 |   12 | Benjamin Vicuna     |  23.6 |        45 |        +0.28 |         +7.78 |
-|   13 | Jonathan Hankar     |  23.2 |       169 |        +0.13 |         -0.10 |
+|   13 | Jonathan Hankar     |  23.3 |       170 |        +0.22 |         -0.01 |
 |   14 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.05 |
 |   15 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
 |   16 | Matt Wong           |  22.8 |        49 |        -0.04 |               |
@@ -34,7 +34,7 @@ Generated 2016-03-13.
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |
 |   31 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
 |   32 | Daniel Schwartz     |  15.8 |         5 |        +0.37 |               |
-|   33 | Josh Trauner        |  15.8 |         9 |        -0.03 |               |
+|   33 | Josh Trauner        |  15.3 |        10 |        -0.44 |               |
 |   34 | Subrato Dey         |  14.7 |        10 |              |               |
 |   35 | Sam Trachtman       |  14.3 |         2 |              |               |
 |   36 | Terry Chang         |  14.0 |        30 |        -0.15 |         +3.19 |
