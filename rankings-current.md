@@ -21,7 +21,7 @@ Generated 2016-03-13.
 |   17 | Mike Jensen-Akula   |  22.8 |       203 |        +0.05 |               |
 |   18 | Ethan Kerr          |  22.1 |         4 |              |               |
 |   19 | Reid Johnsen        |  21.9 |        13 |        -1.38 |         +6.10 |
-|   20 | Ronald Dahl         |  21.6 |        46 |              |         -0.55 |
+|   20 | Ronald Dahl         |  21.3 |        47 |        -0.33 |         -0.89 |
 |   21 | Shaun Lim           |  21.2 |        29 |        -0.12 |         +1.00 |
 |   22 | Jonathan Francis    |  20.4 |        50 |              |         +1.85 |
 |   23 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
@@ -35,11 +35,11 @@ Generated 2016-03-13.
 |   31 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
 |   32 | Daniel Schwartz     |  15.8 |         5 |        +0.37 |               |
 |   33 | Josh Trauner        |  15.3 |        10 |        -0.44 |               |
-|   34 | Subrato Dey         |  14.7 |        10 |              |               |
-|   35 | Sam Trachtman       |  14.3 |         2 |              |               |
-|   36 | Terry Chang         |  14.0 |        30 |        -0.15 |         +3.19 |
-|   37 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
-|   38 | Eric Borden         |  13.5 |        13 |              |               |
+|   34 | Eric Borden         |  15.2 |        14 |        +1.71 |               |
+|   35 | Subrato Dey         |  14.7 |        10 |              |               |
+|   36 | Sam Trachtman       |  14.3 |         2 |              |               |
+|   37 | Terry Chang         |  14.0 |        30 |        -0.15 |         +3.19 |
+|   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
 |   40 | Myles Gordon        |  10.3 |        40 |              |         +2.80 |
 |   41 | Anthony Patterson   |  10.2 |         6 |              |               |

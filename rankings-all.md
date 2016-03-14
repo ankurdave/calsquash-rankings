@@ -102,11 +102,11 @@ Generated 2016-03-13.
 |   98 | Robert Ashmore            |  21.7 |       104 |              |               |
 |   99 | Zarah Rahman              |  21.6 |        13 |              |               |
 |  100 | Amy Lee                   |  21.6 |        56 |              |               |
-|  101 | Ronald Dahl               |  21.6 |        46 |              |         -0.55 |
-|  102 | Kameshwar Poolla          |  21.6 |        11 |              |               |
-|  103 | Phin Lee                  |  21.5 |        16 |              |               |
-|  104 | Dev Millstein             |  21.4 |        92 |              |               |
-|  105 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
+|  101 | Kameshwar Poolla          |  21.6 |        11 |              |               |
+|  102 | Phin Lee                  |  21.5 |        16 |              |               |
+|  103 | Dev Millstein             |  21.4 |        92 |              |               |
+|  104 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
+|  105 | Ronald Dahl               |  21.3 |        47 |        -0.33 |         -0.89 |
 |  106 | Matthew Elliott           |  21.3 |         7 |              |               |
 |  107 | Garvin Heath              |  21.2 |        28 |              |               |
 |  108 | Shaun Lim                 |  21.2 |        29 |        -0.12 |         +1.00 |
@@ -207,39 +207,39 @@ Generated 2016-03-13.
 |  203 | Doug Kreutzer             |  15.3 |        10 |              |               |
 |  204 | Ranjit Jhala              |  15.2 |         6 |              |               |
 |  205 | Chris Harrelson           |  15.2 |        47 |              |               |
-|  206 | Tuyen Le                  |  15.2 |         5 |              |               |
-|  207 | Narayan Sankaran          |  15.2 |        24 |              |               |
-|  208 | Matthew Brett             |  15.1 |        20 |              |               |
-|  209 | Kedar Viswanathan         |  15.1 |        16 |              |               |
-|  210 | Alex Marqusee             |  15.1 |        28 |              |         +2.11 |
-|  211 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
-|  212 | Liam King                 |  15.0 |         6 |              |               |
-|  213 | Peter Duerr               |  15.0 |        24 |              |               |
-|  214 | Jayanth Kannan            |  15.0 |        20 |              |               |
-|  215 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
-|  216 | Lakshya Rustagi           |  14.8 |         2 |              |               |
-|  217 | Angie Ng                  |  14.8 |        12 |              |               |
-|  218 | Nicholas Monsees          |  14.8 |         5 |              |               |
-|  219 | Subrato Dey               |  14.7 |        10 |              |               |
-|  220 | Yating Liu                |  14.6 |         7 |              |               |
-|  221 | Frederick Bayles          |  14.6 |         8 |              |               |
-|  222 | John Grim                 |  14.4 |        13 |              |               |
-|  223 | David Shabelman           |  14.4 |        30 |              |               |
-|  224 | Sam Trachtman             |  14.3 |         2 |              |               |
-|  225 | Peter Dering              |  14.3 |         9 |              |               |
-|  226 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  227 | Wesley Huang              |  14.0 |         8 |              |               |
-|  228 | Terry Chang               |  14.0 |        30 |        -0.15 |         +3.19 |
-|  229 | Greg Adams                |  14.0 |        10 |              |               |
-|  230 | Rupert Myers              |  14.0 |        22 |        -0.11 |               |
-|  231 | Vipul Singhvi             |  14.0 |         8 |              |               |
-|  232 | Baxter Leman              |  13.9 |         6 |              |               |
-|  233 | Mike Delanty              |  13.9 |        12 |              |               |
-|  234 | James Chung               |  13.8 |         7 |              |               |
-|  235 | Natalie Bratwood          |  13.8 |         5 |              |               |
-|  236 | Craig Riddell             |  13.6 |         8 |              |               |
-|  237 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
-|  238 | Eric Borden               |  13.5 |        13 |              |               |
+|  206 | Eric Borden               |  15.2 |        14 |        +1.71 |               |
+|  207 | Tuyen Le                  |  15.2 |         5 |              |               |
+|  208 | Narayan Sankaran          |  15.2 |        24 |              |               |
+|  209 | Matthew Brett             |  15.1 |        20 |              |               |
+|  210 | Kedar Viswanathan         |  15.1 |        16 |              |               |
+|  211 | Alex Marqusee             |  15.1 |        28 |              |         +2.11 |
+|  212 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
+|  213 | Liam King                 |  15.0 |         6 |              |               |
+|  214 | Peter Duerr               |  15.0 |        24 |              |               |
+|  215 | Jayanth Kannan            |  15.0 |        20 |              |               |
+|  216 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
+|  217 | Lakshya Rustagi           |  14.8 |         2 |              |               |
+|  218 | Angie Ng                  |  14.8 |        12 |              |               |
+|  219 | Nicholas Monsees          |  14.8 |         5 |              |               |
+|  220 | Subrato Dey               |  14.7 |        10 |              |               |
+|  221 | Yating Liu                |  14.6 |         7 |              |               |
+|  222 | Frederick Bayles          |  14.6 |         8 |              |               |
+|  223 | John Grim                 |  14.4 |        13 |              |               |
+|  224 | David Shabelman           |  14.4 |        30 |              |               |
+|  225 | Sam Trachtman             |  14.3 |         2 |              |               |
+|  226 | Peter Dering              |  14.3 |         9 |              |               |
+|  227 | Chinghway Lim             |  14.3 |        10 |              |               |
+|  228 | Wesley Huang              |  14.0 |         8 |              |               |
+|  229 | Terry Chang               |  14.0 |        30 |        -0.15 |         +3.19 |
+|  230 | Greg Adams                |  14.0 |        10 |              |               |
+|  231 | Rupert Myers              |  14.0 |        22 |        -0.11 |               |
+|  232 | Vipul Singhvi             |  14.0 |         8 |              |               |
+|  233 | Baxter Leman              |  13.9 |         6 |              |               |
+|  234 | Mike Delanty              |  13.9 |        12 |              |               |
+|  235 | James Chung               |  13.8 |         7 |              |               |
+|  236 | Natalie Bratwood          |  13.8 |         5 |              |               |
+|  237 | Craig Riddell             |  13.6 |         8 |              |               |
+|  238 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
 |  239 | Yan Liu                   |  13.4 |        10 |              |         +0.73 |
 |  240 | Tanit Follett             |  13.2 |         8 |              |               |
 |  241 | Mimi Zhang                |  13.2 |         6 |              |               |
