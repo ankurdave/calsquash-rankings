@@ -180,10 +180,10 @@ Generated 2016-03-15.
 |  176 | Nacho Quaglio             |  17.0 |         3 |              |               |
 |  177 | Sebastien Biraud          |  17.0 |        60 |              |               |
 |  178 | Kedar Shah                |  16.9 |         9 |              |               |
-|  179 | Kent Daniels              |  16.9 |        66 |              |         +2.58 |
-|  180 | Sarah Mcneil              |  16.9 |        24 |              |               |
-|  181 | Shwetabh Singh            |  16.9 |         6 |              |               |
-|  182 | William Coleman           |  16.8 |        48 |              |               |
+|  179 | Sarah Mcneil              |  16.9 |        24 |              |               |
+|  180 | Shwetabh Singh            |  16.9 |         6 |              |               |
+|  181 | William Coleman           |  16.8 |        48 |              |               |
+|  182 | Kent Daniels              |  16.8 |        67 |        -0.12 |         +2.46 |
 |  183 | Darren Morgan             |  16.8 |        11 |              |               |
 |  184 | Viraj Paropkari           |  16.7 |        16 |              |               |
 |  185 | Dennis Dornan             |  16.6 |        12 |              |               |
@@ -196,18 +196,18 @@ Generated 2016-03-15.
 |  192 | Andrew Green              |  16.1 |        52 |              |               |
 |  193 | Jeff Gordon               |  16.0 |        14 |        +0.79 |               |
 |  194 | Toni Queck                |  16.0 |        20 |              |               |
-|  195 | Daniel Schwartz           |  15.8 |         5 |        +0.37 |               |
-|  196 | Jaime Paterson            |  15.7 |         1 |              |               |
-|  197 | Jeff Bird                 |  15.7 |        38 |              |               |
-|  198 | Casey Harelson            |  15.7 |        20 |              |               |
-|  199 | Nick Paget                |  15.6 |        35 |              |               |
-|  200 | Allan Dafoe               |  15.5 |        43 |              |               |
-|  201 | David Bratt               |  15.4 |        16 |              |         +3.54 |
-|  202 | Josh Trauner              |  15.3 |        10 |        -0.44 |               |
-|  203 | Doug Kreutzer             |  15.3 |        10 |              |               |
-|  204 | Ranjit Jhala              |  15.2 |         6 |              |               |
-|  205 | Chris Harrelson           |  15.2 |        47 |              |               |
-|  206 | Eric Borden               |  15.2 |        14 |        +1.71 |               |
+|  195 | Eric Borden               |  16.0 |        15 |        +2.53 |               |
+|  196 | Daniel Schwartz           |  15.8 |         5 |        +0.37 |               |
+|  197 | Jaime Paterson            |  15.7 |         1 |              |               |
+|  198 | Jeff Bird                 |  15.7 |        38 |              |               |
+|  199 | Casey Harelson            |  15.7 |        20 |              |               |
+|  200 | Nick Paget                |  15.6 |        35 |              |               |
+|  201 | Allan Dafoe               |  15.5 |        43 |              |               |
+|  202 | David Bratt               |  15.4 |        16 |              |         +3.54 |
+|  203 | Josh Trauner              |  15.3 |        10 |        -0.44 |               |
+|  204 | Doug Kreutzer             |  15.3 |        10 |              |               |
+|  205 | Ranjit Jhala              |  15.2 |         6 |              |               |
+|  206 | Chris Harrelson           |  15.2 |        47 |              |               |
 |  207 | Tuyen Le                  |  15.2 |         5 |              |               |
 |  208 | Narayan Sankaran          |  15.2 |        24 |              |               |
 |  209 | Matthew Brett             |  15.1 |        20 |              |               |

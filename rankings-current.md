@@ -30,12 +30,12 @@ Generated 2016-03-15.
 |   26 | Chris Flores        |  19.7 |       284 |              |         -0.72 |
 |   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   28 | Jaime Perez         |  17.1 |         9 |        -1.04 |               |
-|   29 | Kent Daniels        |  16.9 |        66 |              |         +2.58 |
+|   29 | Kent Daniels        |  16.8 |        67 |        -0.12 |         +2.46 |
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |
 |   31 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
-|   32 | Daniel Schwartz     |  15.8 |         5 |        +0.37 |               |
-|   33 | Josh Trauner        |  15.3 |        10 |        -0.44 |               |
-|   34 | Eric Borden         |  15.2 |        14 |        +1.71 |               |
+|   32 | Eric Borden         |  16.0 |        15 |        +2.53 |               |
+|   33 | Daniel Schwartz     |  15.8 |         5 |        +0.37 |               |
+|   34 | Josh Trauner        |  15.3 |        10 |        -0.44 |               |
 |   35 | Subrato Dey         |  14.7 |        10 |              |               |
 |   36 | Sam Trachtman       |  14.3 |         2 |              |               |
 |   37 | Terry Chang         |  14.0 |        30 |        -0.15 |         +3.19 |
