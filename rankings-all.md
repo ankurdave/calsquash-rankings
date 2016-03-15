@@ -63,11 +63,11 @@ Generated 2016-03-14.
 |   59 | Jon Shih                  |  24.0 |        47 |              |               |
 |   60 | Daniel Greengard          |  23.9 |        37 |              |               |
 |   61 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   62 | Matt Waid                 |  23.8 |        51 |              |               |
-|   63 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   64 | Martin Stokes             |  23.8 |        12 |              |               |
-|   65 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   66 | Benjamin Vicuna           |  23.6 |        45 |        +0.28 |         +7.78 |
+|   62 | Benjamin Vicuna           |  23.9 |        46 |        +0.49 |         +7.99 |
+|   63 | Matt Waid                 |  23.8 |        51 |              |               |
+|   64 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   65 | Martin Stokes             |  23.8 |        12 |              |               |
+|   66 | Todd Wirsching            |  23.7 |         8 |              |               |
 |   67 | Thomas Krussig            |  23.5 |        16 |              |         +2.93 |
 |   68 | Joe Farrell               |  23.4 |        30 |              |               |
 |   69 | Andrew Hsu                |  23.4 |        15 |              |               |
@@ -76,7 +76,7 @@ Generated 2016-03-14.
 |   72 | Jonathan Hankar           |  23.3 |       170 |        +0.22 |         -0.01 |
 |   73 | Sonesh Surana             |  23.2 |        95 |              |               |
 |   74 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   75 | Andrew Lawrie             |  23.1 |        42 |        +0.10 |        +20.05 |
+|   75 | Andrew Lawrie             |  23.1 |        42 |        +0.10 |        +20.06 |
 |   76 | Jan Beranek               |  23.1 |        46 |              |               |
 |   77 | Gary Golding              |  23.1 |         6 |              |               |
 |   78 | Jared Bard                |  23.0 |        16 |              |         +5.31 |
@@ -163,19 +163,19 @@ Generated 2016-03-14.
 |  159 | Hari Dhavala              |  17.7 |        27 |              |               |
 |  160 | Britta Gardner            |  17.7 |        16 |              |               |
 |  161 | Thomas Scanlon            |  17.6 |        20 |              |               |
-|  162 | Jaime Perez               |  17.5 |         8 |        -0.62 |               |
-|  163 | Neil Conway               |  17.5 |        55 |              |               |
-|  164 | Frank Kennan              |  17.5 |        11 |              |               |
-|  165 | Adam Jacob                |  17.4 |         3 |              |               |
-|  166 | Steven Sloman             |  17.3 |        10 |              |               |
-|  167 | Arbi Vartan               |  17.3 |        20 |              |               |
-|  168 | Patrick Baylis            |  17.3 |        12 |              |         +1.32 |
-|  169 | Mark Priven               |  17.3 |        72 |              |               |
-|  170 | Sridhar Rajaram           |  17.3 |        30 |              |               |
-|  171 | Leor Lovinger             |  17.3 |         6 |              |               |
-|  172 | Errick Ceppas             |  17.2 |         6 |              |               |
-|  173 | Juliet Lamont             |  17.2 |        58 |              |               |
-|  174 | Wolfram Pohl              |  17.1 |        60 |              |               |
+|  162 | Neil Conway               |  17.5 |        55 |              |               |
+|  163 | Frank Kennan              |  17.5 |        11 |              |               |
+|  164 | Adam Jacob                |  17.4 |         3 |              |               |
+|  165 | Steven Sloman             |  17.3 |        10 |              |               |
+|  166 | Arbi Vartan               |  17.3 |        20 |              |               |
+|  167 | Patrick Baylis            |  17.3 |        12 |              |         +1.32 |
+|  168 | Mark Priven               |  17.3 |        72 |              |               |
+|  169 | Sridhar Rajaram           |  17.3 |        30 |              |               |
+|  170 | Leor Lovinger             |  17.3 |         6 |              |               |
+|  171 | Errick Ceppas             |  17.2 |         6 |              |               |
+|  172 | Juliet Lamont             |  17.2 |        58 |              |               |
+|  173 | Wolfram Pohl              |  17.1 |        60 |              |               |
+|  174 | Jaime Perez               |  17.1 |         9 |        -1.04 |               |
 |  175 | Joseph Farrell            |  17.0 |         8 |              |               |
 |  176 | Nacho Quaglio             |  17.0 |         3 |              |               |
 |  177 | Sebastien Biraud          |  17.0 |        60 |              |               |

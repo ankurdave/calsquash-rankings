@@ -13,9 +13,9 @@ Generated 2016-03-14.
 |    9 | Dan Meier           |  24.5 |        32 |              |         +7.47 |
 |   10 | Mark Modera         |  24.4 |       289 |              |         -1.16 |
 |   11 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
-|   12 | Benjamin Vicuna     |  23.6 |        45 |        +0.28 |         +7.78 |
+|   12 | Benjamin Vicuna     |  23.9 |        46 |        +0.49 |         +7.99 |
 |   13 | Jonathan Hankar     |  23.3 |       170 |        +0.22 |         -0.01 |
-|   14 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.05 |
+|   14 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.06 |
 |   15 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
 |   16 | Matt Wong           |  22.8 |        49 |        -0.04 |               |
 |   17 | Mike Jensen-Akula   |  22.8 |       203 |        +0.05 |               |
@@ -29,7 +29,7 @@ Generated 2016-03-14.
 |   25 | Jacob Kersey        |  20.1 |        11 |        +1.26 |               |
 |   26 | Chris Flores        |  19.7 |       284 |              |         -0.72 |
 |   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
-|   28 | Jaime Perez         |  17.5 |         8 |        -0.62 |               |
+|   28 | Jaime Perez         |  17.1 |         9 |        -1.04 |               |
 |   29 | Kent Daniels        |  16.9 |        66 |              |         +2.58 |
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |
 |   31 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
