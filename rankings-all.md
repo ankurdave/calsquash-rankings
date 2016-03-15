@@ -27,16 +27,16 @@ Generated 2016-03-14.
 |   23 | Frank Kennamer            |  28.8 |       191 |              |         +0.37 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   26 | John Kunze                |  28.5 |       283 |              |         -0.26 |
+|   26 | John Kunze                |  28.4 |       284 |        -0.05 |         -0.31 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
-|   29 | Michael Best              |  28.1 |        21 |              |               |
-|   30 | Jehan Engineer            |  28.0 |         9 |              |               |
-|   31 | Samer Shehata             |  27.8 |        29 |              |               |
-|   32 | Andrew Moylan             |  27.8 |        95 |              |               |
-|   33 | Vishi                     |  27.8 |        37 |              |         +4.14 |
-|   34 | Heba Nossier              |  27.6 |        14 |              |         +7.03 |
-|   35 | Arvind Muralimohan        |  27.3 |        14 |        +1.32 |               |
+|   29 | Arvind Muralimohan        |  28.1 |        15 |        +2.13 |               |
+|   30 | Michael Best              |  28.1 |        21 |              |               |
+|   31 | Jehan Engineer            |  28.0 |         9 |              |               |
+|   32 | Samer Shehata             |  27.8 |        29 |              |               |
+|   33 | Andrew Moylan             |  27.8 |        95 |              |               |
+|   34 | Vishi                     |  27.8 |        37 |              |         +4.14 |
+|   35 | Heba Nossier              |  27.6 |        14 |              |         +7.03 |
 |   36 | Hussain Raza              |  27.3 |        50 |              |               |
 |   37 | Glenn Forrester           |  27.0 |       353 |        -0.04 |         +0.13 |
 |   38 | Stephen Dang              |  26.8 |        34 |              |               |

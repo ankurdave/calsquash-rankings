@@ -6,8 +6,8 @@ Generated 2016-03-14.
 |    2 | Rees Sweeney-Taylor |  36.5 |        72 |        -0.06 |         +1.02 |
 |    3 | Jim Veitch          |  29.4 |       399 |              |         +0.15 |
 |    4 | Frank Kennamer      |  28.8 |       191 |              |         +0.37 |
-|    5 | John Kunze          |  28.5 |       283 |              |         -0.26 |
-|    6 | Arvind Muralimohan  |  27.3 |        14 |        +1.32 |               |
+|    5 | John Kunze          |  28.4 |       284 |        -0.05 |         -0.31 |
+|    6 | Arvind Muralimohan  |  28.1 |        15 |        +2.13 |               |
 |    7 | Glenn Forrester     |  27.0 |       353 |        -0.04 |         +0.13 |
 |    8 | Nick Cobbett        |  24.7 |        11 |              |               |
 |    9 | Dan Meier           |  24.5 |        32 |              |         +7.47 |
