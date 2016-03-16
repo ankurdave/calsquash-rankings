@@ -38,7 +38,7 @@ Generated 2016-03-15.
 |   34 | Vishi                     |  27.8 |        37 |              |         +4.14 |
 |   35 | Heba Nossier              |  27.6 |        14 |              |         +7.03 |
 |   36 | Hussain Raza              |  27.3 |        50 |              |               |
-|   37 | Glenn Forrester           |  27.0 |       353 |        -0.04 |         +0.13 |
+|   37 | Glenn Forrester           |  27.0 |       354 |        +0.02 |         +0.20 |
 |   38 | Stephen Dang              |  26.8 |        34 |              |               |
 |   39 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
 |   40 | Ignacio Canals            |  26.7 |        21 |              |               |
@@ -83,8 +83,8 @@ Generated 2016-03-15.
 |   79 | Prakash Bathini           |  22.9 |       117 |              |         -0.43 |
 |   80 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   81 | Dante Popple              |  22.8 |        17 |              |               |
-|   82 | Matt Wong                 |  22.8 |        49 |        -0.04 |               |
-|   83 | Mike Jensen-Akula         |  22.8 |       203 |        +0.05 |               |
+|   82 | Mike Jensen-Akula         |  22.8 |       203 |        +0.05 |               |
+|   83 | Matt Wong                 |  22.7 |        50 |        -0.15 |               |
 |   84 | Adam Angsten              |  22.5 |         3 |              |               |
 |   85 | Richard Chan              |  22.5 |         9 |              |               |
 |   86 | Orion Hodson              |  22.5 |        31 |              |               |

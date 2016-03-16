@@ -8,7 +8,7 @@ Generated 2016-03-15.
 |    4 | Frank Kennamer      |  28.8 |       191 |              |         +0.37 |
 |    5 | John Kunze          |  28.4 |       284 |        -0.05 |         -0.31 |
 |    6 | Arvind Muralimohan  |  28.1 |        15 |        +2.13 |               |
-|    7 | Glenn Forrester     |  27.0 |       353 |        -0.04 |         +0.13 |
+|    7 | Glenn Forrester     |  27.0 |       354 |        +0.02 |         +0.20 |
 |    8 | Nick Cobbett        |  24.7 |        11 |              |               |
 |    9 | Dan Meier           |  24.5 |        32 |              |         +7.47 |
 |   10 | Mark Modera         |  24.4 |       289 |              |         -1.16 |
@@ -17,8 +17,8 @@ Generated 2016-03-15.
 |   13 | Jonathan Hankar     |  23.3 |       170 |        +0.22 |         -0.01 |
 |   14 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.06 |
 |   15 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
-|   16 | Matt Wong           |  22.8 |        49 |        -0.04 |               |
-|   17 | Mike Jensen-Akula   |  22.8 |       203 |        +0.05 |               |
+|   16 | Mike Jensen-Akula   |  22.8 |       203 |        +0.05 |               |
+|   17 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
 |   18 | Ethan Kerr          |  22.1 |         4 |              |               |
 |   19 | Reid Johnsen        |  21.9 |        13 |        -1.38 |         +6.10 |
 |   20 | Ronald Dahl         |  21.3 |        47 |        -0.33 |         -0.89 |
