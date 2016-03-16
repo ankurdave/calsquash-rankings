@@ -43,21 +43,21 @@ Generated 2016-03-16.
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
 |   40 | Myles Gordon        |  10.3 |        40 |              |         +2.80 |
 |   41 | Anthony Patterson   |  10.2 |         6 |              |               |
-|   42 | Ankur Dave          |  10.1 |        25 |        +0.51 |               |
-|   43 | Duo Wang            |   9.6 |        50 |        -0.16 |         +3.38 |
+|   42 | Ankur Dave          |  10.1 |        25 |        +0.50 |               |
+|   43 | Duo Wang            |   9.5 |        51 |        -0.26 |         +3.29 |
 |   44 | Gene Zubovich       |   9.4 |        19 |              |         +3.39 |
 |   45 | Nikhil Paranjape    |   7.3 |         8 |              |               |
 |   46 | Nikhil Srivastava   |   4.8 |        16 |              |               |
 |   47 | Wayne Heiser        |   4.5 |         7 |              |               |
-|   48 | Zsolt Bartha        |   4.0 |        37 |              |         -1.72 |
-|   49 | Sandra Harpster     |   3.6 |         2 |              |               |
-|   50 | Jose Lara           |   3.4 |         1 |              |               |
-|   51 | Raphael Magarik     |   3.3 |         1 |              |               |
-|   52 | Josh Lebowitz       |   2.8 |         5 |        +4.64 |               |
-|   53 | Matan Sela          |   1.0 |         1 |              |               |
-|   54 | Keaton Noon         |   0.1 |         7 |              |               |
-|   55 | Alok Singh          |   0.0 |         5 |        +0.02 |               |
-|   56 | Nate Aden           |  -0.8 |         1 |              |               |
+|   48 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
+|   49 | Zsolt Bartha        |   4.0 |        37 |              |         -1.72 |
+|   50 | Sandra Harpster     |   3.6 |         2 |              |               |
+|   51 | Jose Lara           |   3.4 |         1 |              |               |
+|   52 | Raphael Magarik     |   3.3 |         1 |              |               |
+|   53 | Josh Lebowitz       |   2.8 |         5 |        +4.64 |               |
+|   54 | Matan Sela          |   1.0 |         1 |              |               |
+|   55 | Keaton Noon         |   0.1 |         7 |              |               |
+|   56 | Alok Singh          |   0.0 |         5 |        +0.02 |               |
 |   57 | Shantanu Mittal     |  -3.2 |         2 |              |               |
 |   58 | Marco Eres          |  -3.7 |         3 |        -0.02 |               |
 |   59 | Nick Firmani        |  -3.9 |         3 |              |               |
