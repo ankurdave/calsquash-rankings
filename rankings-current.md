@@ -53,12 +53,12 @@ Generated 2016-03-16.
 |   49 | Zsolt Bartha        |   4.0 |        37 |              |         -1.72 |
 |   50 | Sandra Harpster     |   3.6 |         2 |              |               |
 |   51 | Jose Lara           |   3.4 |         1 |              |               |
-|   52 | Raphael Magarik     |   3.3 |         1 |              |               |
-|   53 | Josh Lebowitz       |   2.8 |         5 |        +4.64 |               |
+|   52 | Josh Lebowitz       |   2.8 |         5 |        +4.64 |               |
+|   53 | Raphael Magarik     |   2.6 |         1 |              |               |
 |   54 | Matan Sela          |   1.0 |         1 |              |               |
 |   55 | Keaton Noon         |   0.1 |         7 |              |               |
 |   56 | Alok Singh          |   0.0 |         5 |        +0.02 |               |
-|   57 | Shantanu Mittal     |  -3.2 |         2 |              |               |
-|   58 | Marco Eres          |  -3.7 |         3 |        -0.02 |               |
+|   57 | Marco Eres          |  -0.4 |         4 |        +3.26 |               |
+|   58 | Shantanu Mittal     |  -3.2 |         2 |              |               |
 |   59 | Nick Firmani        |  -3.9 |         3 |              |               |
-|   60 | Padma Maitland      |  -4.7 |         3 |              |               |
+|   60 | Padma Maitland      |  -5.4 |         4 |        -0.70 |               |
