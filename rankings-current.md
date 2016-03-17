@@ -9,17 +9,17 @@ Generated 2016-03-17.
 |    5 | John Kunze          |  28.4 |       284 |        -0.05 |         -0.31 |
 |    6 | Arvind Muralimohan  |  28.1 |        15 |        +2.13 |               |
 |    7 | Glenn Forrester     |  27.0 |       354 |        +0.02 |         +0.20 |
-|    8 | Nick Cobbett        |  24.7 |        11 |              |               |
+|    8 | Ethan Kerr          |  24.7 |         5 |        +2.62 |               |
 |    9 | Dan Meier           |  24.5 |        32 |              |         +7.47 |
-|   10 | Mark Modera         |  24.4 |       289 |              |         -1.16 |
-|   11 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
-|   12 | Benjamin Vicuna     |  23.9 |        46 |        +0.49 |         +7.99 |
-|   13 | Jonathan Hankar     |  23.3 |       170 |        +0.22 |         -0.01 |
-|   14 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.06 |
-|   15 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
-|   16 | Mike Jensen-Akula   |  22.8 |       203 |        +0.05 |               |
-|   17 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
-|   18 | Ethan Kerr          |  22.1 |         4 |              |               |
+|   10 | Nick Cobbett        |  24.5 |        12 |        -0.24 |               |
+|   11 | Mark Modera         |  24.4 |       289 |              |         -1.16 |
+|   12 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
+|   13 | Benjamin Vicuna     |  23.9 |        46 |        +0.49 |         +7.99 |
+|   14 | Jonathan Hankar     |  23.3 |       170 |        +0.22 |         -0.01 |
+|   15 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.06 |
+|   16 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
+|   17 | Mike Jensen-Akula   |  22.8 |       203 |        +0.05 |               |
+|   18 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
 |   19 | Reid Johnsen        |  21.9 |        13 |        -1.38 |         +6.10 |
 |   20 | Ronald Dahl         |  21.3 |        47 |        -0.33 |         -0.89 |
 |   21 | Shaun Lim           |  21.2 |        29 |        -0.12 |         +1.00 |
