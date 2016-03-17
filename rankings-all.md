@@ -197,7 +197,7 @@ Generated 2016-03-16.
 |  193 | Jeff Gordon               |  16.0 |        14 |        +0.79 |               |
 |  194 | Toni Queck                |  16.0 |        20 |              |               |
 |  195 | Eric Borden               |  16.0 |        15 |        +2.53 |               |
-|  196 | Daniel Schwartz           |  15.8 |         5 |        +0.37 |               |
+|  196 | Daniel Schwartz           |  15.9 |         6 |        +0.48 |               |
 |  197 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  198 | Jeff Bird                 |  15.7 |        38 |              |               |
 |  199 | Casey Harelson            |  15.7 |        20 |              |               |
@@ -365,7 +365,7 @@ Generated 2016-03-16.
 |  361 | Greg Sperla               |   4.5 |         8 |              |               |
 |  362 | Nate Aden                 |   4.4 |         2 |        +5.11 |               |
 |  363 | Mohammad Salama           |   4.2 |         5 |              |               |
-|  364 | Zsolt Bartha              |   4.0 |        37 |              |         -1.72 |
+|  364 | Zsolt Bartha              |   4.0 |        38 |              |         -1.72 |
 |  365 | Lewis H. Moore            |   4.0 |         8 |              |               |
 |  366 | Josephine Lee             |   3.9 |         6 |              |               |
 |  367 | Minsoo Bae                |   3.7 |         2 |              |               |

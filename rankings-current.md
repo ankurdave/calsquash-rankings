@@ -34,7 +34,7 @@ Generated 2016-03-16.
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |
 |   31 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
 |   32 | Eric Borden         |  16.0 |        15 |        +2.53 |               |
-|   33 | Daniel Schwartz     |  15.8 |         5 |        +0.37 |               |
+|   33 | Daniel Schwartz     |  15.9 |         6 |        +0.48 |               |
 |   34 | Josh Trauner        |  15.3 |        10 |        -0.44 |               |
 |   35 | Subrato Dey         |  14.7 |        10 |              |               |
 |   36 | Sam Trachtman       |  14.3 |         2 |              |               |
@@ -50,7 +50,7 @@ Generated 2016-03-16.
 |   46 | Nikhil Srivastava   |   4.8 |        16 |              |               |
 |   47 | Wayne Heiser        |   4.5 |         7 |              |               |
 |   48 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
-|   49 | Zsolt Bartha        |   4.0 |        37 |              |         -1.72 |
+|   49 | Zsolt Bartha        |   4.0 |        38 |              |         -1.72 |
 |   50 | Sandra Harpster     |   3.6 |         2 |              |               |
 |   51 | Jose Lara           |   3.4 |         1 |              |               |
 |   52 | Josh Lebowitz       |   2.8 |         5 |        +4.64 |               |
