@@ -18,7 +18,7 @@ Generated 2016-03-17.
 |   14 | Jonathan Hankar     |  23.3 |       170 |        +0.22 |         -0.01 |
 |   15 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.06 |
 |   16 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
-|   17 | Mike Jensen-Akula   |  22.8 |       203 |        +0.05 |               |
+|   17 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
 |   18 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
 |   19 | Reid Johnsen        |  21.9 |        13 |        -1.38 |         +6.10 |
 |   20 | Ronald Dahl         |  21.3 |        47 |        -0.33 |         -0.89 |
@@ -47,18 +47,18 @@ Generated 2016-03-17.
 |   43 | Duo Wang            |   9.5 |        51 |        -0.26 |         +3.29 |
 |   44 | Gene Zubovich       |   9.4 |        19 |              |         +3.39 |
 |   45 | Nikhil Paranjape    |   7.3 |         8 |              |               |
-|   46 | Nikhil Srivastava   |   4.8 |        16 |              |               |
-|   47 | Wayne Heiser        |   4.5 |         7 |              |               |
-|   48 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
-|   49 | Zsolt Bartha        |   4.0 |        38 |              |         -1.72 |
-|   50 | Sandra Harpster     |   3.6 |         2 |              |               |
-|   51 | Jose Lara           |   3.4 |         1 |              |               |
-|   52 | Josh Lebowitz       |   2.8 |         5 |        +4.64 |               |
-|   53 | Raphael Magarik     |   2.6 |         1 |              |               |
+|   46 | Raphael Magarik     |   5.1 |         2 |              |               |
+|   47 | Nikhil Srivastava   |   4.8 |        16 |              |               |
+|   48 | Wayne Heiser        |   4.5 |         7 |              |               |
+|   49 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
+|   50 | Zsolt Bartha        |   4.0 |        38 |              |         -1.72 |
+|   51 | Sandra Harpster     |   3.6 |         2 |              |               |
+|   52 | Jose Lara           |   3.3 |         1 |              |               |
+|   53 | Josh Lebowitz       |   2.8 |         5 |        +4.64 |               |
 |   54 | Matan Sela          |   1.0 |         1 |              |               |
-|   55 | Keaton Noon         |   0.1 |         7 |              |               |
+|   55 | Keaton Noon         |   0.2 |         8 |        +0.05 |               |
 |   56 | Alok Singh          |   0.0 |         5 |        +0.02 |               |
-|   57 | Marco Eres          |  -0.4 |         4 |        +3.26 |               |
+|   57 | Marco Eres          |  -0.5 |         5 |        +3.15 |               |
 |   58 | Shantanu Mittal     |  -3.2 |         2 |              |               |
 |   59 | Nick Firmani        |  -3.9 |         3 |              |               |
-|   60 | Padma Maitland      |  -5.4 |         4 |        -0.70 |               |
+|   60 | Padma Maitland      |  -5.4 |         4 |        -0.72 |               |

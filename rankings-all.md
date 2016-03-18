@@ -84,7 +84,7 @@ Generated 2016-03-17.
 |   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.43 |
 |   81 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   82 | Dante Popple              |  22.8 |        17 |              |               |
-|   83 | Mike Jensen-Akula         |  22.8 |       203 |        +0.05 |               |
+|   83 | Mike Jensen-Akula         |  22.8 |       204 |        +0.05 |         -0.01 |
 |   84 | Matt Wong                 |  22.7 |        50 |        -0.15 |               |
 |   85 | Adam Angsten              |  22.5 |         3 |              |               |
 |   86 | Richard Chan              |  22.5 |         9 |              |               |
@@ -353,35 +353,35 @@ Generated 2016-03-17.
 |  349 | Lucas Siow                |   5.2 |        10 |              |               |
 |  350 | Anshuman Tiwari           |   5.2 |         2 |              |               |
 |  351 | Yashraj Khaitain          |   5.1 |         2 |              |               |
-|  352 | Zarina Khan               |   5.0 |         5 |              |               |
-|  353 | Lucy Fairweather          |   5.0 |        11 |              |               |
-|  354 | Anosha Siripala           |   4.9 |        10 |              |               |
-|  355 | Robert Broesler           |   4.9 |         4 |              |               |
-|  356 | Alexander Zuern           |   4.8 |        25 |              |               |
-|  357 | Nikhil Srivastava         |   4.8 |        16 |              |               |
-|  358 | Vishnu Narayanan          |   4.7 |        12 |              |               |
-|  359 | Anurag Gupta              |   4.7 |         6 |              |               |
-|  360 | Wayne Heiser              |   4.5 |         7 |              |               |
-|  361 | Greg Sperla               |   4.5 |         8 |              |               |
-|  362 | Nate Aden                 |   4.4 |         2 |        +5.11 |               |
-|  363 | Mohammad Salama           |   4.2 |         5 |              |               |
-|  364 | Zsolt Bartha              |   4.0 |        38 |              |         -1.72 |
-|  365 | Lewis H. Moore            |   4.0 |         8 |              |               |
-|  366 | Josephine Lee             |   3.9 |         6 |              |               |
-|  367 | Minsoo Bae                |   3.7 |         2 |              |               |
-|  368 | Nikolai Schnittke         |   3.6 |         4 |              |               |
-|  369 | Sandra Harpster           |   3.6 |         2 |              |               |
-|  370 | Gwendal Rannou            |   3.5 |        13 |              |               |
-|  371 | Jose Lara                 |   3.4 |         1 |              |               |
+|  352 | Raphael Magarik           |   5.1 |         2 |              |               |
+|  353 | Zarina Khan               |   5.0 |         5 |              |               |
+|  354 | Lucy Fairweather          |   5.0 |        11 |              |               |
+|  355 | Anosha Siripala           |   4.9 |        10 |              |               |
+|  356 | Robert Broesler           |   4.9 |         4 |              |               |
+|  357 | Alexander Zuern           |   4.8 |        25 |              |               |
+|  358 | Nikhil Srivastava         |   4.8 |        16 |              |               |
+|  359 | Vishnu Narayanan          |   4.7 |        12 |              |               |
+|  360 | Anurag Gupta              |   4.7 |         6 |              |               |
+|  361 | Wayne Heiser              |   4.5 |         7 |              |               |
+|  362 | Greg Sperla               |   4.5 |         8 |              |               |
+|  363 | Nate Aden                 |   4.4 |         2 |        +5.11 |               |
+|  364 | Mohammad Salama           |   4.2 |         5 |              |               |
+|  365 | Zsolt Bartha              |   4.0 |        38 |              |         -1.72 |
+|  366 | Lewis H. Moore            |   4.0 |         8 |              |               |
+|  367 | Josephine Lee             |   3.9 |         6 |              |               |
+|  368 | Minsoo Bae                |   3.7 |         2 |              |               |
+|  369 | Nikolai Schnittke         |   3.6 |         4 |              |               |
+|  370 | Sandra Harpster           |   3.6 |         2 |              |               |
+|  371 | Gwendal Rannou            |   3.5 |        13 |              |               |
 |  372 | Brookes Degen             |   3.3 |         6 |              |               |
 |  373 | Nicholas Bauer            |   3.3 |        16 |              |               |
-|  374 | Akshay Dugar              |   3.2 |         6 |              |               |
-|  375 | Alex Walters              |   3.2 |         3 |              |               |
-|  376 | Catherine Wang            |   3.2 |        10 |              |               |
-|  377 | Vito Sciaraffia           |   3.0 |         5 |              |               |
-|  378 | Josh Lebowitz             |   2.8 |         5 |        +4.64 |               |
-|  379 | Richard Fabini            |   2.7 |         3 |              |               |
-|  380 | Raphael Magarik           |   2.6 |         1 |              |               |
+|  374 | Jose Lara                 |   3.3 |         1 |              |               |
+|  375 | Akshay Dugar              |   3.2 |         6 |              |               |
+|  376 | Alex Walters              |   3.2 |         3 |              |               |
+|  377 | Catherine Wang            |   3.2 |        10 |              |               |
+|  378 | Vito Sciaraffia           |   3.0 |         5 |              |               |
+|  379 | Josh Lebowitz             |   2.8 |         5 |        +4.64 |               |
+|  380 | Richard Fabini            |   2.7 |         3 |              |               |
 |  381 | Martin Rasmussen          |   2.5 |         6 |              |               |
 |  382 | Therese Jones             |   2.3 |         6 |              |               |
 |  383 | Suneesh Kaul              |   2.2 |         3 |              |               |
@@ -417,8 +417,8 @@ Generated 2016-03-17.
 |  413 | Hobson Brown              |   0.5 |         1 |              |               |
 |  414 | Freeden Ouer              |   0.3 |         1 |              |               |
 |  415 | Seth Garz                 |   0.2 |         1 |              |               |
-|  416 | Tom Joseph                |   0.1 |         2 |              |               |
-|  417 | Keaton Noon               |   0.1 |         7 |              |               |
+|  416 | Keaton Noon               |   0.2 |         8 |        +0.05 |               |
+|  417 | Tom Joseph                |   0.1 |         2 |              |               |
 |  418 | Michael Mann              |   0.1 |         4 |              |               |
 |  419 | Tammy J Faridi            |   0.1 |        27 |              |               |
 |  420 | Pablo Paredes             |   0.0 |         1 |              |               |
@@ -435,8 +435,8 @@ Generated 2016-03-17.
 |  431 | Rafael Silberblatt        |  -0.3 |         5 |              |               |
 |  432 | Greg Rybka                |  -0.3 |         4 |              |         -0.04 |
 |  433 | Rachel Chiu               |  -0.4 |         2 |              |               |
-|  434 | Marco Eres                |  -0.4 |         4 |        +3.26 |               |
-|  435 | Alfonso Rojas             |  -0.4 |         8 |              |         -1.13 |
+|  434 | Alfonso Rojas             |  -0.4 |         8 |              |         -1.13 |
+|  435 | Marco Eres                |  -0.5 |         5 |        +3.15 |               |
 |  436 | Mikel Shybut              |  -0.6 |         4 |              |               |
 |  437 | Mikolaj Oettingen         |  -0.6 |         3 |              |               |
 |  438 | Jim Kingsbury             |  -0.7 |         2 |              |               |
@@ -480,6 +480,6 @@ Generated 2016-03-17.
 |  476 | Nick Firmani              |  -3.9 |         3 |              |               |
 |  477 | Mateo Aceves              |  -4.5 |         4 |              |               |
 |  478 | Adeesh Goel               |  -5.2 |         3 |              |               |
-|  479 | Padma Maitland            |  -5.4 |         4 |        -0.70 |               |
+|  479 | Padma Maitland            |  -5.4 |         4 |        -0.72 |               |
 |  480 | Emmanual Tsukerman        |  -5.4 |         3 |              |               |
 |  481 | Stephanie Collett         |  -6.2 |         2 |              |               |
