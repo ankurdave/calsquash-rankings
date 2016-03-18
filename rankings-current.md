@@ -12,7 +12,7 @@ Generated 2016-03-18.
 |    8 | Ethan Kerr          |  24.7 |         5 |        +2.62 |               |
 |    9 | Dan Meier           |  24.5 |        32 |              |         +7.47 |
 |   10 | Nick Cobbett        |  24.5 |        12 |        -0.24 |               |
-|   11 | Mark Modera         |  24.4 |       289 |              |         -1.16 |
+|   11 | Mark Modera         |  24.3 |       290 |        -0.10 |         -1.26 |
 |   12 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
 |   13 | Benjamin Vicuna     |  23.9 |        46 |        +0.49 |         +7.99 |
 |   14 | Jonathan Hankar     |  23.3 |       170 |        +0.22 |         -0.01 |
@@ -29,7 +29,7 @@ Generated 2016-03-18.
 |   25 | Jacob Kersey        |  20.1 |        11 |        +1.26 |               |
 |   26 | Chris Flores        |  19.8 |       285 |        +0.11 |         -0.62 |
 |   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
-|   28 | Jaime Perez         |  17.1 |         9 |        -1.04 |               |
+|   28 | Jaime Perez         |  18.8 |        10 |        +0.64 |               |
 |   29 | Kent Daniels        |  16.8 |        67 |        -0.12 |         +2.46 |
 |   30 | George Roche        |  16.3 |        14 |              |         +2.01 |
 |   31 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
