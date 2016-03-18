@@ -124,8 +124,8 @@ Generated 2016-03-18.
 |  120 | Saurabh Bajaj             |  20.2 |         7 |        +3.89 |               |
 |  121 | Jacob Kersey              |  20.1 |        11 |        +1.26 |               |
 |  122 | Andrew Proudfoot          |  19.8 |        26 |              |               |
-|  123 | Whit Eldredge             |  19.7 |         2 |              |               |
-|  124 | Chris Flores              |  19.7 |       284 |              |         -0.72 |
+|  123 | Chris Flores              |  19.8 |       285 |        +0.11 |         -0.62 |
+|  124 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  125 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  126 | Pierre Darancet           |  19.6 |        94 |              |               |
 |  127 | Sunil Bhave               |  19.6 |        26 |              |               |
@@ -221,14 +221,14 @@ Generated 2016-03-18.
 |  217 | Lakshya Rustagi           |  14.8 |         2 |              |               |
 |  218 | Angie Ng                  |  14.8 |        12 |              |               |
 |  219 | Nicholas Monsees          |  14.8 |         5 |              |               |
-|  220 | Subrato Dey               |  14.7 |        10 |              |               |
-|  221 | Yating Liu                |  14.6 |         7 |              |               |
-|  222 | Frederick Bayles          |  14.6 |         8 |              |               |
-|  223 | John Grim                 |  14.4 |        13 |              |               |
-|  224 | David Shabelman           |  14.4 |        30 |              |               |
-|  225 | Sam Trachtman             |  14.3 |         2 |              |               |
-|  226 | Peter Dering              |  14.3 |         9 |              |               |
-|  227 | Chinghway Lim             |  14.3 |        10 |              |               |
+|  220 | Yating Liu                |  14.6 |         7 |              |               |
+|  221 | Frederick Bayles          |  14.6 |         8 |              |               |
+|  222 | John Grim                 |  14.4 |        13 |              |               |
+|  223 | David Shabelman           |  14.4 |        30 |              |               |
+|  224 | Sam Trachtman             |  14.3 |         2 |              |               |
+|  225 | Peter Dering              |  14.3 |         9 |              |               |
+|  226 | Chinghway Lim             |  14.3 |        10 |              |               |
+|  227 | Subrato Dey               |  14.2 |        11 |        -0.53 |               |
 |  228 | Wesley Huang              |  14.0 |         8 |              |               |
 |  229 | Terry Chang               |  14.0 |        30 |        -0.15 |         +3.19 |
 |  230 | Greg Adams                |  14.0 |        10 |              |               |

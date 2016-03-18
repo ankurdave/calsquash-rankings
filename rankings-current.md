@@ -27,7 +27,7 @@ Generated 2016-03-18.
 |   23 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
 |   24 | Saurabh Bajaj       |  20.2 |         7 |        +3.89 |               |
 |   25 | Jacob Kersey        |  20.1 |        11 |        +1.26 |               |
-|   26 | Chris Flores        |  19.7 |       284 |              |         -0.72 |
+|   26 | Chris Flores        |  19.8 |       285 |        +0.11 |         -0.62 |
 |   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   28 | Jaime Perez         |  17.1 |         9 |        -1.04 |               |
 |   29 | Kent Daniels        |  16.8 |        67 |        -0.12 |         +2.46 |
@@ -36,8 +36,8 @@ Generated 2016-03-18.
 |   32 | Eric Borden         |  16.0 |        15 |        +2.53 |               |
 |   33 | Daniel Schwartz     |  15.9 |         6 |        +0.48 |               |
 |   34 | Josh Trauner        |  15.3 |        10 |        -0.44 |               |
-|   35 | Subrato Dey         |  14.7 |        10 |              |               |
-|   36 | Sam Trachtman       |  14.3 |         2 |              |               |
+|   35 | Sam Trachtman       |  14.3 |         2 |              |               |
+|   36 | Subrato Dey         |  14.2 |        11 |        -0.53 |               |
 |   37 | Terry Chang         |  14.0 |        30 |        -0.15 |         +3.19 |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
