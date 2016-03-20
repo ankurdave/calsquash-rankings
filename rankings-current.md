@@ -37,8 +37,8 @@ Generated 2016-03-20.
 |   33 | Daniel Schwartz     |  15.9 |         6 |        +0.48 |               |
 |   34 | Josh Trauner        |  15.2 |        11 |        -0.63 |               |
 |   35 | Sam Trachtman       |  14.3 |         2 |              |               |
-|   36 | Subrato Dey         |  14.2 |        11 |        -0.53 |               |
-|   37 | Terry Chang         |  14.0 |        30 |        -0.15 |         +3.19 |
+|   36 | Terry Chang         |  14.3 |        31 |        +0.15 |         +3.49 |
+|   37 | Subrato Dey         |  14.2 |        11 |        -0.53 |               |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
 |   40 | Myles Gordon        |  10.3 |        40 |              |         +2.80 |
@@ -49,8 +49,8 @@ Generated 2016-03-20.
 |   45 | Nikhil Paranjape    |   7.3 |         8 |              |               |
 |   46 | Raphael Magarik     |   5.1 |         2 |              |               |
 |   47 | Nikhil Srivastava   |   4.8 |        16 |              |               |
-|   48 | Wayne Heiser        |   4.5 |         7 |              |               |
-|   49 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
+|   48 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
+|   49 | Wayne Heiser        |   4.3 |         8 |        -0.18 |               |
 |   50 | Zsolt Bartha        |   4.0 |        38 |              |         -1.72 |
 |   51 | Sandra Harpster     |   3.6 |         2 |              |               |
 |   52 | Jose Lara           |   3.3 |         1 |              |               |

@@ -227,10 +227,10 @@ Generated 2016-03-20.
 |  223 | David Shabelman           |  14.4 |        30 |              |               |
 |  224 | Sam Trachtman             |  14.3 |         2 |              |               |
 |  225 | Peter Dering              |  14.3 |         9 |              |               |
-|  226 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  227 | Subrato Dey               |  14.2 |        11 |        -0.53 |               |
-|  228 | Wesley Huang              |  14.0 |         8 |              |               |
-|  229 | Terry Chang               |  14.0 |        30 |        -0.15 |         +3.19 |
+|  226 | Terry Chang               |  14.3 |        31 |        +0.15 |         +3.49 |
+|  227 | Chinghway Lim             |  14.3 |        10 |              |               |
+|  228 | Subrato Dey               |  14.2 |        11 |        -0.53 |               |
+|  229 | Wesley Huang              |  14.0 |         8 |              |               |
 |  230 | Greg Adams                |  14.0 |        10 |              |               |
 |  231 | Rupert Myers              |  14.0 |        22 |        -0.11 |               |
 |  232 | Vipul Singhvi             |  14.0 |         8 |              |               |
@@ -362,9 +362,9 @@ Generated 2016-03-20.
 |  358 | Nikhil Srivastava         |   4.8 |        16 |              |               |
 |  359 | Vishnu Narayanan          |   4.7 |        12 |              |               |
 |  360 | Anurag Gupta              |   4.7 |         6 |              |               |
-|  361 | Wayne Heiser              |   4.5 |         7 |              |               |
-|  362 | Greg Sperla               |   4.5 |         8 |              |               |
-|  363 | Nate Aden                 |   4.4 |         2 |        +5.11 |               |
+|  361 | Greg Sperla               |   4.5 |         8 |              |               |
+|  362 | Nate Aden                 |   4.4 |         2 |        +5.11 |               |
+|  363 | Wayne Heiser              |   4.3 |         8 |        -0.18 |               |
 |  364 | Mohammad Salama           |   4.2 |         5 |              |               |
 |  365 | Zsolt Bartha              |   4.0 |        38 |              |         -1.72 |
 |  366 | Lewis H. Moore            |   4.0 |         8 |              |               |
