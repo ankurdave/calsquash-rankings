@@ -74,8 +74,8 @@ Generated 2016-03-19.
 |   70 | Andrew Hsu                |  23.4 |        15 |              |               |
 |   71 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   72 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   73 | Jonathan Hankar           |  23.3 |       170 |        +0.22 |         -0.01 |
-|   74 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   73 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   74 | Jonathan Hankar           |  23.2 |       170 |        +0.21 |         -0.02 |
 |   75 | Mikey Zarem               |  23.2 |         8 |              |               |
 |   76 | Andrew Lawrie             |  23.1 |        42 |        +0.10 |        +20.06 |
 |   77 | Jan Beranek               |  23.1 |        46 |              |               |
@@ -116,13 +116,13 @@ Generated 2016-03-19.
 |  112 | Ken-Ichi Ueda             |  21.0 |       181 |              |         +0.10 |
 |  113 | Matt Wild                 |  21.0 |        25 |              |         -0.02 |
 |  114 | Robert Jeng               |  20.9 |        26 |              |               |
-|  115 | Aaron Socha               |  20.9 |        24 |              |               |
-|  116 | Omair Azam                |  20.6 |        18 |              |               |
-|  117 | Ian MacDonald             |  20.5 |        59 |              |               |
-|  118 | Jonathan Francis          |  20.4 |        50 |              |         +1.85 |
-|  119 | Dror Matalon              |  20.3 |       334 |              |         -0.92 |
-|  120 | Saurabh Bajaj             |  20.2 |         7 |        +3.89 |               |
-|  121 | Jacob Kersey              |  20.1 |        11 |        +1.26 |               |
+|  115 | Jacob Kersey              |  20.9 |        12 |        +2.11 |               |
+|  116 | Aaron Socha               |  20.9 |        24 |              |               |
+|  117 | Omair Azam                |  20.6 |        18 |              |               |
+|  118 | Ian MacDonald             |  20.5 |        59 |              |               |
+|  119 | Jonathan Francis          |  20.4 |        50 |              |         +1.85 |
+|  120 | Dror Matalon              |  20.3 |       334 |              |         -0.92 |
+|  121 | Saurabh Bajaj             |  20.2 |         7 |        +3.89 |               |
 |  122 | Andrew Proudfoot          |  19.8 |        26 |              |               |
 |  123 | Chris Flores              |  19.8 |       285 |        +0.11 |         -0.62 |
 |  124 | Whit Eldredge             |  19.7 |         2 |              |               |
@@ -204,12 +204,12 @@ Generated 2016-03-19.
 |  200 | Nick Paget                |  15.6 |        35 |              |               |
 |  201 | Allan Dafoe               |  15.5 |        43 |              |               |
 |  202 | David Bratt               |  15.4 |        16 |              |         +3.54 |
-|  203 | Josh Trauner              |  15.3 |        10 |        -0.44 |               |
-|  204 | Doug Kreutzer             |  15.3 |        10 |              |               |
-|  205 | Ranjit Jhala              |  15.2 |         6 |              |               |
-|  206 | Chris Harrelson           |  15.2 |        47 |              |               |
-|  207 | Tuyen Le                  |  15.2 |         5 |              |               |
-|  208 | Narayan Sankaran          |  15.2 |        24 |              |               |
+|  203 | Doug Kreutzer             |  15.3 |        10 |              |               |
+|  204 | Ranjit Jhala              |  15.2 |         6 |              |               |
+|  205 | Chris Harrelson           |  15.2 |        47 |              |               |
+|  206 | Tuyen Le                  |  15.2 |         5 |              |               |
+|  207 | Narayan Sankaran          |  15.2 |        24 |              |               |
+|  208 | Josh Trauner              |  15.2 |        11 |        -0.63 |               |
 |  209 | Matthew Brett             |  15.1 |        20 |              |               |
 |  210 | Kedar Viswanathan         |  15.1 |        16 |              |               |
 |  211 | Alex Marqusee             |  15.1 |        28 |              |         +2.11 |
