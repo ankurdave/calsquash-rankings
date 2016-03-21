@@ -12,11 +12,11 @@ Generated 2016-03-21.
 |    8 | Nick Cobbett        |  25.6 |        13 |        +0.85 |               |
 |    9 | Ethan Kerr          |  24.7 |         5 |        +2.62 |               |
 |   10 | Dan Meier           |  24.5 |        32 |              |         +7.47 |
-|   11 | Mark Modera         |  24.3 |       290 |        -0.10 |         -1.26 |
+|   11 | Mark Modera         |  24.2 |       291 |        -0.19 |         -1.35 |
 |   12 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
-|   13 | Benjamin Vicuna     |  23.9 |        46 |        +0.49 |         +7.99 |
-|   14 | Jonathan Hankar     |  23.2 |       170 |        +0.21 |         -0.03 |
-|   15 | Andrew Lawrie       |  23.1 |        42 |        +0.10 |        +20.06 |
+|   13 | Benjamin Vicuna     |  23.9 |        46 |        +0.50 |         +8.00 |
+|   14 | Andrew Lawrie       |  23.4 |        43 |        +0.37 |        +20.32 |
+|   15 | Jonathan Hankar     |  23.2 |       170 |        +0.21 |         -0.03 |
 |   16 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
 |   17 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
 |   18 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
@@ -29,7 +29,7 @@ Generated 2016-03-21.
 |   25 | Saurabh Bajaj       |  20.2 |         7 |        +3.89 |               |
 |   26 | Chris Flores        |  19.8 |       285 |        +0.11 |         -0.62 |
 |   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
-|   28 | Jaime Perez         |  18.8 |        10 |        +0.64 |               |
+|   28 | Jaime Perez         |  18.8 |        10 |        +0.65 |               |
 |   29 | Sam Trachtman       |  17.3 |         3 |        +2.93 |               |
 |   30 | Kent Daniels        |  16.8 |        67 |        -0.12 |         +2.46 |
 |   31 | George Roche        |  16.3 |        14 |              |         +2.01 |

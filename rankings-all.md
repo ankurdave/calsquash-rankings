@@ -56,28 +56,28 @@ Generated 2016-03-21.
 |   52 | Dan Meier                 |  24.5 |        32 |              |         +7.47 |
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   54 | Charlie Weiss             |  24.3 |        70 |              |         +0.99 |
-|   55 | Mark Modera               |  24.3 |       290 |        -0.10 |         -1.26 |
-|   56 | Adam Pollak               |  24.2 |        31 |              |               |
+|   55 | Adam Pollak               |  24.2 |        31 |              |               |
+|   56 | Mark Modera               |  24.2 |       291 |        -0.19 |         -1.35 |
 |   57 | Toby Reiner               |  24.2 |       159 |              |               |
 |   58 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   59 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   60 | Jon Shih                  |  24.0 |        47 |              |               |
 |   61 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   62 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   63 | Benjamin Vicuna           |  23.9 |        46 |        +0.49 |         +7.99 |
+|   62 | Benjamin Vicuna           |  23.9 |        46 |        +0.50 |         +8.00 |
+|   63 | Ivo Plsek                 |  23.9 |        60 |              |               |
 |   64 | Matt Waid                 |  23.8 |        51 |              |               |
 |   65 | Sean O'Nuallain           |  23.8 |        43 |              |               |
 |   66 | Martin Stokes             |  23.8 |        12 |              |               |
 |   67 | Todd Wirsching            |  23.7 |         8 |              |               |
 |   68 | Thomas Krussig            |  23.5 |        16 |              |         +2.93 |
 |   69 | Joe Farrell               |  23.4 |        30 |              |               |
-|   70 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   71 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   72 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   73 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   74 | Jonathan Hankar           |  23.2 |       170 |        +0.21 |         -0.03 |
-|   75 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   76 | Andrew Lawrie             |  23.1 |        42 |        +0.10 |        +20.06 |
+|   70 | Andrew Lawrie             |  23.4 |        43 |        +0.37 |        +20.32 |
+|   71 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   72 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   73 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   74 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   75 | Jonathan Hankar           |  23.2 |       170 |        +0.21 |         -0.03 |
+|   76 | Mikey Zarem               |  23.2 |         8 |              |               |
 |   77 | Jan Beranek               |  23.1 |        46 |              |               |
 |   78 | Gary Golding              |  23.1 |         6 |              |               |
 |   79 | Jared Bard                |  23.0 |        16 |              |         +5.31 |
@@ -140,7 +140,7 @@ Generated 2016-03-21.
 |  136 | Andrew Pritchard          |  18.9 |        16 |              |               |
 |  137 | Bhuvan Jain               |  18.9 |        18 |              |               |
 |  138 | Jeff Diamond              |  18.8 |        44 |              |               |
-|  139 | Jaime Perez               |  18.8 |        10 |        +0.64 |               |
+|  139 | Jaime Perez               |  18.8 |        10 |        +0.65 |               |
 |  140 | Blake Woodard             |  18.7 |        10 |              |               |
 |  141 | Madhav Pai                |  18.7 |         5 |              |               |
 |  142 | John Corcoran             |  18.7 |        49 |              |               |
