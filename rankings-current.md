@@ -17,16 +17,16 @@ Generated 2016-03-21.
 |   13 | Benjamin Vicuna     |  23.9 |        46 |        +0.50 |         +8.00 |
 |   14 | Andrew Lawrie       |  23.4 |        43 |        +0.37 |        +20.32 |
 |   15 | Jonathan Hankar     |  23.2 |       170 |        +0.21 |         -0.03 |
-|   16 | Jared Bard          |  23.0 |        16 |              |         +5.31 |
+|   16 | Saurabh Bajaj       |  23.1 |         8 |        +6.75 |               |
 |   17 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
 |   18 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
-|   19 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
-|   20 | Ronald Dahl         |  21.3 |        47 |        -0.33 |         -0.89 |
-|   21 | Shaun Lim           |  21.2 |        29 |        -0.12 |         +1.00 |
-|   22 | Jacob Kersey        |  20.9 |        12 |        +2.06 |               |
-|   23 | Jonathan Francis    |  20.4 |        50 |              |         +1.85 |
-|   24 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
-|   25 | Saurabh Bajaj       |  20.2 |         7 |        +3.89 |               |
+|   19 | Jared Bard          |  22.6 |        17 |        -0.34 |         +4.97 |
+|   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
+|   21 | Ronald Dahl         |  21.3 |        47 |        -0.33 |         -0.89 |
+|   22 | Shaun Lim           |  21.2 |        29 |        -0.12 |         +1.00 |
+|   23 | Jacob Kersey        |  20.9 |        12 |        +2.06 |               |
+|   24 | Jonathan Francis    |  20.4 |        50 |              |         +1.85 |
+|   25 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
 |   26 | Chris Flores        |  19.8 |       285 |        +0.11 |         -0.62 |
 |   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   28 | Jaime Perez         |  18.8 |        10 |        +0.65 |               |
@@ -54,7 +54,7 @@ Generated 2016-03-21.
 |   50 | Zsolt Bartha        |   4.0 |        38 |              |         -1.72 |
 |   51 | Sandra Harpster     |   3.6 |         2 |              |               |
 |   52 | Jose Lara           |   3.3 |         1 |              |               |
-|   53 | Josh Lebowitz       |   2.8 |         5 |        +4.64 |               |
+|   53 | Josh Lebowitz       |   2.7 |         5 |        +4.54 |               |
 |   54 | Matan Sela          |   1.0 |         1 |              |               |
 |   55 | Keaton Noon         |   0.2 |         8 |        +0.05 |               |
 |   56 | Alok Singh          |   0.0 |         5 |        +0.02 |               |
