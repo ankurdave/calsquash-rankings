@@ -107,7 +107,7 @@ Generated 2016-03-21.
 |  103 | Phin Lee                  |  21.5 |        16 |              |               |
 |  104 | Dev Millstein             |  21.4 |        92 |              |               |
 |  105 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
-|  106 | Ronald Dahl               |  21.3 |        47 |        -0.33 |         -0.89 |
+|  106 | Ronald Dahl               |  21.3 |        47 |        -0.31 |         -0.86 |
 |  107 | Matthew Elliott           |  21.3 |         7 |              |               |
 |  108 | Garvin Heath              |  21.2 |        28 |              |               |
 |  109 | Shaun Lim                 |  21.2 |        29 |        -0.12 |         +1.00 |
@@ -124,8 +124,8 @@ Generated 2016-03-21.
 |  120 | Jonathan Francis          |  20.4 |        50 |              |         +1.85 |
 |  121 | Dror Matalon              |  20.3 |       334 |              |         -0.92 |
 |  122 | Andrew Proudfoot          |  19.8 |        26 |              |               |
-|  123 | Chris Flores              |  19.8 |       285 |        +0.11 |         -0.62 |
-|  124 | Whit Eldredge             |  19.7 |         2 |              |               |
+|  123 | Whit Eldredge             |  19.7 |         2 |              |               |
+|  124 | Chris Flores              |  19.7 |       286 |        +0.02 |         -0.70 |
 |  125 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  126 | Pierre Darancet           |  19.6 |        94 |              |               |
 |  127 | Sunil Bhave               |  19.6 |        26 |              |               |
@@ -181,23 +181,23 @@ Generated 2016-03-21.
 |  177 | Nacho Quaglio             |  17.0 |         3 |              |               |
 |  178 | Sebastien Biraud          |  17.0 |        60 |              |               |
 |  179 | Kedar Shah                |  16.9 |         9 |              |               |
-|  180 | Sarah Mcneil              |  16.9 |        24 |              |               |
-|  181 | Shwetabh Singh            |  16.9 |         6 |              |               |
-|  182 | William Coleman           |  16.8 |        48 |              |               |
-|  183 | Kent Daniels              |  16.8 |        67 |        -0.12 |         +2.46 |
-|  184 | Darren Morgan             |  16.8 |        11 |              |               |
-|  185 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  186 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  187 | Michael Cianfrocco        |  16.5 |        18 |              |               |
-|  188 | Ben Ailes                 |  16.5 |        48 |              |               |
-|  189 | George Roche              |  16.3 |        14 |              |         +2.01 |
-|  190 | Anirudh Todi              |  16.2 |         3 |              |               |
-|  191 | Rich Shapiro              |  16.1 |        82 |              |               |
-|  192 | Troup Howard              |  16.1 |        34 |              |         -0.29 |
-|  193 | Andrew Green              |  16.1 |        52 |              |               |
-|  194 | Jeff Gordon               |  16.0 |        14 |        +0.79 |               |
-|  195 | Toni Queck                |  16.0 |        20 |              |               |
-|  196 | Eric Borden               |  16.0 |        15 |        +2.53 |               |
+|  180 | Eric Borden               |  16.9 |        16 |        +3.43 |               |
+|  181 | Sarah Mcneil              |  16.9 |        24 |              |               |
+|  182 | Shwetabh Singh            |  16.9 |         6 |              |               |
+|  183 | William Coleman           |  16.8 |        48 |              |               |
+|  184 | Kent Daniels              |  16.8 |        67 |        -0.14 |         +2.44 |
+|  185 | Darren Morgan             |  16.8 |        11 |              |               |
+|  186 | Viraj Paropkari           |  16.7 |        16 |              |               |
+|  187 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  188 | Michael Cianfrocco        |  16.5 |        18 |              |               |
+|  189 | Ben Ailes                 |  16.5 |        48 |              |               |
+|  190 | George Roche              |  16.3 |        14 |              |         +2.01 |
+|  191 | Anirudh Todi              |  16.2 |         3 |              |               |
+|  192 | Rich Shapiro              |  16.1 |        82 |              |               |
+|  193 | Troup Howard              |  16.1 |        34 |              |         -0.29 |
+|  194 | Andrew Green              |  16.1 |        52 |              |               |
+|  195 | Jeff Gordon               |  16.0 |        14 |        +0.79 |               |
+|  196 | Toni Queck                |  16.0 |        20 |              |               |
 |  197 | Daniel Schwartz           |  15.9 |         6 |        +0.48 |               |
 |  198 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  199 | Jeff Bird                 |  15.7 |        38 |              |               |

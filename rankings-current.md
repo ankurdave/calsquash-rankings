@@ -22,19 +22,19 @@ Generated 2016-03-21.
 |   18 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
 |   19 | Jared Bard          |  22.6 |        17 |        -0.34 |         +4.97 |
 |   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
-|   21 | Ronald Dahl         |  21.3 |        47 |        -0.33 |         -0.89 |
+|   21 | Ronald Dahl         |  21.3 |        47 |        -0.31 |         -0.86 |
 |   22 | Shaun Lim           |  21.2 |        29 |        -0.12 |         +1.00 |
 |   23 | Jacob Kersey        |  20.9 |        12 |        +2.06 |               |
 |   24 | Jonathan Francis    |  20.4 |        50 |              |         +1.85 |
 |   25 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
-|   26 | Chris Flores        |  19.8 |       285 |        +0.11 |         -0.62 |
+|   26 | Chris Flores        |  19.7 |       286 |        +0.02 |         -0.70 |
 |   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   28 | Jaime Perez         |  18.8 |        10 |        +0.65 |               |
 |   29 | Sam Trachtman       |  17.3 |         3 |        +2.93 |               |
-|   30 | Kent Daniels        |  16.8 |        67 |        -0.12 |         +2.46 |
-|   31 | George Roche        |  16.3 |        14 |              |         +2.01 |
-|   32 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
-|   33 | Eric Borden         |  16.0 |        15 |        +2.53 |               |
+|   30 | Eric Borden         |  16.9 |        16 |        +3.43 |               |
+|   31 | Kent Daniels        |  16.8 |        67 |        -0.14 |         +2.44 |
+|   32 | George Roche        |  16.3 |        14 |              |         +2.01 |
+|   33 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
 |   34 | Daniel Schwartz     |  15.9 |         6 |        +0.48 |               |
 |   35 | Josh Trauner        |  15.0 |        12 |        -0.82 |               |
 |   36 | Terry Chang         |  14.3 |        31 |        +0.15 |         +3.49 |
