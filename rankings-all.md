@@ -4,7 +4,7 @@ Generated 2016-03-23.
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  43.0 |       203 |        +0.09 |         +0.16 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
-|    3 | Rees Sweeney-Taylor       |  36.5 |        72 |        -0.06 |         +1.02 |
+|    3 | Rees Sweeney-Taylor       |  36.6 |        73 |              |         +1.09 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
 |    5 | Tanu Sankalia             |  36.2 |        94 |              |               |
 |    6 | Thomas Lowish             |  35.9 |         6 |              |         +1.48 |
@@ -21,8 +21,8 @@ Generated 2016-03-23.
 |   17 | Grant French              |  29.6 |       125 |              |               |
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
 |   19 | Louis Morrill             |  29.4 |        10 |              |               |
-|   20 | Jim Veitch                |  29.3 |       400 |        -0.09 |         +0.06 |
-|   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
+|   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
+|   21 | Jim Veitch                |  29.3 |       401 |        -0.11 |         +0.04 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
 |   23 | Frank Kennamer            |  28.8 |       191 |              |         +0.37 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
@@ -50,8 +50,8 @@ Generated 2016-03-23.
 |   46 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   47 | Nick Cobbett              |  25.6 |        13 |        +0.85 |               |
 |   48 | Mikael Rehn               |  25.4 |         5 |              |               |
-|   49 | Dan Bohn                  |  24.7 |        73 |              |         +0.19 |
-|   50 | Ethan Kerr                |  24.7 |         5 |        +2.62 |               |
+|   49 | Ethan Kerr                |  24.9 |         5 |        +2.83 |               |
+|   50 | Dan Bohn                  |  24.7 |        73 |              |         +0.19 |
 |   51 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   52 | Dan Meier                 |  24.5 |        32 |              |         +7.47 |
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
