@@ -30,7 +30,7 @@ Generated 2016-03-23.
 |   26 | Chris Flores        |  19.7 |       286 |        +0.01 |         -0.71 |
 |   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   28 | Jaime Perez         |  18.8 |        10 |        +0.65 |               |
-|   29 | Daniel Schwartz     |  17.9 |         7 |        +2.47 |               |
+|   29 | Daniel Schwartz     |  17.9 |         7 |        +2.46 |               |
 |   30 | Sam Trachtman       |  17.3 |         3 |        +2.93 |               |
 |   31 | Eric Borden         |  16.9 |        16 |        +3.43 |               |
 |   32 | Kent Daniels        |  16.8 |        67 |        -0.14 |         +2.44 |
@@ -51,13 +51,13 @@ Generated 2016-03-23.
 |   47 | Nikhil Srivastava   |   4.8 |        16 |              |               |
 |   48 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
 |   49 | Wayne Heiser        |   4.3 |         8 |        -0.18 |               |
-|   50 | Zsolt Bartha        |   4.0 |        38 |              |         -1.72 |
+|   50 | Zsolt Bartha        |   3.8 |        39 |        -0.16 |         -1.87 |
 |   51 | Sandra Harpster     |   3.8 |         3 |        +0.27 |               |
 |   52 | Jose Lara           |   3.3 |         1 |              |               |
 |   53 | Josh Lebowitz       |   2.7 |         5 |        +4.54 |               |
-|   54 | Matan Sela          |   1.0 |         1 |              |               |
-|   55 | Keaton Noon         |   0.2 |         8 |        +0.05 |               |
-|   56 | Alok Singh          |   0.0 |         5 |        +0.02 |               |
+|   54 | Alok Singh          |   2.3 |         6 |        +2.26 |               |
+|   55 | Matan Sela          |   1.0 |         1 |              |               |
+|   56 | Keaton Noon         |   0.2 |         8 |        +0.05 |               |
 |   57 | Marco Eres          |  -0.5 |         5 |        +3.15 |               |
 |   58 | Shantanu Mittal     |  -3.2 |         2 |              |               |
 |   59 | Nick Firmani        |  -3.9 |         3 |              |               |
