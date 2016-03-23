@@ -104,10 +104,10 @@ Generated 2016-03-22.
 |  100 | Zarah Rahman              |  21.6 |        13 |              |               |
 |  101 | Amy Lee                   |  21.6 |        56 |              |               |
 |  102 | Kameshwar Poolla          |  21.6 |        11 |              |               |
-|  103 | Phin Lee                  |  21.5 |        16 |              |               |
-|  104 | Dev Millstein             |  21.4 |        92 |              |               |
-|  105 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
-|  106 | Ronald Dahl               |  21.3 |        47 |        -0.31 |         -0.86 |
+|  103 | Ronald Dahl               |  21.5 |        48 |        -0.10 |         -0.65 |
+|  104 | Phin Lee                  |  21.5 |        16 |              |               |
+|  105 | Dev Millstein             |  21.4 |        92 |              |               |
+|  106 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
 |  107 | Matthew Elliott           |  21.3 |         7 |              |               |
 |  108 | Garvin Heath              |  21.2 |        28 |              |               |
 |  109 | Shaun Lim                 |  21.2 |        29 |        -0.12 |         +1.00 |
@@ -125,7 +125,7 @@ Generated 2016-03-22.
 |  121 | Dror Matalon              |  20.3 |       334 |              |         -0.92 |
 |  122 | Andrew Proudfoot          |  19.8 |        26 |              |               |
 |  123 | Whit Eldredge             |  19.7 |         2 |              |               |
-|  124 | Chris Flores              |  19.7 |       286 |        +0.02 |         -0.70 |
+|  124 | Chris Flores              |  19.7 |       286 |        +0.01 |         -0.71 |
 |  125 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  126 | Pierre Darancet           |  19.6 |        94 |              |               |
 |  127 | Sunil Bhave               |  19.6 |        26 |              |               |
@@ -229,7 +229,7 @@ Generated 2016-03-22.
 |  225 | Peter Dering              |  14.3 |         9 |              |               |
 |  226 | Terry Chang               |  14.3 |        31 |        +0.15 |         +3.49 |
 |  227 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  228 | Subrato Dey               |  14.2 |        11 |        -0.53 |               |
+|  228 | Subrato Dey               |  14.0 |        12 |        -0.72 |               |
 |  229 | Wesley Huang              |  14.0 |         8 |              |               |
 |  230 | Greg Adams                |  14.0 |        10 |              |               |
 |  231 | Rupert Myers              |  14.0 |        22 |        -0.11 |               |

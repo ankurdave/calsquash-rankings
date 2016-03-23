@@ -22,12 +22,12 @@ Generated 2016-03-22.
 |   18 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
 |   19 | Jared Bard          |  22.6 |        17 |        -0.34 |         +4.97 |
 |   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
-|   21 | Ronald Dahl         |  21.3 |        47 |        -0.31 |         -0.86 |
+|   21 | Ronald Dahl         |  21.5 |        48 |        -0.10 |         -0.65 |
 |   22 | Shaun Lim           |  21.2 |        29 |        -0.12 |         +1.00 |
 |   23 | Jacob Kersey        |  20.9 |        12 |        +2.06 |               |
 |   24 | Jonathan Francis    |  20.4 |        50 |              |         +1.85 |
 |   25 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
-|   26 | Chris Flores        |  19.7 |       286 |        +0.02 |         -0.70 |
+|   26 | Chris Flores        |  19.7 |       286 |        +0.01 |         -0.71 |
 |   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   28 | Jaime Perez         |  18.8 |        10 |        +0.65 |               |
 |   29 | Sam Trachtman       |  17.3 |         3 |        +2.93 |               |
@@ -38,7 +38,7 @@ Generated 2016-03-22.
 |   34 | Daniel Schwartz     |  15.9 |         6 |        +0.48 |               |
 |   35 | Josh Trauner        |  15.0 |        12 |        -0.82 |               |
 |   36 | Terry Chang         |  14.3 |        31 |        +0.15 |         +3.49 |
-|   37 | Subrato Dey         |  14.2 |        11 |        -0.53 |               |
+|   37 | Subrato Dey         |  14.0 |        12 |        -0.72 |               |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
 |   40 | Myles Gordon        |  10.3 |        40 |              |         +2.80 |
