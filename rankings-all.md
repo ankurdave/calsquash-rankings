@@ -192,12 +192,12 @@ Generated 2016-03-23.
 |  188 | Dennis Dornan             |  16.6 |        12 |              |               |
 |  189 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  190 | Ben Ailes                 |  16.5 |        48 |              |               |
-|  191 | George Roche              |  16.3 |        14 |              |         +2.01 |
-|  192 | Anirudh Todi              |  16.2 |         3 |              |               |
-|  193 | Rich Shapiro              |  16.1 |        82 |              |               |
-|  194 | Troup Howard              |  16.1 |        34 |              |         -0.29 |
-|  195 | Andrew Green              |  16.1 |        52 |              |               |
-|  196 | Jeff Gordon               |  16.0 |        14 |        +0.79 |               |
+|  191 | Jeff Gordon               |  16.3 |        15 |        +1.10 |               |
+|  192 | George Roche              |  16.3 |        14 |              |         +2.01 |
+|  193 | Anirudh Todi              |  16.2 |         3 |              |               |
+|  194 | Rich Shapiro              |  16.1 |        82 |              |               |
+|  195 | Troup Howard              |  16.1 |        34 |              |         -0.29 |
+|  196 | Andrew Green              |  16.1 |        52 |              |               |
 |  197 | Toni Queck                |  16.0 |        20 |              |               |
 |  198 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  199 | Jeff Bird                 |  15.7 |        38 |              |               |
@@ -364,7 +364,7 @@ Generated 2016-03-23.
 |  360 | Anurag Gupta              |   4.7 |         6 |              |               |
 |  361 | Greg Sperla               |   4.5 |         8 |              |               |
 |  362 | Nate Aden                 |   4.4 |         2 |        +5.11 |               |
-|  363 | Wayne Heiser              |   4.3 |         8 |        -0.18 |               |
+|  363 | Wayne Heiser              |   4.4 |         9 |        -0.17 |               |
 |  364 | Mohammad Salama           |   4.2 |         5 |              |               |
 |  365 | Lewis H. Moore            |   4.0 |         8 |              |               |
 |  366 | Josephine Lee             |   3.9 |         6 |              |               |

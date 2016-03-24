@@ -34,8 +34,8 @@ Generated 2016-03-23.
 |   30 | Sam Trachtman       |  17.3 |         3 |        +2.93 |               |
 |   31 | Eric Borden         |  16.9 |        16 |        +3.43 |               |
 |   32 | Kent Daniels        |  16.8 |        67 |        -0.14 |         +2.44 |
-|   33 | George Roche        |  16.3 |        14 |              |         +2.01 |
-|   34 | Jeff Gordon         |  16.0 |        14 |        +0.79 |               |
+|   33 | Jeff Gordon         |  16.3 |        15 |        +1.10 |               |
+|   34 | George Roche        |  16.3 |        14 |              |         +2.01 |
 |   35 | Josh Trauner        |  15.0 |        12 |        -0.82 |               |
 |   36 | Terry Chang         |  14.3 |        31 |        +0.15 |         +3.49 |
 |   37 | Subrato Dey         |  14.0 |        12 |        -0.72 |               |
@@ -50,7 +50,7 @@ Generated 2016-03-23.
 |   46 | Raphael Magarik     |   5.1 |         2 |              |               |
 |   47 | Nikhil Srivastava   |   4.8 |        16 |              |               |
 |   48 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
-|   49 | Wayne Heiser        |   4.3 |         8 |        -0.18 |               |
+|   49 | Wayne Heiser        |   4.4 |         9 |        -0.17 |               |
 |   50 | Zsolt Bartha        |   3.8 |        39 |        -0.16 |         -1.87 |
 |   51 | Sandra Harpster     |   3.8 |         3 |        +0.27 |               |
 |   52 | Jose Lara           |   3.3 |         1 |              |               |
