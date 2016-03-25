@@ -51,28 +51,28 @@ Generated 2016-03-25.
 |   47 | Nick Cobbett              |  25.5 |        14 |        +0.81 |               |
 |   48 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   49 | Ethan Kerr                |  24.9 |         5 |        +2.83 |               |
-|   50 | Dan Bohn                  |  24.7 |        73 |              |         +0.19 |
-|   51 | Greg Jizmagian            |  24.6 |        22 |              |               |
-|   52 | Dan Meier                 |  24.5 |        32 |              |         +7.47 |
+|   50 | Dan Meier                 |  24.8 |        33 |        +0.29 |         +7.77 |
+|   51 | Dan Bohn                  |  24.7 |        73 |              |         +0.19 |
+|   52 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   54 | Charlie Weiss             |  24.3 |        70 |              |         +0.99 |
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
-|   56 | Mark Modera               |  24.2 |       291 |        -0.19 |         -1.35 |
+|   56 | Mark Modera               |  24.2 |       291 |        -0.19 |         -1.36 |
 |   57 | Toby Reiner               |  24.2 |       159 |              |               |
 |   58 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   59 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   60 | Jon Shih                  |  24.0 |        47 |              |               |
 |   61 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   62 | Benjamin Vicuna           |  23.9 |        46 |        +0.50 |         +8.00 |
-|   63 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   62 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   63 | Benjamin Vicuna           |  23.8 |        46 |        +0.48 |         +7.98 |
 |   64 | Matt Waid                 |  23.8 |        51 |              |               |
 |   65 | Sean O'Nuallain           |  23.8 |        43 |              |               |
 |   66 | Martin Stokes             |  23.8 |        12 |              |               |
 |   67 | Todd Wirsching            |  23.7 |         8 |              |               |
 |   68 | Thomas Krussig            |  23.5 |        16 |              |         +2.93 |
 |   69 | Joe Farrell               |  23.4 |        30 |              |               |
-|   70 | Andrew Lawrie             |  23.4 |        43 |        +0.37 |        +20.32 |
-|   71 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   70 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   71 | Andrew Lawrie             |  23.4 |        43 |        +0.35 |        +20.30 |
 |   72 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   73 | Sushil Shetty             |  23.3 |        23 |              |               |
 |   74 | Sonesh Surana             |  23.2 |        95 |              |               |
@@ -140,13 +140,13 @@ Generated 2016-03-25.
 |  136 | Andrew Pritchard          |  18.9 |        16 |              |               |
 |  137 | Bhuvan Jain               |  18.9 |        18 |              |               |
 |  138 | Jeff Diamond              |  18.8 |        44 |              |               |
-|  139 | Jaime Perez               |  18.8 |        10 |        +0.65 |               |
-|  140 | Blake Woodard             |  18.7 |        10 |              |               |
-|  141 | Madhav Pai                |  18.7 |         5 |              |               |
-|  142 | John Corcoran             |  18.7 |        49 |              |               |
-|  143 | Mukul Sud                 |  18.6 |         3 |              |               |
-|  144 | Joe Schneider             |  18.6 |         8 |              |               |
-|  145 | Allan Sly                 |  18.6 |        29 |              |               |
+|  139 | Blake Woodard             |  18.7 |        10 |              |               |
+|  140 | Madhav Pai                |  18.7 |         5 |              |               |
+|  141 | John Corcoran             |  18.7 |        49 |              |               |
+|  142 | Mukul Sud                 |  18.6 |         3 |              |               |
+|  143 | Joe Schneider             |  18.6 |         8 |              |               |
+|  144 | Allan Sly                 |  18.6 |        29 |              |               |
+|  145 | Jaime Perez               |  18.5 |        11 |        +0.38 |               |
 |  146 | Ian Lunt                  |  18.3 |         9 |              |               |
 |  147 | William Seles             |  18.2 |        15 |              |         +0.94 |
 |  148 | Javed Ahmed               |  18.2 |        58 |              |               |
