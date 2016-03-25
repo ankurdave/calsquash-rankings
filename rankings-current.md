@@ -41,9 +41,9 @@ Generated 2016-03-25.
 |   37 | Subrato Dey         |  14.0 |        12 |        -0.72 |               |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
-|   40 | Myles Gordon        |  10.3 |        40 |              |         +2.80 |
+|   40 | Ankur Dave          |  10.6 |        26 |        +1.01 |               |
 |   41 | Anthony Patterson   |  10.2 |         6 |              |               |
-|   42 | Ankur Dave          |  10.1 |        25 |        +0.50 |               |
+|   42 | Myles Gordon        |  10.1 |        41 |        -0.19 |         +2.61 |
 |   43 | Duo Wang            |   9.5 |        51 |        -0.26 |         +3.29 |
 |   44 | Gene Zubovich       |   9.4 |        19 |              |         +3.39 |
 |   45 | Nikhil Paranjape    |   7.3 |         8 |              |               |

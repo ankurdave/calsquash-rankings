@@ -274,16 +274,16 @@ Generated 2016-03-25.
 |  270 | Charles Denby             |  11.2 |         5 |              |               |
 |  271 | Khurram Mahmood           |  10.8 |         3 |              |               |
 |  272 | Axel Eriksson             |  10.8 |         5 |              |               |
-|  273 | Jason Facchin             |  10.5 |         3 |              |               |
-|  274 | Jamie Paterson            |  10.4 |         4 |              |               |
-|  275 | Huw Lester                |  10.4 |         1 |              |               |
-|  276 | Reed Foster               |  10.4 |         8 |              |               |
-|  277 | Sameer Abraham            |  10.3 |        24 |              |               |
-|  278 | Myles Gordon              |  10.3 |        40 |              |         +2.80 |
+|  273 | Ankur Dave                |  10.6 |        26 |        +1.01 |               |
+|  274 | Jason Facchin             |  10.5 |         3 |              |               |
+|  275 | Jamie Paterson            |  10.4 |         4 |              |               |
+|  276 | Huw Lester                |  10.4 |         1 |              |               |
+|  277 | Reed Foster               |  10.4 |         8 |              |               |
+|  278 | Sameer Abraham            |  10.3 |        24 |              |               |
 |  279 | Lewis Moore               |  10.3 |        69 |              |               |
 |  280 | Paul Chang                |  10.3 |         7 |              |               |
 |  281 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  282 | Ankur Dave                |  10.1 |        25 |        +0.50 |               |
+|  282 | Myles Gordon              |  10.1 |        41 |        -0.19 |         +2.61 |
 |  283 | Shridhar Mubaraq Mishra   |  10.1 |        13 |              |               |
 |  284 | Neil Sachs                |   9.9 |        12 |              |               |
 |  285 | Zaid Shlah                |   9.8 |         8 |              |               |
