@@ -4,7 +4,7 @@ Generated 2016-03-24.
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  43.0 |       203 |        +0.09 |         +0.16 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
-|    3 | Rees Sweeney-Taylor       |  36.6 |        73 |              |         +1.09 |
+|    3 | Rees Sweeney-Taylor       |  36.7 |        74 |        +0.08 |         +1.16 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
 |    5 | Tanu Sankalia             |  36.2 |        94 |              |               |
 |    6 | Thomas Lowish             |  35.9 |         6 |              |         +1.48 |
@@ -48,7 +48,7 @@ Generated 2016-03-24.
 |   44 | Amos Vernon               |  26.0 |        30 |              |               |
 |   45 | Ben Seelig                |  25.8 |        69 |              |               |
 |   46 | Annie Rein-Weston         |  25.7 |        18 |              |               |
-|   47 | Nick Cobbett              |  25.6 |        13 |        +0.85 |               |
+|   47 | Nick Cobbett              |  25.5 |        14 |        +0.81 |               |
 |   48 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   49 | Ethan Kerr                |  24.9 |         5 |        +2.83 |               |
 |   50 | Dan Bohn                  |  24.7 |        73 |              |         +0.19 |
