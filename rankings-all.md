@@ -2,7 +2,7 @@ Generated 2016-03-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  43.0 |       203 |        +0.09 |         +0.16 |
+|    1 | Ashley Kayler             |  43.0 |       204 |        +0.09 |         +0.17 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
 |    3 | Rees Sweeney-Taylor       |  36.7 |        75 |        +0.14 |         +1.23 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
@@ -44,7 +44,7 @@ Generated 2016-03-26.
 |   40 | Ignacio Canals            |  26.7 |        21 |              |               |
 |   41 | Nauman Sardar             |  26.6 |        40 |              |               |
 |   42 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
-|   43 | Nick Cobbett              |  26.4 |        15 |        +1.65 |               |
+|   43 | Nick Cobbett              |  26.4 |        16 |        +1.65 |               |
 |   44 | Ali Rahim                 |  26.2 |        24 |              |               |
 |   45 | Amos Vernon               |  26.0 |        30 |              |               |
 |   46 | Ben Seelig                |  25.8 |        69 |              |               |
