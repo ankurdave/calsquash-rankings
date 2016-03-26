@@ -16,7 +16,7 @@ Generated 2016-03-25.
 |   12 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
 |   13 | Benjamin Vicuna     |  23.8 |        46 |        +0.48 |         +7.98 |
 |   14 | Andrew Lawrie       |  23.4 |        43 |        +0.35 |        +20.30 |
-|   15 | Jonathan Hankar     |  23.2 |       170 |        +0.21 |         -0.03 |
+|   15 | Jonathan Hankar     |  23.2 |       170 |        +0.20 |         -0.03 |
 |   16 | Saurabh Bajaj       |  23.1 |         8 |        +6.75 |               |
 |   17 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
 |   18 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
@@ -24,19 +24,19 @@ Generated 2016-03-25.
 |   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
 |   21 | Ronald Dahl         |  21.5 |        48 |        -0.10 |         -0.65 |
 |   22 | Shaun Lim           |  21.2 |        29 |        -0.12 |         +1.00 |
-|   23 | Jacob Kersey        |  20.9 |        12 |        +2.06 |               |
+|   23 | Jacob Kersey        |  20.5 |        13 |        +1.74 |               |
 |   24 | Jonathan Francis    |  20.4 |        50 |              |         +1.85 |
 |   25 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
-|   26 | Chris Flores        |  19.7 |       286 |        +0.01 |         -0.71 |
-|   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
-|   28 | Jaime Perez         |  18.5 |        11 |        +0.38 |               |
-|   29 | Daniel Schwartz     |  17.9 |         7 |        +2.46 |               |
-|   30 | Sam Trachtman       |  17.3 |         3 |        +2.93 |               |
+|   26 | Sam Trachtman       |  20.0 |         4 |        +5.68 |               |
+|   27 | Chris Flores        |  19.7 |       286 |        +0.01 |         -0.71 |
+|   28 | Andrew Pritchard    |  18.9 |        16 |              |               |
+|   29 | Jaime Perez         |  18.5 |        11 |        +0.38 |               |
+|   30 | Daniel Schwartz     |  17.9 |         7 |        +2.46 |               |
 |   31 | Eric Borden         |  16.9 |        16 |        +3.43 |               |
 |   32 | Kent Daniels        |  16.8 |        67 |        -0.14 |         +2.44 |
 |   33 | Jeff Gordon         |  16.3 |        15 |        +1.10 |               |
 |   34 | George Roche        |  16.3 |        14 |              |         +2.01 |
-|   35 | Josh Trauner        |  15.0 |        12 |        -0.82 |               |
+|   35 | Josh Trauner        |  14.9 |        12 |        -0.85 |               |
 |   36 | Terry Chang         |  14.3 |        31 |        +0.15 |         +3.49 |
 |   37 | Subrato Dey         |  14.0 |        12 |        -0.72 |               |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |

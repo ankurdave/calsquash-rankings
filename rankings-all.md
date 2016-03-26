@@ -76,7 +76,7 @@ Generated 2016-03-25.
 |   72 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   73 | Sushil Shetty             |  23.3 |        23 |              |               |
 |   74 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   75 | Jonathan Hankar           |  23.2 |       170 |        +0.21 |         -0.03 |
+|   75 | Jonathan Hankar           |  23.2 |       170 |        +0.20 |         -0.03 |
 |   76 | Mikey Zarem               |  23.2 |         8 |              |               |
 |   77 | Jan Beranek               |  23.1 |        46 |              |               |
 |   78 | Saurabh Bajaj             |  23.1 |         8 |        +6.75 |               |
@@ -118,63 +118,63 @@ Generated 2016-03-25.
 |  114 | Matt Wild                 |  21.0 |        25 |              |         -0.02 |
 |  115 | Robert Jeng               |  20.9 |        26 |              |               |
 |  116 | Aaron Socha               |  20.9 |        24 |              |               |
-|  117 | Jacob Kersey              |  20.9 |        12 |        +2.06 |               |
-|  118 | Omair Azam                |  20.6 |        18 |              |               |
+|  117 | Omair Azam                |  20.6 |        18 |              |               |
+|  118 | Jacob Kersey              |  20.5 |        13 |        +1.74 |               |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  120 | Jonathan Francis          |  20.4 |        50 |              |         +1.85 |
 |  121 | Dror Matalon              |  20.3 |       334 |              |         -0.92 |
-|  122 | Andrew Proudfoot          |  19.8 |        26 |              |               |
-|  123 | Whit Eldredge             |  19.7 |         2 |              |               |
-|  124 | Chris Flores              |  19.7 |       286 |        +0.01 |         -0.71 |
-|  125 | Christian Fuentes         |  19.7 |         8 |              |               |
-|  126 | Pierre Darancet           |  19.6 |        94 |              |               |
-|  127 | Sunil Bhave               |  19.6 |        26 |              |               |
-|  128 | Sardar Nauman             |  19.5 |         4 |              |               |
-|  129 | Gabriel Kahn              |  19.4 |         5 |              |        +11.97 |
-|  130 | Niklas Linde              |  19.3 |        23 |              |               |
-|  131 | Tim Bruckner              |  19.2 |        10 |              |               |
-|  132 | Ariel Grostern            |  19.2 |        94 |              |               |
-|  133 | Julian Marshall           |  19.1 |        31 |              |               |
-|  134 | Allic Sivaramakrishnan    |  19.1 |        22 |              |               |
-|  135 | John Eng                  |  19.0 |        28 |              |               |
-|  136 | Andrew Pritchard          |  18.9 |        16 |              |               |
-|  137 | Bhuvan Jain               |  18.9 |        18 |              |               |
-|  138 | Jeff Diamond              |  18.8 |        44 |              |               |
-|  139 | Blake Woodard             |  18.7 |        10 |              |               |
-|  140 | Madhav Pai                |  18.7 |         5 |              |               |
-|  141 | John Corcoran             |  18.7 |        49 |              |               |
-|  142 | Mukul Sud                 |  18.6 |         3 |              |               |
-|  143 | Joe Schneider             |  18.6 |         8 |              |               |
-|  144 | Allan Sly                 |  18.6 |        29 |              |               |
-|  145 | Jaime Perez               |  18.5 |        11 |        +0.38 |               |
-|  146 | Ian Lunt                  |  18.3 |         9 |              |               |
-|  147 | William Seles             |  18.2 |        15 |              |         +0.94 |
-|  148 | Javed Ahmed               |  18.2 |        58 |              |               |
-|  149 | Andres Ramirez            |  18.2 |         8 |              |               |
-|  150 | Jaime Vidal               |  18.2 |         8 |              |               |
-|  151 | Geoffrey Barrows          |  18.1 |        14 |              |               |
-|  152 | Jamie Funk                |  18.1 |        30 |              |               |
-|  153 | Lucas Cheon               |  18.1 |        19 |              |               |
-|  154 | Himanshu Jatia            |  18.1 |         4 |              |               |
-|  155 | Anubhav Gupta             |  18.0 |         8 |              |               |
-|  156 | Kenny Bell                |  18.0 |        97 |              |         +1.12 |
-|  157 | Andres Rodriguez          |  18.0 |        55 |              |         +0.84 |
-|  158 | Daniel Schwartz           |  17.9 |         7 |        +2.46 |               |
-|  159 | Robert Geiger             |  17.8 |         8 |              |               |
-|  160 | Jim Evans                 |  17.8 |       216 |              |               |
-|  161 | Hari Dhavala              |  17.7 |        27 |              |               |
-|  162 | Britta Gardner            |  17.7 |        16 |              |               |
-|  163 | Thomas Scanlon            |  17.6 |        20 |              |               |
-|  164 | Neil Conway               |  17.5 |        55 |              |               |
-|  165 | Frank Kennan              |  17.5 |        11 |              |               |
-|  166 | Adam Jacob                |  17.4 |         3 |              |               |
-|  167 | Steven Sloman             |  17.3 |        10 |              |               |
-|  168 | Arbi Vartan               |  17.3 |        20 |              |               |
-|  169 | Patrick Baylis            |  17.3 |        12 |              |         +1.32 |
-|  170 | Mark Priven               |  17.3 |        72 |              |               |
-|  171 | Sridhar Rajaram           |  17.3 |        30 |              |               |
-|  172 | Leor Lovinger             |  17.3 |         6 |              |               |
-|  173 | Sam Trachtman             |  17.3 |         3 |        +2.93 |               |
+|  122 | Sam Trachtman             |  20.0 |         4 |        +5.68 |               |
+|  123 | Andrew Proudfoot          |  19.8 |        26 |              |               |
+|  124 | Whit Eldredge             |  19.7 |         2 |              |               |
+|  125 | Chris Flores              |  19.7 |       286 |        +0.01 |         -0.71 |
+|  126 | Christian Fuentes         |  19.7 |         8 |              |               |
+|  127 | Pierre Darancet           |  19.6 |        94 |              |               |
+|  128 | Sunil Bhave               |  19.6 |        26 |              |               |
+|  129 | Sardar Nauman             |  19.5 |         4 |              |               |
+|  130 | Gabriel Kahn              |  19.4 |         5 |              |        +11.97 |
+|  131 | Niklas Linde              |  19.3 |        23 |              |               |
+|  132 | Tim Bruckner              |  19.2 |        10 |              |               |
+|  133 | Ariel Grostern            |  19.2 |        94 |              |               |
+|  134 | Julian Marshall           |  19.1 |        31 |              |               |
+|  135 | Allic Sivaramakrishnan    |  19.1 |        22 |              |               |
+|  136 | John Eng                  |  19.0 |        28 |              |               |
+|  137 | Andrew Pritchard          |  18.9 |        16 |              |               |
+|  138 | Bhuvan Jain               |  18.9 |        18 |              |               |
+|  139 | Jeff Diamond              |  18.8 |        44 |              |               |
+|  140 | Blake Woodard             |  18.7 |        10 |              |               |
+|  141 | Madhav Pai                |  18.7 |         5 |              |               |
+|  142 | John Corcoran             |  18.7 |        49 |              |               |
+|  143 | Mukul Sud                 |  18.6 |         3 |              |               |
+|  144 | Joe Schneider             |  18.6 |         8 |              |               |
+|  145 | Allan Sly                 |  18.6 |        29 |              |               |
+|  146 | Jaime Perez               |  18.5 |        11 |        +0.38 |               |
+|  147 | Ian Lunt                  |  18.3 |         9 |              |               |
+|  148 | William Seles             |  18.2 |        15 |              |         +0.94 |
+|  149 | Javed Ahmed               |  18.2 |        58 |              |               |
+|  150 | Andres Ramirez            |  18.2 |         8 |              |               |
+|  151 | Jaime Vidal               |  18.2 |         8 |              |               |
+|  152 | Geoffrey Barrows          |  18.1 |        14 |              |               |
+|  153 | Jamie Funk                |  18.1 |        30 |              |               |
+|  154 | Lucas Cheon               |  18.1 |        19 |              |               |
+|  155 | Himanshu Jatia            |  18.1 |         4 |              |               |
+|  156 | Anubhav Gupta             |  18.0 |         8 |              |               |
+|  157 | Kenny Bell                |  18.0 |        97 |              |         +1.12 |
+|  158 | Andres Rodriguez          |  18.0 |        55 |              |         +0.84 |
+|  159 | Daniel Schwartz           |  17.9 |         7 |        +2.46 |               |
+|  160 | Robert Geiger             |  17.8 |         8 |              |               |
+|  161 | Jim Evans                 |  17.8 |       216 |              |               |
+|  162 | Hari Dhavala              |  17.7 |        27 |              |               |
+|  163 | Britta Gardner            |  17.7 |        16 |              |               |
+|  164 | Thomas Scanlon            |  17.6 |        20 |              |               |
+|  165 | Neil Conway               |  17.5 |        55 |              |               |
+|  166 | Frank Kennan              |  17.5 |        11 |              |               |
+|  167 | Adam Jacob                |  17.4 |         3 |              |               |
+|  168 | Steven Sloman             |  17.3 |        10 |              |               |
+|  169 | Arbi Vartan               |  17.3 |        20 |              |               |
+|  170 | Patrick Baylis            |  17.3 |        12 |              |         +1.32 |
+|  171 | Mark Priven               |  17.3 |        72 |              |               |
+|  172 | Sridhar Rajaram           |  17.3 |        30 |              |               |
+|  173 | Leor Lovinger             |  17.3 |         6 |              |               |
 |  174 | Errick Ceppas             |  17.2 |         6 |              |               |
 |  175 | Juliet Lamont             |  17.2 |        58 |              |               |
 |  176 | Wolfram Pohl              |  17.1 |        60 |              |               |
@@ -217,8 +217,8 @@ Generated 2016-03-25.
 |  213 | Liam King                 |  15.0 |         6 |              |               |
 |  214 | Peter Duerr               |  15.0 |        24 |              |               |
 |  215 | Jayanth Kannan            |  15.0 |        20 |              |               |
-|  216 | Josh Trauner              |  15.0 |        12 |        -0.82 |               |
-|  217 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
+|  216 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
+|  217 | Josh Trauner              |  14.9 |        12 |        -0.85 |               |
 |  218 | Lakshya Rustagi           |  14.8 |         2 |              |               |
 |  219 | Angie Ng                  |  14.8 |        12 |              |               |
 |  220 | Nicholas Monsees          |  14.8 |         5 |              |               |
