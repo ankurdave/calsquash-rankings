@@ -24,7 +24,7 @@ Generated 2016-03-26.
 |   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   21 | Jim Veitch                |  29.3 |       401 |        -0.11 |         +0.04 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
-|   23 | Frank Kennamer            |  28.8 |       191 |              |         +0.37 |
+|   23 | Frank Kennamer            |  28.7 |       192 |        -0.08 |         +0.29 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.4 |       284 |        -0.05 |         -0.31 |
@@ -44,11 +44,11 @@ Generated 2016-03-26.
 |   40 | Ignacio Canals            |  26.7 |        21 |              |               |
 |   41 | Nauman Sardar             |  26.6 |        40 |              |               |
 |   42 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
-|   43 | Ali Rahim                 |  26.2 |        24 |              |               |
-|   44 | Amos Vernon               |  26.0 |        30 |              |               |
-|   45 | Ben Seelig                |  25.8 |        69 |              |               |
-|   46 | Annie Rein-Weston         |  25.7 |        18 |              |               |
-|   47 | Nick Cobbett              |  25.5 |        14 |        +0.81 |               |
+|   43 | Nick Cobbett              |  26.4 |        15 |        +1.64 |               |
+|   44 | Ali Rahim                 |  26.2 |        24 |              |               |
+|   45 | Amos Vernon               |  26.0 |        30 |              |               |
+|   46 | Ben Seelig                |  25.8 |        69 |              |               |
+|   47 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   48 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   49 | Ethan Kerr                |  24.9 |         5 |        +2.83 |               |
 |   50 | Dan Meier                 |  24.8 |        33 |        +0.29 |         +7.77 |
