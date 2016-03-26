@@ -4,7 +4,7 @@ Generated 2016-03-26.
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  43.0 |       203 |        +0.09 |         +0.16 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
-|    3 | Rees Sweeney-Taylor       |  36.7 |        74 |        +0.08 |         +1.16 |
+|    3 | Rees Sweeney-Taylor       |  36.7 |        75 |        +0.14 |         +1.23 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
 |    5 | Tanu Sankalia             |  36.2 |        94 |              |               |
 |    6 | Thomas Lowish             |  35.9 |         6 |              |         +1.48 |
@@ -24,7 +24,7 @@ Generated 2016-03-26.
 |   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   21 | Jim Veitch                |  29.3 |       401 |        -0.11 |         +0.04 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
-|   23 | Frank Kennamer            |  28.7 |       192 |        -0.08 |         +0.29 |
+|   23 | Frank Kennamer            |  28.7 |       193 |        -0.10 |         +0.27 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.4 |       284 |        -0.05 |         -0.31 |
@@ -44,7 +44,7 @@ Generated 2016-03-26.
 |   40 | Ignacio Canals            |  26.7 |        21 |              |               |
 |   41 | Nauman Sardar             |  26.6 |        40 |              |               |
 |   42 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
-|   43 | Nick Cobbett              |  26.4 |        15 |        +1.64 |               |
+|   43 | Nick Cobbett              |  26.4 |        15 |        +1.65 |               |
 |   44 | Ali Rahim                 |  26.2 |        24 |              |               |
 |   45 | Amos Vernon               |  26.0 |        30 |              |               |
 |   46 | Ben Seelig                |  25.8 |        69 |              |               |
