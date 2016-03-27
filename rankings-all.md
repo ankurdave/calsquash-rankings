@@ -78,15 +78,15 @@ Generated 2016-03-27.
 |   74 | Sonesh Surana             |  23.2 |        95 |              |               |
 |   75 | Jonathan Hankar           |  23.2 |       170 |        +0.20 |         -0.03 |
 |   76 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   77 | Jan Beranek               |  23.1 |        46 |              |               |
-|   78 | Saurabh Bajaj             |  23.1 |         8 |        +6.75 |               |
+|   77 | Saurabh Bajaj             |  23.1 |         8 |        +6.79 |               |
+|   78 | Jan Beranek               |  23.1 |        46 |              |               |
 |   79 | Gary Golding              |  23.1 |         6 |              |               |
 |   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.43 |
 |   81 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   82 | Dante Popple              |  22.8 |        17 |              |               |
 |   83 | Mike Jensen-Akula         |  22.8 |       204 |        +0.05 |         -0.01 |
 |   84 | Matt Wong                 |  22.7 |        50 |        -0.15 |               |
-|   85 | Jared Bard                |  22.6 |        17 |        -0.34 |         +4.97 |
+|   85 | Jared Bard                |  22.7 |        18 |        -0.28 |         +5.03 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
 |   87 | Richard Chan              |  22.5 |         9 |              |               |
 |   88 | Orion Hodson              |  22.5 |        31 |              |               |
@@ -380,7 +380,7 @@ Generated 2016-03-27.
 |  376 | Alex Walters              |   3.2 |         3 |              |               |
 |  377 | Catherine Wang            |   3.2 |        10 |              |               |
 |  378 | Vito Sciaraffia           |   3.0 |         5 |              |               |
-|  379 | Josh Lebowitz             |   2.7 |         5 |        +4.54 |               |
+|  379 | Josh Lebowitz             |   2.8 |         6 |        +4.62 |               |
 |  380 | Richard Fabini            |   2.7 |         3 |              |               |
 |  381 | Martin Rasmussen          |   2.5 |         6 |              |               |
 |  382 | Therese Jones             |   2.3 |         6 |              |               |
