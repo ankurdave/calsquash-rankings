@@ -50,16 +50,16 @@ Generated 2016-03-27.
 |   46 | Ben Seelig                |  25.8 |        69 |              |               |
 |   47 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   48 | Mikael Rehn               |  25.4 |         5 |              |               |
-|   49 | Ethan Kerr                |  24.9 |         5 |        +2.83 |               |
-|   50 | Dan Meier                 |  24.8 |        33 |        +0.29 |         +7.77 |
+|   49 | Dan Meier                 |  25.1 |        34 |        +0.56 |         +8.04 |
+|   50 | Ethan Kerr                |  24.9 |         5 |        +2.83 |               |
 |   51 | Dan Bohn                  |  24.7 |        73 |              |         +0.19 |
 |   52 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   54 | Charlie Weiss             |  24.3 |        70 |              |         +0.99 |
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
-|   56 | Mark Modera               |  24.2 |       291 |        -0.19 |         -1.36 |
-|   57 | Toby Reiner               |  24.2 |       159 |              |               |
-|   58 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   56 | Toby Reiner               |  24.2 |       159 |              |               |
+|   57 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   58 | Mark Modera               |  24.1 |       292 |        -0.26 |         -1.42 |
 |   59 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   60 | Jon Shih                  |  24.0 |        47 |              |               |
 |   61 | Daniel Greengard          |  23.9 |        37 |              |               |
@@ -147,7 +147,7 @@ Generated 2016-03-27.
 |  143 | Mukul Sud                 |  18.6 |         3 |              |               |
 |  144 | Joe Schneider             |  18.6 |         8 |              |               |
 |  145 | Allan Sly                 |  18.6 |        29 |              |               |
-|  146 | Jaime Perez               |  18.5 |        11 |        +0.38 |               |
+|  146 | Jaime Perez               |  18.5 |        11 |        +0.37 |               |
 |  147 | Ian Lunt                  |  18.3 |         9 |              |               |
 |  148 | William Seles             |  18.2 |        15 |              |         +0.94 |
 |  149 | Javed Ahmed               |  18.2 |        58 |              |               |

@@ -10,9 +10,9 @@ Generated 2016-03-27.
 |    6 | Arvind Muralimohan  |  28.1 |        15 |        +2.13 |               |
 |    7 | Glenn Forrester     |  27.0 |       354 |        +0.02 |         +0.20 |
 |    8 | Nick Cobbett        |  26.4 |        16 |        +1.65 |               |
-|    9 | Ethan Kerr          |  24.9 |         5 |        +2.83 |               |
-|   10 | Dan Meier           |  24.8 |        33 |        +0.29 |         +7.77 |
-|   11 | Mark Modera         |  24.2 |       291 |        -0.19 |         -1.36 |
+|    9 | Dan Meier           |  25.1 |        34 |        +0.56 |         +8.04 |
+|   10 | Ethan Kerr          |  24.9 |         5 |        +2.83 |               |
+|   11 | Mark Modera         |  24.1 |       292 |        -0.26 |         -1.42 |
 |   12 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
 |   13 | Benjamin Vicuna     |  23.8 |        46 |        +0.48 |         +7.98 |
 |   14 | Andrew Lawrie       |  23.4 |        43 |        +0.35 |        +20.30 |
@@ -30,7 +30,7 @@ Generated 2016-03-27.
 |   26 | Sam Trachtman       |  20.0 |         4 |        +5.68 |               |
 |   27 | Chris Flores        |  19.7 |       286 |        +0.01 |         -0.71 |
 |   28 | Andrew Pritchard    |  18.9 |        16 |              |               |
-|   29 | Jaime Perez         |  18.5 |        11 |        +0.38 |               |
+|   29 | Jaime Perez         |  18.5 |        11 |        +0.37 |               |
 |   30 | Daniel Schwartz     |  17.9 |         7 |        +2.46 |               |
 |   31 | Eric Borden         |  16.9 |        16 |        +3.43 |               |
 |   32 | Kent Daniels        |  16.8 |        67 |        -0.14 |         +2.44 |
