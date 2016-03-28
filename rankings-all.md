@@ -27,10 +27,10 @@ Generated 2016-03-28.
 |   23 | Frank Kennamer            |  28.7 |       193 |        -0.10 |         +0.27 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   26 | John Kunze                |  28.4 |       284 |        -0.05 |         -0.31 |
+|   26 | John Kunze                |  28.5 |       286 |        +0.08 |         -0.18 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
-|   29 | Arvind Muralimohan        |  28.1 |        15 |        +2.13 |               |
+|   29 | Arvind Muralimohan        |  28.1 |        15 |        +2.10 |               |
 |   30 | Michael Best              |  28.1 |        21 |              |               |
 |   31 | Jehan Engineer            |  28.0 |         9 |              |               |
 |   32 | Samer Shehata             |  27.8 |        29 |              |               |
@@ -38,7 +38,7 @@ Generated 2016-03-28.
 |   34 | Vishi                     |  27.8 |        37 |              |         +4.14 |
 |   35 | Heba Nossier              |  27.6 |        14 |              |         +7.03 |
 |   36 | Hussain Raza              |  27.3 |        50 |              |               |
-|   37 | Glenn Forrester           |  27.0 |       354 |        +0.02 |         +0.20 |
+|   37 | Glenn Forrester           |  26.9 |       355 |        -0.05 |         +0.12 |
 |   38 | Stephen Dang              |  26.8 |        34 |              |               |
 |   39 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
 |   40 | Ignacio Canals            |  26.7 |        21 |              |               |
@@ -85,8 +85,8 @@ Generated 2016-03-28.
 |   81 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   82 | Dante Popple              |  22.8 |        17 |              |               |
 |   83 | Mike Jensen-Akula         |  22.8 |       204 |        +0.05 |         -0.01 |
-|   84 | Matt Wong                 |  22.7 |        50 |        -0.15 |               |
-|   85 | Jared Bard                |  22.7 |        18 |        -0.28 |         +5.03 |
+|   84 | Jared Bard                |  22.7 |        18 |        -0.28 |         +5.03 |
+|   85 | Matt Wong                 |  22.6 |        51 |        -0.23 |               |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
 |   87 | Richard Chan              |  22.5 |         9 |              |               |
 |   88 | Orion Hodson              |  22.5 |        31 |              |               |

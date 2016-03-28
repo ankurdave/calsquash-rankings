@@ -6,9 +6,9 @@ Generated 2016-03-28.
 |    2 | Rees Sweeney-Taylor |  36.7 |        75 |        +0.14 |         +1.23 |
 |    3 | Jim Veitch          |  29.3 |       401 |        -0.11 |         +0.04 |
 |    4 | Frank Kennamer      |  28.7 |       193 |        -0.10 |         +0.27 |
-|    5 | John Kunze          |  28.4 |       284 |        -0.05 |         -0.31 |
-|    6 | Arvind Muralimohan  |  28.1 |        15 |        +2.13 |               |
-|    7 | Glenn Forrester     |  27.0 |       354 |        +0.02 |         +0.20 |
+|    5 | John Kunze          |  28.5 |       286 |        +0.08 |         -0.18 |
+|    6 | Arvind Muralimohan  |  28.1 |        15 |        +2.10 |               |
+|    7 | Glenn Forrester     |  26.9 |       355 |        -0.05 |         +0.12 |
 |    8 | Nick Cobbett        |  26.4 |        16 |        +1.65 |               |
 |    9 | Dan Meier           |  25.1 |        34 |        +0.56 |         +8.04 |
 |   10 | Ethan Kerr          |  24.9 |         5 |        +2.83 |               |
@@ -19,8 +19,8 @@ Generated 2016-03-28.
 |   15 | Jonathan Hankar     |  23.2 |       170 |        +0.20 |         -0.03 |
 |   16 | Saurabh Bajaj       |  23.1 |         8 |        +6.77 |               |
 |   17 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
-|   18 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
-|   19 | Jared Bard          |  22.7 |        18 |        -0.28 |         +5.03 |
+|   18 | Jared Bard          |  22.7 |        18 |        -0.28 |         +5.03 |
+|   19 | Matt Wong           |  22.6 |        51 |        -0.23 |               |
 |   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
 |   21 | Ronald Dahl         |  21.5 |        48 |        -0.10 |         -0.65 |
 |   22 | Shaun Lim           |  21.2 |        30 |        -0.07 |         +1.06 |
