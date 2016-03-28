@@ -78,7 +78,7 @@ Generated 2016-03-27.
 |   74 | Sonesh Surana             |  23.2 |        95 |              |               |
 |   75 | Jonathan Hankar           |  23.2 |       170 |        +0.20 |         -0.03 |
 |   76 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   77 | Saurabh Bajaj             |  23.1 |         8 |        +6.79 |               |
+|   77 | Saurabh Bajaj             |  23.1 |         8 |        +6.77 |               |
 |   78 | Jan Beranek               |  23.1 |        46 |              |               |
 |   79 | Gary Golding              |  23.1 |         6 |              |               |
 |   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.43 |
@@ -110,7 +110,7 @@ Generated 2016-03-27.
 |  106 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
 |  107 | Matthew Elliott           |  21.3 |         7 |              |               |
 |  108 | Garvin Heath              |  21.2 |        28 |              |               |
-|  109 | Shaun Lim                 |  21.2 |        29 |        -0.12 |         +1.00 |
+|  109 | Shaun Lim                 |  21.2 |        30 |        -0.07 |         +1.06 |
 |  110 | Joseff Farrell            |  21.2 |         5 |              |               |
 |  111 | Paz Grimberg              |  21.0 |        17 |              |               |
 |  112 | Rishabh Kasliwal          |  21.0 |        26 |              |               |
@@ -380,7 +380,7 @@ Generated 2016-03-27.
 |  376 | Alex Walters              |   3.2 |         3 |              |               |
 |  377 | Catherine Wang            |   3.2 |        10 |              |               |
 |  378 | Vito Sciaraffia           |   3.0 |         5 |              |               |
-|  379 | Josh Lebowitz             |   2.8 |         6 |        +4.62 |               |
+|  379 | Josh Lebowitz             |   2.7 |         7 |        +4.58 |               |
 |  380 | Richard Fabini            |   2.7 |         3 |              |               |
 |  381 | Martin Rasmussen          |   2.5 |         6 |              |               |
 |  382 | Therese Jones             |   2.3 |         6 |              |               |
@@ -474,7 +474,7 @@ Generated 2016-03-27.
 |  470 | Rabin Patra               |  -2.9 |         2 |              |               |
 |  471 | Pedrum Mohageri           |  -2.9 |         8 |              |               |
 |  472 | Ben Geller                |  -3.1 |         4 |              |         -0.36 |
-|  473 | Shantanu Mittal           |  -3.2 |         2 |              |               |
+|  473 | Shantanu Mittal           |  -3.3 |         2 |              |               |
 |  474 | Tin Do                    |  -3.6 |         1 |              |               |
 |  475 | Nadir Shams               |  -3.7 |         2 |              |               |
 |  476 | Nick Firmani              |  -3.9 |         3 |              |               |

@@ -17,13 +17,13 @@ Generated 2016-03-27.
 |   13 | Benjamin Vicuna     |  23.8 |        46 |        +0.48 |         +7.98 |
 |   14 | Andrew Lawrie       |  23.4 |        43 |        +0.35 |        +20.30 |
 |   15 | Jonathan Hankar     |  23.2 |       170 |        +0.20 |         -0.03 |
-|   16 | Saurabh Bajaj       |  23.1 |         8 |        +6.79 |               |
+|   16 | Saurabh Bajaj       |  23.1 |         8 |        +6.77 |               |
 |   17 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
 |   18 | Matt Wong           |  22.7 |        50 |        -0.15 |               |
 |   19 | Jared Bard          |  22.7 |        18 |        -0.28 |         +5.03 |
 |   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
 |   21 | Ronald Dahl         |  21.5 |        48 |        -0.10 |         -0.65 |
-|   22 | Shaun Lim           |  21.2 |        29 |        -0.12 |         +1.00 |
+|   22 | Shaun Lim           |  21.2 |        30 |        -0.07 |         +1.06 |
 |   23 | Jonathan Francis    |  20.7 |        51 |        +0.23 |         +2.08 |
 |   24 | Jacob Kersey        |  20.5 |        13 |        +1.74 |               |
 |   25 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
@@ -54,11 +54,11 @@ Generated 2016-03-27.
 |   50 | Zsolt Bartha        |   3.8 |        39 |        -0.16 |         -1.87 |
 |   51 | Sandra Harpster     |   3.8 |         3 |        +0.27 |               |
 |   52 | Jose Lara           |   3.3 |         1 |              |               |
-|   53 | Josh Lebowitz       |   2.8 |         6 |        +4.62 |               |
+|   53 | Josh Lebowitz       |   2.7 |         7 |        +4.58 |               |
 |   54 | Alok Singh          |   2.3 |         6 |        +2.26 |               |
 |   55 | Matan Sela          |   1.0 |         1 |              |               |
 |   56 | Keaton Noon         |   0.2 |         8 |        +0.05 |               |
 |   57 | Marco Eres          |  -0.5 |         5 |        +3.15 |               |
-|   58 | Shantanu Mittal     |  -3.2 |         2 |              |               |
+|   58 | Shantanu Mittal     |  -3.3 |         2 |              |               |
 |   59 | Nick Firmani        |  -3.9 |         3 |              |               |
 |   60 | Padma Maitland      |  -5.4 |         4 |        -0.72 |               |
