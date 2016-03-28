@@ -24,8 +24,8 @@ Generated 2016-03-27.
 |   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
 |   21 | Ronald Dahl         |  21.5 |        48 |        -0.10 |         -0.65 |
 |   22 | Shaun Lim           |  21.2 |        29 |        -0.12 |         +1.00 |
-|   23 | Jacob Kersey        |  20.5 |        13 |        +1.74 |               |
-|   24 | Jonathan Francis    |  20.4 |        50 |              |         +1.85 |
+|   23 | Jonathan Francis    |  20.7 |        51 |        +0.23 |         +2.08 |
+|   24 | Jacob Kersey        |  20.5 |        13 |        +1.74 |               |
 |   25 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
 |   26 | Sam Trachtman       |  20.0 |         4 |        +5.68 |               |
 |   27 | Chris Flores        |  19.7 |       286 |        +0.01 |         -0.71 |
@@ -34,10 +34,10 @@ Generated 2016-03-27.
 |   30 | Daniel Schwartz     |  17.9 |         7 |        +2.46 |               |
 |   31 | Eric Borden         |  16.9 |        16 |        +3.43 |               |
 |   32 | Kent Daniels        |  16.8 |        67 |        -0.14 |         +2.44 |
-|   33 | Jeff Gordon         |  16.3 |        15 |        +1.10 |               |
-|   34 | George Roche        |  16.3 |        14 |              |         +2.01 |
+|   33 | George Roche        |  16.3 |        14 |              |         +2.01 |
+|   34 | Jeff Gordon         |  16.1 |        16 |        +0.81 |               |
 |   35 | Josh Trauner        |  14.9 |        12 |        -0.85 |               |
-|   36 | Terry Chang         |  14.3 |        31 |        +0.15 |         +3.49 |
+|   36 | Terry Chang         |  14.3 |        31 |        +0.13 |         +3.47 |
 |   37 | Subrato Dey         |  14.0 |        12 |        -0.72 |               |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
@@ -50,7 +50,7 @@ Generated 2016-03-27.
 |   46 | Raphael Magarik     |   5.1 |         2 |              |               |
 |   47 | Nikhil Srivastava   |   4.8 |        16 |              |               |
 |   48 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
-|   49 | Wayne Heiser        |   4.4 |         9 |        -0.17 |               |
+|   49 | Wayne Heiser        |   4.4 |         9 |        -0.16 |               |
 |   50 | Zsolt Bartha        |   3.8 |        39 |        -0.16 |         -1.87 |
 |   51 | Sandra Harpster     |   3.8 |         3 |        +0.27 |               |
 |   52 | Jose Lara           |   3.3 |         1 |              |               |

@@ -118,10 +118,10 @@ Generated 2016-03-27.
 |  114 | Matt Wild                 |  21.0 |        25 |              |         -0.02 |
 |  115 | Robert Jeng               |  20.9 |        26 |              |               |
 |  116 | Aaron Socha               |  20.9 |        24 |              |               |
-|  117 | Omair Azam                |  20.6 |        18 |              |               |
-|  118 | Jacob Kersey              |  20.5 |        13 |        +1.74 |               |
-|  119 | Ian MacDonald             |  20.5 |        59 |              |               |
-|  120 | Jonathan Francis          |  20.4 |        50 |              |         +1.85 |
+|  117 | Jonathan Francis          |  20.7 |        51 |        +0.23 |         +2.08 |
+|  118 | Omair Azam                |  20.6 |        18 |              |               |
+|  119 | Jacob Kersey              |  20.5 |        13 |        +1.74 |               |
+|  120 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  121 | Dror Matalon              |  20.3 |       334 |              |         -0.92 |
 |  122 | Sam Trachtman             |  20.0 |         4 |        +5.68 |               |
 |  123 | Andrew Proudfoot          |  19.8 |        26 |              |               |
@@ -192,11 +192,11 @@ Generated 2016-03-27.
 |  188 | Dennis Dornan             |  16.6 |        12 |              |               |
 |  189 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  190 | Ben Ailes                 |  16.5 |        48 |              |               |
-|  191 | Jeff Gordon               |  16.3 |        15 |        +1.10 |               |
-|  192 | George Roche              |  16.3 |        14 |              |         +2.01 |
-|  193 | Anirudh Todi              |  16.2 |         3 |              |               |
-|  194 | Rich Shapiro              |  16.1 |        82 |              |               |
-|  195 | Troup Howard              |  16.1 |        34 |              |         -0.29 |
+|  191 | George Roche              |  16.3 |        14 |              |         +2.01 |
+|  192 | Anirudh Todi              |  16.2 |         3 |              |               |
+|  193 | Rich Shapiro              |  16.1 |        82 |              |               |
+|  194 | Troup Howard              |  16.1 |        34 |              |         -0.29 |
+|  195 | Jeff Gordon               |  16.1 |        16 |        +0.81 |               |
 |  196 | Andrew Green              |  16.1 |        52 |              |               |
 |  197 | Toni Queck                |  16.0 |        20 |              |               |
 |  198 | Jaime Paterson            |  15.7 |         1 |              |               |
@@ -227,7 +227,7 @@ Generated 2016-03-27.
 |  223 | John Grim                 |  14.4 |        13 |              |               |
 |  224 | David Shabelman           |  14.4 |        30 |              |               |
 |  225 | Peter Dering              |  14.3 |         9 |              |               |
-|  226 | Terry Chang               |  14.3 |        31 |        +0.15 |         +3.49 |
+|  226 | Terry Chang               |  14.3 |        31 |        +0.13 |         +3.47 |
 |  227 | Chinghway Lim             |  14.3 |        10 |              |               |
 |  228 | Subrato Dey               |  14.0 |        12 |        -0.72 |               |
 |  229 | Wesley Huang              |  14.0 |         8 |              |               |
@@ -364,7 +364,7 @@ Generated 2016-03-27.
 |  360 | Anurag Gupta              |   4.7 |         6 |              |               |
 |  361 | Greg Sperla               |   4.5 |         8 |              |               |
 |  362 | Nate Aden                 |   4.4 |         2 |        +5.11 |               |
-|  363 | Wayne Heiser              |   4.4 |         9 |        -0.17 |               |
+|  363 | Wayne Heiser              |   4.4 |         9 |        -0.16 |               |
 |  364 | Mohammad Salama           |   4.2 |         5 |              |               |
 |  365 | Lewis H. Moore            |   4.0 |         8 |              |               |
 |  366 | Josephine Lee             |   3.9 |         6 |              |               |
