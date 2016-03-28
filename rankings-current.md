@@ -44,16 +44,16 @@ Generated 2016-03-27.
 |   40 | Ankur Dave          |  10.6 |        26 |        +1.01 |               |
 |   41 | Anthony Patterson   |  10.2 |         6 |              |               |
 |   42 | Myles Gordon        |  10.1 |        41 |        -0.19 |         +2.61 |
-|   43 | Duo Wang            |   9.5 |        51 |        -0.26 |         +3.29 |
-|   44 | Gene Zubovich       |   9.4 |        19 |              |         +3.39 |
-|   45 | Nikhil Paranjape    |   7.3 |         8 |              |               |
-|   46 | Raphael Magarik     |   5.1 |         2 |              |               |
+|   43 | Jose Lara           |  10.1 |         2 |              |               |
+|   44 | Duo Wang            |   9.5 |        51 |        -0.26 |         +3.29 |
+|   45 | Gene Zubovich       |   9.4 |        19 |              |         +3.39 |
+|   46 | Nikhil Paranjape    |   7.3 |         8 |              |               |
 |   47 | Nikhil Srivastava   |   4.8 |        16 |              |               |
-|   48 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
-|   49 | Wayne Heiser        |   4.4 |         9 |        -0.16 |               |
-|   50 | Zsolt Bartha        |   3.8 |        39 |        -0.16 |         -1.87 |
-|   51 | Sandra Harpster     |   3.8 |         3 |        +0.27 |               |
-|   52 | Jose Lara           |   3.3 |         1 |              |               |
+|   48 | Raphael Magarik     |   4.4 |         3 |              |               |
+|   49 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
+|   50 | Wayne Heiser        |   4.4 |         9 |        -0.16 |               |
+|   51 | Zsolt Bartha        |   3.8 |        39 |        -0.16 |         -1.87 |
+|   52 | Sandra Harpster     |   3.8 |         3 |        +0.27 |               |
 |   53 | Josh Lebowitz       |   2.7 |         7 |        +4.58 |               |
 |   54 | Alok Singh          |   2.3 |         6 |        +2.26 |               |
 |   55 | Matan Sela          |   1.0 |         1 |              |               |
