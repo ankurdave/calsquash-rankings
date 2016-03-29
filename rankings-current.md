@@ -2,9 +2,9 @@ Generated 2016-03-28.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler       |  43.0 |       204 |        +0.09 |         +0.17 |
+|    1 | Ashley Kayler       |  43.0 |       205 |        +0.09 |         +0.17 |
 |    2 | Rees Sweeney-Taylor |  36.7 |        75 |        +0.14 |         +1.23 |
-|    3 | Jim Veitch          |  29.3 |       401 |        -0.11 |         +0.04 |
+|    3 | Jim Veitch          |  29.3 |       402 |        -0.13 |         +0.02 |
 |    4 | Frank Kennamer      |  28.7 |       193 |        -0.10 |         +0.27 |
 |    5 | John Kunze          |  28.5 |       286 |        +0.08 |         -0.18 |
 |    6 | Arvind Muralimohan  |  28.1 |        15 |        +2.10 |               |

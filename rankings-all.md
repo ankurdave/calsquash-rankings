@@ -2,7 +2,7 @@ Generated 2016-03-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  43.0 |       204 |        +0.09 |         +0.17 |
+|    1 | Ashley Kayler             |  43.0 |       205 |        +0.09 |         +0.17 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
 |    3 | Rees Sweeney-Taylor       |  36.7 |        75 |        +0.14 |         +1.23 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
@@ -22,7 +22,7 @@ Generated 2016-03-28.
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
 |   19 | Louis Morrill             |  29.4 |        10 |              |               |
 |   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
-|   21 | Jim Veitch                |  29.3 |       401 |        -0.11 |         +0.04 |
+|   21 | Jim Veitch                |  29.3 |       402 |        -0.13 |         +0.02 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
 |   23 | Frank Kennamer            |  28.7 |       193 |        -0.10 |         +0.27 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
