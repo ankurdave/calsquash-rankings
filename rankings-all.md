@@ -126,7 +126,7 @@ Generated 2016-03-30.
 |  122 | Sam Trachtman             |  20.0 |         4 |        +5.68 |               |
 |  123 | Andrew Proudfoot          |  19.8 |        26 |              |               |
 |  124 | Whit Eldredge             |  19.7 |         2 |              |               |
-|  125 | Chris Flores              |  19.7 |       286 |        +0.01 |         -0.71 |
+|  125 | Chris Flores              |  19.7 |       286 |        +0.02 |         -0.70 |
 |  126 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  127 | Pierre Darancet           |  19.6 |        94 |              |               |
 |  128 | Sunil Bhave               |  19.6 |        26 |              |               |
@@ -181,14 +181,14 @@ Generated 2016-03-30.
 |  177 | Joseph Farrell            |  17.0 |         8 |              |               |
 |  178 | Nacho Quaglio             |  17.0 |         3 |              |               |
 |  179 | Sebastien Biraud          |  17.0 |        60 |              |               |
-|  180 | Kedar Shah                |  16.9 |         9 |              |               |
-|  181 | Eric Borden               |  16.9 |        16 |        +3.43 |               |
+|  180 | Eric Borden               |  16.9 |        16 |        +3.45 |               |
+|  181 | Kedar Shah                |  16.9 |         9 |              |               |
 |  182 | Sarah Mcneil              |  16.9 |        24 |              |               |
 |  183 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  184 | William Coleman           |  16.8 |        48 |              |               |
-|  185 | Kent Daniels              |  16.8 |        67 |        -0.14 |         +2.44 |
-|  186 | Darren Morgan             |  16.8 |        11 |              |               |
-|  187 | Viraj Paropkari           |  16.7 |        16 |              |               |
+|  185 | Darren Morgan             |  16.8 |        11 |              |               |
+|  186 | Viraj Paropkari           |  16.7 |        16 |              |               |
+|  187 | Kent Daniels              |  16.7 |        68 |        -0.25 |         +2.33 |
 |  188 | Dennis Dornan             |  16.6 |        12 |              |               |
 |  189 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  190 | Ben Ailes                 |  16.5 |        48 |              |               |
@@ -215,21 +215,21 @@ Generated 2016-03-30.
 |  211 | Alex Marqusee             |  15.1 |        28 |              |         +2.11 |
 |  212 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
 |  213 | Liam King                 |  15.0 |         6 |              |               |
-|  214 | Peter Duerr               |  15.0 |        24 |              |               |
-|  215 | Jayanth Kannan            |  15.0 |        20 |              |               |
-|  216 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
-|  217 | Josh Trauner              |  14.9 |        12 |        -0.85 |               |
-|  218 | Lakshya Rustagi           |  14.8 |         2 |              |               |
-|  219 | Angie Ng                  |  14.8 |        12 |              |               |
-|  220 | Nicholas Monsees          |  14.8 |         5 |              |               |
-|  221 | Yating Liu                |  14.6 |         7 |              |               |
-|  222 | Frederick Bayles          |  14.6 |         8 |              |               |
-|  223 | John Grim                 |  14.4 |        13 |              |               |
-|  224 | David Shabelman           |  14.4 |        30 |              |               |
-|  225 | Peter Dering              |  14.3 |         9 |              |               |
-|  226 | Terry Chang               |  14.3 |        31 |        +0.13 |         +3.47 |
-|  227 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  228 | Subrato Dey               |  14.0 |        12 |        -0.72 |               |
+|  214 | Subrato Dey               |  15.0 |        13 |        +0.30 |               |
+|  215 | Peter Duerr               |  15.0 |        24 |              |               |
+|  216 | Jayanth Kannan            |  15.0 |        20 |              |               |
+|  217 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
+|  218 | Josh Trauner              |  14.9 |        12 |        -0.85 |               |
+|  219 | Lakshya Rustagi           |  14.8 |         2 |              |               |
+|  220 | Angie Ng                  |  14.8 |        12 |              |               |
+|  221 | Nicholas Monsees          |  14.8 |         5 |              |               |
+|  222 | Yating Liu                |  14.6 |         7 |              |               |
+|  223 | Frederick Bayles          |  14.6 |         8 |              |               |
+|  224 | John Grim                 |  14.4 |        13 |              |               |
+|  225 | David Shabelman           |  14.4 |        30 |              |               |
+|  226 | Peter Dering              |  14.3 |         9 |              |               |
+|  227 | Terry Chang               |  14.3 |        31 |        +0.13 |         +3.47 |
+|  228 | Chinghway Lim             |  14.3 |        10 |              |               |
 |  229 | Wesley Huang              |  14.0 |         8 |              |               |
 |  230 | Greg Adams                |  14.0 |        10 |              |               |
 |  231 | Rupert Myers              |  14.0 |        22 |        -0.11 |               |

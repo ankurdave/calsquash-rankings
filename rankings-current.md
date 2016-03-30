@@ -28,17 +28,17 @@ Generated 2016-03-30.
 |   24 | Jacob Kersey        |  20.5 |        13 |        +1.74 |               |
 |   25 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
 |   26 | Sam Trachtman       |  20.0 |         4 |        +5.68 |               |
-|   27 | Chris Flores        |  19.7 |       286 |        +0.01 |         -0.71 |
+|   27 | Chris Flores        |  19.7 |       286 |        +0.02 |         -0.70 |
 |   28 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   29 | Jaime Perez         |  18.5 |        11 |        +0.37 |               |
 |   30 | Daniel Schwartz     |  17.9 |         7 |        +2.47 |               |
-|   31 | Eric Borden         |  16.9 |        16 |        +3.43 |               |
-|   32 | Kent Daniels        |  16.8 |        67 |        -0.14 |         +2.44 |
+|   31 | Eric Borden         |  16.9 |        16 |        +3.45 |               |
+|   32 | Kent Daniels        |  16.7 |        68 |        -0.25 |         +2.33 |
 |   33 | George Roche        |  16.3 |        14 |              |         +2.01 |
 |   34 | Jeff Gordon         |  16.1 |        16 |        +0.81 |               |
-|   35 | Josh Trauner        |  14.9 |        12 |        -0.85 |               |
-|   36 | Terry Chang         |  14.3 |        31 |        +0.13 |         +3.47 |
-|   37 | Subrato Dey         |  14.0 |        12 |        -0.72 |               |
+|   35 | Subrato Dey         |  15.0 |        13 |        +0.30 |               |
+|   36 | Josh Trauner        |  14.9 |        12 |        -0.85 |               |
+|   37 | Terry Chang         |  14.3 |        31 |        +0.13 |         +3.47 |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
 |   40 | Ankur Dave          |  10.6 |        26 |        +1.00 |               |
