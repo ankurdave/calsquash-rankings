@@ -41,16 +41,16 @@ Generated 2016-03-29.
 |   37 | Subrato Dey         |  14.0 |        12 |        -0.72 |               |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
-|   40 | Ankur Dave          |  10.6 |        26 |        +1.01 |               |
+|   40 | Ankur Dave          |  10.6 |        26 |        +1.00 |               |
 |   41 | Anthony Patterson   |  10.2 |         6 |              |               |
-|   42 | Myles Gordon        |  10.1 |        41 |        -0.19 |         +2.61 |
-|   43 | Jose Lara           |  10.1 |         2 |              |               |
+|   42 | Jose Lara           |  10.1 |         2 |              |               |
+|   43 | Myles Gordon        |  10.1 |        42 |        -0.28 |         +2.53 |
 |   44 | Duo Wang            |   9.5 |        51 |        -0.26 |         +3.29 |
 |   45 | Gene Zubovich       |   9.4 |        19 |              |         +3.39 |
-|   46 | Nikhil Paranjape    |   7.3 |         8 |              |               |
-|   47 | Nikhil Srivastava   |   4.8 |        16 |              |               |
-|   48 | Raphael Magarik     |   4.4 |         3 |              |               |
-|   49 | Nate Aden           |   4.4 |         2 |        +5.11 |               |
+|   46 | Nate Aden           |   7.5 |         3 |        +8.28 |               |
+|   47 | Nikhil Paranjape    |   7.3 |         8 |              |               |
+|   48 | Nikhil Srivastava   |   4.8 |        16 |              |               |
+|   49 | Raphael Magarik     |   4.4 |         3 |              |               |
 |   50 | Wayne Heiser        |   4.4 |         9 |        -0.16 |               |
 |   51 | Zsolt Bartha        |   3.8 |        39 |        -0.16 |         -1.87 |
 |   52 | Sandra Harpster     |   3.8 |         3 |        +0.27 |               |
