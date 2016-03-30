@@ -20,12 +20,12 @@ Generated 2016-03-29.
 |   16 | Sam Sternberg             |  30.0 |       107 |              |         +0.32 |
 |   17 | Grant French              |  29.6 |       125 |              |               |
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
-|   19 | Louis Morrill             |  29.4 |        10 |              |               |
-|   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
-|   21 | Jim Veitch                |  29.3 |       402 |        -0.13 |         +0.02 |
+|   19 | Jim Veitch                |  29.4 |       403 |        -0.03 |         +0.12 |
+|   20 | Louis Morrill             |  29.4 |        10 |              |               |
+|   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
-|   23 | Frank Kennamer            |  28.7 |       193 |        -0.10 |         +0.27 |
-|   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
+|   23 | Rodrigo Cabral            |  28.7 |        29 |              |               |
+|   24 | Frank Kennamer            |  28.6 |       194 |        -0.19 |         +0.18 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.5 |       286 |        +0.08 |         -0.18 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
