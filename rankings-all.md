@@ -2,9 +2,9 @@ Generated 2016-03-30.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  43.0 |       205 |        +0.09 |         +0.17 |
+|    1 | Ashley Kayler             |  43.0 |       205 |        +0.09 |         +0.16 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
-|    3 | Rees Sweeney-Taylor       |  36.7 |        75 |        +0.14 |         +1.23 |
+|    3 | Rees Sweeney-Taylor       |  36.7 |        75 |        +0.13 |         +1.22 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
 |    5 | Tanu Sankalia             |  36.2 |        94 |              |               |
 |    6 | Thomas Lowish             |  35.9 |         6 |              |         +1.48 |
@@ -20,12 +20,12 @@ Generated 2016-03-30.
 |   16 | Sam Sternberg             |  30.0 |       107 |              |         +0.32 |
 |   17 | Grant French              |  29.6 |       125 |              |               |
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
-|   19 | Jim Veitch                |  29.4 |       403 |        -0.03 |         +0.12 |
+|   19 | Jim Veitch                |  29.4 |       403 |        -0.03 |         +0.11 |
 |   20 | Louis Morrill             |  29.4 |        10 |              |               |
 |   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
 |   23 | Rodrigo Cabral            |  28.7 |        29 |              |               |
-|   24 | Frank Kennamer            |  28.6 |       194 |        -0.19 |         +0.18 |
+|   24 | Frank Kennamer            |  28.6 |       195 |        -0.24 |         +0.13 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.5 |       286 |        +0.08 |         -0.18 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
@@ -44,14 +44,14 @@ Generated 2016-03-30.
 |   40 | Ignacio Canals            |  26.7 |        21 |              |               |
 |   41 | Nauman Sardar             |  26.6 |        40 |              |               |
 |   42 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
-|   43 | Nick Cobbett              |  26.4 |        16 |        +1.65 |               |
-|   44 | Ali Rahim                 |  26.2 |        24 |              |               |
-|   45 | Amos Vernon               |  26.0 |        30 |              |               |
-|   46 | Ben Seelig                |  25.8 |        69 |              |               |
-|   47 | Annie Rein-Weston         |  25.7 |        18 |              |               |
-|   48 | Mikael Rehn               |  25.4 |         5 |              |               |
-|   49 | Dan Meier                 |  25.1 |        34 |        +0.56 |         +8.04 |
-|   50 | Ethan Kerr                |  24.9 |         5 |        +2.83 |               |
+|   43 | Ethan Kerr                |  26.4 |         6 |        +4.36 |               |
+|   44 | Nick Cobbett              |  26.3 |        16 |        +1.62 |               |
+|   45 | Ali Rahim                 |  26.2 |        24 |              |               |
+|   46 | Amos Vernon               |  26.0 |        30 |              |               |
+|   47 | Ben Seelig                |  25.8 |        69 |              |               |
+|   48 | Annie Rein-Weston         |  25.7 |        18 |              |               |
+|   49 | Mikael Rehn               |  25.4 |         5 |              |               |
+|   50 | Dan Meier                 |  25.1 |        34 |        +0.56 |         +8.04 |
 |   51 | Dan Bohn                  |  24.7 |        73 |              |         +0.19 |
 |   52 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
