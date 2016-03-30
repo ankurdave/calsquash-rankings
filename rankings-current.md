@@ -31,7 +31,7 @@ Generated 2016-03-29.
 |   27 | Chris Flores        |  19.7 |       286 |        +0.01 |         -0.71 |
 |   28 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   29 | Jaime Perez         |  18.5 |        11 |        +0.37 |               |
-|   30 | Daniel Schwartz     |  17.9 |         7 |        +2.46 |               |
+|   30 | Daniel Schwartz     |  17.9 |         7 |        +2.47 |               |
 |   31 | Eric Borden         |  16.9 |        16 |        +3.43 |               |
 |   32 | Kent Daniels        |  16.8 |        67 |        -0.14 |         +2.44 |
 |   33 | George Roche        |  16.3 |        14 |              |         +2.01 |
@@ -50,14 +50,14 @@ Generated 2016-03-29.
 |   46 | Nate Aden           |   7.5 |         3 |        +8.28 |               |
 |   47 | Nikhil Paranjape    |   7.3 |         8 |              |               |
 |   48 | Nikhil Srivastava   |   4.8 |        16 |              |               |
-|   49 | Raphael Magarik     |   4.4 |         3 |              |               |
-|   50 | Wayne Heiser        |   4.4 |         9 |        -0.16 |               |
-|   51 | Zsolt Bartha        |   3.8 |        39 |        -0.16 |         -1.87 |
-|   52 | Sandra Harpster     |   3.8 |         3 |        +0.27 |               |
-|   53 | Josh Lebowitz       |   2.7 |         7 |        +4.58 |               |
-|   54 | Alok Singh          |   2.3 |         6 |        +2.26 |               |
-|   55 | Matan Sela          |   1.0 |         1 |              |               |
-|   56 | Keaton Noon         |   0.2 |         8 |        +0.05 |               |
+|   49 | Zsolt Bartha        |   4.5 |        40 |        +0.55 |         -1.17 |
+|   50 | Raphael Magarik     |   4.4 |         3 |              |               |
+|   51 | Wayne Heiser        |   4.4 |         9 |        -0.16 |               |
+|   52 | Josh Lebowitz       |   2.7 |         7 |        +4.58 |               |
+|   53 | Alok Singh          |   2.3 |         6 |        +2.26 |               |
+|   54 | Matan Sela          |   1.0 |         1 |              |               |
+|   55 | Keaton Noon         |   0.2 |         8 |        +0.05 |               |
+|   56 | Sandra Harpster     |  -0.2 |         4 |        -3.75 |               |
 |   57 | Marco Eres          |  -0.5 |         5 |        +3.15 |               |
 |   58 | Shantanu Mittal     |  -3.3 |         2 |              |               |
 |   59 | Nick Firmani        |  -3.9 |         3 |              |               |
