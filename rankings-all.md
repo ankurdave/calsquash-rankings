@@ -125,8 +125,8 @@ Generated 2016-03-30.
 |  121 | Dror Matalon              |  20.3 |       334 |              |         -0.92 |
 |  122 | Sam Trachtman             |  20.0 |         4 |        +5.68 |               |
 |  123 | Andrew Proudfoot          |  19.8 |        26 |              |               |
-|  124 | Whit Eldredge             |  19.7 |         2 |              |               |
-|  125 | Chris Flores              |  19.7 |       286 |        +0.02 |         -0.70 |
+|  124 | Chris Flores              |  19.8 |       287 |        +0.10 |         -0.62 |
+|  125 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  126 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  127 | Pierre Darancet           |  19.6 |        94 |              |               |
 |  128 | Sunil Bhave               |  19.6 |        26 |              |               |
@@ -181,15 +181,15 @@ Generated 2016-03-30.
 |  177 | Joseph Farrell            |  17.0 |         8 |              |               |
 |  178 | Nacho Quaglio             |  17.0 |         3 |              |               |
 |  179 | Sebastien Biraud          |  17.0 |        60 |              |               |
-|  180 | Eric Borden               |  16.9 |        16 |        +3.45 |               |
+|  180 | Eric Borden               |  16.9 |        16 |        +3.44 |               |
 |  181 | Kedar Shah                |  16.9 |         9 |              |               |
 |  182 | Sarah Mcneil              |  16.9 |        24 |              |               |
 |  183 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  184 | William Coleman           |  16.8 |        48 |              |               |
 |  185 | Darren Morgan             |  16.8 |        11 |              |               |
 |  186 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  187 | Kent Daniels              |  16.7 |        68 |        -0.25 |         +2.33 |
-|  188 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  187 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  188 | Kent Daniels              |  16.6 |        69 |        -0.36 |         +2.22 |
 |  189 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  190 | Ben Ailes                 |  16.5 |        48 |              |               |
 |  191 | George Roche              |  16.3 |        14 |              |         +2.01 |
@@ -215,7 +215,7 @@ Generated 2016-03-30.
 |  211 | Alex Marqusee             |  15.1 |        28 |              |         +2.11 |
 |  212 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
 |  213 | Liam King                 |  15.0 |         6 |              |               |
-|  214 | Subrato Dey               |  15.0 |        13 |        +0.30 |               |
+|  214 | Subrato Dey               |  15.0 |        13 |        +0.29 |               |
 |  215 | Peter Duerr               |  15.0 |        24 |              |               |
 |  216 | Jayanth Kannan            |  15.0 |        20 |              |               |
 |  217 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
