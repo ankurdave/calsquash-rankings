@@ -15,8 +15,8 @@ Generated 2016-03-31.
 |   11 | Mark Modera         |  24.1 |       292 |        -0.26 |         -1.42 |
 |   12 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
 |   13 | Benjamin Vicuna     |  23.8 |        46 |        +0.48 |         +7.98 |
-|   14 | Andrew Lawrie       |  23.4 |        43 |        +0.35 |        +20.30 |
-|   15 | Jonathan Hankar     |  23.2 |       170 |        +0.20 |         -0.03 |
+|   14 | Jonathan Hankar     |  23.4 |       171 |        +0.36 |         +0.13 |
+|   15 | Andrew Lawrie       |  23.4 |        43 |        +0.35 |        +20.30 |
 |   16 | Saurabh Bajaj       |  23.1 |         8 |        +6.77 |               |
 |   17 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
 |   18 | Jared Bard          |  22.7 |        18 |        -0.28 |         +5.03 |
@@ -27,10 +27,10 @@ Generated 2016-03-31.
 |   23 | Jonathan Francis    |  20.7 |        51 |        +0.23 |         +2.08 |
 |   24 | Jacob Kersey        |  20.5 |        13 |        +1.74 |               |
 |   25 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
-|   26 | Sam Trachtman       |  20.0 |         4 |        +5.68 |               |
-|   27 | Chris Flores        |  19.8 |       287 |        +0.10 |         -0.62 |
-|   28 | Andrew Pritchard    |  18.9 |        16 |              |               |
-|   29 | Jaime Perez         |  18.5 |        11 |        +0.37 |               |
+|   26 | Chris Flores        |  19.8 |       287 |        +0.10 |         -0.62 |
+|   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
+|   28 | Jaime Perez         |  18.5 |        11 |        +0.37 |               |
+|   29 | Sam Trachtman       |  18.5 |         5 |        +4.13 |               |
 |   30 | Daniel Schwartz     |  17.9 |         7 |        +2.47 |               |
 |   31 | Kent Daniels        |  16.6 |        69 |        -0.36 |         +2.22 |
 |   32 | Eric Borden         |  16.5 |        17 |        +3.05 |               |
