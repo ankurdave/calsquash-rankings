@@ -104,7 +104,7 @@ Generated 2016-03-31.
 |  100 | Zarah Rahman              |  21.6 |        13 |              |               |
 |  101 | Amy Lee                   |  21.6 |        56 |              |               |
 |  102 | Kameshwar Poolla          |  21.6 |        11 |              |               |
-|  103 | Ronald Dahl               |  21.5 |        48 |        -0.10 |         -0.65 |
+|  103 | Ronald Dahl               |  21.5 |        48 |        -0.12 |         -0.68 |
 |  104 | Phin Lee                  |  21.5 |        16 |              |               |
 |  105 | Dev Millstein             |  21.4 |        92 |              |               |
 |  106 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
@@ -181,15 +181,15 @@ Generated 2016-03-31.
 |  177 | Joseph Farrell            |  17.0 |         8 |              |               |
 |  178 | Nacho Quaglio             |  17.0 |         3 |              |               |
 |  179 | Sebastien Biraud          |  17.0 |        60 |              |               |
-|  180 | Eric Borden               |  16.9 |        16 |        +3.44 |               |
-|  181 | Kedar Shah                |  16.9 |         9 |              |               |
-|  182 | Sarah Mcneil              |  16.9 |        24 |              |               |
-|  183 | Shwetabh Singh            |  16.9 |         6 |              |               |
-|  184 | William Coleman           |  16.8 |        48 |              |               |
-|  185 | Darren Morgan             |  16.8 |        11 |              |               |
-|  186 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  187 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  188 | Kent Daniels              |  16.6 |        69 |        -0.36 |         +2.22 |
+|  180 | Kedar Shah                |  16.9 |         9 |              |               |
+|  181 | Sarah Mcneil              |  16.9 |        24 |              |               |
+|  182 | Shwetabh Singh            |  16.9 |         6 |              |               |
+|  183 | William Coleman           |  16.8 |        48 |              |               |
+|  184 | Darren Morgan             |  16.8 |        11 |              |               |
+|  185 | Viraj Paropkari           |  16.7 |        16 |              |               |
+|  186 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  187 | Kent Daniels              |  16.6 |        69 |        -0.36 |         +2.22 |
+|  188 | Eric Borden               |  16.5 |        17 |        +3.05 |               |
 |  189 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  190 | Ben Ailes                 |  16.5 |        48 |              |               |
 |  191 | George Roche              |  16.3 |        14 |              |         +2.01 |
@@ -199,23 +199,23 @@ Generated 2016-03-31.
 |  195 | Jeff Gordon               |  16.1 |        16 |        +0.81 |               |
 |  196 | Andrew Green              |  16.1 |        52 |              |               |
 |  197 | Toni Queck                |  16.0 |        20 |              |               |
-|  198 | Jaime Paterson            |  15.7 |         1 |              |               |
-|  199 | Jeff Bird                 |  15.7 |        38 |              |               |
-|  200 | Casey Harelson            |  15.7 |        20 |              |               |
-|  201 | Nick Paget                |  15.6 |        35 |              |               |
-|  202 | Allan Dafoe               |  15.5 |        43 |              |               |
-|  203 | David Bratt               |  15.4 |        16 |              |         +3.54 |
-|  204 | Doug Kreutzer             |  15.3 |        10 |              |               |
-|  205 | Ranjit Jhala              |  15.2 |         6 |              |               |
-|  206 | Chris Harrelson           |  15.2 |        47 |              |               |
-|  207 | Tuyen Le                  |  15.2 |         5 |              |               |
-|  208 | Narayan Sankaran          |  15.2 |        24 |              |               |
-|  209 | Matthew Brett             |  15.1 |        20 |              |               |
-|  210 | Kedar Viswanathan         |  15.1 |        16 |              |               |
-|  211 | Alex Marqusee             |  15.1 |        28 |              |         +2.11 |
-|  212 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
-|  213 | Liam King                 |  15.0 |         6 |              |               |
-|  214 | Subrato Dey               |  15.0 |        13 |        +0.29 |               |
+|  198 | Subrato Dey               |  15.8 |        14 |        +1.14 |               |
+|  199 | Jaime Paterson            |  15.7 |         1 |              |               |
+|  200 | Jeff Bird                 |  15.7 |        38 |              |               |
+|  201 | Casey Harelson            |  15.7 |        20 |              |               |
+|  202 | Nick Paget                |  15.6 |        35 |              |               |
+|  203 | Allan Dafoe               |  15.5 |        43 |              |               |
+|  204 | David Bratt               |  15.4 |        16 |              |         +3.54 |
+|  205 | Doug Kreutzer             |  15.3 |        10 |              |               |
+|  206 | Ranjit Jhala              |  15.2 |         6 |              |               |
+|  207 | Chris Harrelson           |  15.2 |        47 |              |               |
+|  208 | Tuyen Le                  |  15.2 |         5 |              |               |
+|  209 | Narayan Sankaran          |  15.2 |        24 |              |               |
+|  210 | Matthew Brett             |  15.1 |        20 |              |               |
+|  211 | Kedar Viswanathan         |  15.1 |        16 |              |               |
+|  212 | Alex Marqusee             |  15.1 |        28 |              |         +2.11 |
+|  213 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
+|  214 | Liam King                 |  15.0 |         6 |              |               |
 |  215 | Peter Duerr               |  15.0 |        24 |              |               |
 |  216 | Jayanth Kannan            |  15.0 |        20 |              |               |
 |  217 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |

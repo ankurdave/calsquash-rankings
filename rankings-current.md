@@ -22,7 +22,7 @@ Generated 2016-03-31.
 |   18 | Jared Bard          |  22.7 |        18 |        -0.28 |         +5.03 |
 |   19 | Matt Wong           |  22.6 |        51 |        -0.23 |               |
 |   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
-|   21 | Ronald Dahl         |  21.5 |        48 |        -0.10 |         -0.65 |
+|   21 | Ronald Dahl         |  21.5 |        48 |        -0.12 |         -0.68 |
 |   22 | Shaun Lim           |  21.2 |        30 |        -0.07 |         +1.06 |
 |   23 | Jonathan Francis    |  20.7 |        51 |        +0.23 |         +2.08 |
 |   24 | Jacob Kersey        |  20.5 |        13 |        +1.74 |               |
@@ -32,11 +32,11 @@ Generated 2016-03-31.
 |   28 | Andrew Pritchard    |  18.9 |        16 |              |               |
 |   29 | Jaime Perez         |  18.5 |        11 |        +0.37 |               |
 |   30 | Daniel Schwartz     |  17.9 |         7 |        +2.47 |               |
-|   31 | Eric Borden         |  16.9 |        16 |        +3.44 |               |
-|   32 | Kent Daniels        |  16.6 |        69 |        -0.36 |         +2.22 |
+|   31 | Kent Daniels        |  16.6 |        69 |        -0.36 |         +2.22 |
+|   32 | Eric Borden         |  16.5 |        17 |        +3.05 |               |
 |   33 | George Roche        |  16.3 |        14 |              |         +2.01 |
 |   34 | Jeff Gordon         |  16.1 |        16 |        +0.81 |               |
-|   35 | Subrato Dey         |  15.0 |        13 |        +0.29 |               |
+|   35 | Subrato Dey         |  15.8 |        14 |        +1.14 |               |
 |   36 | Josh Trauner        |  14.9 |        12 |        -0.85 |               |
 |   37 | Terry Chang         |  14.3 |        31 |        +0.13 |         +3.47 |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
