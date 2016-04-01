@@ -2,9 +2,9 @@ Generated 2016-03-31.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  43.0 |       205 |        +0.09 |         +0.16 |
+|    1 | Ashley Kayler             |  43.0 |       205 |        +0.09 |         +0.17 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
-|    3 | Rees Sweeney-Taylor       |  36.7 |        75 |        +0.13 |         +1.22 |
+|    3 | Rees Sweeney-Taylor       |  36.9 |        76 |        +0.28 |         +1.36 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
 |    5 | Tanu Sankalia             |  36.2 |        94 |              |               |
 |    6 | Thomas Lowish             |  35.9 |         6 |              |         +1.48 |
@@ -25,7 +25,7 @@ Generated 2016-03-31.
 |   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
 |   23 | Rodrigo Cabral            |  28.7 |        29 |              |               |
-|   24 | Frank Kennamer            |  28.6 |       195 |        -0.24 |         +0.13 |
+|   24 | Frank Kennamer            |  28.6 |       195 |        -0.24 |         +0.12 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.5 |       286 |        +0.08 |         -0.18 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
@@ -44,9 +44,9 @@ Generated 2016-03-31.
 |   40 | Ignacio Canals            |  26.7 |        21 |              |               |
 |   41 | Nauman Sardar             |  26.6 |        40 |              |               |
 |   42 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
-|   43 | Ethan Kerr                |  26.4 |         6 |        +4.36 |               |
-|   44 | Nick Cobbett              |  26.3 |        16 |        +1.62 |               |
-|   45 | Ali Rahim                 |  26.2 |        24 |              |               |
+|   43 | Nick Cobbett              |  26.3 |        16 |        +1.62 |               |
+|   44 | Ali Rahim                 |  26.2 |        24 |              |               |
+|   45 | Ethan Kerr                |  26.2 |         7 |        +4.15 |               |
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
 |   47 | Ben Seelig                |  25.8 |        69 |              |               |
 |   48 | Annie Rein-Weston         |  25.7 |        18 |              |               |

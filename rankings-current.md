@@ -2,15 +2,15 @@ Generated 2016-03-31.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler       |  43.0 |       205 |        +0.09 |         +0.16 |
-|    2 | Rees Sweeney-Taylor |  36.7 |        75 |        +0.13 |         +1.22 |
+|    1 | Ashley Kayler       |  43.0 |       205 |        +0.09 |         +0.17 |
+|    2 | Rees Sweeney-Taylor |  36.9 |        76 |        +0.28 |         +1.36 |
 |    3 | Jim Veitch          |  29.4 |       403 |        -0.03 |         +0.11 |
-|    4 | Frank Kennamer      |  28.6 |       195 |        -0.24 |         +0.13 |
+|    4 | Frank Kennamer      |  28.6 |       195 |        -0.24 |         +0.12 |
 |    5 | John Kunze          |  28.5 |       286 |        +0.08 |         -0.18 |
 |    6 | Arvind Muralimohan  |  28.1 |        15 |        +2.10 |               |
 |    7 | Glenn Forrester     |  26.9 |       355 |        -0.05 |         +0.12 |
-|    8 | Ethan Kerr          |  26.4 |         6 |        +4.36 |               |
-|    9 | Nick Cobbett        |  26.3 |        16 |        +1.62 |               |
+|    8 | Nick Cobbett        |  26.3 |        16 |        +1.62 |               |
+|    9 | Ethan Kerr          |  26.2 |         7 |        +4.15 |               |
 |   10 | Dan Meier           |  25.1 |        34 |        +0.56 |         +8.04 |
 |   11 | Mark Modera         |  24.1 |       292 |        -0.26 |         -1.42 |
 |   12 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
