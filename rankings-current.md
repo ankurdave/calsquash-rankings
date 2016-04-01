@@ -24,7 +24,7 @@ Generated 2016-03-31.
 |   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
 |   21 | Ronald Dahl         |  21.5 |        48 |        -0.12 |         -0.68 |
 |   22 | Shaun Lim           |  21.2 |        30 |        -0.07 |         +1.06 |
-|   23 | Jonathan Francis    |  20.7 |        51 |        +0.23 |         +2.08 |
+|   23 | Jonathan Francis    |  20.7 |        52 |        +0.28 |         +2.13 |
 |   24 | Jacob Kersey        |  20.5 |        13 |        +1.74 |               |
 |   25 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
 |   26 | Chris Flores        |  19.8 |       287 |        +0.10 |         -0.62 |
@@ -38,7 +38,7 @@ Generated 2016-03-31.
 |   34 | Jeff Gordon         |  16.1 |        16 |        +0.81 |               |
 |   35 | Subrato Dey         |  15.8 |        14 |        +1.14 |               |
 |   36 | Josh Trauner        |  14.9 |        12 |        -0.85 |               |
-|   37 | Terry Chang         |  14.3 |        31 |        +0.13 |         +3.47 |
+|   37 | Terry Chang         |  14.2 |        31 |        +0.12 |         +3.46 |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
 |   40 | Ankur Dave          |  10.6 |        26 |        +1.00 |               |
@@ -52,7 +52,7 @@ Generated 2016-03-31.
 |   48 | Nikhil Srivastava   |   4.8 |        16 |              |               |
 |   49 | Zsolt Bartha        |   4.5 |        40 |        +0.55 |         -1.17 |
 |   50 | Raphael Magarik     |   4.4 |         3 |              |               |
-|   51 | Wayne Heiser        |   4.4 |         9 |        -0.16 |               |
+|   51 | Wayne Heiser        |   4.4 |        10 |        -0.10 |               |
 |   52 | Josh Lebowitz       |   2.7 |         7 |        +4.58 |               |
 |   53 | Alok Singh          |   2.3 |         6 |        +2.26 |               |
 |   54 | Matan Sela          |   1.0 |         1 |              |               |

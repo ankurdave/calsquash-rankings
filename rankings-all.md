@@ -118,7 +118,7 @@ Generated 2016-03-31.
 |  114 | Matt Wild                 |  21.0 |        25 |              |         -0.02 |
 |  115 | Robert Jeng               |  20.9 |        26 |              |               |
 |  116 | Aaron Socha               |  20.9 |        24 |              |               |
-|  117 | Jonathan Francis          |  20.7 |        51 |        +0.23 |         +2.08 |
+|  117 | Jonathan Francis          |  20.7 |        52 |        +0.28 |         +2.13 |
 |  118 | Omair Azam                |  20.6 |        18 |              |               |
 |  119 | Jacob Kersey              |  20.5 |        13 |        +1.74 |               |
 |  120 | Ian MacDonald             |  20.5 |        59 |              |               |
@@ -228,8 +228,8 @@ Generated 2016-03-31.
 |  224 | John Grim                 |  14.4 |        13 |              |               |
 |  225 | David Shabelman           |  14.4 |        30 |              |               |
 |  226 | Peter Dering              |  14.3 |         9 |              |               |
-|  227 | Terry Chang               |  14.3 |        31 |        +0.13 |         +3.47 |
-|  228 | Chinghway Lim             |  14.3 |        10 |              |               |
+|  227 | Chinghway Lim             |  14.3 |        10 |              |               |
+|  228 | Terry Chang               |  14.2 |        31 |        +0.12 |         +3.46 |
 |  229 | Wesley Huang              |  14.0 |         8 |              |               |
 |  230 | Greg Adams                |  14.0 |        10 |              |               |
 |  231 | Rupert Myers              |  14.0 |        22 |        -0.11 |               |
@@ -366,7 +366,7 @@ Generated 2016-03-31.
 |  362 | Zsolt Bartha              |   4.5 |        40 |        +0.55 |         -1.17 |
 |  363 | Greg Sperla               |   4.5 |         8 |              |               |
 |  364 | Raphael Magarik           |   4.4 |         3 |              |               |
-|  365 | Wayne Heiser              |   4.4 |         9 |        -0.16 |               |
+|  365 | Wayne Heiser              |   4.4 |        10 |        -0.10 |               |
 |  366 | Mohammad Salama           |   4.2 |         5 |              |               |
 |  367 | Lewis H. Moore            |   4.0 |         8 |              |               |
 |  368 | Josephine Lee             |   3.9 |         6 |              |               |
