@@ -78,14 +78,14 @@ Generated 2016-03-31.
 |   74 | Sushil Shetty             |  23.3 |        23 |              |               |
 |   75 | Sonesh Surana             |  23.2 |        95 |              |               |
 |   76 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   77 | Saurabh Bajaj             |  23.1 |         8 |        +6.77 |               |
-|   78 | Jan Beranek               |  23.1 |        46 |              |               |
-|   79 | Gary Golding              |  23.1 |         6 |              |               |
+|   77 | Jan Beranek               |  23.1 |        46 |              |               |
+|   78 | Gary Golding              |  23.1 |         6 |              |               |
+|   79 | Saurabh Bajaj             |  23.1 |         8 |        +6.73 |               |
 |   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.43 |
 |   81 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   82 | Dante Popple              |  22.8 |        17 |              |               |
 |   83 | Mike Jensen-Akula         |  22.8 |       204 |        +0.05 |         -0.01 |
-|   84 | Jared Bard                |  22.7 |        18 |        -0.28 |         +5.03 |
+|   84 | Jared Bard                |  22.7 |        18 |        -0.29 |         +5.02 |
 |   85 | Matt Wong                 |  22.6 |        51 |        -0.23 |               |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
 |   87 | Richard Chan              |  22.5 |         9 |              |               |

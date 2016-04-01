@@ -17,9 +17,9 @@ Generated 2016-03-31.
 |   13 | Benjamin Vicuna     |  23.8 |        46 |        +0.48 |         +7.98 |
 |   14 | Jonathan Hankar     |  23.4 |       171 |        +0.36 |         +0.13 |
 |   15 | Andrew Lawrie       |  23.4 |        43 |        +0.35 |        +20.30 |
-|   16 | Saurabh Bajaj       |  23.1 |         8 |        +6.77 |               |
+|   16 | Saurabh Bajaj       |  23.1 |         8 |        +6.73 |               |
 |   17 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
-|   18 | Jared Bard          |  22.7 |        18 |        -0.28 |         +5.03 |
+|   18 | Jared Bard          |  22.7 |        18 |        -0.29 |         +5.02 |
 |   19 | Matt Wong           |  22.6 |        51 |        -0.23 |               |
 |   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
 |   21 | Ronald Dahl         |  21.5 |        48 |        -0.12 |         -0.68 |
