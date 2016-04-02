@@ -2,63 +2,56 @@ Generated 2016-04-02.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler       |  43.0 |       205 |        +0.09 |         +0.17 |
-|    2 | Rees Sweeney-Taylor |  36.9 |        76 |        +0.28 |         +1.36 |
-|    3 | Jim Veitch          |  29.4 |       403 |        -0.03 |         +0.11 |
-|    4 | Frank Kennamer      |  28.6 |       195 |        -0.24 |         +0.12 |
-|    5 | John Kunze          |  28.5 |       286 |        +0.08 |         -0.18 |
-|    6 | Arvind Muralimohan  |  28.1 |        15 |        +2.10 |               |
-|    7 | Glenn Forrester     |  26.9 |       355 |        -0.05 |         +0.12 |
-|    8 | Nick Cobbett        |  26.3 |        16 |        +1.62 |               |
-|    9 | Ethan Kerr          |  26.2 |         7 |        +4.15 |               |
-|   10 | Dan Meier           |  25.1 |        34 |        +0.56 |         +8.04 |
-|   11 | Mark Modera         |  24.1 |       292 |        -0.26 |         -1.42 |
-|   12 | Aditya Guntuboyina  |  24.1 |        68 |              |         +2.60 |
-|   13 | Benjamin Vicuna     |  23.8 |        46 |        +0.48 |         +7.98 |
-|   14 | Jonathan Hankar     |  23.4 |       171 |        +0.36 |         +0.13 |
-|   15 | Andrew Lawrie       |  23.4 |        43 |        +0.35 |        +20.30 |
-|   16 | Jared Bard          |  23.2 |        19 |        +0.20 |         +5.51 |
-|   17 | Saurabh Bajaj       |  23.1 |         8 |        +6.81 |               |
-|   18 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
-|   19 | Matt Wong           |  22.6 |        51 |        -0.23 |               |
-|   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
-|   21 | Ronald Dahl         |  21.5 |        48 |        -0.12 |         -0.68 |
-|   22 | Shaun Lim           |  21.2 |        30 |        -0.07 |         +1.06 |
-|   23 | Jonathan Francis    |  20.7 |        52 |        +0.28 |         +2.13 |
-|   24 | Jacob Kersey        |  20.5 |        13 |        +1.74 |               |
-|   25 | Dror Matalon        |  20.3 |       334 |              |         -0.92 |
-|   26 | Chris Flores        |  19.8 |       287 |        +0.10 |         -0.62 |
-|   27 | Andrew Pritchard    |  18.9 |        16 |              |               |
-|   28 | Jaime Perez         |  18.5 |        11 |        +0.37 |               |
-|   29 | Sam Trachtman       |  18.5 |         5 |        +4.13 |               |
-|   30 | Daniel Schwartz     |  17.9 |         7 |        +2.47 |               |
-|   31 | Kent Daniels        |  16.6 |        69 |        -0.36 |         +2.22 |
-|   32 | Eric Borden         |  16.5 |        17 |        +3.05 |               |
-|   33 | George Roche        |  16.3 |        14 |              |         +2.01 |
-|   34 | Jeff Gordon         |  16.1 |        16 |        +0.81 |               |
-|   35 | Subrato Dey         |  15.8 |        14 |        +1.14 |               |
-|   36 | Josh Trauner        |  14.9 |        12 |        -0.85 |               |
-|   37 | Terry Chang         |  14.2 |        31 |        +0.12 |         +3.46 |
-|   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
-|   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
-|   40 | Ankur Dave          |  11.1 |        27 |        +1.52 |               |
-|   41 | Anthony Patterson   |  10.2 |         6 |              |               |
-|   42 | Jose Lara           |  10.1 |         2 |              |               |
-|   43 | Myles Gordon        |  10.0 |        42 |        -0.34 |         +2.47 |
-|   44 | Duo Wang            |   9.6 |        51 |        -0.25 |         +3.30 |
-|   45 | Gene Zubovich       |   9.4 |        19 |              |         +3.39 |
-|   46 | Nikhil Paranjape    |   7.3 |         8 |              |               |
-|   47 | Nate Aden           |   6.1 |         4 |        +6.85 |               |
-|   48 | Nikhil Srivastava   |   4.8 |        16 |              |               |
-|   49 | Zsolt Bartha        |   4.5 |        40 |        +0.55 |         -1.17 |
-|   50 | Raphael Magarik     |   4.4 |         3 |              |               |
-|   51 | Wayne Heiser        |   4.4 |        10 |        -0.10 |               |
-|   52 | Josh Lebowitz       |   2.9 |         7 |        +4.73 |               |
-|   53 | Alok Singh          |   2.3 |         6 |        +2.26 |               |
-|   54 | Matan Sela          |   1.0 |         1 |              |               |
-|   55 | Keaton Noon         |   0.2 |         8 |        +0.05 |               |
-|   56 | Sandra Harpster     |  -0.2 |         4 |        -3.75 |               |
-|   57 | Marco Eres          |  -0.5 |         5 |        +3.15 |               |
-|   58 | Shantanu Mittal     |  -1.5 |         3 |              |               |
-|   59 | Nick Firmani        |  -3.9 |         3 |              |               |
-|   60 | Padma Maitland      |  -5.4 |         4 |        -0.72 |               |
+|    1 | Ashley Kayler       |  43.0 |       205 |              |         +0.17 |
+|    2 | Rees Sweeney-Taylor |  36.9 |        76 |              |         +1.36 |
+|    3 | Jim Veitch          |  29.4 |       403 |              |         +0.14 |
+|    4 | Frank Kennamer      |  28.6 |       195 |              |         -0.10 |
+|    5 | John Kunze          |  28.5 |       286 |              |         -0.18 |
+|    6 | Arvind Muralimohan  |  28.1 |        15 |              |               |
+|    7 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
+|    8 | Nick Cobbett        |  26.3 |        16 |              |               |
+|    9 | Ethan Kerr          |  26.2 |         7 |              |               |
+|   10 | Dan Meier           |  25.1 |        34 |              |         +7.80 |
+|   11 | Mark Modera         |  24.1 |       292 |              |         -1.42 |
+|   12 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
+|   13 | Jonathan Hankar     |  23.4 |       171 |              |         +0.24 |
+|   14 | Andrew Lawrie       |  23.4 |        43 |              |         +8.17 |
+|   15 | Saurabh Bajaj       |  23.1 |         8 |              |               |
+|   16 | Mike Jensen-Akula   |  22.8 |       204 |              |         -0.01 |
+|   17 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
+|   18 | Matt Wong           |  22.6 |        51 |              |         +4.52 |
+|   19 | Reid Johnsen        |  21.8 |        13 |              |         +6.02 |
+|   20 | Ronald Dahl         |  21.5 |        48 |              |         -0.68 |
+|   21 | Shaun Lim           |  21.2 |        30 |              |         +1.06 |
+|   22 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
+|   23 | Jacob Kersey        |  20.5 |        13 |              |               |
+|   24 | Chris Flores        |  19.8 |       287 |              |         -0.37 |
+|   25 | Sam Trachtman       |  18.5 |         5 |              |               |
+|   26 | Daniel Schwartz     |  17.9 |         7 |              |               |
+|   27 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
+|   28 | Eric Borden         |  16.5 |        17 |              |               |
+|   29 | Jeff Gordon         |  16.1 |        16 |              |               |
+|   30 | Subrato Dey         |  15.8 |        14 |              |               |
+|   31 | Josh Trauner        |  14.9 |        12 |              |               |
+|   32 | Terry Chang         |  14.2 |        31 |              |         +3.46 |
+|   33 | Rupert Myers        |  14.0 |        22 |              |               |
+|   34 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
+|   35 | Antonio Garcia      |  11.4 |        20 |              |               |
+|   36 | Ankur Dave          |  11.1 |        27 |              |               |
+|   37 | Jose Lara           |  10.1 |         2 |              |               |
+|   38 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
+|   39 | Duo Wang            |   9.6 |        51 |              |         +2.31 |
+|   40 | Brian Kempenich     |   7.9 |        27 |              |               |
+|   41 | Nate Aden           |   6.1 |         4 |              |               |
+|   42 | Zsolt Bartha        |   4.5 |        40 |              |         -0.44 |
+|   43 | Raphael Magarik     |   4.4 |         3 |              |               |
+|   44 | Wayne Heiser        |   4.4 |        10 |              |               |
+|   45 | Josh Lebowitz       |   2.7 |         7 |              |               |
+|   46 | Alok Singh          |   2.3 |         6 |              |               |
+|   47 | Rodrigo Calmet      |   0.7 |         1 |              |               |
+|   48 | Keaton Noon         |   0.2 |         8 |              |               |
+|   49 | Sandra Harpster     |  -0.2 |         4 |              |               |
+|   50 | Marco Eres          |  -0.5 |         5 |              |               |
+|   51 | Ann Connolly        |  -2.0 |         2 |              |               |
+|   52 | Shantanu Mittal     |  -3.3 |         2 |              |               |
+|   53 | Padma Maitland      |  -5.4 |         4 |              |               |
