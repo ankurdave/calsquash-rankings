@@ -41,14 +41,14 @@ Generated 2016-04-01.
 |   37 | Terry Chang         |  14.2 |        31 |        +0.12 |         +3.46 |
 |   38 | Rupert Myers        |  14.0 |        22 |        -0.11 |               |
 |   39 | Reto Sutter         |  13.0 |        35 |              |         +1.98 |
-|   40 | Ankur Dave          |  10.6 |        26 |        +1.00 |               |
+|   40 | Ankur Dave          |  11.1 |        27 |        +1.52 |               |
 |   41 | Anthony Patterson   |  10.2 |         6 |              |               |
 |   42 | Jose Lara           |  10.1 |         2 |              |               |
-|   43 | Myles Gordon        |  10.1 |        42 |        -0.28 |         +2.53 |
-|   44 | Duo Wang            |   9.5 |        51 |        -0.26 |         +3.29 |
+|   43 | Myles Gordon        |  10.0 |        42 |        -0.34 |         +2.47 |
+|   44 | Duo Wang            |   9.6 |        51 |        -0.25 |         +3.30 |
 |   45 | Gene Zubovich       |   9.4 |        19 |              |         +3.39 |
-|   46 | Nate Aden           |   7.5 |         3 |        +8.28 |               |
-|   47 | Nikhil Paranjape    |   7.3 |         8 |              |               |
+|   46 | Nikhil Paranjape    |   7.3 |         8 |              |               |
+|   47 | Nate Aden           |   6.1 |         4 |        +6.85 |               |
 |   48 | Nikhil Srivastava   |   4.8 |        16 |              |               |
 |   49 | Zsolt Bartha        |   4.5 |        40 |        +0.55 |         -1.17 |
 |   50 | Raphael Magarik     |   4.4 |         3 |              |               |
