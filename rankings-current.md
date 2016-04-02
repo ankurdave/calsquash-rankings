@@ -17,9 +17,9 @@ Generated 2016-04-02.
 |   13 | Benjamin Vicuna     |  23.8 |        46 |        +0.48 |         +7.98 |
 |   14 | Jonathan Hankar     |  23.4 |       171 |        +0.36 |         +0.13 |
 |   15 | Andrew Lawrie       |  23.4 |        43 |        +0.35 |        +20.30 |
-|   16 | Saurabh Bajaj       |  23.1 |         8 |        +6.73 |               |
-|   17 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
-|   18 | Jared Bard          |  22.7 |        18 |        -0.29 |         +5.02 |
+|   16 | Jared Bard          |  23.2 |        19 |        +0.20 |         +5.51 |
+|   17 | Saurabh Bajaj       |  23.1 |         8 |        +6.81 |               |
+|   18 | Mike Jensen-Akula   |  22.8 |       204 |        +0.05 |         -0.01 |
 |   19 | Matt Wong           |  22.6 |        51 |        -0.23 |               |
 |   20 | Reid Johnsen        |  21.8 |        13 |        -1.46 |         +6.02 |
 |   21 | Ronald Dahl         |  21.5 |        48 |        -0.12 |         -0.68 |
@@ -53,12 +53,12 @@ Generated 2016-04-02.
 |   49 | Zsolt Bartha        |   4.5 |        40 |        +0.55 |         -1.17 |
 |   50 | Raphael Magarik     |   4.4 |         3 |              |               |
 |   51 | Wayne Heiser        |   4.4 |        10 |        -0.10 |               |
-|   52 | Josh Lebowitz       |   2.7 |         7 |        +4.58 |               |
+|   52 | Josh Lebowitz       |   2.9 |         7 |        +4.73 |               |
 |   53 | Alok Singh          |   2.3 |         6 |        +2.26 |               |
 |   54 | Matan Sela          |   1.0 |         1 |              |               |
 |   55 | Keaton Noon         |   0.2 |         8 |        +0.05 |               |
 |   56 | Sandra Harpster     |  -0.2 |         4 |        -3.75 |               |
 |   57 | Marco Eres          |  -0.5 |         5 |        +3.15 |               |
-|   58 | Shantanu Mittal     |  -3.3 |         2 |              |               |
+|   58 | Shantanu Mittal     |  -1.5 |         3 |              |               |
 |   59 | Nick Firmani        |  -3.9 |         3 |              |               |
 |   60 | Padma Maitland      |  -5.4 |         4 |        -0.72 |               |
