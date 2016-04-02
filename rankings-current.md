@@ -27,31 +27,32 @@ Generated 2016-04-02.
 |   23 | Jacob Kersey        |  20.5 |        13 |              |               |
 |   24 | Chris Flores        |  19.8 |       287 |              |         -0.37 |
 |   25 | Sam Trachtman       |  18.5 |         5 |              |               |
-|   26 | Daniel Schwartz     |  17.9 |         7 |              |               |
-|   27 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
-|   28 | Eric Borden         |  16.5 |        17 |              |               |
-|   29 | Jeff Gordon         |  16.1 |        16 |              |               |
-|   30 | Subrato Dey         |  15.8 |        14 |              |               |
-|   31 | Josh Trauner        |  14.9 |        12 |              |               |
-|   32 | Terry Chang         |  14.2 |        31 |              |         +3.46 |
-|   33 | Rupert Myers        |  14.0 |        22 |              |               |
-|   34 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
-|   35 | Antonio Garcia      |  11.4 |        20 |              |               |
-|   36 | Ankur Dave          |  11.1 |        27 |              |               |
-|   37 | Jose Lara           |  10.1 |         2 |              |               |
-|   38 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
-|   39 | Duo Wang            |   9.6 |        51 |              |         +2.31 |
-|   40 | Brian Kempenich     |   7.9 |        27 |              |               |
-|   41 | Nate Aden           |   6.1 |         4 |              |               |
-|   42 | Zsolt Bartha        |   4.5 |        40 |              |         -0.44 |
-|   43 | Raphael Magarik     |   4.4 |         3 |              |               |
-|   44 | Wayne Heiser        |   4.4 |        10 |              |               |
-|   45 | Josh Lebowitz       |   2.7 |         7 |              |               |
-|   46 | Alok Singh          |   2.3 |         6 |              |               |
-|   47 | Rodrigo Calmet      |   0.7 |         1 |              |               |
-|   48 | Keaton Noon         |   0.2 |         8 |              |               |
-|   49 | Sandra Harpster     |  -0.2 |         4 |              |               |
-|   50 | Marco Eres          |  -0.5 |         5 |              |               |
-|   51 | Ann Connolly        |  -2.0 |         2 |              |               |
-|   52 | Shantanu Mittal     |  -3.3 |         2 |              |               |
-|   53 | Padma Maitland      |  -5.4 |         4 |              |               |
+|   26 | Kenny Bell          |  18.0 |        97 |              |         +1.00 |
+|   27 | Daniel Schwartz     |  17.9 |         7 |              |               |
+|   28 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
+|   29 | Eric Borden         |  16.5 |        17 |              |               |
+|   30 | Jeff Gordon         |  16.1 |        16 |              |               |
+|   31 | Subrato Dey         |  15.8 |        14 |              |               |
+|   32 | Josh Trauner        |  14.9 |        12 |              |               |
+|   33 | Terry Chang         |  14.2 |        31 |              |         +3.46 |
+|   34 | Rupert Myers        |  14.0 |        22 |              |               |
+|   35 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
+|   36 | Antonio Garcia      |  11.4 |        20 |              |               |
+|   37 | Ankur Dave          |  11.1 |        27 |              |               |
+|   38 | Jose Lara           |  10.1 |         2 |              |               |
+|   39 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
+|   40 | Duo Wang            |   9.6 |        51 |              |         +2.31 |
+|   41 | Brian Kempenich     |   7.9 |        27 |              |               |
+|   42 | Nate Aden           |   6.1 |         4 |              |               |
+|   43 | Zsolt Bartha        |   4.5 |        40 |              |         -0.44 |
+|   44 | Raphael Magarik     |   4.4 |         3 |              |               |
+|   45 | Wayne Heiser        |   4.4 |        10 |              |               |
+|   46 | Josh Lebowitz       |   2.7 |         7 |              |               |
+|   47 | Alok Singh          |   2.3 |         6 |              |               |
+|   48 | Rodrigo Calmet      |   0.7 |         1 |              |               |
+|   49 | Keaton Noon         |   0.2 |         8 |              |               |
+|   50 | Sandra Harpster     |  -0.2 |         4 |              |               |
+|   51 | Marco Eres          |  -0.5 |         5 |              |               |
+|   52 | Ann Connolly        |  -2.0 |         2 |              |               |
+|   53 | Shantanu Mittal     |  -3.3 |         2 |              |               |
+|   54 | Padma Maitland      |  -5.4 |         4 |              |               |
