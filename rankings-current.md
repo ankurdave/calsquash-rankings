@@ -20,7 +20,7 @@ Generated 2016-04-07.
 |   16 | Mike Jensen-Akula   |  22.8 |       204 |              |         -0.01 |
 |   17 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
 |   18 | Matt Wong           |  22.6 |        51 |              |         +4.52 |
-|   19 | Reid Johnsen        |  21.8 |        13 |              |         +6.02 |
+|   19 | Reid Johnsen        |  22.5 |        14 |        +0.64 |         +6.65 |
 |   20 | Ronald Dahl         |  21.5 |        48 |              |         -0.68 |
 |   21 | Shaun Lim           |  21.2 |        30 |              |         +1.06 |
 |   22 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
@@ -31,7 +31,7 @@ Generated 2016-04-07.
 |   27 | Daniel Schwartz     |  17.9 |         7 |              |               |
 |   28 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
 |   29 | Eric Borden         |  16.5 |        17 |              |               |
-|   30 | Jeff Gordon         |  16.1 |        16 |              |               |
+|   30 | Jeff Gordon         |  16.0 |        17 |        -0.05 |               |
 |   31 | Subrato Dey         |  15.8 |        14 |              |               |
 |   32 | Josh Trauner        |  14.9 |        12 |              |               |
 |   33 | Terry Chang         |  14.2 |        31 |              |         +3.46 |

@@ -89,15 +89,15 @@ Generated 2016-04-07.
 |   85 | Matt Wong                 |  22.6 |        51 |              |         +4.52 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
 |   87 | Richard Chan              |  22.5 |         9 |              |               |
-|   88 | Orion Hodson              |  22.5 |        31 |              |               |
-|   89 | Rahul Gupta               |  22.4 |         7 |              |               |
-|   90 | Lyle Fearnley             |  22.3 |        30 |              |               |
-|   91 | Peter McDermott           |  22.3 |        10 |              |               |
-|   92 | Paul Greene               |  22.1 |         8 |              |               |
-|   93 | Philip Bildner            |  22.1 |        22 |              |               |
-|   94 | Kelvin Wong               |  22.0 |        44 |              |               |
-|   95 | Harlan Yu                 |  21.9 |        19 |              |               |
-|   96 | Reid Johnsen              |  21.8 |        13 |              |         +6.02 |
+|   88 | Reid Johnsen              |  22.5 |        14 |        +0.64 |         +6.65 |
+|   89 | Orion Hodson              |  22.5 |        31 |              |               |
+|   90 | Rahul Gupta               |  22.4 |         7 |              |               |
+|   91 | Lyle Fearnley             |  22.3 |        30 |              |               |
+|   92 | Peter McDermott           |  22.3 |        10 |              |               |
+|   93 | Paul Greene               |  22.1 |         8 |              |               |
+|   94 | Philip Bildner            |  22.1 |        22 |              |               |
+|   95 | Kelvin Wong               |  22.0 |        44 |              |               |
+|   96 | Harlan Yu                 |  21.9 |        19 |              |               |
 |   97 | Robert Schwartz           |  21.8 |        73 |              |         +0.81 |
 |   98 | Sam McCormick             |  21.7 |        13 |              |               |
 |   99 | Robert Ashmore            |  21.7 |       104 |              |               |
@@ -196,9 +196,9 @@ Generated 2016-04-07.
 |  192 | Anirudh Todi              |  16.2 |         3 |              |               |
 |  193 | Rich Shapiro              |  16.1 |        82 |              |               |
 |  194 | Troup Howard              |  16.1 |        34 |              |         +0.55 |
-|  195 | Jeff Gordon               |  16.1 |        16 |              |               |
-|  196 | Andrew Green              |  16.1 |        52 |              |               |
-|  197 | Toni Queck                |  16.0 |        20 |              |               |
+|  195 | Andrew Green              |  16.1 |        52 |              |               |
+|  196 | Toni Queck                |  16.0 |        20 |              |               |
+|  197 | Jeff Gordon               |  16.0 |        17 |        -0.05 |               |
 |  198 | Subrato Dey               |  15.8 |        14 |              |               |
 |  199 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  200 | Jeff Bird                 |  15.7 |        38 |              |               |
