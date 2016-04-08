@@ -4,7 +4,7 @@ Generated 2016-04-07.
 |------|---------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler       |  43.0 |       205 |              |         +0.17 |
 |    2 | Rees Sweeney-Taylor |  36.9 |        76 |              |         +1.36 |
-|    3 | Jim Veitch          |  29.4 |       403 |              |         +0.14 |
+|    3 | Jim Veitch          |  29.4 |       404 |        +0.05 |         +0.19 |
 |    4 | Frank Kennamer      |  28.6 |       195 |              |         -0.10 |
 |    5 | John Kunze          |  28.5 |       286 |              |         -0.18 |
 |    6 | Arvind Muralimohan  |  28.1 |        15 |              |               |
@@ -15,7 +15,7 @@ Generated 2016-04-07.
 |   11 | Mark Modera         |  24.1 |       292 |              |         -1.42 |
 |   12 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   13 | Jonathan Hankar     |  23.4 |       171 |              |         +0.24 |
-|   14 | Andrew Lawrie       |  23.4 |        43 |              |         +8.17 |
+|   14 | Andrew Lawrie       |  23.3 |        44 |        -0.07 |         +8.09 |
 |   15 | Saurabh Bajaj       |  23.1 |         8 |              |               |
 |   16 | Mike Jensen-Akula   |  22.8 |       204 |              |         -0.01 |
 |   17 | Jared Bard          |  22.7 |        18 |              |         +5.02 |

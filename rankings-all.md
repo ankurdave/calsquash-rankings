@@ -20,7 +20,7 @@ Generated 2016-04-07.
 |   16 | Sam Sternberg             |  30.0 |       107 |              |         -0.03 |
 |   17 | Grant French              |  29.6 |       125 |              |               |
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
-|   19 | Jim Veitch                |  29.4 |       403 |              |         +0.14 |
+|   19 | Jim Veitch                |  29.4 |       404 |        +0.05 |         +0.19 |
 |   20 | Louis Morrill             |  29.4 |        10 |              |               |
 |   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
@@ -73,7 +73,7 @@ Generated 2016-04-07.
 |   69 | Joe Farrell               |  23.4 |        30 |              |               |
 |   70 | Jonathan Hankar           |  23.4 |       171 |              |         +0.24 |
 |   71 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   72 | Andrew Lawrie             |  23.4 |        43 |              |         +8.17 |
+|   72 | Andrew Lawrie             |  23.3 |        44 |        -0.07 |         +8.09 |
 |   73 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   74 | Sushil Shetty             |  23.3 |        23 |              |               |
 |   75 | Sonesh Surana             |  23.2 |        95 |              |               |
