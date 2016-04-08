@@ -83,8 +83,8 @@ Generated 2016-04-08.
 |   79 | Saurabh Bajaj             |  23.1 |         8 |              |               |
 |   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.40 |
 |   81 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   82 | Dante Popple              |  22.8 |        17 |              |               |
-|   83 | Mike Jensen-Akula         |  22.8 |       204 |              |         -0.01 |
+|   82 | Mike Jensen-Akula         |  22.9 |       205 |        +0.07 |         +0.06 |
+|   83 | Dante Popple              |  22.8 |        17 |              |               |
 |   84 | Jared Bard                |  22.7 |        18 |              |         +5.02 |
 |   85 | Matt Wong                 |  22.6 |        51 |              |         +4.52 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
@@ -124,7 +124,7 @@ Generated 2016-04-08.
 |  120 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  121 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
 |  122 | Andrew Proudfoot          |  19.8 |        26 |              |        +20.22 |
-|  123 | Chris Flores              |  19.8 |       287 |              |         -0.37 |
+|  123 | Chris Flores              |  19.7 |       288 |        -0.06 |         -0.43 |
 |  124 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  125 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  126 | Pierre Darancet           |  19.6 |        94 |              |               |

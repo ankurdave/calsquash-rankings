@@ -17,7 +17,7 @@ Generated 2016-04-08.
 |   13 | Jonathan Hankar     |  23.4 |       171 |              |         +0.24 |
 |   14 | Andrew Lawrie       |  23.3 |        44 |        -0.07 |         +8.09 |
 |   15 | Saurabh Bajaj       |  23.1 |         8 |              |               |
-|   16 | Mike Jensen-Akula   |  22.8 |       204 |              |         -0.01 |
+|   16 | Mike Jensen-Akula   |  22.9 |       205 |        +0.07 |         +0.06 |
 |   17 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
 |   18 | Matt Wong           |  22.6 |        51 |              |         +4.52 |
 |   19 | Reid Johnsen        |  22.5 |        14 |        +0.64 |         +6.65 |
@@ -25,7 +25,7 @@ Generated 2016-04-08.
 |   21 | Shaun Lim           |  21.2 |        30 |              |         +1.06 |
 |   22 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
 |   23 | Jacob Kersey        |  20.5 |        13 |              |               |
-|   24 | Chris Flores        |  19.8 |       287 |              |         -0.37 |
+|   24 | Chris Flores        |  19.7 |       288 |        -0.06 |         -0.43 |
 |   25 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   26 | Kenny Bell          |  18.0 |        97 |              |         +1.00 |
 |   27 | Daniel Schwartz     |  17.9 |         7 |              |               |
