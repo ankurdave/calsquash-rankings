@@ -28,27 +28,27 @@ Generated 2016-04-09.
 |   24 | Chris Flores        |  19.7 |       288 |        -0.06 |         -0.43 |
 |   25 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   26 | Kenny Bell          |  18.0 |        97 |              |         +1.00 |
-|   27 | Daniel Schwartz     |  17.9 |         7 |              |               |
-|   28 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
-|   29 | Eric Borden         |  16.5 |        17 |              |               |
-|   30 | Jeff Gordon         |  16.0 |        17 |        -0.05 |               |
-|   31 | Subrato Dey         |  15.8 |        14 |              |               |
-|   32 | Josh Trauner        |  14.9 |        12 |              |               |
-|   33 | Terry Chang         |  14.2 |        31 |              |         +3.46 |
-|   34 | Rupert Myers        |  14.0 |        22 |              |               |
-|   35 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
+|   27 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
+|   28 | Eric Borden         |  16.5 |        17 |              |               |
+|   29 | Jeff Gordon         |  16.0 |        17 |        -0.05 |               |
+|   30 | Subrato Dey         |  15.8 |        14 |              |               |
+|   31 | Josh Trauner        |  14.9 |        12 |              |               |
+|   32 | Terry Chang         |  14.2 |        31 |              |         +3.46 |
+|   33 | Rupert Myers        |  14.0 |        22 |              |               |
+|   34 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
+|   35 | Daniel Schwartz     |  11.8 |         8 |        -6.14 |               |
 |   36 | Antonio Garcia      |  11.4 |        20 |              |               |
 |   37 | Ankur Dave          |  11.1 |        27 |              |               |
 |   38 | Jose Lara           |  10.1 |         2 |              |               |
 |   39 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
 |   40 | Duo Wang            |   9.6 |        51 |              |         +2.31 |
 |   41 | Brian Kempenich     |   7.9 |        27 |              |               |
-|   42 | Nate Aden           |   6.1 |         4 |              |               |
-|   43 | Zsolt Bartha        |   4.5 |        40 |              |         -0.44 |
-|   44 | Raphael Magarik     |   4.4 |         3 |              |               |
-|   45 | Wayne Heiser        |   4.4 |        10 |              |               |
-|   46 | Josh Lebowitz       |   2.7 |         7 |              |               |
-|   47 | Alok Singh          |   2.3 |         6 |              |               |
+|   42 | Alok Singh          |   7.3 |         7 |        +5.04 |               |
+|   43 | Nate Aden           |   6.1 |         4 |              |               |
+|   44 | Zsolt Bartha        |   4.5 |        40 |              |         -0.44 |
+|   45 | Raphael Magarik     |   4.4 |         3 |              |               |
+|   46 | Wayne Heiser        |   4.4 |        10 |              |               |
+|   47 | Josh Lebowitz       |   2.7 |         7 |              |               |
 |   48 | Rodrigo Calmet      |   0.7 |         1 |              |               |
 |   49 | Keaton Noon         |   0.2 |         8 |              |               |
 |   50 | Sandra Harpster     |  -0.2 |         4 |              |               |
