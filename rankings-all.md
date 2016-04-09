@@ -51,7 +51,7 @@ Generated 2016-04-08.
 |   47 | Ben Seelig                |  25.8 |        69 |              |               |
 |   48 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   49 | Mikael Rehn               |  25.4 |         5 |              |               |
-|   50 | Dan Meier                 |  25.1 |        34 |              |         +7.80 |
+|   50 | Dan Meier                 |  25.3 |        35 |        +0.28 |         +8.08 |
 |   51 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
 |   52 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
@@ -120,9 +120,9 @@ Generated 2016-04-08.
 |  116 | Aaron Socha               |  20.9 |        24 |              |               |
 |  117 | Jonathan Francis          |  20.7 |        52 |              |         +1.20 |
 |  118 | Omair Azam                |  20.6 |        18 |              |               |
-|  119 | Jacob Kersey              |  20.5 |        13 |              |               |
-|  120 | Ian MacDonald             |  20.5 |        59 |              |               |
-|  121 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
+|  119 | Ian MacDonald             |  20.5 |        59 |              |               |
+|  120 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
+|  121 | Jacob Kersey              |  20.2 |        14 |        -0.31 |               |
 |  122 | Andrew Proudfoot          |  19.8 |        26 |              |        +20.22 |
 |  123 | Chris Flores              |  19.7 |       288 |        -0.06 |         -0.43 |
 |  124 | Whit Eldredge             |  19.7 |         2 |              |               |

@@ -11,7 +11,7 @@ Generated 2016-04-08.
 |    7 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
 |    8 | Nick Cobbett        |  26.3 |        16 |              |               |
 |    9 | Ethan Kerr          |  26.2 |         7 |              |               |
-|   10 | Dan Meier           |  25.1 |        34 |              |         +7.80 |
+|   10 | Dan Meier           |  25.3 |        35 |        +0.28 |         +8.08 |
 |   11 | Mark Modera         |  24.1 |       292 |              |         -1.42 |
 |   12 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   13 | Jonathan Hankar     |  23.4 |       171 |              |         +0.24 |
@@ -24,7 +24,7 @@ Generated 2016-04-08.
 |   20 | Ronald Dahl         |  21.5 |        48 |              |         -0.68 |
 |   21 | Shaun Lim           |  21.2 |        30 |              |         +1.06 |
 |   22 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
-|   23 | Jacob Kersey        |  20.5 |        13 |              |               |
+|   23 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
 |   24 | Chris Flores        |  19.7 |       288 |        -0.06 |         -0.43 |
 |   25 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   26 | Kenny Bell          |  18.0 |        97 |              |         +1.00 |
