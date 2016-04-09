@@ -4,7 +4,7 @@ Generated 2016-04-09.
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  43.0 |       205 |              |         +0.17 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
-|    3 | Rees Sweeney-Taylor       |  36.9 |        76 |              |         +1.36 |
+|    3 | Rees Sweeney-Taylor       |  36.9 |        77 |        +0.05 |         +1.41 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
 |    5 | Tanu Sankalia             |  36.2 |        94 |              |               |
 |    6 | Thomas Lowish             |  35.9 |         6 |              |         +1.48 |
@@ -27,7 +27,7 @@ Generated 2016-04-09.
 |   23 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   24 | Frank Kennamer            |  28.6 |       195 |              |         -0.10 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   26 | John Kunze                |  28.5 |       286 |              |         -0.18 |
+|   26 | John Kunze                |  28.5 |       287 |        -0.02 |         -0.20 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
 |   29 | Arvind Muralimohan        |  28.1 |        15 |              |               |
