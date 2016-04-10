@@ -12,10 +12,10 @@ Generated 2016-04-10.
 |    8 | Nick Cobbett        |  26.3 |        16 |              |               |
 |    9 | Ethan Kerr          |  26.2 |         7 |              |               |
 |   10 | Dan Meier           |  25.3 |        35 |        +0.28 |         +8.08 |
-|   11 | Mark Modera         |  24.1 |       292 |              |         -1.42 |
-|   12 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
-|   13 | Jonathan Hankar     |  23.4 |       171 |              |         +0.24 |
-|   14 | Saurabh Bajaj       |  23.3 |         9 |        +0.26 |               |
+|   11 | Saurabh Bajaj       |  24.2 |        11 |        +1.12 |               |
+|   12 | Mark Modera         |  24.1 |       292 |              |         -1.42 |
+|   13 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
+|   14 | Jonathan Hankar     |  23.4 |       171 |              |         +0.24 |
 |   15 | Andrew Lawrie       |  23.3 |        44 |        -0.07 |         +8.09 |
 |   16 | Mike Jensen-Akula   |  22.9 |       205 |        +0.07 |         +0.06 |
 |   17 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
@@ -27,12 +27,12 @@ Generated 2016-04-10.
 |   23 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
 |   24 | Chris Flores        |  19.7 |       288 |        -0.06 |         -0.43 |
 |   25 | Sam Trachtman       |  18.5 |         5 |              |               |
-|   26 | Kenny Bell          |  18.0 |        97 |              |         +1.00 |
+|   26 | Kenny Bell          |  18.0 |        98 |        -0.01 |         +0.98 |
 |   27 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
 |   28 | Eric Borden         |  16.5 |        17 |              |               |
 |   29 | Jeff Gordon         |  16.0 |        17 |        -0.05 |               |
 |   30 | Subrato Dey         |  15.8 |        14 |              |               |
-|   31 | Josh Trauner        |  14.9 |        12 |              |               |
+|   31 | Josh Trauner        |  14.9 |        13 |        -0.01 |               |
 |   32 | Terry Chang         |  14.2 |        32 |              |         +3.45 |
 |   33 | Rupert Myers        |  14.0 |        22 |              |               |
 |   34 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |

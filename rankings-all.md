@@ -57,23 +57,23 @@ Generated 2016-04-10.
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   54 | Charlie Weiss             |  24.3 |        70 |              |         +1.44 |
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
-|   56 | Toby Reiner               |  24.2 |       159 |              |               |
-|   57 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   58 | Mark Modera               |  24.1 |       292 |              |         -1.42 |
-|   59 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
-|   60 | Jon Shih                  |  24.0 |        47 |              |               |
-|   61 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   62 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   63 | Benjamin Vicuna           |  23.8 |        46 |              |         +7.84 |
-|   64 | Matt Waid                 |  23.8 |        51 |              |               |
-|   65 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   66 | Martin Stokes             |  23.8 |        12 |              |               |
-|   67 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   68 | Thomas Krussig            |  23.5 |        16 |              |         +0.79 |
-|   69 | Joe Farrell               |  23.4 |        30 |              |               |
-|   70 | Jonathan Hankar           |  23.4 |       171 |              |         +0.24 |
-|   71 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   72 | Saurabh Bajaj             |  23.3 |         9 |        +0.26 |               |
+|   56 | Saurabh Bajaj             |  24.2 |        11 |        +1.12 |               |
+|   57 | Toby Reiner               |  24.2 |       159 |              |               |
+|   58 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   59 | Mark Modera               |  24.1 |       292 |              |         -1.42 |
+|   60 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
+|   61 | Jon Shih                  |  24.0 |        47 |              |               |
+|   62 | Daniel Greengard          |  23.9 |        37 |              |               |
+|   63 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   64 | Benjamin Vicuna           |  23.8 |        46 |              |         +7.84 |
+|   65 | Matt Waid                 |  23.8 |        51 |              |               |
+|   66 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   67 | Martin Stokes             |  23.8 |        12 |              |               |
+|   68 | Todd Wirsching            |  23.7 |         8 |              |               |
+|   69 | Thomas Krussig            |  23.5 |        16 |              |         +0.79 |
+|   70 | Joe Farrell               |  23.4 |        30 |              |               |
+|   71 | Jonathan Hankar           |  23.4 |       171 |              |         +0.24 |
+|   72 | Andrew Hsu                |  23.4 |        15 |              |               |
 |   73 | Andrew Lawrie             |  23.3 |        44 |        -0.07 |         +8.09 |
 |   74 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   75 | Sushil Shetty             |  23.3 |        23 |              |               |
@@ -158,8 +158,8 @@ Generated 2016-04-10.
 |  154 | Lucas Cheon               |  18.1 |        19 |              |               |
 |  155 | Himanshu Jatia            |  18.1 |         4 |              |               |
 |  156 | Anubhav Gupta             |  18.0 |         8 |              |               |
-|  157 | Kenny Bell                |  18.0 |        97 |              |         +1.00 |
-|  158 | Andres Rodriguez          |  18.0 |        55 |              |         +0.57 |
+|  157 | Andres Rodriguez          |  18.0 |        55 |              |         +0.57 |
+|  158 | Kenny Bell                |  18.0 |        98 |        -0.01 |         +0.98 |
 |  159 | Robert Geiger             |  17.8 |         8 |              |               |
 |  160 | Jim Evans                 |  17.8 |       216 |              |               |
 |  161 | Hari Dhavala              |  17.7 |        27 |              |               |
@@ -218,7 +218,7 @@ Generated 2016-04-10.
 |  214 | Peter Duerr               |  15.0 |        24 |              |               |
 |  215 | Jayanth Kannan            |  15.0 |        20 |              |               |
 |  216 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
-|  217 | Josh Trauner              |  14.9 |        12 |              |               |
+|  217 | Josh Trauner              |  14.9 |        13 |        -0.01 |               |
 |  218 | Lakshya Rustagi           |  14.8 |         2 |              |               |
 |  219 | Angie Ng                  |  14.8 |        12 |              |               |
 |  220 | Nicholas Monsees          |  14.8 |         5 |              |               |
