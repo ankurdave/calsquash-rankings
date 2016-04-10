@@ -15,8 +15,8 @@ Generated 2016-04-10.
 |   11 | Mark Modera         |  24.1 |       292 |              |         -1.42 |
 |   12 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   13 | Jonathan Hankar     |  23.4 |       171 |              |         +0.24 |
-|   14 | Andrew Lawrie       |  23.3 |        44 |        -0.07 |         +8.09 |
-|   15 | Saurabh Bajaj       |  23.1 |         8 |              |               |
+|   14 | Saurabh Bajaj       |  23.3 |         9 |        +0.26 |               |
+|   15 | Andrew Lawrie       |  23.3 |        44 |        -0.07 |         +8.09 |
 |   16 | Mike Jensen-Akula   |  22.9 |       205 |        +0.07 |         +0.06 |
 |   17 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
 |   18 | Matt Wong           |  22.6 |        51 |              |         +4.52 |
@@ -33,7 +33,7 @@ Generated 2016-04-10.
 |   29 | Jeff Gordon         |  16.0 |        17 |        -0.05 |               |
 |   30 | Subrato Dey         |  15.8 |        14 |              |               |
 |   31 | Josh Trauner        |  14.9 |        12 |              |               |
-|   32 | Terry Chang         |  14.2 |        31 |              |         +3.46 |
+|   32 | Terry Chang         |  14.2 |        32 |              |         +3.45 |
 |   33 | Rupert Myers        |  14.0 |        22 |              |               |
 |   34 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
 |   35 | Daniel Schwartz     |  11.8 |         8 |        -6.14 |               |

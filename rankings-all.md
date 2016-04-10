@@ -73,14 +73,14 @@ Generated 2016-04-10.
 |   69 | Joe Farrell               |  23.4 |        30 |              |               |
 |   70 | Jonathan Hankar           |  23.4 |       171 |              |         +0.24 |
 |   71 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   72 | Andrew Lawrie             |  23.3 |        44 |        -0.07 |         +8.09 |
-|   73 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   74 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   75 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   76 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   77 | Jan Beranek               |  23.1 |        46 |              |               |
-|   78 | Gary Golding              |  23.1 |         6 |              |               |
-|   79 | Saurabh Bajaj             |  23.1 |         8 |              |               |
+|   72 | Saurabh Bajaj             |  23.3 |         9 |        +0.26 |               |
+|   73 | Andrew Lawrie             |  23.3 |        44 |        -0.07 |         +8.09 |
+|   74 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   75 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   76 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   77 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   78 | Jan Beranek               |  23.1 |        46 |              |               |
+|   79 | Gary Golding              |  23.1 |         6 |              |               |
 |   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.40 |
 |   81 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   82 | Mike Jensen-Akula         |  22.9 |       205 |        +0.07 |         +0.06 |
@@ -228,7 +228,7 @@ Generated 2016-04-10.
 |  224 | David Shabelman           |  14.4 |        30 |              |               |
 |  225 | Peter Dering              |  14.3 |         9 |              |               |
 |  226 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  227 | Terry Chang               |  14.2 |        31 |              |         +3.46 |
+|  227 | Terry Chang               |  14.2 |        32 |              |         +3.45 |
 |  228 | Wesley Huang              |  14.0 |         8 |              |               |
 |  229 | Greg Adams                |  14.0 |        10 |              |               |
 |  230 | Rupert Myers              |  14.0 |        22 |              |               |
