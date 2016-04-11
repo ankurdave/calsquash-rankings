@@ -224,14 +224,14 @@ Generated 2016-04-11.
 |  220 | Nicholas Monsees          |  14.8 |         5 |              |               |
 |  221 | Yating Liu                |  14.6 |         7 |              |               |
 |  222 | Frederick Bayles          |  14.6 |         8 |              |               |
-|  223 | John Grim                 |  14.4 |        13 |              |               |
-|  224 | David Shabelman           |  14.4 |        30 |              |               |
-|  225 | Peter Dering              |  14.3 |         9 |              |               |
-|  226 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  227 | Terry Chang               |  14.2 |        32 |              |         +3.45 |
-|  228 | Wesley Huang              |  14.0 |         8 |              |               |
-|  229 | Greg Adams                |  14.0 |        10 |              |               |
-|  230 | Rupert Myers              |  14.0 |        22 |              |               |
+|  223 | Rupert Myers              |  14.4 |        23 |        +0.49 |               |
+|  224 | John Grim                 |  14.4 |        13 |              |               |
+|  225 | David Shabelman           |  14.4 |        30 |              |               |
+|  226 | Peter Dering              |  14.3 |         9 |              |               |
+|  227 | Chinghway Lim             |  14.3 |        10 |              |               |
+|  228 | Terry Chang               |  14.2 |        32 |              |         +3.45 |
+|  229 | Wesley Huang              |  14.0 |         8 |              |               |
+|  230 | Greg Adams                |  14.0 |        10 |              |               |
 |  231 | Vipul Singhvi             |  14.0 |         8 |              |               |
 |  232 | Baxter Leman              |  13.9 |         6 |              |               |
 |  233 | Mike Delanty              |  13.9 |        12 |              |               |
@@ -344,9 +344,9 @@ Generated 2016-04-11.
 |  340 | Jules Bowie               |   6.4 |        12 |              |               |
 |  341 | Arno Ferguson             |   6.4 |         1 |              |               |
 |  342 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  343 | Nate Aden                 |   6.1 |         4 |              |               |
-|  344 | John Coates               |   6.1 |         9 |              |               |
-|  345 | John Givens               |   5.8 |        13 |              |               |
+|  343 | John Coates               |   6.1 |         9 |              |               |
+|  344 | John Givens               |   5.8 |        13 |              |               |
+|  345 | Nate Aden                 |   5.8 |         5 |        -0.29 |               |
 |  346 | Phil Hartmeyer            |   5.6 |         3 |              |               |
 |  347 | Bobby Hicks               |   5.5 |         2 |              |               |
 |  348 | Brian Puglise             |   5.5 |         2 |              |               |
