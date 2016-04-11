@@ -39,13 +39,13 @@ Generated 2016-04-10.
 |   35 | Daniel Schwartz     |  11.8 |         8 |        -6.14 |               |
 |   36 | Antonio Garcia      |  11.4 |        20 |              |               |
 |   37 | Ankur Dave          |  11.1 |        27 |              |               |
-|   38 | Jose Lara           |  10.1 |         2 |              |               |
+|   38 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
 |   39 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
 |   40 | Duo Wang            |   9.6 |        51 |              |         +2.31 |
 |   41 | Brian Kempenich     |   7.9 |        27 |              |               |
 |   42 | Alok Singh          |   7.3 |         7 |        +5.04 |               |
 |   43 | Nate Aden           |   6.1 |         4 |              |               |
-|   44 | Zsolt Bartha        |   4.5 |        40 |              |         -0.44 |
+|   44 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
 |   45 | Raphael Magarik     |   4.4 |         3 |              |               |
 |   46 | Wayne Heiser        |   4.4 |        10 |              |               |
 |   47 | Josh Lebowitz       |   2.8 |         8 |        +0.10 |               |

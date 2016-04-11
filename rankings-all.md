@@ -275,15 +275,15 @@ Generated 2016-04-10.
 |  271 | Ankur Dave                |  11.1 |        27 |              |               |
 |  272 | Khurram Mahmood           |  10.8 |         3 |              |               |
 |  273 | Axel Eriksson             |  10.8 |         5 |              |               |
-|  274 | Jason Facchin             |  10.5 |         3 |              |               |
-|  275 | Jamie Paterson            |  10.4 |         4 |              |               |
-|  276 | Huw Lester                |  10.4 |         1 |              |               |
-|  277 | Reed Foster               |  10.4 |         8 |              |               |
-|  278 | Sameer Abraham            |  10.3 |        24 |              |               |
-|  279 | Lewis Moore               |  10.3 |        69 |              |               |
-|  280 | Paul Chang                |  10.3 |         7 |              |               |
-|  281 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  282 | Jose Lara                 |  10.1 |         2 |              |               |
+|  274 | Jose Lara                 |  10.6 |         3 |        +0.52 |               |
+|  275 | Jason Facchin             |  10.5 |         3 |              |               |
+|  276 | Jamie Paterson            |  10.4 |         4 |              |               |
+|  277 | Huw Lester                |  10.4 |         1 |              |               |
+|  278 | Reed Foster               |  10.4 |         8 |              |               |
+|  279 | Sameer Abraham            |  10.3 |        24 |              |               |
+|  280 | Lewis Moore               |  10.3 |        69 |              |               |
+|  281 | Paul Chang                |  10.3 |         7 |              |               |
+|  282 | Anthony Patterson         |  10.2 |         6 |              |               |
 |  283 | Shridhar Mubaraq Mishra   |  10.1 |        13 |              |               |
 |  284 | Myles Gordon              |  10.0 |        42 |              |         +2.47 |
 |  285 | Neil Sachs                |   9.9 |        12 |              |               |
@@ -364,7 +364,7 @@ Generated 2016-04-10.
 |  360 | Nikhil Srivastava         |   4.8 |        16 |              |               |
 |  361 | Vishnu Narayanan          |   4.7 |        12 |              |               |
 |  362 | Anurag Gupta              |   4.7 |         6 |              |               |
-|  363 | Zsolt Bartha              |   4.5 |        40 |              |         -0.44 |
+|  363 | Zsolt Bartha              |   4.5 |        41 |              |         -0.45 |
 |  364 | Greg Sperla               |   4.5 |         8 |              |               |
 |  365 | Raphael Magarik           |   4.4 |         3 |              |               |
 |  366 | Wayne Heiser              |   4.4 |        10 |              |               |
