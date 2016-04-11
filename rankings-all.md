@@ -59,8 +59,8 @@ Generated 2016-04-11.
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
 |   56 | Saurabh Bajaj             |  24.2 |        11 |        +1.12 |               |
 |   57 | Toby Reiner               |  24.2 |       159 |              |               |
-|   58 | Mark Modera               |  24.2 |       293 |        +0.05 |         -1.37 |
-|   59 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   58 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   59 | Mark Modera               |  24.1 |       294 |              |         -1.41 |
 |   60 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   61 | Jon Shih                  |  24.0 |        47 |              |               |
 |   62 | Daniel Greengard          |  23.9 |        37 |              |               |
@@ -71,26 +71,26 @@ Generated 2016-04-11.
 |   67 | Martin Stokes             |  23.8 |        12 |              |               |
 |   68 | Todd Wirsching            |  23.7 |         8 |              |               |
 |   69 | Thomas Krussig            |  23.5 |        16 |              |         +0.79 |
-|   70 | Joe Farrell               |  23.4 |        30 |              |               |
-|   71 | Jonathan Hankar           |  23.4 |       171 |              |         +0.24 |
-|   72 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   73 | Andrew Lawrie             |  23.3 |        44 |        -0.07 |         +8.09 |
-|   74 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   75 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   76 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   77 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   78 | Jan Beranek               |  23.1 |        46 |              |               |
-|   79 | Gary Golding              |  23.1 |         6 |              |               |
-|   80 | Prakash Bathini           |  22.9 |       117 |              |         -0.40 |
-|   81 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   82 | Mike Jensen-Akula         |  22.9 |       205 |        +0.07 |         +0.06 |
-|   83 | Dante Popple              |  22.8 |        17 |              |               |
-|   84 | Jared Bard                |  22.7 |        18 |              |         +5.02 |
-|   85 | Matt Wong                 |  22.6 |        51 |              |         +4.52 |
-|   86 | Adam Angsten              |  22.5 |         3 |              |               |
-|   87 | Richard Chan              |  22.5 |         9 |              |               |
-|   88 | Orion Hodson              |  22.5 |        31 |              |               |
-|   89 | Reid Johnsen              |  22.4 |        14 |        +0.59 |         +6.61 |
+|   70 | Reid Johnsen              |  23.5 |        15 |        +1.60 |         +7.62 |
+|   71 | Joe Farrell               |  23.4 |        30 |              |               |
+|   72 | Jonathan Hankar           |  23.4 |       171 |              |         +0.24 |
+|   73 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   74 | Andrew Lawrie             |  23.3 |        44 |        -0.07 |         +8.09 |
+|   75 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   76 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   77 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   78 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   79 | Jan Beranek               |  23.1 |        46 |              |               |
+|   80 | Gary Golding              |  23.1 |         6 |              |               |
+|   81 | Prakash Bathini           |  22.9 |       117 |              |         -0.40 |
+|   82 | Alex Jermyn               |  22.9 |         3 |              |               |
+|   83 | Mike Jensen-Akula         |  22.9 |       205 |        +0.07 |         +0.06 |
+|   84 | Dante Popple              |  22.8 |        17 |              |               |
+|   85 | Jared Bard                |  22.7 |        18 |              |         +5.02 |
+|   86 | Matt Wong                 |  22.6 |        51 |              |         +4.52 |
+|   87 | Adam Angsten              |  22.5 |         3 |              |               |
+|   88 | Richard Chan              |  22.5 |         9 |              |               |
+|   89 | Orion Hodson              |  22.5 |        31 |              |               |
 |   90 | Rahul Gupta               |  22.4 |         7 |              |               |
 |   91 | Lyle Fearnley             |  22.3 |        30 |              |               |
 |   92 | Peter McDermott           |  22.3 |        10 |              |               |
@@ -197,8 +197,8 @@ Generated 2016-04-11.
 |  193 | Troup Howard              |  16.1 |        34 |              |         +0.55 |
 |  194 | Andrew Green              |  16.1 |        52 |              |               |
 |  195 | Toni Queck                |  16.0 |        20 |              |               |
-|  196 | Subrato Dey               |  15.8 |        14 |              |               |
-|  197 | Jeff Gordon               |  15.8 |        18 |        -0.22 |               |
+|  196 | Jeff Gordon               |  15.9 |        18 |        -0.21 |               |
+|  197 | Subrato Dey               |  15.8 |        14 |              |               |
 |  198 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  199 | Jeff Bird                 |  15.7 |        38 |              |               |
 |  200 | Casey Harelson            |  15.7 |        20 |              |               |
