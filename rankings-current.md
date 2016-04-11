@@ -25,7 +25,7 @@ Generated 2016-04-10.
 |   21 | Shaun Lim           |  21.2 |        30 |              |         +1.06 |
 |   22 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
 |   23 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
-|   24 | Chris Flores        |  19.7 |       288 |        -0.06 |         -0.43 |
+|   24 | Chris Flores        |  19.8 |       289 |        -0.03 |         -0.40 |
 |   25 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   26 | Kenny Bell          |  18.0 |        98 |        -0.01 |         +0.98 |
 |   27 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
@@ -48,7 +48,7 @@ Generated 2016-04-10.
 |   44 | Zsolt Bartha        |   4.5 |        40 |              |         -0.44 |
 |   45 | Raphael Magarik     |   4.4 |         3 |              |               |
 |   46 | Wayne Heiser        |   4.4 |        10 |              |               |
-|   47 | Josh Lebowitz       |   2.7 |         7 |              |               |
+|   47 | Josh Lebowitz       |   2.8 |         8 |        +0.10 |               |
 |   48 | Rodrigo Calmet      |   0.7 |         1 |              |               |
 |   49 | Keaton Noon         |   0.2 |         8 |              |               |
 |   50 | Sandra Harpster     |  -0.2 |         4 |              |               |
