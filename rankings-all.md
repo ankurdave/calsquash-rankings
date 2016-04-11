@@ -59,8 +59,8 @@ Generated 2016-04-10.
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
 |   56 | Saurabh Bajaj             |  24.2 |        11 |        +1.12 |               |
 |   57 | Toby Reiner               |  24.2 |       159 |              |               |
-|   58 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   59 | Mark Modera               |  24.1 |       292 |              |         -1.42 |
+|   58 | Mark Modera               |  24.2 |       293 |        +0.05 |         -1.37 |
+|   59 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   60 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   61 | Jon Shih                  |  24.0 |        47 |              |               |
 |   62 | Daniel Greengard          |  23.9 |        37 |              |               |
@@ -89,8 +89,8 @@ Generated 2016-04-10.
 |   85 | Matt Wong                 |  22.6 |        51 |              |         +4.52 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
 |   87 | Richard Chan              |  22.5 |         9 |              |               |
-|   88 | Reid Johnsen              |  22.5 |        14 |        +0.64 |         +6.65 |
-|   89 | Orion Hodson              |  22.5 |        31 |              |               |
+|   88 | Orion Hodson              |  22.5 |        31 |              |               |
+|   89 | Reid Johnsen              |  22.4 |        14 |        +0.59 |         +6.61 |
 |   90 | Rahul Gupta               |  22.4 |         7 |              |               |
 |   91 | Lyle Fearnley             |  22.3 |        30 |              |               |
 |   92 | Peter McDermott           |  22.3 |        10 |              |               |
@@ -197,8 +197,8 @@ Generated 2016-04-10.
 |  193 | Troup Howard              |  16.1 |        34 |              |         +0.55 |
 |  194 | Andrew Green              |  16.1 |        52 |              |               |
 |  195 | Toni Queck                |  16.0 |        20 |              |               |
-|  196 | Jeff Gordon               |  16.0 |        17 |        -0.05 |               |
-|  197 | Subrato Dey               |  15.8 |        14 |              |               |
+|  196 | Subrato Dey               |  15.8 |        14 |              |               |
+|  197 | Jeff Gordon               |  15.8 |        18 |        -0.22 |               |
 |  198 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  199 | Jeff Bird                 |  15.7 |        38 |              |               |
 |  200 | Casey Harelson            |  15.7 |        20 |              |               |
