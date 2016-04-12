@@ -214,12 +214,12 @@ Generated 2016-04-12.
 |  210 | Kedar Viswanathan         |  15.1 |        16 |              |               |
 |  211 | Alex Marqusee             |  15.1 |        28 |              |         +1.50 |
 |  212 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
-|  213 | Liam King                 |  15.0 |         6 |              |               |
-|  214 | Peter Duerr               |  15.0 |        24 |              |               |
-|  215 | Jayanth Kannan            |  15.0 |        20 |              |               |
-|  216 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
-|  217 | Josh Trauner              |  14.9 |        13 |        -0.01 |               |
-|  218 | Rupert Myers              |  14.9 |        24 |        +0.90 |               |
+|  213 | Rupert Myers              |  15.1 |        25 |        +1.15 |               |
+|  214 | Liam King                 |  15.0 |         6 |              |               |
+|  215 | Peter Duerr               |  15.0 |        24 |              |               |
+|  216 | Jayanth Kannan            |  15.0 |        20 |              |               |
+|  217 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
+|  218 | Josh Trauner              |  14.9 |        13 |        -0.01 |               |
 |  219 | Lakshya Rustagi           |  14.8 |         2 |              |               |
 |  220 | Angie Ng                  |  14.8 |        12 |              |               |
 |  221 | Nicholas Monsees          |  14.8 |         5 |              |               |
@@ -293,10 +293,10 @@ Generated 2016-04-12.
 |  289 | Jared Nunn                |   9.7 |         5 |              |               |
 |  290 | Alexander Porcaro         |   9.7 |         2 |              |               |
 |  291 | Lars Foleide              |   9.6 |        11 |              |               |
-|  292 | Duo Wang                  |   9.6 |        51 |              |         +2.31 |
-|  293 | Gurj Johal                |   9.5 |         2 |              |               |
-|  294 | Jake Toy                  |   9.5 |         5 |              |               |
-|  295 | Kevin Fox                 |   9.5 |         7 |              |               |
+|  292 | Gurj Johal                |   9.5 |         2 |              |               |
+|  293 | Jake Toy                  |   9.5 |         5 |              |               |
+|  294 | Kevin Fox                 |   9.5 |         7 |              |               |
+|  295 | Duo Wang                  |   9.5 |        52 |        -0.05 |         +2.26 |
 |  296 | Dominick Ng               |   9.5 |        25 |              |               |
 |  297 | Gene Zubovich             |   9.4 |        19 |              |         +0.27 |
 |  298 | Carlos Filho              |   9.2 |         7 |              |               |
