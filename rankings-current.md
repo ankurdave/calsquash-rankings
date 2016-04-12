@@ -33,18 +33,18 @@ Generated 2016-04-11.
 |   29 | Jeff Gordon         |  15.9 |        18 |        -0.21 |               |
 |   30 | Subrato Dey         |  15.8 |        14 |              |               |
 |   31 | Josh Trauner        |  14.9 |        13 |        -0.01 |               |
-|   32 | Rupert Myers        |  14.4 |        23 |        +0.49 |               |
+|   32 | Rupert Myers        |  14.9 |        24 |        +0.90 |               |
 |   33 | Terry Chang         |  14.2 |        32 |              |         +3.45 |
 |   34 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
 |   35 | Daniel Schwartz     |  11.8 |         8 |        -6.14 |               |
 |   36 | Antonio Garcia      |  11.4 |        20 |              |               |
-|   37 | Ankur Dave          |  11.1 |        27 |              |               |
+|   37 | Ankur Dave          |  11.0 |        28 |        -0.13 |               |
 |   38 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
 |   39 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
 |   40 | Duo Wang            |   9.6 |        51 |              |         +2.31 |
 |   41 | Brian Kempenich     |   7.9 |        27 |              |               |
 |   42 | Alok Singh          |   7.3 |         7 |        +5.04 |               |
-|   43 | Nate Aden           |   5.8 |         5 |        -0.29 |               |
+|   43 | Nate Aden           |   5.8 |         5 |        -0.26 |               |
 |   44 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
 |   45 | Raphael Magarik     |   4.4 |         3 |              |               |
 |   46 | Wayne Heiser        |   4.4 |        10 |              |               |

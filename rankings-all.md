@@ -219,12 +219,12 @@ Generated 2016-04-11.
 |  215 | Jayanth Kannan            |  15.0 |        20 |              |               |
 |  216 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
 |  217 | Josh Trauner              |  14.9 |        13 |        -0.01 |               |
-|  218 | Lakshya Rustagi           |  14.8 |         2 |              |               |
-|  219 | Angie Ng                  |  14.8 |        12 |              |               |
-|  220 | Nicholas Monsees          |  14.8 |         5 |              |               |
-|  221 | Yating Liu                |  14.6 |         7 |              |               |
-|  222 | Frederick Bayles          |  14.6 |         8 |              |               |
-|  223 | Rupert Myers              |  14.4 |        23 |        +0.49 |               |
+|  218 | Rupert Myers              |  14.9 |        24 |        +0.90 |               |
+|  219 | Lakshya Rustagi           |  14.8 |         2 |              |               |
+|  220 | Angie Ng                  |  14.8 |        12 |              |               |
+|  221 | Nicholas Monsees          |  14.8 |         5 |              |               |
+|  222 | Yating Liu                |  14.6 |         7 |              |               |
+|  223 | Frederick Bayles          |  14.6 |         8 |              |               |
 |  224 | John Grim                 |  14.4 |        13 |              |               |
 |  225 | David Shabelman           |  14.4 |        30 |              |               |
 |  226 | Peter Dering              |  14.3 |         9 |              |               |
@@ -272,7 +272,7 @@ Generated 2016-04-11.
 |  268 | Juliet Shih               |  11.3 |        11 |              |               |
 |  269 | Margaret Chapman          |  11.2 |         6 |              |               |
 |  270 | Charles Denby             |  11.2 |         5 |              |               |
-|  271 | Ankur Dave                |  11.1 |        27 |              |               |
+|  271 | Ankur Dave                |  11.0 |        28 |        -0.13 |               |
 |  272 | Khurram Mahmood           |  10.8 |         3 |              |               |
 |  273 | Axel Eriksson             |  10.8 |         5 |              |               |
 |  274 | Jose Lara                 |  10.6 |         3 |        +0.52 |               |
@@ -345,8 +345,8 @@ Generated 2016-04-11.
 |  341 | Arno Ferguson             |   6.4 |         1 |              |               |
 |  342 | Fahad Riyadh              |   6.3 |         5 |              |               |
 |  343 | John Coates               |   6.1 |         9 |              |               |
-|  344 | John Givens               |   5.8 |        13 |              |               |
-|  345 | Nate Aden                 |   5.8 |         5 |        -0.29 |               |
+|  344 | Nate Aden                 |   5.8 |         5 |        -0.26 |               |
+|  345 | John Givens               |   5.8 |        13 |              |               |
 |  346 | Phil Hartmeyer            |   5.6 |         3 |              |               |
 |  347 | Bobby Hicks               |   5.5 |         2 |              |               |
 |  348 | Brian Puglise             |   5.5 |         2 |              |               |
