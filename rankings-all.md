@@ -50,8 +50,8 @@ Generated 2016-04-12.
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
 |   47 | Ben Seelig                |  25.8 |        69 |              |               |
 |   48 | Annie Rein-Weston         |  25.7 |        18 |              |               |
-|   49 | Mikael Rehn               |  25.4 |         5 |              |               |
-|   50 | Dan Meier                 |  25.3 |        35 |        +0.28 |         +8.08 |
+|   49 | Dan Meier                 |  25.6 |        36 |        +0.49 |         +8.29 |
+|   50 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   51 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
 |   52 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
@@ -73,8 +73,8 @@ Generated 2016-04-12.
 |   69 | Thomas Krussig            |  23.5 |        16 |              |         +0.79 |
 |   70 | Reid Johnsen              |  23.5 |        15 |        +1.60 |         +7.62 |
 |   71 | Joe Farrell               |  23.4 |        30 |              |               |
-|   72 | Jonathan Hankar           |  23.4 |       171 |              |         +0.24 |
-|   73 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   72 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   73 | Jonathan Hankar           |  23.3 |       172 |        -0.06 |         +0.19 |
 |   74 | Andrew Lawrie             |  23.3 |        44 |        -0.07 |         +8.09 |
 |   75 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   76 | Sushil Shetty             |  23.3 |        23 |              |               |

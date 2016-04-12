@@ -11,12 +11,12 @@ Generated 2016-04-12.
 |    7 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
 |    8 | Nick Cobbett        |  26.3 |        16 |              |               |
 |    9 | Ethan Kerr          |  26.2 |         7 |              |               |
-|   10 | Dan Meier           |  25.3 |        35 |        +0.28 |         +8.08 |
+|   10 | Dan Meier           |  25.6 |        36 |        +0.49 |         +8.29 |
 |   11 | Saurabh Bajaj       |  24.2 |        11 |        +1.12 |               |
 |   12 | Mark Modera         |  24.1 |       294 |              |         -1.41 |
 |   13 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   14 | Reid Johnsen        |  23.5 |        15 |        +1.60 |         +7.62 |
-|   15 | Jonathan Hankar     |  23.4 |       171 |              |         +0.24 |
+|   15 | Jonathan Hankar     |  23.3 |       172 |        -0.06 |         +0.19 |
 |   16 | Andrew Lawrie       |  23.3 |        44 |        -0.07 |         +8.09 |
 |   17 | Mike Jensen-Akula   |  22.9 |       205 |        +0.07 |         +0.06 |
 |   18 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
