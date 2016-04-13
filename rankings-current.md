@@ -32,7 +32,7 @@ Generated 2016-04-12.
 |   28 | Eric Borden         |  16.5 |        17 |              |               |
 |   29 | Jeff Gordon         |  15.9 |        18 |        -0.21 |               |
 |   30 | Subrato Dey         |  15.8 |        14 |              |               |
-|   31 | Rupert Myers        |  15.1 |        25 |        +1.15 |               |
+|   31 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
 |   32 | Josh Trauner        |  14.9 |        13 |        -0.01 |               |
 |   33 | Terry Chang         |  14.2 |        32 |              |         +3.45 |
 |   34 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
@@ -41,10 +41,10 @@ Generated 2016-04-12.
 |   37 | Ankur Dave          |  11.0 |        28 |        -0.13 |               |
 |   38 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
 |   39 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
-|   40 | Duo Wang            |   9.5 |        52 |        -0.05 |         +2.26 |
+|   40 | Duo Wang            |   9.4 |        53 |        -0.14 |         +2.16 |
 |   41 | Brian Kempenich     |   7.9 |        27 |              |               |
-|   42 | Alok Singh          |   7.3 |         7 |        +5.04 |               |
-|   43 | Nate Aden           |   5.8 |         5 |        -0.26 |               |
+|   42 | Nate Aden           |   7.6 |         6 |        +1.52 |               |
+|   43 | Alok Singh          |   7.3 |         7 |        +5.04 |               |
 |   44 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
 |   45 | Raphael Magarik     |   4.4 |         3 |              |               |
 |   46 | Wayne Heiser        |   4.4 |        10 |              |               |

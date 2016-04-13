@@ -210,11 +210,11 @@ Generated 2016-04-12.
 |  206 | Chris Harrelson           |  15.2 |        47 |              |               |
 |  207 | Tuyen Le                  |  15.2 |         5 |              |               |
 |  208 | Narayan Sankaran          |  15.2 |        24 |              |               |
-|  209 | Matthew Brett             |  15.1 |        20 |              |               |
-|  210 | Kedar Viswanathan         |  15.1 |        16 |              |               |
-|  211 | Alex Marqusee             |  15.1 |        28 |              |         +1.50 |
-|  212 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
-|  213 | Rupert Myers              |  15.1 |        25 |        +1.15 |               |
+|  209 | Rupert Myers              |  15.2 |        25 |        +1.20 |               |
+|  210 | Matthew Brett             |  15.1 |        20 |              |               |
+|  211 | Kedar Viswanathan         |  15.1 |        16 |              |               |
+|  212 | Alex Marqusee             |  15.1 |        28 |              |         +1.50 |
+|  213 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
 |  214 | Liam King                 |  15.0 |         6 |              |               |
 |  215 | Peter Duerr               |  15.0 |        24 |              |               |
 |  216 | Jayanth Kannan            |  15.0 |        20 |              |               |
@@ -296,8 +296,8 @@ Generated 2016-04-12.
 |  292 | Gurj Johal                |   9.5 |         2 |              |               |
 |  293 | Jake Toy                  |   9.5 |         5 |              |               |
 |  294 | Kevin Fox                 |   9.5 |         7 |              |               |
-|  295 | Duo Wang                  |   9.5 |        52 |        -0.05 |         +2.26 |
-|  296 | Dominick Ng               |   9.5 |        25 |              |               |
+|  295 | Dominick Ng               |   9.5 |        25 |              |               |
+|  296 | Duo Wang                  |   9.4 |        53 |        -0.14 |         +2.16 |
 |  297 | Gene Zubovich             |   9.4 |        19 |              |         +0.27 |
 |  298 | Carlos Filho              |   9.2 |         7 |              |               |
 |  299 | David Elfant              |   9.1 |         2 |              |               |
@@ -329,23 +329,23 @@ Generated 2016-04-12.
 |  325 | Fabrice Henrion           |   7.7 |         2 |              |               |
 |  326 | Paul Norberg              |   7.6 |         8 |              |               |
 |  327 | Kunal Talwar              |   7.6 |         1 |              |               |
-|  328 | Dav Clark                 |   7.4 |         6 |              |               |
-|  329 | Nikhil Paranjape          |   7.3 |         8 |              |               |
-|  330 | Alok Singh                |   7.3 |         7 |        +5.04 |               |
-|  331 | Max Grass                 |   7.2 |         1 |              |               |
-|  332 | Joseph Duggan             |   7.1 |         8 |              |               |
-|  333 | Min Joon Seo              |   7.0 |         3 |              |               |
-|  334 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
-|  335 | Rob Cuthrell              |   7.0 |        11 |              |               |
-|  336 | John Provine              |   7.0 |        16 |              |               |
-|  337 | Jaiyoung Ryu              |   6.7 |        22 |              |         +2.62 |
-|  338 | Virginie Letschert        |   6.6 |        18 |              |               |
-|  339 | Michael Friedlander       |   6.5 |         3 |              |               |
-|  340 | Jules Bowie               |   6.4 |        12 |              |               |
-|  341 | Arno Ferguson             |   6.4 |         1 |              |               |
-|  342 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  343 | John Coates               |   6.1 |         9 |              |               |
-|  344 | Nate Aden                 |   5.8 |         5 |        -0.26 |               |
+|  328 | Nate Aden                 |   7.6 |         6 |        +1.52 |               |
+|  329 | Dav Clark                 |   7.4 |         6 |              |               |
+|  330 | Nikhil Paranjape          |   7.3 |         8 |              |               |
+|  331 | Alok Singh                |   7.3 |         7 |        +5.04 |               |
+|  332 | Max Grass                 |   7.2 |         1 |              |               |
+|  333 | Joseph Duggan             |   7.1 |         8 |              |               |
+|  334 | Min Joon Seo              |   7.0 |         3 |              |               |
+|  335 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
+|  336 | Rob Cuthrell              |   7.0 |        11 |              |               |
+|  337 | John Provine              |   7.0 |        16 |              |               |
+|  338 | Jaiyoung Ryu              |   6.7 |        22 |              |         +2.62 |
+|  339 | Virginie Letschert        |   6.6 |        18 |              |               |
+|  340 | Michael Friedlander       |   6.5 |         3 |              |               |
+|  341 | Jules Bowie               |   6.4 |        12 |              |               |
+|  342 | Arno Ferguson             |   6.4 |         1 |              |               |
+|  343 | Fahad Riyadh              |   6.3 |         5 |              |               |
+|  344 | John Coates               |   6.1 |         9 |              |               |
 |  345 | John Givens               |   5.8 |        13 |              |               |
 |  346 | Phil Hartmeyer            |   5.6 |         3 |              |               |
 |  347 | Bobby Hicks               |   5.5 |         2 |              |               |
