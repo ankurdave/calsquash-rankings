@@ -104,7 +104,7 @@ Generated 2016-04-13.
 |  100 | Zarah Rahman              |  21.6 |        13 |              |         +8.49 |
 |  101 | Amy Lee                   |  21.6 |        56 |              |               |
 |  102 | Kameshwar Poolla          |  21.6 |        11 |              |               |
-|  103 | Ronald Dahl               |  21.5 |        48 |              |         -0.68 |
+|  103 | Ronald Dahl               |  21.6 |        49 |        +0.06 |         -0.62 |
 |  104 | Phin Lee                  |  21.5 |        16 |              |               |
 |  105 | Dev Millstein             |  21.4 |        92 |              |               |
 |  106 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
@@ -124,7 +124,7 @@ Generated 2016-04-13.
 |  120 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
 |  121 | Jacob Kersey              |  20.2 |        14 |        -0.31 |               |
 |  122 | Andrew Proudfoot          |  19.8 |        26 |              |        +20.22 |
-|  123 | Chris Flores              |  19.8 |       289 |        -0.03 |         -0.40 |
+|  123 | Chris Flores              |  19.8 |       289 |        -0.04 |         -0.40 |
 |  124 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  125 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  126 | Pierre Darancet           |  19.6 |        94 |              |               |
@@ -380,7 +380,7 @@ Generated 2016-04-13.
 |  376 | Alex Walters              |   3.2 |         3 |              |               |
 |  377 | Catherine Wang            |   3.2 |        10 |              |               |
 |  378 | Vito Sciaraffia           |   3.0 |         5 |              |               |
-|  379 | Josh Lebowitz             |   2.8 |         8 |        +0.10 |               |
+|  379 | Josh Lebowitz             |   3.0 |         9 |        +0.24 |               |
 |  380 | Richard Fabini            |   2.7 |         3 |              |               |
 |  381 | Martin Rasmussen          |   2.5 |         6 |              |               |
 |  382 | Therese Jones             |   2.3 |         6 |              |               |

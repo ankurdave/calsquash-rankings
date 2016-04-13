@@ -21,11 +21,11 @@ Generated 2016-04-13.
 |   17 | Mike Jensen-Akula   |  22.9 |       205 |        +0.07 |         +0.06 |
 |   18 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
 |   19 | Matt Wong           |  22.6 |        51 |              |         +4.52 |
-|   20 | Ronald Dahl         |  21.5 |        48 |              |         -0.68 |
+|   20 | Ronald Dahl         |  21.6 |        49 |        +0.06 |         -0.62 |
 |   21 | Shaun Lim           |  21.2 |        30 |              |         +1.06 |
 |   22 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
 |   23 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
-|   24 | Chris Flores        |  19.8 |       289 |        -0.03 |         -0.40 |
+|   24 | Chris Flores        |  19.8 |       289 |        -0.04 |         -0.40 |
 |   25 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   26 | Kenny Bell          |  18.0 |        98 |        -0.01 |         +0.98 |
 |   27 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
@@ -48,7 +48,7 @@ Generated 2016-04-13.
 |   44 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
 |   45 | Raphael Magarik     |   4.4 |         3 |              |               |
 |   46 | Wayne Heiser        |   4.4 |        10 |              |               |
-|   47 | Josh Lebowitz       |   2.8 |         8 |        +0.10 |               |
+|   47 | Josh Lebowitz       |   3.0 |         9 |        +0.24 |               |
 |   48 | Rodrigo Calmet      |   0.7 |         1 |              |               |
 |   49 | Keaton Noon         |   0.2 |         8 |              |               |
 |   50 | Sandra Harpster     |  -0.2 |         4 |              |               |
