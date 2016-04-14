@@ -36,7 +36,7 @@ Generated 2016-04-14.
 |   32 | Josh Trauner        |  14.9 |        13 |        -0.01 |               |
 |   33 | Terry Chang         |  14.2 |        32 |              |         +3.45 |
 |   34 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
-|   35 | Daniel Schwartz     |  11.8 |         8 |        -6.14 |               |
+|   35 | Daniel Schwartz     |  11.6 |         8 |        -6.32 |               |
 |   36 | Antonio Garcia      |  11.4 |        20 |              |               |
 |   37 | Ankur Dave          |  11.0 |        28 |        -0.13 |               |
 |   38 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
@@ -44,9 +44,9 @@ Generated 2016-04-14.
 |   40 | Duo Wang            |   9.4 |        53 |        -0.14 |         +2.16 |
 |   41 | Brian Kempenich     |   7.9 |        27 |              |               |
 |   42 | Nate Aden           |   7.6 |         6 |        +1.52 |               |
-|   43 | Alok Singh          |   7.3 |         7 |        +5.04 |               |
-|   44 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
-|   45 | Raphael Magarik     |   4.4 |         3 |              |               |
+|   43 | Raphael Magarik     |   7.1 |         4 |        +2.65 |               |
+|   44 | Alok Singh          |   7.0 |         8 |        +4.76 |               |
+|   45 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
 |   46 | Wayne Heiser        |   4.4 |        10 |              |               |
 |   47 | Josh Lebowitz       |   3.0 |         9 |        +0.24 |               |
 |   48 | Rodrigo Calmet      |   0.7 |         1 |              |               |
