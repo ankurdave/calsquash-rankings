@@ -28,8 +28,8 @@ Generated 2016-04-13.
 |   24 | Chris Flores        |  19.8 |       289 |        -0.04 |         -0.40 |
 |   25 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   26 | Kenny Bell          |  18.0 |        98 |        -0.01 |         +0.98 |
-|   27 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
-|   28 | Eric Borden         |  16.5 |        17 |              |               |
+|   27 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
+|   28 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
 |   29 | Jeff Gordon         |  15.9 |        18 |        -0.21 |               |
 |   30 | Subrato Dey         |  15.8 |        14 |              |               |
 |   31 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
@@ -54,5 +54,5 @@ Generated 2016-04-13.
 |   50 | Sandra Harpster     |  -0.2 |         4 |              |               |
 |   51 | Marco Eres          |  -0.5 |         5 |              |               |
 |   52 | Ann Connolly        |  -2.0 |         2 |              |               |
-|   53 | Shantanu Mittal     |  -3.3 |         2 |              |               |
+|   53 | Shantanu Mittal     |  -2.9 |         3 |        +0.49 |               |
 |   54 | Padma Maitland      |  -5.4 |         4 |              |               |

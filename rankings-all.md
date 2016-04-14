@@ -185,10 +185,10 @@ Generated 2016-04-13.
 |  181 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  182 | William Coleman           |  16.8 |        48 |              |               |
 |  183 | Darren Morgan             |  16.8 |        11 |              |               |
-|  184 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  185 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  186 | Kent Daniels              |  16.6 |        69 |              |         +2.08 |
-|  187 | Eric Borden               |  16.5 |        17 |              |               |
+|  184 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
+|  185 | Viraj Paropkari           |  16.7 |        16 |              |               |
+|  186 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  187 | Kent Daniels              |  16.6 |        69 |              |         +2.08 |
 |  188 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  189 | Ben Ailes                 |  16.5 |        48 |              |               |
 |  190 | George Roche              |  16.3 |        14 |              |         +2.01 |
@@ -471,10 +471,10 @@ Generated 2016-04-13.
 |  467 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
 |  468 | Anne Iversen              |  -2.7 |         3 |              |               |
 |  469 | Sara Green                |  -2.8 |         1 |              |               |
-|  470 | Rabin Patra               |  -2.9 |         2 |              |               |
-|  471 | Pedrum Mohageri           |  -2.9 |         8 |              |               |
-|  472 | Ben Geller                |  -3.1 |         4 |              |               |
-|  473 | Shantanu Mittal           |  -3.3 |         2 |              |               |
+|  470 | Shantanu Mittal           |  -2.9 |         3 |        +0.49 |               |
+|  471 | Rabin Patra               |  -2.9 |         2 |              |               |
+|  472 | Pedrum Mohageri           |  -2.9 |         8 |              |               |
+|  473 | Ben Geller                |  -3.1 |         4 |              |               |
 |  474 | Tin Do                    |  -3.6 |         1 |              |               |
 |  475 | Nadir Shams               |  -3.7 |         2 |              |               |
 |  476 | Nick Firmani              |  -3.9 |         3 |              |               |
