@@ -17,7 +17,7 @@ Generated 2016-04-14.
 |   13 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   14 | Reid Johnsen        |  23.5 |        15 |        +1.60 |         +7.62 |
 |   15 | Jonathan Hankar     |  23.3 |       172 |        -0.06 |         +0.19 |
-|   16 | Andrew Lawrie       |  23.3 |        44 |        -0.07 |         +8.09 |
+|   16 | Andrew Lawrie       |  23.2 |        45 |        -0.21 |         +7.95 |
 |   17 | Mike Jensen-Akula   |  22.9 |       205 |        +0.07 |         +0.06 |
 |   18 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
 |   19 | Matt Wong           |  22.6 |        51 |              |         +4.52 |
@@ -36,23 +36,24 @@ Generated 2016-04-14.
 |   32 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
 |   33 | Terry Chang         |  14.2 |        32 |              |         +3.45 |
 |   34 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
-|   35 | Daniel Schwartz     |  11.6 |         8 |        -6.32 |               |
-|   36 | Antonio Garcia      |  11.4 |        20 |              |               |
-|   37 | Ankur Dave          |  11.0 |        28 |        -0.13 |               |
-|   38 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
-|   39 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
-|   40 | Duo Wang            |   9.4 |        53 |        -0.14 |         +2.16 |
-|   41 | Brian Kempenich     |   7.9 |        27 |              |               |
-|   42 | Nate Aden           |   7.6 |         6 |        +1.52 |               |
-|   43 | Raphael Magarik     |   7.1 |         4 |        +2.65 |               |
-|   44 | Alok Singh          |   7.0 |         8 |        +4.76 |               |
-|   45 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
-|   46 | Wayne Heiser        |   4.4 |        10 |              |               |
-|   47 | Josh Lebowitz       |   3.0 |         9 |        +0.24 |               |
-|   48 | Rodrigo Calmet      |   0.7 |         1 |              |               |
-|   49 | Keaton Noon         |   0.2 |         8 |              |               |
-|   50 | Sandra Harpster     |  -0.2 |         4 |              |               |
-|   51 | Marco Eres          |  -0.5 |         5 |              |               |
-|   52 | Ann Connolly        |  -2.0 |         2 |              |               |
-|   53 | Shantanu Mittal     |  -2.9 |         3 |        +0.49 |               |
-|   54 | Padma Maitland      |  -5.4 |         4 |              |               |
+|   35 | Eric Katerman       |  12.7 |         1 |              |               |
+|   36 | Daniel Schwartz     |  11.6 |         8 |        -6.32 |               |
+|   37 | Antonio Garcia      |  11.4 |        20 |              |               |
+|   38 | Ankur Dave          |  11.0 |        28 |        -0.13 |               |
+|   39 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
+|   40 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
+|   41 | Duo Wang            |   9.4 |        53 |        -0.14 |         +2.16 |
+|   42 | Brian Kempenich     |   7.9 |        27 |              |               |
+|   43 | Nate Aden           |   7.6 |         6 |        +1.52 |               |
+|   44 | Raphael Magarik     |   7.1 |         4 |        +2.65 |               |
+|   45 | Alok Singh          |   7.0 |         8 |        +4.76 |               |
+|   46 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
+|   47 | Wayne Heiser        |   4.4 |        10 |              |               |
+|   48 | Josh Lebowitz       |   3.0 |         9 |        +0.24 |               |
+|   49 | Rodrigo Calmet      |   0.7 |         1 |              |               |
+|   50 | Keaton Noon         |   0.2 |         8 |              |               |
+|   51 | Sandra Harpster     |  -0.2 |         4 |              |               |
+|   52 | Marco Eres          |  -0.5 |         5 |              |               |
+|   53 | Ann Connolly        |  -2.0 |         2 |              |               |
+|   54 | Shantanu Mittal     |  -2.9 |         3 |        +0.49 |               |
+|   55 | Padma Maitland      |  -5.4 |         4 |              |               |
