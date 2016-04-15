@@ -49,8 +49,8 @@ Generated 2016-04-14.
 |   45 | Ethan Kerr                |  26.2 |         7 |              |               |
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
 |   47 | Ben Seelig                |  25.8 |        69 |              |               |
-|   48 | Annie Rein-Weston         |  25.7 |        18 |              |               |
-|   49 | Dan Meier                 |  25.6 |        36 |        +0.49 |         +8.29 |
+|   48 | Dan Meier                 |  25.8 |        37 |        +0.70 |         +8.51 |
+|   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   50 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   51 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
 |   52 | Greg Jizmagian            |  24.6 |        22 |              |               |
@@ -74,7 +74,7 @@ Generated 2016-04-14.
 |   70 | Reid Johnsen              |  23.5 |        15 |        +1.60 |         +7.62 |
 |   71 | Joe Farrell               |  23.4 |        30 |              |               |
 |   72 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   73 | Jonathan Hankar           |  23.3 |       172 |        -0.06 |         +0.19 |
+|   73 | Jonathan Hankar           |  23.3 |       172 |        -0.05 |         +0.19 |
 |   74 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   75 | Sushil Shetty             |  23.3 |        23 |              |               |
 |   76 | Sonesh Surana             |  23.2 |        95 |              |               |
@@ -87,8 +87,8 @@ Generated 2016-04-14.
 |   83 | Mike Jensen-Akula         |  22.9 |       205 |        +0.07 |         +0.06 |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
 |   85 | Jared Bard                |  22.7 |        18 |              |         +5.02 |
-|   86 | Matt Wong                 |  22.6 |        51 |              |         +4.52 |
-|   87 | Adam Angsten              |  22.5 |         3 |              |               |
+|   86 | Adam Angsten              |  22.5 |         3 |              |               |
+|   87 | Matt Wong                 |  22.5 |        52 |        -0.10 |         +4.42 |
 |   88 | Richard Chan              |  22.5 |         9 |              |               |
 |   89 | Orion Hodson              |  22.5 |        31 |              |               |
 |   90 | Rahul Gupta               |  22.4 |         7 |              |               |
