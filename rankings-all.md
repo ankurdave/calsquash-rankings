@@ -57,8 +57,8 @@ Generated 2016-04-14.
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   54 | Charlie Weiss             |  24.3 |        70 |              |         +1.44 |
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
-|   56 | Saurabh Bajaj             |  24.2 |        11 |        +1.12 |               |
-|   57 | Toby Reiner               |  24.2 |       159 |              |               |
+|   56 | Toby Reiner               |  24.2 |       159 |              |               |
+|   57 | Saurabh Bajaj             |  24.2 |        11 |        +1.11 |               |
 |   58 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   59 | Mark Modera               |  24.1 |       294 |              |         -1.41 |
 |   60 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
@@ -159,7 +159,7 @@ Generated 2016-04-14.
 |  155 | Himanshu Jatia            |  18.1 |         4 |              |               |
 |  156 | Anubhav Gupta             |  18.0 |         8 |              |               |
 |  157 | Andres Rodriguez          |  18.0 |        55 |              |         +0.57 |
-|  158 | Kenny Bell                |  18.0 |        98 |        -0.01 |         +0.98 |
+|  158 | Kenny Bell                |  17.9 |        99 |        -0.10 |         +0.89 |
 |  159 | Robert Geiger             |  17.8 |         8 |              |               |
 |  160 | Jim Evans                 |  17.8 |       216 |              |               |
 |  161 | Hari Dhavala              |  17.7 |        27 |              |               |
@@ -197,29 +197,29 @@ Generated 2016-04-14.
 |  193 | Troup Howard              |  16.1 |        34 |              |         +0.55 |
 |  194 | Andrew Green              |  16.1 |        52 |              |               |
 |  195 | Toni Queck                |  16.0 |        20 |              |               |
-|  196 | Jeff Gordon               |  15.9 |        18 |        -0.21 |               |
-|  197 | Subrato Dey               |  15.8 |        14 |              |               |
-|  198 | Jaime Paterson            |  15.7 |         1 |              |               |
-|  199 | Jeff Bird                 |  15.7 |        38 |              |               |
-|  200 | Casey Harelson            |  15.7 |        20 |              |               |
-|  201 | Nick Paget                |  15.6 |        35 |              |               |
-|  202 | Allan Dafoe               |  15.5 |        43 |              |               |
-|  203 | David Bratt               |  15.4 |        16 |              |         +3.38 |
-|  204 | Doug Kreutzer             |  15.3 |        10 |              |               |
-|  205 | Ranjit Jhala              |  15.2 |         6 |              |               |
-|  206 | Chris Harrelson           |  15.2 |        47 |              |               |
-|  207 | Tuyen Le                  |  15.2 |         5 |              |               |
-|  208 | Narayan Sankaran          |  15.2 |        24 |              |               |
-|  209 | Rupert Myers              |  15.2 |        25 |        +1.20 |               |
-|  210 | Matthew Brett             |  15.1 |        20 |              |               |
-|  211 | Kedar Viswanathan         |  15.1 |        16 |              |               |
-|  212 | Alex Marqusee             |  15.1 |        28 |              |         +1.50 |
-|  213 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
-|  214 | Liam King                 |  15.0 |         6 |              |               |
-|  215 | Peter Duerr               |  15.0 |        24 |              |               |
-|  216 | Jayanth Kannan            |  15.0 |        20 |              |               |
-|  217 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
-|  218 | Josh Trauner              |  14.9 |        13 |        -0.01 |               |
+|  196 | Josh Trauner              |  16.0 |        14 |        +1.04 |               |
+|  197 | Jeff Gordon               |  15.9 |        18 |        -0.21 |               |
+|  198 | Subrato Dey               |  15.8 |        14 |              |               |
+|  199 | Jaime Paterson            |  15.7 |         1 |              |               |
+|  200 | Jeff Bird                 |  15.7 |        38 |              |               |
+|  201 | Casey Harelson            |  15.7 |        20 |              |               |
+|  202 | Nick Paget                |  15.6 |        35 |              |               |
+|  203 | Allan Dafoe               |  15.5 |        43 |              |               |
+|  204 | David Bratt               |  15.4 |        16 |              |         +3.38 |
+|  205 | Doug Kreutzer             |  15.3 |        10 |              |               |
+|  206 | Ranjit Jhala              |  15.2 |         6 |              |               |
+|  207 | Chris Harrelson           |  15.2 |        47 |              |               |
+|  208 | Tuyen Le                  |  15.2 |         5 |              |               |
+|  209 | Narayan Sankaran          |  15.2 |        24 |              |               |
+|  210 | Rupert Myers              |  15.2 |        25 |        +1.20 |               |
+|  211 | Matthew Brett             |  15.1 |        20 |              |               |
+|  212 | Kedar Viswanathan         |  15.1 |        16 |              |               |
+|  213 | Alex Marqusee             |  15.1 |        28 |              |         +1.50 |
+|  214 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
+|  215 | Liam King                 |  15.0 |         6 |              |               |
+|  216 | Peter Duerr               |  15.0 |        24 |              |               |
+|  217 | Jayanth Kannan            |  15.0 |        20 |              |               |
+|  218 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
 |  219 | Lakshya Rustagi           |  14.8 |         2 |              |               |
 |  220 | Angie Ng                  |  14.8 |        12 |              |               |
 |  221 | Nicholas Monsees          |  14.8 |         5 |              |               |
