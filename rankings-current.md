@@ -22,10 +22,10 @@ Generated 2016-04-14.
 |   18 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
 |   19 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.42 |
 |   20 | Ronald Dahl         |  21.6 |        49 |        +0.06 |         -0.62 |
-|   21 | Shaun Lim           |  21.2 |        30 |              |         +1.06 |
+|   21 | Shaun Lim           |  20.7 |        31 |        -0.51 |         +0.54 |
 |   22 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
 |   23 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
-|   24 | Chris Flores        |  19.8 |       289 |        -0.04 |         -0.40 |
+|   24 | Chris Flores        |  19.9 |       290 |        +0.13 |         -0.24 |
 |   25 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   26 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.89 |
 |   27 | Eric Borden         |  16.8 |        18 |        +0.23 |               |

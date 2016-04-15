@@ -110,21 +110,21 @@ Generated 2016-04-14.
 |  106 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
 |  107 | Matthew Elliott           |  21.3 |         7 |              |               |
 |  108 | Garvin Heath              |  21.2 |        28 |              |               |
-|  109 | Shaun Lim                 |  21.2 |        30 |              |         +1.06 |
-|  110 | Joseff Farrell            |  21.2 |         5 |              |               |
-|  111 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  112 | Rishabh Kasliwal          |  21.0 |        26 |              |               |
-|  113 | Ken-Ichi Ueda             |  21.0 |       181 |              |         +0.08 |
-|  114 | Matt Wild                 |  21.0 |        25 |              |         -0.61 |
-|  115 | Robert Jeng               |  20.9 |        26 |              |               |
-|  116 | Aaron Socha               |  20.9 |        24 |              |               |
+|  109 | Joseff Farrell            |  21.2 |         5 |              |               |
+|  110 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  111 | Rishabh Kasliwal          |  21.0 |        26 |              |               |
+|  112 | Ken-Ichi Ueda             |  21.0 |       181 |              |         +0.08 |
+|  113 | Matt Wild                 |  21.0 |        25 |              |         -0.61 |
+|  114 | Robert Jeng               |  20.9 |        26 |              |               |
+|  115 | Aaron Socha               |  20.9 |        24 |              |               |
+|  116 | Shaun Lim                 |  20.7 |        31 |        -0.51 |         +0.54 |
 |  117 | Jonathan Francis          |  20.7 |        52 |              |         +1.20 |
 |  118 | Omair Azam                |  20.6 |        18 |              |               |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  120 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
 |  121 | Jacob Kersey              |  20.2 |        14 |        -0.31 |               |
-|  122 | Andrew Proudfoot          |  19.8 |        26 |              |        +20.22 |
-|  123 | Chris Flores              |  19.8 |       289 |        -0.04 |         -0.40 |
+|  122 | Chris Flores              |  19.9 |       290 |        +0.13 |         -0.24 |
+|  123 | Andrew Proudfoot          |  19.8 |        26 |              |        +20.22 |
 |  124 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  125 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  126 | Pierre Darancet           |  19.6 |        94 |              |               |
