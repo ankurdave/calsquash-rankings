@@ -4,7 +4,7 @@ Generated 2016-04-16.
 |------|---------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler       |  43.0 |       205 |              |         +0.17 |
 |    2 | Rees Sweeney-Taylor |  36.9 |        77 |        +0.05 |         +1.41 |
-|    3 | Jim Veitch          |  29.4 |       404 |        +0.05 |         +0.19 |
+|    3 | Jim Veitch          |  29.4 |       405 |        -0.03 |         +0.11 |
 |    4 | Frank Kennamer      |  28.6 |       195 |              |         -0.10 |
 |    5 | John Kunze          |  28.5 |       287 |        -0.02 |         -0.20 |
 |    6 | Arvind Muralimohan  |  28.1 |        15 |              |               |
@@ -25,18 +25,18 @@ Generated 2016-04-16.
 |   21 | Shaun Lim           |  20.7 |        31 |        -0.51 |         +0.54 |
 |   22 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
 |   23 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
-|   24 | Chris Flores        |  19.9 |       290 |        +0.13 |         -0.24 |
-|   25 | Sam Trachtman       |  18.5 |         5 |              |               |
-|   26 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.89 |
-|   27 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
-|   28 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
-|   29 | Josh Trauner        |  16.0 |        14 |        +1.04 |               |
-|   30 | Jeff Gordon         |  15.9 |        18 |        -0.21 |               |
-|   31 | Subrato Dey         |  15.8 |        14 |              |               |
-|   32 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
-|   33 | Terry Chang         |  14.2 |        32 |              |         +3.45 |
-|   34 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
-|   35 | Eric Katerman       |  12.7 |         1 |              |               |
+|   24 | Eric Katerman       |  20.0 |         2 |              |               |
+|   25 | Chris Flores        |  19.9 |       290 |        +0.13 |         -0.24 |
+|   26 | Sam Trachtman       |  18.5 |         5 |              |               |
+|   27 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.89 |
+|   28 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
+|   29 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
+|   30 | Josh Trauner        |  16.0 |        14 |        +1.04 |               |
+|   31 | Jeff Gordon         |  15.9 |        18 |        -0.21 |               |
+|   32 | Subrato Dey         |  15.8 |        14 |              |               |
+|   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
+|   34 | Terry Chang         |  14.2 |        32 |              |         +3.45 |
+|   35 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
 |   36 | Daniel Schwartz     |  11.6 |         8 |        -6.32 |               |
 |   37 | Antonio Garcia      |  11.4 |        20 |              |               |
 |   38 | Ankur Dave          |  11.0 |        28 |        -0.13 |               |
