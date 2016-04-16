@@ -18,11 +18,11 @@ Generated 2016-04-16.
 |   14 | Reid Johnsen        |  23.5 |        15 |        +1.60 |         +7.62 |
 |   15 | Jonathan Hankar     |  23.3 |       172 |        -0.05 |         +0.19 |
 |   16 | Andrew Lawrie       |  23.2 |        45 |        -0.21 |         +7.95 |
-|   17 | Mike Jensen-Akula   |  22.9 |       205 |        +0.07 |         +0.06 |
+|   17 | Mike Jensen-Akula   |  22.9 |       206 |        +0.09 |         +0.07 |
 |   18 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
 |   19 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.42 |
 |   20 | Ronald Dahl         |  21.6 |        49 |        +0.06 |         -0.62 |
-|   21 | Shaun Lim           |  20.7 |        31 |        -0.51 |         +0.54 |
+|   21 | Shaun Lim           |  20.7 |        31 |        -0.51 |         +0.55 |
 |   22 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
 |   23 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
 |   24 | Eric Katerman       |  20.0 |         2 |              |               |
@@ -49,7 +49,7 @@ Generated 2016-04-16.
 |   45 | Alok Singh          |   7.0 |         8 |        +4.76 |               |
 |   46 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
 |   47 | Wayne Heiser        |   4.4 |        10 |              |               |
-|   48 | Josh Lebowitz       |   3.0 |         9 |        +0.24 |               |
+|   48 | Josh Lebowitz       |   3.1 |        10 |        +0.35 |               |
 |   49 | Rodrigo Calmet      |   0.7 |         1 |              |               |
 |   50 | Keaton Noon         |   0.2 |         8 |              |               |
 |   51 | Sandra Harpster     |  -0.2 |         4 |              |               |

@@ -84,7 +84,7 @@ Generated 2016-04-16.
 |   80 | Gary Golding              |  23.1 |         6 |              |               |
 |   81 | Prakash Bathini           |  22.9 |       117 |              |         -0.40 |
 |   82 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   83 | Mike Jensen-Akula         |  22.9 |       205 |        +0.07 |         +0.06 |
+|   83 | Mike Jensen-Akula         |  22.9 |       206 |        +0.09 |         +0.07 |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
 |   85 | Jared Bard                |  22.7 |        18 |              |         +5.02 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
@@ -117,7 +117,7 @@ Generated 2016-04-16.
 |  113 | Matt Wild                 |  21.0 |        25 |              |         -0.61 |
 |  114 | Robert Jeng               |  20.9 |        26 |              |               |
 |  115 | Aaron Socha               |  20.9 |        24 |              |               |
-|  116 | Shaun Lim                 |  20.7 |        31 |        -0.51 |         +0.54 |
+|  116 | Shaun Lim                 |  20.7 |        31 |        -0.51 |         +0.55 |
 |  117 | Jonathan Francis          |  20.7 |        52 |              |         +1.20 |
 |  118 | Omair Azam                |  20.6 |        18 |              |               |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
@@ -380,8 +380,8 @@ Generated 2016-04-16.
 |  376 | Akshay Dugar              |   3.2 |         6 |              |               |
 |  377 | Alex Walters              |   3.2 |         3 |              |               |
 |  378 | Catherine Wang            |   3.2 |        10 |              |               |
-|  379 | Vito Sciaraffia           |   3.0 |         5 |              |               |
-|  380 | Josh Lebowitz             |   3.0 |         9 |        +0.24 |               |
+|  379 | Josh Lebowitz             |   3.1 |        10 |        +0.35 |               |
+|  380 | Vito Sciaraffia           |   3.0 |         5 |              |               |
 |  381 | Richard Fabini            |   2.7 |         3 |              |               |
 |  382 | Martin Rasmussen          |   2.5 |         6 |              |               |
 |  383 | Therese Jones             |   2.3 |         6 |              |               |
