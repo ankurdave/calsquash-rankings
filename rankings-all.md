@@ -2,7 +2,7 @@ Generated 2016-04-16.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  43.0 |       205 |              |         +0.17 |
+|    1 | Ashley Kayler             |  43.0 |       207 |              |         +0.18 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
 |    3 | Rees Sweeney-Taylor       |  36.9 |        77 |        +0.05 |         +1.41 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
@@ -27,7 +27,7 @@ Generated 2016-04-16.
 |   23 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   24 | Frank Kennamer            |  28.6 |       195 |              |         -0.10 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   26 | John Kunze                |  28.5 |       287 |        -0.02 |         -0.20 |
+|   26 | John Kunze                |  28.5 |       288 |        -0.03 |         -0.22 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
 |   29 | Arvind Muralimohan        |  28.1 |        15 |              |               |
@@ -44,7 +44,7 @@ Generated 2016-04-16.
 |   40 | Ignacio Canals            |  26.7 |        21 |              |               |
 |   41 | Nauman Sardar             |  26.6 |        40 |              |               |
 |   42 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
-|   43 | Nick Cobbett              |  26.3 |        16 |              |               |
+|   43 | Nick Cobbett              |  26.3 |        17 |              |               |
 |   44 | Ali Rahim                 |  26.2 |        24 |              |               |
 |   45 | Ethan Kerr                |  26.2 |         7 |              |               |
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
