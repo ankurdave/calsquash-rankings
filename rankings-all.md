@@ -84,7 +84,7 @@ Generated 2016-04-16.
 |   80 | Gary Golding              |  23.1 |         6 |              |               |
 |   81 | Prakash Bathini           |  22.9 |       117 |              |         -0.40 |
 |   82 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   83 | Mike Jensen-Akula         |  22.9 |       206 |        +0.09 |         +0.07 |
+|   83 | Mike Jensen-Akula         |  22.9 |       206 |        +0.09 |         +0.08 |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
 |   85 | Jared Bard                |  22.7 |        18 |              |         +5.02 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
@@ -98,13 +98,13 @@ Generated 2016-04-16.
 |   94 | Philip Bildner            |  22.1 |        22 |              |               |
 |   95 | Kelvin Wong               |  22.0 |        44 |              |               |
 |   96 | Harlan Yu                 |  21.9 |        19 |              |               |
-|   97 | Robert Schwartz           |  21.8 |        73 |              |         +0.81 |
-|   98 | Sam McCormick             |  21.7 |        13 |              |               |
-|   99 | Robert Ashmore            |  21.7 |       104 |              |               |
-|  100 | Zarah Rahman              |  21.6 |        13 |              |         +8.49 |
-|  101 | Amy Lee                   |  21.6 |        56 |              |               |
-|  102 | Kameshwar Poolla          |  21.6 |        11 |              |               |
-|  103 | Ronald Dahl               |  21.6 |        49 |        +0.06 |         -0.62 |
+|   97 | Ronald Dahl               |  21.9 |        50 |        +0.36 |         -0.32 |
+|   98 | Robert Schwartz           |  21.8 |        73 |              |         +0.81 |
+|   99 | Sam McCormick             |  21.7 |        13 |              |               |
+|  100 | Robert Ashmore            |  21.7 |       104 |              |               |
+|  101 | Zarah Rahman              |  21.6 |        13 |              |         +8.49 |
+|  102 | Amy Lee                   |  21.6 |        56 |              |               |
+|  103 | Kameshwar Poolla          |  21.6 |        11 |              |               |
 |  104 | Phin Lee                  |  21.5 |        16 |              |               |
 |  105 | Dev Millstein             |  21.4 |        92 |              |               |
 |  106 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
@@ -117,14 +117,14 @@ Generated 2016-04-16.
 |  113 | Matt Wild                 |  21.0 |        25 |              |         -0.61 |
 |  114 | Robert Jeng               |  20.9 |        26 |              |               |
 |  115 | Aaron Socha               |  20.9 |        24 |              |               |
-|  116 | Shaun Lim                 |  20.7 |        31 |        -0.51 |         +0.55 |
-|  117 | Jonathan Francis          |  20.7 |        52 |              |         +1.20 |
-|  118 | Omair Azam                |  20.6 |        18 |              |               |
+|  116 | Jonathan Francis          |  20.7 |        52 |              |         +1.20 |
+|  117 | Omair Azam                |  20.6 |        18 |              |               |
+|  118 | Shaun Lim                 |  20.5 |        33 |        -0.71 |         +0.35 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  120 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
 |  121 | Jacob Kersey              |  20.2 |        14 |        -0.31 |               |
 |  122 | Eric Katerman             |  20.0 |         2 |              |               |
-|  123 | Chris Flores              |  19.9 |       290 |        +0.13 |         -0.24 |
+|  123 | Chris Flores              |  19.9 |       290 |        +0.12 |         -0.24 |
 |  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +20.22 |
 |  125 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  126 | Christian Fuentes         |  19.7 |         8 |              |               |
@@ -380,7 +380,7 @@ Generated 2016-04-16.
 |  376 | Akshay Dugar              |   3.2 |         6 |              |               |
 |  377 | Alex Walters              |   3.2 |         3 |              |               |
 |  378 | Catherine Wang            |   3.2 |        10 |              |               |
-|  379 | Josh Lebowitz             |   3.1 |        10 |        +0.35 |               |
+|  379 | Josh Lebowitz             |   3.2 |        11 |        +0.46 |               |
 |  380 | Vito Sciaraffia           |   3.0 |         5 |              |               |
 |  381 | Richard Fabini            |   2.7 |         3 |              |               |
 |  382 | Martin Rasmussen          |   2.5 |         6 |              |               |
