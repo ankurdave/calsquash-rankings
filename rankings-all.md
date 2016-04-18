@@ -188,9 +188,9 @@ Generated 2016-04-18.
 |  184 | Darren Morgan             |  16.8 |        11 |              |               |
 |  185 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
 |  186 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  187 | Josh Trauner              |  16.7 |        15 |        +1.74 |               |
-|  188 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  189 | Kent Daniels              |  16.6 |        69 |              |         +2.08 |
+|  187 | Kent Daniels              |  16.7 |        70 |        +0.14 |         +2.22 |
+|  188 | Josh Trauner              |  16.7 |        15 |        +1.74 |               |
+|  189 | Dennis Dornan             |  16.6 |        12 |              |               |
 |  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  191 | Ben Ailes                 |  16.5 |        48 |              |               |
 |  192 | George Roche              |  16.3 |        14 |              |         +2.01 |
@@ -330,8 +330,8 @@ Generated 2016-04-18.
 |  326 | Fabrice Henrion           |   7.7 |         2 |              |               |
 |  327 | Paul Norberg              |   7.6 |         8 |              |               |
 |  328 | Kunal Talwar              |   7.6 |         1 |              |               |
-|  329 | Nate Aden                 |   7.6 |         6 |        +1.52 |               |
-|  330 | Dav Clark                 |   7.4 |         6 |              |               |
+|  329 | Dav Clark                 |   7.4 |         6 |              |               |
+|  330 | Nate Aden                 |   7.3 |         7 |        +1.25 |               |
 |  331 | Nikhil Paranjape          |   7.3 |         8 |              |               |
 |  332 | Max Grass                 |   7.2 |         1 |              |               |
 |  333 | Joseph Duggan             |   7.1 |         8 |              |               |
