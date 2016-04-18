@@ -39,7 +39,7 @@ Generated 2016-04-17.
 |   35 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
 |   36 | Daniel Schwartz     |  11.6 |         8 |        -6.32 |               |
 |   37 | Antonio Garcia      |  11.4 |        20 |              |               |
-|   38 | Ankur Dave          |  11.0 |        28 |        -0.13 |               |
+|   38 | Ankur Dave          |  11.2 |        29 |        +0.09 |               |
 |   39 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
 |   40 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
 |   41 | Duo Wang            |   9.4 |        53 |        -0.14 |         +2.16 |
@@ -51,7 +51,7 @@ Generated 2016-04-17.
 |   47 | Wayne Heiser        |   4.4 |        10 |              |               |
 |   48 | Josh Lebowitz       |   3.2 |        11 |        +0.46 |               |
 |   49 | Rodrigo Calmet      |   0.7 |         1 |              |               |
-|   50 | Keaton Noon         |   0.2 |         8 |              |               |
+|   50 | Keaton Noon         |   0.1 |         9 |        -0.08 |               |
 |   51 | Sandra Harpster     |  -0.2 |         4 |              |               |
 |   52 | Marco Eres          |  -0.5 |         5 |              |               |
 |   53 | Ann Connolly        |  -2.0 |         2 |              |               |

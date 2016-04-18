@@ -272,8 +272,8 @@ Generated 2016-04-17.
 |  268 | Antonio Garcia            |  11.4 |        20 |              |               |
 |  269 | Juliet Shih               |  11.3 |        11 |              |               |
 |  270 | Margaret Chapman          |  11.2 |         6 |              |               |
-|  271 | Charles Denby             |  11.2 |         5 |              |               |
-|  272 | Ankur Dave                |  11.0 |        28 |        -0.13 |               |
+|  271 | Ankur Dave                |  11.2 |        29 |        +0.09 |               |
+|  272 | Charles Denby             |  11.2 |         5 |              |               |
 |  273 | Khurram Mahmood           |  10.8 |         3 |              |               |
 |  274 | Axel Eriksson             |  10.8 |         5 |              |               |
 |  275 | Jose Lara                 |  10.6 |         3 |        +0.52 |               |
@@ -418,9 +418,9 @@ Generated 2016-04-17.
 |  414 | Hobson Brown              |   0.5 |         1 |              |               |
 |  415 | Freeden Ouer              |   0.3 |         1 |              |               |
 |  416 | Seth Garz                 |   0.2 |         1 |              |               |
-|  417 | Keaton Noon               |   0.2 |         8 |              |               |
-|  418 | Tom Joseph                |   0.1 |         2 |              |               |
-|  419 | Michael Mann              |   0.1 |         4 |              |               |
+|  417 | Tom Joseph                |   0.1 |         2 |              |               |
+|  418 | Michael Mann              |   0.1 |         4 |              |               |
+|  419 | Keaton Noon               |   0.1 |         9 |        -0.08 |               |
 |  420 | Tammy J Faridi            |   0.1 |        27 |              |               |
 |  421 | Pablo Paredes             |   0.0 |         1 |              |               |
 |  422 | Markus Boese              |   0.0 |         1 |              |               |
