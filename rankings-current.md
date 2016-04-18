@@ -12,7 +12,7 @@ Generated 2016-04-17.
 |    8 | Nick Cobbett        |  26.3 |        17 |              |               |
 |    9 | Ethan Kerr          |  26.2 |         7 |              |               |
 |   10 | Dan Meier           |  25.8 |        37 |        +0.70 |         +8.51 |
-|   11 | Saurabh Bajaj       |  24.2 |        11 |        +1.11 |               |
+|   11 | Saurabh Bajaj       |  24.2 |        12 |        +1.16 |               |
 |   12 | Mark Modera         |  24.1 |       294 |              |         -1.41 |
 |   13 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   14 | Reid Johnsen        |  23.5 |        15 |        +1.60 |         +7.62 |
@@ -48,7 +48,7 @@ Generated 2016-04-17.
 |   44 | Raphael Magarik     |   7.1 |         4 |        +2.65 |               |
 |   45 | Alok Singh          |   7.0 |         8 |        +4.76 |               |
 |   46 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
-|   47 | Wayne Heiser        |   4.4 |        10 |              |               |
+|   47 | Wayne Heiser        |   4.4 |        11 |              |               |
 |   48 | Josh Lebowitz       |   3.2 |        11 |        +0.46 |               |
 |   49 | Rodrigo Calmet      |   0.7 |         1 |              |               |
 |   50 | Keaton Noon         |   0.1 |         9 |        -0.08 |               |
