@@ -21,12 +21,12 @@ Generated 2016-04-18.
 |   17 | Mike Jensen-Akula   |  22.9 |       206 |        +0.09 |         +0.08 |
 |   18 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
 |   19 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.42 |
-|   20 | Ronald Dahl         |  21.9 |        50 |        +0.36 |         -0.32 |
+|   20 | Ronald Dahl         |  21.6 |        51 |        +0.07 |         -0.61 |
 |   21 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
 |   22 | Shaun Lim           |  20.5 |        33 |        -0.71 |         +0.35 |
 |   23 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
-|   24 | Eric Katerman       |  20.0 |         2 |              |               |
-|   25 | Chris Flores        |  19.9 |       290 |        +0.12 |         -0.24 |
+|   24 | Chris Flores        |  20.1 |       291 |        +0.28 |         -0.09 |
+|   25 | Eric Katerman       |  20.0 |         2 |              |               |
 |   26 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   27 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.89 |
 |   28 | Eric Borden         |  16.8 |        18 |        +0.23 |               |

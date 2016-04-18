@@ -98,13 +98,13 @@ Generated 2016-04-18.
 |   94 | Philip Bildner            |  22.1 |        22 |              |               |
 |   95 | Kelvin Wong               |  22.0 |        44 |              |               |
 |   96 | Harlan Yu                 |  21.9 |        19 |              |               |
-|   97 | Ronald Dahl               |  21.9 |        50 |        +0.36 |         -0.32 |
-|   98 | Robert Schwartz           |  21.8 |        73 |              |         +0.81 |
-|   99 | Sam McCormick             |  21.7 |        13 |              |               |
-|  100 | Robert Ashmore            |  21.7 |       104 |              |               |
-|  101 | Zarah Rahman              |  21.6 |        13 |              |         +8.49 |
-|  102 | Amy Lee                   |  21.6 |        56 |              |               |
-|  103 | Kameshwar Poolla          |  21.6 |        11 |              |               |
+|   97 | Robert Schwartz           |  21.8 |        73 |              |         +0.81 |
+|   98 | Sam McCormick             |  21.7 |        13 |              |               |
+|   99 | Robert Ashmore            |  21.7 |       104 |              |               |
+|  100 | Zarah Rahman              |  21.6 |        13 |              |         +8.49 |
+|  101 | Amy Lee                   |  21.6 |        56 |              |               |
+|  102 | Kameshwar Poolla          |  21.6 |        11 |              |               |
+|  103 | Ronald Dahl               |  21.6 |        51 |        +0.07 |         -0.61 |
 |  104 | Phin Lee                  |  21.5 |        16 |              |               |
 |  105 | Dev Millstein             |  21.4 |        92 |              |               |
 |  106 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
@@ -123,8 +123,8 @@ Generated 2016-04-18.
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  120 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
 |  121 | Jacob Kersey              |  20.2 |        14 |        -0.31 |               |
-|  122 | Eric Katerman             |  20.0 |         2 |              |               |
-|  123 | Chris Flores              |  19.9 |       290 |        +0.12 |         -0.24 |
+|  122 | Chris Flores              |  20.1 |       291 |        +0.28 |         -0.09 |
+|  123 | Eric Katerman             |  20.0 |         2 |              |               |
 |  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +20.22 |
 |  125 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  126 | Christian Fuentes         |  19.7 |         8 |              |               |
