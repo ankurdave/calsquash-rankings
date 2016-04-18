@@ -12,7 +12,7 @@ Generated 2016-04-17.
 |    8 | Nick Cobbett        |  26.3 |        17 |              |               |
 |    9 | Ethan Kerr          |  26.2 |         7 |              |               |
 |   10 | Dan Meier           |  25.8 |        37 |        +0.70 |         +8.51 |
-|   11 | Saurabh Bajaj       |  24.2 |        12 |        +1.16 |               |
+|   11 | Saurabh Bajaj       |  24.2 |        12 |        +1.15 |               |
 |   12 | Mark Modera         |  24.1 |       294 |              |         -1.41 |
 |   13 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   14 | Reid Johnsen        |  23.5 |        15 |        +1.60 |         +7.62 |
@@ -30,12 +30,12 @@ Generated 2016-04-17.
 |   26 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   27 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.89 |
 |   28 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
-|   29 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
-|   30 | Josh Trauner        |  16.0 |        14 |        +1.04 |               |
+|   29 | Josh Trauner        |  16.7 |        15 |        +1.74 |               |
+|   30 | Kent Daniels        |  16.6 |        69 |              |         +2.08 |
 |   31 | Jeff Gordon         |  15.9 |        18 |        -0.21 |               |
 |   32 | Subrato Dey         |  15.8 |        14 |              |               |
 |   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
-|   34 | Terry Chang         |  14.2 |        32 |              |         +3.45 |
+|   34 | Terry Chang         |  14.1 |        33 |        -0.14 |         +3.33 |
 |   35 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
 |   36 | Daniel Schwartz     |  11.6 |         8 |        -6.32 |               |
 |   37 | Antonio Garcia      |  11.4 |        20 |              |               |

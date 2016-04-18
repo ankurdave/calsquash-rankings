@@ -56,7 +56,7 @@ Generated 2016-04-17.
 |   52 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   54 | Charlie Weiss             |  24.3 |        70 |              |         +1.44 |
-|   55 | Saurabh Bajaj             |  24.2 |        12 |        +1.16 |               |
+|   55 | Saurabh Bajaj             |  24.2 |        12 |        +1.15 |               |
 |   56 | Adam Pollak               |  24.2 |        31 |              |               |
 |   57 | Toby Reiner               |  24.2 |       159 |              |               |
 |   58 | Nader Shoaibi             |  24.2 |        64 |              |               |
@@ -188,17 +188,17 @@ Generated 2016-04-17.
 |  184 | Darren Morgan             |  16.8 |        11 |              |               |
 |  185 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
 |  186 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  187 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  188 | Kent Daniels              |  16.6 |        69 |              |         +2.08 |
-|  189 | Michael Cianfrocco        |  16.5 |        18 |              |               |
-|  190 | Ben Ailes                 |  16.5 |        48 |              |               |
-|  191 | George Roche              |  16.3 |        14 |              |         +2.01 |
-|  192 | Anirudh Todi              |  16.2 |         3 |              |               |
-|  193 | Rich Shapiro              |  16.1 |        82 |              |               |
-|  194 | Troup Howard              |  16.1 |        34 |              |         +0.55 |
-|  195 | Andrew Green              |  16.1 |        52 |              |               |
-|  196 | Toni Queck                |  16.0 |        20 |              |               |
-|  197 | Josh Trauner              |  16.0 |        14 |        +1.04 |               |
+|  187 | Josh Trauner              |  16.7 |        15 |        +1.74 |               |
+|  188 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  189 | Kent Daniels              |  16.6 |        69 |              |         +2.08 |
+|  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
+|  191 | Ben Ailes                 |  16.5 |        48 |              |               |
+|  192 | George Roche              |  16.3 |        14 |              |         +2.01 |
+|  193 | Anirudh Todi              |  16.2 |         3 |              |               |
+|  194 | Rich Shapiro              |  16.1 |        82 |              |               |
+|  195 | Troup Howard              |  16.1 |        34 |              |         +0.55 |
+|  196 | Andrew Green              |  16.1 |        52 |              |               |
+|  197 | Toni Queck                |  16.0 |        20 |              |               |
 |  198 | Jeff Gordon               |  15.9 |        18 |        -0.21 |               |
 |  199 | Subrato Dey               |  15.8 |        14 |              |               |
 |  200 | Jaime Paterson            |  15.7 |         1 |              |               |
@@ -230,7 +230,7 @@ Generated 2016-04-17.
 |  226 | David Shabelman           |  14.4 |        30 |              |               |
 |  227 | Peter Dering              |  14.3 |         9 |              |               |
 |  228 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  229 | Terry Chang               |  14.2 |        32 |              |         +3.45 |
+|  229 | Terry Chang               |  14.1 |        33 |        -0.14 |         +3.33 |
 |  230 | Wesley Huang              |  14.0 |         8 |              |               |
 |  231 | Greg Adams                |  14.0 |        10 |              |               |
 |  232 | Vipul Singhvi             |  14.0 |         8 |              |               |
