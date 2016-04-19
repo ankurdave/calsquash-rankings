@@ -187,9 +187,9 @@ Generated 2016-04-18.
 |  183 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  184 | William Coleman           |  16.8 |        48 |              |               |
 |  185 | Darren Morgan             |  16.8 |        11 |              |               |
-|  186 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
-|  187 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  188 | Kent Daniels              |  16.7 |        70 |        +0.14 |         +2.22 |
+|  186 | Kent Daniels              |  16.8 |        71 |        +0.21 |         +2.29 |
+|  187 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
+|  188 | Viraj Paropkari           |  16.7 |        16 |              |               |
 |  189 | Dennis Dornan             |  16.6 |        12 |              |               |
 |  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  191 | Ben Ailes                 |  16.5 |        48 |              |               |
@@ -298,8 +298,8 @@ Generated 2016-04-18.
 |  294 | Jake Toy                  |   9.5 |         5 |              |               |
 |  295 | Kevin Fox                 |   9.5 |         7 |              |               |
 |  296 | Dominick Ng               |   9.5 |        25 |              |               |
-|  297 | Duo Wang                  |   9.4 |        53 |        -0.14 |         +2.16 |
-|  298 | Gene Zubovich             |   9.4 |        19 |              |         +0.27 |
+|  297 | Gene Zubovich             |   9.4 |        19 |              |         +0.27 |
+|  298 | Duo Wang                  |   9.4 |        54 |        -0.20 |         +2.11 |
 |  299 | Carlos Filho              |   9.2 |         7 |              |               |
 |  300 | David Elfant              |   9.1 |         2 |              |               |
 |  301 | Laura Dobbs               |   9.1 |        26 |              |         -0.50 |

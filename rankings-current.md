@@ -30,8 +30,8 @@ Generated 2016-04-18.
 |   26 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   27 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.90 |
 |   28 | Josh Trauner        |  16.9 |        16 |        +2.00 |               |
-|   29 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
-|   30 | Kent Daniels        |  16.7 |        70 |        +0.14 |         +2.22 |
+|   29 | Kent Daniels        |  16.8 |        71 |        +0.21 |         +2.29 |
+|   30 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
 |   31 | Jeff Gordon         |  15.9 |        18 |        -0.21 |               |
 |   32 | Subrato Dey         |  15.8 |        14 |              |               |
 |   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
@@ -42,7 +42,7 @@ Generated 2016-04-18.
 |   38 | Ankur Dave          |  11.2 |        29 |        +0.09 |               |
 |   39 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
 |   40 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
-|   41 | Duo Wang            |   9.4 |        53 |        -0.14 |         +2.16 |
+|   41 | Duo Wang            |   9.4 |        54 |        -0.20 |         +2.11 |
 |   42 | Brian Kempenich     |   7.9 |        27 |              |               |
 |   43 | Nate Aden           |   7.3 |         7 |        +1.25 |               |
 |   44 | Raphael Magarik     |   7.1 |         4 |        +2.65 |               |
