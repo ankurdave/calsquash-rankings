@@ -56,7 +56,7 @@ Generated 2016-04-18.
 |   52 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   54 | Charlie Weiss             |  24.3 |        70 |              |         +1.44 |
-|   55 | Saurabh Bajaj             |  24.2 |        12 |        +1.15 |               |
+|   55 | Saurabh Bajaj             |  24.2 |        12 |        +1.14 |               |
 |   56 | Adam Pollak               |  24.2 |        31 |              |               |
 |   57 | Toby Reiner               |  24.2 |       159 |              |               |
 |   58 | Nader Shoaibi             |  24.2 |        64 |              |               |
@@ -160,7 +160,7 @@ Generated 2016-04-18.
 |  156 | Himanshu Jatia            |  18.1 |         4 |              |               |
 |  157 | Anubhav Gupta             |  18.0 |         8 |              |               |
 |  158 | Andres Rodriguez          |  18.0 |        55 |              |         +0.57 |
-|  159 | Kenny Bell                |  17.9 |        99 |        -0.10 |         +0.89 |
+|  159 | Kenny Bell                |  17.9 |        99 |        -0.10 |         +0.90 |
 |  160 | Robert Geiger             |  17.8 |         8 |              |               |
 |  161 | Jim Evans                 |  17.8 |       216 |              |               |
 |  162 | Hari Dhavala              |  17.7 |        27 |              |               |
@@ -181,15 +181,15 @@ Generated 2016-04-18.
 |  177 | Joseph Farrell            |  17.0 |         8 |              |               |
 |  178 | Nacho Quaglio             |  17.0 |         3 |              |               |
 |  179 | Sebastien Biraud          |  17.0 |        60 |              |               |
-|  180 | Kedar Shah                |  16.9 |         9 |              |               |
-|  181 | Sarah Mcneil              |  16.9 |        24 |              |               |
-|  182 | Shwetabh Singh            |  16.9 |         6 |              |               |
-|  183 | William Coleman           |  16.8 |        48 |              |               |
-|  184 | Darren Morgan             |  16.8 |        11 |              |               |
-|  185 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
-|  186 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  187 | Kent Daniels              |  16.7 |        70 |        +0.14 |         +2.22 |
-|  188 | Josh Trauner              |  16.7 |        15 |        +1.74 |               |
+|  180 | Josh Trauner              |  16.9 |        16 |        +2.00 |               |
+|  181 | Kedar Shah                |  16.9 |         9 |              |               |
+|  182 | Sarah Mcneil              |  16.9 |        24 |              |               |
+|  183 | Shwetabh Singh            |  16.9 |         6 |              |               |
+|  184 | William Coleman           |  16.8 |        48 |              |               |
+|  185 | Darren Morgan             |  16.8 |        11 |              |               |
+|  186 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
+|  187 | Viraj Paropkari           |  16.7 |        16 |              |               |
+|  188 | Kent Daniels              |  16.7 |        70 |        +0.14 |         +2.22 |
 |  189 | Dennis Dornan             |  16.6 |        12 |              |               |
 |  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  191 | Ben Ailes                 |  16.5 |        48 |              |               |
@@ -230,7 +230,7 @@ Generated 2016-04-18.
 |  226 | David Shabelman           |  14.4 |        30 |              |               |
 |  227 | Peter Dering              |  14.3 |         9 |              |               |
 |  228 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  229 | Terry Chang               |  14.1 |        33 |        -0.14 |         +3.33 |
+|  229 | Terry Chang               |  14.1 |        33 |        -0.13 |         +3.33 |
 |  230 | Wesley Huang              |  14.0 |         8 |              |               |
 |  231 | Greg Adams                |  14.0 |        10 |              |               |
 |  232 | Vipul Singhvi             |  14.0 |         8 |              |               |
@@ -368,7 +368,7 @@ Generated 2016-04-18.
 |  364 | Anurag Gupta              |   4.7 |         6 |              |               |
 |  365 | Zsolt Bartha              |   4.5 |        41 |              |         -0.45 |
 |  366 | Greg Sperla               |   4.5 |         8 |              |               |
-|  367 | Wayne Heiser              |   4.4 |        11 |              |               |
+|  367 | Wayne Heiser              |   4.4 |        12 |              |               |
 |  368 | Mohammad Salama           |   4.2 |         5 |              |               |
 |  369 | Lewis H. Moore            |   4.0 |         8 |              |               |
 |  370 | Josephine Lee             |   3.9 |         6 |              |               |

@@ -12,7 +12,7 @@ Generated 2016-04-18.
 |    8 | Nick Cobbett        |  26.3 |        17 |              |               |
 |    9 | Ethan Kerr          |  26.2 |         7 |              |               |
 |   10 | Dan Meier           |  25.8 |        37 |        +0.70 |         +8.51 |
-|   11 | Saurabh Bajaj       |  24.2 |        12 |        +1.15 |               |
+|   11 | Saurabh Bajaj       |  24.2 |        12 |        +1.14 |               |
 |   12 | Mark Modera         |  24.1 |       294 |              |         -1.41 |
 |   13 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   14 | Reid Johnsen        |  23.5 |        15 |        +1.60 |         +7.62 |
@@ -28,14 +28,14 @@ Generated 2016-04-18.
 |   24 | Chris Flores        |  20.1 |       291 |        +0.28 |         -0.09 |
 |   25 | Eric Katerman       |  20.0 |         2 |              |               |
 |   26 | Sam Trachtman       |  18.5 |         5 |              |               |
-|   27 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.89 |
-|   28 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
-|   29 | Kent Daniels        |  16.7 |        70 |        +0.14 |         +2.22 |
-|   30 | Josh Trauner        |  16.7 |        15 |        +1.74 |               |
+|   27 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.90 |
+|   28 | Josh Trauner        |  16.9 |        16 |        +2.00 |               |
+|   29 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
+|   30 | Kent Daniels        |  16.7 |        70 |        +0.14 |         +2.22 |
 |   31 | Jeff Gordon         |  15.9 |        18 |        -0.21 |               |
 |   32 | Subrato Dey         |  15.8 |        14 |              |               |
 |   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
-|   34 | Terry Chang         |  14.1 |        33 |        -0.14 |         +3.33 |
+|   34 | Terry Chang         |  14.1 |        33 |        -0.13 |         +3.33 |
 |   35 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
 |   36 | Daniel Schwartz     |  11.6 |         8 |        -6.32 |               |
 |   37 | Antonio Garcia      |  11.4 |        20 |              |               |
@@ -48,7 +48,7 @@ Generated 2016-04-18.
 |   44 | Raphael Magarik     |   7.1 |         4 |        +2.65 |               |
 |   45 | Alok Singh          |   7.0 |         8 |        +4.76 |               |
 |   46 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
-|   47 | Wayne Heiser        |   4.4 |        11 |              |               |
+|   47 | Wayne Heiser        |   4.4 |        12 |              |               |
 |   48 | Josh Lebowitz       |   3.2 |        11 |        +0.46 |               |
 |   49 | Rodrigo Calmet      |   0.7 |         1 |              |               |
 |   50 | Keaton Noon         |   0.1 |         9 |        -0.08 |               |
