@@ -44,14 +44,14 @@ Generated 2016-04-19.
 |   40 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
 |   41 | Duo Wang            |   9.4 |        54 |        -0.20 |         +2.11 |
 |   42 | Brian Kempenich     |   7.9 |        27 |              |               |
-|   43 | Nate Aden           |   7.3 |         7 |        +1.25 |               |
-|   44 | Raphael Magarik     |   7.1 |         4 |        +2.65 |               |
-|   45 | Alok Singh          |   7.0 |         8 |        +4.76 |               |
+|   43 | Raphael Magarik     |   7.1 |         4 |        +2.65 |               |
+|   44 | Alok Singh          |   7.0 |         8 |        +4.76 |               |
+|   45 | Nate Aden           |   6.1 |         8 |        +0.05 |               |
 |   46 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
 |   47 | Wayne Heiser        |   4.4 |        12 |              |               |
 |   48 | Josh Lebowitz       |   3.2 |        11 |        +0.46 |               |
-|   49 | Rodrigo Calmet      |   0.7 |         1 |              |               |
-|   50 | Keaton Noon         |   0.1 |         9 |        -0.08 |               |
+|   49 | Keaton Noon         |   3.0 |        10 |        +2.87 |               |
+|   50 | Rodrigo Calmet      |   0.7 |         1 |              |               |
 |   51 | Sandra Harpster     |  -0.2 |         4 |              |               |
 |   52 | Marco Eres          |  -0.5 |         5 |              |               |
 |   53 | Ann Connolly        |  -2.0 |         2 |              |               |
