@@ -1,4 +1,4 @@
-Generated 2016-04-19.
+Generated 2016-04-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -63,15 +63,15 @@ Generated 2016-04-19.
 |   59 | Mark Modera               |  24.1 |       294 |              |         -1.41 |
 |   60 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   61 | Jon Shih                  |  24.0 |        47 |              |               |
-|   62 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   63 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   64 | Benjamin Vicuna           |  23.8 |        46 |              |         +7.84 |
-|   65 | Matt Waid                 |  23.8 |        51 |              |               |
-|   66 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   67 | Martin Stokes             |  23.8 |        12 |              |               |
-|   68 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   69 | Thomas Krussig            |  23.5 |        16 |              |         +0.79 |
-|   70 | Reid Johnsen              |  23.5 |        15 |        +1.60 |         +7.62 |
+|   62 | Reid Johnsen              |  24.0 |        16 |        +2.20 |         +8.21 |
+|   63 | Daniel Greengard          |  23.9 |        37 |              |               |
+|   64 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   65 | Benjamin Vicuna           |  23.8 |        46 |              |         +7.84 |
+|   66 | Matt Waid                 |  23.8 |        51 |              |               |
+|   67 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   68 | Martin Stokes             |  23.8 |        12 |              |               |
+|   69 | Todd Wirsching            |  23.7 |         8 |              |               |
+|   70 | Thomas Krussig            |  23.5 |        16 |              |         +0.79 |
 |   71 | Joe Farrell               |  23.4 |        30 |              |               |
 |   72 | Andrew Hsu                |  23.4 |        15 |              |               |
 |   73 | Jonathan Hankar           |  23.3 |       172 |        -0.05 |         +0.19 |
@@ -117,7 +117,7 @@ Generated 2016-04-19.
 |  113 | Matt Wild                 |  21.0 |        25 |              |         -0.61 |
 |  114 | Robert Jeng               |  20.9 |        26 |              |               |
 |  115 | Aaron Socha               |  20.9 |        24 |              |               |
-|  116 | Jonathan Francis          |  20.7 |        52 |              |         +1.20 |
+|  116 | Jonathan Francis          |  20.7 |        53 |        -0.04 |         +1.15 |
 |  117 | Omair Azam                |  20.6 |        18 |              |               |
 |  118 | Shaun Lim                 |  20.5 |        33 |        -0.71 |         +0.35 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
@@ -199,7 +199,7 @@ Generated 2016-04-19.
 |  195 | Troup Howard              |  16.1 |        34 |              |         +0.55 |
 |  196 | Andrew Green              |  16.1 |        52 |              |               |
 |  197 | Toni Queck                |  16.0 |        20 |              |               |
-|  198 | Jeff Gordon               |  15.9 |        18 |        -0.21 |               |
+|  198 | Jeff Gordon               |  15.9 |        18 |        -0.20 |               |
 |  199 | Subrato Dey               |  15.8 |        14 |              |               |
 |  200 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  201 | Jeff Bird                 |  15.7 |        38 |              |               |

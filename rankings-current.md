@@ -1,4 +1,4 @@
-Generated 2016-04-19.
+Generated 2016-04-20.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -14,15 +14,15 @@ Generated 2016-04-19.
 |   10 | Dan Meier           |  25.8 |        37 |        +0.70 |         +8.51 |
 |   11 | Saurabh Bajaj       |  24.2 |        12 |        +1.14 |               |
 |   12 | Mark Modera         |  24.1 |       294 |              |         -1.41 |
-|   13 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
-|   14 | Reid Johnsen        |  23.5 |        15 |        +1.60 |         +7.62 |
+|   13 | Reid Johnsen        |  24.0 |        16 |        +2.20 |         +8.21 |
+|   14 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   15 | Jonathan Hankar     |  23.3 |       172 |        -0.05 |         +0.19 |
 |   16 | Andrew Lawrie       |  23.2 |        45 |        -0.21 |         +7.95 |
 |   17 | Mike Jensen-Akula   |  22.9 |       206 |        +0.09 |         +0.08 |
 |   18 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
 |   19 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.42 |
 |   20 | Ronald Dahl         |  21.6 |        51 |        +0.07 |         -0.61 |
-|   21 | Jonathan Francis    |  20.7 |        52 |              |         +1.20 |
+|   21 | Jonathan Francis    |  20.7 |        53 |        -0.04 |         +1.15 |
 |   22 | Shaun Lim           |  20.5 |        33 |        -0.71 |         +0.35 |
 |   23 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
 |   24 | Chris Flores        |  20.1 |       291 |        +0.28 |         -0.09 |
@@ -32,7 +32,7 @@ Generated 2016-04-19.
 |   28 | Josh Trauner        |  16.9 |        16 |        +2.00 |               |
 |   29 | Kent Daniels        |  16.8 |        71 |        +0.21 |         +2.29 |
 |   30 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
-|   31 | Jeff Gordon         |  15.9 |        18 |        -0.21 |               |
+|   31 | Jeff Gordon         |  15.9 |        18 |        -0.20 |               |
 |   32 | Subrato Dey         |  15.8 |        14 |              |               |
 |   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
 |   34 | Terry Chang         |  14.1 |        33 |        -0.13 |         +3.33 |
