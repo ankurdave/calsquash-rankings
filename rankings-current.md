@@ -36,7 +36,7 @@ Generated 2016-04-20.
 |   32 | Subrato Dey         |  15.8 |        14 |              |               |
 |   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
 |   34 | Terry Chang         |  14.1 |        33 |        -0.13 |         +3.33 |
-|   35 | Reto Sutter         |  13.0 |        35 |              |         +1.85 |
+|   35 | Reto Sutter         |  13.1 |        36 |        +0.12 |         +1.97 |
 |   36 | Daniel Schwartz     |  11.6 |         8 |        -6.32 |               |
 |   37 | Antonio Garcia      |  11.4 |        20 |              |               |
 |   38 | Ankur Dave          |  11.2 |        29 |        +0.09 |               |
@@ -47,7 +47,7 @@ Generated 2016-04-20.
 |   43 | Raphael Magarik     |   7.1 |         4 |        +2.65 |               |
 |   44 | Alok Singh          |   7.0 |         8 |        +4.76 |               |
 |   45 | Nate Aden           |   6.1 |         8 |        +0.05 |               |
-|   46 | Zsolt Bartha        |   4.5 |        41 |              |         -0.45 |
+|   46 | Zsolt Bartha        |   4.5 |        42 |        -0.05 |         -0.48 |
 |   47 | Wayne Heiser        |   4.4 |        12 |              |               |
 |   48 | Josh Lebowitz       |   3.2 |        11 |        +0.46 |               |
 |   49 | Keaton Noon         |   3.0 |        10 |        +2.87 |               |

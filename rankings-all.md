@@ -245,10 +245,10 @@ Generated 2016-04-20.
 |  241 | Mimi Zhang                |  13.2 |         6 |              |               |
 |  242 | Alex Rennet               |  13.2 |         2 |              |               |
 |  243 | Adam Soliman              |  13.2 |        32 |              |               |
-|  244 | David Isaksson            |  13.1 |        22 |              |         +1.37 |
-|  245 | Steven Hahm               |  13.1 |         5 |              |               |
-|  246 | Gautam Tankha             |  13.0 |         7 |              |               |
-|  247 | Reto Sutter               |  13.0 |        35 |              |         +1.85 |
+|  244 | Reto Sutter               |  13.1 |        36 |        +0.12 |         +1.97 |
+|  245 | David Isaksson            |  13.1 |        22 |              |         +1.37 |
+|  246 | Steven Hahm               |  13.1 |         5 |              |               |
+|  247 | Gautam Tankha             |  13.0 |         7 |              |               |
 |  248 | Louis Russell             |  13.0 |        20 |              |               |
 |  249 | Sushant Jain              |  12.9 |        12 |              |               |
 |  250 | Akash Sharma              |  12.9 |         8 |              |         +2.98 |
@@ -366,8 +366,8 @@ Generated 2016-04-20.
 |  362 | Nikhil Srivastava         |   4.8 |        16 |              |               |
 |  363 | Vishnu Narayanan          |   4.7 |        12 |              |               |
 |  364 | Anurag Gupta              |   4.7 |         6 |              |               |
-|  365 | Zsolt Bartha              |   4.5 |        41 |              |         -0.45 |
-|  366 | Greg Sperla               |   4.5 |         8 |              |               |
+|  365 | Greg Sperla               |   4.5 |         8 |              |               |
+|  366 | Zsolt Bartha              |   4.5 |        42 |        -0.05 |         -0.48 |
 |  367 | Wayne Heiser              |   4.4 |        12 |              |               |
 |  368 | Mohammad Salama           |   4.2 |         5 |              |               |
 |  369 | Lewis H. Moore            |   4.0 |         8 |              |               |
