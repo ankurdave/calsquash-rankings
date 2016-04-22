@@ -21,11 +21,11 @@ Generated 2016-04-21.
 |   17 | Grant French              |  29.6 |       125 |              |               |
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
 |   19 | Louis Morrill             |  29.4 |        10 |              |               |
-|   20 | Jim Veitch                |  29.4 |       405 |        -0.03 |         +0.11 |
-|   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
+|   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
+|   21 | Jim Veitch                |  29.3 |       406 |        -0.14 |               |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
 |   23 | Rodrigo Cabral            |  28.7 |        29 |              |               |
-|   24 | Frank Kennamer            |  28.6 |       195 |              |         -0.10 |
+|   24 | Frank Kennamer            |  28.7 |       196 |        +0.12 |         +0.02 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.5 |       288 |        -0.03 |         -0.22 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
