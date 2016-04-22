@@ -37,15 +37,15 @@ Generated 2016-04-21.
 |   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
 |   34 | Terry Chang         |  14.1 |        33 |        -0.13 |         +3.33 |
 |   35 | Reto Sutter         |  13.1 |        36 |        +0.12 |         +1.97 |
-|   36 | Daniel Schwartz     |  11.6 |         8 |        -6.32 |               |
+|   36 | Raphael Magarik     |  12.9 |         5 |        +8.49 |               |
 |   37 | Antonio Garcia      |  11.4 |        20 |              |               |
 |   38 | Ankur Dave          |  11.2 |        29 |        +0.09 |               |
-|   39 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
-|   40 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
-|   41 | Duo Wang            |   9.4 |        54 |        -0.20 |         +2.11 |
-|   42 | Brian Kempenich     |   7.9 |        27 |              |               |
-|   43 | Raphael Magarik     |   7.1 |         4 |        +2.65 |               |
-|   44 | Alok Singh          |   7.0 |         8 |        +4.76 |               |
+|   39 | Daniel Schwartz     |  10.9 |         9 |        -7.06 |               |
+|   40 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
+|   41 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
+|   42 | Duo Wang            |   9.4 |        54 |        -0.20 |         +2.11 |
+|   43 | Brian Kempenich     |   7.9 |        27 |              |               |
+|   44 | Alok Singh          |   7.2 |         8 |        +4.97 |               |
 |   45 | Nate Aden           |   6.1 |         8 |        +0.05 |               |
 |   46 | Zsolt Bartha        |   4.5 |        42 |        -0.05 |         -0.48 |
 |   47 | Wayne Heiser        |   4.4 |        12 |              |               |
