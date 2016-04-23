@@ -30,16 +30,16 @@ Generated 2016-04-22.
 |   26 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   27 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.90 |
 |   28 | Josh Trauner        |  16.9 |        16 |        +2.00 |               |
-|   29 | Kent Daniels        |  16.8 |        71 |        +0.21 |         +2.29 |
-|   30 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
+|   29 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
+|   30 | Kent Daniels        |  16.5 |        72 |        -0.03 |         +2.05 |
 |   31 | Jeff Gordon         |  15.9 |        18 |        -0.20 |               |
 |   32 | Subrato Dey         |  15.8 |        14 |              |               |
 |   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
 |   34 | Terry Chang         |  14.1 |        33 |        -0.13 |         +3.33 |
 |   35 | Reto Sutter         |  13.1 |        36 |        +0.12 |         +1.97 |
 |   36 | Raphael Magarik     |  12.9 |         5 |        +8.49 |               |
-|   37 | Antonio Garcia      |  11.4 |        20 |              |               |
-|   38 | Ankur Dave          |  11.2 |        29 |        +0.09 |               |
+|   37 | Ankur Dave          |  11.9 |        30 |        +0.79 |               |
+|   38 | Antonio Garcia      |  11.4 |        20 |              |               |
 |   39 | Daniel Schwartz     |  10.9 |         9 |        -7.06 |               |
 |   40 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
 |   41 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |

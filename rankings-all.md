@@ -187,10 +187,10 @@ Generated 2016-04-22.
 |  183 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  184 | William Coleman           |  16.8 |        48 |              |               |
 |  185 | Darren Morgan             |  16.8 |        11 |              |               |
-|  186 | Kent Daniels              |  16.8 |        71 |        +0.21 |         +2.29 |
-|  187 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
-|  188 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  189 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  186 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
+|  187 | Viraj Paropkari           |  16.7 |        16 |              |               |
+|  188 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  189 | Kent Daniels              |  16.5 |        72 |        -0.03 |         +2.05 |
 |  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  191 | Ben Ailes                 |  16.5 |        48 |              |               |
 |  192 | George Roche              |  16.3 |        14 |              |         +2.01 |
@@ -264,15 +264,15 @@ Generated 2016-04-22.
 |  260 | Ansul Rajgha              |  12.3 |        15 |              |               |
 |  261 | Jan Strasky               |  12.3 |        12 |              |               |
 |  262 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
-|  263 | James Shinn               |  11.9 |       120 |              |               |
-|  264 | Jeff Dorman               |  11.7 |        14 |              |               |
-|  265 | Guillaume Egles           |  11.6 |        11 |              |               |
-|  266 | Mitchell O'Connell        |  11.6 |        32 |              |         +2.38 |
-|  267 | Carl Schreck              |  11.5 |         2 |              |               |
-|  268 | Antonio Garcia            |  11.4 |        20 |              |               |
-|  269 | Juliet Shih               |  11.3 |        11 |              |               |
-|  270 | Margaret Chapman          |  11.2 |         6 |              |               |
-|  271 | Ankur Dave                |  11.2 |        29 |        +0.09 |               |
+|  263 | Ankur Dave                |  11.9 |        30 |        +0.79 |               |
+|  264 | James Shinn               |  11.9 |       120 |              |               |
+|  265 | Jeff Dorman               |  11.7 |        14 |              |               |
+|  266 | Guillaume Egles           |  11.6 |        11 |              |               |
+|  267 | Mitchell O'Connell        |  11.6 |        32 |              |         +2.38 |
+|  268 | Carl Schreck              |  11.5 |         2 |              |               |
+|  269 | Antonio Garcia            |  11.4 |        20 |              |               |
+|  270 | Juliet Shih               |  11.3 |        11 |              |               |
+|  271 | Margaret Chapman          |  11.2 |         6 |              |               |
 |  272 | Charles Denby             |  11.2 |         5 |              |               |
 |  273 | Daniel Schwartz           |  10.9 |         9 |        -7.06 |               |
 |  274 | Khurram Mahmood           |  10.8 |         3 |              |               |
