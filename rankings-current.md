@@ -4,8 +4,8 @@ Generated 2016-04-22.
 |------|---------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler       |  43.0 |       207 |              |         +0.18 |
 |    2 | Rees Sweeney-Taylor |  36.9 |        77 |        +0.05 |         +1.41 |
-|    3 | Jim Veitch          |  29.3 |       406 |        -0.14 |               |
-|    4 | Frank Kennamer      |  28.7 |       196 |        +0.12 |         +0.02 |
+|    3 | Jim Veitch          |  29.3 |       406 |        -0.12 |         +0.02 |
+|    4 | Frank Kennamer      |  28.6 |       197 |        +0.02 |         -0.07 |
 |    5 | John Kunze          |  28.5 |       288 |        -0.03 |         -0.22 |
 |    6 | Arvind Muralimohan  |  28.1 |        15 |              |               |
 |    7 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
@@ -17,16 +17,16 @@ Generated 2016-04-22.
 |   13 | Reid Johnsen        |  24.0 |        16 |        +2.20 |         +8.21 |
 |   14 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   15 | Jonathan Hankar     |  23.3 |       172 |        -0.05 |         +0.19 |
-|   16 | Andrew Lawrie       |  23.2 |        45 |        -0.21 |         +7.95 |
-|   17 | Mike Jensen-Akula   |  22.9 |       206 |        +0.09 |         +0.08 |
-|   18 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
-|   19 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.42 |
-|   20 | Ronald Dahl         |  21.6 |        51 |        +0.07 |         -0.61 |
-|   21 | Jonathan Francis    |  20.7 |        53 |        -0.04 |         +1.15 |
-|   22 | Shaun Lim           |  20.5 |        33 |        -0.71 |         +0.35 |
-|   23 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
-|   24 | Chris Flores        |  20.1 |       291 |        +0.28 |         -0.09 |
-|   25 | Eric Katerman       |  20.0 |         2 |              |               |
+|   16 | Eric Katerman       |  23.3 |         3 |              |               |
+|   17 | Andrew Lawrie       |  23.2 |        45 |        -0.14 |         +8.03 |
+|   18 | Mike Jensen-Akula   |  22.9 |       206 |        +0.09 |         +0.08 |
+|   19 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
+|   20 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.42 |
+|   21 | Ronald Dahl         |  21.6 |        51 |        +0.07 |         -0.61 |
+|   22 | Jonathan Francis    |  20.7 |        53 |        -0.04 |         +1.15 |
+|   23 | Shaun Lim           |  20.5 |        33 |        -0.71 |         +0.35 |
+|   24 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
+|   25 | Chris Flores        |  20.1 |       291 |        +0.28 |         -0.09 |
 |   26 | Sam Trachtman       |  18.5 |         5 |              |               |
 |   27 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.90 |
 |   28 | Josh Trauner        |  16.9 |        16 |        +2.00 |               |
