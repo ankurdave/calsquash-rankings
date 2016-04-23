@@ -5,7 +5,7 @@ Generated 2016-04-22.
 |    1 | Ashley Kayler       |  43.0 |       207 |              |         +0.18 |
 |    2 | Rees Sweeney-Taylor |  36.9 |        77 |        +0.05 |         +1.41 |
 |    3 | Jim Veitch          |  29.3 |       406 |        -0.12 |         +0.02 |
-|    4 | Frank Kennamer      |  28.6 |       197 |        +0.02 |         -0.07 |
+|    4 | Frank Kennamer      |  28.7 |       198 |        +0.08 |         -0.02 |
 |    5 | John Kunze          |  28.5 |       288 |        -0.03 |         -0.22 |
 |    6 | Arvind Muralimohan  |  28.1 |        15 |              |               |
 |    7 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
@@ -18,7 +18,7 @@ Generated 2016-04-22.
 |   14 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
 |   15 | Jonathan Hankar     |  23.3 |       172 |        -0.05 |         +0.19 |
 |   16 | Eric Katerman       |  23.3 |         3 |              |               |
-|   17 | Andrew Lawrie       |  23.2 |        45 |        -0.14 |         +8.03 |
+|   17 | Andrew Lawrie       |  23.2 |        46 |        -0.22 |         +7.94 |
 |   18 | Mike Jensen-Akula   |  22.9 |       206 |        +0.09 |         +0.08 |
 |   19 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
 |   20 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.42 |

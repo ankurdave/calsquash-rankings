@@ -25,7 +25,7 @@ Generated 2016-04-22.
 |   21 | Jim Veitch                |  29.3 |       406 |        -0.12 |         +0.02 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
 |   23 | Rodrigo Cabral            |  28.7 |        29 |              |               |
-|   24 | Frank Kennamer            |  28.6 |       197 |        +0.02 |         -0.07 |
+|   24 | Frank Kennamer            |  28.7 |       198 |        +0.08 |         -0.02 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.5 |       288 |        -0.03 |         -0.22 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
@@ -79,8 +79,8 @@ Generated 2016-04-22.
 |   75 | Eric Katerman             |  23.3 |         3 |              |               |
 |   76 | Sushil Shetty             |  23.3 |        23 |              |               |
 |   77 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   78 | Andrew Lawrie             |  23.2 |        45 |        -0.14 |         +8.03 |
-|   79 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   78 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   79 | Andrew Lawrie             |  23.2 |        46 |        -0.22 |         +7.94 |
 |   80 | Jan Beranek               |  23.1 |        46 |              |               |
 |   81 | Gary Golding              |  23.1 |         6 |              |               |
 |   82 | Prakash Bathini           |  22.9 |       117 |              |         -0.40 |
