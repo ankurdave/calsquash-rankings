@@ -48,8 +48,8 @@ Generated 2016-04-25.
 |   44 | Ali Rahim                 |  26.2 |        24 |              |               |
 |   45 | Ethan Kerr                |  26.2 |         7 |              |               |
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
-|   47 | Ben Seelig                |  25.8 |        69 |              |               |
-|   48 | Dan Meier                 |  25.8 |        37 |        +0.70 |         +8.51 |
+|   47 | Dan Meier                 |  26.0 |        38 |        +0.94 |         +8.75 |
+|   48 | Ben Seelig                |  25.8 |        69 |              |               |
 |   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   50 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   51 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
@@ -66,10 +66,10 @@ Generated 2016-04-25.
 |   62 | Reid Johnsen              |  24.0 |        16 |        +2.20 |         +8.21 |
 |   63 | Daniel Greengard          |  23.9 |        37 |              |               |
 |   64 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   65 | Benjamin Vicuna           |  23.8 |        46 |              |         +7.84 |
-|   66 | Matt Waid                 |  23.8 |        51 |              |               |
-|   67 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   68 | Martin Stokes             |  23.8 |        12 |              |               |
+|   65 | Matt Waid                 |  23.8 |        51 |              |               |
+|   66 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   67 | Martin Stokes             |  23.8 |        12 |              |               |
+|   68 | Benjamin Vicuna           |  23.7 |        47 |        -0.13 |         +7.72 |
 |   69 | Todd Wirsching            |  23.7 |         8 |              |               |
 |   70 | Thomas Krussig            |  23.5 |        16 |              |         +0.79 |
 |   71 | Joe Farrell               |  23.4 |        30 |              |               |
@@ -89,7 +89,7 @@ Generated 2016-04-25.
 |   85 | Dante Popple              |  22.8 |        17 |              |               |
 |   86 | Jared Bard                |  22.7 |        18 |              |         +5.02 |
 |   87 | Adam Angsten              |  22.5 |         3 |              |               |
-|   88 | Matt Wong                 |  22.5 |        52 |        -0.10 |         +4.42 |
+|   88 | Matt Wong                 |  22.5 |        52 |        -0.10 |         +4.43 |
 |   89 | Richard Chan              |  22.5 |         9 |              |               |
 |   90 | Orion Hodson              |  22.5 |        31 |              |               |
 |   91 | Rahul Gupta               |  22.4 |         7 |              |               |

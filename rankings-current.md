@@ -11,17 +11,17 @@ Generated 2016-04-25.
 |    7 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
 |    8 | Nick Cobbett        |  26.3 |        18 |        -0.04 |               |
 |    9 | Ethan Kerr          |  26.2 |         7 |              |               |
-|   10 | Dan Meier           |  25.8 |        37 |        +0.70 |         +8.51 |
+|   10 | Dan Meier           |  26.0 |        38 |        +0.94 |         +8.75 |
 |   11 | Saurabh Bajaj       |  24.2 |        12 |        +1.14 |               |
 |   12 | Mark Modera         |  24.1 |       294 |              |         -1.41 |
 |   13 | Reid Johnsen        |  24.0 |        16 |        +2.20 |         +8.21 |
-|   14 | Benjamin Vicuna     |  23.8 |        46 |              |         +7.84 |
+|   14 | Benjamin Vicuna     |  23.7 |        47 |        -0.13 |         +7.72 |
 |   15 | Jonathan Hankar     |  23.3 |       172 |        -0.05 |         +0.19 |
 |   16 | Eric Katerman       |  23.3 |         3 |              |               |
 |   17 | Andrew Lawrie       |  23.2 |        46 |        -0.22 |         +7.94 |
 |   18 | Mike Jensen-Akula   |  22.9 |       206 |        +0.09 |         +0.08 |
 |   19 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
-|   20 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.42 |
+|   20 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.43 |
 |   21 | Ronald Dahl         |  21.6 |        51 |        +0.07 |         -0.61 |
 |   22 | Jonathan Francis    |  20.7 |        53 |        -0.04 |         +1.15 |
 |   23 | Shaun Lim           |  20.5 |        33 |        -0.71 |         +0.35 |
