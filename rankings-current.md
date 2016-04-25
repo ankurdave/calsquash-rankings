@@ -12,7 +12,7 @@ Generated 2016-04-25.
 |    8 | Nick Cobbett        |  26.3 |        18 |        -0.04 |               |
 |    9 | Ethan Kerr          |  26.2 |         7 |              |               |
 |   10 | Dan Meier           |  26.0 |        38 |        +0.94 |         +8.75 |
-|   11 | Saurabh Bajaj       |  24.2 |        12 |        +1.14 |               |
+|   11 | Saurabh Bajaj       |  24.2 |        12 |        +1.13 |               |
 |   12 | Mark Modera         |  24.1 |       294 |              |         -1.41 |
 |   13 | Reid Johnsen        |  24.0 |        16 |        +2.20 |         +8.21 |
 |   14 | Benjamin Vicuna     |  23.7 |        47 |        -0.13 |         +7.72 |
@@ -28,14 +28,14 @@ Generated 2016-04-25.
 |   24 | Jacob Kersey        |  20.2 |        14 |        -0.31 |               |
 |   25 | Chris Flores        |  20.1 |       291 |        +0.28 |         -0.09 |
 |   26 | Sam Trachtman       |  18.5 |         5 |              |               |
-|   27 | Kenny Bell          |  17.9 |        99 |        -0.10 |         +0.90 |
-|   28 | Josh Trauner        |  16.9 |        16 |        +2.00 |               |
+|   27 | Kenny Bell          |  18.0 |       100 |        +0.02 |         +1.02 |
+|   28 | Josh Trauner        |  16.9 |        16 |        +1.98 |               |
 |   29 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
 |   30 | Kent Daniels        |  16.5 |        72 |        -0.03 |         +2.05 |
 |   31 | Jeff Gordon         |  15.9 |        18 |        -0.20 |               |
 |   32 | Subrato Dey         |  15.8 |        14 |              |               |
 |   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
-|   34 | Terry Chang         |  14.1 |        33 |        -0.13 |         +3.33 |
+|   34 | Terry Chang         |  13.9 |        34 |        -0.33 |         +3.14 |
 |   35 | Reto Sutter         |  13.1 |        36 |        +0.12 |         +1.97 |
 |   36 | Raphael Magarik     |  12.9 |         5 |        +8.49 |               |
 |   37 | Ankur Dave          |  11.9 |        30 |        +0.79 |               |
