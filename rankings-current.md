@@ -31,19 +31,19 @@ Generated 2016-04-25.
 |   27 | Kenny Bell          |  18.0 |       100 |        +0.02 |         +1.02 |
 |   28 | Josh Trauner        |  16.9 |        16 |        +1.98 |               |
 |   29 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
-|   30 | Kent Daniels        |  16.5 |        72 |        -0.03 |         +2.05 |
+|   30 | Kent Daniels        |  16.5 |        72 |        -0.02 |         +2.06 |
 |   31 | Jeff Gordon         |  15.9 |        18 |        -0.20 |               |
 |   32 | Subrato Dey         |  15.8 |        14 |              |               |
 |   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
 |   34 | Terry Chang         |  13.9 |        34 |        -0.33 |         +3.14 |
 |   35 | Reto Sutter         |  13.1 |        36 |        +0.12 |         +1.97 |
 |   36 | Raphael Magarik     |  12.9 |         5 |        +8.49 |               |
-|   37 | Ankur Dave          |  11.9 |        30 |        +0.79 |               |
+|   37 | Ankur Dave          |  12.2 |        31 |        +1.09 |               |
 |   38 | Antonio Garcia      |  11.4 |        20 |              |               |
 |   39 | Daniel Schwartz     |  10.9 |         9 |        -7.06 |               |
 |   40 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
 |   41 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
-|   42 | Duo Wang            |   9.4 |        54 |        -0.20 |         +2.11 |
+|   42 | Duo Wang            |   9.2 |        55 |        -0.31 |         +1.99 |
 |   43 | Brian Kempenich     |   7.9 |        27 |              |               |
 |   44 | Alok Singh          |   7.2 |         8 |        +4.97 |               |
 |   45 | Nate Aden           |   6.1 |         8 |        +0.05 |               |

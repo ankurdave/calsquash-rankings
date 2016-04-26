@@ -190,7 +190,7 @@ Generated 2016-04-25.
 |  186 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
 |  187 | Viraj Paropkari           |  16.7 |        16 |              |               |
 |  188 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  189 | Kent Daniels              |  16.5 |        72 |        -0.03 |         +2.05 |
+|  189 | Kent Daniels              |  16.5 |        72 |        -0.02 |         +2.06 |
 |  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  191 | Ben Ailes                 |  16.5 |        48 |              |               |
 |  192 | George Roche              |  16.3 |        14 |              |         +2.01 |
@@ -263,8 +263,8 @@ Generated 2016-04-25.
 |  259 | Karan Jain                |  12.4 |        19 |              |         +5.64 |
 |  260 | Ansul Rajgha              |  12.3 |        15 |              |               |
 |  261 | Jan Strasky               |  12.3 |        12 |              |               |
-|  262 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
-|  263 | Ankur Dave                |  11.9 |        30 |        +0.79 |               |
+|  262 | Ankur Dave                |  12.2 |        31 |        +1.09 |               |
+|  263 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
 |  264 | James Shinn               |  11.9 |       120 |              |               |
 |  265 | Jeff Dorman               |  11.7 |        14 |              |               |
 |  266 | Guillaume Egles           |  11.6 |        11 |              |               |
@@ -300,7 +300,7 @@ Generated 2016-04-25.
 |  296 | Kevin Fox                 |   9.5 |         7 |              |               |
 |  297 | Dominick Ng               |   9.5 |        25 |              |               |
 |  298 | Gene Zubovich             |   9.4 |        19 |              |         +0.27 |
-|  299 | Duo Wang                  |   9.4 |        54 |        -0.20 |         +2.11 |
+|  299 | Duo Wang                  |   9.2 |        55 |        -0.31 |         +1.99 |
 |  300 | Carlos Filho              |   9.2 |         7 |              |               |
 |  301 | David Elfant              |   9.1 |         2 |              |               |
 |  302 | Laura Dobbs               |   9.1 |        26 |              |         -0.50 |
