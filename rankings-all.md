@@ -48,7 +48,7 @@ Generated 2016-04-25.
 |   44 | Ali Rahim                 |  26.2 |        24 |              |               |
 |   45 | Ethan Kerr                |  26.2 |         7 |              |               |
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
-|   47 | Dan Meier                 |  26.0 |        38 |        +0.94 |         +8.75 |
+|   47 | Dan Meier                 |  26.0 |        38 |        +0.96 |         +8.76 |
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
 |   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   50 | Mikael Rehn               |  25.4 |         5 |              |               |
@@ -59,25 +59,25 @@ Generated 2016-04-25.
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
 |   56 | Saurabh Bajaj             |  24.2 |        12 |        +1.13 |               |
 |   57 | Toby Reiner               |  24.2 |       159 |              |               |
-|   58 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   59 | Mark Modera               |  24.1 |       294 |              |         -1.41 |
-|   60 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
-|   61 | Jon Shih                  |  24.0 |        47 |              |               |
-|   62 | Reid Johnsen              |  24.0 |        16 |        +2.20 |         +8.21 |
-|   63 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   64 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   65 | Matt Waid                 |  23.8 |        51 |              |               |
-|   66 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   67 | Martin Stokes             |  23.8 |        12 |              |               |
-|   68 | Benjamin Vicuna           |  23.7 |        47 |        -0.13 |         +7.72 |
+|   58 | Benjamin Vicuna           |  24.2 |        49 |        +0.32 |         +8.17 |
+|   59 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   60 | Mark Modera               |  24.1 |       294 |              |         -1.41 |
+|   61 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
+|   62 | Jon Shih                  |  24.0 |        47 |              |               |
+|   63 | Reid Johnsen              |  24.0 |        16 |        +2.20 |         +8.21 |
+|   64 | Daniel Greengard          |  23.9 |        37 |              |               |
+|   65 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   66 | Matt Waid                 |  23.8 |        51 |              |               |
+|   67 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   68 | Martin Stokes             |  23.8 |        12 |              |               |
 |   69 | Todd Wirsching            |  23.7 |         8 |              |               |
 |   70 | Thomas Krussig            |  23.5 |        16 |              |         +0.79 |
 |   71 | Joe Farrell               |  23.4 |        30 |              |               |
 |   72 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   73 | Jonathan Hankar           |  23.3 |       172 |        -0.05 |         +0.19 |
-|   74 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   75 | Eric Katerman             |  23.3 |         3 |              |               |
-|   76 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   73 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   74 | Eric Katerman             |  23.3 |         3 |              |               |
+|   75 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   76 | Jonathan Hankar           |  23.3 |       173 |        -0.13 |         +0.11 |
 |   77 | Sonesh Surana             |  23.2 |        95 |              |               |
 |   78 | Mikey Zarem               |  23.2 |         8 |              |               |
 |   79 | Andrew Lawrie             |  23.2 |        46 |        -0.22 |         +7.94 |
@@ -123,8 +123,8 @@ Generated 2016-04-25.
 |  119 | Shaun Lim                 |  20.5 |        33 |        -0.71 |         +0.35 |
 |  120 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  121 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
-|  122 | Jacob Kersey              |  20.2 |        14 |        -0.31 |               |
-|  123 | Chris Flores              |  20.1 |       291 |        +0.28 |         -0.09 |
+|  122 | Chris Flores              |  20.1 |       291 |        +0.28 |         -0.09 |
+|  123 | Jacob Kersey              |  19.9 |        15 |        -0.67 |               |
 |  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +20.22 |
 |  125 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  126 | Christian Fuentes         |  19.7 |         8 |              |               |
