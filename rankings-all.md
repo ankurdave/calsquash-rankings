@@ -158,8 +158,8 @@ Generated 2016-04-28.
 |  154 | Jamie Funk                |  18.1 |        30 |              |               |
 |  155 | Lucas Cheon               |  18.1 |        19 |              |               |
 |  156 | Himanshu Jatia            |  18.1 |         4 |              |               |
-|  157 | Anubhav Gupta             |  18.0 |         8 |              |               |
-|  158 | Kenny Bell                |  18.0 |       100 |        +0.02 |         +1.02 |
+|  157 | Kenny Bell                |  18.0 |       101 |        +0.06 |         +1.06 |
+|  158 | Anubhav Gupta             |  18.0 |         8 |              |               |
 |  159 | Andres Rodriguez          |  18.0 |        55 |              |         +0.57 |
 |  160 | Robert Geiger             |  17.8 |         8 |              |               |
 |  161 | Jim Evans                 |  17.8 |       216 |              |               |
@@ -368,7 +368,7 @@ Generated 2016-04-28.
 |  364 | Anurag Gupta              |   4.7 |         6 |              |               |
 |  365 | Greg Sperla               |   4.5 |         8 |              |               |
 |  366 | Zsolt Bartha              |   4.5 |        42 |        -0.05 |         -0.48 |
-|  367 | Wayne Heiser              |   4.4 |        12 |              |               |
+|  367 | Wayne Heiser              |   4.4 |        13 |        -0.03 |               |
 |  368 | Mohammad Salama           |   4.2 |         5 |              |               |
 |  369 | Lewis H. Moore            |   4.0 |         8 |              |               |
 |  370 | Josephine Lee             |   3.9 |         6 |              |               |

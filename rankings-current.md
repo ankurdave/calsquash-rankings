@@ -28,7 +28,7 @@ Generated 2016-04-28.
 |   24 | Chris Flores        |  20.1 |       291 |        +0.28 |         -0.09 |
 |   25 | Jacob Kersey        |  19.9 |        15 |        -0.67 |               |
 |   26 | Sam Trachtman       |  18.5 |         5 |              |               |
-|   27 | Kenny Bell          |  18.0 |       100 |        +0.02 |         +1.02 |
+|   27 | Kenny Bell          |  18.0 |       101 |        +0.06 |         +1.06 |
 |   28 | Josh Trauner        |  16.9 |        16 |        +1.98 |               |
 |   29 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
 |   30 | Kent Daniels        |  16.5 |        72 |        -0.02 |         +2.06 |
@@ -48,7 +48,7 @@ Generated 2016-04-28.
 |   44 | Alok Singh          |   7.2 |         8 |        +4.97 |               |
 |   45 | Nate Aden           |   6.1 |         8 |        +0.05 |               |
 |   46 | Zsolt Bartha        |   4.5 |        42 |        -0.05 |         -0.48 |
-|   47 | Wayne Heiser        |   4.4 |        12 |              |               |
+|   47 | Wayne Heiser        |   4.4 |        13 |        -0.03 |               |
 |   48 | Josh Lebowitz       |   3.2 |        11 |        +0.46 |               |
 |   49 | Keaton Noon         |   3.0 |        10 |        +2.87 |               |
 |   50 | Rodrigo Calmet      |   0.7 |         1 |              |               |
