@@ -27,7 +27,7 @@ Generated 2016-04-27.
 |   23 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   24 | Frank Kennamer            |  28.7 |       198 |        +0.08 |         -0.02 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   26 | John Kunze                |  28.5 |       288 |        -0.03 |         -0.22 |
+|   26 | John Kunze                |  28.4 |       289 |        -0.11 |         -0.29 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
 |   29 | Arvind Muralimohan        |  28.1 |        15 |              |               |
@@ -38,13 +38,13 @@ Generated 2016-04-27.
 |   34 | Vishi                     |  27.8 |        37 |              |         +0.67 |
 |   35 | Heba Nossier              |  27.6 |        14 |              |         +5.87 |
 |   36 | Hussain Raza              |  27.3 |        50 |              |               |
-|   37 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |
-|   38 | Stephen Dang              |  26.8 |        34 |              |               |
-|   39 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
-|   40 | Ignacio Canals            |  26.7 |        21 |              |               |
-|   41 | Nauman Sardar             |  26.6 |        40 |              |               |
-|   42 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
-|   43 | Nick Cobbett              |  26.3 |        18 |        -0.05 |               |
+|   37 | Nick Cobbett              |  27.0 |        19 |        +0.62 |               |
+|   38 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |
+|   39 | Stephen Dang              |  26.8 |        34 |              |               |
+|   40 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
+|   41 | Ignacio Canals            |  26.7 |        21 |              |               |
+|   42 | Nauman Sardar             |  26.6 |        40 |              |               |
+|   43 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
 |   44 | Ali Rahim                 |  26.2 |        24 |              |               |
 |   45 | Ethan Kerr                |  26.2 |         7 |              |               |
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
