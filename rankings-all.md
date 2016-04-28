@@ -57,14 +57,14 @@ Generated 2016-04-28.
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   54 | Charlie Weiss             |  24.3 |        70 |              |         +1.44 |
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
-|   56 | Saurabh Bajaj             |  24.2 |        12 |        +1.13 |               |
-|   57 | Toby Reiner               |  24.2 |       159 |              |               |
-|   58 | Benjamin Vicuna           |  24.2 |        49 |        +0.32 |         +8.17 |
-|   59 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   60 | Mark Modera               |  24.1 |       294 |              |         -1.41 |
+|   56 | Mark Modera               |  24.2 |       295 |        +0.07 |         -1.34 |
+|   57 | Saurabh Bajaj             |  24.2 |        12 |        +1.13 |               |
+|   58 | Toby Reiner               |  24.2 |       159 |              |               |
+|   59 | Benjamin Vicuna           |  24.2 |        49 |        +0.32 |         +8.17 |
+|   60 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   61 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   62 | Jon Shih                  |  24.0 |        47 |              |               |
-|   63 | Reid Johnsen              |  24.0 |        16 |        +2.20 |         +8.21 |
+|   63 | Reid Johnsen              |  24.0 |        16 |        +2.19 |         +8.20 |
 |   64 | Daniel Greengard          |  23.9 |        37 |              |               |
 |   65 | Ivo Plsek                 |  23.9 |        60 |              |               |
 |   66 | Matt Waid                 |  23.8 |        51 |              |               |
@@ -118,8 +118,8 @@ Generated 2016-04-28.
 |  114 | Matt Wild                 |  21.0 |        25 |              |         -0.61 |
 |  115 | Robert Jeng               |  20.9 |        26 |              |               |
 |  116 | Aaron Socha               |  20.9 |        24 |              |               |
-|  117 | Jonathan Francis          |  20.7 |        53 |        -0.04 |         +1.15 |
-|  118 | Omair Azam                |  20.6 |        18 |              |               |
+|  117 | Omair Azam                |  20.6 |        18 |              |               |
+|  118 | Jonathan Francis          |  20.5 |        54 |        -0.16 |         +1.03 |
 |  119 | Shaun Lim                 |  20.5 |        33 |        -0.71 |         +0.35 |
 |  120 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  121 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
