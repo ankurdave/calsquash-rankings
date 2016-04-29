@@ -19,8 +19,8 @@ Generated 2016-04-29.
 |   15 | Eric Katerman       |  23.3 |         3 |              |               |
 |   16 | Jonathan Hankar     |  23.3 |       173 |        -0.13 |         +0.11 |
 |   17 | Andrew Lawrie       |  23.2 |        46 |        -0.22 |         +7.94 |
-|   18 | Mike Jensen-Akula   |  22.9 |       206 |        +0.09 |         +0.08 |
-|   19 | Jared Bard          |  22.7 |        18 |              |         +5.02 |
+|   18 | Jared Bard          |  23.1 |        19 |        +0.46 |         +5.48 |
+|   19 | Mike Jensen-Akula   |  22.9 |       206 |        +0.09 |         +0.08 |
 |   20 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.43 |
 |   21 | Ronald Dahl         |  21.6 |        51 |        +0.07 |         -0.61 |
 |   22 | Jonathan Francis    |  20.5 |        54 |        -0.16 |         +1.03 |
@@ -33,7 +33,7 @@ Generated 2016-04-29.
 |   29 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
 |   30 | Kent Daniels        |  16.5 |        72 |        -0.02 |         +2.06 |
 |   31 | Jeff Gordon         |  15.9 |        18 |        -0.20 |               |
-|   32 | Subrato Dey         |  15.8 |        14 |              |               |
+|   32 | Subrato Dey         |  15.8 |        15 |        -0.05 |               |
 |   33 | Rupert Myers        |  15.2 |        25 |        +1.20 |               |
 |   34 | Terry Chang         |  13.9 |        34 |        -0.33 |         +3.14 |
 |   35 | Reto Sutter         |  13.1 |        36 |        +0.12 |         +1.97 |

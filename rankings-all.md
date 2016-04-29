@@ -81,13 +81,13 @@ Generated 2016-04-29.
 |   77 | Sonesh Surana             |  23.2 |        95 |              |               |
 |   78 | Mikey Zarem               |  23.2 |         8 |              |               |
 |   79 | Andrew Lawrie             |  23.2 |        46 |        -0.22 |         +7.94 |
-|   80 | Jan Beranek               |  23.1 |        46 |              |               |
-|   81 | Gary Golding              |  23.1 |         6 |              |               |
-|   82 | Prakash Bathini           |  22.9 |       117 |              |         -0.40 |
-|   83 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   84 | Mike Jensen-Akula         |  22.9 |       206 |        +0.09 |         +0.08 |
-|   85 | Dante Popple              |  22.8 |        17 |              |               |
-|   86 | Jared Bard                |  22.7 |        18 |              |         +5.02 |
+|   80 | Jared Bard                |  23.1 |        19 |        +0.46 |         +5.48 |
+|   81 | Jan Beranek               |  23.1 |        46 |              |               |
+|   82 | Gary Golding              |  23.1 |         6 |              |               |
+|   83 | Prakash Bathini           |  22.9 |       117 |              |         -0.40 |
+|   84 | Alex Jermyn               |  22.9 |         3 |              |               |
+|   85 | Mike Jensen-Akula         |  22.9 |       206 |        +0.09 |         +0.08 |
+|   86 | Dante Popple              |  22.8 |        17 |              |               |
 |   87 | Adam Angsten              |  22.5 |         3 |              |               |
 |   88 | Matt Wong                 |  22.5 |        52 |        -0.10 |         +4.43 |
 |   89 | Richard Chan              |  22.5 |         9 |              |               |
@@ -200,7 +200,7 @@ Generated 2016-04-29.
 |  196 | Andrew Green              |  16.1 |        52 |              |               |
 |  197 | Toni Queck                |  16.0 |        20 |              |               |
 |  198 | Jeff Gordon               |  15.9 |        18 |        -0.20 |               |
-|  199 | Subrato Dey               |  15.8 |        14 |              |               |
+|  199 | Subrato Dey               |  15.8 |        15 |        -0.05 |               |
 |  200 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  201 | Jeff Bird                 |  15.7 |        38 |              |               |
 |  202 | Casey Harelson            |  15.7 |        20 |              |               |
