@@ -2,9 +2,9 @@ Generated 2016-04-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  43.1 |       208 |        +0.09 |         +0.26 |
+|    1 | Ashley Kayler             |  43.1 |       208 |        +0.09 |         +0.27 |
 |    2 | Paul Valiant              |  37.3 |        63 |              |               |
-|    3 | Rees Sweeney-Taylor       |  36.9 |        79 |        +0.06 |         +1.42 |
+|    3 | Rees Sweeney-Taylor       |  37.1 |        80 |        +0.19 |         +1.55 |
 |    4 | Dominic Gaffney           |  36.5 |        54 |              |               |
 |    5 | Tanu Sankalia             |  36.2 |        94 |              |               |
 |    6 | Thomas Lowish             |  35.9 |         6 |              |         +1.48 |
@@ -30,15 +30,15 @@ Generated 2016-04-28.
 |   26 | John Kunze                |  28.4 |       289 |        -0.11 |         -0.29 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
-|   29 | Arvind Muralimohan        |  28.1 |        15 |              |               |
-|   30 | Michael Best              |  28.1 |        21 |              |               |
-|   31 | Jehan Engineer            |  28.0 |         9 |              |               |
+|   29 | Michael Best              |  28.1 |        21 |              |               |
+|   30 | Jehan Engineer            |  28.0 |         9 |              |               |
+|   31 | Arvind Muralimohan        |  27.9 |        16 |        -0.13 |               |
 |   32 | Samer Shehata             |  27.8 |        29 |              |               |
 |   33 | Andrew Moylan             |  27.8 |        95 |              |               |
 |   34 | Vishi                     |  27.8 |        37 |              |         +0.67 |
 |   35 | Heba Nossier              |  27.6 |        14 |              |         +5.87 |
 |   36 | Hussain Raza              |  27.3 |        50 |              |               |
-|   37 | Nick Cobbett              |  27.0 |        19 |        +0.62 |               |
+|   37 | Nick Cobbett              |  27.0 |        19 |        +0.63 |               |
 |   38 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |
 |   39 | Stephen Dang              |  26.8 |        34 |              |               |
 |   40 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
