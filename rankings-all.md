@@ -189,8 +189,8 @@ Generated 2016-04-29.
 |  185 | Darren Morgan             |  16.8 |        11 |              |               |
 |  186 | Eric Borden               |  16.8 |        18 |        +0.23 |               |
 |  187 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  188 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  189 | Kent Daniels              |  16.5 |        72 |        -0.02 |         +2.06 |
+|  188 | Kent Daniels              |  16.6 |        73 |        +0.05 |         +2.13 |
+|  189 | Dennis Dornan             |  16.6 |        12 |              |               |
 |  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  191 | Ben Ailes                 |  16.5 |        48 |              |               |
 |  192 | George Roche              |  16.3 |        14 |              |         +2.01 |
@@ -212,12 +212,12 @@ Generated 2016-04-29.
 |  208 | Chris Harrelson           |  15.2 |        47 |              |               |
 |  209 | Tuyen Le                  |  15.2 |         5 |              |               |
 |  210 | Narayan Sankaran          |  15.2 |        24 |              |               |
-|  211 | Rupert Myers              |  15.2 |        25 |        +1.20 |               |
-|  212 | Matthew Brett             |  15.1 |        20 |              |               |
-|  213 | Kedar Viswanathan         |  15.1 |        16 |              |               |
-|  214 | Alex Marqusee             |  15.1 |        28 |              |         +1.50 |
-|  215 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
-|  216 | Liam King                 |  15.0 |         6 |              |               |
+|  211 | Matthew Brett             |  15.1 |        20 |              |               |
+|  212 | Kedar Viswanathan         |  15.1 |        16 |              |               |
+|  213 | Alex Marqusee             |  15.1 |        28 |              |         +1.50 |
+|  214 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
+|  215 | Liam King                 |  15.0 |         6 |              |               |
+|  216 | Rupert Myers              |  15.0 |        25 |        +1.05 |               |
 |  217 | Peter Duerr               |  15.0 |        24 |              |               |
 |  218 | Jayanth Kannan            |  15.0 |        20 |              |               |
 |  219 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
@@ -263,7 +263,7 @@ Generated 2016-04-29.
 |  259 | Karan Jain                |  12.4 |        19 |              |         +5.64 |
 |  260 | Ansul Rajgha              |  12.3 |        15 |              |               |
 |  261 | Jan Strasky               |  12.3 |        12 |              |               |
-|  262 | Ankur Dave                |  12.2 |        31 |        +1.09 |               |
+|  262 | Ankur Dave                |  12.2 |        31 |        +1.08 |               |
 |  263 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
 |  264 | James Shinn               |  11.9 |       120 |              |               |
 |  265 | Jeff Dorman               |  11.7 |        14 |              |               |
@@ -300,7 +300,7 @@ Generated 2016-04-29.
 |  296 | Kevin Fox                 |   9.5 |         7 |              |               |
 |  297 | Dominick Ng               |   9.5 |        25 |              |               |
 |  298 | Gene Zubovich             |   9.4 |        19 |              |         +0.27 |
-|  299 | Duo Wang                  |   9.2 |        55 |        -0.31 |         +1.99 |
+|  299 | Duo Wang                  |   9.2 |        55 |        -0.31 |         +2.00 |
 |  300 | Carlos Filho              |   9.2 |         7 |              |               |
 |  301 | David Elfant              |   9.1 |         2 |              |               |
 |  302 | Laura Dobbs               |   9.1 |        26 |              |         -0.50 |
@@ -346,7 +346,7 @@ Generated 2016-04-29.
 |  342 | Jules Bowie               |   6.4 |        12 |              |               |
 |  343 | Arno Ferguson             |   6.4 |         1 |              |               |
 |  344 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  345 | Nate Aden                 |   6.1 |         8 |        +0.05 |               |
+|  345 | Nate Aden                 |   6.1 |         8 |        -0.02 |               |
 |  346 | John Coates               |   6.1 |         9 |              |               |
 |  347 | John Givens               |   5.8 |        13 |              |               |
 |  348 | Phil Hartmeyer            |   5.6 |         3 |              |               |
@@ -381,7 +381,7 @@ Generated 2016-04-29.
 |  377 | Alex Walters              |   3.2 |         3 |              |               |
 |  378 | Catherine Wang            |   3.2 |        10 |              |               |
 |  379 | Josh Lebowitz             |   3.2 |        11 |        +0.46 |               |
-|  380 | Keaton Noon               |   3.0 |        10 |        +2.87 |               |
+|  380 | Keaton Noon               |   3.1 |        11 |        +2.94 |               |
 |  381 | Vito Sciaraffia           |   3.0 |         5 |              |               |
 |  382 | Richard Fabini            |   2.7 |         3 |              |               |
 |  383 | Martin Rasmussen          |   2.5 |         6 |              |               |
