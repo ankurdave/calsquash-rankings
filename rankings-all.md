@@ -55,12 +55,12 @@ Generated 2016-04-30.
 |   51 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
 |   52 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
-|   54 | Charlie Weiss             |  24.3 |        70 |              |         +1.44 |
-|   55 | Adam Pollak               |  24.2 |        31 |              |               |
-|   56 | Saurabh Bajaj             |  24.2 |        12 |        +1.13 |               |
-|   57 | Mark Modera               |  24.2 |       295 |        +0.07 |         -1.35 |
-|   58 | Toby Reiner               |  24.2 |       159 |              |               |
-|   59 | Benjamin Vicuna           |  24.2 |        49 |        +0.32 |         +8.17 |
+|   54 | Benjamin Vicuna           |  24.4 |        50 |        +0.53 |         +8.37 |
+|   55 | Charlie Weiss             |  24.3 |        70 |              |         +1.44 |
+|   56 | Adam Pollak               |  24.2 |        31 |              |               |
+|   57 | Saurabh Bajaj             |  24.2 |        12 |        +1.13 |               |
+|   58 | Mark Modera               |  24.2 |       295 |        +0.07 |         -1.35 |
+|   59 | Toby Reiner               |  24.2 |       159 |              |               |
 |   60 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   61 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   62 | Jon Shih                  |  24.0 |        47 |              |               |
@@ -89,10 +89,10 @@ Generated 2016-04-30.
 |   85 | Mike Jensen-Akula         |  22.9 |       206 |        +0.09 |         +0.08 |
 |   86 | Dante Popple              |  22.8 |        17 |              |               |
 |   87 | Adam Angsten              |  22.5 |         3 |              |               |
-|   88 | Matt Wong                 |  22.5 |        52 |        -0.10 |         +4.43 |
-|   89 | Richard Chan              |  22.5 |         9 |              |               |
-|   90 | Orion Hodson              |  22.5 |        31 |              |               |
-|   91 | Rahul Gupta               |  22.4 |         7 |              |               |
+|   88 | Richard Chan              |  22.5 |         9 |              |               |
+|   89 | Orion Hodson              |  22.5 |        31 |              |               |
+|   90 | Rahul Gupta               |  22.4 |         7 |              |               |
+|   91 | Matt Wong                 |  22.4 |        53 |        -0.23 |         +4.30 |
 |   92 | Lyle Fearnley             |  22.3 |        30 |              |               |
 |   93 | Peter McDermott           |  22.3 |        10 |              |               |
 |   94 | Paul Greene               |  22.1 |         8 |              |               |
@@ -124,7 +124,7 @@ Generated 2016-04-30.
 |  120 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  121 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
 |  122 | Chris Flores              |  20.1 |       291 |        +0.28 |         -0.09 |
-|  123 | Jacob Kersey              |  19.9 |        15 |        -0.67 |               |
+|  123 | Jacob Kersey              |  19.9 |        15 |        -0.66 |               |
 |  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +20.22 |
 |  125 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  126 | Christian Fuentes         |  19.7 |         8 |              |               |
