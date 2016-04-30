@@ -57,14 +57,14 @@ Generated 2016-04-30.
 |   53 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   54 | Charlie Weiss             |  24.3 |        70 |              |         +1.44 |
 |   55 | Adam Pollak               |  24.2 |        31 |              |               |
-|   56 | Mark Modera               |  24.2 |       295 |        +0.07 |         -1.34 |
-|   57 | Saurabh Bajaj             |  24.2 |        12 |        +1.13 |               |
+|   56 | Saurabh Bajaj             |  24.2 |        12 |        +1.13 |               |
+|   57 | Mark Modera               |  24.2 |       295 |        +0.07 |         -1.35 |
 |   58 | Toby Reiner               |  24.2 |       159 |              |               |
 |   59 | Benjamin Vicuna           |  24.2 |        49 |        +0.32 |         +8.17 |
 |   60 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   61 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   62 | Jon Shih                  |  24.0 |        47 |              |               |
-|   63 | Reid Johnsen              |  24.0 |        16 |        +2.19 |         +8.20 |
+|   63 | Reid Johnsen              |  24.0 |        16 |        +2.17 |         +8.18 |
 |   64 | Daniel Greengard          |  23.9 |        37 |              |               |
 |   65 | Ivo Plsek                 |  23.9 |        60 |              |               |
 |   66 | Matt Waid                 |  23.8 |        51 |              |               |
@@ -118,8 +118,8 @@ Generated 2016-04-30.
 |  114 | Matt Wild                 |  21.0 |        25 |              |         -0.61 |
 |  115 | Robert Jeng               |  20.9 |        26 |              |               |
 |  116 | Aaron Socha               |  20.9 |        24 |              |               |
-|  117 | Omair Azam                |  20.6 |        18 |              |               |
-|  118 | Jonathan Francis          |  20.5 |        54 |        -0.16 |         +1.03 |
+|  117 | Jonathan Francis          |  20.7 |        55 |        +0.04 |         +1.24 |
+|  118 | Omair Azam                |  20.6 |        18 |              |               |
 |  119 | Shaun Lim                 |  20.5 |        33 |        -0.71 |         +0.35 |
 |  120 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  121 | Dror Matalon              |  20.3 |       334 |              |         -0.72 |
@@ -199,12 +199,12 @@ Generated 2016-04-30.
 |  195 | Troup Howard              |  16.1 |        34 |              |         +0.55 |
 |  196 | Andrew Green              |  16.1 |        52 |              |               |
 |  197 | Toni Queck                |  16.0 |        20 |              |               |
-|  198 | Jeff Gordon               |  15.9 |        18 |        -0.20 |               |
-|  199 | Subrato Dey               |  15.8 |        15 |        -0.05 |               |
-|  200 | Jaime Paterson            |  15.7 |         1 |              |               |
-|  201 | Jeff Bird                 |  15.7 |        38 |              |               |
-|  202 | Casey Harelson            |  15.7 |        20 |              |               |
-|  203 | Nick Paget                |  15.6 |        35 |              |               |
+|  198 | Subrato Dey               |  15.8 |        15 |        -0.05 |               |
+|  199 | Jaime Paterson            |  15.7 |         1 |              |               |
+|  200 | Jeff Bird                 |  15.7 |        38 |              |               |
+|  201 | Casey Harelson            |  15.7 |        20 |              |               |
+|  202 | Nick Paget                |  15.6 |        35 |              |               |
+|  203 | Jeff Gordon               |  15.6 |        19 |        -0.44 |               |
 |  204 | Allan Dafoe               |  15.5 |        43 |              |               |
 |  205 | David Bratt               |  15.4 |        16 |              |         +3.38 |
 |  206 | Doug Kreutzer             |  15.3 |        10 |              |               |

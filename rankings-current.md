@@ -12,10 +12,10 @@ Generated 2016-04-30.
 |    8 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
 |    9 | Ethan Kerr          |  26.2 |         7 |              |               |
 |   10 | Dan Meier           |  26.0 |        38 |        +0.96 |         +8.76 |
-|   11 | Mark Modera         |  24.2 |       295 |        +0.07 |         -1.34 |
-|   12 | Saurabh Bajaj       |  24.2 |        12 |        +1.13 |               |
+|   11 | Saurabh Bajaj       |  24.2 |        12 |        +1.13 |               |
+|   12 | Mark Modera         |  24.2 |       295 |        +0.07 |         -1.35 |
 |   13 | Benjamin Vicuna     |  24.2 |        49 |        +0.32 |         +8.17 |
-|   14 | Reid Johnsen        |  24.0 |        16 |        +2.19 |         +8.20 |
+|   14 | Reid Johnsen        |  24.0 |        16 |        +2.17 |         +8.18 |
 |   15 | Eric Katerman       |  23.3 |         3 |              |               |
 |   16 | Jonathan Hankar     |  23.3 |       173 |        -0.13 |         +0.11 |
 |   17 | Andrew Lawrie       |  23.2 |        46 |        -0.22 |         +7.94 |
@@ -23,7 +23,7 @@ Generated 2016-04-30.
 |   19 | Mike Jensen-Akula   |  22.9 |       206 |        +0.09 |         +0.08 |
 |   20 | Matt Wong           |  22.5 |        52 |        -0.10 |         +4.43 |
 |   21 | Ronald Dahl         |  21.6 |        51 |        +0.07 |         -0.61 |
-|   22 | Jonathan Francis    |  20.5 |        54 |        -0.16 |         +1.03 |
+|   22 | Jonathan Francis    |  20.7 |        55 |        +0.04 |         +1.24 |
 |   23 | Shaun Lim           |  20.5 |        33 |        -0.71 |         +0.35 |
 |   24 | Chris Flores        |  20.1 |       291 |        +0.28 |         -0.09 |
 |   25 | Jacob Kersey        |  19.9 |        15 |        -0.67 |               |
@@ -32,8 +32,8 @@ Generated 2016-04-30.
 |   28 | Josh Trauner        |  16.9 |        16 |        +1.98 |               |
 |   29 | Eric Borden         |  16.8 |        18 |        +0.23 |               |
 |   30 | Kent Daniels        |  16.6 |        73 |        +0.05 |         +2.13 |
-|   31 | Jeff Gordon         |  15.9 |        18 |        -0.20 |               |
-|   32 | Subrato Dey         |  15.8 |        15 |        -0.05 |               |
+|   31 | Subrato Dey         |  15.8 |        15 |        -0.05 |               |
+|   32 | Jeff Gordon         |  15.6 |        19 |        -0.44 |               |
 |   33 | Rupert Myers        |  15.0 |        25 |        +1.05 |               |
 |   34 | Terry Chang         |  13.9 |        34 |        -0.33 |         +3.14 |
 |   35 | Reto Sutter         |  13.1 |        36 |        +0.12 |         +1.97 |
