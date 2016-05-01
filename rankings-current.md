@@ -51,9 +51,9 @@ Generated 2016-05-01.
 |   47 | Wayne Heiser        |   4.4 |        13 |        -0.03 |               |
 |   48 | Josh Lebowitz       |   3.2 |        11 |        +0.46 |               |
 |   49 | Keaton Noon         |   3.1 |        11 |        +2.94 |               |
-|   50 | Rodrigo Calmet      |   0.7 |         1 |              |               |
-|   51 | Sandra Harpster     |  -0.2 |         4 |              |               |
+|   50 | Sandra Harpster     |   2.4 |         5 |        +2.57 |               |
+|   51 | Rodrigo Calmet      |   0.7 |         1 |              |               |
 |   52 | Marco Eres          |  -0.5 |         5 |              |               |
-|   53 | Ann Connolly        |  -2.4 |         3 |        -0.44 |         -0.44 |
+|   53 | Ann Connolly        |  -2.8 |         4 |        -0.78 |         -0.78 |
 |   54 | Shantanu Mittal     |  -2.9 |         3 |        +0.49 |               |
 |   55 | Padma Maitland      |  -5.4 |         4 |              |               |
