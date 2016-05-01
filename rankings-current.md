@@ -44,7 +44,7 @@ Generated 2016-05-01.
 |   40 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
 |   41 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
 |   42 | Duo Wang            |   9.2 |        55 |        -0.31 |         +2.00 |
-|   43 | Brian Kempenich     |   7.9 |        27 |              |               |
+|   43 | Brian Kempenich     |   8.3 |        28 |        +0.40 |         +0.40 |
 |   44 | Alok Singh          |   7.2 |         8 |        +4.97 |               |
 |   45 | Nate Aden           |   6.1 |         8 |        -0.02 |               |
 |   46 | Zsolt Bartha        |   4.5 |        42 |        -0.05 |         -0.48 |
@@ -54,6 +54,6 @@ Generated 2016-05-01.
 |   50 | Rodrigo Calmet      |   0.7 |         1 |              |               |
 |   51 | Sandra Harpster     |  -0.2 |         4 |              |               |
 |   52 | Marco Eres          |  -0.5 |         5 |              |               |
-|   53 | Ann Connolly        |  -2.0 |         2 |              |               |
+|   53 | Ann Connolly        |  -2.4 |         3 |        -0.44 |         -0.44 |
 |   54 | Shantanu Mittal     |  -2.9 |         3 |        +0.49 |               |
 |   55 | Padma Maitland      |  -5.4 |         4 |              |               |

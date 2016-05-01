@@ -319,12 +319,12 @@ Generated 2016-05-01.
 |  315 | George Bentley            |   8.5 |         4 |              |               |
 |  316 | Bob Roller                |   8.5 |         6 |              |               |
 |  317 | Larry Dale                |   8.4 |        29 |              |               |
-|  318 | Max Oltersdorf            |   8.3 |         8 |              |               |
-|  319 | Kevin Pollock             |   8.2 |        28 |              |               |
-|  320 | Nicolas Huber             |   8.2 |         4 |              |               |
-|  321 | Marc Bensadoun            |   8.1 |         5 |              |               |
-|  322 | Reynold Xin               |   7.9 |         5 |              |               |
-|  323 | Brian Kempenich           |   7.9 |        27 |              |               |
+|  318 | Brian Kempenich           |   8.3 |        28 |        +0.40 |         +0.40 |
+|  319 | Max Oltersdorf            |   8.3 |         8 |              |               |
+|  320 | Kevin Pollock             |   8.2 |        28 |              |               |
+|  321 | Nicolas Huber             |   8.2 |         4 |              |               |
+|  322 | Marc Bensadoun            |   8.1 |         5 |              |               |
+|  323 | Reynold Xin               |   7.9 |         5 |              |               |
 |  324 | Joshua Braver             |   7.9 |         1 |              |               |
 |  325 | Steven Yee                |   7.8 |         9 |              |               |
 |  326 | Deepak Dasalukunte        |   7.7 |         9 |              |               |
@@ -458,12 +458,12 @@ Generated 2016-05-01.
 |  454 | Emily Moylan              |  -1.7 |        17 |              |               |
 |  455 | Susan Grand               |  -1.7 |         3 |              |               |
 |  456 | Nathaniel Rice            |  -1.8 |         3 |              |               |
-|  457 | Ann Connolly              |  -2.0 |         2 |              |               |
-|  458 | David Zhu                 |  -2.0 |         2 |              |               |
-|  459 | Jenny Cheng               |  -2.2 |         1 |              |               |
-|  460 | Annie Wong                |  -2.3 |         3 |              |               |
-|  461 | Jonathan Helfgott         |  -2.3 |         2 |              |               |
-|  462 | Lev Marquis               |  -2.4 |         5 |              |               |
+|  457 | David Zhu                 |  -2.0 |         2 |              |               |
+|  458 | Jenny Cheng               |  -2.2 |         1 |              |               |
+|  459 | Annie Wong                |  -2.3 |         3 |              |               |
+|  460 | Jonathan Helfgott         |  -2.3 |         2 |              |               |
+|  461 | Lev Marquis               |  -2.4 |         5 |              |               |
+|  462 | Ann Connolly              |  -2.4 |         3 |        -0.44 |         -0.44 |
 |  463 | Maria Garzon              |  -2.4 |         5 |              |               |
 |  464 | Rohan Relan               |  -2.5 |         4 |              |               |
 |  465 | Tjacka Bus                |  -2.5 |         5 |              |               |
