@@ -259,11 +259,11 @@ Generated 2016-05-01.
 |  255 | Jee Hwan Kim              |  12.6 |         7 |              |               |
 |  256 | Mike Troxell              |  12.6 |         8 |              |               |
 |  257 | Field Maloney             |  12.6 |        24 |              |               |
-|  258 | Joe Hyde                  |  12.4 |        68 |              |               |
-|  259 | Karan Jain                |  12.4 |        19 |              |         +2.04 |
-|  260 | Ansul Rajgha              |  12.3 |        15 |              |               |
-|  261 | Jan Strasky               |  12.3 |        12 |              |               |
-|  262 | Ankur Dave                |  12.2 |        31 |              |               |
+|  258 | Ankur Dave                |  12.5 |        32 |        +0.30 |               |
+|  259 | Joe Hyde                  |  12.4 |        68 |              |               |
+|  260 | Karan Jain                |  12.4 |        19 |              |         +2.04 |
+|  261 | Ansul Rajgha              |  12.3 |        15 |              |               |
+|  262 | Jan Strasky               |  12.3 |        12 |              |               |
 |  263 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
 |  264 | James Shinn               |  11.9 |       120 |              |               |
 |  265 | Jeff Dorman               |  11.7 |        14 |              |               |
@@ -346,9 +346,9 @@ Generated 2016-05-01.
 |  342 | Jules Bowie               |   6.4 |        12 |              |               |
 |  343 | Arno Ferguson             |   6.4 |         1 |              |               |
 |  344 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  345 | Nate Aden                 |   6.1 |         8 |              |               |
-|  346 | John Coates               |   6.1 |         9 |              |               |
-|  347 | John Givens               |   5.8 |        13 |              |               |
+|  345 | John Coates               |   6.1 |         9 |              |               |
+|  346 | John Givens               |   5.8 |        13 |              |               |
+|  347 | Nate Aden                 |   5.8 |         9 |        -0.29 |               |
 |  348 | Phil Hartmeyer            |   5.6 |         3 |              |               |
 |  349 | Bobby Hicks               |   5.5 |         2 |              |               |
 |  350 | Brian Puglise             |   5.5 |         2 |              |               |
