@@ -34,19 +34,19 @@ Generated 2016-05-01.
 |   30 | Kent Daniels        |  16.6 |        73 |        +0.05 |         +2.13 |
 |   31 | Subrato Dey         |  15.8 |        15 |        -0.05 |               |
 |   32 | Jeff Gordon         |  15.6 |        19 |        -0.44 |               |
-|   33 | Rupert Myers        |  15.0 |        25 |        +1.05 |               |
+|   33 | Rupert Myers        |  15.0 |        25 |        +1.01 |               |
 |   34 | Terry Chang         |  13.9 |        34 |        -0.33 |         +3.14 |
 |   35 | Reto Sutter         |  13.1 |        36 |        +0.12 |         +1.97 |
 |   36 | Raphael Magarik     |  12.9 |         5 |        +8.49 |               |
-|   37 | Ankur Dave          |  12.2 |        31 |        +1.08 |               |
+|   37 | Ankur Dave          |  12.5 |        32 |        +1.40 |               |
 |   38 | Antonio Garcia      |  11.4 |        20 |              |               |
 |   39 | Daniel Schwartz     |  10.9 |         9 |        -7.06 |               |
 |   40 | Jose Lara           |  10.6 |         3 |        +0.52 |               |
 |   41 | Myles Gordon        |  10.0 |        42 |              |         +2.47 |
-|   42 | Duo Wang            |   9.2 |        55 |        -0.31 |         +2.00 |
+|   42 | Duo Wang            |   9.3 |        55 |        -0.30 |         +2.00 |
 |   43 | Brian Kempenich     |   8.3 |        28 |        +0.40 |         +0.40 |
 |   44 | Alok Singh          |   7.2 |         8 |        +4.97 |               |
-|   45 | Nate Aden           |   6.1 |         8 |        -0.02 |               |
+|   45 | Nate Aden           |   5.8 |         9 |        -0.34 |               |
 |   46 | Zsolt Bartha        |   4.5 |        42 |        -0.05 |         -0.48 |
 |   47 | Wayne Heiser        |   4.4 |        13 |        -0.03 |               |
 |   48 | Josh Lebowitz       |   3.2 |        11 |        +0.46 |               |

@@ -217,9 +217,9 @@ Generated 2016-05-01.
 |  213 | Alex Marqusee             |  15.1 |        28 |              |         +1.50 |
 |  214 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
 |  215 | Liam King                 |  15.0 |         6 |              |               |
-|  216 | Rupert Myers              |  15.0 |        25 |        +1.05 |               |
-|  217 | Peter Duerr               |  15.0 |        24 |              |               |
-|  218 | Jayanth Kannan            |  15.0 |        20 |              |               |
+|  216 | Peter Duerr               |  15.0 |        24 |              |               |
+|  217 | Jayanth Kannan            |  15.0 |        20 |              |               |
+|  218 | Rupert Myers              |  15.0 |        25 |        +1.01 |               |
 |  219 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
 |  220 | Lakshya Rustagi           |  14.8 |         2 |              |               |
 |  221 | Angie Ng                  |  14.8 |        12 |              |               |
@@ -259,11 +259,11 @@ Generated 2016-05-01.
 |  255 | Jee Hwan Kim              |  12.6 |         7 |              |               |
 |  256 | Mike Troxell              |  12.6 |         8 |              |               |
 |  257 | Field Maloney             |  12.6 |        24 |              |               |
-|  258 | Joe Hyde                  |  12.4 |        68 |              |               |
-|  259 | Karan Jain                |  12.4 |        19 |              |         +5.64 |
-|  260 | Ansul Rajgha              |  12.3 |        15 |              |               |
-|  261 | Jan Strasky               |  12.3 |        12 |              |               |
-|  262 | Ankur Dave                |  12.2 |        31 |        +1.08 |               |
+|  258 | Ankur Dave                |  12.5 |        32 |        +1.40 |               |
+|  259 | Joe Hyde                  |  12.4 |        68 |              |               |
+|  260 | Karan Jain                |  12.4 |        19 |              |         +5.64 |
+|  261 | Ansul Rajgha              |  12.3 |        15 |              |               |
+|  262 | Jan Strasky               |  12.3 |        12 |              |               |
 |  263 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
 |  264 | James Shinn               |  11.9 |       120 |              |               |
 |  265 | Jeff Dorman               |  11.7 |        14 |              |               |
@@ -300,7 +300,7 @@ Generated 2016-05-01.
 |  296 | Kevin Fox                 |   9.5 |         7 |              |               |
 |  297 | Dominick Ng               |   9.5 |        25 |              |               |
 |  298 | Gene Zubovich             |   9.4 |        19 |              |         +0.27 |
-|  299 | Duo Wang                  |   9.2 |        55 |        -0.31 |         +2.00 |
+|  299 | Duo Wang                  |   9.3 |        55 |        -0.30 |         +2.00 |
 |  300 | Carlos Filho              |   9.2 |         7 |              |               |
 |  301 | David Elfant              |   9.1 |         2 |              |               |
 |  302 | Laura Dobbs               |   9.1 |        26 |              |         -0.50 |
@@ -346,9 +346,9 @@ Generated 2016-05-01.
 |  342 | Jules Bowie               |   6.4 |        12 |              |               |
 |  343 | Arno Ferguson             |   6.4 |         1 |              |               |
 |  344 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  345 | Nate Aden                 |   6.1 |         8 |        -0.02 |               |
-|  346 | John Coates               |   6.1 |         9 |              |               |
-|  347 | John Givens               |   5.8 |        13 |              |               |
+|  345 | John Coates               |   6.1 |         9 |              |               |
+|  346 | John Givens               |   5.8 |        13 |              |               |
+|  347 | Nate Aden                 |   5.8 |         9 |        -0.34 |               |
 |  348 | Phil Hartmeyer            |   5.6 |         3 |              |               |
 |  349 | Bobby Hicks               |   5.5 |         2 |              |               |
 |  350 | Brian Puglise             |   5.5 |         2 |              |               |
