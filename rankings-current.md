@@ -29,29 +29,30 @@ Generated 2016-05-02.
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
 |   26 | Jonathan Francis    |  20.7 |        55 |              |         +1.08 |
 |   27 | Shaun Lim           |  20.5 |        33 |              |         +0.35 |
-|   28 | Chris Flores        |  20.1 |       291 |              |         -0.05 |
-|   29 | Jacob Kersey        |  19.9 |        15 |              |               |
-|   30 | Kenny Bell          |  18.0 |       101 |              |         +1.05 |
-|   31 | Josh Trauner        |  16.9 |        16 |              |               |
-|   32 | Eric Borden         |  16.8 |        18 |              |               |
-|   33 | Kent Daniels        |  16.6 |        73 |              |         +2.24 |
-|   34 | Subrato Dey         |  15.8 |        15 |              |               |
-|   35 | Jeff Gordon         |  15.6 |        19 |              |               |
-|   36 | Rupert Myers        |  15.0 |        25 |              |               |
-|   37 | Terry Chang         |  13.9 |        34 |              |         +3.14 |
-|   38 | Reto Sutter         |  13.1 |        36 |              |         +3.35 |
-|   39 | Raphael Magarik     |  12.9 |         5 |              |               |
-|   40 | Ankur Dave          |  12.5 |        32 |        +0.30 |               |
-|   41 | Daniel Schwartz     |  10.9 |         9 |              |               |
-|   42 | Jose Lara           |  10.6 |         3 |              |               |
-|   43 | Duo Wang            |   9.2 |        55 |              |         +2.46 |
-|   44 | Brian Kempenich     |   8.3 |        28 |              |         +0.40 |
-|   45 | Nikhil Paranjape    |   7.3 |         8 |              |               |
-|   46 | Alok Singh          |   7.2 |         8 |              |               |
-|   47 | Nate Aden           |   5.8 |         9 |        -0.29 |               |
-|   48 | Wayne Heiser        |   4.4 |        13 |              |               |
-|   49 | Josh Lebowitz       |   3.2 |        11 |              |               |
-|   50 | Keaton Noon         |   3.1 |        11 |              |               |
-|   51 | Sandra Harpster     |   2.4 |         5 |              |               |
-|   52 | Ann Connolly        |  -2.8 |         4 |              |         -0.78 |
-|   53 | Shantanu Mittal     |  -2.9 |         3 |              |               |
+|   28 | Dror Matalon        |  20.3 |       334 |              |         -0.55 |
+|   29 | Chris Flores        |  20.1 |       291 |              |         -0.05 |
+|   30 | Jacob Kersey        |  19.9 |        15 |              |               |
+|   31 | Kenny Bell          |  18.0 |       101 |              |         +1.05 |
+|   32 | Josh Trauner        |  16.9 |        16 |              |               |
+|   33 | Eric Borden         |  16.8 |        18 |              |               |
+|   34 | Kent Daniels        |  16.6 |        73 |              |         +2.24 |
+|   35 | Subrato Dey         |  15.8 |        15 |              |               |
+|   36 | Jeff Gordon         |  15.6 |        19 |              |               |
+|   37 | Rupert Myers        |  15.0 |        25 |              |               |
+|   38 | Terry Chang         |  13.9 |        34 |              |         +3.14 |
+|   39 | Reto Sutter         |  13.1 |        36 |              |         +3.35 |
+|   40 | Raphael Magarik     |  12.9 |         5 |              |               |
+|   41 | Ankur Dave          |  12.2 |        31 |              |               |
+|   42 | Daniel Schwartz     |  10.9 |         9 |              |               |
+|   43 | Jose Lara           |  10.6 |         3 |              |               |
+|   44 | Duo Wang            |   9.2 |        55 |              |         +2.46 |
+|   45 | Brian Kempenich     |   8.3 |        28 |              |         +0.40 |
+|   46 | Nikhil Paranjape    |   7.3 |         8 |              |               |
+|   47 | Alok Singh          |   7.2 |         8 |              |               |
+|   48 | Nate Aden           |   6.1 |         8 |              |               |
+|   49 | Wayne Heiser        |   4.4 |        13 |              |               |
+|   50 | Josh Lebowitz       |   3.2 |        11 |              |               |
+|   51 | Keaton Noon         |   3.1 |        11 |              |               |
+|   52 | Sandra Harpster     |   2.4 |         5 |              |               |
+|   53 | Ann Connolly        |  -2.8 |         4 |              |         -0.78 |
+|   54 | Shantanu Mittal     |  -2.9 |         3 |              |               |
