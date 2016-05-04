@@ -2,9 +2,9 @@ Generated 2016-05-04.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler       |  43.1 |       208 |              |         +0.27 |
-|    2 | Rees Sweeney-Taylor |  37.1 |        80 |              |         +1.55 |
-|    3 | Thomas Lowish       |  35.9 |         6 |              |         +1.48 |
+|    1 | Ashley Kayler       |  43.0 |       209 |        -0.15 |         +0.12 |
+|    2 | Thomas Lowish       |  38.1 |         7 |        +2.18 |         +3.66 |
+|    3 | Rees Sweeney-Taylor |  37.1 |        80 |              |         +1.55 |
 |    4 | Sam Sternberg       |  30.0 |       107 |              |         -0.03 |
 |    5 | Jim Veitch          |  29.3 |       406 |              |         +0.22 |
 |    6 | Frank Kennamer      |  28.7 |       198 |              |         -0.04 |
