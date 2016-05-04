@@ -5,8 +5,8 @@ Generated 2016-05-04.
 |    1 | Ashley Kayler       |  43.0 |       209 |        -0.15 |         +0.12 |
 |    2 | Thomas Lowish       |  38.1 |         7 |        +2.18 |         +3.66 |
 |    3 | Rees Sweeney-Taylor |  37.1 |        80 |              |         +1.55 |
-|    4 | Sam Sternberg       |  30.0 |       107 |              |         -0.03 |
-|    5 | Jim Veitch          |  29.3 |       406 |              |         +0.22 |
+|    4 | Sam Sternberg       |  30.1 |       108 |        +0.12 |         +0.09 |
+|    5 | Jim Veitch          |  29.2 |       407 |        -0.08 |         +0.14 |
 |    6 | Frank Kennamer      |  28.7 |       198 |              |         -0.04 |
 |    7 | John Kunze          |  28.4 |       289 |              |         -0.29 |
 |    8 | Vishi               |  27.8 |        37 |              |         -0.75 |
