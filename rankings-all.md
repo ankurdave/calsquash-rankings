@@ -90,9 +90,9 @@ Generated 2016-05-08.
 |   86 | Dante Popple              |  22.8 |        17 |              |               |
 |   87 | Adam Angsten              |  22.5 |         3 |              |               |
 |   88 | Richard Chan              |  22.5 |         9 |              |               |
-|   89 | Orion Hodson              |  22.5 |        31 |              |               |
-|   90 | Rahul Gupta               |  22.4 |         7 |              |               |
-|   91 | Matt Wong                 |  22.4 |        53 |              |         +5.41 |
+|   89 | Matt Wong                 |  22.5 |        54 |        +0.12 |         +5.53 |
+|   90 | Orion Hodson              |  22.5 |        31 |              |               |
+|   91 | Rahul Gupta               |  22.4 |         7 |              |               |
 |   92 | Lyle Fearnley             |  22.3 |        30 |              |               |
 |   93 | Peter McDermott           |  22.3 |        10 |              |               |
 |   94 | Paul Greene               |  22.1 |         8 |              |               |
@@ -158,8 +158,8 @@ Generated 2016-05-08.
 |  154 | Jamie Funk                |  18.1 |        30 |              |               |
 |  155 | Lucas Cheon               |  18.1 |        19 |              |               |
 |  156 | Himanshu Jatia            |  18.1 |         4 |              |               |
-|  157 | Kenny Bell                |  18.0 |       101 |              |         +1.05 |
-|  158 | Anubhav Gupta             |  18.0 |         8 |              |               |
+|  157 | Anubhav Gupta             |  18.0 |         8 |              |               |
+|  158 | Kenny Bell                |  18.0 |       102 |        -0.05 |         +1.00 |
 |  159 | Andres Rodriguez          |  18.0 |        55 |              |         +0.21 |
 |  160 | Robert Geiger             |  17.8 |         8 |              |               |
 |  161 | Jim Evans                 |  17.8 |       216 |              |               |

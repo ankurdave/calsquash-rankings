@@ -24,7 +24,7 @@ Generated 2016-05-08.
 |   20 | Jared Bard          |  23.1 |        19 |              |         +5.48 |
 |   21 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
 |   22 | Mike Jensen-Akula   |  22.9 |       206 |              |         +0.08 |
-|   23 | Matt Wong           |  22.4 |        53 |              |         +5.41 |
+|   23 | Matt Wong           |  22.5 |        54 |        +0.12 |         +5.53 |
 |   24 | Sam McCormick       |  21.7 |        13 |              |               |
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
 |   26 | Jonathan Francis    |  20.7 |        55 |              |         +1.08 |
@@ -32,7 +32,7 @@ Generated 2016-05-08.
 |   28 | Dror Matalon        |  20.3 |       334 |              |         -0.55 |
 |   29 | Chris Flores        |  20.1 |       291 |              |         -0.05 |
 |   30 | Jacob Kersey        |  19.9 |        15 |              |               |
-|   31 | Kenny Bell          |  18.0 |       101 |              |         +1.05 |
+|   31 | Kenny Bell          |  18.0 |       102 |        -0.05 |         +1.00 |
 |   32 | Josh Trauner        |  16.9 |        16 |              |               |
 |   33 | Eric Borden         |  16.8 |        18 |              |               |
 |   34 | Kent Daniels        |  16.6 |        73 |              |         +2.24 |
