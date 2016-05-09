@@ -88,9 +88,9 @@ Generated 2016-05-08.
 |   84 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   85 | Mike Jensen-Akula         |  22.9 |       206 |              |         +0.08 |
 |   86 | Dante Popple              |  22.8 |        17 |              |               |
-|   87 | Adam Angsten              |  22.5 |         3 |              |               |
-|   88 | Richard Chan              |  22.5 |         9 |              |               |
-|   89 | Matt Wong                 |  22.5 |        54 |        +0.12 |         +5.53 |
+|   87 | Matt Wong                 |  22.6 |        55 |        +0.25 |         +5.66 |
+|   88 | Adam Angsten              |  22.5 |         3 |              |               |
+|   89 | Richard Chan              |  22.5 |         9 |              |               |
 |   90 | Orion Hodson              |  22.5 |        31 |              |               |
 |   91 | Rahul Gupta               |  22.4 |         7 |              |               |
 |   92 | Lyle Fearnley             |  22.3 |        30 |              |               |
@@ -204,8 +204,8 @@ Generated 2016-05-08.
 |  200 | Jeff Bird                 |  15.7 |        38 |              |               |
 |  201 | Casey Harelson            |  15.7 |        20 |              |               |
 |  202 | Nick Paget                |  15.6 |        35 |              |               |
-|  203 | Jeff Gordon               |  15.6 |        19 |              |               |
-|  204 | Allan Dafoe               |  15.5 |        43 |              |               |
+|  203 | Allan Dafoe               |  15.5 |        43 |              |               |
+|  204 | Jeff Gordon               |  15.5 |        20 |        -0.14 |               |
 |  205 | David Bratt               |  15.4 |        16 |              |         +2.74 |
 |  206 | Doug Kreutzer             |  15.3 |        10 |              |               |
 |  207 | Ranjit Jhala              |  15.2 |         6 |              |               |

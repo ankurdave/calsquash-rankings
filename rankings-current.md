@@ -24,7 +24,7 @@ Generated 2016-05-08.
 |   20 | Jared Bard          |  23.1 |        19 |              |         +5.48 |
 |   21 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
 |   22 | Mike Jensen-Akula   |  22.9 |       206 |              |         +0.08 |
-|   23 | Matt Wong           |  22.5 |        54 |        +0.12 |         +5.53 |
+|   23 | Matt Wong           |  22.6 |        55 |        +0.25 |         +5.66 |
 |   24 | Sam McCormick       |  21.7 |        13 |              |               |
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
 |   26 | Jonathan Francis    |  20.7 |        55 |              |         +1.08 |
@@ -37,7 +37,7 @@ Generated 2016-05-08.
 |   33 | Eric Borden         |  16.8 |        18 |              |               |
 |   34 | Kent Daniels        |  16.6 |        73 |              |         +2.24 |
 |   35 | Subrato Dey         |  15.8 |        15 |              |               |
-|   36 | Jeff Gordon         |  15.6 |        19 |              |               |
+|   36 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |
 |   37 | Rupert Myers        |  15.0 |        25 |              |               |
 |   38 | Terry Chang         |  13.9 |        34 |              |         +3.14 |
 |   39 | Reto Sutter         |  13.1 |        36 |              |         +3.35 |
