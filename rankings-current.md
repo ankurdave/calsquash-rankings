@@ -43,9 +43,9 @@ Generated 2016-05-11.
 |   39 | Reto Sutter         |  13.1 |        36 |              |         +3.35 |
 |   40 | Raphael Magarik     |  12.9 |         5 |              |               |
 |   41 | Ankur Dave          |  12.5 |        32 |        +0.30 |               |
-|   42 | Daniel Schwartz     |  10.9 |         9 |              |               |
+|   42 | Daniel Schwartz     |  11.8 |        10 |        +0.94 |               |
 |   43 | Jose Lara           |  10.6 |         3 |              |               |
-|   44 | Duo Wang            |   9.2 |        55 |              |         +2.46 |
+|   44 | Duo Wang            |   9.2 |        56 |        -0.03 |         +2.42 |
 |   45 | Brian Kempenich     |   8.3 |        28 |              |         +0.40 |
 |   46 | Nikhil Paranjape    |   7.3 |         8 |              |               |
 |   47 | Alok Singh          |   7.2 |         8 |              |               |

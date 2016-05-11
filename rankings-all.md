@@ -266,15 +266,15 @@ Generated 2016-05-11.
 |  262 | Jan Strasky               |  12.3 |        12 |              |               |
 |  263 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
 |  264 | James Shinn               |  11.9 |       120 |              |               |
-|  265 | Jeff Dorman               |  11.7 |        14 |              |               |
-|  266 | Guillaume Egles           |  11.6 |        11 |              |               |
-|  267 | Mitchell O'Connell        |  11.6 |        32 |              |         +0.74 |
-|  268 | Carl Schreck              |  11.5 |         2 |              |               |
-|  269 | Antonio Garcia            |  11.4 |        20 |              |               |
-|  270 | Juliet Shih               |  11.3 |        11 |              |               |
-|  271 | Margaret Chapman          |  11.2 |         6 |              |               |
-|  272 | Charles Denby             |  11.2 |         5 |              |               |
-|  273 | Daniel Schwartz           |  10.9 |         9 |              |               |
+|  265 | Daniel Schwartz           |  11.8 |        10 |        +0.94 |               |
+|  266 | Jeff Dorman               |  11.7 |        14 |              |               |
+|  267 | Guillaume Egles           |  11.6 |        11 |              |               |
+|  268 | Mitchell O'Connell        |  11.6 |        32 |              |         +0.74 |
+|  269 | Carl Schreck              |  11.5 |         2 |              |               |
+|  270 | Antonio Garcia            |  11.4 |        20 |              |               |
+|  271 | Juliet Shih               |  11.3 |        11 |              |               |
+|  272 | Margaret Chapman          |  11.2 |         6 |              |               |
+|  273 | Charles Denby             |  11.2 |         5 |              |               |
 |  274 | Khurram Mahmood           |  10.8 |         3 |              |               |
 |  275 | Axel Eriksson             |  10.8 |         5 |              |               |
 |  276 | Jose Lara                 |  10.6 |         3 |              |               |
@@ -300,7 +300,7 @@ Generated 2016-05-11.
 |  296 | Kevin Fox                 |   9.5 |         7 |              |               |
 |  297 | Dominick Ng               |   9.5 |        25 |              |               |
 |  298 | Gene Zubovich             |   9.4 |        19 |              |         +0.19 |
-|  299 | Duo Wang                  |   9.2 |        55 |              |         +2.46 |
+|  299 | Duo Wang                  |   9.2 |        56 |        -0.03 |         +2.42 |
 |  300 | Carlos Filho              |   9.2 |         7 |              |               |
 |  301 | David Elfant              |   9.1 |         2 |              |               |
 |  302 | Laura Dobbs               |   9.1 |        26 |              |         -0.50 |
