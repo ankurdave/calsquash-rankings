@@ -1,4 +1,4 @@
-Generated 2016-05-10.
+Generated 2016-05-11.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -12,13 +12,13 @@ Generated 2016-05-10.
 |    8 | Vishi               |  27.8 |        37 |              |         -0.75 |
 |    9 | Nick Cobbett        |  27.0 |        19 |              |               |
 |   10 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
-|   11 | Ethan Kerr          |  26.2 |         7 |              |               |
+|   11 | Eric Katerman       |  26.6 |         4 |        +3.32 |               |
 |   12 | Dan Meier           |  26.0 |        38 |              |         +7.99 |
-|   13 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
-|   14 | Saurabh Bajaj       |  24.2 |        12 |              |               |
-|   15 | Mark Modera         |  24.2 |       295 |              |         -1.35 |
-|   16 | Reid Johnsen        |  24.0 |        16 |              |         +8.18 |
-|   17 | Eric Katerman       |  23.3 |         3 |              |               |
+|   13 | Ethan Kerr          |  25.7 |         8 |        -0.52 |               |
+|   14 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
+|   15 | Saurabh Bajaj       |  24.2 |        12 |              |               |
+|   16 | Mark Modera         |  24.2 |       295 |              |         -1.35 |
+|   17 | Reid Johnsen        |  24.0 |        16 |              |         +8.18 |
 |   18 | Jonathan Hankar     |  23.3 |       173 |              |         -0.17 |
 |   19 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
 |   20 | Jared Bard          |  23.1 |        19 |              |         +5.48 |

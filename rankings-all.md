@@ -1,4 +1,4 @@
-Generated 2016-05-10.
+Generated 2016-05-11.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -45,37 +45,37 @@ Generated 2016-05-10.
 |   41 | Ignacio Canals            |  26.7 |        21 |              |               |
 |   42 | Nauman Sardar             |  26.6 |        40 |              |               |
 |   43 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
-|   44 | Ali Rahim                 |  26.2 |        24 |              |               |
-|   45 | Ethan Kerr                |  26.2 |         7 |              |               |
+|   44 | Eric Katerman             |  26.6 |         4 |        +3.32 |               |
+|   45 | Ali Rahim                 |  26.2 |        24 |              |               |
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
 |   47 | Dan Meier                 |  26.0 |        38 |              |         +7.99 |
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
-|   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
-|   50 | Mikael Rehn               |  25.4 |         5 |              |               |
-|   51 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
-|   52 | Greg Jizmagian            |  24.6 |        22 |              |               |
-|   53 | Christopher Tsang         |  24.4 |        76 |              |               |
-|   54 | Benjamin Vicuna           |  24.4 |        50 |              |         +6.09 |
-|   55 | Charlie Weiss             |  24.3 |        70 |              |         +1.25 |
-|   56 | Adam Pollak               |  24.2 |        31 |              |               |
-|   57 | Saurabh Bajaj             |  24.2 |        12 |              |               |
-|   58 | Mark Modera               |  24.2 |       295 |              |         -1.35 |
-|   59 | Toby Reiner               |  24.2 |       159 |              |               |
-|   60 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   61 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
-|   62 | Jon Shih                  |  24.0 |        47 |              |               |
-|   63 | Reid Johnsen              |  24.0 |        16 |              |         +8.18 |
-|   64 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   65 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   66 | Matt Waid                 |  23.8 |        51 |              |               |
-|   67 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   68 | Martin Stokes             |  23.8 |        12 |              |               |
-|   69 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   70 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
-|   71 | Joe Farrell               |  23.4 |        30 |              |               |
-|   72 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   73 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   74 | Eric Katerman             |  23.3 |         3 |              |               |
+|   49 | Ethan Kerr                |  25.7 |         8 |        -0.52 |               |
+|   50 | Annie Rein-Weston         |  25.7 |        18 |              |               |
+|   51 | Mikael Rehn               |  25.4 |         5 |              |               |
+|   52 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
+|   53 | Greg Jizmagian            |  24.6 |        22 |              |               |
+|   54 | Christopher Tsang         |  24.4 |        76 |              |               |
+|   55 | Benjamin Vicuna           |  24.4 |        50 |              |         +6.09 |
+|   56 | Charlie Weiss             |  24.3 |        70 |              |         +1.25 |
+|   57 | Adam Pollak               |  24.2 |        31 |              |               |
+|   58 | Saurabh Bajaj             |  24.2 |        12 |              |               |
+|   59 | Mark Modera               |  24.2 |       295 |              |         -1.35 |
+|   60 | Toby Reiner               |  24.2 |       159 |              |               |
+|   61 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   62 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
+|   63 | Jon Shih                  |  24.0 |        47 |              |               |
+|   64 | Reid Johnsen              |  24.0 |        16 |              |         +8.18 |
+|   65 | Daniel Greengard          |  23.9 |        37 |              |               |
+|   66 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   67 | Matt Waid                 |  23.8 |        51 |              |               |
+|   68 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   69 | Martin Stokes             |  23.8 |        12 |              |               |
+|   70 | Todd Wirsching            |  23.7 |         8 |              |               |
+|   71 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
+|   72 | Joe Farrell               |  23.4 |        30 |              |               |
+|   73 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   74 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   75 | Sushil Shetty             |  23.3 |        23 |              |               |
 |   76 | Jonathan Hankar           |  23.3 |       173 |              |         -0.17 |
 |   77 | Sonesh Surana             |  23.2 |        95 |              |               |
