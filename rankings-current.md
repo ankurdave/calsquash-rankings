@@ -9,10 +9,10 @@ Generated 2016-05-12.
 |    5 | Jim Veitch          |  29.2 |       407 |        -0.08 |         +0.14 |
 |    6 | Frank Kennamer      |  28.7 |       198 |              |         -0.04 |
 |    7 | John Kunze          |  28.4 |       289 |              |         -0.29 |
-|    8 | Vishi               |  27.8 |        37 |              |         -0.75 |
-|    9 | Nick Cobbett        |  27.0 |        19 |              |               |
+|    8 | Eric Katerman       |  28.3 |         5 |        +5.02 |               |
+|    9 | Vishi               |  27.8 |        37 |              |         -0.75 |
 |   10 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
-|   11 | Eric Katerman       |  26.6 |         4 |        +3.32 |               |
+|   11 | Nick Cobbett        |  26.9 |        20 |        -0.12 |               |
 |   12 | Dan Meier           |  26.0 |        38 |              |         +7.99 |
 |   13 | Ethan Kerr          |  25.7 |         8 |        -0.52 |               |
 |   14 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |

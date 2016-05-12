@@ -28,24 +28,24 @@ Generated 2016-05-12.
 |   24 | Frank Kennamer            |  28.7 |       198 |              |         -0.04 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.4 |       289 |              |         -0.29 |
-|   27 | Ben Faber                 |  28.3 |        15 |              |               |
-|   28 | Josh Taylor               |  28.3 |        40 |              |               |
-|   29 | Michael Best              |  28.1 |        21 |              |               |
-|   30 | Jehan Engineer            |  28.0 |         9 |              |               |
-|   31 | Arvind Muralimohan        |  27.9 |        16 |              |               |
-|   32 | Samer Shehata             |  27.8 |        29 |              |               |
-|   33 | Andrew Moylan             |  27.8 |        95 |              |               |
-|   34 | Vishi                     |  27.8 |        37 |              |         -0.75 |
-|   35 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
-|   36 | Hussain Raza              |  27.3 |        50 |              |               |
-|   37 | Nick Cobbett              |  27.0 |        19 |              |               |
+|   27 | Eric Katerman             |  28.3 |         5 |        +5.02 |               |
+|   28 | Ben Faber                 |  28.3 |        15 |              |               |
+|   29 | Josh Taylor               |  28.3 |        40 |              |               |
+|   30 | Michael Best              |  28.1 |        21 |              |               |
+|   31 | Jehan Engineer            |  28.0 |         9 |              |               |
+|   32 | Arvind Muralimohan        |  27.9 |        16 |              |               |
+|   33 | Samer Shehata             |  27.8 |        29 |              |               |
+|   34 | Andrew Moylan             |  27.8 |        95 |              |               |
+|   35 | Vishi                     |  27.8 |        37 |              |         -0.75 |
+|   36 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
+|   37 | Hussain Raza              |  27.3 |        50 |              |               |
 |   38 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |
-|   39 | Stephen Dang              |  26.8 |        34 |              |               |
-|   40 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
-|   41 | Ignacio Canals            |  26.7 |        21 |              |               |
-|   42 | Nauman Sardar             |  26.6 |        40 |              |               |
-|   43 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
-|   44 | Eric Katerman             |  26.6 |         4 |        +3.32 |               |
+|   39 | Nick Cobbett              |  26.9 |        20 |        -0.12 |               |
+|   40 | Stephen Dang              |  26.8 |        34 |              |               |
+|   41 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
+|   42 | Ignacio Canals            |  26.7 |        21 |              |               |
+|   43 | Nauman Sardar             |  26.6 |        40 |              |               |
+|   44 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
 |   45 | Ali Rahim                 |  26.2 |        24 |              |               |
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
 |   47 | Dan Meier                 |  26.0 |        38 |              |         +7.99 |
