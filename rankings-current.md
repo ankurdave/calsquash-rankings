@@ -16,14 +16,14 @@ Generated 2016-05-13.
 |   12 | Dan Meier           |  26.0 |        38 |              |         +7.99 |
 |   13 | Ethan Kerr          |  25.7 |         8 |        -0.52 |               |
 |   14 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
-|   15 | Saurabh Bajaj       |  24.2 |        12 |              |               |
-|   16 | Mark Modera         |  24.1 |       296 |        -0.10 |         -1.45 |
-|   17 | Reid Johnsen        |  24.0 |        16 |              |         +8.18 |
-|   18 | Jonathan Hankar     |  23.4 |       174 |        +0.12 |         -0.05 |
-|   19 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
-|   20 | Jared Bard          |  23.1 |        19 |              |         +5.48 |
-|   21 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
-|   22 | Mike Jensen-Akula   |  22.9 |       206 |              |         +0.08 |
+|   15 | Mark Modera         |  24.3 |       297 |        +0.06 |         -1.29 |
+|   16 | Saurabh Bajaj       |  24.2 |        12 |              |               |
+|   17 | Jonathan Hankar     |  23.4 |       174 |        +0.12 |         -0.05 |
+|   18 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
+|   19 | Jared Bard          |  23.1 |        19 |              |         +5.48 |
+|   20 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
+|   21 | Mike Jensen-Akula   |  22.9 |       206 |              |         +0.08 |
+|   22 | Reid Johnsen        |  22.8 |        17 |        -1.19 |         +7.00 |
 |   23 | Matt Wong           |  22.6 |        55 |        +0.25 |         +5.66 |
 |   24 | Sam McCormick       |  21.7 |        13 |              |               |
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |

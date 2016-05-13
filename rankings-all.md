@@ -58,35 +58,35 @@ Generated 2016-05-13.
 |   54 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   55 | Benjamin Vicuna           |  24.4 |        50 |              |         +6.09 |
 |   56 | Charlie Weiss             |  24.3 |        70 |              |         +1.25 |
-|   57 | Adam Pollak               |  24.2 |        31 |              |               |
-|   58 | Saurabh Bajaj             |  24.2 |        12 |              |               |
-|   59 | Toby Reiner               |  24.2 |       159 |              |               |
-|   60 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   61 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
-|   62 | Mark Modera               |  24.1 |       296 |        -0.10 |         -1.45 |
+|   57 | Mark Modera               |  24.3 |       297 |        +0.06 |         -1.29 |
+|   58 | Adam Pollak               |  24.2 |        31 |              |               |
+|   59 | Saurabh Bajaj             |  24.2 |        12 |              |               |
+|   60 | Toby Reiner               |  24.2 |       159 |              |               |
+|   61 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   62 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   63 | Jon Shih                  |  24.0 |        47 |              |               |
-|   64 | Reid Johnsen              |  24.0 |        16 |              |         +8.18 |
-|   65 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   66 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   67 | Matt Waid                 |  23.8 |        51 |              |               |
-|   68 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   69 | Martin Stokes             |  23.8 |        12 |              |               |
-|   70 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   71 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
-|   72 | Joe Farrell               |  23.4 |        30 |              |               |
-|   73 | Jonathan Hankar           |  23.4 |       174 |        +0.12 |         -0.05 |
-|   74 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   75 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   76 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   77 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   78 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   79 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
-|   80 | Jared Bard                |  23.1 |        19 |              |         +5.48 |
-|   81 | Jan Beranek               |  23.1 |        46 |              |               |
-|   82 | Gary Golding              |  23.1 |         6 |              |               |
-|   83 | Prakash Bathini           |  22.9 |       117 |              |         -0.02 |
-|   84 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   85 | Mike Jensen-Akula         |  22.9 |       206 |              |         +0.08 |
+|   64 | Daniel Greengard          |  23.9 |        37 |              |               |
+|   65 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   66 | Matt Waid                 |  23.8 |        51 |              |               |
+|   67 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   68 | Martin Stokes             |  23.8 |        12 |              |               |
+|   69 | Todd Wirsching            |  23.7 |         8 |              |               |
+|   70 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
+|   71 | Joe Farrell               |  23.4 |        30 |              |               |
+|   72 | Jonathan Hankar           |  23.4 |       174 |        +0.12 |         -0.05 |
+|   73 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   74 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   75 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   76 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   77 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   78 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
+|   79 | Jared Bard                |  23.1 |        19 |              |         +5.48 |
+|   80 | Jan Beranek               |  23.1 |        46 |              |               |
+|   81 | Gary Golding              |  23.1 |         6 |              |               |
+|   82 | Prakash Bathini           |  22.9 |       117 |              |         -0.02 |
+|   83 | Alex Jermyn               |  22.9 |         3 |              |               |
+|   84 | Mike Jensen-Akula         |  22.9 |       206 |              |         +0.08 |
+|   85 | Reid Johnsen              |  22.8 |        17 |        -1.19 |         +7.00 |
 |   86 | Dante Popple              |  22.8 |        17 |              |               |
 |   87 | Matt Wong                 |  22.6 |        55 |        +0.25 |         +5.66 |
 |   88 | Adam Angsten              |  22.5 |         3 |              |               |
