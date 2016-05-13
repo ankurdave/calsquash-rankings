@@ -60,10 +60,10 @@ Generated 2016-05-12.
 |   56 | Charlie Weiss             |  24.3 |        70 |              |         +1.25 |
 |   57 | Adam Pollak               |  24.2 |        31 |              |               |
 |   58 | Saurabh Bajaj             |  24.2 |        12 |              |               |
-|   59 | Mark Modera               |  24.2 |       295 |              |         -1.35 |
-|   60 | Toby Reiner               |  24.2 |       159 |              |               |
-|   61 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   62 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
+|   59 | Toby Reiner               |  24.2 |       159 |              |               |
+|   60 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   61 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
+|   62 | Mark Modera               |  24.1 |       296 |        -0.10 |         -1.45 |
 |   63 | Jon Shih                  |  24.0 |        47 |              |               |
 |   64 | Reid Johnsen              |  24.0 |        16 |              |         +8.18 |
 |   65 | Daniel Greengard          |  23.9 |        37 |              |               |
@@ -74,10 +74,10 @@ Generated 2016-05-12.
 |   70 | Todd Wirsching            |  23.7 |         8 |              |               |
 |   71 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
 |   72 | Joe Farrell               |  23.4 |        30 |              |               |
-|   73 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   74 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   75 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   76 | Jonathan Hankar           |  23.3 |       173 |              |         -0.17 |
+|   73 | Jonathan Hankar           |  23.4 |       174 |        +0.12 |         -0.05 |
+|   74 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   75 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   76 | Sushil Shetty             |  23.3 |        23 |              |               |
 |   77 | Sonesh Surana             |  23.2 |        95 |              |               |
 |   78 | Mikey Zarem               |  23.2 |         8 |              |               |
 |   79 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
