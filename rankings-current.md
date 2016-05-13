@@ -35,21 +35,21 @@ Generated 2016-05-13.
 |   31 | Kenny Bell          |  18.0 |       102 |        -0.05 |         +1.00 |
 |   32 | Josh Trauner        |  16.9 |        16 |              |               |
 |   33 | Eric Borden         |  16.8 |        18 |              |               |
-|   34 | Kent Daniels        |  16.6 |        73 |              |         +2.24 |
+|   34 | Kent Daniels        |  16.4 |        74 |        -0.21 |         +2.03 |
 |   35 | Subrato Dey         |  15.8 |        15 |              |               |
 |   36 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |
 |   37 | Rupert Myers        |  15.0 |        25 |              |               |
 |   38 | Terry Chang         |  13.9 |        34 |              |         +3.14 |
 |   39 | Reto Sutter         |  13.1 |        36 |              |         +3.35 |
-|   40 | Raphael Magarik     |  12.9 |         5 |              |               |
-|   41 | Ankur Dave          |  12.5 |        32 |        +0.30 |               |
+|   40 | Ankur Dave          |  13.1 |        33 |        +0.86 |               |
+|   41 | Raphael Magarik     |  12.9 |         5 |              |               |
 |   42 | Daniel Schwartz     |  11.8 |        10 |        +0.94 |               |
 |   43 | Jose Lara           |  10.6 |         3 |              |               |
 |   44 | Duo Wang            |   9.2 |        56 |        -0.03 |         +2.42 |
 |   45 | Brian Kempenich     |   8.3 |        28 |              |         +0.40 |
 |   46 | Nikhil Paranjape    |   7.3 |         8 |              |               |
 |   47 | Alok Singh          |   7.2 |         8 |              |               |
-|   48 | Nate Aden           |   5.8 |         9 |        -0.29 |               |
+|   48 | Nate Aden           |   5.8 |         9 |        -0.26 |               |
 |   49 | Wayne Heiser        |   4.4 |        13 |              |               |
 |   50 | Josh Lebowitz       |   3.2 |        11 |              |               |
 |   51 | Keaton Noon         |   3.1 |        11 |              |               |

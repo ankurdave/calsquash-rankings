@@ -189,10 +189,10 @@ Generated 2016-05-13.
 |  185 | Darren Morgan             |  16.8 |        11 |              |               |
 |  186 | Eric Borden               |  16.8 |        18 |              |               |
 |  187 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  188 | Kent Daniels              |  16.6 |        73 |              |         +2.24 |
-|  189 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
-|  191 | Ben Ailes                 |  16.5 |        48 |              |               |
+|  188 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  189 | Michael Cianfrocco        |  16.5 |        18 |              |               |
+|  190 | Ben Ailes                 |  16.5 |        48 |              |               |
+|  191 | Kent Daniels              |  16.4 |        74 |        -0.21 |         +2.03 |
 |  192 | George Roche              |  16.3 |        14 |              |         +2.01 |
 |  193 | Anirudh Todi              |  16.2 |         3 |              |               |
 |  194 | Rich Shapiro              |  16.1 |        82 |              |               |
@@ -248,18 +248,18 @@ Generated 2016-05-13.
 |  244 | Reto Sutter               |  13.1 |        36 |              |         +3.35 |
 |  245 | David Isaksson            |  13.1 |        22 |              |         +2.57 |
 |  246 | Steven Hahm               |  13.1 |         5 |              |               |
-|  247 | Gautam Tankha             |  13.0 |         7 |              |               |
-|  248 | Louis Russell             |  13.0 |        20 |              |               |
-|  249 | Sushant Jain              |  12.9 |        12 |              |               |
-|  250 | Raphael Magarik           |  12.9 |         5 |              |               |
-|  251 | Akash Sharma              |  12.9 |         8 |              |               |
-|  252 | Marco Gonzalez-Navarro    |  12.9 |        32 |              |               |
-|  253 | Marghoob Mohiyuddin       |  12.7 |        31 |              |               |
-|  254 | Mekoce Walker             |  12.6 |        38 |              |               |
-|  255 | Jee Hwan Kim              |  12.6 |         7 |              |               |
-|  256 | Mike Troxell              |  12.6 |         8 |              |               |
-|  257 | Field Maloney             |  12.6 |        24 |              |               |
-|  258 | Ankur Dave                |  12.5 |        32 |        +0.30 |               |
+|  247 | Ankur Dave                |  13.1 |        33 |        +0.86 |               |
+|  248 | Gautam Tankha             |  13.0 |         7 |              |               |
+|  249 | Louis Russell             |  13.0 |        20 |              |               |
+|  250 | Sushant Jain              |  12.9 |        12 |              |               |
+|  251 | Raphael Magarik           |  12.9 |         5 |              |               |
+|  252 | Akash Sharma              |  12.9 |         8 |              |               |
+|  253 | Marco Gonzalez-Navarro    |  12.9 |        32 |              |               |
+|  254 | Marghoob Mohiyuddin       |  12.7 |        31 |              |               |
+|  255 | Mekoce Walker             |  12.6 |        38 |              |               |
+|  256 | Jee Hwan Kim              |  12.6 |         7 |              |               |
+|  257 | Mike Troxell              |  12.6 |         8 |              |               |
+|  258 | Field Maloney             |  12.6 |        24 |              |               |
 |  259 | Joe Hyde                  |  12.4 |        68 |              |               |
 |  260 | Karan Jain                |  12.4 |        19 |              |         +2.04 |
 |  261 | Ansul Rajgha              |  12.3 |        15 |              |               |
@@ -347,8 +347,8 @@ Generated 2016-05-13.
 |  343 | Arno Ferguson             |   6.4 |         1 |              |               |
 |  344 | Fahad Riyadh              |   6.3 |         5 |              |               |
 |  345 | John Coates               |   6.1 |         9 |              |               |
-|  346 | John Givens               |   5.8 |        13 |              |               |
-|  347 | Nate Aden                 |   5.8 |         9 |        -0.29 |               |
+|  346 | Nate Aden                 |   5.8 |         9 |        -0.26 |               |
+|  347 | John Givens               |   5.8 |        13 |              |               |
 |  348 | Phil Hartmeyer            |   5.6 |         3 |              |               |
 |  349 | Bobby Hicks               |   5.5 |         2 |              |               |
 |  350 | Brian Puglise             |   5.5 |         2 |              |               |
