@@ -15,9 +15,9 @@ Generated 2016-05-14.
 |   11 | Nick Cobbett        |  26.9 |        20 |        -0.12 |               |
 |   12 | Dan Meier           |  26.0 |        38 |              |         +7.99 |
 |   13 | Ethan Kerr          |  25.7 |         8 |        -0.52 |               |
-|   14 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
-|   15 | Mark Modera         |  24.3 |       297 |        +0.06 |         -1.29 |
-|   16 | Saurabh Bajaj       |  24.2 |        12 |              |               |
+|   14 | Saurabh Bajaj       |  24.8 |        13 |        +0.58 |               |
+|   15 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
+|   16 | Mark Modera         |  24.3 |       297 |        +0.06 |         -1.29 |
 |   17 | Jonathan Hankar     |  23.4 |       174 |        +0.12 |         -0.05 |
 |   18 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
 |   19 | Jared Bard          |  23.1 |        19 |              |         +5.48 |
@@ -29,11 +29,11 @@ Generated 2016-05-14.
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
 |   26 | Jonathan Francis    |  20.7 |        55 |              |         +1.08 |
 |   27 | Shaun Lim           |  20.5 |        33 |              |         +0.35 |
-|   28 | Dror Matalon        |  20.3 |       334 |              |         -0.55 |
+|   28 | Dror Matalon        |  20.3 |       335 |        -0.08 |         -0.62 |
 |   29 | Chris Flores        |  20.1 |       291 |              |         -0.05 |
 |   30 | Jacob Kersey        |  19.9 |        15 |              |               |
 |   31 | Kenny Bell          |  18.0 |       102 |        -0.05 |         +1.00 |
-|   32 | Josh Trauner        |  16.9 |        16 |              |               |
+|   32 | Josh Trauner        |  17.8 |        18 |        +0.88 |               |
 |   33 | Eric Borden         |  16.8 |        18 |              |               |
 |   34 | Kent Daniels        |  16.4 |        74 |        -0.21 |         +2.03 |
 |   35 | Subrato Dey         |  15.8 |        15 |              |               |
