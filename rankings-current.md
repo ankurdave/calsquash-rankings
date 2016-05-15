@@ -17,17 +17,17 @@ Generated 2016-05-14.
 |   13 | Ethan Kerr          |  25.7 |         8 |        -0.52 |               |
 |   14 | Saurabh Bajaj       |  24.8 |        13 |        +0.58 |               |
 |   15 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
-|   16 | Mark Modera         |  24.3 |       297 |        +0.06 |         -1.29 |
+|   16 | Mark Modera         |  24.3 |       298 |        +0.13 |         -1.22 |
 |   17 | Jonathan Hankar     |  23.4 |       174 |        +0.12 |         -0.05 |
 |   18 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
 |   19 | Jared Bard          |  23.1 |        19 |              |         +5.48 |
 |   20 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
 |   21 | Mike Jensen-Akula   |  22.9 |       206 |              |         +0.08 |
-|   22 | Reid Johnsen        |  22.8 |        17 |        -1.19 |         +7.00 |
+|   22 | Reid Johnsen        |  22.8 |        17 |        -1.18 |         +7.01 |
 |   23 | Matt Wong           |  22.6 |        55 |        +0.25 |         +5.66 |
 |   24 | Sam McCormick       |  21.7 |        13 |              |               |
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
-|   26 | Jonathan Francis    |  20.7 |        55 |              |         +1.08 |
+|   26 | Jonathan Francis    |  20.6 |        56 |        -0.12 |         +0.97 |
 |   27 | Shaun Lim           |  20.5 |        33 |              |         +0.35 |
 |   28 | Dror Matalon        |  20.3 |       335 |        -0.08 |         -0.62 |
 |   29 | Chris Flores        |  20.1 |       291 |              |         -0.05 |
