@@ -52,8 +52,8 @@ Generated 2016-05-15.
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
 |   49 | Ethan Kerr                |  25.7 |         8 |        -0.52 |               |
 |   50 | Annie Rein-Weston         |  25.7 |        18 |              |               |
-|   51 | Mikael Rehn               |  25.4 |         5 |              |               |
-|   52 | Saurabh Bajaj             |  24.8 |        13 |        +0.58 |               |
+|   51 | Saurabh Bajaj             |  25.5 |        14 |        +1.35 |               |
+|   52 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   53 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
 |   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   55 | Christopher Tsang         |  24.4 |        76 |              |               |
@@ -88,7 +88,7 @@ Generated 2016-05-15.
 |   84 | Mike Jensen-Akula         |  22.9 |       206 |              |         +0.08 |
 |   85 | Reid Johnsen              |  22.8 |        17 |        -1.18 |         +7.01 |
 |   86 | Dante Popple              |  22.8 |        17 |              |               |
-|   87 | Matt Wong                 |  22.6 |        55 |        +0.25 |         +5.66 |
+|   87 | Matt Wong                 |  22.6 |        56 |        +0.22 |         +5.63 |
 |   88 | Adam Angsten              |  22.5 |         3 |              |               |
 |   89 | Richard Chan              |  22.5 |         9 |              |               |
 |   90 | Orion Hodson              |  22.5 |        31 |              |               |
