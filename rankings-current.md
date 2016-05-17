@@ -23,18 +23,18 @@ Generated 2016-05-17.
 |   19 | Jared Bard          |  23.1 |        19 |              |         +5.48 |
 |   20 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
 |   21 | Reid Johnsen        |  22.8 |        17 |        -1.18 |         +7.01 |
-|   22 | Mike Jensen-Akula   |  22.7 |       207 |        -0.13 |         -0.04 |
-|   23 | Matt Wong           |  22.6 |        56 |        +0.22 |         +5.63 |
+|   22 | Matt Wong           |  22.8 |        57 |        +0.38 |         +5.78 |
+|   23 | Mike Jensen-Akula   |  22.7 |       207 |        -0.13 |         -0.04 |
 |   24 | Sam McCormick       |  21.7 |        13 |              |               |
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
 |   26 | Jonathan Francis    |  20.6 |        56 |        -0.12 |         +0.97 |
-|   27 | Dror Matalon        |  20.3 |       335 |        -0.08 |         -0.62 |
+|   27 | Dror Matalon        |  20.2 |       336 |        -0.13 |         -0.68 |
 |   28 | Shaun Lim           |  20.2 |        34 |        -0.38 |         -0.03 |
 |   29 | Chris Flores        |  20.1 |       291 |              |         -0.05 |
 |   30 | Jacob Kersey        |  19.9 |        15 |              |               |
 |   31 | Subrato Dey         |  18.0 |        17 |        +2.23 |               |
 |   32 | Kenny Bell          |  18.0 |       102 |        -0.05 |         +1.00 |
-|   33 | Josh Trauner        |  17.8 |        18 |        +0.88 |               |
+|   33 | Josh Trauner        |  17.8 |        18 |        +0.87 |               |
 |   34 | Eric Borden         |  16.8 |        18 |              |               |
 |   35 | Kent Daniels        |  16.4 |        74 |        -0.21 |         +2.03 |
 |   36 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |

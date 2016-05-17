@@ -87,8 +87,8 @@ Generated 2016-05-17.
 |   83 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   84 | Reid Johnsen              |  22.8 |        17 |        -1.18 |         +7.01 |
 |   85 | Dante Popple              |  22.8 |        17 |              |               |
-|   86 | Mike Jensen-Akula         |  22.7 |       207 |        -0.13 |         -0.04 |
-|   87 | Matt Wong                 |  22.6 |        56 |        +0.22 |         +5.63 |
+|   86 | Matt Wong                 |  22.8 |        57 |        +0.38 |         +5.78 |
+|   87 | Mike Jensen-Akula         |  22.7 |       207 |        -0.13 |         -0.04 |
 |   88 | Adam Angsten              |  22.5 |         3 |              |               |
 |   89 | Richard Chan              |  22.5 |         9 |              |               |
 |   90 | Orion Hodson              |  22.5 |        31 |              |               |
@@ -121,7 +121,7 @@ Generated 2016-05-17.
 |  117 | Omair Azam                |  20.6 |        18 |              |               |
 |  118 | Jonathan Francis          |  20.6 |        56 |        -0.12 |         +0.97 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
-|  120 | Dror Matalon              |  20.3 |       335 |        -0.08 |         -0.62 |
+|  120 | Dror Matalon              |  20.2 |       336 |        -0.13 |         -0.68 |
 |  121 | Shaun Lim                 |  20.2 |        34 |        -0.38 |         -0.03 |
 |  122 | Chris Flores              |  20.1 |       291 |              |         -0.05 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
@@ -164,7 +164,7 @@ Generated 2016-05-17.
 |  160 | Andres Rodriguez          |  18.0 |        55 |              |         +0.21 |
 |  161 | Robert Geiger             |  17.8 |         8 |              |               |
 |  162 | Jim Evans                 |  17.8 |       216 |              |               |
-|  163 | Josh Trauner              |  17.8 |        18 |        +0.88 |               |
+|  163 | Josh Trauner              |  17.8 |        18 |        +0.87 |               |
 |  164 | Hari Dhavala              |  17.7 |        27 |              |               |
 |  165 | Britta Gardner            |  17.7 |        16 |              |               |
 |  166 | Thomas Scanlon            |  17.6 |        20 |              |               |
