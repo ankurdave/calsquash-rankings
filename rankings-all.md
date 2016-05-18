@@ -27,16 +27,16 @@ Generated 2016-05-18.
 |   23 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   24 | Frank Kennamer            |  28.7 |       198 |              |         -0.04 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   26 | John Kunze                |  28.4 |       289 |              |         -0.29 |
+|   26 | John Kunze                |  28.4 |       290 |        -0.07 |         -0.36 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
 |   29 | Eric Katerman             |  28.2 |         6 |        +4.93 |               |
-|   30 | Michael Best              |  28.1 |        21 |              |               |
-|   31 | Jehan Engineer            |  28.0 |         9 |              |               |
-|   32 | Arvind Muralimohan        |  27.9 |        16 |              |               |
-|   33 | Samer Shehata             |  27.8 |        29 |              |               |
-|   34 | Andrew Moylan             |  27.8 |        95 |              |               |
-|   35 | Vishi                     |  27.8 |        37 |              |         -0.75 |
+|   30 | Vishi                     |  28.2 |        38 |        +0.40 |         -0.35 |
+|   31 | Michael Best              |  28.1 |        21 |              |               |
+|   32 | Jehan Engineer            |  28.0 |         9 |              |               |
+|   33 | Arvind Muralimohan        |  27.9 |        16 |              |               |
+|   34 | Samer Shehata             |  27.8 |        29 |              |               |
+|   35 | Andrew Moylan             |  27.8 |        95 |              |               |
 |   36 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
 |   37 | Hussain Raza              |  27.3 |        50 |              |               |
 |   38 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |

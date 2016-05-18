@@ -8,9 +8,9 @@ Generated 2016-05-18.
 |    4 | Sam Sternberg       |  30.1 |       108 |        +0.12 |         +0.09 |
 |    5 | Jim Veitch          |  29.2 |       407 |        -0.08 |         +0.14 |
 |    6 | Frank Kennamer      |  28.7 |       198 |              |         -0.04 |
-|    7 | John Kunze          |  28.4 |       289 |              |         -0.29 |
+|    7 | John Kunze          |  28.4 |       290 |        -0.07 |         -0.36 |
 |    8 | Eric Katerman       |  28.2 |         6 |        +4.93 |               |
-|    9 | Vishi               |  27.8 |        37 |              |         -0.75 |
+|    9 | Vishi               |  28.2 |        38 |        +0.40 |         -0.35 |
 |   10 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
 |   11 | Nick Cobbett        |  26.8 |        20 |        -0.13 |               |
 |   12 | Dan Meier           |  26.0 |        38 |              |         +7.99 |
