@@ -2,7 +2,7 @@ Generated 2016-05-18.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  43.0 |       210 |        -0.11 |         +0.16 |
+|    1 | Ashley Kayler             |  43.0 |       211 |        -0.10 |         +0.16 |
 |    2 | Thomas Lowish             |  38.1 |         7 |        +2.19 |         +3.67 |
 |    3 | Paul Valiant              |  37.3 |        63 |              |               |
 |    4 | Rees Sweeney-Taylor       |  37.1 |        80 |              |         +1.55 |
@@ -30,7 +30,7 @@ Generated 2016-05-18.
 |   26 | John Kunze                |  28.4 |       290 |        -0.07 |         -0.36 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
-|   29 | Eric Katerman             |  28.2 |         6 |        +4.93 |               |
+|   29 | Eric Katerman             |  28.2 |         6 |        +4.92 |               |
 |   30 | Vishi                     |  28.2 |        38 |        +0.40 |         -0.35 |
 |   31 | Michael Best              |  28.1 |        21 |              |               |
 |   32 | Jehan Engineer            |  28.0 |         9 |              |               |
@@ -40,7 +40,7 @@ Generated 2016-05-18.
 |   36 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
 |   37 | Hussain Raza              |  27.3 |        50 |              |               |
 |   38 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |
-|   39 | Nick Cobbett              |  26.8 |        20 |        -0.13 |               |
+|   39 | Nick Cobbett              |  26.8 |        21 |        -0.13 |               |
 |   40 | Stephen Dang              |  26.8 |        34 |              |               |
 |   41 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
 |   42 | Ignacio Canals            |  26.7 |        21 |              |               |
