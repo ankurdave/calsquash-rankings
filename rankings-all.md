@@ -2,8 +2,8 @@ Generated 2016-05-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  43.0 |       209 |        -0.15 |         +0.12 |
-|    2 | Thomas Lowish             |  38.1 |         7 |        +2.18 |         +3.66 |
+|    1 | Ashley Kayler             |  43.0 |       210 |        -0.11 |         +0.16 |
+|    2 | Thomas Lowish             |  38.1 |         7 |        +2.19 |         +3.67 |
 |    3 | Paul Valiant              |  37.3 |        63 |              |               |
 |    4 | Rees Sweeney-Taylor       |  37.1 |        80 |              |         +1.55 |
 |    5 | Dominic Gaffney           |  36.5 |        54 |              |               |
@@ -28,9 +28,9 @@ Generated 2016-05-17.
 |   24 | Frank Kennamer            |  28.7 |       198 |              |         -0.04 |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.4 |       289 |              |         -0.29 |
-|   27 | Eric Katerman             |  28.3 |         5 |        +5.02 |               |
-|   28 | Ben Faber                 |  28.3 |        15 |              |               |
-|   29 | Josh Taylor               |  28.3 |        40 |              |               |
+|   27 | Ben Faber                 |  28.3 |        15 |              |               |
+|   28 | Josh Taylor               |  28.3 |        40 |              |               |
+|   29 | Eric Katerman             |  28.2 |         6 |        +4.93 |               |
 |   30 | Michael Best              |  28.1 |        21 |              |               |
 |   31 | Jehan Engineer            |  28.0 |         9 |              |               |
 |   32 | Arvind Muralimohan        |  27.9 |        16 |              |               |
@@ -40,7 +40,7 @@ Generated 2016-05-17.
 |   36 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
 |   37 | Hussain Raza              |  27.3 |        50 |              |               |
 |   38 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |
-|   39 | Nick Cobbett              |  26.9 |        20 |        -0.12 |               |
+|   39 | Nick Cobbett              |  26.8 |        20 |        -0.13 |               |
 |   40 | Stephen Dang              |  26.8 |        34 |              |               |
 |   41 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
 |   42 | Ignacio Canals            |  26.7 |        21 |              |               |
@@ -50,8 +50,8 @@ Generated 2016-05-17.
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
 |   47 | Dan Meier                 |  26.0 |        38 |              |         +7.99 |
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
-|   49 | Ethan Kerr                |  25.7 |         8 |        -0.52 |               |
-|   50 | Annie Rein-Weston         |  25.7 |        18 |              |               |
+|   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
+|   50 | Ethan Kerr                |  25.6 |         8 |        -0.57 |               |
 |   51 | Saurabh Bajaj             |  25.5 |        14 |        +1.35 |               |
 |   52 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   53 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
