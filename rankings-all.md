@@ -5,7 +5,7 @@ Generated 2016-05-19.
 |    1 | Ashley Kayler             |  43.0 |       211 |        -0.09 |         +0.17 |
 |    2 | Thomas Lowish             |  39.0 |         8 |        +3.02 |         +4.50 |
 |    3 | Paul Valiant              |  37.3 |        63 |              |               |
-|    4 | Rees Sweeney-Taylor       |  37.0 |        81 |        -0.08 |         +1.48 |
+|    4 | Rees Sweeney-Taylor       |  37.1 |        82 |        +0.08 |         +1.63 |
 |    5 | Dominic Gaffney           |  36.5 |        54 |              |               |
 |    6 | Tanu Sankalia             |  36.2 |        94 |              |               |
 |    7 | Jeff Grant                |  35.4 |       207 |              |               |
@@ -30,17 +30,17 @@ Generated 2016-05-19.
 |   26 | John Kunze                |  28.4 |       290 |        -0.07 |         -0.36 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
-|   29 | Eric Katerman             |  28.2 |         6 |        +4.92 |               |
-|   30 | Vishi                     |  28.2 |        38 |        +0.40 |         -0.35 |
-|   31 | Michael Best              |  28.1 |        21 |              |               |
-|   32 | Jehan Engineer            |  28.0 |         9 |              |               |
-|   33 | Arvind Muralimohan        |  27.9 |        16 |              |               |
+|   29 | Vishi                     |  28.2 |        38 |        +0.40 |         -0.35 |
+|   30 | Michael Best              |  28.1 |        21 |              |               |
+|   31 | Jehan Engineer            |  28.0 |         9 |              |               |
+|   32 | Arvind Muralimohan        |  27.9 |        16 |              |               |
+|   33 | Eric Katerman             |  27.9 |         7 |        +4.61 |               |
 |   34 | Samer Shehata             |  27.8 |        29 |              |               |
 |   35 | Andrew Moylan             |  27.8 |        95 |              |               |
 |   36 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
 |   37 | Hussain Raza              |  27.3 |        50 |              |               |
 |   38 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |
-|   39 | Nick Cobbett              |  26.8 |        21 |        -0.13 |               |
+|   39 | Nick Cobbett              |  26.8 |        21 |        -0.19 |               |
 |   40 | Stephen Dang              |  26.8 |        34 |              |               |
 |   41 | Shaun Tay Zi Xuan         |  26.7 |         4 |              |               |
 |   42 | Ignacio Canals            |  26.7 |        21 |              |               |
@@ -51,7 +51,7 @@ Generated 2016-05-19.
 |   47 | Dan Meier                 |  26.0 |        38 |              |         +7.99 |
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
 |   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
-|   50 | Ethan Kerr                |  25.6 |         8 |        -0.57 |               |
+|   50 | Ethan Kerr                |  25.7 |         8 |        -0.55 |               |
 |   51 | Saurabh Bajaj             |  25.6 |        14 |        +1.37 |               |
 |   52 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   53 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
