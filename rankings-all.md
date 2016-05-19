@@ -240,12 +240,12 @@ Generated 2016-05-19.
 |  236 | Natalie Bratwood          |  13.8 |         5 |              |               |
 |  237 | Craig Riddell             |  13.6 |         8 |              |               |
 |  238 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
-|  239 | Yan Liu                   |  13.4 |        10 |              |         -1.64 |
-|  240 | Tanit Follett             |  13.2 |         8 |              |               |
-|  241 | Mimi Zhang                |  13.2 |         6 |              |               |
-|  242 | Alex Rennet               |  13.2 |         2 |              |               |
-|  243 | Adam Soliman              |  13.2 |        32 |              |               |
-|  244 | Reto Sutter               |  13.1 |        36 |              |         +3.35 |
+|  239 | Reto Sutter               |  13.4 |        37 |        +0.25 |         +3.60 |
+|  240 | Yan Liu                   |  13.4 |        10 |              |         -1.64 |
+|  241 | Tanit Follett             |  13.2 |         8 |              |               |
+|  242 | Mimi Zhang                |  13.2 |         6 |              |               |
+|  243 | Alex Rennet               |  13.2 |         2 |              |               |
+|  244 | Adam Soliman              |  13.2 |        32 |              |               |
 |  245 | David Isaksson            |  13.1 |        22 |              |         +2.57 |
 |  246 | Steven Hahm               |  13.1 |         5 |              |               |
 |  247 | Ankur Dave                |  13.1 |        33 |        +0.86 |               |
@@ -320,9 +320,9 @@ Generated 2016-05-19.
 |  316 | George Bentley            |   8.5 |         4 |              |               |
 |  317 | Bob Roller                |   8.5 |         6 |              |               |
 |  318 | Larry Dale                |   8.4 |        29 |              |               |
-|  319 | Brian Kempenich           |   8.3 |        28 |              |         +0.40 |
-|  320 | Max Oltersdorf            |   8.3 |         8 |              |               |
-|  321 | Kevin Pollock             |   8.2 |        28 |              |               |
+|  319 | Max Oltersdorf            |   8.3 |         8 |              |               |
+|  320 | Kevin Pollock             |   8.2 |        28 |              |               |
+|  321 | Brian Kempenich           |   8.2 |        29 |        -0.11 |         +0.28 |
 |  322 | Nicolas Huber             |   8.2 |         4 |              |               |
 |  323 | Marc Bensadoun            |   8.1 |         5 |              |               |
 |  324 | Reynold Xin               |   7.9 |         5 |              |               |
