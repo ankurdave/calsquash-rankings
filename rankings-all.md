@@ -52,7 +52,7 @@ Generated 2016-05-18.
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
 |   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   50 | Ethan Kerr                |  25.6 |         8 |        -0.57 |               |
-|   51 | Saurabh Bajaj             |  25.5 |        14 |        +1.35 |               |
+|   51 | Saurabh Bajaj             |  25.6 |        14 |        +1.37 |               |
 |   52 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   53 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
 |   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
@@ -83,11 +83,11 @@ Generated 2016-05-18.
 |   79 | Jared Bard                |  23.1 |        19 |              |         +5.48 |
 |   80 | Jan Beranek               |  23.1 |        46 |              |               |
 |   81 | Gary Golding              |  23.1 |         6 |              |               |
-|   82 | Prakash Bathini           |  22.9 |       117 |              |         -0.02 |
-|   83 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   84 | Reid Johnsen              |  22.8 |        17 |        -1.18 |         +7.01 |
-|   85 | Dante Popple              |  22.8 |        17 |              |               |
-|   86 | Matt Wong                 |  22.8 |        57 |        +0.38 |         +5.78 |
+|   82 | Matt Wong                 |  22.9 |        58 |        +0.54 |         +5.95 |
+|   83 | Prakash Bathini           |  22.9 |       117 |              |         -0.02 |
+|   84 | Alex Jermyn               |  22.9 |         3 |              |               |
+|   85 | Reid Johnsen              |  22.8 |        17 |        -1.18 |         +7.01 |
+|   86 | Dante Popple              |  22.8 |        17 |              |               |
 |   87 | Mike Jensen-Akula         |  22.7 |       207 |        -0.13 |         -0.04 |
 |   88 | Adam Angsten              |  22.5 |         3 |              |               |
 |   89 | Richard Chan              |  22.5 |         9 |              |               |
@@ -121,7 +121,7 @@ Generated 2016-05-18.
 |  117 | Omair Azam                |  20.6 |        18 |              |               |
 |  118 | Jonathan Francis          |  20.6 |        56 |        -0.12 |         +0.97 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
-|  120 | Dror Matalon              |  20.2 |       336 |        -0.13 |         -0.68 |
+|  120 | Dror Matalon              |  20.2 |       336 |        -0.14 |         -0.69 |
 |  121 | Shaun Lim                 |  20.2 |        34 |        -0.38 |         -0.03 |
 |  122 | Chris Flores              |  20.1 |       291 |              |         -0.05 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
@@ -164,10 +164,10 @@ Generated 2016-05-18.
 |  160 | Andres Rodriguez          |  18.0 |        55 |              |         +0.21 |
 |  161 | Robert Geiger             |  17.8 |         8 |              |               |
 |  162 | Jim Evans                 |  17.8 |       216 |              |               |
-|  163 | Josh Trauner              |  17.8 |        18 |        +0.87 |               |
-|  164 | Hari Dhavala              |  17.7 |        27 |              |               |
-|  165 | Britta Gardner            |  17.7 |        16 |              |               |
-|  166 | Thomas Scanlon            |  17.6 |        20 |              |               |
+|  163 | Hari Dhavala              |  17.7 |        27 |              |               |
+|  164 | Britta Gardner            |  17.7 |        16 |              |               |
+|  165 | Thomas Scanlon            |  17.6 |        20 |              |               |
+|  166 | Josh Trauner              |  17.5 |        19 |        +0.61 |               |
 |  167 | Neil Conway               |  17.5 |        55 |              |               |
 |  168 | Frank Kennan              |  17.5 |        11 |              |               |
 |  169 | Adam Jacob                |  17.4 |         3 |              |               |
