@@ -58,7 +58,7 @@ Generated 2016-05-19.
 |   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   55 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   56 | Benjamin Vicuna           |  24.4 |        50 |              |         +6.09 |
-|   57 | Mark Modera               |  24.3 |       298 |        +0.13 |         -1.22 |
+|   57 | Mark Modera               |  24.3 |       298 |        +0.11 |         -1.24 |
 |   58 | Charlie Weiss             |  24.3 |        70 |              |         +1.25 |
 |   59 | Adam Pollak               |  24.2 |        31 |              |               |
 |   60 | Toby Reiner               |  24.2 |       159 |              |               |
@@ -71,9 +71,9 @@ Generated 2016-05-19.
 |   67 | Sean O'Nuallain           |  23.8 |        43 |              |               |
 |   68 | Martin Stokes             |  23.8 |        12 |              |               |
 |   69 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   70 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
-|   71 | Joe Farrell               |  23.4 |        30 |              |               |
-|   72 | Jonathan Hankar           |  23.4 |       174 |        +0.12 |         -0.05 |
+|   70 | Jonathan Hankar           |  23.6 |       175 |        +0.30 |         +0.13 |
+|   71 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
+|   72 | Joe Farrell               |  23.4 |        30 |              |               |
 |   73 | Andrew Hsu                |  23.4 |        15 |              |               |
 |   74 | Vyas Sekar                |  23.3 |        17 |              |               |
 |   75 | Sushil Shetty             |  23.3 |        23 |              |               |
@@ -86,18 +86,18 @@ Generated 2016-05-19.
 |   82 | Matt Wong                 |  22.9 |        58 |        +0.54 |         +5.95 |
 |   83 | Prakash Bathini           |  22.9 |       117 |              |         -0.02 |
 |   84 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   85 | Reid Johnsen              |  22.8 |        17 |        -1.18 |         +7.01 |
-|   86 | Dante Popple              |  22.8 |        17 |              |               |
-|   87 | Mike Jensen-Akula         |  22.7 |       207 |        -0.13 |         -0.04 |
-|   88 | Adam Angsten              |  22.5 |         3 |              |               |
-|   89 | Richard Chan              |  22.5 |         9 |              |               |
-|   90 | Orion Hodson              |  22.5 |        31 |              |               |
-|   91 | Rahul Gupta               |  22.4 |         7 |              |               |
-|   92 | Lyle Fearnley             |  22.3 |        30 |              |               |
-|   93 | Peter McDermott           |  22.3 |        10 |              |               |
-|   94 | Paul Greene               |  22.1 |         8 |              |               |
-|   95 | Philip Bildner            |  22.1 |        22 |              |               |
-|   96 | Kelvin Wong               |  22.0 |        44 |              |               |
+|   85 | Dante Popple              |  22.8 |        17 |              |               |
+|   86 | Mike Jensen-Akula         |  22.7 |       207 |        -0.13 |         -0.04 |
+|   87 | Adam Angsten              |  22.5 |         3 |              |               |
+|   88 | Richard Chan              |  22.5 |         9 |              |               |
+|   89 | Orion Hodson              |  22.5 |        31 |              |               |
+|   90 | Rahul Gupta               |  22.4 |         7 |              |               |
+|   91 | Lyle Fearnley             |  22.3 |        30 |              |               |
+|   92 | Peter McDermott           |  22.3 |        10 |              |               |
+|   93 | Paul Greene               |  22.1 |         8 |              |               |
+|   94 | Philip Bildner            |  22.1 |        22 |              |               |
+|   95 | Kelvin Wong               |  22.0 |        44 |              |               |
+|   96 | Reid Johnsen              |  21.9 |        18 |        -2.11 |         +6.07 |
 |   97 | Harlan Yu                 |  21.9 |        19 |              |               |
 |   98 | Robert Schwartz           |  21.8 |        73 |              |               |
 |   99 | Sam McCormick             |  21.7 |        13 |              |               |

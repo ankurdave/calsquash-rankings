@@ -17,14 +17,14 @@ Generated 2016-05-19.
 |   13 | Ethan Kerr          |  25.6 |         8 |        -0.57 |               |
 |   14 | Saurabh Bajaj       |  25.6 |        14 |        +1.37 |               |
 |   15 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
-|   16 | Mark Modera         |  24.3 |       298 |        +0.13 |         -1.22 |
-|   17 | Jonathan Hankar     |  23.4 |       174 |        +0.12 |         -0.05 |
+|   16 | Mark Modera         |  24.3 |       298 |        +0.11 |         -1.24 |
+|   17 | Jonathan Hankar     |  23.6 |       175 |        +0.30 |         +0.13 |
 |   18 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
 |   19 | Jared Bard          |  23.1 |        19 |              |         +5.48 |
 |   20 | Matt Wong           |  22.9 |        58 |        +0.54 |         +5.95 |
 |   21 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
-|   22 | Reid Johnsen        |  22.8 |        17 |        -1.18 |         +7.01 |
-|   23 | Mike Jensen-Akula   |  22.7 |       207 |        -0.13 |         -0.04 |
+|   22 | Mike Jensen-Akula   |  22.7 |       207 |        -0.13 |         -0.04 |
+|   23 | Reid Johnsen        |  21.9 |        18 |        -2.11 |         +6.07 |
 |   24 | Sam McCormick       |  21.7 |        13 |              |               |
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
 |   26 | Jonathan Francis    |  20.6 |        56 |        -0.12 |         +0.97 |
