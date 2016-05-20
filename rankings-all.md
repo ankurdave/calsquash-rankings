@@ -65,22 +65,22 @@ Generated 2016-05-19.
 |   61 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   62 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   63 | Jon Shih                  |  24.0 |        47 |              |               |
-|   64 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   65 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   66 | Matt Waid                 |  23.8 |        51 |              |               |
-|   67 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   68 | Martin Stokes             |  23.8 |        12 |              |               |
-|   69 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   70 | Jonathan Hankar           |  23.6 |       175 |        +0.30 |         +0.13 |
-|   71 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
-|   72 | Joe Farrell               |  23.4 |        30 |              |               |
-|   73 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   74 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   75 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   76 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   77 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   78 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
-|   79 | Jared Bard                |  23.1 |        19 |              |         +5.48 |
+|   64 | Jared Bard                |  23.9 |        21 |        +0.79 |         +6.27 |
+|   65 | Daniel Greengard          |  23.9 |        37 |              |               |
+|   66 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   67 | Matt Waid                 |  23.8 |        51 |              |               |
+|   68 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   69 | Martin Stokes             |  23.8 |        12 |              |               |
+|   70 | Todd Wirsching            |  23.7 |         8 |              |               |
+|   71 | Jonathan Hankar           |  23.6 |       175 |        +0.30 |         +0.13 |
+|   72 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
+|   73 | Joe Farrell               |  23.4 |        30 |              |               |
+|   74 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   75 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   76 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   77 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   78 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   79 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
 |   80 | Jan Beranek               |  23.1 |        46 |              |               |
 |   81 | Gary Golding              |  23.1 |         6 |              |               |
 |   82 | Matt Wong                 |  22.9 |        58 |        +0.54 |         +5.95 |
@@ -123,7 +123,7 @@ Generated 2016-05-19.
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  120 | Dror Matalon              |  20.2 |       336 |        -0.14 |         -0.69 |
 |  121 | Shaun Lim                 |  20.2 |        34 |        -0.38 |         -0.03 |
-|  122 | Chris Flores              |  20.1 |       291 |              |         -0.05 |
+|  122 | Chris Flores              |  20.1 |       292 |        -0.03 |         -0.08 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
 |  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +17.08 |
 |  125 | Whit Eldredge             |  19.7 |         2 |              |               |
@@ -188,7 +188,7 @@ Generated 2016-05-19.
 |  184 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  185 | William Coleman           |  16.8 |        48 |              |               |
 |  186 | Darren Morgan             |  16.8 |        11 |              |               |
-|  187 | Eric Borden               |  16.8 |        18 |              |               |
+|  187 | Eric Borden               |  16.7 |        19 |        -0.05 |               |
 |  188 | Viraj Paropkari           |  16.7 |        16 |              |               |
 |  189 | Dennis Dornan             |  16.6 |        12 |              |               |
 |  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |

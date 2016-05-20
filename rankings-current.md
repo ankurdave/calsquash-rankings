@@ -18,9 +18,9 @@ Generated 2016-05-19.
 |   14 | Saurabh Bajaj       |  25.6 |        14 |        +1.37 |               |
 |   15 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
 |   16 | Mark Modera         |  24.3 |       298 |        +0.11 |         -1.24 |
-|   17 | Jonathan Hankar     |  23.6 |       175 |        +0.30 |         +0.13 |
-|   18 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
-|   19 | Jared Bard          |  23.1 |        19 |              |         +5.48 |
+|   17 | Jared Bard          |  23.9 |        21 |        +0.79 |         +6.27 |
+|   18 | Jonathan Hankar     |  23.6 |       175 |        +0.30 |         +0.13 |
+|   19 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
 |   20 | Matt Wong           |  22.9 |        58 |        +0.54 |         +5.95 |
 |   21 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
 |   22 | Mike Jensen-Akula   |  22.7 |       207 |        -0.13 |         -0.04 |
@@ -30,12 +30,12 @@ Generated 2016-05-19.
 |   26 | Jonathan Francis    |  20.6 |        56 |        -0.12 |         +0.97 |
 |   27 | Dror Matalon        |  20.2 |       336 |        -0.14 |         -0.69 |
 |   28 | Shaun Lim           |  20.2 |        34 |        -0.38 |         -0.03 |
-|   29 | Chris Flores        |  20.1 |       291 |              |         -0.05 |
+|   29 | Chris Flores        |  20.1 |       292 |        -0.03 |         -0.08 |
 |   30 | Jacob Kersey        |  19.9 |        15 |              |               |
 |   31 | Subrato Dey         |  18.0 |        17 |        +2.23 |               |
 |   32 | Kenny Bell          |  18.0 |       102 |        -0.05 |         +1.00 |
 |   33 | Josh Trauner        |  17.5 |        19 |        +0.61 |               |
-|   34 | Eric Borden         |  16.8 |        18 |              |               |
+|   34 | Eric Borden         |  16.7 |        19 |        -0.05 |               |
 |   35 | Kent Daniels        |  16.4 |        74 |        -0.21 |         +2.03 |
 |   36 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |
 |   37 | Rupert Myers        |  15.0 |        25 |              |               |
