@@ -238,21 +238,21 @@ Generated 2016-05-19.
 |  234 | Mike Delanty              |  13.9 |        12 |              |               |
 |  235 | James Chung               |  13.8 |         7 |              |               |
 |  236 | Natalie Bratwood          |  13.8 |         5 |              |               |
-|  237 | Craig Riddell             |  13.6 |         8 |              |               |
-|  238 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
-|  239 | Reto Sutter               |  13.4 |        37 |        +0.25 |         +3.60 |
-|  240 | Yan Liu                   |  13.4 |        10 |              |         -1.64 |
-|  241 | Tanit Follett             |  13.2 |         8 |              |               |
-|  242 | Mimi Zhang                |  13.2 |         6 |              |               |
-|  243 | Alex Rennet               |  13.2 |         2 |              |               |
-|  244 | Adam Soliman              |  13.2 |        32 |              |               |
-|  245 | David Isaksson            |  13.1 |        22 |              |         +2.57 |
-|  246 | Steven Hahm               |  13.1 |         5 |              |               |
-|  247 | Ankur Dave                |  13.1 |        33 |        +0.86 |               |
-|  248 | Gautam Tankha             |  13.0 |         7 |              |               |
-|  249 | Louis Russell             |  13.0 |        20 |              |               |
-|  250 | Sushant Jain              |  12.9 |        12 |              |               |
-|  251 | Raphael Magarik           |  12.9 |         5 |              |               |
+|  237 | Raphael Magarik           |  13.6 |         6 |        +0.69 |               |
+|  238 | Craig Riddell             |  13.6 |         8 |              |               |
+|  239 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
+|  240 | Reto Sutter               |  13.4 |        37 |        +0.25 |         +3.60 |
+|  241 | Yan Liu                   |  13.4 |        10 |              |         -1.64 |
+|  242 | Tanit Follett             |  13.2 |         8 |              |               |
+|  243 | Mimi Zhang                |  13.2 |         6 |              |               |
+|  244 | Alex Rennet               |  13.2 |         2 |              |               |
+|  245 | Adam Soliman              |  13.2 |        32 |              |               |
+|  246 | David Isaksson            |  13.1 |        22 |              |         +2.57 |
+|  247 | Steven Hahm               |  13.1 |         5 |              |               |
+|  248 | Ankur Dave                |  13.1 |        33 |        +0.86 |               |
+|  249 | Gautam Tankha             |  13.0 |         7 |              |               |
+|  250 | Louis Russell             |  13.0 |        20 |              |               |
+|  251 | Sushant Jain              |  12.9 |        12 |              |               |
 |  252 | Akash Sharma              |  12.9 |         8 |              |               |
 |  253 | Marco Gonzalez-Navarro    |  12.9 |        32 |              |               |
 |  254 | Marghoob Mohiyuddin       |  12.7 |        31 |              |               |
@@ -322,8 +322,8 @@ Generated 2016-05-19.
 |  318 | Larry Dale                |   8.4 |        29 |              |               |
 |  319 | Max Oltersdorf            |   8.3 |         8 |              |               |
 |  320 | Kevin Pollock             |   8.2 |        28 |              |               |
-|  321 | Brian Kempenich           |   8.2 |        29 |        -0.11 |         +0.28 |
-|  322 | Nicolas Huber             |   8.2 |         4 |              |               |
+|  321 | Nicolas Huber             |   8.2 |         4 |              |               |
+|  322 | Brian Kempenich           |   8.2 |        30 |        -0.13 |         +0.27 |
 |  323 | Marc Bensadoun            |   8.1 |         5 |              |               |
 |  324 | Reynold Xin               |   7.9 |         5 |              |               |
 |  325 | Joshua Braver             |   7.9 |         1 |              |               |
