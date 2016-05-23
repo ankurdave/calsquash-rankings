@@ -32,14 +32,14 @@ Generated 2016-05-23.
 |   28 | Shaun Lim           |  20.2 |        34 |        -0.38 |         -0.03 |
 |   29 | Chris Flores        |  20.1 |       292 |        -0.03 |         -0.08 |
 |   30 | Jacob Kersey        |  19.9 |        15 |              |               |
-|   31 | Subrato Dey         |  18.0 |        17 |        +2.23 |               |
+|   31 | Subrato Dey         |  18.4 |        18 |        +2.61 |               |
 |   32 | Kenny Bell          |  18.0 |       102 |        -0.05 |         +1.00 |
 |   33 | Josh Trauner        |  17.5 |        19 |        +0.61 |               |
 |   34 | Eric Borden         |  16.7 |        19 |        -0.05 |               |
 |   35 | Kent Daniels        |  16.4 |        74 |        -0.21 |         +2.03 |
 |   36 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |
 |   37 | Rupert Myers        |  15.0 |        25 |              |               |
-|   38 | Terry Chang         |  13.9 |        34 |              |         +3.14 |
+|   38 | Terry Chang         |  13.8 |        35 |        -0.09 |         +3.04 |
 |   39 | Raphael Magarik     |  13.6 |         6 |        +0.69 |               |
 |   40 | Reto Sutter         |  13.4 |        37 |        +0.25 |         +3.60 |
 |   41 | Ankur Dave          |  13.1 |        33 |        +0.86 |               |

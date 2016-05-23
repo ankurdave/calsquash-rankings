@@ -149,17 +149,17 @@ Generated 2016-05-23.
 |  145 | Allan Sly                 |  18.6 |        29 |              |               |
 |  146 | Jaime Perez               |  18.5 |        11 |              |               |
 |  147 | Sam Trachtman             |  18.5 |         5 |              |               |
-|  148 | Ian Lunt                  |  18.3 |         9 |              |               |
-|  149 | William Seles             |  18.2 |        15 |              |               |
-|  150 | Javed Ahmed               |  18.2 |        58 |              |               |
-|  151 | Andres Ramirez            |  18.2 |         8 |              |               |
-|  152 | Jaime Vidal               |  18.2 |         8 |              |               |
-|  153 | Geoffrey Barrows          |  18.1 |        14 |              |               |
-|  154 | Jamie Funk                |  18.1 |        30 |              |               |
-|  155 | Lucas Cheon               |  18.1 |        19 |              |               |
-|  156 | Himanshu Jatia            |  18.1 |         4 |              |               |
-|  157 | Anubhav Gupta             |  18.0 |         8 |              |               |
-|  158 | Subrato Dey               |  18.0 |        17 |        +2.23 |               |
+|  148 | Subrato Dey               |  18.4 |        18 |        +2.61 |               |
+|  149 | Ian Lunt                  |  18.3 |         9 |              |               |
+|  150 | William Seles             |  18.2 |        15 |              |               |
+|  151 | Javed Ahmed               |  18.2 |        58 |              |               |
+|  152 | Andres Ramirez            |  18.2 |         8 |              |               |
+|  153 | Jaime Vidal               |  18.2 |         8 |              |               |
+|  154 | Geoffrey Barrows          |  18.1 |        14 |              |               |
+|  155 | Jamie Funk                |  18.1 |        30 |              |               |
+|  156 | Lucas Cheon               |  18.1 |        19 |              |               |
+|  157 | Himanshu Jatia            |  18.1 |         4 |              |               |
+|  158 | Anubhav Gupta             |  18.0 |         8 |              |               |
 |  159 | Kenny Bell                |  18.0 |       102 |        -0.05 |         +1.00 |
 |  160 | Andres Rodriguez          |  18.0 |        55 |              |         +0.21 |
 |  161 | Robert Geiger             |  17.8 |         8 |              |               |
@@ -234,9 +234,9 @@ Generated 2016-05-23.
 |  230 | Greg Adams                |  14.0 |        10 |              |               |
 |  231 | Vipul Singhvi             |  14.0 |         8 |              |               |
 |  232 | Baxter Leman              |  13.9 |         6 |              |               |
-|  233 | Terry Chang               |  13.9 |        34 |              |         +3.14 |
-|  234 | Mike Delanty              |  13.9 |        12 |              |               |
-|  235 | James Chung               |  13.8 |         7 |              |               |
+|  233 | Mike Delanty              |  13.9 |        12 |              |               |
+|  234 | James Chung               |  13.8 |         7 |              |               |
+|  235 | Terry Chang               |  13.8 |        35 |        -0.09 |         +3.04 |
 |  236 | Natalie Bratwood          |  13.8 |         5 |              |               |
 |  237 | Raphael Magarik           |  13.6 |         6 |        +0.69 |               |
 |  238 | Craig Riddell             |  13.6 |         8 |              |               |
