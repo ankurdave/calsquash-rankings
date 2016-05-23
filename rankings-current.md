@@ -6,10 +6,10 @@ Generated 2016-05-23.
 |    2 | Thomas Lowish       |  39.0 |         8 |        +3.02 |         +4.50 |
 |    3 | Rees Sweeney-Taylor |  37.1 |        82 |        +0.08 |         +1.63 |
 |    4 | Sam Sternberg       |  30.1 |       108 |        +0.12 |         +0.09 |
-|    5 | Jim Veitch          |  29.2 |       407 |        -0.08 |         +0.14 |
+|    5 | Jim Veitch          |  29.1 |       408 |        -0.19 |         +0.03 |
 |    6 | Frank Kennamer      |  28.8 |       199 |        +0.10 |         +0.06 |
-|    7 | John Kunze          |  28.3 |       291 |        -0.16 |         -0.45 |
-|    8 | Vishi               |  28.2 |        38 |        +0.40 |         -0.35 |
+|    7 | John Kunze          |  28.4 |       292 |        -0.05 |         -0.33 |
+|    8 | Vishi               |  28.2 |        38 |        +0.41 |         -0.34 |
 |    9 | Eric Katerman       |  27.9 |         7 |        +4.61 |               |
 |   10 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
 |   11 | Nick Cobbett        |  26.8 |        21 |        -0.19 |               |

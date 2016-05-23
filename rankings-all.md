@@ -22,15 +22,15 @@ Generated 2016-05-23.
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
 |   19 | Louis Morrill             |  29.4 |        10 |              |               |
 |   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
-|   21 | Jim Veitch                |  29.2 |       407 |        -0.08 |         +0.14 |
+|   21 | Jim Veitch                |  29.1 |       408 |        -0.19 |         +0.03 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
 |   23 | Frank Kennamer            |  28.8 |       199 |        +0.10 |         +0.06 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   26 | Ben Faber                 |  28.3 |        15 |              |               |
-|   27 | Josh Taylor               |  28.3 |        40 |              |               |
-|   28 | John Kunze                |  28.3 |       291 |        -0.16 |         -0.45 |
-|   29 | Vishi                     |  28.2 |        38 |        +0.40 |         -0.35 |
+|   26 | John Kunze                |  28.4 |       292 |        -0.05 |         -0.33 |
+|   27 | Ben Faber                 |  28.3 |        15 |              |               |
+|   28 | Josh Taylor               |  28.3 |        40 |              |               |
+|   29 | Vishi                     |  28.2 |        38 |        +0.41 |         -0.34 |
 |   30 | Michael Best              |  28.1 |        21 |              |               |
 |   31 | Jehan Engineer            |  28.0 |         9 |              |               |
 |   32 | Arvind Muralimohan        |  27.9 |        16 |              |               |
