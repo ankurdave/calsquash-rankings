@@ -24,12 +24,12 @@ Generated 2016-05-22.
 |   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   21 | Jim Veitch                |  29.2 |       407 |        -0.08 |         +0.14 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
-|   23 | Rodrigo Cabral            |  28.7 |        29 |              |               |
-|   24 | Frank Kennamer            |  28.7 |       198 |              |         -0.04 |
+|   23 | Frank Kennamer            |  28.8 |       199 |        +0.10 |         +0.06 |
+|   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   26 | John Kunze                |  28.4 |       290 |        -0.07 |         -0.36 |
-|   27 | Ben Faber                 |  28.3 |        15 |              |               |
-|   28 | Josh Taylor               |  28.3 |        40 |              |               |
+|   26 | Ben Faber                 |  28.3 |        15 |              |               |
+|   27 | Josh Taylor               |  28.3 |        40 |              |               |
+|   28 | John Kunze                |  28.3 |       291 |        -0.16 |         -0.45 |
 |   29 | Vishi                     |  28.2 |        38 |        +0.40 |         -0.35 |
 |   30 | Michael Best              |  28.1 |        21 |              |               |
 |   31 | Jehan Engineer            |  28.0 |         9 |              |               |

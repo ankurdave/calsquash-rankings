@@ -7,8 +7,8 @@ Generated 2016-05-22.
 |    3 | Rees Sweeney-Taylor |  37.1 |        82 |        +0.08 |         +1.63 |
 |    4 | Sam Sternberg       |  30.1 |       108 |        +0.12 |         +0.09 |
 |    5 | Jim Veitch          |  29.2 |       407 |        -0.08 |         +0.14 |
-|    6 | Frank Kennamer      |  28.7 |       198 |              |         -0.04 |
-|    7 | John Kunze          |  28.4 |       290 |        -0.07 |         -0.36 |
+|    6 | Frank Kennamer      |  28.8 |       199 |        +0.10 |         +0.06 |
+|    7 | John Kunze          |  28.3 |       291 |        -0.16 |         -0.45 |
 |    8 | Vishi               |  28.2 |        38 |        +0.40 |         -0.35 |
 |    9 | Eric Katerman       |  27.9 |         7 |        +4.61 |               |
 |   10 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
