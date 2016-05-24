@@ -121,7 +121,7 @@ Generated 2016-05-24.
 |  117 | Omair Azam                |  20.6 |        18 |              |               |
 |  118 | Jonathan Francis          |  20.6 |        56 |        -0.12 |         +0.97 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
-|  120 | Dror Matalon              |  20.2 |       336 |        -0.14 |         -0.69 |
+|  120 | Dror Matalon              |  20.2 |       336 |        -0.15 |         -0.69 |
 |  121 | Shaun Lim                 |  20.2 |        34 |        -0.38 |         -0.03 |
 |  122 | Chris Flores              |  20.1 |       292 |        -0.03 |         -0.08 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
@@ -155,33 +155,33 @@ Generated 2016-05-24.
 |  151 | Javed Ahmed               |  18.2 |        58 |              |               |
 |  152 | Andres Ramirez            |  18.2 |         8 |              |               |
 |  153 | Jaime Vidal               |  18.2 |         8 |              |               |
-|  154 | Geoffrey Barrows          |  18.1 |        14 |              |               |
-|  155 | Jamie Funk                |  18.1 |        30 |              |               |
-|  156 | Lucas Cheon               |  18.1 |        19 |              |               |
-|  157 | Himanshu Jatia            |  18.1 |         4 |              |               |
-|  158 | Anubhav Gupta             |  18.0 |         8 |              |               |
-|  159 | Kenny Bell                |  18.0 |       102 |        -0.05 |         +1.00 |
+|  154 | Kenny Bell                |  18.2 |       103 |        +0.13 |         +1.18 |
+|  155 | Geoffrey Barrows          |  18.1 |        14 |              |               |
+|  156 | Jamie Funk                |  18.1 |        30 |              |               |
+|  157 | Lucas Cheon               |  18.1 |        19 |              |               |
+|  158 | Himanshu Jatia            |  18.1 |         4 |              |               |
+|  159 | Anubhav Gupta             |  18.0 |         8 |              |               |
 |  160 | Andres Rodriguez          |  18.0 |        55 |              |         +0.21 |
 |  161 | Robert Geiger             |  17.8 |         8 |              |               |
 |  162 | Jim Evans                 |  17.8 |       216 |              |               |
 |  163 | Hari Dhavala              |  17.7 |        27 |              |               |
 |  164 | Britta Gardner            |  17.7 |        16 |              |               |
 |  165 | Thomas Scanlon            |  17.6 |        20 |              |               |
-|  166 | Josh Trauner              |  17.5 |        19 |        +0.61 |               |
-|  167 | Neil Conway               |  17.5 |        55 |              |               |
-|  168 | Frank Kennan              |  17.5 |        11 |              |               |
-|  169 | Adam Jacob                |  17.4 |         3 |              |               |
-|  170 | Steven Sloman             |  17.3 |        10 |              |               |
-|  171 | Arbi Vartan               |  17.3 |        20 |              |               |
-|  172 | Patrick Baylis            |  17.3 |        12 |              |               |
-|  173 | Mark Priven               |  17.3 |        72 |              |               |
-|  174 | Sridhar Rajaram           |  17.3 |        30 |              |               |
-|  175 | Leor Lovinger             |  17.3 |         6 |              |               |
-|  176 | Errick Ceppas             |  17.2 |         6 |              |               |
-|  177 | Juliet Lamont             |  17.2 |        58 |              |               |
-|  178 | Wolfram Pohl              |  17.1 |        60 |              |               |
-|  179 | Joseph Farrell            |  17.0 |         8 |              |               |
-|  180 | Nacho Quaglio             |  17.0 |         3 |              |               |
+|  166 | Neil Conway               |  17.5 |        55 |              |               |
+|  167 | Frank Kennan              |  17.5 |        11 |              |               |
+|  168 | Adam Jacob                |  17.4 |         3 |              |               |
+|  169 | Steven Sloman             |  17.3 |        10 |              |               |
+|  170 | Arbi Vartan               |  17.3 |        20 |              |               |
+|  171 | Patrick Baylis            |  17.3 |        12 |              |               |
+|  172 | Mark Priven               |  17.3 |        72 |              |               |
+|  173 | Sridhar Rajaram           |  17.3 |        30 |              |               |
+|  174 | Leor Lovinger             |  17.3 |         6 |              |               |
+|  175 | Errick Ceppas             |  17.2 |         6 |              |               |
+|  176 | Juliet Lamont             |  17.2 |        58 |              |               |
+|  177 | Wolfram Pohl              |  17.1 |        60 |              |               |
+|  178 | Joseph Farrell            |  17.0 |         8 |              |               |
+|  179 | Nacho Quaglio             |  17.0 |         3 |              |               |
+|  180 | Josh Trauner              |  17.0 |        20 |        +0.05 |               |
 |  181 | Sebastien Biraud          |  17.0 |        60 |              |               |
 |  182 | Kedar Shah                |  16.9 |         9 |              |               |
 |  183 | Sarah Mcneil              |  16.9 |        24 |              |               |
