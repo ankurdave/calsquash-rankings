@@ -39,16 +39,16 @@ Generated 2016-05-23.
 |   35 | Kent Daniels        |  16.4 |        74 |        -0.21 |         +2.03 |
 |   36 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |
 |   37 | Rupert Myers        |  15.0 |        25 |              |               |
-|   38 | Terry Chang         |  13.8 |        35 |        -0.09 |         +3.04 |
-|   39 | Raphael Magarik     |  13.6 |         6 |        +0.69 |               |
-|   40 | Reto Sutter         |  13.4 |        37 |        +0.25 |         +3.60 |
+|   38 | Reto Sutter         |  14.0 |        38 |        +0.85 |         +4.20 |
+|   39 | Terry Chang         |  13.8 |        35 |        -0.09 |         +3.04 |
+|   40 | Raphael Magarik     |  13.6 |         6 |        +0.69 |               |
 |   41 | Ankur Dave          |  13.1 |        33 |        +0.86 |               |
-|   42 | Jose Lara           |  10.6 |         3 |              |               |
-|   43 | Daniel Schwartz     |  10.4 |        11 |        -0.44 |               |
-|   44 | Nikhil Paranjape    |   9.8 |         9 |        +2.43 |               |
-|   45 | Duo Wang            |   9.2 |        56 |        -0.06 |         +2.40 |
-|   46 | Brian Kempenich     |   8.2 |        30 |        -0.13 |         +0.27 |
-|   47 | Alok Singh          |   7.2 |         8 |              |               |
+|   42 | Daniel Schwartz     |  10.4 |        11 |        -0.44 |               |
+|   43 | Nikhil Paranjape    |   9.8 |         9 |        +2.43 |               |
+|   44 | Duo Wang            |   9.2 |        56 |        -0.06 |         +2.40 |
+|   45 | Brian Kempenich     |   8.2 |        30 |        -0.13 |         +0.27 |
+|   46 | Alok Singh          |   7.2 |         8 |              |               |
+|   47 | Jose Lara           |   7.1 |         4 |        -3.55 |               |
 |   48 | Nate Aden           |   5.8 |         9 |        -0.26 |               |
 |   49 | Wayne Heiser        |   4.4 |        13 |              |               |
 |   50 | Josh Lebowitz       |   3.2 |        11 |              |               |
