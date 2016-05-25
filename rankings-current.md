@@ -2,7 +2,7 @@ Generated 2016-05-25.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler       |  43.0 |       211 |        -0.09 |         +0.17 |
+|    1 | Ashley Kayler       |  43.0 |       212 |        -0.07 |         +0.20 |
 |    2 | Thomas Lowish       |  39.0 |         8 |        +3.02 |         +4.50 |
 |    3 | Rees Sweeney-Taylor |  37.1 |        82 |        +0.08 |         +1.63 |
 |    4 | Sam Sternberg       |  30.1 |       108 |        +0.12 |         +0.09 |
@@ -14,7 +14,7 @@ Generated 2016-05-25.
 |   10 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
 |   11 | Nick Cobbett        |  26.8 |        21 |        -0.19 |               |
 |   12 | Dan Meier           |  26.0 |        38 |              |         +7.99 |
-|   13 | Ethan Kerr          |  25.7 |         8 |        -0.55 |               |
+|   13 | Ethan Kerr          |  25.7 |         9 |        -0.51 |               |
 |   14 | Saurabh Bajaj       |  25.6 |        14 |        +1.37 |               |
 |   15 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
 |   16 | Mark Modera         |  24.3 |       298 |        +0.11 |         -1.24 |

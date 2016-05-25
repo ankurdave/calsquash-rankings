@@ -2,7 +2,7 @@ Generated 2016-05-25.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  43.0 |       211 |        -0.09 |         +0.17 |
+|    1 | Ashley Kayler             |  43.0 |       212 |        -0.07 |         +0.20 |
 |    2 | Thomas Lowish             |  39.0 |         8 |        +3.02 |         +4.50 |
 |    3 | Paul Valiant              |  37.3 |        63 |              |               |
 |    4 | Rees Sweeney-Taylor       |  37.1 |        82 |        +0.08 |         +1.63 |
@@ -50,8 +50,8 @@ Generated 2016-05-25.
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
 |   47 | Dan Meier                 |  26.0 |        38 |              |         +7.99 |
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
-|   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
-|   50 | Ethan Kerr                |  25.7 |         8 |        -0.55 |               |
+|   49 | Ethan Kerr                |  25.7 |         9 |        -0.51 |               |
+|   50 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   51 | Saurabh Bajaj             |  25.6 |        14 |        +1.37 |               |
 |   52 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   53 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
