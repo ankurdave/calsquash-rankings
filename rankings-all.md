@@ -1,4 +1,4 @@
-Generated 2016-05-25.
+Generated 2016-05-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -65,43 +65,43 @@ Generated 2016-05-25.
 |   61 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   62 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
 |   63 | Jon Shih                  |  24.0 |        47 |              |               |
-|   64 | Jared Bard                |  23.9 |        21 |        +0.79 |         +6.27 |
-|   65 | Daniel Greengard          |  23.9 |        37 |              |               |
-|   66 | Ivo Plsek                 |  23.9 |        60 |              |               |
-|   67 | Matt Waid                 |  23.8 |        51 |              |               |
-|   68 | Sean O'Nuallain           |  23.8 |        43 |              |               |
-|   69 | Martin Stokes             |  23.8 |        12 |              |               |
-|   70 | Todd Wirsching            |  23.7 |         8 |              |               |
-|   71 | Jonathan Hankar           |  23.6 |       175 |        +0.30 |         +0.13 |
-|   72 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
-|   73 | Joe Farrell               |  23.4 |        30 |              |               |
-|   74 | Andrew Hsu                |  23.4 |        15 |              |               |
-|   75 | Vyas Sekar                |  23.3 |        17 |              |               |
-|   76 | Sushil Shetty             |  23.3 |        23 |              |               |
-|   77 | Sonesh Surana             |  23.2 |        95 |              |               |
-|   78 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   79 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
-|   80 | Jan Beranek               |  23.1 |        46 |              |               |
-|   81 | Gary Golding              |  23.1 |         6 |              |               |
-|   82 | Matt Wong                 |  22.9 |        58 |        +0.54 |         +5.95 |
-|   83 | Prakash Bathini           |  22.9 |       117 |              |         -0.02 |
-|   84 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   85 | Dante Popple              |  22.8 |        17 |              |               |
-|   86 | Mike Jensen-Akula         |  22.7 |       207 |        -0.13 |         -0.04 |
-|   87 | Adam Angsten              |  22.5 |         3 |              |               |
-|   88 | Richard Chan              |  22.5 |         9 |              |               |
-|   89 | Orion Hodson              |  22.5 |        31 |              |               |
-|   90 | Rahul Gupta               |  22.4 |         7 |              |               |
-|   91 | Lyle Fearnley             |  22.3 |        30 |              |               |
-|   92 | Peter McDermott           |  22.3 |        10 |              |               |
-|   93 | Paul Greene               |  22.1 |         8 |              |               |
-|   94 | Philip Bildner            |  22.1 |        22 |              |               |
-|   95 | Kelvin Wong               |  22.0 |        44 |              |               |
-|   96 | Reid Johnsen              |  21.9 |        18 |        -2.11 |         +6.07 |
-|   97 | Harlan Yu                 |  21.9 |        19 |              |               |
-|   98 | Robert Schwartz           |  21.8 |        73 |              |               |
-|   99 | Sam McCormick             |  21.7 |        13 |              |               |
-|  100 | Robert Ashmore            |  21.7 |       104 |              |               |
+|   64 | Daniel Greengard          |  23.9 |        37 |              |               |
+|   65 | Ivo Plsek                 |  23.9 |        60 |              |               |
+|   66 | Matt Waid                 |  23.8 |        51 |              |               |
+|   67 | Sean O'Nuallain           |  23.8 |        43 |              |               |
+|   68 | Martin Stokes             |  23.8 |        12 |              |               |
+|   69 | Todd Wirsching            |  23.7 |         8 |              |               |
+|   70 | Jonathan Hankar           |  23.6 |       175 |        +0.30 |         +0.13 |
+|   71 | Thomas Krussig            |  23.5 |        16 |              |         +0.27 |
+|   72 | Joe Farrell               |  23.4 |        30 |              |               |
+|   73 | Andrew Hsu                |  23.4 |        15 |              |               |
+|   74 | Vyas Sekar                |  23.3 |        17 |              |               |
+|   75 | Sushil Shetty             |  23.3 |        23 |              |               |
+|   76 | Sonesh Surana             |  23.2 |        95 |              |               |
+|   77 | Mikey Zarem               |  23.2 |         8 |              |               |
+|   78 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
+|   79 | Jan Beranek               |  23.1 |        46 |              |               |
+|   80 | Gary Golding              |  23.1 |         6 |              |               |
+|   81 | Matt Wong                 |  22.9 |        58 |        +0.54 |         +5.95 |
+|   82 | Prakash Bathini           |  22.9 |       117 |              |         -0.02 |
+|   83 | Alex Jermyn               |  22.9 |         3 |              |               |
+|   84 | Dante Popple              |  22.8 |        17 |              |               |
+|   85 | Mike Jensen-Akula         |  22.7 |       207 |        -0.13 |         -0.04 |
+|   86 | Adam Angsten              |  22.5 |         3 |              |               |
+|   87 | Richard Chan              |  22.5 |         9 |              |               |
+|   88 | Orion Hodson              |  22.5 |        31 |              |               |
+|   89 | Rahul Gupta               |  22.4 |         7 |              |               |
+|   90 | Lyle Fearnley             |  22.3 |        30 |              |               |
+|   91 | Peter McDermott           |  22.3 |        10 |              |               |
+|   92 | Paul Greene               |  22.1 |         8 |              |               |
+|   93 | Philip Bildner            |  22.1 |        22 |              |               |
+|   94 | Kelvin Wong               |  22.0 |        44 |              |               |
+|   95 | Reid Johnsen              |  21.9 |        18 |        -2.11 |         +6.07 |
+|   96 | Harlan Yu                 |  21.9 |        19 |              |               |
+|   97 | Robert Schwartz           |  21.8 |        73 |              |               |
+|   98 | Sam McCormick             |  21.7 |        13 |              |               |
+|   99 | Robert Ashmore            |  21.7 |       104 |              |               |
+|  100 | Jared Bard                |  21.7 |        22 |        -1.46 |         +4.02 |
 |  101 | Zarah Rahman              |  21.6 |        13 |              |         +1.81 |
 |  102 | Amy Lee                   |  21.6 |        56 |              |               |
 |  103 | Kameshwar Poolla          |  21.6 |        11 |              |               |
@@ -310,65 +310,65 @@ Generated 2016-05-25.
 |  306 | Ulf Baumann               |   8.9 |         4 |              |               |
 |  307 | Lysander Jim              |   8.9 |         6 |              |               |
 |  308 | Ed Rubin                  |   8.8 |        14 |              |               |
-|  309 | Josh Shiode               |   8.7 |        20 |              |               |
-|  310 | Mohammed Shamma           |   8.6 |         5 |              |               |
-|  311 | Jonas Hansen              |   8.6 |        14 |              |         -0.18 |
-|  312 | Wladislaw Ellis           |   8.5 |        29 |              |               |
-|  313 | Prasad Santhanam          |   8.5 |         7 |              |         +3.55 |
-|  314 | Raunak Bhinge             |   8.5 |         8 |              |               |
-|  315 | George Bentley            |   8.5 |         4 |              |               |
-|  316 | Bob Roller                |   8.5 |         6 |              |               |
-|  317 | Larry Dale                |   8.4 |        29 |              |               |
-|  318 | Max Oltersdorf            |   8.3 |         8 |              |               |
-|  319 | Kevin Pollock             |   8.2 |        28 |              |               |
-|  320 | Nicolas Huber             |   8.2 |         4 |              |               |
-|  321 | Brian Kempenich           |   8.2 |        30 |        -0.13 |         +0.27 |
-|  322 | Marc Bensadoun            |   8.1 |         5 |              |               |
-|  323 | Reynold Xin               |   7.9 |         5 |              |               |
-|  324 | Joshua Braver             |   7.9 |         1 |              |               |
-|  325 | Steven Yee                |   7.8 |         9 |              |               |
-|  326 | Deepak Dasalukunte        |   7.7 |         9 |              |               |
-|  327 | Fabrice Henrion           |   7.7 |         2 |              |               |
-|  328 | Paul Norberg              |   7.6 |         8 |              |               |
-|  329 | Kunal Talwar              |   7.6 |         1 |              |               |
-|  330 | Dav Clark                 |   7.4 |         6 |              |         +7.19 |
-|  331 | Alok Singh                |   7.2 |         8 |              |               |
-|  332 | Max Grass                 |   7.2 |         1 |              |               |
-|  333 | Joseph Duggan             |   7.1 |         8 |              |               |
-|  334 | Jose Lara                 |   7.1 |         4 |        -3.55 |               |
-|  335 | Min Joon Seo              |   7.0 |         3 |              |               |
-|  336 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
-|  337 | Rob Cuthrell              |   7.0 |        11 |              |               |
-|  338 | John Provine              |   7.0 |        16 |              |               |
-|  339 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.40 |
-|  340 | Virginie Letschert        |   6.6 |        18 |              |               |
-|  341 | Michael Friedlander       |   6.5 |         3 |              |               |
-|  342 | Jules Bowie               |   6.4 |        12 |              |               |
-|  343 | Arno Ferguson             |   6.4 |         1 |              |               |
-|  344 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  345 | John Coates               |   6.1 |         9 |              |               |
-|  346 | Nate Aden                 |   5.8 |         9 |        -0.26 |               |
-|  347 | John Givens               |   5.8 |        13 |              |               |
-|  348 | Phil Hartmeyer            |   5.6 |         3 |              |               |
-|  349 | Bobby Hicks               |   5.5 |         2 |              |               |
-|  350 | Brian Puglise             |   5.5 |         2 |              |               |
-|  351 | Max Woodworth             |   5.3 |         7 |              |               |
-|  352 | Sylvan Arevalo            |   5.3 |         3 |              |               |
-|  353 | Ali Umar                  |   5.2 |        13 |              |               |
-|  354 | Lucas Siow                |   5.2 |        10 |              |               |
-|  355 | Anshuman Tiwari           |   5.2 |         2 |              |               |
-|  356 | Yashraj Khaitain          |   5.1 |         2 |              |               |
-|  357 | Zarina Khan               |   5.0 |         5 |              |               |
-|  358 | Lucy Fairweather          |   5.0 |        11 |              |               |
-|  359 | Anosha Siripala           |   4.9 |        10 |              |               |
-|  360 | Robert Broesler           |   4.9 |         4 |              |               |
-|  361 | Alexander Zuern           |   4.8 |        25 |              |               |
-|  362 | Nikhil Srivastava         |   4.8 |        16 |              |               |
-|  363 | Vishnu Narayanan          |   4.7 |        12 |              |               |
-|  364 | Anurag Gupta              |   4.7 |         6 |              |               |
-|  365 | Greg Sperla               |   4.5 |         8 |              |               |
-|  366 | Zsolt Bartha              |   4.5 |        42 |              |         -0.47 |
-|  367 | Wayne Heiser              |   4.4 |        13 |              |               |
+|  309 | Wayne Heiser              |   8.8 |        14 |        +4.41 |               |
+|  310 | Josh Shiode               |   8.7 |        20 |              |               |
+|  311 | Mohammed Shamma           |   8.6 |         5 |              |               |
+|  312 | Jonas Hansen              |   8.6 |        14 |              |         -0.18 |
+|  313 | Wladislaw Ellis           |   8.5 |        29 |              |               |
+|  314 | Prasad Santhanam          |   8.5 |         7 |              |         +3.55 |
+|  315 | Raunak Bhinge             |   8.5 |         8 |              |               |
+|  316 | George Bentley            |   8.5 |         4 |              |               |
+|  317 | Bob Roller                |   8.5 |         6 |              |               |
+|  318 | Larry Dale                |   8.4 |        29 |              |               |
+|  319 | Max Oltersdorf            |   8.3 |         8 |              |               |
+|  320 | Kevin Pollock             |   8.2 |        28 |              |               |
+|  321 | Nicolas Huber             |   8.2 |         4 |              |               |
+|  322 | Brian Kempenich           |   8.2 |        30 |        -0.13 |         +0.27 |
+|  323 | Marc Bensadoun            |   8.1 |         5 |              |               |
+|  324 | Reynold Xin               |   7.9 |         5 |              |               |
+|  325 | Joshua Braver             |   7.9 |         1 |              |               |
+|  326 | Steven Yee                |   7.8 |         9 |              |               |
+|  327 | Deepak Dasalukunte        |   7.7 |         9 |              |               |
+|  328 | Fabrice Henrion           |   7.7 |         2 |              |               |
+|  329 | Paul Norberg              |   7.6 |         8 |              |               |
+|  330 | Kunal Talwar              |   7.6 |         1 |              |               |
+|  331 | Dav Clark                 |   7.4 |         6 |              |         +7.19 |
+|  332 | Alok Singh                |   7.2 |         8 |              |               |
+|  333 | Max Grass                 |   7.2 |         1 |              |               |
+|  334 | Joseph Duggan             |   7.1 |         8 |              |               |
+|  335 | Jose Lara                 |   7.1 |         4 |        -3.55 |               |
+|  336 | Min Joon Seo              |   7.0 |         3 |              |               |
+|  337 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
+|  338 | Rob Cuthrell              |   7.0 |        11 |              |               |
+|  339 | John Provine              |   7.0 |        16 |              |               |
+|  340 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.40 |
+|  341 | Virginie Letschert        |   6.6 |        18 |              |               |
+|  342 | Michael Friedlander       |   6.5 |         3 |              |               |
+|  343 | Jules Bowie               |   6.4 |        12 |              |               |
+|  344 | Arno Ferguson             |   6.4 |         1 |              |               |
+|  345 | Fahad Riyadh              |   6.3 |         5 |              |               |
+|  346 | John Coates               |   6.1 |         9 |              |               |
+|  347 | Nate Aden                 |   5.8 |         9 |        -0.26 |               |
+|  348 | John Givens               |   5.8 |        13 |              |               |
+|  349 | Phil Hartmeyer            |   5.6 |         3 |              |               |
+|  350 | Bobby Hicks               |   5.5 |         2 |              |               |
+|  351 | Brian Puglise             |   5.5 |         2 |              |               |
+|  352 | Max Woodworth             |   5.3 |         7 |              |               |
+|  353 | Sylvan Arevalo            |   5.3 |         3 |              |               |
+|  354 | Ali Umar                  |   5.2 |        13 |              |               |
+|  355 | Lucas Siow                |   5.2 |        10 |              |               |
+|  356 | Anshuman Tiwari           |   5.2 |         2 |              |               |
+|  357 | Yashraj Khaitain          |   5.1 |         2 |              |               |
+|  358 | Zarina Khan               |   5.0 |         5 |              |               |
+|  359 | Lucy Fairweather          |   5.0 |        11 |              |               |
+|  360 | Anosha Siripala           |   4.9 |        10 |              |               |
+|  361 | Robert Broesler           |   4.9 |         4 |              |               |
+|  362 | Alexander Zuern           |   4.8 |        25 |              |               |
+|  363 | Nikhil Srivastava         |   4.8 |        16 |              |               |
+|  364 | Vishnu Narayanan          |   4.7 |        12 |              |               |
+|  365 | Anurag Gupta              |   4.7 |         6 |              |               |
+|  366 | Greg Sperla               |   4.5 |         8 |              |               |
+|  367 | Zsolt Bartha              |   4.5 |        42 |              |         -0.47 |
 |  368 | Mohammad Salama           |   4.2 |         5 |              |               |
 |  369 | Lewis H. Moore            |   4.0 |         8 |              |               |
 |  370 | Josephine Lee             |   3.9 |         6 |              |               |

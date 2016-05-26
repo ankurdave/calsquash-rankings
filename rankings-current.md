@@ -1,4 +1,4 @@
-Generated 2016-05-25.
+Generated 2016-05-26.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -18,14 +18,14 @@ Generated 2016-05-25.
 |   14 | Saurabh Bajaj       |  25.6 |        14 |        +1.37 |               |
 |   15 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
 |   16 | Mark Modera         |  24.3 |       298 |        +0.11 |         -1.24 |
-|   17 | Jared Bard          |  23.9 |        21 |        +0.79 |         +6.27 |
-|   18 | Jonathan Hankar     |  23.6 |       175 |        +0.30 |         +0.13 |
-|   19 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
-|   20 | Matt Wong           |  22.9 |        58 |        +0.54 |         +5.95 |
-|   21 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
-|   22 | Mike Jensen-Akula   |  22.7 |       207 |        -0.13 |         -0.04 |
-|   23 | Reid Johnsen        |  21.9 |        18 |        -2.11 |         +6.07 |
-|   24 | Sam McCormick       |  21.7 |        13 |              |               |
+|   17 | Jonathan Hankar     |  23.6 |       175 |        +0.30 |         +0.13 |
+|   18 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
+|   19 | Matt Wong           |  22.9 |        58 |        +0.54 |         +5.95 |
+|   20 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
+|   21 | Mike Jensen-Akula   |  22.7 |       207 |        -0.13 |         -0.04 |
+|   22 | Reid Johnsen        |  21.9 |        18 |        -2.11 |         +6.07 |
+|   23 | Sam McCormick       |  21.7 |        13 |              |               |
+|   24 | Jared Bard          |  21.7 |        22 |        -1.46 |         +4.02 |
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
 |   26 | Jonathan Francis    |  20.6 |        56 |        -0.12 |         +0.97 |
 |   27 | Dror Matalon        |  20.2 |       336 |        -0.15 |         -0.69 |
@@ -46,11 +46,11 @@ Generated 2016-05-25.
 |   42 | Daniel Schwartz     |  10.4 |        11 |        -0.44 |               |
 |   43 | Nikhil Paranjape    |   9.8 |         9 |        +2.43 |               |
 |   44 | Duo Wang            |   9.2 |        56 |        -0.06 |         +2.40 |
-|   45 | Brian Kempenich     |   8.2 |        30 |        -0.13 |         +0.27 |
-|   46 | Alok Singh          |   7.2 |         8 |              |               |
-|   47 | Jose Lara           |   7.1 |         4 |        -3.55 |               |
-|   48 | Nate Aden           |   5.8 |         9 |        -0.26 |               |
-|   49 | Wayne Heiser        |   4.4 |        13 |              |               |
+|   45 | Wayne Heiser        |   8.8 |        14 |        +4.41 |               |
+|   46 | Brian Kempenich     |   8.2 |        30 |        -0.13 |         +0.27 |
+|   47 | Alok Singh          |   7.2 |         8 |              |               |
+|   48 | Jose Lara           |   7.1 |         4 |        -3.55 |               |
+|   49 | Nate Aden           |   5.8 |         9 |        -0.26 |               |
 |   50 | Josh Lebowitz       |   3.2 |        11 |              |               |
 |   51 | Keaton Noon         |   3.1 |        11 |              |               |
 |   52 | Sandra Harpster     |   2.4 |         5 |              |               |
