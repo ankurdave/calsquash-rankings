@@ -43,8 +43,8 @@ Generated 2016-05-26.
 |   39 | Terry Chang         |  13.8 |        35 |        -0.09 |         +3.04 |
 |   40 | Raphael Magarik     |  13.6 |         6 |        +0.69 |               |
 |   41 | Ankur Dave          |  13.1 |        33 |        +0.86 |               |
-|   42 | Daniel Schwartz     |  10.4 |        11 |        -0.44 |               |
-|   43 | Nikhil Paranjape    |   9.8 |         9 |        +2.43 |               |
+|   42 | Nikhil Paranjape    |  11.0 |        10 |        +3.72 |               |
+|   43 | Daniel Schwartz     |  10.4 |        11 |        -0.44 |               |
 |   44 | Duo Wang            |   9.2 |        56 |        -0.06 |         +2.40 |
 |   45 | Wayne Heiser        |   8.8 |        14 |        +4.41 |               |
 |   46 | Brian Kempenich     |   8.2 |        30 |        -0.13 |         +0.27 |
@@ -54,5 +54,6 @@ Generated 2016-05-26.
 |   50 | Josh Lebowitz       |   3.2 |        11 |              |               |
 |   51 | Keaton Noon         |   3.1 |        11 |              |               |
 |   52 | Sandra Harpster     |   2.4 |         5 |              |               |
-|   53 | Ann Connolly        |  -2.8 |         4 |              |         -0.78 |
-|   54 | Shantanu Mittal     |  -2.9 |         3 |              |               |
+|   53 | Cristhian Daniel    |  -1.3 |         1 |              |               |
+|   54 | Ann Connolly        |  -2.8 |         4 |              |         -0.78 |
+|   55 | Shantanu Mittal     |  -2.9 |         3 |              |               |
