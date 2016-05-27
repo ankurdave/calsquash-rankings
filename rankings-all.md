@@ -22,9 +22,9 @@ Generated 2016-05-26.
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
 |   19 | Louis Morrill             |  29.4 |        10 |              |               |
 |   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
-|   21 | Jim Veitch                |  29.1 |       408 |        -0.19 |         +0.03 |
+|   21 | Jim Veitch                |  29.0 |       409 |        -0.28 |         -0.07 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
-|   23 | Frank Kennamer            |  28.8 |       199 |        +0.10 |         +0.06 |
+|   23 | Frank Kennamer            |  28.9 |       200 |        +0.22 |         +0.17 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.4 |       292 |        -0.05 |         -0.33 |
