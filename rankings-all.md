@@ -86,7 +86,7 @@ Generated 2016-05-27.
 |   82 | Prakash Bathini           |  22.9 |       117 |              |         -0.02 |
 |   83 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
-|   85 | Mike Jensen-Akula         |  22.7 |       207 |        -0.13 |         -0.04 |
+|   85 | Mike Jensen-Akula         |  22.7 |       207 |        -0.14 |         -0.06 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
 |   87 | Richard Chan              |  22.5 |         9 |              |               |
 |   88 | Orion Hodson              |  22.5 |        31 |              |               |
@@ -122,7 +122,7 @@ Generated 2016-05-27.
 |  118 | Jonathan Francis          |  20.6 |        56 |        -0.12 |         +0.97 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  120 | Dror Matalon              |  20.2 |       336 |        -0.15 |         -0.69 |
-|  121 | Shaun Lim                 |  20.2 |        34 |        -0.38 |         -0.03 |
+|  121 | Shaun Lim                 |  20.2 |        34 |        -0.34 |         +0.01 |
 |  122 | Chris Flores              |  20.1 |       292 |        -0.03 |         -0.08 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
 |  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +17.08 |

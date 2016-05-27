@@ -22,14 +22,14 @@ Generated 2016-05-27.
 |   18 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
 |   19 | Matt Wong           |  22.9 |        58 |        +0.54 |         +5.95 |
 |   20 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
-|   21 | Mike Jensen-Akula   |  22.7 |       207 |        -0.13 |         -0.04 |
+|   21 | Mike Jensen-Akula   |  22.7 |       207 |        -0.14 |         -0.06 |
 |   22 | Reid Johnsen        |  21.9 |        18 |        -2.11 |         +6.07 |
 |   23 | Sam McCormick       |  21.7 |        13 |              |               |
 |   24 | Jared Bard          |  21.7 |        22 |        -1.46 |         +4.02 |
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
 |   26 | Jonathan Francis    |  20.6 |        56 |        -0.12 |         +0.97 |
 |   27 | Dror Matalon        |  20.2 |       336 |        -0.15 |         -0.69 |
-|   28 | Shaun Lim           |  20.2 |        34 |        -0.38 |         -0.03 |
+|   28 | Shaun Lim           |  20.2 |        34 |        -0.34 |         +0.01 |
 |   29 | Chris Flores        |  20.1 |       292 |        -0.03 |         -0.08 |
 |   30 | Jacob Kersey        |  19.9 |        15 |              |               |
 |   31 | Subrato Dey         |  18.4 |        18 |        +2.61 |               |
