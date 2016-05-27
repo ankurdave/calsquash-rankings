@@ -2,10 +2,10 @@ Generated 2016-05-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler             |  43.0 |       212 |        -0.08 |         +0.19 |
-|    2 | Thomas Lowish             |  39.0 |         8 |        +3.02 |         +4.50 |
+|    1 | Ashley Kayler             |  43.0 |       212 |        -0.09 |         +0.18 |
+|    2 | Thomas Lowish             |  38.9 |         8 |        +2.99 |         +4.48 |
 |    3 | Paul Valiant              |  37.3 |        63 |              |               |
-|    4 | Rees Sweeney-Taylor       |  37.1 |        82 |        +0.08 |         +1.63 |
+|    4 | Rees Sweeney-Taylor       |  37.1 |        82 |        +0.07 |         +1.63 |
 |    5 | Dominic Gaffney           |  36.5 |        54 |              |               |
 |    6 | Tanu Sankalia             |  36.2 |        94 |              |               |
 |    7 | Jeff Grant                |  35.4 |       207 |              |               |
@@ -34,11 +34,11 @@ Generated 2016-05-27.
 |   30 | Michael Best              |  28.1 |        21 |              |               |
 |   31 | Jehan Engineer            |  28.0 |         9 |              |               |
 |   32 | Arvind Muralimohan        |  27.9 |        16 |              |               |
-|   33 | Samer Shehata             |  27.8 |        29 |              |               |
-|   34 | Andrew Moylan             |  27.8 |        95 |              |               |
-|   35 | Eric Katerman             |  27.7 |         7 |        +4.45 |               |
-|   36 | Nick Cobbett              |  27.6 |        22 |        +0.65 |               |
-|   37 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
+|   33 | Eric Katerman             |  27.9 |         7 |        +4.61 |               |
+|   34 | Samer Shehata             |  27.8 |        29 |              |               |
+|   35 | Andrew Moylan             |  27.8 |        95 |              |               |
+|   36 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
+|   37 | Nick Cobbett              |  27.5 |        22 |        +0.56 |               |
 |   38 | Hussain Raza              |  27.3 |        50 |              |               |
 |   39 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |
 |   40 | Stephen Dang              |  26.8 |        34 |              |               |
@@ -53,7 +53,7 @@ Generated 2016-05-27.
 |   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   50 | Saurabh Bajaj             |  25.6 |        14 |        +1.37 |               |
 |   51 | Mikael Rehn               |  25.4 |         5 |              |               |
-|   52 | Ethan Kerr                |  24.9 |        10 |        -1.28 |               |
+|   52 | Ethan Kerr                |  24.9 |        10 |        -1.31 |               |
 |   53 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
 |   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   55 | Christopher Tsang         |  24.4 |        76 |              |               |
