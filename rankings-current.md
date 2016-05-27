@@ -2,7 +2,7 @@ Generated 2016-05-26.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler       |  43.0 |       212 |        -0.07 |         +0.20 |
+|    1 | Ashley Kayler       |  43.0 |       212 |        -0.08 |         +0.19 |
 |    2 | Thomas Lowish       |  39.0 |         8 |        +3.02 |         +4.50 |
 |    3 | Rees Sweeney-Taylor |  37.1 |        82 |        +0.08 |         +1.63 |
 |    4 | Sam Sternberg       |  30.1 |       108 |        +0.12 |         +0.09 |
@@ -10,12 +10,12 @@ Generated 2016-05-26.
 |    6 | Frank Kennamer      |  28.9 |       200 |        +0.22 |         +0.17 |
 |    7 | John Kunze          |  28.4 |       292 |        -0.05 |         -0.33 |
 |    8 | Vishi               |  28.2 |        38 |        +0.41 |         -0.34 |
-|    9 | Eric Katerman       |  27.9 |         7 |        +4.61 |               |
-|   10 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
-|   11 | Nick Cobbett        |  26.8 |        21 |        -0.19 |               |
+|    9 | Eric Katerman       |  27.7 |         7 |        +4.45 |               |
+|   10 | Nick Cobbett        |  27.6 |        22 |        +0.65 |               |
+|   11 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
 |   12 | Dan Meier           |  26.0 |        38 |              |         +7.99 |
-|   13 | Ethan Kerr          |  25.7 |         9 |        -0.51 |               |
-|   14 | Saurabh Bajaj       |  25.6 |        14 |        +1.37 |               |
+|   13 | Saurabh Bajaj       |  25.6 |        14 |        +1.37 |               |
+|   14 | Ethan Kerr          |  24.9 |        10 |        -1.28 |               |
 |   15 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
 |   16 | Mark Modera         |  24.3 |       298 |        +0.11 |         -1.24 |
 |   17 | Jonathan Hankar     |  23.6 |       175 |        +0.30 |         +0.13 |
