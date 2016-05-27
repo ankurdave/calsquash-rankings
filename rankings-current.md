@@ -25,18 +25,18 @@ Generated 2016-05-27.
 |   21 | Mike Jensen-Akula   |  22.7 |       207 |        -0.14 |         -0.06 |
 |   22 | Reid Johnsen        |  21.9 |        18 |        -2.11 |         +6.07 |
 |   23 | Sam McCormick       |  21.7 |        13 |              |               |
-|   24 | Jared Bard          |  21.7 |        22 |        -1.46 |         +4.02 |
+|   24 | Jared Bard          |  21.6 |        22 |        -1.50 |         +3.98 |
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
 |   26 | Jonathan Francis    |  20.6 |        56 |        -0.12 |         +0.97 |
 |   27 | Dror Matalon        |  20.2 |       336 |        -0.15 |         -0.69 |
 |   28 | Shaun Lim           |  20.2 |        34 |        -0.34 |         +0.01 |
-|   29 | Chris Flores        |  20.1 |       292 |        -0.03 |         -0.08 |
+|   29 | Chris Flores        |  20.0 |       294 |        -0.08 |         -0.13 |
 |   30 | Jacob Kersey        |  19.9 |        15 |              |               |
 |   31 | Subrato Dey         |  18.4 |        18 |        +2.61 |               |
 |   32 | Kenny Bell          |  18.2 |       103 |        +0.13 |         +1.18 |
 |   33 | Josh Trauner        |  17.0 |        20 |        +0.05 |               |
-|   34 | Eric Borden         |  16.7 |        19 |        -0.05 |               |
-|   35 | Kent Daniels        |  16.4 |        74 |        -0.21 |         +2.03 |
+|   34 | Kent Daniels        |  16.4 |        74 |        -0.21 |         +2.03 |
+|   35 | Eric Borden         |  16.4 |        20 |        -0.40 |               |
 |   36 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |
 |   37 | Rupert Myers        |  15.0 |        25 |              |               |
 |   38 | Reto Sutter         |  14.0 |        38 |        +0.85 |         +4.20 |
@@ -44,9 +44,9 @@ Generated 2016-05-27.
 |   40 | Raphael Magarik     |  13.6 |         6 |        +0.69 |               |
 |   41 | Ankur Dave          |  13.1 |        33 |        +0.86 |               |
 |   42 | Nikhil Paranjape    |  11.0 |        10 |        +3.72 |               |
-|   43 | Daniel Schwartz     |  10.4 |        11 |        -0.44 |               |
-|   44 | Duo Wang            |   9.2 |        56 |        -0.06 |         +2.40 |
-|   45 | Wayne Heiser        |   8.8 |        14 |        +4.41 |               |
+|   43 | Wayne Heiser        |  11.0 |        15 |        +6.61 |               |
+|   44 | Daniel Schwartz     |  10.4 |        11 |        -0.44 |               |
+|   45 | Duo Wang            |   9.2 |        56 |        -0.06 |         +2.40 |
 |   46 | Brian Kempenich     |   8.2 |        30 |        -0.13 |         +0.27 |
 |   47 | Alok Singh          |   7.2 |         8 |              |               |
 |   48 | Jose Lara           |   7.1 |         4 |        -3.55 |               |

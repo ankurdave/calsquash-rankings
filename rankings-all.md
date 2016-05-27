@@ -101,7 +101,7 @@ Generated 2016-05-27.
 |   97 | Robert Schwartz           |  21.8 |        73 |              |               |
 |   98 | Sam McCormick             |  21.7 |        13 |              |               |
 |   99 | Robert Ashmore            |  21.7 |       104 |              |               |
-|  100 | Jared Bard                |  21.7 |        22 |        -1.46 |         +4.02 |
+|  100 | Jared Bard                |  21.6 |        22 |        -1.50 |         +3.98 |
 |  101 | Zarah Rahman              |  21.6 |        13 |              |         +1.81 |
 |  102 | Amy Lee                   |  21.6 |        56 |              |               |
 |  103 | Kameshwar Poolla          |  21.6 |        11 |              |               |
@@ -123,7 +123,7 @@ Generated 2016-05-27.
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  120 | Dror Matalon              |  20.2 |       336 |        -0.15 |         -0.69 |
 |  121 | Shaun Lim                 |  20.2 |        34 |        -0.34 |         +0.01 |
-|  122 | Chris Flores              |  20.1 |       292 |        -0.03 |         -0.08 |
+|  122 | Chris Flores              |  20.0 |       294 |        -0.08 |         -0.13 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
 |  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +17.08 |
 |  125 | Whit Eldredge             |  19.7 |         2 |              |               |
@@ -188,12 +188,12 @@ Generated 2016-05-27.
 |  184 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  185 | William Coleman           |  16.8 |        48 |              |               |
 |  186 | Darren Morgan             |  16.8 |        11 |              |               |
-|  187 | Eric Borden               |  16.7 |        19 |        -0.05 |               |
-|  188 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  189 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
-|  191 | Ben Ailes                 |  16.5 |        48 |              |               |
-|  192 | Kent Daniels              |  16.4 |        74 |        -0.21 |         +2.03 |
+|  187 | Viraj Paropkari           |  16.7 |        16 |              |               |
+|  188 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  189 | Michael Cianfrocco        |  16.5 |        18 |              |               |
+|  190 | Ben Ailes                 |  16.5 |        48 |              |               |
+|  191 | Kent Daniels              |  16.4 |        74 |        -0.21 |         +2.03 |
+|  192 | Eric Borden               |  16.4 |        20 |        -0.40 |               |
 |  193 | George Roche              |  16.3 |        14 |              |         +2.01 |
 |  194 | Anirudh Todi              |  16.2 |         3 |              |               |
 |  195 | Rich Shapiro              |  16.1 |        82 |              |               |
@@ -275,42 +275,42 @@ Generated 2016-05-27.
 |  271 | Margaret Chapman          |  11.2 |         6 |              |               |
 |  272 | Charles Denby             |  11.2 |         5 |              |               |
 |  273 | Nikhil Paranjape          |  11.0 |        10 |        +3.72 |               |
-|  274 | Khurram Mahmood           |  10.8 |         3 |              |               |
-|  275 | Axel Eriksson             |  10.8 |         5 |              |               |
-|  276 | Jason Facchin             |  10.5 |         3 |              |               |
-|  277 | Jamie Paterson            |  10.4 |         4 |              |               |
-|  278 | Daniel Schwartz           |  10.4 |        11 |        -0.44 |               |
-|  279 | Huw Lester                |  10.4 |         1 |              |               |
-|  280 | Reed Foster               |  10.4 |         8 |              |               |
-|  281 | Sameer Abraham            |  10.3 |        24 |              |               |
-|  282 | Lewis Moore               |  10.3 |        69 |              |               |
-|  283 | Paul Chang                |  10.3 |         7 |              |               |
-|  284 | Anthony Patterson         |  10.2 |         6 |              |         -4.06 |
-|  285 | Shridhar Mubaraq Mishra   |  10.1 |        13 |              |               |
-|  286 | Myles Gordon              |  10.0 |        42 |              |         +2.47 |
-|  287 | Neil Sachs                |   9.9 |        12 |              |               |
-|  288 | Zaid Shlah                |   9.8 |         8 |              |               |
-|  289 | Zach Brown                |   9.8 |         3 |              |               |
-|  290 | Allie Giovanelli          |   9.8 |         4 |              |               |
-|  291 | Jared Nunn                |   9.7 |         5 |              |               |
-|  292 | Alexander Porcaro         |   9.7 |         2 |              |               |
-|  293 | Lars Foleide              |   9.6 |        11 |              |               |
-|  294 | Gurj Johal                |   9.5 |         2 |              |               |
-|  295 | Jake Toy                  |   9.5 |         5 |              |               |
-|  296 | Kevin Fox                 |   9.5 |         7 |              |               |
-|  297 | Dominick Ng               |   9.5 |        25 |              |               |
-|  298 | Gene Zubovich             |   9.4 |        19 |              |         +0.19 |
-|  299 | Carlos Filho              |   9.2 |         7 |              |               |
-|  300 | Duo Wang                  |   9.2 |        56 |        -0.06 |         +2.40 |
-|  301 | David Elfant              |   9.1 |         2 |              |               |
-|  302 | Laura Dobbs               |   9.1 |        26 |              |         -0.50 |
-|  303 | David Appelfeld           |   9.1 |        26 |              |               |
-|  304 | Jennifer Rha              |   9.0 |        12 |              |         +9.83 |
-|  305 | Peter Ledochowitsch       |   9.0 |        27 |              |               |
-|  306 | Ulf Baumann               |   8.9 |         4 |              |               |
-|  307 | Lysander Jim              |   8.9 |         6 |              |               |
-|  308 | Ed Rubin                  |   8.8 |        14 |              |               |
-|  309 | Wayne Heiser              |   8.8 |        14 |        +4.41 |               |
+|  274 | Wayne Heiser              |  11.0 |        15 |        +6.61 |               |
+|  275 | Khurram Mahmood           |  10.8 |         3 |              |               |
+|  276 | Axel Eriksson             |  10.8 |         5 |              |               |
+|  277 | Jason Facchin             |  10.5 |         3 |              |               |
+|  278 | Jamie Paterson            |  10.4 |         4 |              |               |
+|  279 | Daniel Schwartz           |  10.4 |        11 |        -0.44 |               |
+|  280 | Huw Lester                |  10.4 |         1 |              |               |
+|  281 | Reed Foster               |  10.4 |         8 |              |               |
+|  282 | Sameer Abraham            |  10.3 |        24 |              |               |
+|  283 | Lewis Moore               |  10.3 |        69 |              |               |
+|  284 | Paul Chang                |  10.3 |         7 |              |               |
+|  285 | Anthony Patterson         |  10.2 |         6 |              |         -4.06 |
+|  286 | Shridhar Mubaraq Mishra   |  10.1 |        13 |              |               |
+|  287 | Myles Gordon              |  10.0 |        42 |              |         +2.47 |
+|  288 | Neil Sachs                |   9.9 |        12 |              |               |
+|  289 | Zaid Shlah                |   9.8 |         8 |              |               |
+|  290 | Zach Brown                |   9.8 |         3 |              |               |
+|  291 | Allie Giovanelli          |   9.8 |         4 |              |               |
+|  292 | Jared Nunn                |   9.7 |         5 |              |               |
+|  293 | Alexander Porcaro         |   9.7 |         2 |              |               |
+|  294 | Lars Foleide              |   9.6 |        11 |              |               |
+|  295 | Gurj Johal                |   9.5 |         2 |              |               |
+|  296 | Jake Toy                  |   9.5 |         5 |              |               |
+|  297 | Kevin Fox                 |   9.5 |         7 |              |               |
+|  298 | Dominick Ng               |   9.5 |        25 |              |               |
+|  299 | Gene Zubovich             |   9.4 |        19 |              |         +0.19 |
+|  300 | Carlos Filho              |   9.2 |         7 |              |               |
+|  301 | Duo Wang                  |   9.2 |        56 |        -0.06 |         +2.40 |
+|  302 | David Elfant              |   9.1 |         2 |              |               |
+|  303 | Laura Dobbs               |   9.1 |        26 |              |         -0.50 |
+|  304 | David Appelfeld           |   9.1 |        26 |              |               |
+|  305 | Jennifer Rha              |   9.0 |        12 |              |         +9.83 |
+|  306 | Peter Ledochowitsch       |   9.0 |        27 |              |               |
+|  307 | Ulf Baumann               |   8.9 |         4 |              |               |
+|  308 | Lysander Jim              |   8.9 |         6 |              |               |
+|  309 | Ed Rubin                  |   8.8 |        14 |              |               |
 |  310 | Josh Shiode               |   8.7 |        20 |              |               |
 |  311 | Mohammed Shamma           |   8.6 |         5 |              |               |
 |  312 | Jonas Hansen              |   8.6 |        14 |              |         -0.18 |
