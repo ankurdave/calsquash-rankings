@@ -204,10 +204,10 @@ Generated 2016-05-28.
 |  200 | Jeff Bird                 |  15.7 |        38 |              |               |
 |  201 | Casey Harelson            |  15.7 |        20 |              |               |
 |  202 | Nick Paget                |  15.6 |        35 |              |               |
-|  203 | Allan Dafoe               |  15.5 |        43 |              |               |
-|  204 | Jeff Gordon               |  15.5 |        20 |        -0.14 |               |
-|  205 | David Bratt               |  15.4 |        16 |              |         +2.74 |
-|  206 | Rupert Myers              |  15.4 |        26 |        +0.40 |               |
+|  203 | Rupert Myers              |  15.6 |        27 |        +0.63 |               |
+|  204 | Allan Dafoe               |  15.5 |        43 |              |               |
+|  205 | Jeff Gordon               |  15.5 |        20 |        -0.14 |               |
+|  206 | David Bratt               |  15.4 |        16 |              |         +2.74 |
 |  207 | Doug Kreutzer             |  15.3 |        10 |              |               |
 |  208 | Ranjit Jhala              |  15.2 |         6 |              |               |
 |  209 | Chris Harrelson           |  15.2 |        47 |              |               |
@@ -244,10 +244,10 @@ Generated 2016-05-28.
 |  240 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
 |  241 | Yan Liu                   |  13.4 |        10 |              |         -1.64 |
 |  242 | Tanit Follett             |  13.2 |         8 |              |               |
-|  243 | Ankur Dave                |  13.2 |        35 |        +0.96 |               |
-|  244 | Mimi Zhang                |  13.2 |         6 |              |               |
-|  245 | Alex Rennet               |  13.2 |         2 |              |               |
-|  246 | Adam Soliman              |  13.2 |        32 |              |               |
+|  243 | Mimi Zhang                |  13.2 |         6 |              |               |
+|  244 | Alex Rennet               |  13.2 |         2 |              |               |
+|  245 | Adam Soliman              |  13.2 |        32 |              |               |
+|  246 | Ankur Dave                |  13.2 |        35 |        +0.94 |               |
 |  247 | David Isaksson            |  13.1 |        22 |              |         +2.57 |
 |  248 | Steven Hahm               |  13.1 |         5 |              |               |
 |  249 | Gautam Tankha             |  13.0 |         7 |              |               |
@@ -382,7 +382,7 @@ Generated 2016-05-28.
 |  378 | Catherine Wang            |   3.2 |        10 |              |               |
 |  379 | Keaton Noon               |   3.1 |        11 |              |               |
 |  380 | Vito Sciaraffia           |   3.0 |         5 |              |               |
-|  381 | Josh Lebowitz             |   3.0 |        12 |        -0.24 |               |
+|  381 | Josh Lebowitz             |   3.0 |        13 |        -0.21 |               |
 |  382 | Richard Fabini            |   2.7 |         3 |              |               |
 |  383 | Martin Rasmussen          |   2.5 |         6 |              |               |
 |  384 | Sandra Harpster           |   2.4 |         5 |              |               |

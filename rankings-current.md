@@ -37,12 +37,12 @@ Generated 2016-05-28.
 |   33 | Josh Trauner        |  17.0 |        20 |        +0.05 |               |
 |   34 | Kent Daniels        |  16.4 |        74 |        -0.20 |         +2.04 |
 |   35 | Eric Borden         |  16.4 |        20 |        -0.40 |               |
-|   36 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |
-|   37 | Rupert Myers        |  15.4 |        26 |        +0.40 |               |
+|   36 | Rupert Myers        |  15.6 |        27 |        +0.63 |               |
+|   37 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |
 |   38 | Reto Sutter         |  14.0 |        38 |        +0.85 |         +4.20 |
 |   39 | Terry Chang         |  13.8 |        35 |        -0.09 |         +3.04 |
 |   40 | Raphael Magarik     |  13.6 |         6 |        +0.69 |               |
-|   41 | Ankur Dave          |  13.2 |        35 |        +0.96 |               |
+|   41 | Ankur Dave          |  13.2 |        35 |        +0.94 |               |
 |   42 | Nikhil Paranjape    |  11.0 |        10 |        +3.72 |               |
 |   43 | Wayne Heiser        |  11.0 |        15 |        +6.61 |               |
 |   44 | Daniel Schwartz     |  10.4 |        11 |        -0.44 |               |
@@ -52,7 +52,7 @@ Generated 2016-05-28.
 |   48 | Jose Lara           |   7.1 |         4 |        -3.55 |               |
 |   49 | Nate Aden           |   5.8 |         9 |        -0.30 |               |
 |   50 | Keaton Noon         |   3.1 |        11 |              |               |
-|   51 | Josh Lebowitz       |   3.0 |        12 |        -0.24 |               |
+|   51 | Josh Lebowitz       |   3.0 |        13 |        -0.21 |               |
 |   52 | Sandra Harpster     |   2.4 |         5 |              |               |
 |   53 | Cristhian Daniel    |  -1.3 |         1 |              |               |
 |   54 | Ann Connolly        |  -2.8 |         4 |              |         -0.78 |
