@@ -35,14 +35,14 @@ Generated 2016-05-28.
 |   31 | Subrato Dey         |  18.4 |        18 |        +2.61 |               |
 |   32 | Kenny Bell          |  18.2 |       103 |        +0.13 |         +1.18 |
 |   33 | Josh Trauner        |  17.0 |        20 |        +0.05 |               |
-|   34 | Kent Daniels        |  16.4 |        74 |        -0.21 |         +2.03 |
+|   34 | Kent Daniels        |  16.4 |        74 |        -0.20 |         +2.04 |
 |   35 | Eric Borden         |  16.4 |        20 |        -0.40 |               |
 |   36 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |
-|   37 | Rupert Myers        |  15.0 |        25 |              |               |
+|   37 | Rupert Myers        |  15.4 |        26 |        +0.40 |               |
 |   38 | Reto Sutter         |  14.0 |        38 |        +0.85 |         +4.20 |
 |   39 | Terry Chang         |  13.8 |        35 |        -0.09 |         +3.04 |
 |   40 | Raphael Magarik     |  13.6 |         6 |        +0.69 |               |
-|   41 | Ankur Dave          |  13.1 |        33 |        +0.86 |               |
+|   41 | Ankur Dave          |  13.2 |        35 |        +0.96 |               |
 |   42 | Nikhil Paranjape    |  11.0 |        10 |        +3.72 |               |
 |   43 | Wayne Heiser        |  11.0 |        15 |        +6.61 |               |
 |   44 | Daniel Schwartz     |  10.4 |        11 |        -0.44 |               |
@@ -50,9 +50,9 @@ Generated 2016-05-28.
 |   46 | Brian Kempenich     |   8.2 |        30 |        -0.13 |         +0.27 |
 |   47 | Alok Singh          |   7.2 |         8 |              |               |
 |   48 | Jose Lara           |   7.1 |         4 |        -3.55 |               |
-|   49 | Nate Aden           |   5.8 |         9 |        -0.26 |               |
-|   50 | Josh Lebowitz       |   3.2 |        11 |              |               |
-|   51 | Keaton Noon         |   3.1 |        11 |              |               |
+|   49 | Nate Aden           |   5.8 |         9 |        -0.30 |               |
+|   50 | Keaton Noon         |   3.1 |        11 |              |               |
+|   51 | Josh Lebowitz       |   3.0 |        12 |        -0.24 |               |
 |   52 | Sandra Harpster     |   2.4 |         5 |              |               |
 |   53 | Cristhian Daniel    |  -1.3 |         1 |              |               |
 |   54 | Ann Connolly        |  -2.8 |         4 |              |         -0.78 |
