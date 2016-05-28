@@ -22,7 +22,7 @@ Generated 2016-05-28.
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
 |   19 | Louis Morrill             |  29.4 |        10 |              |               |
 |   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
-|   21 | Jim Veitch                |  29.0 |       409 |        -0.28 |         -0.07 |
+|   21 | Jim Veitch                |  29.1 |       410 |        -0.16 |         +0.06 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
 |   23 | Frank Kennamer            |  28.9 |       200 |        +0.22 |         +0.17 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
@@ -30,11 +30,11 @@ Generated 2016-05-28.
 |   26 | John Kunze                |  28.4 |       292 |        -0.05 |         -0.33 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
-|   29 | Vishi                     |  28.2 |        38 |        +0.41 |         -0.34 |
-|   30 | Michael Best              |  28.1 |        21 |              |               |
-|   31 | Jehan Engineer            |  28.0 |         9 |              |               |
-|   32 | Arvind Muralimohan        |  27.9 |        16 |              |               |
-|   33 | Eric Katerman             |  27.9 |         8 |        +4.61 |               |
+|   29 | Michael Best              |  28.1 |        21 |              |               |
+|   30 | Jehan Engineer            |  28.0 |         9 |              |               |
+|   31 | Arvind Muralimohan        |  27.9 |        16 |              |               |
+|   32 | Eric Katerman             |  27.9 |         8 |        +4.61 |               |
+|   33 | Vishi                     |  27.8 |        39 |        +0.08 |         -0.67 |
 |   34 | Samer Shehata             |  27.8 |        29 |              |               |
 |   35 | Andrew Moylan             |  27.8 |        95 |              |               |
 |   36 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
