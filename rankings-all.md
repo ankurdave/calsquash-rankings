@@ -17,14 +17,14 @@ Generated 2016-05-28.
 |   13 | David Wood                |  31.4 |        43 |              |               |
 |   14 | Chris Goodman-Smith       |  30.9 |        11 |              |               |
 |   15 | Justin McCrary            |  30.2 |       140 |              |         +0.80 |
-|   16 | Sam Sternberg             |  30.1 |       108 |        +0.12 |         +0.09 |
+|   16 | Sam Sternberg             |  30.2 |       109 |        +0.23 |         +0.20 |
 |   17 | Grant French              |  29.6 |       125 |              |               |
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
 |   19 | Louis Morrill             |  29.4 |        10 |              |               |
 |   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   21 | Jim Veitch                |  29.1 |       410 |        -0.16 |         +0.06 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
-|   23 | Frank Kennamer            |  28.9 |       200 |        +0.22 |         +0.17 |
+|   23 | Frank Kennamer            |  28.8 |       201 |        +0.14 |         +0.10 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   26 | John Kunze                |  28.4 |       292 |        -0.05 |         -0.33 |
