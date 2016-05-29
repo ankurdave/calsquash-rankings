@@ -22,7 +22,7 @@ Generated 2016-05-29.
 |   18 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
 |   19 | Matt Wong           |  22.9 |        58 |        +0.54 |         +5.95 |
 |   20 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
-|   21 | Mike Jensen-Akula   |  22.7 |       207 |        -0.14 |         -0.06 |
+|   21 | Mike Jensen-Akula   |  22.5 |       208 |        -0.33 |         -0.25 |
 |   22 | Reid Johnsen        |  21.9 |        18 |        -2.11 |         +6.07 |
 |   23 | Sam McCormick       |  21.7 |        13 |              |               |
 |   24 | Jared Bard          |  21.6 |        22 |        -1.50 |         +3.98 |
@@ -32,15 +32,15 @@ Generated 2016-05-29.
 |   28 | Shaun Lim           |  20.2 |        34 |        -0.34 |         +0.01 |
 |   29 | Chris Flores        |  20.0 |       294 |        -0.08 |         -0.13 |
 |   30 | Jacob Kersey        |  19.9 |        15 |              |               |
-|   31 | Subrato Dey         |  18.4 |        18 |        +2.61 |               |
+|   31 | Subrato Dey         |  18.4 |        18 |        +2.66 |               |
 |   32 | Kenny Bell          |  18.2 |       103 |        +0.13 |         +1.18 |
 |   33 | Josh Trauner        |  17.0 |        20 |        +0.05 |               |
 |   34 | Kent Daniels        |  16.4 |        74 |        -0.20 |         +2.04 |
 |   35 | Eric Borden         |  16.4 |        20 |        -0.40 |               |
 |   36 | Rupert Myers        |  15.6 |        27 |        +0.63 |               |
 |   37 | Jeff Gordon         |  15.5 |        20 |        -0.14 |               |
-|   38 | Reto Sutter         |  14.0 |        38 |        +0.85 |         +4.20 |
-|   39 | Terry Chang         |  13.8 |        35 |        -0.09 |         +3.04 |
+|   38 | Terry Chang         |  14.7 |        36 |        +0.77 |         +3.91 |
+|   39 | Reto Sutter         |  14.0 |        38 |        +0.85 |         +4.20 |
 |   40 | Raphael Magarik     |  13.6 |         6 |        +0.69 |               |
 |   41 | Ankur Dave          |  13.2 |        35 |        +0.94 |               |
 |   42 | Nikhil Paranjape    |  11.0 |        10 |        +3.72 |               |

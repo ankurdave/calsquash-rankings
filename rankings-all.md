@@ -86,7 +86,7 @@ Generated 2016-05-29.
 |   82 | Prakash Bathini           |  22.9 |       117 |              |         -0.02 |
 |   83 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
-|   85 | Mike Jensen-Akula         |  22.7 |       207 |        -0.14 |         -0.06 |
+|   85 | Mike Jensen-Akula         |  22.5 |       208 |        -0.33 |         -0.25 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
 |   87 | Richard Chan              |  22.5 |         9 |              |               |
 |   88 | Orion Hodson              |  22.5 |        31 |              |               |
@@ -149,7 +149,7 @@ Generated 2016-05-29.
 |  145 | Allan Sly                 |  18.6 |        29 |              |               |
 |  146 | Jaime Perez               |  18.5 |        11 |              |               |
 |  147 | Sam Trachtman             |  18.5 |         5 |              |               |
-|  148 | Subrato Dey               |  18.4 |        18 |        +2.61 |               |
+|  148 | Subrato Dey               |  18.4 |        18 |        +2.66 |               |
 |  149 | Ian Lunt                  |  18.3 |         9 |              |               |
 |  150 | William Seles             |  18.2 |        15 |              |               |
 |  151 | Javed Ahmed               |  18.2 |        58 |              |               |
@@ -224,20 +224,20 @@ Generated 2016-05-29.
 |  220 | Lakshya Rustagi           |  14.8 |         2 |              |               |
 |  221 | Angie Ng                  |  14.8 |        12 |              |               |
 |  222 | Nicholas Monsees          |  14.8 |         5 |              |               |
-|  223 | Yating Liu                |  14.6 |         7 |              |               |
-|  224 | Frederick Bayles          |  14.6 |         8 |              |               |
-|  225 | John Grim                 |  14.4 |        13 |              |               |
-|  226 | David Shabelman           |  14.4 |        30 |              |               |
-|  227 | Peter Dering              |  14.3 |         9 |              |               |
-|  228 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  229 | Reto Sutter               |  14.0 |        38 |        +0.85 |         +4.20 |
-|  230 | Wesley Huang              |  14.0 |         8 |              |               |
-|  231 | Greg Adams                |  14.0 |        10 |              |               |
-|  232 | Vipul Singhvi             |  14.0 |         8 |              |               |
-|  233 | Baxter Leman              |  13.9 |         6 |              |               |
-|  234 | Mike Delanty              |  13.9 |        12 |              |               |
-|  235 | James Chung               |  13.8 |         7 |              |               |
-|  236 | Terry Chang               |  13.8 |        35 |        -0.09 |         +3.04 |
+|  223 | Terry Chang               |  14.7 |        36 |        +0.77 |         +3.91 |
+|  224 | Yating Liu                |  14.6 |         7 |              |               |
+|  225 | Frederick Bayles          |  14.6 |         8 |              |               |
+|  226 | John Grim                 |  14.4 |        13 |              |               |
+|  227 | David Shabelman           |  14.4 |        30 |              |               |
+|  228 | Peter Dering              |  14.3 |         9 |              |               |
+|  229 | Chinghway Lim             |  14.3 |        10 |              |               |
+|  230 | Reto Sutter               |  14.0 |        38 |        +0.85 |         +4.20 |
+|  231 | Wesley Huang              |  14.0 |         8 |              |               |
+|  232 | Greg Adams                |  14.0 |        10 |              |               |
+|  233 | Vipul Singhvi             |  14.0 |         8 |              |               |
+|  234 | Baxter Leman              |  13.9 |         6 |              |               |
+|  235 | Mike Delanty              |  13.9 |        12 |              |               |
+|  236 | James Chung               |  13.8 |         7 |              |               |
 |  237 | Natalie Bratwood          |  13.8 |         5 |              |               |
 |  238 | Raphael Magarik           |  13.6 |         6 |        +0.69 |               |
 |  239 | Craig Riddell             |  13.6 |         8 |              |               |
