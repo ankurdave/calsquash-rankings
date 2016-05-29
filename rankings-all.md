@@ -16,27 +16,27 @@ Generated 2016-05-29.
 |   12 | Victor Noguera Neutelings |  31.6 |        11 |              |               |
 |   13 | David Wood                |  31.4 |        43 |              |               |
 |   14 | Chris Goodman-Smith       |  30.9 |        11 |              |               |
-|   15 | Justin McCrary            |  30.2 |       140 |              |         +0.80 |
-|   16 | Sam Sternberg             |  30.2 |       109 |        +0.23 |         +0.20 |
+|   15 | Sam Sternberg             |  30.5 |       111 |        +0.46 |         +0.43 |
+|   16 | Justin McCrary            |  30.2 |       140 |              |         +0.80 |
 |   17 | Grant French              |  29.6 |       125 |              |               |
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
 |   19 | Louis Morrill             |  29.4 |        10 |              |               |
 |   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
-|   21 | Jim Veitch                |  29.1 |       410 |        -0.16 |         +0.06 |
+|   21 | Jim Veitch                |  29.1 |       410 |        -0.17 |         +0.05 |
 |   22 | David Hwang               |  28.9 |        44 |              |               |
 |   23 | Frank Kennamer            |  28.8 |       201 |        +0.14 |         +0.10 |
 |   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   25 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   26 | John Kunze                |  28.4 |       292 |        -0.05 |         -0.33 |
+|   26 | John Kunze                |  28.3 |       293 |        -0.12 |         -0.41 |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
 |   29 | Michael Best              |  28.1 |        21 |              |               |
 |   30 | Jehan Engineer            |  28.0 |         9 |              |               |
 |   31 | Arvind Muralimohan        |  27.9 |        16 |              |               |
 |   32 | Eric Katerman             |  27.9 |         8 |        +4.61 |               |
-|   33 | Vishi                     |  27.8 |        39 |        +0.08 |         -0.67 |
-|   34 | Samer Shehata             |  27.8 |        29 |              |               |
-|   35 | Andrew Moylan             |  27.8 |        95 |              |               |
+|   33 | Samer Shehata             |  27.8 |        29 |              |               |
+|   34 | Andrew Moylan             |  27.8 |        95 |              |               |
+|   35 | Vishi                     |  27.6 |        40 |        -0.15 |         -0.90 |
 |   36 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
 |   37 | Nick Cobbett              |  27.5 |        22 |        +0.56 |               |
 |   38 | Hussain Raza              |  27.3 |        50 |              |               |
