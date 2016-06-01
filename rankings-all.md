@@ -47,8 +47,8 @@ Generated 2016-05-31.
 |   43 | Nauman Sardar             |  26.6 |        40 |              |               |
 |   44 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
 |   45 | Ali Rahim                 |  26.2 |        24 |              |               |
-|   46 | Amos Vernon               |  26.0 |        30 |              |               |
-|   47 | Dan Meier                 |  26.0 |        38 |              |         +7.99 |
+|   46 | Dan Meier                 |  26.2 |        39 |        +0.17 |         +8.15 |
+|   47 | Amos Vernon               |  26.0 |        30 |              |               |
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
 |   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   50 | Saurabh Bajaj             |  25.6 |        14 |        +1.37 |               |
@@ -83,8 +83,8 @@ Generated 2016-05-31.
 |   79 | Jan Beranek               |  23.1 |        46 |              |               |
 |   80 | Gary Golding              |  23.1 |         6 |              |               |
 |   81 | Matt Wong                 |  22.9 |        58 |        +0.54 |         +5.95 |
-|   82 | Prakash Bathini           |  22.9 |       117 |              |         -0.02 |
-|   83 | Alex Jermyn               |  22.9 |         3 |              |               |
+|   82 | Alex Jermyn               |  22.9 |         3 |              |               |
+|   83 | Prakash Bathini           |  22.8 |       118 |        -0.05 |         -0.07 |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
 |   85 | Mike Jensen-Akula         |  22.5 |       208 |        -0.33 |         -0.25 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |

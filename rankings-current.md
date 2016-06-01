@@ -13,7 +13,7 @@ Generated 2016-05-31.
 |    9 | Vishi               |  27.6 |        40 |        -0.15 |         -0.90 |
 |   10 | Nick Cobbett        |  27.5 |        23 |        +0.55 |               |
 |   11 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
-|   12 | Dan Meier           |  26.0 |        38 |              |         +7.99 |
+|   12 | Dan Meier           |  26.2 |        39 |        +0.17 |         +8.15 |
 |   13 | Saurabh Bajaj       |  25.6 |        14 |        +1.37 |               |
 |   14 | Ethan Kerr          |  24.9 |        10 |        -1.33 |               |
 |   15 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
@@ -21,7 +21,7 @@ Generated 2016-05-31.
 |   17 | Jonathan Hankar     |  23.6 |       175 |        +0.30 |         +0.13 |
 |   18 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
 |   19 | Matt Wong           |  22.9 |        58 |        +0.54 |         +5.95 |
-|   20 | Prakash Bathini     |  22.9 |       117 |              |         -0.02 |
+|   20 | Prakash Bathini     |  22.8 |       118 |        -0.05 |         -0.07 |
 |   21 | Mike Jensen-Akula   |  22.5 |       208 |        -0.33 |         -0.25 |
 |   22 | Reid Johnsen        |  21.9 |        18 |        -2.11 |         +6.07 |
 |   23 | Sam McCormick       |  21.7 |        13 |              |               |
