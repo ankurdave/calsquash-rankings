@@ -14,13 +14,13 @@ Generated 2016-06-01.
 |   10 | Nick Cobbett        |  27.5 |        23 |        +0.55 |               |
 |   11 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
 |   12 | Dan Meier           |  26.2 |        39 |        +0.17 |         +8.15 |
-|   13 | Saurabh Bajaj       |  25.6 |        14 |        +1.37 |               |
+|   13 | Saurabh Bajaj       |  25.8 |        15 |        +1.59 |               |
 |   14 | Ethan Kerr          |  24.9 |        10 |        -1.33 |               |
 |   15 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
 |   16 | Mark Modera         |  24.3 |       298 |        +0.11 |         -1.24 |
 |   17 | Jonathan Hankar     |  23.6 |       175 |        +0.30 |         +0.13 |
 |   18 | Andrew Lawrie       |  23.2 |        46 |              |         +6.79 |
-|   19 | Matt Wong           |  22.9 |        58 |        +0.54 |         +5.95 |
+|   19 | Matt Wong           |  22.9 |        58 |        +0.55 |         +5.96 |
 |   20 | Prakash Bathini     |  22.8 |       118 |        -0.05 |         -0.07 |
 |   21 | Mike Jensen-Akula   |  22.5 |       208 |        -0.33 |         -0.25 |
 |   22 | Reid Johnsen        |  21.9 |        18 |        -2.11 |         +6.07 |
@@ -28,13 +28,13 @@ Generated 2016-06-01.
 |   24 | Jared Bard          |  21.6 |        22 |        -1.50 |         +3.98 |
 |   25 | Ronald Dahl         |  21.6 |        51 |              |         -0.61 |
 |   26 | Jonathan Francis    |  20.6 |        56 |        -0.12 |         +0.97 |
-|   27 | Dror Matalon        |  20.2 |       336 |        -0.15 |         -0.69 |
+|   27 | Dror Matalon        |  20.2 |       337 |        -0.15 |         -0.70 |
 |   28 | Shaun Lim           |  20.2 |        34 |        -0.34 |         +0.01 |
 |   29 | Chris Flores        |  20.0 |       294 |        -0.08 |         -0.13 |
 |   30 | Jacob Kersey        |  19.9 |        15 |              |               |
 |   31 | Subrato Dey         |  18.4 |        18 |        +2.66 |               |
-|   32 | Kenny Bell          |  18.2 |       103 |        +0.13 |         +1.18 |
-|   33 | Josh Trauner        |  17.0 |        20 |        +0.05 |               |
+|   32 | Kenny Bell          |  18.2 |       103 |        +0.15 |         +1.20 |
+|   33 | Josh Trauner        |  17.0 |        20 |        +0.04 |               |
 |   34 | Kent Daniels        |  16.4 |        74 |        -0.20 |         +2.04 |
 |   35 | Eric Borden         |  16.4 |        20 |        -0.40 |               |
 |   36 | Rupert Myers        |  15.6 |        27 |        +0.63 |               |

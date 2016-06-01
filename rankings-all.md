@@ -50,8 +50,8 @@ Generated 2016-06-01.
 |   46 | Dan Meier                 |  26.2 |        39 |        +0.17 |         +8.15 |
 |   47 | Amos Vernon               |  26.0 |        30 |              |               |
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
-|   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
-|   50 | Saurabh Bajaj             |  25.6 |        14 |        +1.37 |               |
+|   49 | Saurabh Bajaj             |  25.8 |        15 |        +1.59 |               |
+|   50 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   51 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   52 | Ethan Kerr                |  24.9 |        10 |        -1.33 |               |
 |   53 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
@@ -82,7 +82,7 @@ Generated 2016-06-01.
 |   78 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
 |   79 | Jan Beranek               |  23.1 |        46 |              |               |
 |   80 | Gary Golding              |  23.1 |         6 |              |               |
-|   81 | Matt Wong                 |  22.9 |        58 |        +0.54 |         +5.95 |
+|   81 | Matt Wong                 |  22.9 |        58 |        +0.55 |         +5.96 |
 |   82 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   83 | Prakash Bathini           |  22.8 |       118 |        -0.05 |         -0.07 |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
@@ -121,7 +121,7 @@ Generated 2016-06-01.
 |  117 | Omair Azam                |  20.6 |        18 |              |               |
 |  118 | Jonathan Francis          |  20.6 |        56 |        -0.12 |         +0.97 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
-|  120 | Dror Matalon              |  20.2 |       336 |        -0.15 |         -0.69 |
+|  120 | Dror Matalon              |  20.2 |       337 |        -0.15 |         -0.70 |
 |  121 | Shaun Lim                 |  20.2 |        34 |        -0.34 |         +0.01 |
 |  122 | Chris Flores              |  20.0 |       294 |        -0.08 |         -0.13 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
@@ -154,8 +154,8 @@ Generated 2016-06-01.
 |  150 | William Seles             |  18.2 |        15 |              |               |
 |  151 | Javed Ahmed               |  18.2 |        58 |              |               |
 |  152 | Andres Ramirez            |  18.2 |         8 |              |               |
-|  153 | Jaime Vidal               |  18.2 |         8 |              |               |
-|  154 | Kenny Bell                |  18.2 |       103 |        +0.13 |         +1.18 |
+|  153 | Kenny Bell                |  18.2 |       103 |        +0.15 |         +1.20 |
+|  154 | Jaime Vidal               |  18.2 |         8 |              |               |
 |  155 | Geoffrey Barrows          |  18.1 |        14 |              |               |
 |  156 | Jamie Funk                |  18.1 |        30 |              |               |
 |  157 | Lucas Cheon               |  18.1 |        19 |              |               |
@@ -181,7 +181,7 @@ Generated 2016-06-01.
 |  177 | Wolfram Pohl              |  17.1 |        60 |              |               |
 |  178 | Joseph Farrell            |  17.0 |         8 |              |               |
 |  179 | Nacho Quaglio             |  17.0 |         3 |              |               |
-|  180 | Josh Trauner              |  17.0 |        20 |        +0.05 |               |
+|  180 | Josh Trauner              |  17.0 |        20 |        +0.04 |               |
 |  181 | Sebastien Biraud          |  17.0 |        60 |              |               |
 |  182 | Kedar Shah                |  16.9 |         9 |              |               |
 |  183 | Sarah Mcneil              |  16.9 |        24 |              |               |
