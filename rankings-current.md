@@ -3,19 +3,19 @@ Generated 2016-05-31.
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler       |  43.0 |       212 |        -0.09 |         +0.18 |
-|    2 | Thomas Lowish       |  39.3 |         9 |        +3.40 |         +4.88 |
+|    2 | Thomas Lowish       |  39.4 |        10 |        +3.43 |         +4.92 |
 |    3 | Rees Sweeney-Taylor |  37.1 |        82 |        +0.08 |         +1.63 |
 |    4 | Sam Sternberg       |  30.5 |       111 |        +0.46 |         +0.43 |
 |    5 | Jim Veitch          |  29.1 |       410 |        -0.17 |         +0.05 |
 |    6 | Frank Kennamer      |  28.8 |       201 |        +0.14 |         +0.10 |
 |    7 | John Kunze          |  28.3 |       293 |        -0.12 |         -0.41 |
-|    8 | Eric Katerman       |  27.9 |         8 |        +4.61 |               |
+|    8 | Eric Katerman       |  27.8 |         8 |        +4.57 |               |
 |    9 | Vishi               |  27.6 |        40 |        -0.15 |         -0.90 |
-|   10 | Nick Cobbett        |  27.5 |        22 |        +0.56 |               |
+|   10 | Nick Cobbett        |  27.5 |        23 |        +0.55 |               |
 |   11 | Glenn Forrester     |  26.9 |       355 |              |         +0.12 |
 |   12 | Dan Meier           |  26.0 |        38 |              |         +7.99 |
 |   13 | Saurabh Bajaj       |  25.6 |        14 |        +1.37 |               |
-|   14 | Ethan Kerr          |  24.9 |        10 |        -1.31 |               |
+|   14 | Ethan Kerr          |  24.9 |        10 |        -1.33 |               |
 |   15 | Benjamin Vicuna     |  24.4 |        50 |              |         +6.09 |
 |   16 | Mark Modera         |  24.3 |       298 |        +0.11 |         -1.24 |
 |   17 | Jonathan Hankar     |  23.6 |       175 |        +0.30 |         +0.13 |

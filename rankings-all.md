@@ -3,7 +3,7 @@ Generated 2016-05-31.
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  43.0 |       212 |        -0.09 |         +0.18 |
-|    2 | Thomas Lowish             |  39.3 |         9 |        +3.40 |         +4.88 |
+|    2 | Thomas Lowish             |  39.4 |        10 |        +3.43 |         +4.92 |
 |    3 | Paul Valiant              |  37.3 |        63 |              |               |
 |    4 | Rees Sweeney-Taylor       |  37.1 |        82 |        +0.08 |         +1.63 |
 |    5 | Dominic Gaffney           |  36.5 |        54 |              |               |
@@ -33,12 +33,12 @@ Generated 2016-05-31.
 |   29 | Michael Best              |  28.1 |        21 |              |               |
 |   30 | Jehan Engineer            |  28.0 |         9 |              |               |
 |   31 | Arvind Muralimohan        |  27.9 |        16 |              |               |
-|   32 | Eric Katerman             |  27.9 |         8 |        +4.61 |               |
+|   32 | Eric Katerman             |  27.8 |         8 |        +4.57 |               |
 |   33 | Samer Shehata             |  27.8 |        29 |              |               |
 |   34 | Andrew Moylan             |  27.8 |        95 |              |               |
 |   35 | Vishi                     |  27.6 |        40 |        -0.15 |         -0.90 |
 |   36 | Heba Nossier              |  27.6 |        14 |              |         +2.31 |
-|   37 | Nick Cobbett              |  27.5 |        22 |        +0.56 |               |
+|   37 | Nick Cobbett              |  27.5 |        23 |        +0.55 |               |
 |   38 | Hussain Raza              |  27.3 |        50 |              |               |
 |   39 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |
 |   40 | Stephen Dang              |  26.8 |        34 |              |               |
@@ -53,7 +53,7 @@ Generated 2016-05-31.
 |   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   50 | Saurabh Bajaj             |  25.6 |        14 |        +1.37 |               |
 |   51 | Mikael Rehn               |  25.4 |         5 |              |               |
-|   52 | Ethan Kerr                |  24.9 |        10 |        -1.31 |               |
+|   52 | Ethan Kerr                |  24.9 |        10 |        -1.33 |               |
 |   53 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
 |   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   55 | Christopher Tsang         |  24.4 |        76 |              |               |
