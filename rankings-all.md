@@ -50,7 +50,7 @@ Generated 2016-06-01.
 |   46 | Dan Meier                 |  26.2 |        39 |        +0.17 |         +8.15 |
 |   47 | Amos Vernon               |  26.0 |        30 |              |               |
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
-|   49 | Saurabh Bajaj             |  25.8 |        15 |        +1.59 |               |
+|   49 | Saurabh Bajaj             |  25.8 |        15 |        +1.58 |               |
 |   50 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   51 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   52 | Ethan Kerr                |  24.9 |        10 |        -1.33 |               |
@@ -121,8 +121,8 @@ Generated 2016-06-01.
 |  117 | Omair Azam                |  20.6 |        18 |              |               |
 |  118 | Jonathan Francis          |  20.6 |        56 |        -0.12 |         +0.97 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
-|  120 | Dror Matalon              |  20.2 |       337 |        -0.15 |         -0.70 |
-|  121 | Shaun Lim                 |  20.2 |        34 |        -0.34 |         +0.01 |
+|  120 | Shaun Lim                 |  20.2 |        34 |        -0.34 |         +0.01 |
+|  121 | Dror Matalon              |  20.1 |       338 |        -0.26 |         -0.81 |
 |  122 | Chris Flores              |  20.0 |       294 |        -0.08 |         -0.13 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
 |  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +17.08 |
@@ -150,11 +150,11 @@ Generated 2016-06-01.
 |  146 | Jaime Perez               |  18.5 |        11 |              |               |
 |  147 | Sam Trachtman             |  18.5 |         5 |              |               |
 |  148 | Subrato Dey               |  18.4 |        18 |        +2.66 |               |
-|  149 | Ian Lunt                  |  18.3 |         9 |              |               |
-|  150 | William Seles             |  18.2 |        15 |              |               |
-|  151 | Javed Ahmed               |  18.2 |        58 |              |               |
-|  152 | Andres Ramirez            |  18.2 |         8 |              |               |
-|  153 | Kenny Bell                |  18.2 |       103 |        +0.15 |         +1.20 |
+|  149 | Kenny Bell                |  18.4 |       104 |        +0.33 |         +1.38 |
+|  150 | Ian Lunt                  |  18.3 |         9 |              |               |
+|  151 | William Seles             |  18.2 |        15 |              |               |
+|  152 | Javed Ahmed               |  18.2 |        58 |              |               |
+|  153 | Andres Ramirez            |  18.2 |         8 |              |               |
 |  154 | Jaime Vidal               |  18.2 |         8 |              |               |
 |  155 | Geoffrey Barrows          |  18.1 |        14 |              |               |
 |  156 | Jamie Funk                |  18.1 |        30 |              |               |
@@ -181,7 +181,7 @@ Generated 2016-06-01.
 |  177 | Wolfram Pohl              |  17.1 |        60 |              |               |
 |  178 | Joseph Farrell            |  17.0 |         8 |              |               |
 |  179 | Nacho Quaglio             |  17.0 |         3 |              |               |
-|  180 | Josh Trauner              |  17.0 |        20 |        +0.04 |               |
+|  180 | Josh Trauner              |  17.0 |        20 |        +0.06 |               |
 |  181 | Sebastien Biraud          |  17.0 |        60 |              |               |
 |  182 | Kedar Shah                |  16.9 |         9 |              |               |
 |  183 | Sarah Mcneil              |  16.9 |        24 |              |               |
