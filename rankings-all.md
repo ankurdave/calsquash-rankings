@@ -333,56 +333,56 @@ Generated 2016-06-06.
 |  329 | Paul Norberg              |   7.6 |         8 |              |               |
 |  330 | Kunal Talwar              |   7.6 |         1 |              |               |
 |  331 | Dav Clark                 |   7.4 |         6 |              |         +2.27 |
-|  332 | Alok Singh                |   7.2 |         8 |              |               |
-|  333 | Max Grass                 |   7.2 |         1 |              |               |
-|  334 | Joseph Duggan             |   7.1 |         8 |              |               |
-|  335 | Jose Lara                 |   7.1 |         4 |              |               |
-|  336 | Min Joon Seo              |   7.0 |         3 |              |               |
-|  337 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
-|  338 | Rob Cuthrell              |   7.0 |        11 |              |               |
-|  339 | John Provine              |   7.0 |        16 |              |               |
-|  340 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
-|  341 | Virginie Letschert        |   6.6 |        18 |              |               |
-|  342 | Michael Friedlander       |   6.5 |         3 |              |               |
-|  343 | Jules Bowie               |   6.4 |        12 |              |               |
-|  344 | Arno Ferguson             |   6.4 |         1 |              |               |
-|  345 | Fahad Riyadh              |   6.3 |         5 |              |               |
+|  332 | Max Grass                 |   7.2 |         1 |              |               |
+|  333 | Joseph Duggan             |   7.1 |         8 |              |               |
+|  334 | Jose Lara                 |   7.1 |         4 |              |               |
+|  335 | Min Joon Seo              |   7.0 |         3 |              |               |
+|  336 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
+|  337 | Rob Cuthrell              |   7.0 |        11 |              |               |
+|  338 | John Provine              |   7.0 |        16 |              |               |
+|  339 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
+|  340 | Virginie Letschert        |   6.6 |        18 |              |               |
+|  341 | Michael Friedlander       |   6.5 |         3 |              |               |
+|  342 | Jules Bowie               |   6.4 |        12 |              |               |
+|  343 | Arno Ferguson             |   6.4 |         1 |              |               |
+|  344 | Fahad Riyadh              |   6.3 |         5 |              |               |
+|  345 | Alok Singh                |   6.2 |         9 |        -1.01 |               |
 |  346 | John Coates               |   6.1 |         9 |              |               |
 |  347 | John Givens               |   5.8 |        13 |              |               |
 |  348 | Nate Aden                 |   5.8 |         9 |              |               |
 |  349 | Phil Hartmeyer            |   5.6 |         3 |              |               |
 |  350 | Bobby Hicks               |   5.5 |         2 |              |               |
 |  351 | Brian Puglise             |   5.5 |         2 |              |               |
-|  352 | Max Woodworth             |   5.3 |         7 |              |               |
-|  353 | Sylvan Arevalo            |   5.3 |         3 |              |               |
-|  354 | Ali Umar                  |   5.2 |        13 |              |               |
-|  355 | Lucas Siow                |   5.2 |        10 |              |               |
-|  356 | Anshuman Tiwari           |   5.2 |         2 |              |               |
-|  357 | Yashraj Khaitain          |   5.1 |         2 |              |               |
-|  358 | Zarina Khan               |   5.0 |         5 |              |               |
-|  359 | Lucy Fairweather          |   5.0 |        11 |              |               |
-|  360 | Anosha Siripala           |   4.9 |        10 |              |               |
-|  361 | Robert Broesler           |   4.9 |         4 |              |               |
-|  362 | Alexander Zuern           |   4.8 |        25 |              |               |
-|  363 | Nikhil Srivastava         |   4.8 |        16 |              |               |
-|  364 | Vishnu Narayanan          |   4.7 |        12 |              |               |
-|  365 | Anurag Gupta              |   4.7 |         6 |              |               |
-|  366 | Greg Sperla               |   4.5 |         8 |              |               |
-|  367 | Zsolt Bartha              |   4.5 |        42 |              |         -0.15 |
-|  368 | Mohammad Salama           |   4.2 |         5 |              |               |
-|  369 | Lewis H. Moore            |   4.0 |         8 |              |               |
-|  370 | Josephine Lee             |   3.9 |         6 |              |               |
-|  371 | Minsoo Bae                |   3.7 |         2 |              |               |
-|  372 | Nikolai Schnittke         |   3.6 |         4 |              |               |
-|  373 | Gwendal Rannou            |   3.5 |        13 |              |               |
-|  374 | Brookes Degen             |   3.3 |         6 |              |               |
-|  375 | Nicholas Bauer            |   3.3 |        16 |              |               |
-|  376 | Akshay Dugar              |   3.2 |         6 |              |               |
-|  377 | Alex Walters              |   3.2 |         3 |              |               |
-|  378 | Catherine Wang            |   3.2 |        10 |              |               |
-|  379 | Keaton Noon               |   3.1 |        11 |              |               |
-|  380 | Vito Sciaraffia           |   3.0 |         5 |              |               |
-|  381 | Josh Lebowitz             |   3.0 |        13 |              |               |
+|  352 | Josh Lebowitz             |   5.4 |        14 |        +2.39 |               |
+|  353 | Max Woodworth             |   5.3 |         7 |              |               |
+|  354 | Sylvan Arevalo            |   5.3 |         3 |              |               |
+|  355 | Ali Umar                  |   5.2 |        13 |              |               |
+|  356 | Lucas Siow                |   5.2 |        10 |              |               |
+|  357 | Anshuman Tiwari           |   5.2 |         2 |              |               |
+|  358 | Yashraj Khaitain          |   5.1 |         2 |              |               |
+|  359 | Zarina Khan               |   5.0 |         5 |              |               |
+|  360 | Lucy Fairweather          |   5.0 |        11 |              |               |
+|  361 | Anosha Siripala           |   4.9 |        10 |              |               |
+|  362 | Robert Broesler           |   4.9 |         4 |              |               |
+|  363 | Alexander Zuern           |   4.8 |        25 |              |               |
+|  364 | Nikhil Srivastava         |   4.8 |        16 |              |               |
+|  365 | Vishnu Narayanan          |   4.7 |        12 |              |               |
+|  366 | Anurag Gupta              |   4.7 |         6 |              |               |
+|  367 | Greg Sperla               |   4.5 |         8 |              |               |
+|  368 | Zsolt Bartha              |   4.5 |        42 |              |         -0.15 |
+|  369 | Mohammad Salama           |   4.2 |         5 |              |               |
+|  370 | Lewis H. Moore            |   4.0 |         8 |              |               |
+|  371 | Josephine Lee             |   3.9 |         6 |              |               |
+|  372 | Minsoo Bae                |   3.7 |         2 |              |               |
+|  373 | Nikolai Schnittke         |   3.6 |         4 |              |               |
+|  374 | Gwendal Rannou            |   3.5 |        13 |              |               |
+|  375 | Brookes Degen             |   3.3 |         6 |              |               |
+|  376 | Nicholas Bauer            |   3.3 |        16 |              |               |
+|  377 | Akshay Dugar              |   3.2 |         6 |              |               |
+|  378 | Alex Walters              |   3.2 |         3 |              |               |
+|  379 | Catherine Wang            |   3.2 |        10 |              |               |
+|  380 | Keaton Noon               |   3.1 |        11 |              |               |
+|  381 | Vito Sciaraffia           |   3.0 |         5 |              |               |
 |  382 | Richard Fabini            |   2.7 |         3 |              |               |
 |  383 | Martin Rasmussen          |   2.5 |         6 |              |               |
 |  384 | Sandra Harpster           |   2.4 |         5 |              |               |
