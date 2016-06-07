@@ -265,16 +265,16 @@ Generated 2016-06-07.
 |  261 | Ansul Rajgha              |  12.3 |        15 |              |               |
 |  262 | Jan Strasky               |  12.3 |        12 |              |               |
 |  263 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
-|  264 | James Shinn               |  11.9 |       120 |              |               |
-|  265 | Jeff Dorman               |  11.7 |        14 |              |               |
-|  266 | Guillaume Egles           |  11.6 |        11 |              |               |
-|  267 | Mitchell O'Connell        |  11.6 |        32 |              |         +1.14 |
-|  268 | Carl Schreck              |  11.5 |         2 |              |               |
-|  269 | Antonio Garcia            |  11.4 |        20 |              |               |
-|  270 | Juliet Shih               |  11.3 |        11 |              |               |
-|  271 | Margaret Chapman          |  11.2 |         6 |              |         -4.71 |
-|  272 | Charles Denby             |  11.2 |         5 |              |               |
-|  273 | Nikhil Paranjape          |  11.0 |        10 |              |               |
+|  264 | Nikhil Paranjape          |  11.9 |        11 |        +0.88 |               |
+|  265 | James Shinn               |  11.9 |       120 |              |               |
+|  266 | Jeff Dorman               |  11.7 |        14 |              |               |
+|  267 | Guillaume Egles           |  11.6 |        11 |              |               |
+|  268 | Mitchell O'Connell        |  11.6 |        32 |              |         +1.14 |
+|  269 | Carl Schreck              |  11.5 |         2 |              |               |
+|  270 | Antonio Garcia            |  11.4 |        20 |              |               |
+|  271 | Juliet Shih               |  11.3 |        11 |              |               |
+|  272 | Margaret Chapman          |  11.2 |         6 |              |         -4.71 |
+|  273 | Charles Denby             |  11.2 |         5 |              |               |
 |  274 | Wayne Heiser              |  11.0 |        15 |              |               |
 |  275 | Khurram Mahmood           |  10.8 |         3 |              |               |
 |  276 | Axel Eriksson             |  10.8 |         5 |              |               |
@@ -346,8 +346,8 @@ Generated 2016-06-07.
 |  342 | Jules Bowie               |   6.4 |        12 |              |               |
 |  343 | Arno Ferguson             |   6.4 |         1 |              |               |
 |  344 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  345 | Alok Singh                |   6.2 |         9 |        -1.01 |               |
-|  346 | John Coates               |   6.1 |         9 |              |               |
+|  345 | John Coates               |   6.1 |         9 |              |               |
+|  346 | Alok Singh                |   6.0 |        10 |        -1.20 |               |
 |  347 | John Givens               |   5.8 |        13 |              |               |
 |  348 | Nate Aden                 |   5.8 |         9 |              |               |
 |  349 | Phil Hartmeyer            |   5.6 |         3 |              |               |
