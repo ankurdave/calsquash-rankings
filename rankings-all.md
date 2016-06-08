@@ -16,24 +16,24 @@ Generated 2016-06-08.
 |   12 | Victor Noguera Neutelings |  31.6 |        11 |              |               |
 |   13 | David Wood                |  31.4 |        43 |              |               |
 |   14 | Chris Goodman-Smith       |  30.9 |        11 |              |               |
-|   15 | Sam Sternberg             |  30.5 |       111 |              |         +0.46 |
+|   15 | Sam Sternberg             |  30.4 |       112 |        -0.06 |         +0.40 |
 |   16 | Justin McCrary            |  30.2 |       140 |              |         +0.33 |
 |   17 | Grant French              |  29.6 |       125 |              |               |
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
 |   19 | Louis Morrill             |  29.4 |        10 |              |               |
 |   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   21 | Jim Veitch                |  29.1 |       410 |              |         +0.03 |
-|   22 | David Hwang               |  28.9 |        44 |              |               |
-|   23 | Frank Kennamer            |  28.8 |       201 |              |         +0.12 |
-|   24 | Rodrigo Cabral            |  28.7 |        29 |              |               |
-|   25 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   26 | John Kunze                |  28.3 |       293 |              |         -0.30 |
-|   27 | Ben Faber                 |  28.3 |        15 |              |               |
-|   28 | Josh Taylor               |  28.3 |        40 |              |               |
-|   29 | Michael Best              |  28.1 |        21 |              |               |
-|   30 | Jehan Engineer            |  28.0 |         9 |              |               |
-|   31 | Arvind Muralimohan        |  27.9 |        16 |              |               |
-|   32 | Eric Katerman             |  27.8 |         8 |              |               |
+|   22 | Eric Katerman             |  29.1 |         9 |        +1.25 |               |
+|   23 | David Hwang               |  28.9 |        44 |              |               |
+|   24 | Frank Kennamer            |  28.8 |       201 |              |         +0.12 |
+|   25 | Rodrigo Cabral            |  28.7 |        29 |              |               |
+|   26 | Tom Bilyard               |  28.6 |         5 |              |               |
+|   27 | John Kunze                |  28.3 |       293 |              |         -0.30 |
+|   28 | Ben Faber                 |  28.3 |        15 |              |               |
+|   29 | Josh Taylor               |  28.3 |        40 |              |               |
+|   30 | Michael Best              |  28.1 |        21 |              |               |
+|   31 | Jehan Engineer            |  28.0 |         9 |              |               |
+|   32 | Arvind Muralimohan        |  27.9 |        16 |              |               |
 |   33 | Samer Shehata             |  27.8 |        29 |              |               |
 |   34 | Andrew Moylan             |  27.8 |        95 |              |               |
 |   35 | Vishi                     |  27.6 |        40 |              |         +1.47 |
