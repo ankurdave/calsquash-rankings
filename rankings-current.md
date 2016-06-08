@@ -37,9 +37,9 @@ Generated 2016-06-07.
 |   33 | Reto Sutter        |  14.0 |        38 |              |         +2.25 |
 |   34 | Ankur Dave         |  13.2 |        35 |              |         +7.58 |
 |   35 | Nikhil Paranjape   |  11.9 |        11 |        +0.88 |               |
-|   36 | Wayne Heiser       |  11.0 |        15 |              |               |
-|   37 | Daniel Schwartz    |  10.4 |        11 |              |               |
-|   38 | Duo Wang           |   9.2 |        56 |              |         +1.23 |
+|   36 | Daniel Schwartz    |  11.3 |        12 |        +0.89 |               |
+|   37 | Wayne Heiser       |  11.0 |        15 |              |               |
+|   38 | Duo Wang           |   9.1 |        57 |        -0.05 |         +1.18 |
 |   39 | Brian Kempenich    |   8.2 |        30 |              |         +0.27 |
 |   40 | Jose Lara          |   7.1 |         4 |              |               |
 |   41 | Alok Singh         |   6.0 |        10 |        -1.20 |               |

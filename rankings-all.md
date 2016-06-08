@@ -272,15 +272,15 @@ Generated 2016-06-07.
 |  268 | Mitchell O'Connell        |  11.6 |        32 |              |         +1.14 |
 |  269 | Carl Schreck              |  11.5 |         2 |              |               |
 |  270 | Antonio Garcia            |  11.4 |        20 |              |               |
-|  271 | Juliet Shih               |  11.3 |        11 |              |               |
-|  272 | Margaret Chapman          |  11.2 |         6 |              |         -4.71 |
-|  273 | Charles Denby             |  11.2 |         5 |              |               |
-|  274 | Wayne Heiser              |  11.0 |        15 |              |               |
-|  275 | Khurram Mahmood           |  10.8 |         3 |              |               |
-|  276 | Axel Eriksson             |  10.8 |         5 |              |               |
-|  277 | Jason Facchin             |  10.5 |         3 |              |               |
-|  278 | Jamie Paterson            |  10.4 |         4 |              |               |
-|  279 | Daniel Schwartz           |  10.4 |        11 |              |               |
+|  271 | Daniel Schwartz           |  11.3 |        12 |        +0.89 |               |
+|  272 | Juliet Shih               |  11.3 |        11 |              |               |
+|  273 | Margaret Chapman          |  11.2 |         6 |              |         -4.71 |
+|  274 | Charles Denby             |  11.2 |         5 |              |               |
+|  275 | Wayne Heiser              |  11.0 |        15 |              |               |
+|  276 | Khurram Mahmood           |  10.8 |         3 |              |               |
+|  277 | Axel Eriksson             |  10.8 |         5 |              |               |
+|  278 | Jason Facchin             |  10.5 |         3 |              |               |
+|  279 | Jamie Paterson            |  10.4 |         4 |              |               |
 |  280 | Huw Lester                |  10.4 |         1 |              |               |
 |  281 | Reed Foster               |  10.4 |         8 |              |               |
 |  282 | Sameer Abraham            |  10.3 |        24 |              |               |
@@ -302,8 +302,8 @@ Generated 2016-06-07.
 |  298 | Dominick Ng               |   9.5 |        25 |              |               |
 |  299 | Gene Zubovich             |   9.4 |        19 |              |         +0.82 |
 |  300 | Carlos Filho              |   9.2 |         7 |              |               |
-|  301 | Duo Wang                  |   9.2 |        56 |              |         +1.23 |
-|  302 | David Elfant              |   9.1 |         2 |              |               |
+|  301 | David Elfant              |   9.1 |         2 |              |               |
+|  302 | Duo Wang                  |   9.1 |        57 |        -0.05 |         +1.18 |
 |  303 | Laura Dobbs               |   9.1 |        26 |              |         -0.50 |
 |  304 | David Appelfeld           |   9.1 |        26 |              |               |
 |  305 | Jennifer Rha              |   9.0 |        12 |              |         +9.83 |
