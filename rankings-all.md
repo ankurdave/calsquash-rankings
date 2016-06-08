@@ -265,7 +265,7 @@ Generated 2016-06-08.
 |  261 | Ansul Rajgha              |  12.3 |        15 |              |               |
 |  262 | Jan Strasky               |  12.3 |        12 |              |               |
 |  263 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
-|  264 | Nikhil Paranjape          |  11.9 |        11 |        +0.88 |               |
+|  264 | Nikhil Paranjape          |  11.9 |        11 |        +0.89 |               |
 |  265 | James Shinn               |  11.9 |       120 |              |               |
 |  266 | Jeff Dorman               |  11.7 |        14 |              |               |
 |  267 | Guillaume Egles           |  11.6 |        11 |              |               |
@@ -341,19 +341,19 @@ Generated 2016-06-08.
 |  337 | Rob Cuthrell              |   7.0 |        11 |              |               |
 |  338 | John Provine              |   7.0 |        16 |              |               |
 |  339 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
-|  340 | Virginie Letschert        |   6.6 |        18 |              |               |
-|  341 | Michael Friedlander       |   6.5 |         3 |              |               |
-|  342 | Jules Bowie               |   6.4 |        12 |              |               |
-|  343 | Arno Ferguson             |   6.4 |         1 |              |               |
-|  344 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  345 | John Coates               |   6.1 |         9 |              |               |
-|  346 | Alok Singh                |   6.0 |        10 |        -1.20 |               |
-|  347 | John Givens               |   5.8 |        13 |              |               |
-|  348 | Nate Aden                 |   5.8 |         9 |              |               |
-|  349 | Phil Hartmeyer            |   5.6 |         3 |              |               |
-|  350 | Bobby Hicks               |   5.5 |         2 |              |               |
-|  351 | Brian Puglise             |   5.5 |         2 |              |               |
-|  352 | Josh Lebowitz             |   5.4 |        14 |        +2.39 |               |
+|  340 | Josh Lebowitz             |   6.6 |        15 |        +3.60 |               |
+|  341 | Virginie Letschert        |   6.6 |        18 |              |               |
+|  342 | Michael Friedlander       |   6.5 |         3 |              |               |
+|  343 | Jules Bowie               |   6.4 |        12 |              |               |
+|  344 | Arno Ferguson             |   6.4 |         1 |              |               |
+|  345 | Fahad Riyadh              |   6.3 |         5 |              |               |
+|  346 | Alok Singh                |   6.2 |        10 |        -1.08 |               |
+|  347 | John Coates               |   6.1 |         9 |              |               |
+|  348 | John Givens               |   5.8 |        13 |              |               |
+|  349 | Nate Aden                 |   5.8 |         9 |              |               |
+|  350 | Phil Hartmeyer            |   5.6 |         3 |              |               |
+|  351 | Bobby Hicks               |   5.5 |         2 |              |               |
+|  352 | Brian Puglise             |   5.5 |         2 |              |               |
 |  353 | Max Woodworth             |   5.3 |         7 |              |               |
 |  354 | Sylvan Arevalo            |   5.3 |         3 |              |               |
 |  355 | Ali Umar                  |   5.2 |        13 |              |               |
@@ -381,9 +381,9 @@ Generated 2016-06-08.
 |  377 | Akshay Dugar              |   3.2 |         6 |              |               |
 |  378 | Alex Walters              |   3.2 |         3 |              |               |
 |  379 | Catherine Wang            |   3.2 |        10 |              |               |
-|  380 | Keaton Noon               |   3.1 |        11 |              |               |
-|  381 | Vito Sciaraffia           |   3.0 |         5 |              |               |
-|  382 | Richard Fabini            |   2.7 |         3 |              |               |
+|  380 | Vito Sciaraffia           |   3.0 |         5 |              |               |
+|  381 | Richard Fabini            |   2.7 |         3 |              |               |
+|  382 | Keaton Noon               |   2.7 |        12 |        -0.42 |               |
 |  383 | Martin Rasmussen          |   2.5 |         6 |              |               |
 |  384 | Sandra Harpster           |   2.4 |         5 |              |               |
 |  385 | Therese Jones             |   2.3 |         6 |              |               |
