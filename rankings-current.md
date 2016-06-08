@@ -36,14 +36,14 @@ Generated 2016-06-08.
 |   32 | Terry Chang        |  14.7 |        36 |              |         +3.91 |
 |   33 | Reto Sutter        |  14.0 |        38 |              |         +2.25 |
 |   34 | Ankur Dave         |  13.2 |        35 |              |         +7.58 |
-|   35 | Nikhil Paranjape   |  11.9 |        11 |        +0.89 |               |
+|   35 | Nikhil Paranjape   |  12.7 |        12 |        +1.62 |               |
 |   36 | Daniel Schwartz    |  11.3 |        12 |        +0.89 |               |
 |   37 | Wayne Heiser       |  11.0 |        15 |              |               |
 |   38 | Duo Wang           |   9.1 |        57 |        -0.05 |         +1.18 |
 |   39 | Brian Kempenich    |   8.2 |        30 |              |         +0.27 |
 |   40 | Jose Lara          |   7.1 |         4 |              |               |
-|   41 | Josh Lebowitz      |   6.6 |        15 |        +3.60 |               |
-|   42 | Alok Singh         |   6.2 |        10 |        -1.08 |               |
+|   41 | Josh Lebowitz      |   6.4 |        16 |        +3.43 |               |
+|   42 | Alok Singh         |   6.2 |        10 |        -1.05 |               |
 |   43 | Nate Aden          |   5.8 |         9 |              |               |
 |   44 | Keaton Noon        |   2.7 |        12 |        -0.42 |               |
 |   45 | Rodrigo Calmet     |   0.7 |         1 |              |               |

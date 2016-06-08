@@ -256,16 +256,16 @@ Generated 2016-06-08.
 |  252 | Akash Sharma              |  12.9 |         8 |              |               |
 |  253 | Marco Gonzalez-Navarro    |  12.9 |        32 |              |               |
 |  254 | Marghoob Mohiyuddin       |  12.7 |        31 |              |               |
-|  255 | Mekoce Walker             |  12.6 |        38 |              |               |
-|  256 | Jee Hwan Kim              |  12.6 |         7 |              |               |
-|  257 | Mike Troxell              |  12.6 |         8 |              |               |
-|  258 | Field Maloney             |  12.6 |        24 |              |               |
-|  259 | Joe Hyde                  |  12.4 |        68 |              |               |
-|  260 | Karan Jain                |  12.4 |        19 |              |         +2.54 |
-|  261 | Ansul Rajgha              |  12.3 |        15 |              |               |
-|  262 | Jan Strasky               |  12.3 |        12 |              |               |
-|  263 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
-|  264 | Nikhil Paranjape          |  11.9 |        11 |        +0.89 |               |
+|  255 | Nikhil Paranjape          |  12.7 |        12 |        +1.62 |               |
+|  256 | Mekoce Walker             |  12.6 |        38 |              |               |
+|  257 | Jee Hwan Kim              |  12.6 |         7 |              |               |
+|  258 | Mike Troxell              |  12.6 |         8 |              |               |
+|  259 | Field Maloney             |  12.6 |        24 |              |               |
+|  260 | Joe Hyde                  |  12.4 |        68 |              |               |
+|  261 | Karan Jain                |  12.4 |        19 |              |         +2.54 |
+|  262 | Ansul Rajgha              |  12.3 |        15 |              |               |
+|  263 | Jan Strasky               |  12.3 |        12 |              |               |
+|  264 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
 |  265 | James Shinn               |  11.9 |       120 |              |               |
 |  266 | Jeff Dorman               |  11.7 |        14 |              |               |
 |  267 | Guillaume Egles           |  11.6 |        11 |              |               |
@@ -341,13 +341,13 @@ Generated 2016-06-08.
 |  337 | Rob Cuthrell              |   7.0 |        11 |              |               |
 |  338 | John Provine              |   7.0 |        16 |              |               |
 |  339 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
-|  340 | Josh Lebowitz             |   6.6 |        15 |        +3.60 |               |
-|  341 | Virginie Letschert        |   6.6 |        18 |              |               |
-|  342 | Michael Friedlander       |   6.5 |         3 |              |               |
+|  340 | Virginie Letschert        |   6.6 |        18 |              |               |
+|  341 | Michael Friedlander       |   6.5 |         3 |              |               |
+|  342 | Josh Lebowitz             |   6.4 |        16 |        +3.43 |               |
 |  343 | Jules Bowie               |   6.4 |        12 |              |               |
 |  344 | Arno Ferguson             |   6.4 |         1 |              |               |
 |  345 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  346 | Alok Singh                |   6.2 |        10 |        -1.08 |               |
+|  346 | Alok Singh                |   6.2 |        10 |        -1.05 |               |
 |  347 | John Coates               |   6.1 |         9 |              |               |
 |  348 | John Givens               |   5.8 |        13 |              |               |
 |  349 | Nate Aden                 |   5.8 |         9 |              |               |
