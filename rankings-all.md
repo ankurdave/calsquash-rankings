@@ -189,10 +189,10 @@ Generated 2016-06-10.
 |  185 | William Coleman           |  16.8 |        48 |              |               |
 |  186 | Darren Morgan             |  16.8 |        11 |              |               |
 |  187 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  188 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  189 | Michael Cianfrocco        |  16.5 |        18 |              |               |
-|  190 | Ben Ailes                 |  16.5 |        48 |              |               |
-|  191 | Kent Daniels              |  16.4 |        74 |              |         +2.04 |
+|  188 | Kent Daniels              |  16.6 |        75 |        +0.17 |         +2.21 |
+|  189 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
+|  191 | Ben Ailes                 |  16.5 |        48 |              |               |
 |  192 | Eric Borden               |  16.4 |        20 |              |               |
 |  193 | George Roche              |  16.3 |        14 |              |         +2.01 |
 |  194 | Anirudh Todi              |  16.2 |         3 |              |               |
@@ -231,13 +231,13 @@ Generated 2016-06-10.
 |  227 | David Shabelman           |  14.4 |        30 |              |               |
 |  228 | Peter Dering              |  14.3 |         9 |              |               |
 |  229 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  230 | Reto Sutter               |  14.0 |        38 |              |         +2.25 |
-|  231 | Wesley Huang              |  14.0 |         8 |              |               |
-|  232 | Greg Adams                |  14.0 |        10 |              |               |
-|  233 | Vipul Singhvi             |  14.0 |         8 |              |               |
-|  234 | Baxter Leman              |  13.9 |         6 |              |               |
-|  235 | Mike Delanty              |  13.9 |        12 |              |               |
-|  236 | James Chung               |  13.8 |         7 |              |               |
+|  230 | Wesley Huang              |  14.0 |         8 |              |               |
+|  231 | Greg Adams                |  14.0 |        10 |              |               |
+|  232 | Vipul Singhvi             |  14.0 |         8 |              |               |
+|  233 | Baxter Leman              |  13.9 |         6 |              |               |
+|  234 | Mike Delanty              |  13.9 |        12 |              |               |
+|  235 | James Chung               |  13.8 |         7 |              |               |
+|  236 | Reto Sutter               |  13.8 |        39 |        -0.20 |         +2.05 |
 |  237 | Natalie Bratwood          |  13.8 |         5 |              |               |
 |  238 | Raphael Magarik           |  13.6 |         6 |              |               |
 |  239 | Craig Riddell             |  13.6 |         8 |              |               |
