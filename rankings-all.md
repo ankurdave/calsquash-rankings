@@ -242,12 +242,12 @@ Generated 2016-06-11.
 |  238 | Raphael Magarik           |  13.6 |         6 |              |               |
 |  239 | Craig Riddell             |  13.6 |         8 |              |               |
 |  240 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
-|  241 | Yan Liu                   |  13.4 |        10 |              |         -1.64 |
-|  242 | Tanit Follett             |  13.2 |         8 |              |               |
-|  243 | Mimi Zhang                |  13.2 |         6 |              |               |
-|  244 | Alex Rennet               |  13.2 |         2 |              |               |
-|  245 | Adam Soliman              |  13.2 |        32 |              |               |
-|  246 | Ankur Dave                |  13.2 |        35 |              |         +7.58 |
+|  241 | Ankur Dave                |  13.5 |        36 |        +0.32 |         +7.90 |
+|  242 | Yan Liu                   |  13.4 |        10 |              |         -1.64 |
+|  243 | Tanit Follett             |  13.2 |         8 |              |               |
+|  244 | Mimi Zhang                |  13.2 |         6 |              |               |
+|  245 | Alex Rennet               |  13.2 |         2 |              |               |
+|  246 | Adam Soliman              |  13.2 |        32 |              |               |
 |  247 | David Isaksson            |  13.1 |        22 |              |               |
 |  248 | Steven Hahm               |  13.1 |         5 |              |               |
 |  249 | Gautam Tankha             |  13.0 |         7 |              |               |
@@ -453,35 +453,36 @@ Generated 2016-06-11.
 |  449 | Cristhian Daniel          |  -1.3 |         1 |              |               |
 |  450 | Stuart Fox                |  -1.4 |         1 |              |               |
 |  451 | Manu Vaish                |  -1.4 |         1 |              |               |
-|  452 | Suluck Chaturabul         |  -1.6 |         2 |              |               |
-|  453 | Ivan Rothman              |  -1.6 |         5 |              |               |
-|  454 | Judah Purcell             |  -1.7 |         1 |              |               |
-|  455 | Emily Moylan              |  -1.7 |        17 |              |               |
-|  456 | Susan Grand               |  -1.7 |         3 |              |         -0.22 |
-|  457 | Nathaniel Rice            |  -1.8 |         3 |              |               |
-|  458 | David Zhu                 |  -2.0 |         2 |              |               |
-|  459 | Jenny Cheng               |  -2.2 |         1 |              |               |
-|  460 | Annie Wong                |  -2.3 |         3 |              |               |
-|  461 | Jonathan Helfgott         |  -2.3 |         2 |              |               |
-|  462 | Lev Marquis               |  -2.4 |         5 |              |               |
-|  463 | Maria Garzon              |  -2.4 |         5 |              |               |
-|  464 | Rohan Relan               |  -2.5 |         4 |              |               |
-|  465 | Tjacka Bus                |  -2.5 |         5 |              |               |
-|  466 | Seobin Jung               |  -2.6 |         5 |              |               |
-|  467 | David Gundry              |  -2.7 |         3 |              |               |
-|  468 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
-|  469 | Anne Iversen              |  -2.7 |         3 |              |               |
-|  470 | Ann Connolly              |  -2.8 |         4 |              |         -0.78 |
-|  471 | Sara Green                |  -2.8 |         1 |              |               |
-|  472 | Shantanu Mittal           |  -2.9 |         3 |              |               |
-|  473 | Rabin Patra               |  -2.9 |         2 |              |               |
-|  474 | Pedrum Mohageri           |  -2.9 |         8 |              |               |
-|  475 | Ben Geller                |  -3.1 |         4 |              |               |
-|  476 | Tin Do                    |  -3.6 |         1 |              |               |
-|  477 | Nadir Shams               |  -3.7 |         2 |              |               |
-|  478 | Nick Firmani              |  -3.9 |         3 |              |               |
-|  479 | Mateo Aceves              |  -4.5 |         4 |              |               |
-|  480 | Adeesh Goel               |  -5.2 |         3 |              |               |
-|  481 | Padma Maitland            |  -5.4 |         4 |              |               |
-|  482 | Emmanual Tsukerman        |  -5.4 |         3 |              |               |
-|  483 | Stephanie Collett         |  -6.2 |         2 |              |               |
+|  452 | Ji Seop Oh                |  -1.4 |         1 |              |               |
+|  453 | Suluck Chaturabul         |  -1.6 |         2 |              |               |
+|  454 | Ivan Rothman              |  -1.6 |         5 |              |               |
+|  455 | Judah Purcell             |  -1.7 |         1 |              |               |
+|  456 | Emily Moylan              |  -1.7 |        17 |              |               |
+|  457 | Susan Grand               |  -1.7 |         3 |              |         -0.22 |
+|  458 | Nathaniel Rice            |  -1.8 |         3 |              |               |
+|  459 | David Zhu                 |  -2.0 |         2 |              |               |
+|  460 | Jenny Cheng               |  -2.2 |         1 |              |               |
+|  461 | Annie Wong                |  -2.3 |         3 |              |               |
+|  462 | Jonathan Helfgott         |  -2.3 |         2 |              |               |
+|  463 | Lev Marquis               |  -2.4 |         5 |              |               |
+|  464 | Maria Garzon              |  -2.4 |         5 |              |               |
+|  465 | Rohan Relan               |  -2.5 |         4 |              |               |
+|  466 | Tjacka Bus                |  -2.5 |         5 |              |               |
+|  467 | Seobin Jung               |  -2.6 |         5 |              |               |
+|  468 | David Gundry              |  -2.7 |         3 |              |               |
+|  469 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
+|  470 | Anne Iversen              |  -2.7 |         3 |              |               |
+|  471 | Ann Connolly              |  -2.8 |         4 |              |         -0.78 |
+|  472 | Sara Green                |  -2.8 |         1 |              |               |
+|  473 | Shantanu Mittal           |  -2.9 |         3 |              |               |
+|  474 | Rabin Patra               |  -2.9 |         2 |              |               |
+|  475 | Pedrum Mohageri           |  -2.9 |         8 |              |               |
+|  476 | Ben Geller                |  -3.1 |         4 |              |               |
+|  477 | Tin Do                    |  -3.6 |         1 |              |               |
+|  478 | Nadir Shams               |  -3.7 |         2 |              |               |
+|  479 | Nick Firmani              |  -3.9 |         3 |              |               |
+|  480 | Mateo Aceves              |  -4.5 |         4 |              |               |
+|  481 | Adeesh Goel               |  -5.2 |         3 |              |               |
+|  482 | Padma Maitland            |  -5.4 |         4 |              |               |
+|  483 | Emmanual Tsukerman        |  -5.4 |         3 |              |               |
+|  484 | Stephanie Collett         |  -6.2 |         2 |              |               |

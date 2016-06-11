@@ -35,7 +35,7 @@ Generated 2016-06-11.
 |   31 | Jeff Gordon        |  15.5 |        20 |              |               |
 |   32 | Terry Chang        |  14.7 |        36 |              |         +3.91 |
 |   33 | Reto Sutter        |  13.8 |        39 |        -0.20 |         +2.05 |
-|   34 | Ankur Dave         |  13.2 |        35 |              |         +7.58 |
+|   34 | Ankur Dave         |  13.5 |        36 |        +0.32 |         +7.90 |
 |   35 | Nikhil Paranjape   |  12.7 |        12 |        +1.69 |               |
 |   36 | Daniel Schwartz    |  11.3 |        12 |        +0.89 |               |
 |   37 | Wayne Heiser       |  11.0 |        15 |              |               |
@@ -48,3 +48,4 @@ Generated 2016-06-11.
 |   44 | Keaton Noon        |   2.5 |        13 |        -0.61 |               |
 |   45 | Rodrigo Calmet     |   0.7 |         1 |              |               |
 |   46 | Cristhian Daniel   |  -1.3 |         1 |              |               |
+|   47 | Ji Seop Oh         |  -1.4 |         1 |              |               |
