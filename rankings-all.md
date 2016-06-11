@@ -86,7 +86,7 @@ Generated 2016-06-11.
 |   82 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   83 | Prakash Bathini           |  22.8 |       118 |              |         -0.40 |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
-|   85 | Mike Jensen-Akula         |  22.5 |       208 |              |         -0.25 |
+|   85 | Mike Jensen-Akula         |  22.6 |       209 |        +0.02 |         -0.23 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
 |   87 | Richard Chan              |  22.5 |         9 |              |               |
 |   88 | Orion Hodson              |  22.5 |        31 |              |               |
@@ -446,14 +446,14 @@ Generated 2016-06-11.
 |  442 | Laurie Choi               |  -0.8 |         2 |              |               |
 |  443 | Enrico Moretti            |  -0.8 |         1 |              |               |
 |  444 | Saumil Chheda             |  -0.8 |         1 |              |               |
-|  445 | James Redfield            |  -1.0 |         3 |              |               |
-|  446 | Xavier Vendrell           |  -1.1 |         3 |              |               |
-|  447 | Matthew Flairty           |  -1.2 |         2 |              |               |
-|  448 | Rajiv Bhutani             |  -1.3 |         1 |              |               |
-|  449 | Cristhian Daniel          |  -1.3 |         1 |              |               |
-|  450 | Stuart Fox                |  -1.4 |         1 |              |               |
-|  451 | Manu Vaish                |  -1.4 |         1 |              |               |
-|  452 | Ji Seop Oh                |  -1.4 |         1 |              |               |
+|  445 | Ji Seop Oh                |  -0.9 |         2 |              |               |
+|  446 | James Redfield            |  -1.0 |         3 |              |               |
+|  447 | Xavier Vendrell           |  -1.1 |         3 |              |               |
+|  448 | Matthew Flairty           |  -1.2 |         2 |              |               |
+|  449 | Rajiv Bhutani             |  -1.3 |         1 |              |               |
+|  450 | Cristhian Daniel          |  -1.3 |         1 |              |               |
+|  451 | Stuart Fox                |  -1.4 |         1 |              |               |
+|  452 | Manu Vaish                |  -1.4 |         1 |              |               |
 |  453 | Suluck Chaturabul         |  -1.6 |         2 |              |               |
 |  454 | Ivan Rothman              |  -1.6 |         5 |              |               |
 |  455 | Judah Purcell             |  -1.7 |         1 |              |               |
