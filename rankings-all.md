@@ -255,8 +255,8 @@ Generated 2016-06-10.
 |  251 | Sushant Jain              |  12.9 |        12 |              |               |
 |  252 | Akash Sharma              |  12.9 |         8 |              |               |
 |  253 | Marco Gonzalez-Navarro    |  12.9 |        32 |              |               |
-|  254 | Marghoob Mohiyuddin       |  12.7 |        31 |              |               |
-|  255 | Nikhil Paranjape          |  12.7 |        12 |        +1.62 |               |
+|  254 | Nikhil Paranjape          |  12.7 |        12 |        +1.69 |               |
+|  255 | Marghoob Mohiyuddin       |  12.7 |        31 |              |               |
 |  256 | Mekoce Walker             |  12.6 |        38 |              |               |
 |  257 | Jee Hwan Kim              |  12.6 |         7 |              |               |
 |  258 | Mike Troxell              |  12.6 |         8 |              |               |
@@ -334,20 +334,20 @@ Generated 2016-06-10.
 |  330 | Kunal Talwar              |   7.6 |         1 |              |               |
 |  331 | Dav Clark                 |   7.4 |         6 |              |         +2.27 |
 |  332 | Max Grass                 |   7.2 |         1 |              |               |
-|  333 | Joseph Duggan             |   7.1 |         8 |              |               |
-|  334 | Jose Lara                 |   7.1 |         4 |              |               |
-|  335 | Min Joon Seo              |   7.0 |         3 |              |               |
-|  336 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
-|  337 | Rob Cuthrell              |   7.0 |        11 |              |               |
-|  338 | John Provine              |   7.0 |        16 |              |               |
-|  339 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
-|  340 | Virginie Letschert        |   6.6 |        18 |              |               |
-|  341 | Michael Friedlander       |   6.5 |         3 |              |               |
-|  342 | Josh Lebowitz             |   6.4 |        16 |        +3.43 |               |
-|  343 | Jules Bowie               |   6.4 |        12 |              |               |
-|  344 | Arno Ferguson             |   6.4 |         1 |              |               |
-|  345 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  346 | Alok Singh                |   6.2 |        10 |        -1.05 |               |
+|  333 | Alok Singh                |   7.1 |        11 |        -0.09 |               |
+|  334 | Joseph Duggan             |   7.1 |         8 |              |               |
+|  335 | Jose Lara                 |   7.1 |         4 |              |               |
+|  336 | Min Joon Seo              |   7.0 |         3 |              |               |
+|  337 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
+|  338 | Rob Cuthrell              |   7.0 |        11 |              |               |
+|  339 | John Provine              |   7.0 |        16 |              |               |
+|  340 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
+|  341 | Virginie Letschert        |   6.6 |        18 |              |               |
+|  342 | Michael Friedlander       |   6.5 |         3 |              |               |
+|  343 | Josh Lebowitz             |   6.4 |        16 |        +3.43 |               |
+|  344 | Jules Bowie               |   6.4 |        12 |              |               |
+|  345 | Arno Ferguson             |   6.4 |         1 |              |               |
+|  346 | Fahad Riyadh              |   6.3 |         5 |              |               |
 |  347 | John Coates               |   6.1 |         9 |              |               |
 |  348 | John Givens               |   5.8 |        13 |              |               |
 |  349 | Nate Aden                 |   5.8 |         9 |              |               |
@@ -383,8 +383,8 @@ Generated 2016-06-10.
 |  379 | Catherine Wang            |   3.2 |        10 |              |               |
 |  380 | Vito Sciaraffia           |   3.0 |         5 |              |               |
 |  381 | Richard Fabini            |   2.7 |         3 |              |               |
-|  382 | Keaton Noon               |   2.7 |        12 |        -0.42 |               |
-|  383 | Martin Rasmussen          |   2.5 |         6 |              |               |
+|  382 | Martin Rasmussen          |   2.5 |         6 |              |               |
+|  383 | Keaton Noon               |   2.5 |        13 |        -0.61 |               |
 |  384 | Sandra Harpster           |   2.4 |         5 |              |               |
 |  385 | Therese Jones             |   2.3 |         6 |              |               |
 |  386 | Suneesh Kaul              |   2.2 |         3 |              |               |
