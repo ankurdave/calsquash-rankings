@@ -93,10 +93,10 @@ Generated 2016-06-12.
 |   89 | Rahul Gupta               |  22.4 |         7 |              |               |
 |   90 | Lyle Fearnley             |  22.3 |        30 |              |               |
 |   91 | Peter McDermott           |  22.3 |        10 |              |               |
-|   92 | Paul Greene               |  22.1 |         8 |              |               |
-|   93 | Philip Bildner            |  22.1 |        22 |              |               |
-|   94 | Kelvin Wong               |  22.0 |        44 |              |               |
-|   95 | Reid Johnsen              |  21.9 |        18 |              |         +6.07 |
+|   92 | Reid Johnsen              |  22.3 |        19 |        +0.37 |         +6.44 |
+|   93 | Paul Greene               |  22.1 |         8 |              |               |
+|   94 | Philip Bildner            |  22.1 |        22 |              |               |
+|   95 | Kelvin Wong               |  22.0 |        44 |              |               |
 |   96 | Harlan Yu                 |  21.9 |        19 |              |               |
 |   97 | Robert Schwartz           |  21.8 |        73 |              |               |
 |   98 | Sam McCormick             |  21.7 |        13 |              |               |
@@ -150,7 +150,7 @@ Generated 2016-06-12.
 |  146 | Jaime Perez               |  18.5 |        11 |              |               |
 |  147 | Sam Trachtman             |  18.5 |         5 |              |               |
 |  148 | Subrato Dey               |  18.4 |        18 |              |               |
-|  149 | Kenny Bell                |  18.4 |       105 |              |         +1.42 |
+|  149 | Kenny Bell                |  18.3 |       106 |        -0.03 |         +1.39 |
 |  150 | Ian Lunt                  |  18.3 |         9 |              |               |
 |  151 | William Seles             |  18.2 |        15 |              |               |
 |  152 | Javed Ahmed               |  18.2 |        58 |              |               |
