@@ -24,9 +24,9 @@ Generated 2016-06-13.
 |   20 | Reid Johnsen       |  21.3 |        20 |        -0.57 |         +5.51 |
 |   21 | Jonathan Francis   |  20.6 |        56 |              |         +0.71 |
 |   22 | Shaun Lim          |  20.2 |        34 |              |         +0.01 |
-|   23 | Dror Matalon       |  20.1 |       338 |              |         -0.70 |
-|   24 | Chris Flores       |  20.0 |       294 |              |         -0.08 |
-|   25 | Subrato Dey        |  18.4 |        18 |              |               |
+|   23 | Chris Flores       |  20.0 |       294 |              |         -0.08 |
+|   24 | Dror Matalon       |  20.0 |       339 |        -0.07 |         -0.77 |
+|   25 | Subrato Dey        |  19.0 |        19 |        +0.59 |               |
 |   26 | Kenny Bell         |  18.3 |       106 |        -0.03 |         +1.39 |
 |   27 | Josh Trauner       |  18.2 |        21 |        +1.23 |               |
 |   28 | Kent Daniels       |  16.7 |        76 |        +0.32 |         +2.36 |
