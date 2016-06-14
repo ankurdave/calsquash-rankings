@@ -93,21 +93,21 @@ Generated 2016-06-14.
 |   89 | Rahul Gupta               |  22.4 |         7 |              |               |
 |   90 | Lyle Fearnley             |  22.3 |        30 |              |               |
 |   91 | Peter McDermott           |  22.3 |        10 |              |               |
-|   92 | Paul Greene               |  22.1 |         8 |              |               |
-|   93 | Philip Bildner            |  22.1 |        22 |              |               |
-|   94 | Kelvin Wong               |  22.0 |        44 |              |               |
-|   95 | Harlan Yu                 |  21.9 |        19 |              |               |
-|   96 | Robert Schwartz           |  21.8 |        73 |              |               |
-|   97 | Sam McCormick             |  21.7 |        13 |              |               |
-|   98 | Robert Ashmore            |  21.7 |       104 |              |               |
-|   99 | Jared Bard                |  21.6 |        22 |              |         +3.98 |
+|   92 | Jared Bard                |  22.2 |        23 |        +0.58 |         +4.56 |
+|   93 | Paul Greene               |  22.1 |         8 |              |               |
+|   94 | Philip Bildner            |  22.1 |        22 |              |               |
+|   95 | Kelvin Wong               |  22.0 |        44 |              |               |
+|   96 | Harlan Yu                 |  21.9 |        19 |              |               |
+|   97 | Robert Schwartz           |  21.8 |        73 |              |               |
+|   98 | Sam McCormick             |  21.7 |        13 |              |               |
+|   99 | Robert Ashmore            |  21.7 |       104 |              |               |
 |  100 | Zarah Rahman              |  21.6 |        13 |              |         +1.25 |
 |  101 | Amy Lee                   |  21.6 |        56 |              |               |
 |  102 | Kameshwar Poolla          |  21.6 |        11 |              |               |
 |  103 | Ronald Dahl               |  21.6 |        51 |              |         -0.61 |
 |  104 | Phin Lee                  |  21.5 |        16 |              |               |
 |  105 | Dev Millstein             |  21.4 |        92 |              |               |
-|  106 | Reid Johnsen              |  21.3 |        20 |        -0.57 |         +5.51 |
+|  106 | Reid Johnsen              |  21.4 |        20 |        -0.53 |         +5.54 |
 |  107 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
 |  108 | Matthew Elliott           |  21.3 |         7 |              |               |
 |  109 | Garvin Heath              |  21.2 |        28 |              |               |
@@ -150,18 +150,18 @@ Generated 2016-06-14.
 |  146 | Allan Sly                 |  18.6 |        29 |              |               |
 |  147 | Jaime Perez               |  18.5 |        11 |              |               |
 |  148 | Sam Trachtman             |  18.5 |         5 |              |               |
-|  149 | Kenny Bell                |  18.3 |       106 |        -0.03 |         +1.39 |
-|  150 | Ian Lunt                  |  18.3 |         9 |              |               |
+|  149 | Ian Lunt                  |  18.3 |         9 |              |               |
+|  150 | Kenny Bell                |  18.3 |       106 |        -0.04 |         +1.38 |
 |  151 | William Seles             |  18.2 |        15 |              |               |
 |  152 | Javed Ahmed               |  18.2 |        58 |              |               |
 |  153 | Andres Ramirez            |  18.2 |         8 |              |               |
 |  154 | Jaime Vidal               |  18.2 |         8 |              |               |
-|  155 | Josh Trauner              |  18.2 |        21 |        +1.23 |               |
-|  156 | Geoffrey Barrows          |  18.1 |        14 |              |               |
-|  157 | Jamie Funk                |  18.1 |        30 |              |               |
-|  158 | Lucas Cheon               |  18.1 |        19 |              |               |
-|  159 | Himanshu Jatia            |  18.1 |         4 |              |               |
-|  160 | Anubhav Gupta             |  18.0 |         8 |              |               |
+|  155 | Geoffrey Barrows          |  18.1 |        14 |              |               |
+|  156 | Jamie Funk                |  18.1 |        30 |              |               |
+|  157 | Lucas Cheon               |  18.1 |        19 |              |               |
+|  158 | Himanshu Jatia            |  18.1 |         4 |              |               |
+|  159 | Anubhav Gupta             |  18.0 |         8 |              |               |
+|  160 | Josh Trauner              |  18.0 |        22 |        +1.08 |               |
 |  161 | Andres Rodriguez          |  18.0 |        55 |              |         +0.06 |
 |  162 | Robert Geiger             |  17.8 |         8 |              |               |
 |  163 | Jim Evans                 |  17.8 |       216 |              |               |
