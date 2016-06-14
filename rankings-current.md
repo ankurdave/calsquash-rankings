@@ -29,12 +29,12 @@ Generated 2016-06-13.
 |   25 | Subrato Dey        |  18.4 |        18 |              |               |
 |   26 | Kenny Bell         |  18.3 |       106 |        -0.03 |         +1.39 |
 |   27 | Josh Trauner       |  18.2 |        21 |        +1.23 |               |
-|   28 | Kent Daniels       |  16.6 |        75 |        +0.17 |         +2.21 |
+|   28 | Kent Daniels       |  16.7 |        76 |        +0.32 |         +2.36 |
 |   29 | Eric Borden        |  16.4 |        20 |              |               |
 |   30 | Rupert Myers       |  15.6 |        27 |              |               |
 |   31 | Jeff Gordon        |  15.5 |        20 |              |               |
 |   32 | Terry Chang        |  14.7 |        36 |              |         +3.91 |
-|   33 | Reto Sutter        |  13.8 |        39 |        -0.20 |         +2.05 |
+|   33 | Reto Sutter        |  13.8 |        39 |        -0.19 |         +2.06 |
 |   34 | Ankur Dave         |  13.5 |        36 |        +0.32 |         +7.90 |
 |   35 | Nikhil Paranjape   |  12.7 |        12 |        +1.69 |               |
 |   36 | Daniel Schwartz    |  11.3 |        12 |        +0.89 |               |
@@ -47,5 +47,6 @@ Generated 2016-06-13.
 |   43 | Nate Aden          |   5.8 |         9 |              |               |
 |   44 | Keaton Noon        |   2.5 |        13 |        -0.61 |               |
 |   45 | Rodrigo Calmet     |   0.7 |         1 |              |               |
-|   46 | Ji Seop Oh         |  -0.9 |         2 |              |               |
-|   47 | Cristhian Daniel   |  -1.3 |         1 |              |               |
+|   46 | Ryan               |  -0.7 |         1 |              |               |
+|   47 | Ji Seop Oh         |  -0.9 |         2 |              |               |
+|   48 | Cristhian Daniel   |  -1.3 |         1 |              |               |
