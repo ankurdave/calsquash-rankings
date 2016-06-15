@@ -17,7 +17,7 @@ Generated 2016-06-14.
 |   13 | Mark Modera        |  24.3 |       298 |              |         -1.14 |
 |   14 | Aditya Guntuboyina |  24.1 |        68 |              |         +2.60 |
 |   15 | Jonathan Hankar    |  23.6 |       175 |              |         +0.37 |
-|   16 | Matt Wong          |  22.9 |        58 |              |         +2.50 |
+|   16 | Matt Wong          |  23.0 |        59 |        +0.09 |         +2.59 |
 |   17 | Prakash Bathini    |  22.8 |       118 |              |         -0.40 |
 |   18 | Mike Jensen-Akula  |  22.6 |       209 |        +0.02 |         -0.23 |
 |   19 | Jared Bard         |  22.2 |        23 |        +0.58 |         +4.56 |
@@ -46,7 +46,7 @@ Generated 2016-06-14.
 |   42 | Josh Lebowitz      |   6.4 |        16 |        +3.43 |               |
 |   43 | Nate Aden          |   5.8 |         9 |              |               |
 |   44 | Keaton Noon        |   2.5 |        13 |        -0.61 |               |
-|   45 | Rodrigo Calmet     |   0.7 |         1 |              |               |
+|   45 | Rodrigo Calmet     |   1.4 |         2 |        +0.67 |               |
 |   46 | Ryan               |  -0.7 |         1 |              |               |
 |   47 | Ji Seop Oh         |  -0.9 |         2 |              |               |
 |   48 | Cristhian Daniel   |  -1.3 |         1 |              |               |

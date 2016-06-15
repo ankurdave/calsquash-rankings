@@ -82,7 +82,7 @@ Generated 2016-06-14.
 |   78 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
 |   79 | Jan Beranek               |  23.1 |        46 |              |               |
 |   80 | Gary Golding              |  23.1 |         6 |              |               |
-|   81 | Matt Wong                 |  22.9 |        58 |              |         +2.50 |
+|   81 | Matt Wong                 |  23.0 |        59 |        +0.09 |         +2.59 |
 |   82 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   83 | Prakash Bathini           |  22.8 |       118 |              |         -0.40 |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
@@ -390,28 +390,28 @@ Generated 2016-06-14.
 |  386 | Suneesh Kaul              |   2.2 |         3 |              |               |
 |  387 | Tim O'Connell             |   1.5 |         3 |              |               |
 |  388 | Charity Caruthers         |   1.5 |         4 |              |               |
-|  389 | Jonathan Vogel            |   1.3 |         7 |              |               |
-|  390 | Julia Selezneva           |   1.2 |         5 |              |               |
-|  391 | Erdem Ovacik              |   1.2 |        10 |              |               |
-|  392 | Danish Mir                |   1.2 |         1 |              |               |
-|  393 | Alex Kaplan               |   1.2 |         8 |              |               |
-|  394 | Sung-Jin Oh               |   1.2 |         6 |              |               |
-|  395 | Hannah Hagen              |   1.2 |         4 |              |               |
-|  396 | Aman Gupta                |   1.2 |         3 |              |               |
-|  397 | Mark Shapero              |   1.2 |         7 |              |               |
-|  398 | Akira Chiwaki             |   1.1 |         3 |              |               |
-|  399 | Matthew Mak               |   1.0 |         1 |              |               |
-|  400 | David Vogel               |   1.0 |         7 |              |               |
-|  401 | Julian Gill               |   1.0 |         1 |              |               |
-|  402 | Alexis Madrigal           |   1.0 |         2 |              |               |
-|  403 | Aubrey Shick              |   1.0 |        30 |              |         -0.01 |
-|  404 | Matan Sela                |   1.0 |         1 |              |               |
-|  405 | Sudeep Agarwal            |   0.9 |         3 |              |               |
-|  406 | Jesus Nieto Gonzalez      |   0.9 |         2 |              |               |
-|  407 | Heather Dunbar            |   0.9 |         1 |              |               |
-|  408 | Phil Lin                  |   0.8 |         1 |              |               |
-|  409 | Himanshu Chandra          |   0.7 |         4 |              |               |
-|  410 | Rodrigo Calmet            |   0.7 |         1 |              |               |
+|  389 | Rodrigo Calmet            |   1.4 |         2 |        +0.67 |               |
+|  390 | Jonathan Vogel            |   1.3 |         7 |              |               |
+|  391 | Julia Selezneva           |   1.2 |         5 |              |               |
+|  392 | Erdem Ovacik              |   1.2 |        10 |              |               |
+|  393 | Danish Mir                |   1.2 |         1 |              |               |
+|  394 | Alex Kaplan               |   1.2 |         8 |              |               |
+|  395 | Sung-Jin Oh               |   1.2 |         6 |              |               |
+|  396 | Hannah Hagen              |   1.2 |         4 |              |               |
+|  397 | Aman Gupta                |   1.2 |         3 |              |               |
+|  398 | Mark Shapero              |   1.2 |         7 |              |               |
+|  399 | Akira Chiwaki             |   1.1 |         3 |              |               |
+|  400 | Matthew Mak               |   1.0 |         1 |              |               |
+|  401 | David Vogel               |   1.0 |         7 |              |               |
+|  402 | Julian Gill               |   1.0 |         1 |              |               |
+|  403 | Alexis Madrigal           |   1.0 |         2 |              |               |
+|  404 | Aubrey Shick              |   1.0 |        30 |              |         -0.01 |
+|  405 | Matan Sela                |   1.0 |         1 |              |               |
+|  406 | Sudeep Agarwal            |   0.9 |         3 |              |               |
+|  407 | Jesus Nieto Gonzalez      |   0.9 |         2 |              |               |
+|  408 | Heather Dunbar            |   0.9 |         1 |              |               |
+|  409 | Phil Lin                  |   0.8 |         1 |              |               |
+|  410 | Himanshu Chandra          |   0.7 |         4 |              |               |
 |  411 | Alexandra Harmon          |   0.7 |         3 |              |               |
 |  412 | Jacob Bank                |   0.7 |         1 |              |               |
 |  413 | Vin Marshall              |   0.6 |        11 |              |               |
