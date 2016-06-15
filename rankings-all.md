@@ -224,9 +224,9 @@ Generated 2016-06-14.
 |  220 | Lakshya Rustagi           |  14.8 |         2 |              |               |
 |  221 | Angie Ng                  |  14.8 |        12 |              |               |
 |  222 | Nicholas Monsees          |  14.8 |         5 |              |               |
-|  223 | Terry Chang               |  14.7 |        36 |              |         +3.91 |
-|  224 | Yating Liu                |  14.6 |         7 |              |               |
-|  225 | Frederick Bayles          |  14.6 |         8 |              |               |
+|  223 | Yating Liu                |  14.6 |         7 |              |               |
+|  224 | Frederick Bayles          |  14.6 |         8 |              |               |
+|  225 | Terry Chang               |  14.4 |        37 |        -0.30 |         +3.61 |
 |  226 | John Grim                 |  14.4 |        13 |              |               |
 |  227 | David Shabelman           |  14.4 |        30 |              |               |
 |  228 | Peter Dering              |  14.3 |         9 |              |               |
@@ -235,14 +235,14 @@ Generated 2016-06-14.
 |  231 | Greg Adams                |  14.0 |        10 |              |               |
 |  232 | Vipul Singhvi             |  14.0 |         8 |              |               |
 |  233 | Baxter Leman              |  13.9 |         6 |              |               |
-|  234 | Mike Delanty              |  13.9 |        12 |              |               |
-|  235 | James Chung               |  13.8 |         7 |              |               |
-|  236 | Reto Sutter               |  13.8 |        39 |        -0.19 |         +2.06 |
-|  237 | Natalie Bratwood          |  13.8 |         5 |              |               |
-|  238 | Raphael Magarik           |  13.6 |         6 |              |               |
-|  239 | Craig Riddell             |  13.6 |         8 |              |               |
-|  240 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
-|  241 | Ankur Dave                |  13.5 |        36 |        +0.32 |         +7.90 |
+|  234 | Ankur Dave                |  13.9 |        37 |        +0.75 |         +8.34 |
+|  235 | Mike Delanty              |  13.9 |        12 |              |               |
+|  236 | James Chung               |  13.8 |         7 |              |               |
+|  237 | Reto Sutter               |  13.8 |        39 |        -0.19 |         +2.06 |
+|  238 | Natalie Bratwood          |  13.8 |         5 |              |               |
+|  239 | Raphael Magarik           |  13.6 |         6 |              |               |
+|  240 | Craig Riddell             |  13.6 |         8 |              |               |
+|  241 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
 |  242 | Yan Liu                   |  13.4 |        10 |              |         -1.64 |
 |  243 | Tanit Follett             |  13.2 |         8 |              |               |
 |  244 | Mimi Zhang                |  13.2 |         6 |              |               |

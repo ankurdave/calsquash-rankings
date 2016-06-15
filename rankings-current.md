@@ -33,9 +33,9 @@ Generated 2016-06-14.
 |   29 | Eric Borden        |  16.4 |        20 |              |               |
 |   30 | Rupert Myers       |  15.6 |        27 |              |               |
 |   31 | Jeff Gordon        |  15.5 |        20 |              |               |
-|   32 | Terry Chang        |  14.7 |        36 |              |         +3.91 |
-|   33 | Reto Sutter        |  13.8 |        39 |        -0.19 |         +2.06 |
-|   34 | Ankur Dave         |  13.5 |        36 |        +0.32 |         +7.90 |
+|   32 | Terry Chang        |  14.4 |        37 |        -0.30 |         +3.61 |
+|   33 | Ankur Dave         |  13.9 |        37 |        +0.75 |         +8.34 |
+|   34 | Reto Sutter        |  13.8 |        39 |        -0.19 |         +2.06 |
 |   35 | Nikhil Paranjape   |  12.7 |        12 |        +1.69 |               |
 |   36 | Daniel Schwartz    |  11.3 |        12 |        +0.89 |               |
 |   37 | Wayne Heiser       |  11.0 |        15 |              |               |
