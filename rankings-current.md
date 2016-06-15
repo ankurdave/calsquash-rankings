@@ -3,8 +3,8 @@ Generated 2016-06-15.
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler      |  43.0 |       212 |              |         +0.07 |
-|    2 | Thomas Lowish      |  39.4 |        10 |              |         +4.92 |
-|    3 | Sam Sternberg      |  30.4 |       112 |        -0.06 |         +0.40 |
+|    2 | Thomas Lowish      |  39.5 |        11 |        +0.10 |         +5.02 |
+|    3 | Sam Sternberg      |  30.4 |       113 |        -0.07 |         +0.39 |
 |    4 | Jim Veitch         |  29.1 |       410 |              |         +0.03 |
 |    5 | Eric Katerman      |  29.1 |         9 |        +1.25 |               |
 |    6 | Frank Kennamer     |  28.8 |       201 |              |         +0.12 |

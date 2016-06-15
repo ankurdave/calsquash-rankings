@@ -3,7 +3,7 @@ Generated 2016-06-15.
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  43.0 |       212 |              |         +0.07 |
-|    2 | Thomas Lowish             |  39.4 |        10 |              |         +4.92 |
+|    2 | Thomas Lowish             |  39.5 |        11 |        +0.10 |         +5.02 |
 |    3 | Paul Valiant              |  37.3 |        63 |              |               |
 |    4 | Rees Sweeney-Taylor       |  37.1 |        82 |              |         +1.94 |
 |    5 | Dominic Gaffney           |  36.5 |        54 |              |               |
@@ -16,7 +16,7 @@ Generated 2016-06-15.
 |   12 | Victor Noguera Neutelings |  31.6 |        11 |              |               |
 |   13 | David Wood                |  31.4 |        43 |              |               |
 |   14 | Chris Goodman-Smith       |  30.9 |        11 |              |               |
-|   15 | Sam Sternberg             |  30.4 |       112 |        -0.06 |         +0.40 |
+|   15 | Sam Sternberg             |  30.4 |       113 |        -0.07 |         +0.39 |
 |   16 | Justin McCrary            |  30.2 |       140 |              |         +0.33 |
 |   17 | Grant French              |  29.6 |       125 |              |               |
 |   18 | Alan Jose                 |  29.6 |       182 |              |               |
