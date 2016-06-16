@@ -20,8 +20,8 @@ Generated 2016-06-16.
 |   16 | Matt Wong          |  23.0 |        59 |        +0.09 |         +2.59 |
 |   17 | Prakash Bathini    |  22.8 |       118 |              |         -0.40 |
 |   18 | Mike Jensen-Akula  |  22.6 |       209 |        +0.02 |         -0.23 |
-|   19 | Jared Bard         |  22.2 |        23 |        +0.58 |         +4.56 |
-|   20 | Reid Johnsen       |  21.4 |        20 |        -0.53 |         +5.54 |
+|   19 | Reid Johnsen       |  22.3 |        21 |        +0.44 |         +6.52 |
+|   20 | Jared Bard         |  21.8 |        24 |        +0.13 |         +4.12 |
 |   21 | Jonathan Francis   |  20.6 |        56 |              |         +0.71 |
 |   22 | Shaun Lim          |  20.2 |        34 |              |         +0.01 |
 |   23 | Chris Flores       |  20.0 |       294 |              |         -0.08 |

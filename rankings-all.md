@@ -91,23 +91,23 @@ Generated 2016-06-16.
 |   87 | Richard Chan              |  22.5 |         9 |              |               |
 |   88 | Orion Hodson              |  22.5 |        31 |              |               |
 |   89 | Rahul Gupta               |  22.4 |         7 |              |               |
-|   90 | Lyle Fearnley             |  22.3 |        30 |              |               |
-|   91 | Peter McDermott           |  22.3 |        10 |              |               |
-|   92 | Jared Bard                |  22.2 |        23 |        +0.58 |         +4.56 |
+|   90 | Reid Johnsen              |  22.3 |        21 |        +0.44 |         +6.52 |
+|   91 | Lyle Fearnley             |  22.3 |        30 |              |               |
+|   92 | Peter McDermott           |  22.3 |        10 |              |               |
 |   93 | Paul Greene               |  22.1 |         8 |              |               |
 |   94 | Philip Bildner            |  22.1 |        22 |              |               |
 |   95 | Kelvin Wong               |  22.0 |        44 |              |               |
 |   96 | Harlan Yu                 |  21.9 |        19 |              |               |
 |   97 | Robert Schwartz           |  21.8 |        73 |              |               |
-|   98 | Sam McCormick             |  21.7 |        13 |              |               |
-|   99 | Robert Ashmore            |  21.7 |       104 |              |               |
-|  100 | Zarah Rahman              |  21.6 |        13 |              |         +1.25 |
-|  101 | Amy Lee                   |  21.6 |        56 |              |               |
-|  102 | Kameshwar Poolla          |  21.6 |        11 |              |               |
-|  103 | Ronald Dahl               |  21.6 |        51 |              |         -0.61 |
-|  104 | Phin Lee                  |  21.5 |        16 |              |               |
-|  105 | Dev Millstein             |  21.4 |        92 |              |               |
-|  106 | Reid Johnsen              |  21.4 |        20 |        -0.53 |         +5.54 |
+|   98 | Jared Bard                |  21.8 |        24 |        +0.13 |         +4.12 |
+|   99 | Sam McCormick             |  21.7 |        13 |              |               |
+|  100 | Robert Ashmore            |  21.7 |       104 |              |               |
+|  101 | Zarah Rahman              |  21.6 |        13 |              |         +1.25 |
+|  102 | Amy Lee                   |  21.6 |        56 |              |               |
+|  103 | Kameshwar Poolla          |  21.6 |        11 |              |               |
+|  104 | Ronald Dahl               |  21.6 |        51 |              |         -0.61 |
+|  105 | Phin Lee                  |  21.5 |        16 |              |               |
+|  106 | Dev Millstein             |  21.4 |        92 |              |               |
 |  107 | Matthew Zaragoza-Watkins  |  21.3 |        63 |              |               |
 |  108 | Matthew Elliott           |  21.3 |         7 |              |               |
 |  109 | Garvin Heath              |  21.2 |        28 |              |               |
