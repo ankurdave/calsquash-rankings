@@ -4,16 +4,16 @@ Generated 2016-06-16.
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler      |  43.0 |       212 |              |         +0.07 |
 |    2 | Thomas Lowish      |  39.5 |        11 |        +0.10 |         +5.02 |
-|    3 | Sam Sternberg      |  30.4 |       113 |        -0.07 |         +0.39 |
-|    4 | Jim Veitch         |  29.1 |       410 |              |         +0.03 |
-|    5 | Eric Katerman      |  29.1 |         9 |        +1.25 |               |
+|    3 | Sam Sternberg      |  30.4 |       113 |        -0.07 |         +0.40 |
+|    4 | Eric Katerman      |  30.0 |        10 |        +2.21 |               |
+|    5 | Jim Veitch         |  29.1 |       410 |              |         +0.03 |
 |    6 | Frank Kennamer     |  28.8 |       201 |              |         +0.12 |
 |    7 | John Kunze         |  28.3 |       293 |              |         -0.30 |
 |    8 | Vishi              |  27.6 |        40 |              |         +1.47 |
 |    9 | Nick Cobbett       |  27.5 |        23 |              |               |
 |   10 | Dan Meier          |  26.2 |        39 |              |         +7.61 |
 |   11 | Saurabh Bajaj      |  26.0 |        16 |              |               |
-|   12 | Ethan Kerr         |  24.9 |        10 |              |               |
+|   12 | Ethan Kerr         |  24.7 |        11 |        -0.22 |               |
 |   13 | Mark Modera        |  24.3 |       298 |              |         -1.14 |
 |   14 | Aditya Guntuboyina |  24.1 |        68 |              |         +2.60 |
 |   15 | Jonathan Hankar    |  23.6 |       175 |              |         +0.37 |

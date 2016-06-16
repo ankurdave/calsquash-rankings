@@ -16,14 +16,14 @@ Generated 2016-06-16.
 |   12 | Victor Noguera Neutelings |  31.6 |        11 |              |               |
 |   13 | David Wood                |  31.4 |        43 |              |               |
 |   14 | Chris Goodman-Smith       |  30.9 |        11 |              |               |
-|   15 | Sam Sternberg             |  30.4 |       113 |        -0.07 |         +0.39 |
+|   15 | Sam Sternberg             |  30.4 |       113 |        -0.07 |         +0.40 |
 |   16 | Justin McCrary            |  30.2 |       140 |              |         +0.33 |
-|   17 | Grant French              |  29.6 |       125 |              |               |
-|   18 | Alan Jose                 |  29.6 |       182 |              |               |
-|   19 | Louis Morrill             |  29.4 |        10 |              |               |
-|   20 | Umesh Vazirani            |  29.3 |        27 |              |               |
-|   21 | Jim Veitch                |  29.1 |       410 |              |         +0.03 |
-|   22 | Eric Katerman             |  29.1 |         9 |        +1.25 |               |
+|   17 | Eric Katerman             |  30.0 |        10 |        +2.21 |               |
+|   18 | Grant French              |  29.6 |       125 |              |               |
+|   19 | Alan Jose                 |  29.6 |       182 |              |               |
+|   20 | Louis Morrill             |  29.4 |        10 |              |               |
+|   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
+|   22 | Jim Veitch                |  29.1 |       410 |              |         +0.03 |
 |   23 | David Hwang               |  28.9 |        44 |              |               |
 |   24 | Frank Kennamer            |  28.8 |       201 |              |         +0.12 |
 |   25 | Rodrigo Cabral            |  28.7 |        29 |              |               |
@@ -53,8 +53,8 @@ Generated 2016-06-16.
 |   49 | Ben Seelig                |  25.8 |        69 |              |               |
 |   50 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   51 | Mikael Rehn               |  25.4 |         5 |              |               |
-|   52 | Ethan Kerr                |  24.9 |        10 |              |               |
-|   53 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
+|   52 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
+|   53 | Ethan Kerr                |  24.7 |        11 |        -0.22 |               |
 |   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   55 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   56 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
