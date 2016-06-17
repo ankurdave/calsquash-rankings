@@ -131,13 +131,13 @@ Generated 2016-06-17.
 |  127 | Pierre Darancet           |  19.6 |        94 |              |               |
 |  128 | Sunil Bhave               |  19.6 |        26 |              |               |
 |  129 | Sardar Nauman             |  19.5 |         4 |              |               |
-|  130 | Gabriel Kahn              |  19.4 |         5 |              |        +11.97 |
-|  131 | Niklas Linde              |  19.3 |        23 |              |               |
-|  132 | Tim Bruckner              |  19.2 |        10 |              |               |
-|  133 | Ariel Grostern            |  19.2 |        94 |              |               |
-|  134 | Julian Marshall           |  19.1 |        31 |              |               |
-|  135 | Allic Sivaramakrishnan    |  19.1 |        22 |              |               |
-|  136 | Subrato Dey               |  19.0 |        19 |        +0.58 |               |
+|  130 | Subrato Dey               |  19.5 |        20 |        +1.03 |               |
+|  131 | Gabriel Kahn              |  19.4 |         5 |              |        +11.97 |
+|  132 | Niklas Linde              |  19.3 |        23 |              |               |
+|  133 | Tim Bruckner              |  19.2 |        10 |              |               |
+|  134 | Ariel Grostern            |  19.2 |        94 |              |               |
+|  135 | Julian Marshall           |  19.1 |        31 |              |               |
+|  136 | Allic Sivaramakrishnan    |  19.1 |        22 |              |               |
 |  137 | John Eng                  |  19.0 |        28 |              |               |
 |  138 | Andrew Pritchard          |  18.9 |        16 |              |               |
 |  139 | Bhuvan Jain               |  18.9 |        18 |              |               |
@@ -198,9 +198,9 @@ Generated 2016-06-17.
 |  194 | Anirudh Todi              |  16.2 |         3 |              |               |
 |  195 | Rich Shapiro              |  16.1 |        82 |              |               |
 |  196 | Troup Howard              |  16.1 |        34 |              |         +1.32 |
-|  197 | Eric Borden               |  16.1 |        21 |        -0.31 |               |
-|  198 | Andrew Green              |  16.1 |        52 |              |               |
-|  199 | Toni Queck                |  16.0 |        20 |              |               |
+|  197 | Andrew Green              |  16.1 |        52 |              |               |
+|  198 | Toni Queck                |  16.0 |        20 |              |               |
+|  199 | Eric Borden               |  15.9 |        22 |        -0.49 |               |
 |  200 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  201 | Jeff Bird                 |  15.7 |        38 |              |               |
 |  202 | Casey Harelson            |  15.7 |        20 |              |               |
