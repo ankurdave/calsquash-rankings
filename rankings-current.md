@@ -20,15 +20,15 @@ Generated 2016-06-17.
 |   16 | Matt Wong          |  23.0 |        59 |        +0.09 |         +2.59 |
 |   17 | Prakash Bathini    |  22.8 |       118 |              |         -0.40 |
 |   18 | Mike Jensen-Akula  |  22.6 |       209 |        +0.02 |         -0.23 |
-|   19 | Reid Johnsen       |  22.3 |        21 |        +0.44 |         +6.52 |
-|   20 | Jared Bard         |  21.8 |        24 |        +0.13 |         +4.12 |
+|   19 | Reid Johnsen       |  22.3 |        21 |        +0.42 |         +6.49 |
+|   20 | Jared Bard         |  21.7 |        24 |        +0.06 |         +4.04 |
 |   21 | Jonathan Francis   |  20.6 |        56 |              |         +0.71 |
 |   22 | Shaun Lim          |  20.2 |        34 |              |         +0.01 |
 |   23 | Chris Flores       |  20.0 |       294 |              |         -0.08 |
 |   24 | Dror Matalon       |  19.9 |       340 |        -0.17 |         -0.87 |
 |   25 | Subrato Dey        |  19.5 |        20 |        +1.03 |               |
-|   26 | Kenny Bell         |  18.3 |       106 |        -0.04 |         +1.38 |
-|   27 | Josh Trauner       |  18.0 |        22 |        +1.08 |               |
+|   26 | Josh Trauner       |  18.4 |        23 |        +1.46 |               |
+|   27 | Kenny Bell         |  18.3 |       106 |        -0.04 |         +1.38 |
 |   28 | Jeff Gordon        |  17.0 |        22 |        +1.51 |               |
 |   29 | Kent Daniels       |  16.7 |        76 |        +0.32 |         +2.36 |
 |   30 | Eric Borden        |  15.9 |        22 |        -0.49 |               |
@@ -47,6 +47,7 @@ Generated 2016-06-17.
 |   43 | Nate Aden          |   5.8 |         9 |              |               |
 |   44 | Keaton Noon        |   2.5 |        13 |        -0.61 |               |
 |   45 | Rodrigo Calmet     |   1.4 |         2 |        +0.67 |               |
-|   46 | Ryan               |  -0.7 |         1 |              |               |
-|   47 | Ji Seop Oh         |  -0.9 |         2 |              |               |
-|   48 | Cristhian Daniel   |  -1.3 |         1 |              |               |
+|   46 | Nakul Vakil        |   0.2 |         1 |              |               |
+|   47 | Ryan               |  -0.7 |         1 |              |               |
+|   48 | Ji Seop Oh         |  -0.9 |         2 |              |               |
+|   49 | Cristhian Daniel   |  -1.3 |         1 |              |               |
