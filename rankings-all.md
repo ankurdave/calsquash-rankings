@@ -180,25 +180,25 @@ Generated 2016-06-17.
 |  176 | Errick Ceppas             |  17.2 |         6 |              |               |
 |  177 | Juliet Lamont             |  17.2 |        58 |              |               |
 |  178 | Wolfram Pohl              |  17.1 |        60 |              |               |
-|  179 | Joseph Farrell            |  17.0 |         8 |              |               |
-|  180 | Nacho Quaglio             |  17.0 |         3 |              |               |
-|  181 | Sebastien Biraud          |  17.0 |        60 |              |               |
-|  182 | Kedar Shah                |  16.9 |         9 |              |               |
-|  183 | Sarah Mcneil              |  16.9 |        24 |              |               |
-|  184 | Shwetabh Singh            |  16.9 |         6 |              |               |
-|  185 | William Coleman           |  16.8 |        48 |              |               |
-|  186 | Darren Morgan             |  16.8 |        11 |              |               |
-|  187 | Kent Daniels              |  16.7 |        76 |        +0.32 |         +2.36 |
-|  188 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  189 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
-|  191 | Ben Ailes                 |  16.5 |        48 |              |               |
-|  192 | Eric Borden               |  16.4 |        20 |              |               |
-|  193 | Jeff Gordon               |  16.3 |        21 |        +0.84 |               |
-|  194 | George Roche              |  16.3 |        14 |              |         +2.01 |
-|  195 | Anirudh Todi              |  16.2 |         3 |              |               |
-|  196 | Rich Shapiro              |  16.1 |        82 |              |               |
-|  197 | Troup Howard              |  16.1 |        34 |              |         +1.32 |
+|  179 | Jeff Gordon               |  17.0 |        22 |        +1.51 |               |
+|  180 | Joseph Farrell            |  17.0 |         8 |              |               |
+|  181 | Nacho Quaglio             |  17.0 |         3 |              |               |
+|  182 | Sebastien Biraud          |  17.0 |        60 |              |               |
+|  183 | Kedar Shah                |  16.9 |         9 |              |               |
+|  184 | Sarah Mcneil              |  16.9 |        24 |              |               |
+|  185 | Shwetabh Singh            |  16.9 |         6 |              |               |
+|  186 | William Coleman           |  16.8 |        48 |              |               |
+|  187 | Darren Morgan             |  16.8 |        11 |              |               |
+|  188 | Kent Daniels              |  16.7 |        76 |        +0.32 |         +2.36 |
+|  189 | Viraj Paropkari           |  16.7 |        16 |              |               |
+|  190 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  191 | Michael Cianfrocco        |  16.5 |        18 |              |               |
+|  192 | Ben Ailes                 |  16.5 |        48 |              |               |
+|  193 | George Roche              |  16.3 |        14 |              |         +2.01 |
+|  194 | Anirudh Todi              |  16.2 |         3 |              |               |
+|  195 | Rich Shapiro              |  16.1 |        82 |              |               |
+|  196 | Troup Howard              |  16.1 |        34 |              |         +1.32 |
+|  197 | Eric Borden               |  16.1 |        21 |        -0.31 |               |
 |  198 | Andrew Green              |  16.1 |        52 |              |               |
 |  199 | Toni Queck                |  16.0 |        20 |              |               |
 |  200 | Jaime Paterson            |  15.7 |         1 |              |               |

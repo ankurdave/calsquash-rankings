@@ -29,9 +29,9 @@ Generated 2016-06-17.
 |   25 | Subrato Dey        |  19.0 |        19 |        +0.58 |               |
 |   26 | Kenny Bell         |  18.3 |       106 |        -0.04 |         +1.38 |
 |   27 | Josh Trauner       |  18.0 |        22 |        +1.08 |               |
-|   28 | Kent Daniels       |  16.7 |        76 |        +0.32 |         +2.36 |
-|   29 | Eric Borden        |  16.4 |        20 |              |               |
-|   30 | Jeff Gordon        |  16.3 |        21 |        +0.84 |               |
+|   28 | Jeff Gordon        |  17.0 |        22 |        +1.51 |               |
+|   29 | Kent Daniels       |  16.7 |        76 |        +0.32 |         +2.36 |
+|   30 | Eric Borden        |  16.1 |        21 |        -0.31 |               |
 |   31 | Rupert Myers       |  15.6 |        27 |              |               |
 |   32 | Terry Chang        |  14.4 |        37 |        -0.30 |         +3.61 |
 |   33 | Ankur Dave         |  13.9 |        37 |        +0.75 |         +8.34 |
