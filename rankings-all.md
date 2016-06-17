@@ -123,7 +123,7 @@ Generated 2016-06-17.
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  120 | Shaun Lim                 |  20.2 |        34 |              |         +0.01 |
 |  121 | Chris Flores              |  20.0 |       294 |              |         -0.08 |
-|  122 | Dror Matalon              |  20.0 |       339 |        -0.07 |         -0.77 |
+|  122 | Dror Matalon              |  19.9 |       340 |        -0.17 |         -0.87 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
 |  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +13.50 |
 |  125 | Whit Eldredge             |  19.7 |         2 |              |               |
@@ -137,7 +137,7 @@ Generated 2016-06-17.
 |  133 | Ariel Grostern            |  19.2 |        94 |              |               |
 |  134 | Julian Marshall           |  19.1 |        31 |              |               |
 |  135 | Allic Sivaramakrishnan    |  19.1 |        22 |              |               |
-|  136 | Subrato Dey               |  19.0 |        19 |        +0.59 |               |
+|  136 | Subrato Dey               |  19.0 |        19 |        +0.58 |               |
 |  137 | John Eng                  |  19.0 |        28 |              |               |
 |  138 | Andrew Pritchard          |  18.9 |        16 |              |               |
 |  139 | Bhuvan Jain               |  18.9 |        18 |              |               |
@@ -194,19 +194,19 @@ Generated 2016-06-17.
 |  190 | Michael Cianfrocco        |  16.5 |        18 |              |               |
 |  191 | Ben Ailes                 |  16.5 |        48 |              |               |
 |  192 | Eric Borden               |  16.4 |        20 |              |               |
-|  193 | George Roche              |  16.3 |        14 |              |         +2.01 |
-|  194 | Anirudh Todi              |  16.2 |         3 |              |               |
-|  195 | Rich Shapiro              |  16.1 |        82 |              |               |
-|  196 | Troup Howard              |  16.1 |        34 |              |         +1.32 |
-|  197 | Andrew Green              |  16.1 |        52 |              |               |
-|  198 | Toni Queck                |  16.0 |        20 |              |               |
-|  199 | Jaime Paterson            |  15.7 |         1 |              |               |
-|  200 | Jeff Bird                 |  15.7 |        38 |              |               |
-|  201 | Casey Harelson            |  15.7 |        20 |              |               |
-|  202 | Nick Paget                |  15.6 |        35 |              |               |
-|  203 | Rupert Myers              |  15.6 |        27 |              |               |
-|  204 | Allan Dafoe               |  15.5 |        43 |              |               |
-|  205 | Jeff Gordon               |  15.5 |        20 |              |               |
+|  193 | Jeff Gordon               |  16.3 |        21 |        +0.84 |               |
+|  194 | George Roche              |  16.3 |        14 |              |         +2.01 |
+|  195 | Anirudh Todi              |  16.2 |         3 |              |               |
+|  196 | Rich Shapiro              |  16.1 |        82 |              |               |
+|  197 | Troup Howard              |  16.1 |        34 |              |         +1.32 |
+|  198 | Andrew Green              |  16.1 |        52 |              |               |
+|  199 | Toni Queck                |  16.0 |        20 |              |               |
+|  200 | Jaime Paterson            |  15.7 |         1 |              |               |
+|  201 | Jeff Bird                 |  15.7 |        38 |              |               |
+|  202 | Casey Harelson            |  15.7 |        20 |              |               |
+|  203 | Nick Paget                |  15.6 |        35 |              |               |
+|  204 | Rupert Myers              |  15.6 |        27 |              |               |
+|  205 | Allan Dafoe               |  15.5 |        43 |              |               |
 |  206 | David Bratt               |  15.4 |        16 |              |         +2.58 |
 |  207 | Doug Kreutzer             |  15.3 |        10 |              |               |
 |  208 | Ranjit Jhala              |  15.2 |         6 |              |               |
