@@ -37,7 +37,7 @@ Generated 2016-06-18.
 |   33 | Ankur Dave         |  13.9 |        37 |        +0.75 |         +8.34 |
 |   34 | Reto Sutter        |  13.8 |        39 |        -0.19 |         +2.06 |
 |   35 | Nikhil Paranjape   |  12.7 |        12 |        +1.69 |               |
-|   36 | Daniel Schwartz    |  11.3 |        12 |        +0.89 |               |
+|   36 | Daniel Schwartz    |  12.3 |        13 |        +1.88 |               |
 |   37 | Wayne Heiser       |  11.0 |        16 |        -0.01 |               |
 |   38 | Duo Wang           |   9.1 |        57 |        -0.05 |         +1.18 |
 |   39 | Brian Kempenich    |   8.2 |        30 |              |         +0.27 |
@@ -50,4 +50,4 @@ Generated 2016-06-18.
 |   46 | Nakul Vakil        |   0.2 |         1 |              |               |
 |   47 | Ryan               |  -0.7 |         1 |              |               |
 |   48 | Ji Seop Oh         |  -0.9 |         2 |              |               |
-|   49 | Cristhian Daniel   |  -1.3 |         1 |              |               |
+|   49 | Cristhian Daniel   |  -1.1 |         2 |        +0.14 |               |

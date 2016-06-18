@@ -265,14 +265,14 @@ Generated 2016-06-18.
 |  261 | Karan Jain                |  12.4 |        19 |              |         +2.54 |
 |  262 | Ansul Rajgha              |  12.3 |        15 |              |               |
 |  263 | Jan Strasky               |  12.3 |        12 |              |               |
-|  264 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
-|  265 | James Shinn               |  11.9 |       120 |              |               |
-|  266 | Jeff Dorman               |  11.7 |        14 |              |               |
-|  267 | Guillaume Egles           |  11.6 |        11 |              |               |
-|  268 | Mitchell O'Connell        |  11.6 |        32 |              |         +1.14 |
-|  269 | Carl Schreck              |  11.5 |         2 |              |               |
-|  270 | Antonio Garcia            |  11.4 |        20 |              |               |
-|  271 | Daniel Schwartz           |  11.3 |        12 |        +0.89 |               |
+|  264 | Daniel Schwartz           |  12.3 |        13 |        +1.88 |               |
+|  265 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
+|  266 | James Shinn               |  11.9 |       120 |              |               |
+|  267 | Jeff Dorman               |  11.7 |        14 |              |               |
+|  268 | Guillaume Egles           |  11.6 |        11 |              |               |
+|  269 | Mitchell O'Connell        |  11.6 |        32 |              |         +1.14 |
+|  270 | Carl Schreck              |  11.5 |         2 |              |               |
+|  271 | Antonio Garcia            |  11.4 |        20 |              |               |
 |  272 | Juliet Shih               |  11.3 |        11 |              |               |
 |  273 | Margaret Chapman          |  11.2 |         6 |              |         -4.71 |
 |  274 | Charles Denby             |  11.2 |         5 |              |               |
@@ -451,9 +451,9 @@ Generated 2016-06-18.
 |  447 | Ji Seop Oh                |  -0.9 |         2 |              |               |
 |  448 | James Redfield            |  -1.0 |         3 |              |               |
 |  449 | Xavier Vendrell           |  -1.1 |         3 |              |               |
-|  450 | Matthew Flairty           |  -1.2 |         2 |              |               |
-|  451 | Rajiv Bhutani             |  -1.3 |         1 |              |               |
-|  452 | Cristhian Daniel          |  -1.3 |         1 |              |               |
+|  450 | Cristhian Daniel          |  -1.1 |         2 |        +0.14 |               |
+|  451 | Matthew Flairty           |  -1.2 |         2 |              |               |
+|  452 | Rajiv Bhutani             |  -1.3 |         1 |              |               |
 |  453 | Stuart Fox                |  -1.4 |         1 |              |               |
 |  454 | Manu Vaish                |  -1.4 |         1 |              |               |
 |  455 | Suluck Chaturabul         |  -1.6 |         2 |              |               |
