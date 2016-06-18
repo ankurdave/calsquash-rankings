@@ -89,10 +89,10 @@ Generated 2016-06-18.
 |   85 | Mike Jensen-Akula         |  22.6 |       209 |        +0.02 |         -0.23 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |
 |   87 | Richard Chan              |  22.5 |         9 |              |               |
-|   88 | Orion Hodson              |  22.5 |        31 |              |               |
-|   89 | Rahul Gupta               |  22.4 |         7 |              |               |
-|   90 | Lyle Fearnley             |  22.3 |        30 |              |               |
-|   91 | Reid Johnsen              |  22.3 |        21 |        +0.42 |         +6.49 |
+|   88 | Reid Johnsen              |  22.5 |        22 |        +0.59 |         +6.66 |
+|   89 | Orion Hodson              |  22.5 |        31 |              |               |
+|   90 | Rahul Gupta               |  22.4 |         7 |              |               |
+|   91 | Lyle Fearnley             |  22.3 |        30 |              |               |
 |   92 | Peter McDermott           |  22.3 |        10 |              |               |
 |   93 | Paul Greene               |  22.1 |         8 |              |               |
 |   94 | Philip Bildner            |  22.1 |        22 |              |               |
@@ -276,7 +276,7 @@ Generated 2016-06-18.
 |  272 | Juliet Shih               |  11.3 |        11 |              |               |
 |  273 | Margaret Chapman          |  11.2 |         6 |              |         -4.71 |
 |  274 | Charles Denby             |  11.2 |         5 |              |               |
-|  275 | Wayne Heiser              |  11.0 |        15 |              |               |
+|  275 | Wayne Heiser              |  11.0 |        16 |        -0.01 |               |
 |  276 | Khurram Mahmood           |  10.8 |         3 |              |               |
 |  277 | Axel Eriksson             |  10.8 |         5 |              |               |
 |  278 | Jason Facchin             |  10.5 |         3 |              |               |

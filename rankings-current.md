@@ -20,7 +20,7 @@ Generated 2016-06-18.
 |   16 | Matt Wong          |  23.0 |        59 |        +0.09 |         +2.59 |
 |   17 | Prakash Bathini    |  22.8 |       118 |              |         -0.40 |
 |   18 | Mike Jensen-Akula  |  22.6 |       209 |        +0.02 |         -0.23 |
-|   19 | Reid Johnsen       |  22.3 |        21 |        +0.42 |         +6.49 |
+|   19 | Reid Johnsen       |  22.5 |        22 |        +0.59 |         +6.66 |
 |   20 | Jared Bard         |  21.7 |        24 |        +0.06 |         +4.04 |
 |   21 | Jonathan Francis   |  20.6 |        56 |              |         +0.71 |
 |   22 | Shaun Lim          |  20.2 |        34 |              |         +0.01 |
@@ -38,7 +38,7 @@ Generated 2016-06-18.
 |   34 | Reto Sutter        |  13.8 |        39 |        -0.19 |         +2.06 |
 |   35 | Nikhil Paranjape   |  12.7 |        12 |        +1.69 |               |
 |   36 | Daniel Schwartz    |  11.3 |        12 |        +0.89 |               |
-|   37 | Wayne Heiser       |  11.0 |        15 |              |               |
+|   37 | Wayne Heiser       |  11.0 |        16 |        -0.01 |               |
 |   38 | Duo Wang           |   9.1 |        57 |        -0.05 |         +1.18 |
 |   39 | Brian Kempenich    |   8.2 |        30 |              |         +0.27 |
 |   40 | Alok Singh         |   7.1 |        11 |        -0.09 |               |
