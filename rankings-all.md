@@ -122,16 +122,16 @@ Generated 2016-06-20.
 |  118 | Jonathan Francis          |  20.6 |        56 |              |         +0.71 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  120 | Shaun Lim                 |  20.2 |        34 |              |         +0.01 |
-|  121 | Chris Flores              |  20.0 |       294 |              |         -0.08 |
-|  122 | Dror Matalon              |  19.9 |       340 |        -0.17 |         -0.87 |
-|  123 | Jacob Kersey              |  19.9 |        15 |              |               |
-|  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +13.50 |
-|  125 | Whit Eldredge             |  19.7 |         2 |              |               |
-|  126 | Christian Fuentes         |  19.7 |         8 |              |               |
-|  127 | Pierre Darancet           |  19.6 |        94 |              |               |
-|  128 | Sunil Bhave               |  19.6 |        26 |              |               |
-|  129 | Sardar Nauman             |  19.5 |         4 |              |               |
-|  130 | Subrato Dey               |  19.5 |        20 |        +1.03 |               |
+|  121 | Subrato Dey               |  20.0 |        21 |        +1.51 |               |
+|  122 | Chris Flores              |  19.9 |       295 |        -0.07 |         -0.15 |
+|  123 | Dror Matalon              |  19.9 |       340 |        -0.16 |         -0.87 |
+|  124 | Jacob Kersey              |  19.9 |        15 |              |               |
+|  125 | Andrew Proudfoot          |  19.8 |        26 |              |        +13.50 |
+|  126 | Whit Eldredge             |  19.7 |         2 |              |               |
+|  127 | Christian Fuentes         |  19.7 |         8 |              |               |
+|  128 | Pierre Darancet           |  19.6 |        94 |              |               |
+|  129 | Sunil Bhave               |  19.6 |        26 |              |               |
+|  130 | Sardar Nauman             |  19.5 |         4 |              |               |
 |  131 | Gabriel Kahn              |  19.4 |         5 |              |        +11.97 |
 |  132 | Niklas Linde              |  19.3 |        23 |              |               |
 |  133 | Tim Bruckner              |  19.2 |        10 |              |               |

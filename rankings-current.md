@@ -24,9 +24,9 @@ Generated 2016-06-20.
 |   20 | Jared Bard         |  21.7 |        24 |        +0.06 |         +4.04 |
 |   21 | Jonathan Francis   |  20.6 |        56 |              |         +0.71 |
 |   22 | Shaun Lim          |  20.2 |        34 |              |         +0.01 |
-|   23 | Chris Flores       |  20.0 |       294 |              |         -0.08 |
-|   24 | Dror Matalon       |  19.9 |       340 |        -0.17 |         -0.87 |
-|   25 | Subrato Dey        |  19.5 |        20 |        +1.03 |               |
+|   23 | Subrato Dey        |  20.0 |        21 |        +1.51 |               |
+|   24 | Chris Flores       |  19.9 |       295 |        -0.07 |         -0.15 |
+|   25 | Dror Matalon       |  19.9 |       340 |        -0.16 |         -0.87 |
 |   26 | Josh Trauner       |  18.4 |        23 |        +1.46 |               |
 |   27 | Kenny Bell         |  18.3 |       106 |        -0.04 |         +1.38 |
 |   28 | Jeff Gordon        |  17.0 |        22 |        +1.51 |               |
