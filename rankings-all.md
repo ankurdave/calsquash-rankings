@@ -341,16 +341,16 @@ Generated 2016-06-19.
 |  337 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
 |  338 | Rob Cuthrell              |   7.0 |        11 |              |               |
 |  339 | John Provine              |   7.0 |        16 |              |               |
-|  340 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
-|  341 | Virginie Letschert        |   6.6 |        18 |              |               |
-|  342 | Michael Friedlander       |   6.5 |         3 |              |               |
-|  343 | Josh Lebowitz             |   6.4 |        16 |        +3.43 |               |
-|  344 | Jules Bowie               |   6.4 |        12 |              |               |
-|  345 | Arno Ferguson             |   6.4 |         1 |              |               |
-|  346 | Fahad Riyadh              |   6.3 |         5 |              |               |
-|  347 | John Coates               |   6.1 |         9 |              |               |
-|  348 | John Givens               |   5.8 |        13 |              |               |
-|  349 | Nate Aden                 |   5.8 |         9 |              |               |
+|  340 | Nate Aden                 |   7.0 |        10 |        +1.18 |               |
+|  341 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
+|  342 | Virginie Letschert        |   6.6 |        18 |              |               |
+|  343 | Michael Friedlander       |   6.5 |         3 |              |               |
+|  344 | Josh Lebowitz             |   6.4 |        16 |        +3.43 |               |
+|  345 | Jules Bowie               |   6.4 |        12 |              |               |
+|  346 | Arno Ferguson             |   6.4 |         1 |              |               |
+|  347 | Fahad Riyadh              |   6.3 |         5 |              |               |
+|  348 | John Coates               |   6.1 |         9 |              |               |
+|  349 | John Givens               |   5.8 |        13 |              |               |
 |  350 | Phil Hartmeyer            |   5.6 |         3 |              |               |
 |  351 | Bobby Hicks               |   5.5 |         2 |              |               |
 |  352 | Brian Puglise             |   5.5 |         2 |              |               |
@@ -442,25 +442,25 @@ Generated 2016-06-19.
 |  438 | Mikel Shybut              |  -0.6 |         4 |              |               |
 |  439 | Mikolaj Oettingen         |  -0.6 |         3 |              |               |
 |  440 | Jim Kingsbury             |  -0.7 |         2 |              |               |
-|  441 | Ryan                      |  -0.7 |         1 |              |               |
-|  442 | Klim Efremenko            |  -0.7 |         4 |              |               |
-|  443 | Chip Malt                 |  -0.8 |         4 |              |               |
-|  444 | Laurie Choi               |  -0.8 |         2 |              |               |
-|  445 | Enrico Moretti            |  -0.8 |         1 |              |               |
-|  446 | Saumil Chheda             |  -0.8 |         1 |              |               |
-|  447 | Ji Seop Oh                |  -0.9 |         2 |              |               |
-|  448 | James Redfield            |  -1.0 |         3 |              |               |
-|  449 | Xavier Vendrell           |  -1.1 |         3 |              |               |
-|  450 | Cristhian Daniel          |  -1.1 |         2 |        +0.14 |               |
-|  451 | Matthew Flairty           |  -1.2 |         2 |              |               |
-|  452 | Rajiv Bhutani             |  -1.3 |         1 |              |               |
-|  453 | Stuart Fox                |  -1.4 |         1 |              |               |
-|  454 | Manu Vaish                |  -1.4 |         1 |              |               |
-|  455 | Suluck Chaturabul         |  -1.6 |         2 |              |               |
-|  456 | Ivan Rothman              |  -1.6 |         5 |              |               |
-|  457 | Judah Purcell             |  -1.7 |         1 |              |               |
-|  458 | Emily Moylan              |  -1.7 |        17 |              |               |
-|  459 | Susan Grand               |  -1.7 |         3 |              |         -0.22 |
+|  441 | Klim Efremenko            |  -0.7 |         4 |              |               |
+|  442 | Chip Malt                 |  -0.8 |         4 |              |               |
+|  443 | Laurie Choi               |  -0.8 |         2 |              |               |
+|  444 | Enrico Moretti            |  -0.8 |         1 |              |               |
+|  445 | Saumil Chheda             |  -0.8 |         1 |              |               |
+|  446 | Ji Seop Oh                |  -0.9 |         2 |              |               |
+|  447 | James Redfield            |  -1.0 |         3 |              |               |
+|  448 | Xavier Vendrell           |  -1.1 |         3 |              |               |
+|  449 | Cristhian Daniel          |  -1.1 |         2 |        +0.14 |               |
+|  450 | Matthew Flairty           |  -1.2 |         2 |              |               |
+|  451 | Rajiv Bhutani             |  -1.3 |         1 |              |               |
+|  452 | Stuart Fox                |  -1.4 |         1 |              |               |
+|  453 | Manu Vaish                |  -1.4 |         1 |              |               |
+|  454 | Suluck Chaturabul         |  -1.6 |         2 |              |               |
+|  455 | Ivan Rothman              |  -1.6 |         5 |              |               |
+|  456 | Judah Purcell             |  -1.7 |         1 |              |               |
+|  457 | Emily Moylan              |  -1.7 |        17 |              |               |
+|  458 | Susan Grand               |  -1.7 |         3 |              |         -0.22 |
+|  459 | Ryan                      |  -1.8 |         2 |              |               |
 |  460 | Nathaniel Rice            |  -1.8 |         3 |              |               |
 |  461 | David Zhu                 |  -2.0 |         2 |              |               |
 |  462 | Jenny Cheng               |  -2.2 |         1 |              |               |

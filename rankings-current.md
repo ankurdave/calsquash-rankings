@@ -43,11 +43,11 @@ Generated 2016-06-19.
 |   39 | Brian Kempenich    |   8.2 |        30 |              |         +0.27 |
 |   40 | Alok Singh         |   7.1 |        11 |        -0.09 |               |
 |   41 | Jose Lara          |   7.1 |         4 |              |               |
-|   42 | Josh Lebowitz      |   6.4 |        16 |        +3.43 |               |
-|   43 | Nate Aden          |   5.8 |         9 |              |               |
+|   42 | Nate Aden          |   7.0 |        10 |        +1.18 |               |
+|   43 | Josh Lebowitz      |   6.4 |        16 |        +3.43 |               |
 |   44 | Keaton Noon        |   2.5 |        13 |        -0.61 |               |
 |   45 | Rodrigo Calmet     |   1.4 |         2 |        +0.67 |               |
 |   46 | Nakul Vakil        |   0.2 |         1 |              |               |
-|   47 | Ryan               |  -0.7 |         1 |              |               |
-|   48 | Ji Seop Oh         |  -0.9 |         2 |              |               |
-|   49 | Cristhian Daniel   |  -1.1 |         2 |        +0.14 |               |
+|   47 | Ji Seop Oh         |  -0.9 |         2 |              |               |
+|   48 | Cristhian Daniel   |  -1.1 |         2 |        +0.14 |               |
+|   49 | Ryan               |  -1.8 |         2 |              |               |
