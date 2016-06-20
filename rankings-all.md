@@ -58,9 +58,9 @@ Generated 2016-06-20.
 |   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   55 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   56 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
-|   57 | Mark Modera               |  24.3 |       298 |              |         -1.14 |
-|   58 | Charlie Weiss             |  24.3 |        70 |              |         +0.34 |
-|   59 | Adam Pollak               |  24.2 |        31 |              |               |
+|   57 | Charlie Weiss             |  24.3 |        70 |              |         +0.34 |
+|   58 | Adam Pollak               |  24.2 |        31 |              |               |
+|   59 | Mark Modera               |  24.2 |       299 |        -0.11 |         -1.24 |
 |   60 | Toby Reiner               |  24.2 |       159 |              |               |
 |   61 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   62 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
@@ -83,8 +83,8 @@ Generated 2016-06-20.
 |   79 | Jan Beranek               |  23.1 |        46 |              |               |
 |   80 | Gary Golding              |  23.1 |         6 |              |               |
 |   81 | Matt Wong                 |  23.0 |        59 |        +0.09 |         +2.59 |
-|   82 | Alex Jermyn               |  22.9 |         3 |              |               |
-|   83 | Prakash Bathini           |  22.8 |       118 |              |         -0.40 |
+|   82 | Prakash Bathini           |  23.0 |       119 |        +0.14 |         -0.26 |
+|   83 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
 |   85 | Mike Jensen-Akula         |  22.6 |       209 |        +0.02 |         -0.23 |
 |   86 | Adam Angsten              |  22.5 |         3 |              |               |

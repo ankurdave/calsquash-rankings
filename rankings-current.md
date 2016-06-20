@@ -14,11 +14,11 @@ Generated 2016-06-20.
 |   10 | Dan Meier          |  26.2 |        39 |              |         +7.61 |
 |   11 | Saurabh Bajaj      |  26.0 |        16 |              |               |
 |   12 | Ethan Kerr         |  24.7 |        11 |        -0.22 |               |
-|   13 | Mark Modera        |  24.3 |       298 |              |         -1.14 |
+|   13 | Mark Modera        |  24.2 |       299 |        -0.11 |         -1.24 |
 |   14 | Aditya Guntuboyina |  24.1 |        68 |              |         +2.60 |
 |   15 | Jonathan Hankar    |  23.6 |       175 |              |         +0.37 |
 |   16 | Matt Wong          |  23.0 |        59 |        +0.09 |         +2.59 |
-|   17 | Prakash Bathini    |  22.8 |       118 |              |         -0.40 |
+|   17 | Prakash Bathini    |  23.0 |       119 |        +0.14 |         -0.26 |
 |   18 | Mike Jensen-Akula  |  22.6 |       209 |        +0.02 |         -0.23 |
 |   19 | Reid Johnsen       |  22.5 |        22 |        +0.59 |         +6.66 |
 |   20 | Jared Bard         |  21.7 |        24 |        +0.06 |         +4.04 |
