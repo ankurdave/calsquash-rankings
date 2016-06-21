@@ -87,8 +87,8 @@ Generated 2016-06-20.
 |   83 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
 |   85 | Adam Angsten              |  22.5 |         3 |              |               |
-|   86 | Richard Chan              |  22.5 |         9 |              |               |
-|   87 | Reid Johnsen              |  22.5 |        22 |        +0.59 |         +6.66 |
+|   86 | Reid Johnsen              |  22.5 |        22 |        +0.62 |         +6.70 |
+|   87 | Richard Chan              |  22.5 |         9 |              |               |
 |   88 | Orion Hodson              |  22.5 |        31 |              |               |
 |   89 | Rahul Gupta               |  22.4 |         7 |              |               |
 |   90 | Mike Jensen-Akula         |  22.3 |       210 |        -0.19 |         -0.45 |
@@ -98,10 +98,10 @@ Generated 2016-06-20.
 |   94 | Philip Bildner            |  22.1 |        22 |              |               |
 |   95 | Kelvin Wong               |  22.0 |        44 |              |               |
 |   96 | Harlan Yu                 |  21.9 |        19 |              |               |
-|   97 | Robert Schwartz           |  21.8 |        73 |              |               |
-|   98 | Sam McCormick             |  21.7 |        13 |              |               |
-|   99 | Robert Ashmore            |  21.7 |       104 |              |               |
-|  100 | Jared Bard                |  21.7 |        24 |        +0.06 |         +4.04 |
+|   97 | Jared Bard                |  21.8 |        25 |        +0.18 |         +4.16 |
+|   98 | Robert Schwartz           |  21.8 |        73 |              |               |
+|   99 | Sam McCormick             |  21.7 |        13 |              |               |
+|  100 | Robert Ashmore            |  21.7 |       104 |              |               |
 |  101 | Zarah Rahman              |  21.6 |        13 |              |         +1.25 |
 |  102 | Amy Lee                   |  21.6 |        56 |              |               |
 |  103 | Kameshwar Poolla          |  21.6 |        11 |              |               |
@@ -150,11 +150,11 @@ Generated 2016-06-20.
 |  146 | Allan Sly                 |  18.6 |        29 |              |               |
 |  147 | Jaime Perez               |  18.5 |        11 |              |               |
 |  148 | Sam Trachtman             |  18.5 |         5 |              |               |
-|  149 | Josh Trauner              |  18.4 |        23 |        +1.46 |               |
-|  150 | Ian Lunt                  |  18.3 |         9 |              |               |
-|  151 | Kenny Bell                |  18.3 |       106 |        -0.04 |         +1.38 |
-|  152 | William Seles             |  18.2 |        15 |              |               |
-|  153 | Javed Ahmed               |  18.2 |        58 |              |               |
+|  149 | Ian Lunt                  |  18.3 |         9 |              |               |
+|  150 | Kenny Bell                |  18.3 |       106 |        -0.04 |         +1.38 |
+|  151 | William Seles             |  18.2 |        15 |              |               |
+|  152 | Javed Ahmed               |  18.2 |        58 |              |               |
+|  153 | Josh Trauner              |  18.2 |        23 |        +1.30 |               |
 |  154 | Andres Ramirez            |  18.2 |         8 |              |               |
 |  155 | Jaime Vidal               |  18.2 |         8 |              |               |
 |  156 | Geoffrey Barrows          |  18.1 |        14 |              |               |
@@ -267,16 +267,16 @@ Generated 2016-06-20.
 |  263 | Jan Strasky               |  12.3 |        12 |              |               |
 |  264 | Daniel Schwartz           |  12.3 |        13 |        +1.88 |               |
 |  265 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
-|  266 | James Shinn               |  11.9 |       120 |              |               |
-|  267 | Jeff Dorman               |  11.7 |        14 |              |               |
-|  268 | Guillaume Egles           |  11.6 |        11 |              |               |
-|  269 | Mitchell O'Connell        |  11.6 |        32 |              |         +1.14 |
-|  270 | Carl Schreck              |  11.5 |         2 |              |               |
-|  271 | Antonio Garcia            |  11.4 |        20 |              |               |
-|  272 | Juliet Shih               |  11.3 |        11 |              |               |
-|  273 | Margaret Chapman          |  11.2 |         6 |              |         -4.71 |
-|  274 | Charles Denby             |  11.2 |         5 |              |               |
-|  275 | Wayne Heiser              |  11.0 |        16 |        -0.01 |               |
+|  266 | Wayne Heiser              |  11.9 |        17 |        +0.89 |               |
+|  267 | James Shinn               |  11.9 |       120 |              |               |
+|  268 | Jeff Dorman               |  11.7 |        14 |              |               |
+|  269 | Guillaume Egles           |  11.6 |        11 |              |               |
+|  270 | Mitchell O'Connell        |  11.6 |        32 |              |         +1.14 |
+|  271 | Carl Schreck              |  11.5 |         2 |              |               |
+|  272 | Antonio Garcia            |  11.4 |        20 |              |               |
+|  273 | Juliet Shih               |  11.3 |        11 |              |               |
+|  274 | Margaret Chapman          |  11.2 |         6 |              |         -4.71 |
+|  275 | Charles Denby             |  11.2 |         5 |              |               |
 |  276 | Khurram Mahmood           |  10.8 |         3 |              |               |
 |  277 | Axel Eriksson             |  10.8 |         5 |              |               |
 |  278 | Jason Facchin             |  10.5 |         3 |              |               |
@@ -419,26 +419,26 @@ Generated 2016-06-20.
 |  415 | Felipe Gomez              |   0.5 |         4 |              |               |
 |  416 | Hobson Brown              |   0.5 |         1 |              |               |
 |  417 | Freeden Ouer              |   0.3 |         1 |              |               |
-|  418 | Nakul Vakil               |   0.2 |         1 |              |               |
-|  419 | Seth Garz                 |   0.2 |         1 |              |               |
-|  420 | Tom Joseph                |   0.1 |         2 |              |               |
-|  421 | Michael Mann              |   0.1 |         4 |              |               |
-|  422 | Tammy J Faridi            |   0.1 |        27 |              |               |
-|  423 | Pablo Paredes             |   0.0 |         1 |              |               |
-|  424 | Markus Boese              |   0.0 |         1 |              |               |
-|  425 | Wyss Roman                |   0.0 |         2 |              |               |
-|  426 | Milind Sanghavi           |   0.0 |         1 |              |               |
-|  427 | Jane Pan                  |  -0.0 |         1 |              |               |
-|  428 | Ashley Mercer             |  -0.1 |         5 |              |               |
-|  429 | Jeremy Brown              |  -0.1 |         4 |              |               |
-|  430 | James Aylott              |  -0.1 |         3 |              |               |
-|  431 | Stephen Garden            |  -0.2 |         2 |              |               |
-|  432 | Dennis Chan               |  -0.3 |         1 |              |               |
-|  433 | Rafael Silberblatt        |  -0.3 |         5 |              |               |
-|  434 | Greg Rybka                |  -0.3 |         4 |              |               |
-|  435 | Rachel Chiu               |  -0.4 |         2 |              |               |
-|  436 | Alfonso Rojas             |  -0.4 |         8 |              |               |
-|  437 | Marco Eres                |  -0.5 |         5 |              |               |
+|  418 | Seth Garz                 |   0.2 |         1 |              |               |
+|  419 | Tom Joseph                |   0.1 |         2 |              |               |
+|  420 | Michael Mann              |   0.1 |         4 |              |               |
+|  421 | Tammy J Faridi            |   0.1 |        27 |              |               |
+|  422 | Pablo Paredes             |   0.0 |         1 |              |               |
+|  423 | Markus Boese              |   0.0 |         1 |              |               |
+|  424 | Wyss Roman                |   0.0 |         2 |              |               |
+|  425 | Milind Sanghavi           |   0.0 |         1 |              |               |
+|  426 | Jane Pan                  |  -0.0 |         1 |              |               |
+|  427 | Ashley Mercer             |  -0.1 |         5 |              |               |
+|  428 | Jeremy Brown              |  -0.1 |         4 |              |               |
+|  429 | James Aylott              |  -0.1 |         3 |              |               |
+|  430 | Stephen Garden            |  -0.2 |         2 |              |               |
+|  431 | Dennis Chan               |  -0.3 |         1 |              |               |
+|  432 | Rafael Silberblatt        |  -0.3 |         5 |              |               |
+|  433 | Greg Rybka                |  -0.3 |         4 |              |               |
+|  434 | Rachel Chiu               |  -0.4 |         2 |              |               |
+|  435 | Alfonso Rojas             |  -0.4 |         8 |              |               |
+|  436 | Marco Eres                |  -0.5 |         5 |              |               |
+|  437 | Nakul Vakil               |  -0.5 |         3 |              |               |
 |  438 | Mikel Shybut              |  -0.6 |         4 |              |               |
 |  439 | Mikolaj Oettingen         |  -0.6 |         3 |              |               |
 |  440 | Jim Kingsbury             |  -0.7 |         2 |              |               |
