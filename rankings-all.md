@@ -86,12 +86,12 @@ Generated 2016-06-20.
 |   82 | Prakash Bathini           |  23.0 |       119 |        +0.14 |         -0.26 |
 |   83 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
-|   85 | Mike Jensen-Akula         |  22.6 |       209 |        +0.02 |         -0.23 |
-|   86 | Adam Angsten              |  22.5 |         3 |              |               |
-|   87 | Richard Chan              |  22.5 |         9 |              |               |
-|   88 | Reid Johnsen              |  22.5 |        22 |        +0.59 |         +6.66 |
-|   89 | Orion Hodson              |  22.5 |        31 |              |               |
-|   90 | Rahul Gupta               |  22.4 |         7 |              |               |
+|   85 | Adam Angsten              |  22.5 |         3 |              |               |
+|   86 | Richard Chan              |  22.5 |         9 |              |               |
+|   87 | Reid Johnsen              |  22.5 |        22 |        +0.59 |         +6.66 |
+|   88 | Orion Hodson              |  22.5 |        31 |              |               |
+|   89 | Rahul Gupta               |  22.4 |         7 |              |               |
+|   90 | Mike Jensen-Akula         |  22.3 |       210 |        -0.19 |         -0.45 |
 |   91 | Lyle Fearnley             |  22.3 |        30 |              |               |
 |   92 | Peter McDermott           |  22.3 |        10 |              |               |
 |   93 | Paul Greene               |  22.1 |         8 |              |               |
@@ -225,17 +225,17 @@ Generated 2016-06-20.
 |  221 | Angie Ng                  |  14.8 |        12 |              |               |
 |  222 | Nicholas Monsees          |  14.8 |         5 |              |               |
 |  223 | Yating Liu                |  14.6 |         7 |              |               |
-|  224 | Frederick Bayles          |  14.6 |         8 |              |               |
-|  225 | Terry Chang               |  14.4 |        37 |        -0.30 |         +3.61 |
-|  226 | John Grim                 |  14.4 |        13 |              |               |
-|  227 | David Shabelman           |  14.4 |        30 |              |               |
-|  228 | Peter Dering              |  14.3 |         9 |              |               |
-|  229 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  230 | Wesley Huang              |  14.0 |         8 |              |               |
-|  231 | Greg Adams                |  14.0 |        10 |              |               |
-|  232 | Vipul Singhvi             |  14.0 |         8 |              |               |
-|  233 | Baxter Leman              |  13.9 |         6 |              |               |
-|  234 | Ankur Dave                |  13.9 |        37 |        +0.75 |         +8.34 |
+|  224 | Ankur Dave                |  14.6 |        38 |        +1.43 |         +9.01 |
+|  225 | Frederick Bayles          |  14.6 |         8 |              |               |
+|  226 | Terry Chang               |  14.4 |        37 |        -0.27 |         +3.63 |
+|  227 | John Grim                 |  14.4 |        13 |              |               |
+|  228 | David Shabelman           |  14.4 |        30 |              |               |
+|  229 | Peter Dering              |  14.3 |         9 |              |               |
+|  230 | Chinghway Lim             |  14.3 |        10 |              |               |
+|  231 | Wesley Huang              |  14.0 |         8 |              |               |
+|  232 | Greg Adams                |  14.0 |        10 |              |               |
+|  233 | Vipul Singhvi             |  14.0 |         8 |              |               |
+|  234 | Baxter Leman              |  13.9 |         6 |              |               |
 |  235 | Mike Delanty              |  13.9 |        12 |              |               |
 |  236 | James Chung               |  13.8 |         7 |              |               |
 |  237 | Reto Sutter               |  13.8 |        39 |        -0.19 |         +2.06 |
@@ -442,12 +442,12 @@ Generated 2016-06-20.
 |  438 | Mikel Shybut              |  -0.6 |         4 |              |               |
 |  439 | Mikolaj Oettingen         |  -0.6 |         3 |              |               |
 |  440 | Jim Kingsbury             |  -0.7 |         2 |              |               |
-|  441 | Klim Efremenko            |  -0.7 |         4 |              |               |
-|  442 | Chip Malt                 |  -0.8 |         4 |              |               |
-|  443 | Laurie Choi               |  -0.8 |         2 |              |               |
-|  444 | Enrico Moretti            |  -0.8 |         1 |              |               |
-|  445 | Saumil Chheda             |  -0.8 |         1 |              |               |
-|  446 | Ji Seop Oh                |  -0.9 |         2 |              |               |
+|  441 | Ji Seop Oh                |  -0.7 |         2 |              |               |
+|  442 | Klim Efremenko            |  -0.7 |         4 |              |               |
+|  443 | Chip Malt                 |  -0.8 |         4 |              |               |
+|  444 | Laurie Choi               |  -0.8 |         2 |              |               |
+|  445 | Enrico Moretti            |  -0.8 |         1 |              |               |
+|  446 | Saumil Chheda             |  -0.8 |         1 |              |               |
 |  447 | James Redfield            |  -1.0 |         3 |              |               |
 |  448 | Xavier Vendrell           |  -1.1 |         3 |              |               |
 |  449 | Cristhian Daniel          |  -1.1 |         2 |        +0.14 |               |
