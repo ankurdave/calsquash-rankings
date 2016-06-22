@@ -250,12 +250,12 @@ Generated 2016-06-21.
 |  246 | Adam Soliman              |  13.2 |        32 |              |               |
 |  247 | David Isaksson            |  13.1 |        22 |              |               |
 |  248 | Steven Hahm               |  13.1 |         5 |              |               |
-|  249 | Gautam Tankha             |  13.0 |         7 |              |               |
-|  250 | Louis Russell             |  13.0 |        20 |              |               |
-|  251 | Sushant Jain              |  12.9 |        12 |              |               |
-|  252 | Akash Sharma              |  12.9 |         8 |              |               |
-|  253 | Marco Gonzalez-Navarro    |  12.9 |        32 |              |               |
-|  254 | Nikhil Paranjape          |  12.7 |        12 |        +1.69 |               |
+|  249 | Nikhil Paranjape          |  13.1 |        13 |        +2.01 |               |
+|  250 | Gautam Tankha             |  13.0 |         7 |              |               |
+|  251 | Louis Russell             |  13.0 |        20 |              |               |
+|  252 | Sushant Jain              |  12.9 |        12 |              |               |
+|  253 | Akash Sharma              |  12.9 |         8 |              |               |
+|  254 | Marco Gonzalez-Navarro    |  12.9 |        32 |              |               |
 |  255 | Marghoob Mohiyuddin       |  12.7 |        31 |              |               |
 |  256 | Mekoce Walker             |  12.6 |        38 |              |               |
 |  257 | Jee Hwan Kim              |  12.6 |         7 |              |               |
@@ -334,7 +334,7 @@ Generated 2016-06-21.
 |  330 | Kunal Talwar              |   7.6 |         1 |              |               |
 |  331 | Dav Clark                 |   7.4 |         6 |              |         +2.27 |
 |  332 | Max Grass                 |   7.2 |         1 |              |               |
-|  333 | Alok Singh                |   7.1 |        11 |        -0.09 |               |
+|  333 | Alok Singh                |   7.1 |        11 |        -0.12 |               |
 |  334 | Joseph Duggan             |   7.1 |         8 |              |               |
 |  335 | Jose Lara                 |   7.1 |         4 |              |               |
 |  336 | Min Joon Seo              |   7.0 |         3 |              |               |
@@ -345,9 +345,9 @@ Generated 2016-06-21.
 |  341 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
 |  342 | Virginie Letschert        |   6.6 |        18 |              |               |
 |  343 | Michael Friedlander       |   6.5 |         3 |              |               |
-|  344 | Josh Lebowitz             |   6.4 |        16 |        +3.43 |               |
-|  345 | Jules Bowie               |   6.4 |        12 |              |               |
-|  346 | Arno Ferguson             |   6.4 |         1 |              |               |
+|  344 | Jules Bowie               |   6.4 |        12 |              |               |
+|  345 | Arno Ferguson             |   6.4 |         1 |              |               |
+|  346 | Josh Lebowitz             |   6.3 |        16 |        +3.32 |               |
 |  347 | Fahad Riyadh              |   6.3 |         5 |              |               |
 |  348 | John Coates               |   6.1 |         9 |              |               |
 |  349 | John Givens               |   5.8 |        13 |              |               |
@@ -383,8 +383,8 @@ Generated 2016-06-21.
 |  379 | Catherine Wang            |   3.2 |        10 |              |               |
 |  380 | Vito Sciaraffia           |   3.0 |         5 |              |               |
 |  381 | Richard Fabini            |   2.7 |         3 |              |               |
-|  382 | Martin Rasmussen          |   2.5 |         6 |              |               |
-|  383 | Keaton Noon               |   2.5 |        13 |        -0.61 |               |
+|  382 | Keaton Noon               |   2.6 |        14 |        -0.54 |               |
+|  383 | Martin Rasmussen          |   2.5 |         6 |              |               |
 |  384 | Sandra Harpster           |   2.4 |         5 |              |               |
 |  385 | Therese Jones             |   2.3 |         6 |              |               |
 |  386 | Suneesh Kaul              |   2.2 |         3 |              |               |
