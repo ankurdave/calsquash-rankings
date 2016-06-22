@@ -23,7 +23,7 @@ Generated 2016-06-22.
 |   19 | Alan Jose                 |  29.6 |       182 |              |               |
 |   20 | Louis Morrill             |  29.4 |        10 |              |               |
 |   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
-|   22 | Jim Veitch                |  29.1 |       410 |              |         +0.03 |
+|   22 | Jim Veitch                |  29.2 |       411 |        +0.04 |         +0.08 |
 |   23 | David Hwang               |  28.9 |        44 |              |               |
 |   24 | Frank Kennamer            |  28.8 |       201 |              |         +0.12 |
 |   25 | Rodrigo Cabral            |  28.7 |        29 |              |               |
@@ -59,11 +59,11 @@ Generated 2016-06-22.
 |   55 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   56 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
 |   57 | Charlie Weiss             |  24.3 |        70 |              |         +0.34 |
-|   58 | Aditya Guntuboyina        |  24.2 |        69 |        +0.15 |         +2.75 |
+|   58 | Aditya Guntuboyina        |  24.3 |        69 |        +0.15 |         +2.75 |
 |   59 | Adam Pollak               |  24.2 |        31 |              |               |
-|   60 | Mark Modera               |  24.2 |       299 |        -0.11 |         -1.24 |
-|   61 | Toby Reiner               |  24.2 |       159 |              |               |
-|   62 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   60 | Toby Reiner               |  24.2 |       159 |              |               |
+|   61 | Nader Shoaibi             |  24.2 |        64 |              |               |
+|   62 | Mark Modera               |  24.1 |       300 |        -0.15 |         -1.29 |
 |   63 | Jon Shih                  |  24.0 |        47 |              |               |
 |   64 | Daniel Greengard          |  23.9 |        37 |              |               |
 |   65 | Ivo Plsek                 |  23.9 |        60 |              |               |
