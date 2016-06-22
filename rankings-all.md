@@ -59,11 +59,11 @@ Generated 2016-06-21.
 |   55 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   56 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
 |   57 | Charlie Weiss             |  24.3 |        70 |              |         +0.34 |
-|   58 | Adam Pollak               |  24.2 |        31 |              |               |
-|   59 | Mark Modera               |  24.2 |       299 |        -0.11 |         -1.24 |
-|   60 | Toby Reiner               |  24.2 |       159 |              |               |
-|   61 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   62 | Aditya Guntuboyina        |  24.1 |        68 |              |         +2.60 |
+|   58 | Aditya Guntuboyina        |  24.2 |        69 |        +0.15 |         +2.75 |
+|   59 | Adam Pollak               |  24.2 |        31 |              |               |
+|   60 | Mark Modera               |  24.2 |       299 |        -0.11 |         -1.24 |
+|   61 | Toby Reiner               |  24.2 |       159 |              |               |
+|   62 | Nader Shoaibi             |  24.2 |        64 |              |               |
 |   63 | Jon Shih                  |  24.0 |        47 |              |               |
 |   64 | Daniel Greengard          |  23.9 |        37 |              |               |
 |   65 | Ivo Plsek                 |  23.9 |        60 |              |               |
@@ -83,7 +83,7 @@ Generated 2016-06-21.
 |   79 | Jan Beranek               |  23.1 |        46 |              |               |
 |   80 | Gary Golding              |  23.1 |         6 |              |               |
 |   81 | Matt Wong                 |  23.0 |        59 |        +0.09 |         +2.59 |
-|   82 | Prakash Bathini           |  23.0 |       119 |        +0.14 |         -0.26 |
+|   82 | Prakash Bathini           |  22.9 |       120 |        +0.06 |         -0.34 |
 |   83 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
 |   85 | Adam Angsten              |  22.5 |         3 |              |               |
