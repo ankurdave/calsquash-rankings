@@ -56,14 +56,14 @@ Generated 2016-06-22.
 |   52 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
 |   53 | Ethan Kerr                |  24.7 |        11 |        -0.22 |               |
 |   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
-|   55 | Christopher Tsang         |  24.4 |        76 |              |               |
-|   56 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
-|   57 | Charlie Weiss             |  24.3 |        70 |              |         +0.34 |
-|   58 | Aditya Guntuboyina        |  24.3 |        69 |        +0.15 |         +2.75 |
+|   55 | Aditya Guntuboyina        |  24.4 |        70 |        +0.32 |         +2.92 |
+|   56 | Christopher Tsang         |  24.4 |        76 |              |               |
+|   57 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
+|   58 | Charlie Weiss             |  24.3 |        70 |              |         +0.34 |
 |   59 | Adam Pollak               |  24.2 |        31 |              |               |
 |   60 | Toby Reiner               |  24.2 |       159 |              |               |
 |   61 | Nader Shoaibi             |  24.2 |        64 |              |               |
-|   62 | Mark Modera               |  24.1 |       300 |        -0.15 |         -1.29 |
+|   62 | Mark Modera               |  24.1 |       301 |        -0.23 |         -1.37 |
 |   63 | Jon Shih                  |  24.0 |        47 |              |               |
 |   64 | Daniel Greengard          |  23.9 |        37 |              |               |
 |   65 | Ivo Plsek                 |  23.9 |        60 |              |               |
