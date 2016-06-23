@@ -24,14 +24,14 @@ Generated 2016-06-23.
 |   20 | Jared Bard         |  21.8 |        25 |        +0.18 |         +4.16 |
 |   21 | Jonathan Francis   |  20.6 |        56 |              |         +0.71 |
 |   22 | Shaun Lim          |  20.2 |        34 |              |         +0.01 |
-|   23 | Subrato Dey        |  20.0 |        21 |        +1.51 |               |
-|   24 | Chris Flores       |  19.9 |       295 |        -0.07 |         -0.15 |
-|   25 | Dror Matalon       |  19.9 |       340 |        -0.16 |         -0.87 |
+|   23 | Subrato Dey        |  19.9 |        21 |        +1.50 |               |
+|   24 | Dror Matalon       |  19.9 |       340 |        -0.16 |         -0.86 |
+|   25 | Chris Flores       |  19.8 |       296 |        -0.17 |         -0.25 |
 |   26 | Kenny Bell         |  18.3 |       106 |        -0.04 |         +1.38 |
 |   27 | Josh Trauner       |  18.2 |        23 |        +1.30 |               |
-|   28 | Jeff Gordon        |  17.0 |        22 |        +1.51 |               |
+|   28 | Jeff Gordon        |  17.6 |        23 |        +2.15 |               |
 |   29 | Kent Daniels       |  16.7 |        76 |        +0.32 |         +2.36 |
-|   30 | Eric Borden        |  15.9 |        22 |        -0.49 |               |
+|   30 | Eric Borden        |  15.9 |        22 |        -0.47 |               |
 |   31 | Rupert Myers       |  15.6 |        27 |              |               |
 |   32 | Ankur Dave         |  14.6 |        38 |        +1.43 |         +9.01 |
 |   33 | Terry Chang        |  14.4 |        37 |        -0.27 |         +3.63 |
@@ -40,11 +40,11 @@ Generated 2016-06-23.
 |   36 | Daniel Schwartz    |  12.3 |        13 |        +1.88 |               |
 |   37 | Wayne Heiser       |  11.9 |        17 |        +0.89 |               |
 |   38 | Duo Wang           |   9.1 |        57 |        -0.05 |         +1.18 |
-|   39 | Brian Kempenich    |   8.2 |        30 |              |         +0.27 |
-|   40 | Alok Singh         |   7.1 |        11 |        -0.12 |               |
-|   41 | Jose Lara          |   7.1 |         4 |              |               |
-|   42 | Nate Aden          |   7.0 |        10 |        +1.18 |               |
-|   43 | Josh Lebowitz      |   6.3 |        16 |        +3.32 |               |
+|   39 | Brian Kempenich    |   8.0 |        31 |        -0.21 |         +0.06 |
+|   40 | Josh Lebowitz      |   7.5 |        17 |        +4.53 |               |
+|   41 | Alok Singh         |   7.1 |        11 |        -0.12 |               |
+|   42 | Jose Lara          |   7.1 |         4 |              |               |
+|   43 | Nate Aden          |   7.0 |        10 |        +1.18 |               |
 |   44 | Keaton Noon        |   2.6 |        14 |        -0.54 |               |
 |   45 | Rodrigo Calmet     |   1.4 |         2 |        +0.67 |               |
 |   46 | Nakul Vakil        |  -0.5 |         3 |              |               |

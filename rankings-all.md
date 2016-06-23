@@ -122,11 +122,11 @@ Generated 2016-06-23.
 |  118 | Jonathan Francis          |  20.6 |        56 |              |         +0.71 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  120 | Shaun Lim                 |  20.2 |        34 |              |         +0.01 |
-|  121 | Subrato Dey               |  20.0 |        21 |        +1.51 |               |
-|  122 | Chris Flores              |  19.9 |       295 |        -0.07 |         -0.15 |
-|  123 | Dror Matalon              |  19.9 |       340 |        -0.16 |         -0.87 |
-|  124 | Jacob Kersey              |  19.9 |        15 |              |               |
-|  125 | Andrew Proudfoot          |  19.8 |        26 |              |        +13.50 |
+|  121 | Subrato Dey               |  19.9 |        21 |        +1.50 |               |
+|  122 | Dror Matalon              |  19.9 |       340 |        -0.16 |         -0.86 |
+|  123 | Jacob Kersey              |  19.9 |        15 |              |               |
+|  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +13.50 |
+|  125 | Chris Flores              |  19.8 |       296 |        -0.17 |         -0.25 |
 |  126 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  127 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  128 | Pierre Darancet           |  19.6 |        94 |              |               |
@@ -167,20 +167,20 @@ Generated 2016-06-23.
 |  163 | Jim Evans                 |  17.8 |       216 |              |               |
 |  164 | Hari Dhavala              |  17.7 |        27 |              |               |
 |  165 | Britta Gardner            |  17.7 |        16 |              |               |
-|  166 | Thomas Scanlon            |  17.6 |        20 |              |               |
-|  167 | Neil Conway               |  17.5 |        55 |              |               |
-|  168 | Frank Kennan              |  17.5 |        11 |              |               |
-|  169 | Adam Jacob                |  17.4 |         3 |              |               |
-|  170 | Steven Sloman             |  17.3 |        10 |              |               |
-|  171 | Arbi Vartan               |  17.3 |        20 |              |               |
-|  172 | Patrick Baylis            |  17.3 |        12 |              |               |
-|  173 | Mark Priven               |  17.3 |        72 |              |               |
-|  174 | Sridhar Rajaram           |  17.3 |        30 |              |               |
-|  175 | Leor Lovinger             |  17.3 |         6 |              |               |
-|  176 | Errick Ceppas             |  17.2 |         6 |              |               |
-|  177 | Juliet Lamont             |  17.2 |        58 |              |               |
-|  178 | Wolfram Pohl              |  17.1 |        60 |              |               |
-|  179 | Jeff Gordon               |  17.0 |        22 |        +1.51 |               |
+|  166 | Jeff Gordon               |  17.6 |        23 |        +2.15 |               |
+|  167 | Thomas Scanlon            |  17.6 |        20 |              |               |
+|  168 | Neil Conway               |  17.5 |        55 |              |               |
+|  169 | Frank Kennan              |  17.5 |        11 |              |               |
+|  170 | Adam Jacob                |  17.4 |         3 |              |               |
+|  171 | Steven Sloman             |  17.3 |        10 |              |               |
+|  172 | Arbi Vartan               |  17.3 |        20 |              |               |
+|  173 | Patrick Baylis            |  17.3 |        12 |              |               |
+|  174 | Mark Priven               |  17.3 |        72 |              |               |
+|  175 | Sridhar Rajaram           |  17.3 |        30 |              |               |
+|  176 | Leor Lovinger             |  17.3 |         6 |              |               |
+|  177 | Errick Ceppas             |  17.2 |         6 |              |               |
+|  178 | Juliet Lamont             |  17.2 |        58 |              |               |
+|  179 | Wolfram Pohl              |  17.1 |        60 |              |               |
 |  180 | Joseph Farrell            |  17.0 |         8 |              |               |
 |  181 | Nacho Quaglio             |  17.0 |         3 |              |               |
 |  182 | Sebastien Biraud          |  17.0 |        60 |              |               |
@@ -200,7 +200,7 @@ Generated 2016-06-23.
 |  196 | Troup Howard              |  16.1 |        34 |              |         +1.32 |
 |  197 | Andrew Green              |  16.1 |        52 |              |               |
 |  198 | Toni Queck                |  16.0 |        20 |              |               |
-|  199 | Eric Borden               |  15.9 |        22 |        -0.49 |               |
+|  199 | Eric Borden               |  15.9 |        22 |        -0.47 |               |
 |  200 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  201 | Jeff Bird                 |  15.7 |        38 |              |               |
 |  202 | Casey Harelson            |  15.7 |        20 |              |               |
@@ -323,8 +323,8 @@ Generated 2016-06-23.
 |  319 | Max Oltersdorf            |   8.3 |         8 |              |               |
 |  320 | Kevin Pollock             |   8.2 |        28 |              |               |
 |  321 | Nicolas Huber             |   8.2 |         4 |              |         -4.22 |
-|  322 | Brian Kempenich           |   8.2 |        30 |              |         +0.27 |
-|  323 | Marc Bensadoun            |   8.1 |         5 |              |               |
+|  322 | Marc Bensadoun            |   8.1 |         5 |              |               |
+|  323 | Brian Kempenich           |   8.0 |        31 |        -0.21 |         +0.06 |
 |  324 | Reynold Xin               |   7.9 |         5 |              |               |
 |  325 | Joshua Braver             |   7.9 |         1 |              |               |
 |  326 | Steven Yee                |   7.8 |         9 |              |               |
@@ -332,22 +332,22 @@ Generated 2016-06-23.
 |  328 | Fabrice Henrion           |   7.7 |         2 |              |               |
 |  329 | Paul Norberg              |   7.6 |         8 |              |               |
 |  330 | Kunal Talwar              |   7.6 |         1 |              |               |
-|  331 | Dav Clark                 |   7.4 |         6 |              |         +2.27 |
-|  332 | Max Grass                 |   7.2 |         1 |              |               |
-|  333 | Alok Singh                |   7.1 |        11 |        -0.12 |               |
-|  334 | Joseph Duggan             |   7.1 |         8 |              |               |
-|  335 | Jose Lara                 |   7.1 |         4 |              |               |
-|  336 | Min Joon Seo              |   7.0 |         3 |              |               |
-|  337 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
-|  338 | Rob Cuthrell              |   7.0 |        11 |              |               |
-|  339 | John Provine              |   7.0 |        16 |              |               |
-|  340 | Nate Aden                 |   7.0 |        10 |        +1.18 |               |
-|  341 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
-|  342 | Virginie Letschert        |   6.6 |        18 |              |               |
-|  343 | Michael Friedlander       |   6.5 |         3 |              |               |
-|  344 | Jules Bowie               |   6.4 |        12 |              |               |
-|  345 | Arno Ferguson             |   6.4 |         1 |              |               |
-|  346 | Josh Lebowitz             |   6.3 |        16 |        +3.32 |               |
+|  331 | Josh Lebowitz             |   7.5 |        17 |        +4.53 |               |
+|  332 | Dav Clark                 |   7.4 |         6 |              |         +2.27 |
+|  333 | Max Grass                 |   7.2 |         1 |              |               |
+|  334 | Alok Singh                |   7.1 |        11 |        -0.12 |               |
+|  335 | Joseph Duggan             |   7.1 |         8 |              |               |
+|  336 | Jose Lara                 |   7.1 |         4 |              |               |
+|  337 | Min Joon Seo              |   7.0 |         3 |              |               |
+|  338 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
+|  339 | Rob Cuthrell              |   7.0 |        11 |              |               |
+|  340 | John Provine              |   7.0 |        16 |              |               |
+|  341 | Nate Aden                 |   7.0 |        10 |        +1.18 |               |
+|  342 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
+|  343 | Virginie Letschert        |   6.6 |        18 |              |               |
+|  344 | Michael Friedlander       |   6.5 |         3 |              |               |
+|  345 | Jules Bowie               |   6.4 |        12 |              |               |
+|  346 | Arno Ferguson             |   6.4 |         1 |              |               |
 |  347 | Fahad Riyadh              |   6.3 |         5 |              |               |
 |  348 | John Coates               |   6.1 |         9 |              |               |
 |  349 | John Givens               |   5.8 |        13 |              |               |
