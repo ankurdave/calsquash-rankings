@@ -23,7 +23,7 @@ Generated 2016-06-23.
 |   19 | Alan Jose                 |  29.6 |       182 |              |               |
 |   20 | Louis Morrill             |  29.4 |        10 |              |               |
 |   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
-|   22 | Jim Veitch                |  29.2 |       411 |        +0.04 |         +0.08 |
+|   22 | Jim Veitch                |  29.2 |       412 |        +0.09 |         +0.12 |
 |   23 | David Hwang               |  28.9 |        44 |              |               |
 |   24 | Frank Kennamer            |  28.8 |       201 |              |         +0.12 |
 |   25 | Rodrigo Cabral            |  28.7 |        29 |              |               |
@@ -56,9 +56,9 @@ Generated 2016-06-23.
 |   52 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
 |   53 | Ethan Kerr                |  24.7 |        11 |        -0.22 |               |
 |   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
-|   55 | Aditya Guntuboyina        |  24.4 |        70 |        +0.32 |         +2.92 |
-|   56 | Christopher Tsang         |  24.4 |        76 |              |               |
-|   57 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
+|   55 | Christopher Tsang         |  24.4 |        76 |              |               |
+|   56 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
+|   57 | Aditya Guntuboyina        |  24.4 |        71 |        +0.25 |         +2.85 |
 |   58 | Charlie Weiss             |  24.3 |        70 |              |         +0.34 |
 |   59 | Adam Pollak               |  24.2 |        31 |              |               |
 |   60 | Toby Reiner               |  24.2 |       159 |              |               |
