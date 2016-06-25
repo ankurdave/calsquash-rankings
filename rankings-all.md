@@ -16,21 +16,21 @@ Generated 2016-06-25.
 |   12 | Victor Noguera Neutelings |  31.6 |        11 |              |               |
 |   13 | David Wood                |  31.4 |        43 |              |               |
 |   14 | Chris Goodman-Smith       |  30.9 |        11 |              |               |
-|   15 | Sam Sternberg             |  30.4 |       113 |        -0.07 |         +0.40 |
+|   15 | Sam Sternberg             |  30.5 |       114 |        +0.05 |         +0.51 |
 |   16 | Justin McCrary            |  30.2 |       140 |              |         +0.33 |
-|   17 | Eric Katerman             |  30.0 |        11 |        +2.16 |               |
+|   17 | Eric Katerman             |  30.0 |        11 |        +2.18 |               |
 |   18 | Grant French              |  29.6 |       125 |              |               |
 |   19 | Alan Jose                 |  29.6 |       182 |              |               |
 |   20 | Louis Morrill             |  29.4 |        10 |              |               |
 |   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   22 | Jim Veitch                |  29.2 |       414 |        +0.04 |         +0.07 |
 |   23 | David Hwang               |  28.9 |        44 |              |               |
-|   24 | Frank Kennamer            |  28.8 |       201 |              |         +0.12 |
+|   24 | Frank Kennamer            |  28.9 |       202 |        +0.10 |         +0.22 |
 |   25 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   26 | Tom Bilyard               |  28.6 |         5 |              |               |
-|   27 | John Kunze                |  28.3 |       293 |              |         -0.30 |
-|   28 | Ben Faber                 |  28.3 |        15 |              |               |
-|   29 | Josh Taylor               |  28.3 |        40 |              |               |
+|   27 | Ben Faber                 |  28.3 |        15 |              |               |
+|   28 | Josh Taylor               |  28.3 |        40 |              |               |
+|   29 | John Kunze                |  28.2 |       294 |        -0.09 |         -0.39 |
 |   30 | Michael Best              |  28.1 |        21 |              |               |
 |   31 | Vishi                     |  28.0 |        41 |        +0.41 |         +1.88 |
 |   32 | Jehan Engineer            |  28.0 |         9 |              |               |
@@ -54,12 +54,12 @@ Generated 2016-06-25.
 |   50 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   51 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   52 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
-|   53 | Ethan Kerr                |  24.6 |        11 |        -0.23 |               |
-|   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
-|   55 | Christopher Tsang         |  24.4 |        76 |              |               |
-|   56 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
-|   57 | Aditya Guntuboyina        |  24.4 |        71 |        +0.25 |         +2.85 |
-|   58 | Charlie Weiss             |  24.3 |        70 |              |         +0.34 |
+|   53 | Greg Jizmagian            |  24.6 |        22 |              |               |
+|   54 | Christopher Tsang         |  24.4 |        76 |              |               |
+|   55 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
+|   56 | Aditya Guntuboyina        |  24.4 |        71 |        +0.25 |         +2.85 |
+|   57 | Charlie Weiss             |  24.3 |        70 |              |         +0.34 |
+|   58 | Ethan Kerr                |  24.2 |        12 |        -0.66 |               |
 |   59 | Adam Pollak               |  24.2 |        31 |              |               |
 |   60 | Toby Reiner               |  24.2 |       159 |              |               |
 |   61 | Nader Shoaibi             |  24.2 |        64 |              |               |
@@ -189,7 +189,7 @@ Generated 2016-06-25.
 |  185 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  186 | William Coleman           |  16.8 |        48 |              |               |
 |  187 | Darren Morgan             |  16.8 |        11 |              |               |
-|  188 | Kent Daniels              |  16.7 |        76 |        +0.32 |         +2.36 |
+|  188 | Kent Daniels              |  16.7 |        76 |        +0.33 |         +2.37 |
 |  189 | Viraj Paropkari           |  16.7 |        16 |              |               |
 |  190 | Dennis Dornan             |  16.6 |        12 |              |               |
 |  191 | Michael Cianfrocco        |  16.5 |        18 |              |               |
@@ -232,13 +232,13 @@ Generated 2016-06-25.
 |  228 | David Shabelman           |  14.4 |        30 |              |               |
 |  229 | Peter Dering              |  14.3 |         9 |              |               |
 |  230 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  231 | Wesley Huang              |  14.0 |         8 |              |               |
-|  232 | Greg Adams                |  14.0 |        10 |              |               |
-|  233 | Vipul Singhvi             |  14.0 |         8 |              |               |
-|  234 | Baxter Leman              |  13.9 |         6 |              |               |
-|  235 | Mike Delanty              |  13.9 |        12 |              |               |
-|  236 | James Chung               |  13.8 |         7 |              |               |
-|  237 | Reto Sutter               |  13.8 |        39 |        -0.19 |         +2.06 |
+|  231 | Reto Sutter               |  14.0 |        40 |        +0.02 |         +2.27 |
+|  232 | Wesley Huang              |  14.0 |         8 |              |               |
+|  233 | Greg Adams                |  14.0 |        10 |              |               |
+|  234 | Vipul Singhvi             |  14.0 |         8 |              |               |
+|  235 | Baxter Leman              |  13.9 |         6 |              |               |
+|  236 | Mike Delanty              |  13.9 |        12 |              |               |
+|  237 | James Chung               |  13.8 |         7 |              |               |
 |  238 | Natalie Bratwood          |  13.8 |         5 |              |               |
 |  239 | Raphael Magarik           |  13.6 |         6 |              |               |
 |  240 | Craig Riddell             |  13.6 |         8 |              |               |
@@ -342,7 +342,7 @@ Generated 2016-06-25.
 |  338 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
 |  339 | Rob Cuthrell              |   7.0 |        11 |              |               |
 |  340 | John Provine              |   7.0 |        16 |              |               |
-|  341 | Nate Aden                 |   7.0 |        10 |        +1.18 |               |
+|  341 | Nate Aden                 |   6.8 |        11 |        +0.98 |               |
 |  342 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
 |  343 | Virginie Letschert        |   6.6 |        18 |              |               |
 |  344 | Michael Friedlander       |   6.5 |         3 |              |               |
@@ -460,8 +460,8 @@ Generated 2016-06-25.
 |  456 | Judah Purcell             |  -1.7 |         1 |              |               |
 |  457 | Emily Moylan              |  -1.7 |        17 |              |               |
 |  458 | Susan Grand               |  -1.7 |         3 |              |         -0.22 |
-|  459 | Ryan                      |  -1.8 |         2 |              |               |
-|  460 | Nathaniel Rice            |  -1.8 |         3 |              |               |
+|  459 | Nathaniel Rice            |  -1.8 |         3 |              |               |
+|  460 | Ryan                      |  -1.9 |         2 |              |               |
 |  461 | David Zhu                 |  -2.0 |         2 |              |               |
 |  462 | Jenny Cheng               |  -2.2 |         1 |              |               |
 |  463 | Annie Wong                |  -2.3 |         3 |              |               |
