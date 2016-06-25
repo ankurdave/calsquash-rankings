@@ -3,7 +3,7 @@ Generated 2016-06-24.
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  43.0 |       212 |              |         +0.07 |
-|    2 | Thomas Lowish             |  39.5 |        11 |        +0.10 |         +5.02 |
+|    2 | Thomas Lowish             |  39.8 |        12 |        +0.43 |         +5.35 |
 |    3 | Paul Valiant              |  37.3 |        63 |              |               |
 |    4 | Rees Sweeney-Taylor       |  37.1 |        82 |              |         +1.94 |
 |    5 | Dominic Gaffney           |  36.5 |        54 |              |               |
@@ -18,7 +18,7 @@ Generated 2016-06-24.
 |   14 | Chris Goodman-Smith       |  30.9 |        11 |              |               |
 |   15 | Sam Sternberg             |  30.4 |       113 |        -0.07 |         +0.40 |
 |   16 | Justin McCrary            |  30.2 |       140 |              |         +0.33 |
-|   17 | Eric Katerman             |  30.0 |        10 |        +2.21 |               |
+|   17 | Eric Katerman             |  30.0 |        11 |        +2.16 |               |
 |   18 | Grant French              |  29.6 |       125 |              |               |
 |   19 | Alan Jose                 |  29.6 |       182 |              |               |
 |   20 | Louis Morrill             |  29.4 |        10 |              |               |
@@ -54,7 +54,7 @@ Generated 2016-06-24.
 |   50 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   51 | Mikael Rehn               |  25.4 |         5 |              |               |
 |   52 | Dan Bohn                  |  24.7 |        73 |              |         +0.48 |
-|   53 | Ethan Kerr                |  24.7 |        11 |        -0.22 |               |
+|   53 | Ethan Kerr                |  24.6 |        11 |        -0.23 |               |
 |   54 | Greg Jizmagian            |  24.6 |        22 |              |               |
 |   55 | Christopher Tsang         |  24.4 |        76 |              |               |
 |   56 | Benjamin Vicuna           |  24.4 |        50 |              |         +4.28 |
