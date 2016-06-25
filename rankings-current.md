@@ -6,10 +6,10 @@ Generated 2016-06-24.
 |    2 | Thomas Lowish      |  39.8 |        12 |        +0.43 |         +5.35 |
 |    3 | Sam Sternberg      |  30.4 |       113 |        -0.07 |         +0.40 |
 |    4 | Eric Katerman      |  30.0 |        11 |        +2.16 |               |
-|    5 | Jim Veitch         |  29.2 |       412 |        +0.09 |         +0.12 |
+|    5 | Jim Veitch         |  29.2 |       414 |        +0.04 |         +0.07 |
 |    6 | Frank Kennamer     |  28.8 |       201 |              |         +0.12 |
 |    7 | John Kunze         |  28.3 |       293 |              |         -0.30 |
-|    8 | Vishi              |  27.6 |        40 |              |         +1.47 |
+|    8 | Vishi              |  28.0 |        41 |        +0.41 |         +1.88 |
 |    9 | Nick Cobbett       |  27.5 |        23 |              |               |
 |   10 | Dan Meier          |  26.2 |        39 |              |         +7.61 |
 |   11 | Saurabh Bajaj      |  26.0 |        16 |              |               |
@@ -18,7 +18,7 @@ Generated 2016-06-24.
 |   14 | Mark Modera        |  24.1 |       301 |        -0.23 |         -1.37 |
 |   15 | Jonathan Hankar    |  23.6 |       175 |              |         +0.37 |
 |   16 | Matt Wong          |  23.0 |        59 |        +0.09 |         +2.59 |
-|   17 | Prakash Bathini    |  22.9 |       120 |        +0.06 |         -0.34 |
+|   17 | Prakash Bathini    |  22.9 |       121 |        +0.02 |         -0.38 |
 |   18 | Reid Johnsen       |  22.4 |        22 |        +0.51 |         +6.59 |
 |   19 | Mike Jensen-Akula  |  22.3 |       210 |        -0.19 |         -0.45 |
 |   20 | Jared Bard         |  21.2 |        27 |        -0.42 |         +3.56 |

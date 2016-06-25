@@ -23,7 +23,7 @@ Generated 2016-06-24.
 |   19 | Alan Jose                 |  29.6 |       182 |              |               |
 |   20 | Louis Morrill             |  29.4 |        10 |              |               |
 |   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
-|   22 | Jim Veitch                |  29.2 |       412 |        +0.09 |         +0.12 |
+|   22 | Jim Veitch                |  29.2 |       414 |        +0.04 |         +0.07 |
 |   23 | David Hwang               |  28.9 |        44 |              |               |
 |   24 | Frank Kennamer            |  28.8 |       201 |              |         +0.12 |
 |   25 | Rodrigo Cabral            |  28.7 |        29 |              |               |
@@ -32,11 +32,11 @@ Generated 2016-06-24.
 |   28 | Ben Faber                 |  28.3 |        15 |              |               |
 |   29 | Josh Taylor               |  28.3 |        40 |              |               |
 |   30 | Michael Best              |  28.1 |        21 |              |               |
-|   31 | Jehan Engineer            |  28.0 |         9 |              |               |
-|   32 | Arvind Muralimohan        |  27.9 |        16 |              |               |
-|   33 | Samer Shehata             |  27.8 |        29 |              |               |
-|   34 | Andrew Moylan             |  27.8 |        95 |              |               |
-|   35 | Vishi                     |  27.6 |        40 |              |         +1.47 |
+|   31 | Vishi                     |  28.0 |        41 |        +0.41 |         +1.88 |
+|   32 | Jehan Engineer            |  28.0 |         9 |              |               |
+|   33 | Arvind Muralimohan        |  27.9 |        16 |              |               |
+|   34 | Samer Shehata             |  27.8 |        29 |              |               |
+|   35 | Andrew Moylan             |  27.8 |        95 |              |               |
 |   36 | Heba Nossier              |  27.6 |        14 |              |               |
 |   37 | Nick Cobbett              |  27.5 |        23 |              |               |
 |   38 | Hussain Raza              |  27.3 |        50 |              |               |
@@ -83,8 +83,8 @@ Generated 2016-06-24.
 |   79 | Jan Beranek               |  23.1 |        46 |              |               |
 |   80 | Gary Golding              |  23.1 |         6 |              |               |
 |   81 | Matt Wong                 |  23.0 |        59 |        +0.09 |         +2.59 |
-|   82 | Prakash Bathini           |  22.9 |       120 |        +0.06 |         -0.34 |
-|   83 | Alex Jermyn               |  22.9 |         3 |              |               |
+|   82 | Alex Jermyn               |  22.9 |         3 |              |               |
+|   83 | Prakash Bathini           |  22.9 |       121 |        +0.02 |         -0.38 |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
 |   85 | Adam Angsten              |  22.5 |         3 |              |               |
 |   86 | Richard Chan              |  22.5 |         9 |              |               |
