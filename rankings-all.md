@@ -188,8 +188,8 @@ Generated 2016-06-25.
 |  184 | Sarah Mcneil              |  16.9 |        24 |              |               |
 |  185 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  186 | William Coleman           |  16.8 |        48 |              |               |
-|  187 | Darren Morgan             |  16.8 |        11 |              |               |
-|  188 | Kent Daniels              |  16.7 |        76 |        +0.33 |         +2.37 |
+|  187 | Kent Daniels              |  16.8 |        77 |        +0.40 |         +2.44 |
+|  188 | Darren Morgan             |  16.8 |        11 |              |               |
 |  189 | Viraj Paropkari           |  16.7 |        16 |              |               |
 |  190 | Dennis Dornan             |  16.6 |        12 |              |               |
 |  191 | Michael Cianfrocco        |  16.5 |        18 |              |               |
@@ -232,7 +232,7 @@ Generated 2016-06-25.
 |  228 | David Shabelman           |  14.4 |        30 |              |               |
 |  229 | Peter Dering              |  14.3 |         9 |              |               |
 |  230 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  231 | Reto Sutter               |  14.0 |        40 |        +0.02 |         +2.27 |
+|  231 | Reto Sutter               |  14.0 |        40 |              |         +2.26 |
 |  232 | Wesley Huang              |  14.0 |         8 |              |               |
 |  233 | Greg Adams                |  14.0 |        10 |              |               |
 |  234 | Vipul Singhvi             |  14.0 |         8 |              |               |
@@ -342,8 +342,8 @@ Generated 2016-06-25.
 |  338 | Nicholas DuBroff          |   7.0 |         8 |              |         +3.11 |
 |  339 | Rob Cuthrell              |   7.0 |        11 |              |               |
 |  340 | John Provine              |   7.0 |        16 |              |               |
-|  341 | Nate Aden                 |   6.8 |        11 |        +0.98 |               |
-|  342 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
+|  341 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
+|  342 | Nate Aden                 |   6.6 |        12 |        +0.86 |               |
 |  343 | Virginie Letschert        |   6.6 |        18 |              |               |
 |  344 | Michael Friedlander       |   6.5 |         3 |              |               |
 |  345 | Jules Bowie               |   6.4 |        12 |              |               |

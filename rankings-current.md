@@ -30,12 +30,12 @@ Generated 2016-06-25.
 |   26 | Kenny Bell         |  18.6 |       107 |        +0.25 |         +1.66 |
 |   27 | Josh Trauner       |  18.4 |        23 |        +1.46 |               |
 |   28 | Jeff Gordon        |  17.6 |        23 |        +2.15 |               |
-|   29 | Kent Daniels       |  16.7 |        76 |        +0.33 |         +2.37 |
+|   29 | Kent Daniels       |  16.8 |        77 |        +0.40 |         +2.44 |
 |   30 | Eric Borden        |  15.9 |        22 |        -0.47 |               |
 |   31 | Rupert Myers       |  15.6 |        27 |              |               |
 |   32 | Ankur Dave         |  14.6 |        38 |        +1.43 |         +9.01 |
 |   33 | Terry Chang        |  14.4 |        37 |        -0.27 |         +3.63 |
-|   34 | Reto Sutter        |  14.0 |        40 |        +0.02 |         +2.27 |
+|   34 | Reto Sutter        |  14.0 |        40 |              |         +2.26 |
 |   35 | Nikhil Paranjape   |  13.1 |        13 |        +2.01 |               |
 |   36 | Daniel Schwartz    |  12.3 |        13 |        +1.88 |               |
 |   37 | Wayne Heiser       |  11.7 |        18 |        +0.70 |               |
@@ -44,7 +44,7 @@ Generated 2016-06-25.
 |   40 | Josh Lebowitz      |   7.5 |        17 |        +4.53 |               |
 |   41 | Alok Singh         |   7.1 |        11 |        -0.12 |               |
 |   42 | Jose Lara          |   7.1 |         4 |              |               |
-|   43 | Nate Aden          |   6.8 |        11 |        +0.98 |               |
+|   43 | Nate Aden          |   6.6 |        12 |        +0.86 |               |
 |   44 | Keaton Noon        |   2.6 |        14 |        -0.54 |               |
 |   45 | Rodrigo Calmet     |   1.4 |         2 |        +0.67 |               |
 |   46 | Nakul Vakil        |   0.5 |         3 |              |               |
