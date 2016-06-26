@@ -1,4 +1,4 @@
-Generated 2016-06-25.
+Generated 2016-06-26.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -23,7 +23,7 @@ Generated 2016-06-25.
 |   19 | Mike Jensen-Akula  |  22.3 |       210 |        -0.19 |         -0.45 |
 |   20 | Jared Bard         |  21.2 |        27 |        -0.42 |         +3.56 |
 |   21 | Jonathan Francis   |  20.6 |        56 |              |         +0.71 |
-|   22 | Shaun Lim          |  20.2 |        34 |              |         +0.01 |
+|   22 | Shaun Lim          |  20.3 |        35 |        +0.07 |         +0.08 |
 |   23 | Subrato Dey        |  19.9 |        21 |        +1.50 |               |
 |   24 | Dror Matalon       |  19.9 |       340 |        -0.16 |         -0.86 |
 |   25 | Chris Flores       |  19.8 |       296 |        -0.17 |         -0.25 |
@@ -44,7 +44,7 @@ Generated 2016-06-25.
 |   40 | Josh Lebowitz      |   7.5 |        17 |        +4.53 |               |
 |   41 | Alok Singh         |   7.1 |        11 |        -0.12 |               |
 |   42 | Jose Lara          |   7.1 |         4 |              |               |
-|   43 | Nate Aden          |   6.6 |        12 |        +0.86 |               |
+|   43 | Nate Aden          |   6.6 |        13 |        +0.85 |               |
 |   44 | Keaton Noon        |   2.6 |        14 |        -0.54 |               |
 |   45 | Rodrigo Calmet     |   1.4 |         2 |        +0.67 |               |
 |   46 | Nakul Vakil        |   0.5 |         3 |              |               |

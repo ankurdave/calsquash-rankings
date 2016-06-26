@@ -1,4 +1,4 @@
-Generated 2016-06-25.
+Generated 2016-06-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -121,7 +121,7 @@ Generated 2016-06-25.
 |  117 | Omair Azam                |  20.6 |        18 |              |               |
 |  118 | Jonathan Francis          |  20.6 |        56 |              |         +0.71 |
 |  119 | Ian MacDonald             |  20.5 |        59 |              |               |
-|  120 | Shaun Lim                 |  20.2 |        34 |              |         +0.01 |
+|  120 | Shaun Lim                 |  20.3 |        35 |        +0.07 |         +0.08 |
 |  121 | Subrato Dey               |  19.9 |        21 |        +1.50 |               |
 |  122 | Dror Matalon              |  19.9 |       340 |        -0.16 |         -0.86 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
@@ -343,7 +343,7 @@ Generated 2016-06-25.
 |  339 | Rob Cuthrell              |   7.0 |        11 |              |               |
 |  340 | John Provine              |   7.0 |        16 |              |               |
 |  341 | Jaiyoung Ryu              |   6.7 |        22 |              |         +1.79 |
-|  342 | Nate Aden                 |   6.6 |        12 |        +0.86 |               |
+|  342 | Nate Aden                 |   6.6 |        13 |        +0.85 |               |
 |  343 | Virginie Letschert        |   6.6 |        18 |              |               |
 |  344 | Michael Friedlander       |   6.5 |         3 |              |               |
 |  345 | Jules Bowie               |   6.4 |        12 |              |               |
