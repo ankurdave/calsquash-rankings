@@ -8,10 +8,10 @@ Generated 2016-06-26.
 |    4 | Eric Katerman      |  30.0 |        11 |        +2.18 |               |
 |    5 | Jim Veitch         |  29.2 |       414 |        +0.04 |         +0.07 |
 |    6 | Frank Kennamer     |  28.9 |       202 |        +0.10 |         +0.22 |
-|    7 | John Kunze         |  28.2 |       294 |        -0.09 |         -0.39 |
-|    8 | Vishi              |  28.0 |        41 |        +0.41 |         +1.88 |
-|    9 | Nick Cobbett       |  27.5 |        23 |              |               |
-|   10 | Dan Meier          |  26.2 |        39 |              |         +7.61 |
+|    7 | John Kunze         |  28.3 |       296 |        -0.06 |         -0.36 |
+|    8 | Nick Cobbett       |  28.0 |        24 |        +0.49 |               |
+|    9 | Vishi              |  28.0 |        41 |        +0.41 |         +1.88 |
+|   10 | Dan Meier          |  26.0 |        40 |        -0.18 |         +7.43 |
 |   11 | Saurabh Bajaj      |  26.0 |        16 |              |               |
 |   12 | Aditya Guntuboyina |  24.4 |        71 |        +0.25 |         +2.85 |
 |   13 | Ethan Kerr         |  24.2 |        12 |        -0.66 |               |

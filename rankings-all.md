@@ -30,15 +30,15 @@ Generated 2016-06-26.
 |   26 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
 |   28 | Josh Taylor               |  28.3 |        40 |              |               |
-|   29 | John Kunze                |  28.2 |       294 |        -0.09 |         -0.39 |
+|   29 | John Kunze                |  28.3 |       296 |        -0.06 |         -0.36 |
 |   30 | Michael Best              |  28.1 |        21 |              |               |
-|   31 | Vishi                     |  28.0 |        41 |        +0.41 |         +1.88 |
-|   32 | Jehan Engineer            |  28.0 |         9 |              |               |
-|   33 | Arvind Muralimohan        |  27.9 |        16 |              |               |
-|   34 | Samer Shehata             |  27.8 |        29 |              |               |
-|   35 | Andrew Moylan             |  27.8 |        95 |              |               |
-|   36 | Heba Nossier              |  27.6 |        14 |              |               |
-|   37 | Nick Cobbett              |  27.5 |        23 |              |               |
+|   31 | Nick Cobbett              |  28.0 |        24 |        +0.49 |               |
+|   32 | Vishi                     |  28.0 |        41 |        +0.41 |         +1.88 |
+|   33 | Jehan Engineer            |  28.0 |         9 |              |               |
+|   34 | Arvind Muralimohan        |  27.9 |        16 |              |               |
+|   35 | Samer Shehata             |  27.8 |        29 |              |               |
+|   36 | Andrew Moylan             |  27.8 |        95 |              |               |
+|   37 | Heba Nossier              |  27.6 |        14 |              |               |
 |   38 | Hussain Raza              |  27.3 |        50 |              |               |
 |   39 | Glenn Forrester           |  26.9 |       355 |              |         +0.12 |
 |   40 | Stephen Dang              |  26.8 |        34 |              |               |
@@ -47,8 +47,8 @@ Generated 2016-06-26.
 |   43 | Nauman Sardar             |  26.6 |        40 |              |               |
 |   44 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
 |   45 | Ali Rahim                 |  26.2 |        24 |              |               |
-|   46 | Dan Meier                 |  26.2 |        39 |              |         +7.61 |
-|   47 | Amos Vernon               |  26.0 |        30 |              |               |
+|   46 | Amos Vernon               |  26.0 |        30 |              |               |
+|   47 | Dan Meier                 |  26.0 |        40 |        -0.18 |         +7.43 |
 |   48 | Saurabh Bajaj             |  26.0 |        16 |              |               |
 |   49 | Ben Seelig                |  25.8 |        69 |              |               |
 |   50 | Annie Rein-Weston         |  25.7 |        18 |              |               |
