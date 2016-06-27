@@ -19,26 +19,26 @@ Generated 2016-06-26.
 |   15 | Jonathan Hankar    |  23.6 |       175 |              |         +0.37 |
 |   16 | Matt Wong          |  23.0 |        59 |        +0.09 |         +2.59 |
 |   17 | Prakash Bathini    |  22.9 |       121 |        +0.02 |         -0.38 |
-|   18 | Reid Johnsen       |  22.4 |        22 |        +0.51 |         +6.59 |
+|   18 | Reid Johnsen       |  22.4 |        22 |        +0.49 |         +6.57 |
 |   19 | Mike Jensen-Akula  |  22.3 |       210 |        -0.19 |         -0.45 |
-|   20 | Jared Bard         |  21.2 |        27 |        -0.42 |         +3.56 |
+|   20 | Jared Bard         |  21.1 |        27 |        -0.50 |         +3.48 |
 |   21 | Jonathan Francis   |  20.6 |        56 |              |         +0.71 |
 |   22 | Shaun Lim          |  20.3 |        35 |        +0.07 |         +0.08 |
 |   23 | Subrato Dey        |  19.9 |        21 |        +1.50 |               |
 |   24 | Dror Matalon       |  19.9 |       340 |        -0.16 |         -0.86 |
 |   25 | Chris Flores       |  19.8 |       296 |        -0.17 |         -0.25 |
-|   26 | Kenny Bell         |  18.6 |       107 |        +0.25 |         +1.66 |
-|   27 | Josh Trauner       |  18.4 |        23 |        +1.46 |               |
-|   28 | Jeff Gordon        |  17.6 |        23 |        +2.15 |               |
+|   26 | Kenny Bell         |  18.8 |       108 |        +0.41 |         +1.83 |
+|   27 | Jeff Gordon        |  17.6 |        23 |        +2.15 |               |
+|   28 | Josh Trauner       |  17.4 |        25 |        +0.42 |               |
 |   29 | Kent Daniels       |  16.8 |        77 |        +0.40 |         +2.44 |
 |   30 | Eric Borden        |  15.9 |        22 |        -0.47 |               |
 |   31 | Rupert Myers       |  15.6 |        27 |              |               |
 |   32 | Ankur Dave         |  14.6 |        38 |        +1.43 |         +9.01 |
 |   33 | Terry Chang        |  14.4 |        37 |        -0.27 |         +3.63 |
 |   34 | Reto Sutter        |  14.0 |        40 |              |         +2.26 |
-|   35 | Nikhil Paranjape   |  13.1 |        13 |        +2.01 |               |
-|   36 | Daniel Schwartz    |  12.3 |        13 |        +1.88 |               |
-|   37 | Wayne Heiser       |  11.7 |        18 |        +0.70 |               |
+|   35 | Wayne Heiser       |  13.3 |        19 |        +2.32 |               |
+|   36 | Nikhil Paranjape   |  13.1 |        13 |        +2.01 |               |
+|   37 | Daniel Schwartz    |  12.3 |        13 |        +1.88 |               |
 |   38 | Duo Wang           |   9.1 |        57 |        -0.05 |         +1.18 |
 |   39 | Brian Kempenich    |   8.0 |        31 |        -0.21 |         +0.06 |
 |   40 | Josh Lebowitz      |   7.5 |        17 |        +4.53 |               |
@@ -47,7 +47,7 @@ Generated 2016-06-26.
 |   43 | Nate Aden          |   6.6 |        13 |        +0.85 |               |
 |   44 | Keaton Noon        |   2.6 |        14 |        -0.54 |               |
 |   45 | Rodrigo Calmet     |   1.4 |         2 |        +0.67 |               |
-|   46 | Nakul Vakil        |   0.5 |         3 |              |               |
+|   46 | Nakul Vakil        |  -0.6 |         3 |              |               |
 |   47 | Ji Seop Oh         |  -0.7 |         2 |              |               |
 |   48 | Cristhian Daniel   |  -1.1 |         2 |        +0.14 |               |
 |   49 | Ryan               |  -1.9 |         2 |              |               |
