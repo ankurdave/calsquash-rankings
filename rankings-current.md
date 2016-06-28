@@ -17,12 +17,12 @@ Generated 2016-06-28.
 |   13 | Ethan Kerr         |  24.2 |        12 |        -0.66 |               |
 |   14 | Mark Modera        |  24.1 |       301 |        -0.23 |         -1.37 |
 |   15 | Jonathan Hankar    |  23.6 |       175 |              |         +0.37 |
-|   16 | Matt Wong          |  23.0 |        59 |        +0.09 |         +2.59 |
+|   16 | Matt Wong          |  23.2 |        60 |        +0.26 |         +2.76 |
 |   17 | Prakash Bathini    |  22.9 |       121 |        +0.02 |         -0.38 |
 |   18 | Reid Johnsen       |  22.4 |        22 |        +0.49 |         +6.57 |
 |   19 | Mike Jensen-Akula  |  22.3 |       210 |        -0.19 |         -0.45 |
 |   20 | Jared Bard         |  21.1 |        27 |        -0.50 |         +3.48 |
-|   21 | Jonathan Francis   |  20.6 |        56 |              |         +0.71 |
+|   21 | Jonathan Francis   |  20.5 |        57 |        -0.11 |         +0.60 |
 |   22 | Shaun Lim          |  20.3 |        35 |        +0.07 |         +0.08 |
 |   23 | Subrato Dey        |  19.9 |        21 |        +1.50 |               |
 |   24 | Dror Matalon       |  19.9 |       340 |        -0.16 |         -0.86 |

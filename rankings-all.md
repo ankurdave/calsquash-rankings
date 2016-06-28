@@ -79,10 +79,10 @@ Generated 2016-06-28.
 |   75 | Sushil Shetty             |  23.3 |        23 |              |               |
 |   76 | Sonesh Surana             |  23.2 |        95 |              |               |
 |   77 | Mikey Zarem               |  23.2 |         8 |              |               |
-|   78 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
-|   79 | Jan Beranek               |  23.1 |        46 |              |               |
-|   80 | Gary Golding              |  23.1 |         6 |              |               |
-|   81 | Matt Wong                 |  23.0 |        59 |        +0.09 |         +2.59 |
+|   78 | Matt Wong                 |  23.2 |        60 |        +0.26 |         +2.76 |
+|   79 | Andrew Lawrie             |  23.2 |        46 |              |         +6.79 |
+|   80 | Jan Beranek               |  23.1 |        46 |              |               |
+|   81 | Gary Golding              |  23.1 |         6 |              |               |
 |   82 | Alex Jermyn               |  22.9 |         3 |              |               |
 |   83 | Prakash Bathini           |  22.9 |       121 |        +0.02 |         -0.38 |
 |   84 | Dante Popple              |  22.8 |        17 |              |               |
@@ -119,8 +119,8 @@ Generated 2016-06-28.
 |  115 | Robert Jeng               |  20.9 |        26 |              |               |
 |  116 | Aaron Socha               |  20.9 |        24 |              |               |
 |  117 | Omair Azam                |  20.6 |        18 |              |               |
-|  118 | Jonathan Francis          |  20.6 |        56 |              |         +0.71 |
-|  119 | Ian MacDonald             |  20.5 |        59 |              |               |
+|  118 | Ian MacDonald             |  20.5 |        59 |              |               |
+|  119 | Jonathan Francis          |  20.5 |        57 |        -0.11 |         +0.60 |
 |  120 | Shaun Lim                 |  20.3 |        35 |        +0.07 |         +0.08 |
 |  121 | Subrato Dey               |  19.9 |        21 |        +1.50 |               |
 |  122 | Dror Matalon              |  19.9 |       340 |        -0.16 |         -0.86 |
