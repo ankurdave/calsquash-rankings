@@ -23,14 +23,14 @@ Generated 2016-06-29.
 |   19 | Mike Jensen-Akula  |  22.3 |       210 |        -0.19 |         -0.45 |
 |   20 | Jared Bard         |  21.1 |        27 |        -0.50 |         +3.48 |
 |   21 | Jonathan Francis   |  20.5 |        57 |        -0.11 |         +0.59 |
-|   22 | Shaun Lim          |  20.3 |        35 |        +0.07 |         +0.08 |
+|   22 | Shaun Lim          |  20.5 |        36 |        +0.29 |         +0.31 |
 |   23 | Subrato Dey        |  19.9 |        21 |        +1.50 |               |
 |   24 | Dror Matalon       |  19.9 |       340 |        -0.16 |         -0.86 |
 |   25 | Chris Flores       |  19.7 |       297 |        -0.27 |         -0.35 |
 |   26 | Kenny Bell         |  18.8 |       108 |        +0.41 |         +1.83 |
 |   27 | Jeff Gordon        |  17.6 |        23 |        +2.15 |               |
 |   28 | Josh Trauner       |  17.4 |        25 |        +0.42 |               |
-|   29 | Kent Daniels       |  16.8 |        77 |        +0.40 |         +2.44 |
+|   29 | Kent Daniels       |  16.7 |        78 |        +0.34 |         +2.38 |
 |   30 | Eric Borden        |  16.6 |        23 |        +0.21 |               |
 |   31 | Rupert Myers       |  15.6 |        27 |              |               |
 |   32 | Ankur Dave         |  14.6 |        38 |        +1.43 |         +9.01 |

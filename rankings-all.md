@@ -121,7 +121,7 @@ Generated 2016-06-29.
 |  117 | Omair Azam                |  20.6 |        18 |              |               |
 |  118 | Ian MacDonald             |  20.5 |        59 |              |               |
 |  119 | Jonathan Francis          |  20.5 |        57 |        -0.11 |         +0.59 |
-|  120 | Shaun Lim                 |  20.3 |        35 |        +0.07 |         +0.08 |
+|  120 | Shaun Lim                 |  20.5 |        36 |        +0.29 |         +0.31 |
 |  121 | Subrato Dey               |  19.9 |        21 |        +1.50 |               |
 |  122 | Dror Matalon              |  19.9 |       340 |        -0.16 |         -0.86 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
@@ -188,8 +188,8 @@ Generated 2016-06-29.
 |  184 | Sarah Mcneil              |  16.9 |        24 |              |               |
 |  185 | Shwetabh Singh            |  16.9 |         6 |              |               |
 |  186 | William Coleman           |  16.8 |        48 |              |               |
-|  187 | Kent Daniels              |  16.8 |        77 |        +0.40 |         +2.44 |
-|  188 | Darren Morgan             |  16.8 |        11 |              |               |
+|  187 | Darren Morgan             |  16.8 |        11 |              |               |
+|  188 | Kent Daniels              |  16.7 |        78 |        +0.34 |         +2.38 |
 |  189 | Viraj Paropkari           |  16.7 |        16 |              |               |
 |  190 | Eric Borden               |  16.6 |        23 |        +0.21 |               |
 |  191 | Dennis Dornan             |  16.6 |        12 |              |               |
