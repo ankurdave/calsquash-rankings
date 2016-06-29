@@ -7,11 +7,11 @@ Generated 2016-06-29.
 |    3 | Sam Sternberg      |  30.5 |       114 |        +0.05 |         +0.51 |
 |    4 | Eric Katerman      |  30.0 |        11 |        +2.18 |               |
 |    5 | Jim Veitch         |  29.2 |       414 |        +0.04 |         +0.07 |
-|    6 | Frank Kennamer     |  28.9 |       202 |        +0.10 |         +0.22 |
+|    6 | Frank Kennamer     |  29.0 |       203 |        +0.18 |         +0.30 |
 |    7 | John Kunze         |  28.3 |       296 |        -0.06 |         -0.36 |
 |    8 | Nick Cobbett       |  28.0 |        24 |        +0.49 |               |
 |    9 | Vishi              |  28.0 |        41 |        +0.41 |         +1.88 |
-|   10 | Dan Meier          |  26.0 |        40 |        -0.18 |         +7.43 |
+|   10 | Dan Meier          |  25.9 |        41 |        -0.33 |         +7.28 |
 |   11 | Aditya Guntuboyina |  24.4 |        71 |        +0.25 |         +2.85 |
 |   12 | Ethan Kerr         |  24.2 |        12 |        -0.66 |               |
 |   13 | Mark Modera        |  24.1 |       301 |        -0.23 |         -1.37 |

@@ -24,8 +24,8 @@ Generated 2016-06-29.
 |   20 | Louis Morrill             |  29.4 |        10 |              |               |
 |   21 | Umesh Vazirani            |  29.3 |        27 |              |               |
 |   22 | Jim Veitch                |  29.2 |       414 |        +0.04 |         +0.07 |
-|   23 | David Hwang               |  28.9 |        44 |              |               |
-|   24 | Frank Kennamer            |  28.9 |       202 |        +0.10 |         +0.22 |
+|   23 | Frank Kennamer            |  29.0 |       203 |        +0.18 |         +0.30 |
+|   24 | David Hwang               |  28.9 |        44 |              |               |
 |   25 | Rodrigo Cabral            |  28.7 |        29 |              |               |
 |   26 | Tom Bilyard               |  28.6 |         5 |              |               |
 |   27 | Ben Faber                 |  28.3 |        15 |              |               |
@@ -48,7 +48,7 @@ Generated 2016-06-29.
 |   44 | Matt Nelson-Teutsch       |  26.6 |        10 |              |               |
 |   45 | Ali Rahim                 |  26.2 |        24 |              |               |
 |   46 | Amos Vernon               |  26.0 |        30 |              |               |
-|   47 | Dan Meier                 |  26.0 |        40 |        -0.18 |         +7.43 |
+|   47 | Dan Meier                 |  25.9 |        41 |        -0.33 |         +7.28 |
 |   48 | Ben Seelig                |  25.8 |        69 |              |               |
 |   49 | Annie Rein-Weston         |  25.7 |        18 |              |               |
 |   50 | Mikael Rehn               |  25.4 |         5 |              |               |
