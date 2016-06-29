@@ -26,12 +26,12 @@ Generated 2016-06-28.
 |   22 | Shaun Lim          |  20.3 |        35 |        +0.07 |         +0.08 |
 |   23 | Subrato Dey        |  19.9 |        21 |        +1.50 |               |
 |   24 | Dror Matalon       |  19.9 |       340 |        -0.16 |         -0.86 |
-|   25 | Chris Flores       |  19.8 |       296 |        -0.17 |         -0.25 |
+|   25 | Chris Flores       |  19.7 |       297 |        -0.27 |         -0.35 |
 |   26 | Kenny Bell         |  18.8 |       108 |        +0.41 |         +1.83 |
 |   27 | Jeff Gordon        |  17.6 |        23 |        +2.15 |               |
 |   28 | Josh Trauner       |  17.4 |        25 |        +0.42 |               |
 |   29 | Kent Daniels       |  16.8 |        77 |        +0.40 |         +2.44 |
-|   30 | Eric Borden        |  15.9 |        22 |        -0.47 |               |
+|   30 | Eric Borden        |  16.6 |        23 |        +0.21 |               |
 |   31 | Rupert Myers       |  15.6 |        27 |              |               |
 |   32 | Ankur Dave         |  14.6 |        38 |        +1.43 |         +9.01 |
 |   33 | Terry Chang        |  14.4 |        37 |        -0.27 |         +3.63 |

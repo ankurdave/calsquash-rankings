@@ -126,7 +126,7 @@ Generated 2016-06-28.
 |  122 | Dror Matalon              |  19.9 |       340 |        -0.16 |         -0.86 |
 |  123 | Jacob Kersey              |  19.9 |        15 |              |               |
 |  124 | Andrew Proudfoot          |  19.8 |        26 |              |        +13.50 |
-|  125 | Chris Flores              |  19.8 |       296 |        -0.17 |         -0.25 |
+|  125 | Chris Flores              |  19.7 |       297 |        -0.27 |         -0.35 |
 |  126 | Whit Eldredge             |  19.7 |         2 |              |               |
 |  127 | Christian Fuentes         |  19.7 |         8 |              |               |
 |  128 | Pierre Darancet           |  19.6 |        94 |              |               |
@@ -191,16 +191,16 @@ Generated 2016-06-28.
 |  187 | Kent Daniels              |  16.8 |        77 |        +0.40 |         +2.44 |
 |  188 | Darren Morgan             |  16.8 |        11 |              |               |
 |  189 | Viraj Paropkari           |  16.7 |        16 |              |               |
-|  190 | Dennis Dornan             |  16.6 |        12 |              |               |
-|  191 | Michael Cianfrocco        |  16.5 |        18 |              |               |
-|  192 | Ben Ailes                 |  16.5 |        48 |              |               |
-|  193 | George Roche              |  16.3 |        14 |              |         +2.01 |
-|  194 | Anirudh Todi              |  16.2 |         3 |              |               |
-|  195 | Rich Shapiro              |  16.1 |        82 |              |               |
-|  196 | Troup Howard              |  16.1 |        34 |              |         +1.32 |
-|  197 | Andrew Green              |  16.1 |        52 |              |               |
-|  198 | Toni Queck                |  16.0 |        20 |              |               |
-|  199 | Eric Borden               |  15.9 |        22 |        -0.47 |               |
+|  190 | Eric Borden               |  16.6 |        23 |        +0.21 |               |
+|  191 | Dennis Dornan             |  16.6 |        12 |              |               |
+|  192 | Michael Cianfrocco        |  16.5 |        18 |              |               |
+|  193 | Ben Ailes                 |  16.5 |        48 |              |               |
+|  194 | George Roche              |  16.3 |        14 |              |         +2.01 |
+|  195 | Anirudh Todi              |  16.2 |         3 |              |               |
+|  196 | Rich Shapiro              |  16.1 |        82 |              |               |
+|  197 | Troup Howard              |  16.1 |        34 |              |         +1.32 |
+|  198 | Andrew Green              |  16.1 |        52 |              |               |
+|  199 | Toni Queck                |  16.0 |        20 |              |               |
 |  200 | Jaime Paterson            |  15.7 |         1 |              |               |
 |  201 | Jeff Bird                 |  15.7 |        38 |              |               |
 |  202 | Casey Harelson            |  15.7 |        20 |              |               |
