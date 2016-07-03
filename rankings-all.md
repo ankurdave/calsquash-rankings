@@ -266,7 +266,7 @@ Generated 2016-07-02.
 |  262 | Karan Jain                |  12.4 |        19 |              |         +2.54 |
 |  263 | Ansul Rajgha              |  12.3 |        15 |              |               |
 |  264 | Jan Strasky               |  12.3 |        12 |              |               |
-|  265 | Daniel Schwartz           |  12.3 |        13 |        +1.88 |               |
+|  265 | Daniel Schwartz           |  12.3 |        13 |        +1.85 |               |
 |  266 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
 |  267 | James Shinn               |  11.9 |       120 |              |               |
 |  268 | Jeff Dorman               |  11.7 |        14 |              |               |
@@ -300,10 +300,10 @@ Generated 2016-07-02.
 |  296 | Jake Toy                  |   9.5 |         5 |              |               |
 |  297 | Kevin Fox                 |   9.5 |         7 |              |               |
 |  298 | Dominick Ng               |   9.5 |        25 |              |               |
-|  299 | Gene Zubovich             |   9.4 |        19 |              |         +0.82 |
-|  300 | Carlos Filho              |   9.2 |         7 |              |               |
-|  301 | David Elfant              |   9.1 |         2 |              |               |
-|  302 | Duo Wang                  |   9.1 |        57 |        -0.05 |         +1.18 |
+|  299 | Duo Wang                  |   9.4 |        58 |        +0.20 |         +1.42 |
+|  300 | Gene Zubovich             |   9.4 |        19 |              |         +0.82 |
+|  301 | Carlos Filho              |   9.2 |         7 |              |               |
+|  302 | David Elfant              |   9.1 |         2 |              |               |
 |  303 | Laura Dobbs               |   9.1 |        26 |              |         -0.50 |
 |  304 | David Appelfeld           |   9.1 |        26 |              |               |
 |  305 | Jennifer Rha              |   9.0 |        12 |              |         +9.83 |
@@ -450,17 +450,17 @@ Generated 2016-07-02.
 |  446 | Saumil Chheda             |  -0.8 |         1 |              |               |
 |  447 | James Redfield            |  -1.0 |         3 |              |               |
 |  448 | Xavier Vendrell           |  -1.1 |         3 |              |               |
-|  449 | Cristhian Daniel          |  -1.1 |         2 |        +0.14 |               |
-|  450 | Matthew Flairty           |  -1.2 |         2 |              |               |
-|  451 | Rajiv Bhutani             |  -1.3 |         1 |              |               |
-|  452 | Stuart Fox                |  -1.4 |         1 |              |               |
-|  453 | Manu Vaish                |  -1.4 |         1 |              |               |
-|  454 | Suluck Chaturabul         |  -1.6 |         2 |              |               |
-|  455 | Ivan Rothman              |  -1.6 |         5 |              |               |
-|  456 | Judah Purcell             |  -1.7 |         1 |              |               |
-|  457 | Emily Moylan              |  -1.7 |        17 |              |               |
-|  458 | Susan Grand               |  -1.7 |         3 |              |         -0.22 |
-|  459 | Nathaniel Rice            |  -1.8 |         3 |              |               |
+|  449 | Matthew Flairty           |  -1.2 |         2 |              |               |
+|  450 | Rajiv Bhutani             |  -1.3 |         1 |              |               |
+|  451 | Stuart Fox                |  -1.4 |         1 |              |               |
+|  452 | Manu Vaish                |  -1.4 |         1 |              |               |
+|  453 | Suluck Chaturabul         |  -1.6 |         2 |              |               |
+|  454 | Ivan Rothman              |  -1.6 |         5 |              |               |
+|  455 | Judah Purcell             |  -1.7 |         1 |              |               |
+|  456 | Emily Moylan              |  -1.7 |        17 |              |               |
+|  457 | Susan Grand               |  -1.7 |         3 |              |         -0.22 |
+|  458 | Nathaniel Rice            |  -1.8 |         3 |              |               |
+|  459 | Cristhian Daniel          |  -1.9 |         3 |        -0.64 |               |
 |  460 | Ryan                      |  -1.9 |         2 |              |               |
 |  461 | David Zhu                 |  -2.0 |         2 |              |               |
 |  462 | Jenny Cheng               |  -2.2 |         1 |              |               |

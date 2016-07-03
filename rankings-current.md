@@ -38,8 +38,8 @@ Generated 2016-07-02.
 |   34 | Reto Sutter        |  14.0 |        40 |              |         +2.26 |
 |   35 | Nikhil Paranjape   |  13.5 |        14 |        +2.44 |               |
 |   36 | Wayne Heiser       |  13.0 |        20 |        +2.01 |               |
-|   37 | Daniel Schwartz    |  12.3 |        13 |        +1.88 |               |
-|   38 | Duo Wang           |   9.1 |        57 |        -0.05 |         +1.18 |
+|   37 | Daniel Schwartz    |  12.3 |        13 |        +1.85 |               |
+|   38 | Duo Wang           |   9.4 |        58 |        +0.20 |         +1.42 |
 |   39 | Brian Kempenich    |   7.9 |        32 |        -0.28 |         -0.02 |
 |   40 | Josh Lebowitz      |   7.5 |        17 |        +4.52 |               |
 |   41 | Alok Singh         |   7.1 |        11 |        -0.12 |               |
@@ -49,5 +49,5 @@ Generated 2016-07-02.
 |   45 | Rodrigo Calmet     |   1.7 |         3 |        +1.04 |               |
 |   46 | Nakul Vakil        |  -0.6 |         3 |              |               |
 |   47 | Ji Seop Oh         |  -0.7 |         2 |              |               |
-|   48 | Cristhian Daniel   |  -1.1 |         2 |        +0.14 |               |
+|   48 | Cristhian Daniel   |  -1.9 |         3 |        -0.64 |               |
 |   49 | Ryan               |  -1.9 |         2 |              |               |
