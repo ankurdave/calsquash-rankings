@@ -17,31 +17,32 @@ Generated 2016-07-05.
 |   13 | Prakash Bathini    |  22.9 |       121 |              |         -0.25 |
 |   14 | Reid Johnsen       |  22.4 |        22 |              |         +6.54 |
 |   15 | Mike Jensen-Akula  |  22.3 |       210 |              |         -0.45 |
-|   16 | Shaun Lim          |  20.5 |        36 |              |         +0.31 |
-|   17 | Jonathan Francis   |  20.5 |        58 |              |         +0.87 |
-|   18 | Dror Matalon       |  19.9 |       340 |              |         -0.71 |
-|   19 | Subrato Dey        |  19.5 |        22 |              |               |
-|   20 | Kenny Bell         |  18.9 |       109 |              |         +1.63 |
-|   21 | Jeff Gordon        |  18.3 |        24 |              |               |
-|   22 | Josh Trauner       |  17.4 |        25 |              |               |
-|   23 | Kent Daniels       |  16.7 |        78 |              |         +2.13 |
-|   24 | Eric Borden        |  16.6 |        23 |              |               |
-|   25 | Troup Howard       |  16.1 |        34 |              |         +0.22 |
-|   26 | Ankur Dave         |  14.6 |        38 |              |         +3.97 |
-|   27 | Terry Chang        |  14.4 |        37 |              |         +3.63 |
-|   28 | Reto Sutter        |  14.0 |        40 |              |         +1.48 |
-|   29 | Nikhil Paranjape   |  13.5 |        14 |              |               |
-|   30 | Wayne Heiser       |  13.0 |        20 |              |               |
-|   31 | Daniel Schwartz    |  12.3 |        13 |              |               |
-|   32 | Duo Wang           |   9.4 |        58 |              |         +1.29 |
-|   33 | Jennifer Rha       |   9.0 |        12 |              |         +1.88 |
-|   34 | Brian Kempenich    |   7.9 |        32 |              |         -0.02 |
-|   35 | Josh Lebowitz      |   7.5 |        17 |              |               |
-|   36 | Alok Singh         |   7.1 |        11 |              |               |
-|   37 | Nate Aden          |   6.6 |        13 |              |               |
-|   38 | Keaton Noon        |   2.6 |        14 |              |               |
-|   39 | Rodrigo Calmet     |   1.7 |         3 |              |               |
-|   40 | Nakul Vakil        |  -0.6 |         3 |              |               |
-|   41 | Ji Seop Oh         |  -0.7 |         2 |              |               |
-|   42 | Cristhian Daniel   |  -1.9 |         3 |              |               |
-|   43 | Ryan               |  -1.9 |         2 |              |               |
+|   16 | Sam McCormick      |  21.7 |        13 |              |               |
+|   17 | Shaun Lim          |  20.5 |        36 |              |         +0.31 |
+|   18 | Jonathan Francis   |  20.5 |        58 |              |         +0.87 |
+|   19 | Dror Matalon       |  19.9 |       340 |              |         -0.71 |
+|   20 | Subrato Dey        |  19.5 |        22 |              |               |
+|   21 | Kenny Bell         |  18.9 |       109 |              |         +1.63 |
+|   22 | Jeff Gordon        |  18.3 |        24 |              |               |
+|   23 | Josh Trauner       |  17.4 |        25 |              |               |
+|   24 | Kent Daniels       |  16.7 |        78 |              |         +2.13 |
+|   25 | Eric Borden        |  16.6 |        23 |              |               |
+|   26 | Troup Howard       |  16.1 |        34 |              |         +0.22 |
+|   27 | Ankur Dave         |  14.6 |        38 |              |         +3.97 |
+|   28 | Terry Chang        |  14.4 |        37 |              |         +3.63 |
+|   29 | Reto Sutter        |  14.0 |        40 |              |         +1.48 |
+|   30 | Nikhil Paranjape   |  13.5 |        14 |              |               |
+|   31 | Wayne Heiser       |  13.0 |        20 |              |               |
+|   32 | Daniel Schwartz    |  12.3 |        13 |              |               |
+|   33 | Duo Wang           |   9.4 |        58 |              |         +1.29 |
+|   34 | Jennifer Rha       |   9.0 |        12 |              |         +1.88 |
+|   35 | Brian Kempenich    |   7.9 |        32 |              |         -0.02 |
+|   36 | Josh Lebowitz      |   7.5 |        17 |              |               |
+|   37 | Alok Singh         |   7.1 |        11 |              |               |
+|   38 | Nate Aden          |   6.6 |        13 |              |               |
+|   39 | Keaton Noon        |   2.6 |        14 |              |               |
+|   40 | Rodrigo Calmet     |   1.7 |         3 |              |               |
+|   41 | Nakul Vakil        |  -0.6 |         3 |              |               |
+|   42 | Ji Seop Oh         |  -0.7 |         2 |              |               |
+|   43 | Cristhian Daniel   |  -1.9 |         3 |              |               |
+|   44 | Ryan               |  -1.9 |         2 |              |               |
