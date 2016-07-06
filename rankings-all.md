@@ -224,26 +224,26 @@ Generated 2016-07-06.
 |  220 | Lakshya Rustagi           |  14.8 |         2 |              |               |
 |  221 | Angie Ng                  |  14.8 |        12 |              |               |
 |  222 | Nicholas Monsees          |  14.8 |         5 |              |               |
-|  223 | Yating Liu                |  14.6 |         7 |              |               |
-|  224 | Ankur Dave                |  14.6 |        38 |              |         +3.97 |
-|  225 | Frederick Bayles          |  14.6 |         8 |              |               |
-|  226 | Terry Chang               |  14.4 |        37 |              |         +3.63 |
-|  227 | John Grim                 |  14.4 |        13 |              |               |
-|  228 | David Shabelman           |  14.4 |        30 |              |               |
-|  229 | Peter Dering              |  14.3 |         9 |              |               |
-|  230 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  231 | Reto Sutter               |  14.0 |        40 |              |         +1.48 |
-|  232 | Wesley Huang              |  14.0 |         8 |              |               |
-|  233 | Greg Adams                |  14.0 |        10 |              |               |
-|  234 | Vipul Singhvi             |  14.0 |         8 |              |               |
-|  235 | Baxter Leman              |  13.9 |         6 |              |               |
-|  236 | Mike Delanty              |  13.9 |        12 |              |               |
-|  237 | James Chung               |  13.8 |         7 |              |               |
-|  238 | Natalie Bratwood          |  13.8 |         5 |              |               |
-|  239 | Raphael Magarik           |  13.6 |         6 |              |               |
-|  240 | Craig Riddell             |  13.6 |         8 |              |               |
-|  241 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
-|  242 | Nikhil Paranjape          |  13.5 |        14 |              |               |
+|  223 | Nikhil Paranjape          |  14.6 |        15 |        +1.12 |               |
+|  224 | Yating Liu                |  14.6 |         7 |              |               |
+|  225 | Ankur Dave                |  14.6 |        38 |              |         +3.97 |
+|  226 | Frederick Bayles          |  14.6 |         8 |              |               |
+|  227 | Terry Chang               |  14.4 |        37 |              |         +3.63 |
+|  228 | John Grim                 |  14.4 |        13 |              |               |
+|  229 | David Shabelman           |  14.4 |        30 |              |               |
+|  230 | Peter Dering              |  14.3 |         9 |              |               |
+|  231 | Chinghway Lim             |  14.3 |        10 |              |               |
+|  232 | Reto Sutter               |  14.0 |        40 |              |         +1.48 |
+|  233 | Wesley Huang              |  14.0 |         8 |              |               |
+|  234 | Greg Adams                |  14.0 |        10 |              |               |
+|  235 | Vipul Singhvi             |  14.0 |         8 |              |               |
+|  236 | Baxter Leman              |  13.9 |         6 |              |               |
+|  237 | Mike Delanty              |  13.9 |        12 |              |               |
+|  238 | James Chung               |  13.8 |         7 |              |               |
+|  239 | Natalie Bratwood          |  13.8 |         5 |              |               |
+|  240 | Raphael Magarik           |  13.6 |         6 |              |               |
+|  241 | Craig Riddell             |  13.6 |         8 |              |               |
+|  242 | Tuong-Vi Faber            |  13.5 |        32 |              |               |
 |  243 | Yan Liu                   |  13.4 |        10 |              |         -1.64 |
 |  244 | Tanit Follett             |  13.2 |         8 |              |               |
 |  245 | Mimi Zhang                |  13.2 |         6 |              |               |
@@ -266,9 +266,9 @@ Generated 2016-07-06.
 |  262 | Karan Jain                |  12.4 |        19 |              |         +0.59 |
 |  263 | Ansul Rajgha              |  12.3 |        15 |              |               |
 |  264 | Jan Strasky               |  12.3 |        12 |              |               |
-|  265 | Daniel Schwartz           |  12.3 |        13 |              |               |
-|  266 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
-|  267 | James Shinn               |  11.9 |       120 |              |               |
+|  265 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
+|  266 | James Shinn               |  11.9 |       120 |              |               |
+|  267 | Daniel Schwartz           |  11.7 |        14 |        -0.59 |               |
 |  268 | Jeff Dorman               |  11.7 |        14 |              |               |
 |  269 | Guillaume Egles           |  11.6 |        11 |              |               |
 |  270 | Mitchell O'Connell        |  11.6 |        32 |              |         +0.57 |

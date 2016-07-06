@@ -28,12 +28,12 @@ Generated 2016-07-06.
 |   24 | Kent Daniels       |  16.7 |        78 |              |         +2.13 |
 |   25 | Eric Borden        |  16.6 |        23 |              |               |
 |   26 | Troup Howard       |  16.1 |        34 |              |         +0.22 |
-|   27 | Ankur Dave         |  14.6 |        38 |              |         +3.97 |
-|   28 | Terry Chang        |  14.4 |        37 |              |         +3.63 |
-|   29 | Reto Sutter        |  14.0 |        40 |              |         +1.48 |
-|   30 | Nikhil Paranjape   |  13.5 |        14 |              |               |
+|   27 | Nikhil Paranjape   |  14.6 |        15 |        +1.12 |               |
+|   28 | Ankur Dave         |  14.6 |        38 |              |         +3.97 |
+|   29 | Terry Chang        |  14.4 |        37 |              |         +3.63 |
+|   30 | Reto Sutter        |  14.0 |        40 |              |         +1.48 |
 |   31 | Wayne Heiser       |  13.0 |        20 |              |               |
-|   32 | Daniel Schwartz    |  12.3 |        13 |              |               |
+|   32 | Daniel Schwartz    |  11.7 |        14 |        -0.59 |               |
 |   33 | Duo Wang           |   9.4 |        58 |              |         +1.29 |
 |   34 | Jennifer Rha       |   9.0 |        12 |              |         +1.88 |
 |   35 | Brian Kempenich    |   7.9 |        32 |              |         -0.02 |
