@@ -36,10 +36,10 @@ Generated 2016-07-07.
 |   32 | Daniel Schwartz    |  11.7 |        14 |        -0.59 |               |
 |   33 | Duo Wang           |   9.4 |        58 |              |         +1.29 |
 |   34 | Jennifer Rha       |   9.0 |        12 |              |         +1.88 |
-|   35 | Brian Kempenich    |   7.9 |        32 |              |         -0.02 |
-|   36 | Josh Lebowitz      |   7.5 |        17 |              |               |
+|   35 | Josh Lebowitz      |   8.5 |        18 |        +1.01 |               |
+|   36 | Brian Kempenich    |   7.9 |        32 |              |         -0.02 |
 |   37 | Alok Singh         |   7.1 |        11 |              |               |
-|   38 | Nate Aden          |   6.6 |        13 |              |               |
+|   38 | Nate Aden          |   6.3 |        14 |        -0.31 |               |
 |   39 | Keaton Noon        |   2.6 |        14 |              |               |
 |   40 | Rodrigo Calmet     |   1.7 |         3 |              |               |
 |   41 | Nakul Vakil        |  -0.6 |         3 |              |               |

@@ -316,23 +316,23 @@ Generated 2016-07-07.
 |  312 | Jonas Hansen              |   8.6 |        14 |              |         +2.03 |
 |  313 | Wladislaw Ellis           |   8.5 |        29 |              |               |
 |  314 | Prasad Santhanam          |   8.5 |         7 |              |               |
-|  315 | Raunak Bhinge             |   8.5 |         8 |              |         +2.09 |
-|  316 | George Bentley            |   8.5 |         4 |              |               |
-|  317 | Bob Roller                |   8.5 |         6 |              |               |
-|  318 | Larry Dale                |   8.4 |        29 |              |               |
-|  319 | Max Oltersdorf            |   8.3 |         8 |              |               |
-|  320 | Kevin Pollock             |   8.2 |        28 |              |               |
-|  321 | Nicolas Huber             |   8.2 |         4 |              |               |
-|  322 | Marc Bensadoun            |   8.1 |         5 |              |               |
-|  323 | Reynold Xin               |   7.9 |         5 |              |               |
-|  324 | Brian Kempenich           |   7.9 |        32 |              |         -0.02 |
-|  325 | Joshua Braver             |   7.9 |         1 |              |               |
-|  326 | Steven Yee                |   7.8 |         9 |              |               |
-|  327 | Deepak Dasalukunte        |   7.7 |         9 |              |               |
-|  328 | Fabrice Henrion           |   7.7 |         2 |              |               |
-|  329 | Paul Norberg              |   7.6 |         8 |              |               |
-|  330 | Kunal Talwar              |   7.6 |         1 |              |               |
-|  331 | Josh Lebowitz             |   7.5 |        17 |              |               |
+|  315 | Josh Lebowitz             |   8.5 |        18 |        +1.01 |               |
+|  316 | Raunak Bhinge             |   8.5 |         8 |              |         +2.09 |
+|  317 | George Bentley            |   8.5 |         4 |              |               |
+|  318 | Bob Roller                |   8.5 |         6 |              |               |
+|  319 | Larry Dale                |   8.4 |        29 |              |               |
+|  320 | Max Oltersdorf            |   8.3 |         8 |              |               |
+|  321 | Kevin Pollock             |   8.2 |        28 |              |               |
+|  322 | Nicolas Huber             |   8.2 |         4 |              |               |
+|  323 | Marc Bensadoun            |   8.1 |         5 |              |               |
+|  324 | Reynold Xin               |   7.9 |         5 |              |               |
+|  325 | Brian Kempenich           |   7.9 |        32 |              |         -0.02 |
+|  326 | Joshua Braver             |   7.9 |         1 |              |               |
+|  327 | Steven Yee                |   7.8 |         9 |              |               |
+|  328 | Deepak Dasalukunte        |   7.7 |         9 |              |               |
+|  329 | Fabrice Henrion           |   7.7 |         2 |              |               |
+|  330 | Paul Norberg              |   7.6 |         8 |              |               |
+|  331 | Kunal Talwar              |   7.6 |         1 |              |               |
 |  332 | Dav Clark                 |   7.4 |         6 |              |               |
 |  333 | Max Grass                 |   7.2 |         1 |              |               |
 |  334 | Alok Singh                |   7.1 |        11 |              |               |
@@ -343,11 +343,11 @@ Generated 2016-07-07.
 |  339 | Rob Cuthrell              |   7.0 |        11 |              |               |
 |  340 | John Provine              |   7.0 |        16 |              |               |
 |  341 | Jaiyoung Ryu              |   6.7 |        22 |              |         +2.38 |
-|  342 | Nate Aden                 |   6.6 |        13 |              |               |
-|  343 | Virginie Letschert        |   6.6 |        18 |              |               |
-|  344 | Michael Friedlander       |   6.5 |         3 |              |               |
-|  345 | Jules Bowie               |   6.4 |        12 |              |               |
-|  346 | Arno Ferguson             |   6.4 |         1 |              |               |
+|  342 | Virginie Letschert        |   6.6 |        18 |              |               |
+|  343 | Michael Friedlander       |   6.5 |         3 |              |               |
+|  344 | Jules Bowie               |   6.4 |        12 |              |               |
+|  345 | Arno Ferguson             |   6.4 |         1 |              |               |
+|  346 | Nate Aden                 |   6.3 |        14 |        -0.31 |               |
 |  347 | Fahad Riyadh              |   6.3 |         5 |              |               |
 |  348 | John Coates               |   6.1 |         9 |              |               |
 |  349 | John Givens               |   5.8 |        13 |              |               |
