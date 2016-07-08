@@ -1,4 +1,4 @@
-Generated 2016-07-07.
+Generated 2016-07-08.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -28,12 +28,12 @@ Generated 2016-07-07.
 |   24 | Kent Daniels       |  16.7 |        78 |              |         +2.13 |
 |   25 | Eric Borden        |  16.6 |        23 |              |               |
 |   26 | Troup Howard       |  16.1 |        34 |              |         +0.22 |
-|   27 | Nikhil Paranjape   |  14.6 |        15 |        +1.12 |               |
+|   27 | Nikhil Paranjape   |  15.4 |        16 |        +1.87 |               |
 |   28 | Ankur Dave         |  14.6 |        38 |              |         +3.97 |
 |   29 | Terry Chang        |  14.4 |        37 |              |         +3.63 |
-|   30 | Reto Sutter        |  14.0 |        40 |              |         +1.48 |
+|   30 | Reto Sutter        |  13.9 |        41 |        -0.15 |         +1.33 |
 |   31 | Wayne Heiser       |  13.0 |        20 |              |               |
-|   32 | Daniel Schwartz    |  11.7 |        14 |        -0.59 |               |
+|   32 | Daniel Schwartz    |  11.8 |        14 |        -0.53 |               |
 |   33 | Duo Wang           |   9.4 |        58 |              |         +1.29 |
 |   34 | Jennifer Rha       |   9.0 |        12 |              |         +1.88 |
 |   35 | Josh Lebowitz      |   8.5 |        18 |        +1.01 |               |

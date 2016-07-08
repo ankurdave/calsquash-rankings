@@ -1,4 +1,4 @@
-Generated 2016-07-07.
+Generated 2016-07-08.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -208,23 +208,23 @@ Generated 2016-07-07.
 |  204 | Rupert Myers              |  15.6 |        27 |              |               |
 |  205 | Allan Dafoe               |  15.5 |        43 |              |               |
 |  206 | David Bratt               |  15.4 |        16 |              |         +1.92 |
-|  207 | Doug Kreutzer             |  15.3 |        10 |              |               |
-|  208 | Ranjit Jhala              |  15.2 |         6 |              |               |
-|  209 | Chris Harrelson           |  15.2 |        47 |              |               |
-|  210 | Tuyen Le                  |  15.2 |         5 |              |               |
-|  211 | Narayan Sankaran          |  15.2 |        24 |              |               |
-|  212 | Matthew Brett             |  15.1 |        20 |              |               |
-|  213 | Kedar Viswanathan         |  15.1 |        16 |              |               |
-|  214 | Alex Marqusee             |  15.1 |        28 |              |         -0.40 |
-|  215 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
-|  216 | Liam King                 |  15.0 |         6 |              |               |
-|  217 | Peter Duerr               |  15.0 |        24 |              |               |
-|  218 | Jayanth Kannan            |  15.0 |        20 |              |               |
-|  219 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
-|  220 | Lakshya Rustagi           |  14.8 |         2 |              |               |
-|  221 | Angie Ng                  |  14.8 |        12 |              |               |
-|  222 | Nicholas Monsees          |  14.8 |         5 |              |               |
-|  223 | Nikhil Paranjape          |  14.6 |        15 |        +1.12 |               |
+|  207 | Nikhil Paranjape          |  15.4 |        16 |        +1.87 |               |
+|  208 | Doug Kreutzer             |  15.3 |        10 |              |               |
+|  209 | Ranjit Jhala              |  15.2 |         6 |              |               |
+|  210 | Chris Harrelson           |  15.2 |        47 |              |               |
+|  211 | Tuyen Le                  |  15.2 |         5 |              |               |
+|  212 | Narayan Sankaran          |  15.2 |        24 |              |               |
+|  213 | Matthew Brett             |  15.1 |        20 |              |               |
+|  214 | Kedar Viswanathan         |  15.1 |        16 |              |               |
+|  215 | Alex Marqusee             |  15.1 |        28 |              |         -0.40 |
+|  216 | Athulan Vijayaraghavan    |  15.1 |        29 |              |               |
+|  217 | Liam King                 |  15.0 |         6 |              |               |
+|  218 | Peter Duerr               |  15.0 |        24 |              |               |
+|  219 | Jayanth Kannan            |  15.0 |        20 |              |               |
+|  220 | Sailesh Krishnamurthy     |  15.0 |        15 |              |               |
+|  221 | Lakshya Rustagi           |  14.8 |         2 |              |               |
+|  222 | Angie Ng                  |  14.8 |        12 |              |               |
+|  223 | Nicholas Monsees          |  14.8 |         5 |              |               |
 |  224 | Yating Liu                |  14.6 |         7 |              |               |
 |  225 | Ankur Dave                |  14.6 |        38 |              |         +3.97 |
 |  226 | Frederick Bayles          |  14.6 |         8 |              |               |
@@ -233,12 +233,12 @@ Generated 2016-07-07.
 |  229 | David Shabelman           |  14.4 |        30 |              |               |
 |  230 | Peter Dering              |  14.3 |         9 |              |               |
 |  231 | Chinghway Lim             |  14.3 |        10 |              |               |
-|  232 | Reto Sutter               |  14.0 |        40 |              |         +1.48 |
-|  233 | Wesley Huang              |  14.0 |         8 |              |               |
-|  234 | Greg Adams                |  14.0 |        10 |              |               |
-|  235 | Vipul Singhvi             |  14.0 |         8 |              |               |
-|  236 | Baxter Leman              |  13.9 |         6 |              |               |
-|  237 | Mike Delanty              |  13.9 |        12 |              |               |
+|  232 | Wesley Huang              |  14.0 |         8 |              |               |
+|  233 | Greg Adams                |  14.0 |        10 |              |               |
+|  234 | Vipul Singhvi             |  14.0 |         8 |              |               |
+|  235 | Baxter Leman              |  13.9 |         6 |              |               |
+|  236 | Mike Delanty              |  13.9 |        12 |              |               |
+|  237 | Reto Sutter               |  13.9 |        41 |        -0.15 |         +1.33 |
 |  238 | James Chung               |  13.8 |         7 |              |               |
 |  239 | Natalie Bratwood          |  13.8 |         5 |              |               |
 |  240 | Raphael Magarik           |  13.6 |         6 |              |               |
@@ -268,7 +268,7 @@ Generated 2016-07-07.
 |  264 | Jan Strasky               |  12.3 |        12 |              |               |
 |  265 | Guillaume Eric Sandoz     |  12.2 |        22 |              |               |
 |  266 | James Shinn               |  11.9 |       120 |              |               |
-|  267 | Daniel Schwartz           |  11.7 |        14 |        -0.59 |               |
+|  267 | Daniel Schwartz           |  11.8 |        14 |        -0.53 |               |
 |  268 | Jeff Dorman               |  11.7 |        14 |              |               |
 |  269 | Guillaume Egles           |  11.6 |        11 |              |               |
 |  270 | Mitchell O'Connell        |  11.6 |        32 |              |         +0.57 |
