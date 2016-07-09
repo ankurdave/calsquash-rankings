@@ -72,7 +72,7 @@ Generated 2016-07-09.
 |   68 | Martin Stokes             |  23.8 |        12 |              |               |
 |   69 | Todd Wirsching            |  23.7 |         8 |              |               |
 |   70 | Matt Wong                 |  23.6 |        61 |              |         +0.53 |
-|   71 | Jonathan Hankar           |  23.6 |       175 |              |         +0.37 |
+|   71 | Jonathan Hankar           |  23.6 |       176 |        +0.03 |         +0.40 |
 |   72 | Thomas Krussig            |  23.5 |        16 |              |               |
 |   73 | Joe Farrell               |  23.4 |        30 |              |               |
 |   74 | Andrew Hsu                |  23.4 |        15 |              |               |
@@ -252,9 +252,9 @@ Generated 2016-07-09.
 |  248 | David Isaksson            |  13.1 |        22 |              |               |
 |  249 | Steven Hahm               |  13.1 |         5 |              |               |
 |  250 | Gautam Tankha             |  13.0 |         7 |              |               |
-|  251 | Wayne Heiser              |  13.0 |        20 |              |               |
-|  252 | Louis Russell             |  13.0 |        20 |              |               |
-|  253 | Sushant Jain              |  12.9 |        12 |              |               |
+|  251 | Louis Russell             |  13.0 |        20 |              |               |
+|  252 | Sushant Jain              |  12.9 |        12 |              |               |
+|  253 | Wayne Heiser              |  12.9 |        21 |        -0.07 |               |
 |  254 | Akash Sharma              |  12.9 |         8 |              |               |
 |  255 | Marco Gonzalez-Navarro    |  12.9 |        32 |              |               |
 |  256 | Marghoob Mohiyuddin       |  12.7 |        31 |              |               |

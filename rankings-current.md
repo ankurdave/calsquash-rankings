@@ -13,7 +13,7 @@ Generated 2016-07-09.
 |    9 | Aditya Guntuboyina |  24.4 |        71 |              |         +3.11 |
 |   10 | Mark Modera        |  24.1 |       301 |              |         -1.32 |
 |   11 | Matt Wong          |  23.6 |        61 |              |         +0.53 |
-|   12 | Jonathan Hankar    |  23.6 |       175 |              |         +0.37 |
+|   12 | Jonathan Hankar    |  23.6 |       176 |        +0.03 |         +0.40 |
 |   13 | Prakash Bathini    |  22.9 |       121 |              |         -0.25 |
 |   14 | Mike Jensen-Akula  |  22.4 |       211 |        +0.04 |         -0.41 |
 |   15 | Reid Johnsen       |  22.4 |        22 |              |         +6.54 |
@@ -32,7 +32,7 @@ Generated 2016-07-09.
 |   28 | Ankur Dave         |  14.5 |        39 |        -0.06 |         +3.91 |
 |   29 | Terry Chang        |  14.4 |        37 |              |         +3.63 |
 |   30 | Reto Sutter        |  13.9 |        41 |        -0.15 |         +1.33 |
-|   31 | Wayne Heiser       |  13.0 |        20 |              |               |
+|   31 | Wayne Heiser       |  12.9 |        21 |        -0.07 |               |
 |   32 | Daniel Schwartz    |  11.8 |        14 |        -0.53 |               |
 |   33 | Duo Wang           |   9.4 |        58 |              |         +1.29 |
 |   34 | Jennifer Rha       |   9.0 |        12 |              |         +1.88 |
