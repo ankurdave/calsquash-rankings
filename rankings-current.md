@@ -15,8 +15,8 @@ Generated 2016-07-08.
 |   11 | Matt Wong          |  23.6 |        61 |              |         +0.53 |
 |   12 | Jonathan Hankar    |  23.6 |       175 |              |         +0.37 |
 |   13 | Prakash Bathini    |  22.9 |       121 |              |         -0.25 |
-|   14 | Reid Johnsen       |  22.4 |        22 |              |         +6.54 |
-|   15 | Mike Jensen-Akula  |  22.3 |       210 |              |         -0.45 |
+|   14 | Mike Jensen-Akula  |  22.4 |       211 |        +0.04 |         -0.41 |
+|   15 | Reid Johnsen       |  22.4 |        22 |              |         +6.54 |
 |   16 | Sam McCormick      |  21.7 |        13 |              |               |
 |   17 | Shaun Lim          |  20.5 |        36 |              |         +0.31 |
 |   18 | Jonathan Francis   |  20.5 |        58 |              |         +0.87 |
@@ -29,7 +29,7 @@ Generated 2016-07-08.
 |   25 | Eric Borden        |  16.6 |        23 |              |               |
 |   26 | Troup Howard       |  16.1 |        34 |              |         +0.22 |
 |   27 | Nikhil Paranjape   |  15.4 |        16 |        +1.87 |               |
-|   28 | Ankur Dave         |  14.6 |        38 |              |         +3.97 |
+|   28 | Ankur Dave         |  14.5 |        39 |        -0.06 |         +3.91 |
 |   29 | Terry Chang        |  14.4 |        37 |              |         +3.63 |
 |   30 | Reto Sutter        |  13.9 |        41 |        -0.15 |         +1.33 |
 |   31 | Wayne Heiser       |  13.0 |        20 |              |               |

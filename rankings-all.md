@@ -90,8 +90,8 @@ Generated 2016-07-08.
 |   86 | Richard Chan              |  22.5 |         9 |              |               |
 |   87 | Orion Hodson              |  22.5 |        31 |              |               |
 |   88 | Rahul Gupta               |  22.4 |         7 |              |               |
-|   89 | Reid Johnsen              |  22.4 |        22 |              |         +6.54 |
-|   90 | Mike Jensen-Akula         |  22.3 |       210 |              |         -0.45 |
+|   89 | Mike Jensen-Akula         |  22.4 |       211 |        +0.04 |         -0.41 |
+|   90 | Reid Johnsen              |  22.4 |        22 |              |         +6.54 |
 |   91 | Lyle Fearnley             |  22.3 |        30 |              |               |
 |   92 | Peter McDermott           |  22.3 |        10 |              |               |
 |   93 | Paul Greene               |  22.1 |         8 |              |               |
@@ -226,8 +226,8 @@ Generated 2016-07-08.
 |  222 | Angie Ng                  |  14.8 |        12 |              |               |
 |  223 | Nicholas Monsees          |  14.8 |         5 |              |               |
 |  224 | Yating Liu                |  14.6 |         7 |              |               |
-|  225 | Ankur Dave                |  14.6 |        38 |              |         +3.97 |
-|  226 | Frederick Bayles          |  14.6 |         8 |              |               |
+|  225 | Frederick Bayles          |  14.6 |         8 |              |               |
+|  226 | Ankur Dave                |  14.5 |        39 |        -0.06 |         +3.91 |
 |  227 | Terry Chang               |  14.4 |        37 |              |         +3.63 |
 |  228 | John Grim                 |  14.4 |        13 |              |               |
 |  229 | David Shabelman           |  14.4 |        30 |              |               |
