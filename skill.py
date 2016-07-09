@@ -36,6 +36,14 @@ name_substitutions = {
   'Christopher Flores': 'Chris Flores',
 }
 
+# Whether to consider the margin of victory (i.e., the number of games won or
+# lost within a match).
+use_margin_of_victory = True
+
+# Whether to open a Python shell after generating the rankings, enabling
+# interactive querying of the results.
+interactive = False
+
 def canonical_name(name):
   name = re.sub(r'\s+', ' ', name)
   if name in name_substitutions:
@@ -48,16 +56,18 @@ def scores_to_match_results(scores):
 
   scores -- list of tuples (player1, player2), score_of_player1
 
-  Return a list of tuples (winner, loser) if scores contains matching entries
-  for (winner, loser) and (loser, winner) that sum to 7, indicating a successful
-  match.
+  Return a list of tuples (winner, loser, winner_score) if scores contains
+  matching entries for (winner, loser) and (loser, winner) that sum to 7,
+  indicating a successful match.
+
   """
   match_results = []
   for (player1, player2), winner_score in scores.iteritems():
     if winner_score >= 4: # player1 is always winner
       loser_score = scores.get((player2, player1))
       if loser_score == 7 - winner_score:
-        match_results += [(canonical_name(player1), canonical_name(player2))]
+        match_results += [(canonical_name(player1), canonical_name(player2),
+                           winner_score)]
   return match_results
 
 month_to_number = {
@@ -87,9 +97,11 @@ def file_sort(filename):
 def parse_matches():
   """Parse box league files and return match results.
 
-  Return a chronologically-ordered list of tuples (player1, player2) meaning
-  player1 beat player2, as well as the position within this list corresponding
-  to the start of the current month, and 12-month trailing period.
+  Return a chronologically-ordered list of tuples (player1, player2,
+  player1_score) meaning player1 beat player2, as well as the position within
+  this list corresponding to the start of the current month, and 12-month
+  trailing period.
+
   """
   matches = []
 
@@ -129,15 +141,23 @@ def calculate_ratings(matches):
   trueskill.Rating object and num_matches maps player name to the number of
   played matches.
   """
-  players = set([p for ps in matches for p in ps])
+  players = set([p for p1, p2, p1_score in matches for p in [p1, p2]])
   ratings = dict([(p, env.create_rating()) for p in players])
   num_matches = dict([(p, 0) for p in players])
-  def add_match(p1, p2):
-    ratings[p1], ratings[p2] = trueskill.rate_1vs1(ratings[p1], ratings[p2], env=env)
+  def add_match(p1, p2, p1_score):
+    if use_margin_of_victory:
+      games_for_p1 = 3
+      games_for_p2 = 6 - p1_score
+      for i in range(games_for_p1):
+        ratings[p1], ratings[p2] = trueskill.rate_1vs1(ratings[p1], ratings[p2], env=env)
+      for i in range(games_for_p2):
+        ratings[p2], ratings[p1] = trueskill.rate_1vs1(ratings[p2], ratings[p1], env=env)
+    else:
+      ratings[p1], ratings[p2] = trueskill.rate_1vs1(ratings[p1], ratings[p2], env=env)
     num_matches[p1] += 1
     num_matches[p2] += 1
-  for p1, p2 in matches:
-    add_match(p1, p2)
+  for p1, p2, p1_score in matches:
+    add_match(p1, p2, p1_score)
 
   return ratings, num_matches
 
@@ -178,9 +198,6 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
     f.write(tbl.get_string())
   print 'Wrote %s.' % outfile
 
-def competitiveness(p1, p2):
-  return trueskill.quality_1vs1(ratings[p1], ratings[p2], env=env)
-
 def current_players():
   """Return this month's active players."""
   players = []
@@ -202,6 +219,11 @@ def main():
   print_leaderboard(ratings, num_matches, outfile='rankings-current.md',
                     ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
                     player_pred=lambda r: r[0] in cau)
+  if interactive:
+    import code
+    def competitiveness(p1, p2):
+      return trueskill.quality_1vs1(ratings[p1], ratings[p2], env=env)
+    code.interact(local=dict(globals(), **locals()))
 
 if __name__=='__main__':
   main()
