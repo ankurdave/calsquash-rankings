@@ -25,7 +25,7 @@ Generated 2016-07-08.
 |   21 | Kenny Bell         |  18.9 |       109 |              |         +1.63 |
 |   22 | Jeff Gordon        |  18.3 |        24 |              |               |
 |   23 | Josh Trauner       |  17.4 |        25 |              |               |
-|   24 | Kent Daniels       |  16.7 |        78 |              |         +2.13 |
+|   24 | Kent Daniels       |  16.9 |        79 |        +0.14 |         +2.28 |
 |   25 | Eric Borden        |  16.6 |        23 |              |               |
 |   26 | Troup Howard       |  16.1 |        34 |              |         +0.22 |
 |   27 | Nikhil Paranjape   |  15.4 |        16 |        +1.87 |               |
@@ -43,6 +43,7 @@ Generated 2016-07-08.
 |   39 | Keaton Noon        |   2.6 |        14 |              |               |
 |   40 | Rodrigo Calmet     |   1.7 |         3 |              |               |
 |   41 | Nakul Vakil        |  -0.6 |         3 |              |               |
-|   42 | Ji Seop Oh         |  -0.7 |         2 |              |               |
-|   43 | Cristhian Daniel   |  -1.9 |         3 |              |               |
-|   44 | Ryan               |  -1.9 |         2 |              |               |
+|   42 | Sameer Bajaj       |  -0.6 |         1 |              |               |
+|   43 | Ji Seop Oh         |  -0.7 |         2 |              |               |
+|   44 | Cristhian Daniel   |  -1.9 |         3 |              |               |
+|   45 | Ryan               |  -1.9 |         2 |              |               |
