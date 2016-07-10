@@ -7,13 +7,13 @@ Generated 2016-07-09.
 |    3 | Sam Sternberg      |  30.1 |       114 |              |         +0.87 |
 |    4 | Frank Kennamer     |  26.9 |       203 |              |         -0.41 |
 |    5 | Vishi              |  26.0 |        41 |              |         -0.14 |
-|    6 | Jim Veitch         |  25.6 |       414 |              |               |
+|    6 | Jim Veitch         |  25.8 |       416 |        +0.19 |         +0.20 |
 |    7 | Aditya Guntuboyina |  23.2 |        71 |              |         +2.03 |
 |    8 | Saurabh Bajaj      |  22.6 |        19 |              |               |
 |    9 | Dan Meier          |  22.6 |        41 |              |         +2.12 |
 |   10 | Jonathan Hankar    |  22.2 |       176 |        +0.13 |         +0.17 |
 |   11 | Matt Wong          |  21.7 |        61 |              |         +0.23 |
-|   12 | Mark Modera        |  21.2 |       301 |              |         -1.52 |
+|   12 | Mark Modera        |  21.1 |       302 |        -0.13 |         -1.65 |
 |   13 | Prakash Bathini    |  20.8 |       121 |              |         -0.58 |
 |   14 | Sam McCormick      |  20.6 |        13 |              |               |
 |   15 | Reid Johnsen       |  20.6 |        22 |              |         +6.11 |
@@ -44,6 +44,7 @@ Generated 2016-07-09.
 |   40 | Keaton Noon        |   5.8 |        14 |              |               |
 |   41 | Ji Seop Oh         |   2.9 |         2 |              |               |
 |   42 | Ryan               |   2.3 |         2 |              |               |
-|   43 | Nakul Vakil        |   0.2 |         3 |              |               |
-|   44 | Cristhian Daniel   |  -1.1 |         3 |              |               |
-|   45 | Sameer Bajaj       |  -1.3 |         1 |              |               |
+|   43 | Robert Isaac       |   2.3 |         1 |              |               |
+|   44 | Nakul Vakil        |   0.2 |         3 |              |               |
+|   45 | Cristhian Daniel   |  -1.1 |         3 |              |               |
+|   46 | Sameer Bajaj       |  -1.3 |         1 |              |               |
