@@ -16,8 +16,8 @@ Generated 2016-07-12.
 |   12 | Jeff Grant                |  31.3 |       207 |              |               |
 |   13 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   15 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
-|   16 | Eric Katerman             |  30.2 |        11 |              |               |
+|   15 | Eric Katerman             |  30.4 |        12 |        +0.19 |               |
+|   16 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   17 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   18 | Sam Sternberg             |  30.1 |       114 |              |         +0.87 |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -104,9 +104,9 @@ Generated 2016-07-12.
 |  100 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  101 | Julian Marshall           |  22.7 |        31 |              |               |
 |  102 | Saurabh Bajaj             |  22.6 |        19 |              |               |
-|  103 | Dan Meier                 |  22.6 |        41 |              |         +2.12 |
-|  104 | Gautam Tankha             |  22.6 |         7 |              |               |
-|  105 | Dev Millstein             |  22.6 |        92 |              |               |
+|  103 | Gautam Tankha             |  22.6 |         7 |              |               |
+|  104 | Dev Millstein             |  22.6 |        92 |              |               |
+|  105 | Dan Meier                 |  22.5 |        42 |        -0.07 |         +2.06 |
 |  106 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  107 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  108 | Sunil Bhave               |  22.3 |        26 |              |               |

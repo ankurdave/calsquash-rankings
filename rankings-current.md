@@ -3,14 +3,14 @@ Generated 2016-07-12.
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Thomas Lowish      |  34.4 |        12 |              |         +3.37 |
-|    2 | Eric Katerman      |  30.2 |        11 |              |               |
+|    2 | Eric Katerman      |  30.4 |        12 |        +0.19 |               |
 |    3 | Sam Sternberg      |  30.1 |       114 |              |         +0.87 |
 |    4 | Frank Kennamer     |  26.9 |       203 |              |         -0.41 |
 |    5 | Vishi              |  26.0 |        41 |              |         -0.14 |
 |    6 | Jim Veitch         |  25.9 |       417 |        +0.26 |         +0.27 |
 |    7 | Aditya Guntuboyina |  23.2 |        71 |              |         +2.03 |
 |    8 | Saurabh Bajaj      |  22.6 |        19 |              |               |
-|    9 | Dan Meier          |  22.6 |        41 |              |         +2.12 |
+|    9 | Dan Meier          |  22.5 |        42 |        -0.07 |         +2.06 |
 |   10 | Jonathan Hankar    |  22.2 |       176 |        +0.13 |         +0.17 |
 |   11 | Matt Wong          |  21.7 |        61 |              |         +0.23 |
 |   12 | Mark Modera        |  21.1 |       302 |        -0.13 |         -1.65 |
