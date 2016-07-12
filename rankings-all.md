@@ -206,21 +206,21 @@ Generated 2016-07-11.
 |  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  203 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  204 | Bob Roller                |  18.2 |         6 |              |               |
-|  205 | Subrato Dey               |  18.1 |        22 |              |               |
-|  206 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  207 | Shaun Lim                 |  18.0 |        36 |              |         +0.11 |
-|  208 | Dror Matalon              |  17.9 |       340 |              |         -0.50 |
+|  205 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  206 | Shaun Lim                 |  18.0 |        36 |              |         +0.11 |
+|  207 | Dror Matalon              |  17.9 |       340 |              |         -0.50 |
+|  208 | Subrato Dey               |  17.9 |        23 |        -0.21 |               |
 |  209 | James Chung               |  17.9 |         7 |              |               |
 |  210 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
-|  211 | Nick Paget                |  17.8 |        35 |              |               |
-|  212 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  214 | George Roche              |  17.7 |        14 |              |         +2.59 |
-|  215 | Troup Howard              |  17.7 |        34 |              |         +0.11 |
-|  216 | Eric Borden               |  17.6 |        23 |              |               |
-|  217 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  218 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  219 | Josh Trauner              |  17.5 |        25 |              |               |
+|  211 | Josh Trauner              |  17.8 |        26 |        +0.29 |               |
+|  212 | Nick Paget                |  17.8 |        35 |              |               |
+|  213 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  214 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  215 | George Roche              |  17.7 |        14 |              |         +2.59 |
+|  216 | Troup Howard              |  17.7 |        34 |              |         +0.11 |
+|  217 | Eric Borden               |  17.6 |        23 |              |               |
+|  218 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  219 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  220 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  221 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  222 | Craig Riddell             |  17.4 |         8 |              |               |
