@@ -7,7 +7,7 @@ Generated 2016-07-11.
 |    3 | Sam Sternberg      |  30.1 |       114 |              |         +0.87 |
 |    4 | Frank Kennamer     |  26.9 |       203 |              |         -0.41 |
 |    5 | Vishi              |  26.0 |        41 |              |         -0.14 |
-|    6 | Jim Veitch         |  25.8 |       416 |        +0.19 |         +0.20 |
+|    6 | Jim Veitch         |  25.9 |       417 |        +0.26 |         +0.27 |
 |    7 | Aditya Guntuboyina |  23.2 |        71 |              |         +2.03 |
 |    8 | Saurabh Bajaj      |  22.6 |        19 |              |               |
 |    9 | Dan Meier          |  22.6 |        41 |              |         +2.12 |
@@ -45,6 +45,7 @@ Generated 2016-07-11.
 |   41 | Ji Seop Oh         |   2.9 |         2 |              |               |
 |   42 | Ryan               |   2.3 |         2 |              |               |
 |   43 | Robert Isaac       |   2.3 |         1 |              |               |
-|   44 | Nakul Vakil        |   0.2 |         3 |              |               |
-|   45 | Cristhian Daniel   |  -1.1 |         3 |              |               |
-|   46 | Sameer Bajaj       |  -1.3 |         1 |              |               |
+|   44 | Sahar Sareminaeni  |   2.2 |         1 |              |               |
+|   45 | Nakul Vakil        |   0.2 |         3 |              |               |
+|   46 | Cristhian Daniel   |  -1.1 |         3 |              |               |
+|   47 | Sameer Bajaj       |  -1.3 |         1 |              |               |
