@@ -15,8 +15,8 @@ Generated 2016-07-13.
 |   11 | Matt Wong          |  21.7 |        61 |              |         +0.23 |
 |   12 | Mark Modera        |  21.1 |       302 |        -0.13 |         -1.65 |
 |   13 | Prakash Bathini    |  20.8 |       121 |              |         -0.58 |
-|   14 | Sam McCormick      |  20.6 |        13 |              |               |
-|   15 | Reid Johnsen       |  20.6 |        22 |              |         +6.11 |
+|   14 | Reid Johnsen       |  20.6 |        22 |              |         +6.11 |
+|   15 | Sam McCormick      |  20.5 |        14 |        -0.13 |               |
 |   16 | Mike Jensen-Akula  |  20.3 |       211 |        +0.09 |         -1.72 |
 |   17 | Jonathan Francis   |  19.7 |        58 |              |         +0.31 |
 |   18 | Kenny Bell         |  19.0 |       109 |              |         +1.76 |
@@ -35,17 +35,17 @@ Generated 2016-07-13.
 |   31 | Rodrigo Calmet     |  11.7 |         3 |              |               |
 |   32 | Jennifer Rha       |  11.4 |        12 |              |         +3.38 |
 |   33 | Reto Sutter        |  11.3 |        41 |        -0.25 |         -0.16 |
-|   34 | Daniel Schwartz    |   8.8 |        14 |        -0.37 |               |
-|   35 | Josh Lebowitz      |   8.5 |        18 |        +0.92 |               |
-|   36 | Brian Kempenich    |   8.4 |        32 |              |         -0.75 |
-|   37 | Duo Wang           |   8.2 |        58 |              |         +1.14 |
-|   38 | Nate Aden          |   7.3 |        14 |        -0.38 |               |
-|   39 | Alok Singh         |   6.0 |        11 |              |               |
-|   40 | Keaton Noon        |   5.8 |        14 |              |               |
-|   41 | Ji Seop Oh         |   2.9 |         2 |              |               |
-|   42 | Ryan               |   2.3 |         2 |              |               |
-|   43 | Robert Isaac       |   2.3 |         1 |              |               |
-|   44 | Sahar Sareminaeni  |   2.2 |         1 |              |               |
+|   34 | Sahar Sareminaeni  |   8.8 |         2 |              |               |
+|   35 | Daniel Schwartz    |   8.8 |        14 |        -0.37 |               |
+|   36 | Josh Lebowitz      |   8.5 |        18 |        +0.92 |               |
+|   37 | Brian Kempenich    |   8.4 |        32 |              |         -0.75 |
+|   38 | Duo Wang           |   8.2 |        58 |              |         +1.14 |
+|   39 | Nate Aden          |   7.3 |        14 |        -0.38 |               |
+|   40 | Alok Singh         |   6.0 |        11 |              |               |
+|   41 | Keaton Noon        |   5.8 |        14 |              |               |
+|   42 | Ji Seop Oh         |   2.9 |         2 |              |               |
+|   43 | Ryan               |   2.3 |         2 |              |               |
+|   44 | Robert Isaac       |   2.3 |         1 |              |               |
 |   45 | Nakul Vakil        |   0.2 |         3 |              |               |
 |   46 | Cristhian Daniel   |  -1.1 |         3 |              |               |
 |   47 | Sameer Bajaj       |  -1.3 |         1 |              |               |
