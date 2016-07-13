@@ -218,9 +218,9 @@ Generated 2016-07-12.
 |  214 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  215 | George Roche              |  17.7 |        14 |              |         +2.59 |
 |  216 | Troup Howard              |  17.7 |        34 |              |         +0.11 |
-|  217 | Eric Borden               |  17.6 |        23 |              |               |
-|  218 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  219 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  217 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  218 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  219 | Eric Borden               |  17.4 |        24 |        -0.18 |               |
 |  220 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  221 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  222 | Craig Riddell             |  17.4 |         8 |              |               |
@@ -295,12 +295,12 @@ Generated 2016-07-12.
 |  291 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  292 | Josephine Lee             |  13.7 |         6 |              |               |
 |  293 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  294 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  295 | Lars Foleide              |  13.5 |        11 |              |               |
-|  296 | Alex Rennet               |  13.5 |         2 |              |               |
-|  297 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  298 | Jake Toy                  |  13.4 |         5 |              |               |
-|  299 | Ankur Dave                |  13.3 |        39 |        -0.10 |         +0.79 |
+|  294 | Ankur Dave                |  13.6 |        40 |        +0.12 |         +1.01 |
+|  295 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  296 | Lars Foleide              |  13.5 |        11 |              |               |
+|  297 | Alex Rennet               |  13.5 |         2 |              |               |
+|  298 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  299 | Jake Toy                  |  13.4 |         5 |              |               |
 |  300 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  301 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  302 | Field Maloney             |  13.1 |        24 |              |               |

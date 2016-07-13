@@ -26,11 +26,11 @@ Generated 2016-07-12.
 |   22 | Subrato Dey        |  17.9 |        23 |        -0.21 |               |
 |   23 | Josh Trauner       |  17.8 |        26 |        +0.29 |               |
 |   24 | Troup Howard       |  17.7 |        34 |              |         +0.11 |
-|   25 | Eric Borden        |  17.6 |        23 |              |               |
+|   25 | Eric Borden        |  17.4 |        24 |        -0.18 |               |
 |   26 | Wayne Heiser       |  17.2 |        21 |        -0.18 |               |
 |   27 | Terry Chang        |  15.6 |        37 |              |         +1.95 |
 |   28 | Kent Daniels       |  15.4 |        79 |        +0.18 |         +0.95 |
-|   29 | Ankur Dave         |  13.3 |        39 |        -0.10 |         +0.79 |
+|   29 | Ankur Dave         |  13.6 |        40 |        +0.12 |         +1.01 |
 |   30 | Nikhil Paranjape   |  12.8 |        16 |        +1.16 |               |
 |   31 | Rodrigo Calmet     |  11.7 |         3 |              |               |
 |   32 | Jennifer Rha       |  11.4 |        12 |              |         +3.38 |
