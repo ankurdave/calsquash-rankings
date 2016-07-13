@@ -123,9 +123,9 @@ Generated 2016-07-13.
 |  119 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  120 | Andrew Lawrie             |  22.0 |        46 |              |         +3.64 |
 |  121 | Jan Beranek               |  21.9 |        46 |              |               |
-|  122 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  123 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  124 | Matt Wong                 |  21.7 |        61 |              |         +0.23 |
+|  122 | Matt Wong                 |  21.9 |        62 |        +0.13 |         +0.36 |
+|  123 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  124 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  125 | Charlie Weiss             |  21.7 |        70 |              |         -0.70 |
 |  126 | Omair Azam                |  21.7 |        18 |              |               |
 |  127 | Phin Lee                  |  21.7 |        16 |              |               |
@@ -146,10 +146,10 @@ Generated 2016-07-13.
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  145 | Prakash Bathini           |  20.8 |       121 |              |         -0.58 |
-|  146 | Jamie Funk                |  20.8 |        30 |              |               |
-|  147 | Matthew Brett             |  20.7 |        20 |              |               |
-|  148 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  145 | Jamie Funk                |  20.8 |        30 |              |               |
+|  146 | Matthew Brett             |  20.7 |        20 |              |               |
+|  147 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  148 | Prakash Bathini           |  20.7 |       122 |        -0.12 |         -0.69 |
 |  149 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  150 | Reid Johnsen              |  20.6 |        22 |              |         +6.11 |
 |  151 | Natalie Bratwood          |  20.5 |         5 |              |               |

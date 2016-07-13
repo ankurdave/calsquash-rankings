@@ -12,9 +12,9 @@ Generated 2016-07-13.
 |    8 | Saurabh Bajaj      |  22.6 |        19 |              |               |
 |    9 | Dan Meier          |  22.5 |        42 |        -0.07 |         +2.06 |
 |   10 | Jonathan Hankar    |  22.2 |       176 |        +0.13 |         +0.17 |
-|   11 | Matt Wong          |  21.7 |        61 |              |         +0.23 |
+|   11 | Matt Wong          |  21.9 |        62 |        +0.13 |         +0.36 |
 |   12 | Mark Modera        |  21.1 |       302 |        -0.13 |         -1.65 |
-|   13 | Prakash Bathini    |  20.8 |       121 |              |         -0.58 |
+|   13 | Prakash Bathini    |  20.7 |       122 |        -0.12 |         -0.69 |
 |   14 | Reid Johnsen       |  20.6 |        22 |              |         +6.11 |
 |   15 | Sam McCormick      |  20.5 |        14 |        -0.13 |               |
 |   16 | Mike Jensen-Akula  |  20.3 |       211 |        +0.09 |         -1.72 |
