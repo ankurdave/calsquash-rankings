@@ -46,7 +46,7 @@ Generated 2016-07-14.
 |   42 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   43 | Mikey Zarem               |  26.1 |         8 |              |               |
 |   44 | Vishi                     |  26.0 |        41 |              |         -0.14 |
-|   45 | Jim Veitch                |  25.9 |       417 |        +0.26 |         +0.27 |
+|   45 | Jim Veitch                |  25.9 |       418 |        +0.27 |         +0.27 |
 |   46 | Peter McDermott           |  25.8 |        10 |              |               |
 |   47 | Andrew Hsu                |  25.8 |        15 |              |               |
 |   48 | Arvind Muralimohan        |  25.7 |        16 |              |               |
@@ -150,12 +150,12 @@ Generated 2016-07-14.
 |  146 | Matthew Brett             |  20.7 |        20 |              |               |
 |  147 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  148 | Prakash Bathini           |  20.7 |       122 |        -0.12 |         -0.69 |
-|  149 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  150 | Reid Johnsen              |  20.6 |        22 |              |         +6.11 |
-|  151 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  152 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  153 | Andrew Green              |  20.5 |        52 |              |               |
-|  154 | Sam McCormick             |  20.5 |        14 |        -0.13 |               |
+|  149 | Sam McCormick             |  20.6 |        15 |        +0.02 |               |
+|  150 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  151 | Reid Johnsen              |  20.6 |        22 |              |         +6.11 |
+|  152 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  153 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  154 | Andrew Green              |  20.5 |        52 |              |               |
 |  155 | Steven Sloman             |  20.4 |        10 |              |               |
 |  156 | Mike Jensen-Akula         |  20.3 |       211 |        +0.09 |         -1.72 |
 |  157 | Anirudh Todi              |  20.3 |         3 |              |               |
