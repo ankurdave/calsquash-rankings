@@ -172,7 +172,7 @@ Generated 2016-07-13.
 |  168 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  169 | Mike Delanty              |  19.7 |        12 |              |               |
 |  170 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  171 | Jonathan Francis          |  19.7 |        58 |              |         +0.31 |
+|  171 | Jonathan Francis          |  19.6 |        59 |        -0.02 |         +0.29 |
 |  172 | Andrew Proudfoot          |  19.6 |        26 |              |         +5.89 |
 |  173 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  174 | Jacob Kersey              |  19.6 |        15 |              |               |
@@ -225,11 +225,11 @@ Generated 2016-07-13.
 |  221 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  222 | Craig Riddell             |  17.4 |         8 |              |               |
 |  223 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  224 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  225 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  226 | Zach Brown                |  17.3 |         3 |              |               |
-|  227 | William Seles             |  17.2 |        15 |              |               |
-|  228 | Wayne Heiser              |  17.2 |        21 |        -0.18 |               |
+|  224 | Wayne Heiser              |  17.3 |        22 |        -0.08 |               |
+|  225 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  226 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  227 | Zach Brown                |  17.3 |         3 |              |               |
+|  228 | William Seles             |  17.2 |        15 |              |               |
 |  229 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  230 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  231 | Lucas Cheon               |  17.2 |        19 |              |               |

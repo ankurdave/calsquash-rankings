@@ -18,7 +18,7 @@ Generated 2016-07-13.
 |   14 | Reid Johnsen       |  20.6 |        22 |              |         +6.11 |
 |   15 | Sam McCormick      |  20.5 |        14 |        -0.13 |               |
 |   16 | Mike Jensen-Akula  |  20.3 |       211 |        +0.09 |         -1.72 |
-|   17 | Jonathan Francis   |  19.7 |        58 |              |         +0.31 |
+|   17 | Jonathan Francis   |  19.6 |        59 |        -0.02 |         +0.29 |
 |   18 | Kenny Bell         |  19.0 |       109 |              |         +1.76 |
 |   19 | Jeff Gordon        |  18.8 |        24 |              |               |
 |   20 | Shaun Lim          |  18.0 |        36 |              |         +0.11 |
@@ -27,7 +27,7 @@ Generated 2016-07-13.
 |   23 | Josh Trauner       |  17.8 |        26 |        +0.29 |               |
 |   24 | Troup Howard       |  17.7 |        34 |              |         +0.11 |
 |   25 | Eric Borden        |  17.4 |        24 |        -0.18 |               |
-|   26 | Wayne Heiser       |  17.2 |        21 |        -0.18 |               |
+|   26 | Wayne Heiser       |  17.3 |        22 |        -0.08 |               |
 |   27 | Terry Chang        |  15.6 |        37 |              |         +1.95 |
 |   28 | Kent Daniels       |  15.4 |        79 |        +0.18 |         +0.95 |
 |   29 | Ankur Dave         |  13.6 |        40 |        +0.12 |         +1.01 |
