@@ -307,7 +307,7 @@ Generated 2016-07-14.
 |  303 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  304 | Lewis Moore               |  13.0 |        69 |              |               |
 |  305 | David Isaksson            |  12.9 |        22 |              |               |
-|  306 | Nikhil Paranjape          |  12.8 |        16 |        +1.16 |               |
+|  306 | Nikhil Paranjape          |  12.8 |        17 |        +1.19 |               |
 |  307 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  308 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  309 | Josh Shiode               |  12.6 |        20 |              |               |
@@ -363,7 +363,7 @@ Generated 2016-07-14.
 |  359 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  360 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
 |  361 | Sahar Sareminaeni         |   8.8 |         2 |              |               |
-|  362 | Daniel Schwartz           |   8.8 |        14 |        -0.37 |               |
+|  362 | Daniel Schwartz           |   8.8 |        14 |        -0.38 |               |
 |  363 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  364 | Raphael Magarik           |   8.8 |         6 |              |               |
 |  365 | Nicholas Bauer            |   8.8 |        16 |              |               |
@@ -372,7 +372,7 @@ Generated 2016-07-14.
 |  368 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  369 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  370 | Jonas Hansen              |   8.6 |        14 |              |         +2.36 |
-|  371 | Josh Lebowitz             |   8.5 |        18 |        +0.92 |               |
+|  371 | Josh Lebowitz             |   8.5 |        18 |        +0.93 |               |
 |  372 | Brian Kempenich           |   8.4 |        32 |              |         -0.75 |
 |  373 | Reynold Xin               |   8.3 |         5 |              |               |
 |  374 | Anurag Gupta              |   8.3 |         6 |              |               |
@@ -392,9 +392,9 @@ Generated 2016-07-14.
 |  388 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  389 | Jeremy Brown              |   7.7 |         4 |              |               |
 |  390 | Yashraj Khaitain          |   7.6 |         2 |              |               |
-|  391 | Arno Ferguson             |   7.4 |         1 |              |               |
-|  392 | Alex Walters              |   7.4 |         3 |              |               |
-|  393 | Nate Aden                 |   7.3 |        14 |        -0.38 |               |
+|  391 | Nate Aden                 |   7.5 |        15 |        -0.23 |               |
+|  392 | Arno Ferguson             |   7.4 |         1 |              |               |
+|  393 | Alex Walters              |   7.4 |         3 |              |               |
 |  394 | Jaiyoung Ryu              |   7.3 |        22 |              |         +0.08 |
 |  395 | Brookes Degen             |   6.8 |         6 |              |               |
 |  396 | Joshua Braver             |   6.5 |         1 |              |               |

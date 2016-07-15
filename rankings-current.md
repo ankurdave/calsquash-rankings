@@ -31,16 +31,16 @@ Generated 2016-07-14.
 |   27 | Kent Daniels       |  15.6 |        80 |        +0.40 |         +1.17 |
 |   28 | Terry Chang        |  15.4 |        38 |        -0.20 |         +1.75 |
 |   29 | Ankur Dave         |  13.6 |        40 |        +0.12 |         +1.01 |
-|   30 | Nikhil Paranjape   |  12.8 |        16 |        +1.16 |               |
+|   30 | Nikhil Paranjape   |  12.8 |        17 |        +1.19 |               |
 |   31 | Rodrigo Calmet     |  11.7 |         3 |              |               |
 |   32 | Jennifer Rha       |  11.4 |        12 |              |         +3.38 |
 |   33 | Reto Sutter        |  11.3 |        41 |        -0.25 |         -0.16 |
 |   34 | Sahar Sareminaeni  |   8.8 |         2 |              |               |
-|   35 | Daniel Schwartz    |   8.8 |        14 |        -0.37 |               |
-|   36 | Josh Lebowitz      |   8.5 |        18 |        +0.92 |               |
+|   35 | Daniel Schwartz    |   8.8 |        14 |        -0.38 |               |
+|   36 | Josh Lebowitz      |   8.5 |        18 |        +0.93 |               |
 |   37 | Brian Kempenich    |   8.4 |        32 |              |         -0.75 |
 |   38 | Duo Wang           |   8.2 |        58 |              |         +1.14 |
-|   39 | Nate Aden          |   7.3 |        14 |        -0.38 |               |
+|   39 | Nate Aden          |   7.5 |        15 |        -0.23 |               |
 |   40 | Alok Singh         |   6.0 |        11 |              |               |
 |   41 | Keaton Noon        |   5.8 |        14 |              |               |
 |   42 | Ji Seop Oh         |   2.9 |         2 |              |               |
