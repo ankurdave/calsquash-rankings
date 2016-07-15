@@ -28,8 +28,8 @@ Generated 2016-07-14.
 |   24 | Troup Howard       |  17.7 |        34 |              |         +0.11 |
 |   25 | Eric Borden        |  17.4 |        24 |        -0.18 |               |
 |   26 | Wayne Heiser       |  17.3 |        22 |        -0.08 |               |
-|   27 | Terry Chang        |  15.6 |        37 |              |         +1.95 |
-|   28 | Kent Daniels       |  15.4 |        79 |        +0.18 |         +0.95 |
+|   27 | Kent Daniels       |  15.6 |        80 |        +0.40 |         +1.17 |
+|   28 | Terry Chang        |  15.4 |        38 |        -0.20 |         +1.75 |
 |   29 | Ankur Dave         |  13.6 |        40 |        +0.12 |         +1.01 |
 |   30 | Nikhil Paranjape   |  12.8 |        16 |        +1.16 |               |
 |   31 | Rodrigo Calmet     |  11.7 |         3 |              |               |
@@ -48,4 +48,4 @@ Generated 2016-07-14.
 |   44 | Robert Isaac       |   2.3 |         1 |              |               |
 |   45 | Nakul Vakil        |   0.2 |         3 |              |               |
 |   46 | Cristhian Daniel   |  -1.1 |         3 |              |               |
-|   47 | Sameer Bajaj       |  -1.3 |         1 |              |               |
+|   47 | Sameer Bajaj       |  -1.2 |         1 |              |               |

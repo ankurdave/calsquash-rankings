@@ -259,12 +259,12 @@ Generated 2016-07-14.
 |  255 | Jared Nunn                |  15.7 |         5 |              |               |
 |  256 | Akash Sharma              |  15.7 |         8 |              |               |
 |  257 | Angie Ng                  |  15.7 |        12 |              |               |
-|  258 | Terry Chang               |  15.6 |        37 |              |         +1.95 |
+|  258 | Kent Daniels              |  15.6 |        80 |        +0.40 |         +1.17 |
 |  259 | Tanit Follett             |  15.5 |         8 |              |               |
 |  260 | Toni Queck                |  15.5 |        20 |              |               |
 |  261 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  262 | Peter Duerr               |  15.4 |        24 |              |               |
-|  263 | Kent Daniels              |  15.4 |        79 |        +0.18 |         +0.95 |
+|  262 | Terry Chang               |  15.4 |        38 |        -0.20 |         +1.75 |
+|  263 | Peter Duerr               |  15.4 |        24 |              |               |
 |  264 | Kevin Fox                 |  15.3 |         7 |              |         +3.18 |
 |  265 | Jim Evans                 |  15.1 |       216 |              |               |
 |  266 | Dennis Chan               |  15.1 |         1 |              |               |
@@ -475,7 +475,7 @@ Generated 2016-07-14.
 |  471 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  472 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
 |  473 | Cristhian Daniel          |  -1.1 |         3 |              |               |
-|  474 | Sameer Bajaj              |  -1.3 |         1 |              |               |
+|  474 | Sameer Bajaj              |  -1.2 |         1 |              |               |
 |  475 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  476 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  477 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
