@@ -119,11 +119,11 @@ Generated 2016-07-15.
 |  115 | Niklas Linde              |  22.1 |        23 |              |               |
 |  116 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  117 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  118 | Blake Woodard             |  22.0 |        10 |              |               |
-|  119 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  120 | Andrew Lawrie             |  22.0 |        46 |              |         +3.64 |
-|  121 | Jan Beranek               |  21.9 |        46 |              |               |
-|  122 | Matt Wong                 |  21.9 |        62 |        +0.13 |         +0.36 |
+|  118 | Matt Wong                 |  22.0 |        63 |        +0.27 |         +0.50 |
+|  119 | Blake Woodard             |  22.0 |        10 |              |               |
+|  120 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  121 | Andrew Lawrie             |  22.0 |        46 |              |         +3.64 |
+|  122 | Jan Beranek               |  21.9 |        46 |              |               |
 |  123 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  124 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  125 | Charlie Weiss             |  21.7 |        70 |              |         -0.70 |
@@ -216,10 +216,10 @@ Generated 2016-07-15.
 |  212 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  214 | George Roche              |  17.7 |        14 |              |         +2.59 |
-|  215 | Troup Howard              |  17.7 |        34 |              |         +0.11 |
-|  216 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  217 | Josh Trauner              |  17.6 |        27 |        +0.04 |               |
-|  218 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  215 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  216 | Josh Trauner              |  17.6 |        27 |        +0.04 |               |
+|  217 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  218 | Troup Howard              |  17.5 |        35 |        -0.16 |         -0.05 |
 |  219 | Eric Borden               |  17.4 |        24 |        -0.18 |               |
 |  220 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  221 | Juliet Lamont             |  17.4 |        58 |              |               |
