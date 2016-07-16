@@ -18,8 +18,8 @@ Generated 2016-07-16.
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   15 | Eric Katerman             |  30.4 |        12 |        +0.19 |               |
 |   16 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
-|   17 | Umesh Vazirani            |  30.1 |        27 |              |               |
-|   18 | Sam Sternberg             |  30.1 |       114 |              |         +0.87 |
+|   17 | Sam Sternberg             |  30.2 |       115 |        +0.05 |         +0.93 |
+|   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
 |   21 | Alex Jermyn               |  29.3 |         3 |              |               |
@@ -106,8 +106,8 @@ Generated 2016-07-16.
 |  102 | Saurabh Bajaj             |  22.6 |        19 |              |               |
 |  103 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  104 | Dev Millstein             |  22.6 |        92 |              |               |
-|  105 | Dan Meier                 |  22.5 |        42 |        -0.07 |         +2.06 |
-|  106 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  105 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  106 | Dan Meier                 |  22.4 |        43 |        -0.15 |         +1.97 |
 |  107 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  108 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  109 | Robert Geiger             |  22.2 |         8 |              |               |
