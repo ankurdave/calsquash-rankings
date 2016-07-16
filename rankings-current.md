@@ -22,7 +22,7 @@ Generated 2016-07-15.
 |   18 | Jeff Gordon        |  19.1 |        25 |        +0.30 |               |
 |   19 | Kenny Bell         |  19.0 |       109 |              |         +1.76 |
 |   20 | Shaun Lim          |  18.0 |        36 |              |         +0.11 |
-|   21 | Dror Matalon       |  17.9 |       340 |              |         -0.50 |
+|   21 | Dror Matalon       |  17.9 |       341 |        -0.02 |         -0.52 |
 |   22 | Subrato Dey        |  17.9 |        23 |        -0.22 |               |
 |   23 | Troup Howard       |  17.7 |        34 |              |         +0.11 |
 |   24 | Josh Trauner       |  17.6 |        27 |        +0.04 |               |
@@ -30,7 +30,7 @@ Generated 2016-07-15.
 |   26 | Wayne Heiser       |  17.3 |        22 |        -0.08 |               |
 |   27 | Kent Daniels       |  15.6 |        80 |        +0.40 |         +1.17 |
 |   28 | Terry Chang        |  15.4 |        38 |        -0.20 |         +1.75 |
-|   29 | Ankur Dave         |  13.6 |        40 |        +0.12 |         +1.01 |
+|   29 | Ankur Dave         |  13.6 |        41 |        +0.15 |         +1.04 |
 |   30 | Nikhil Paranjape   |  12.8 |        17 |        +1.19 |               |
 |   31 | Rodrigo Calmet     |  11.7 |         3 |              |               |
 |   32 | Jennifer Rha       |  11.4 |        12 |              |         +3.38 |

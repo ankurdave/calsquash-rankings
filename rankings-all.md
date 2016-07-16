@@ -208,7 +208,7 @@ Generated 2016-07-15.
 |  204 | Bob Roller                |  18.2 |         6 |              |               |
 |  205 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  206 | Shaun Lim                 |  18.0 |        36 |              |         +0.11 |
-|  207 | Dror Matalon              |  17.9 |       340 |              |         -0.50 |
+|  207 | Dror Matalon              |  17.9 |       341 |        -0.02 |         -0.52 |
 |  208 | James Chung               |  17.9 |         7 |              |               |
 |  209 | Subrato Dey               |  17.9 |        23 |        -0.22 |               |
 |  210 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
@@ -294,8 +294,8 @@ Generated 2016-07-15.
 |  290 | Gurj Johal                |  13.8 |         2 |              |               |
 |  291 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  292 | Josephine Lee             |  13.7 |         6 |              |               |
-|  293 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  294 | Ankur Dave                |  13.6 |        40 |        +0.12 |         +1.01 |
+|  293 | Ankur Dave                |  13.6 |        41 |        +0.15 |         +1.04 |
+|  294 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  295 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  296 | Lars Foleide              |  13.5 |        11 |              |               |
 |  297 | Alex Rennet               |  13.5 |         2 |              |               |
