@@ -181,15 +181,15 @@ Generated 2016-07-15.
 |  177 | Greg Adams                |  19.3 |        10 |              |               |
 |  178 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  179 | John Corcoran             |  19.1 |        49 |              |               |
-|  180 | Kedar Shah                |  19.1 |         9 |              |               |
-|  181 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  182 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  183 | Yating Liu                |  19.0 |         7 |              |               |
-|  184 | Kenny Bell                |  19.0 |       109 |              |         +1.76 |
-|  185 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
-|  186 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  187 | Gabriel Kahn              |  18.9 |         5 |              |         +7.87 |
-|  188 | Jeff Gordon               |  18.8 |        24 |              |               |
+|  180 | Jeff Gordon               |  19.1 |        25 |        +0.30 |               |
+|  181 | Kedar Shah                |  19.1 |         9 |              |               |
+|  182 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  183 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  184 | Yating Liu                |  19.0 |         7 |              |               |
+|  185 | Kenny Bell                |  19.0 |       109 |              |         +1.76 |
+|  186 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
+|  187 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  188 | Gabriel Kahn              |  18.9 |         5 |              |         +7.87 |
 |  189 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  190 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  191 | Peter Dering              |  18.7 |         9 |              |               |
@@ -209,16 +209,16 @@ Generated 2016-07-15.
 |  205 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  206 | Shaun Lim                 |  18.0 |        36 |              |         +0.11 |
 |  207 | Dror Matalon              |  17.9 |       340 |              |         -0.50 |
-|  208 | Subrato Dey               |  17.9 |        23 |        -0.21 |               |
-|  209 | James Chung               |  17.9 |         7 |              |               |
+|  208 | James Chung               |  17.9 |         7 |              |               |
+|  209 | Subrato Dey               |  17.9 |        23 |        -0.22 |               |
 |  210 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
-|  211 | Josh Trauner              |  17.8 |        26 |        +0.29 |               |
-|  212 | Nick Paget                |  17.8 |        35 |              |               |
-|  213 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  214 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  215 | George Roche              |  17.7 |        14 |              |         +2.59 |
-|  216 | Troup Howard              |  17.7 |        34 |              |         +0.11 |
-|  217 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  211 | Nick Paget                |  17.8 |        35 |              |               |
+|  212 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  214 | George Roche              |  17.7 |        14 |              |         +2.59 |
+|  215 | Troup Howard              |  17.7 |        34 |              |         +0.11 |
+|  216 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  217 | Josh Trauner              |  17.6 |        27 |        +0.04 |               |
 |  218 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  219 | Eric Borden               |  17.4 |        24 |        -0.18 |               |
 |  220 | Sam Trachtman             |  17.4 |         5 |              |               |
