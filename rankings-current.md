@@ -5,12 +5,12 @@ Generated 2016-07-16.
 |    1 | Thomas Lowish      |  34.4 |        12 |              |         +3.37 |
 |    2 | Eric Katerman      |  30.4 |        12 |        +0.19 |               |
 |    3 | Sam Sternberg      |  30.2 |       115 |        +0.05 |         +0.93 |
-|    4 | Frank Kennamer     |  26.9 |       203 |              |         -0.41 |
+|    4 | Frank Kennamer     |  27.1 |       204 |        +0.13 |         -0.29 |
 |    5 | Vishi              |  26.0 |        41 |              |         -0.14 |
 |    6 | Jim Veitch         |  25.9 |       418 |        +0.27 |         +0.27 |
 |    7 | Aditya Guntuboyina |  23.2 |        71 |              |         +2.03 |
 |    8 | Saurabh Bajaj      |  22.6 |        19 |              |               |
-|    9 | Dan Meier          |  22.4 |        43 |        -0.15 |         +1.97 |
+|    9 | Dan Meier          |  22.3 |        44 |        -0.29 |         +1.83 |
 |   10 | Jonathan Hankar    |  22.2 |       176 |        +0.13 |         +0.17 |
 |   11 | Matt Wong          |  22.0 |        63 |        +0.27 |         +0.50 |
 |   12 | Mark Modera        |  21.1 |       302 |        -0.13 |         -1.65 |

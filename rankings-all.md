@@ -33,8 +33,8 @@ Generated 2016-07-16.
 |   29 | Grant French              |  27.5 |       125 |              |               |
 |   30 | Stephen Dang              |  27.2 |        34 |              |               |
 |   31 | Samer Shehata             |  27.2 |        29 |              |               |
-|   32 | Hussain Raza              |  27.0 |        50 |              |               |
-|   33 | Frank Kennamer            |  26.9 |       203 |              |         -0.41 |
+|   32 | Frank Kennamer            |  27.1 |       204 |        +0.13 |         -0.29 |
+|   33 | Hussain Raza              |  27.0 |        50 |              |               |
 |   34 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   35 | Alan Jose                 |  26.9 |       182 |              |               |
 |   36 | Michael Best              |  26.9 |        21 |              |               |
@@ -107,9 +107,9 @@ Generated 2016-07-16.
 |  103 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  104 | Dev Millstein             |  22.6 |        92 |              |               |
 |  105 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  106 | Dan Meier                 |  22.4 |        43 |        -0.15 |         +1.97 |
-|  107 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  108 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  106 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  107 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  108 | Dan Meier                 |  22.3 |        44 |        -0.29 |         +1.83 |
 |  109 | Robert Geiger             |  22.2 |         8 |              |               |
 |  110 | Aaron Socha               |  22.2 |        24 |              |               |
 |  111 | Jonathan Hankar           |  22.2 |       176 |        +0.13 |         +0.17 |
