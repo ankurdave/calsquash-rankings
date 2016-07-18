@@ -157,14 +157,14 @@ Generated 2016-07-17.
 |  153 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  154 | Andrew Green              |  20.5 |        52 |              |               |
 |  155 | Steven Sloman             |  20.4 |        10 |              |               |
-|  156 | Mike Jensen-Akula         |  20.3 |       211 |        +0.09 |         -1.72 |
-|  157 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  158 | Carl Schreck              |  20.2 |         2 |              |               |
-|  159 | John Grim                 |  20.1 |        13 |              |               |
-|  160 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  161 | Frank Kennan              |  20.1 |        11 |              |               |
-|  162 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  163 | Wesley Huang              |  20.0 |         8 |              |               |
+|  156 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  157 | Carl Schreck              |  20.2 |         2 |              |               |
+|  158 | John Grim                 |  20.1 |        13 |              |               |
+|  159 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  160 | Frank Kennan              |  20.1 |        11 |              |               |
+|  161 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  162 | Wesley Huang              |  20.0 |         8 |              |               |
+|  163 | Mike Jensen-Akula         |  20.0 |       212 |        -0.29 |         -2.11 |
 |  164 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  165 | Liam King                 |  19.9 |         6 |              |               |
 |  166 | Lysander Jim              |  19.8 |         6 |              |               |
@@ -204,11 +204,11 @@ Generated 2016-07-17.
 |  200 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  201 | John Eng                  |  18.4 |        28 |              |               |
 |  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  203 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  204 | Bob Roller                |  18.2 |         6 |              |               |
-|  205 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  206 | Shaun Lim                 |  18.0 |        36 |              |         +0.11 |
-|  207 | Dror Matalon              |  17.9 |       341 |        -0.02 |         -0.52 |
+|  203 | Dror Matalon              |  18.3 |       342 |        +0.32 |         -0.18 |
+|  204 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  205 | Bob Roller                |  18.2 |         6 |              |               |
+|  206 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  207 | Shaun Lim                 |  18.0 |        36 |              |         +0.11 |
 |  208 | James Chung               |  17.9 |         7 |              |               |
 |  209 | Subrato Dey               |  17.9 |        23 |        -0.22 |               |
 |  210 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
@@ -220,7 +220,7 @@ Generated 2016-07-17.
 |  216 | Josh Trauner              |  17.6 |        27 |        +0.04 |               |
 |  217 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  218 | Troup Howard              |  17.5 |        35 |        -0.16 |         -0.05 |
-|  219 | Eric Borden               |  17.4 |        24 |        -0.18 |               |
+|  219 | Eric Borden               |  17.4 |        24 |        -0.19 |               |
 |  220 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  221 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  222 | Craig Riddell             |  17.4 |         8 |              |               |
@@ -294,7 +294,7 @@ Generated 2016-07-17.
 |  290 | Gurj Johal                |  13.8 |         2 |              |               |
 |  291 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  292 | Josephine Lee             |  13.7 |         6 |              |               |
-|  293 | Ankur Dave                |  13.6 |        41 |        +0.15 |         +1.04 |
+|  293 | Ankur Dave                |  13.6 |        41 |        +0.17 |         +1.06 |
 |  294 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  295 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  296 | Lars Foleide              |  13.5 |        11 |              |               |
