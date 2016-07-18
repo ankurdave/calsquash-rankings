@@ -164,7 +164,7 @@ Generated 2016-07-18.
 |  160 | Frank Kennan              |  20.1 |        11 |              |               |
 |  161 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  162 | Wesley Huang              |  20.0 |         8 |              |               |
-|  163 | Mike Jensen-Akula         |  20.0 |       212 |        -0.29 |         -2.11 |
+|  163 | Mike Jensen-Akula         |  19.9 |       212 |        -0.31 |         -2.12 |
 |  164 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  165 | Liam King                 |  19.9 |         6 |              |               |
 |  166 | Lysander Jim              |  19.8 |         6 |              |               |
@@ -204,7 +204,7 @@ Generated 2016-07-18.
 |  200 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  201 | John Eng                  |  18.4 |        28 |              |               |
 |  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  203 | Dror Matalon              |  18.3 |       342 |        +0.32 |         -0.18 |
+|  203 | Dror Matalon              |  18.3 |       342 |        +0.35 |         -0.15 |
 |  204 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  205 | Bob Roller                |  18.2 |         6 |              |               |
 |  206 | Jamie Paterson            |  18.1 |         4 |              |               |
@@ -294,7 +294,7 @@ Generated 2016-07-18.
 |  290 | Gurj Johal                |  13.8 |         2 |              |               |
 |  291 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  292 | Josephine Lee             |  13.7 |         6 |              |               |
-|  293 | Ankur Dave                |  13.6 |        41 |        +0.17 |         +1.06 |
+|  293 | Ankur Dave                |  13.7 |        42 |        +0.26 |         +1.15 |
 |  294 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  295 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  296 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -459,8 +459,8 @@ Generated 2016-07-18.
 |  455 | Nathaniel Rice            |   0.4 |         3 |              |               |
 |  456 | Stuart Fox                |   0.2 |         1 |              |               |
 |  457 | Hannah Hagen              |   0.2 |         4 |              |               |
-|  458 | Nakul Vakil               |   0.2 |         3 |              |               |
-|  459 | Rachel Chiu               |   0.1 |         2 |              |               |
+|  458 | Rachel Chiu               |   0.1 |         2 |              |               |
+|  459 | Nakul Vakil               |   0.0 |         4 |        -0.15 |               |
 |  460 | Sandra Harpster           |  -0.1 |         5 |              |               |
 |  461 | Stephen Garden            |  -0.2 |         2 |              |               |
 |  462 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
