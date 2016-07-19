@@ -4,7 +4,7 @@ Generated 2016-07-19.
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  35.0 |       212 |              |         -0.33 |
 |    2 | Robert Lynn               |  34.4 |         7 |              |               |
-|    3 | Thomas Lowish             |  34.4 |        12 |              |         +3.37 |
+|    3 | Thomas Lowish             |  34.4 |        13 |        -0.01 |         +3.36 |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
 |    5 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    6 | Tom Bilyard               |  33.0 |         5 |              |               |
@@ -18,7 +18,7 @@ Generated 2016-07-19.
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   15 | Eric Katerman             |  30.4 |        12 |        +0.19 |               |
 |   16 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
-|   17 | Sam Sternberg             |  30.2 |       115 |        +0.05 |         +0.93 |
+|   17 | Sam Sternberg             |  30.2 |       116 |        +0.12 |         +0.99 |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
