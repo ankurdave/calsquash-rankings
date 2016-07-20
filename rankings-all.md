@@ -302,8 +302,8 @@ Generated 2016-07-20.
 |  298 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  299 | Jake Toy                  |  13.4 |         5 |              |               |
 |  300 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  301 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  302 | Nikhil Paranjape          |  13.2 |        18 |        +1.53 |               |
+|  301 | Nikhil Paranjape          |  13.2 |        18 |        +1.55 |               |
+|  302 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  303 | Field Maloney             |  13.1 |        24 |              |               |
 |  304 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  305 | Lewis Moore               |  13.0 |        69 |              |               |
@@ -331,8 +331,8 @@ Generated 2016-07-20.
 |  327 | Jennifer Rha              |  11.4 |        12 |              |         +3.38 |
 |  328 | Carlos Filho              |  11.4 |         7 |              |               |
 |  329 | Karan Jain                |  11.3 |        19 |              |         +0.03 |
-|  330 | Reto Sutter               |  11.3 |        41 |        -0.24 |         -0.15 |
-|  331 | Lucas Siow                |  11.0 |        10 |              |               |
+|  330 | Lucas Siow                |  11.0 |        10 |              |               |
+|  331 | Reto Sutter               |  11.0 |        42 |        -0.54 |         -0.45 |
 |  332 | Dominick Ng               |  10.9 |        25 |              |               |
 |  333 | George Bentley            |  10.6 |         4 |              |               |
 |  334 | Sudeep Agarwal            |  10.5 |         3 |              |               |
@@ -375,24 +375,24 @@ Generated 2016-07-20.
 |  371 | Brian Kempenich           |   8.4 |        32 |              |         -0.75 |
 |  372 | Reynold Xin               |   8.3 |         5 |              |               |
 |  373 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  374 | Duo Wang                  |   8.2 |        58 |              |         +1.14 |
-|  375 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  376 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  377 | Josh Lebowitz             |   8.2 |        19 |        +0.58 |               |
-|  378 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  379 | John Coates               |   8.1 |         9 |              |               |
-|  380 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  381 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  382 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  383 | Zarina Khan               |   8.0 |         5 |              |               |
-|  384 | Chip Malt                 |   7.9 |         4 |              |               |
-|  385 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  386 | Minsoo Bae                |   7.9 |         2 |              |               |
-|  387 | Akira Chiwaki             |   7.8 |         3 |              |               |
-|  388 | Felipe Gomez              |   7.7 |         4 |              |               |
-|  389 | Jeremy Brown              |   7.7 |         4 |              |               |
-|  390 | Yashraj Khaitain          |   7.6 |         2 |              |               |
-|  391 | Nate Aden                 |   7.5 |        15 |        -0.26 |               |
+|  374 | Josh Lebowitz             |   8.3 |        19 |        +0.65 |               |
+|  375 | Duo Wang                  |   8.2 |        58 |              |         +1.14 |
+|  376 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  377 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  378 | Nate Aden                 |   8.2 |        16 |        +0.45 |               |
+|  379 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  380 | John Coates               |   8.1 |         9 |              |               |
+|  381 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  382 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  383 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  384 | Zarina Khan               |   8.0 |         5 |              |               |
+|  385 | Chip Malt                 |   7.9 |         4 |              |               |
+|  386 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  387 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  388 | Akira Chiwaki             |   7.8 |         3 |              |               |
+|  389 | Felipe Gomez              |   7.7 |         4 |              |               |
+|  390 | Jeremy Brown              |   7.7 |         4 |              |               |
+|  391 | Yashraj Khaitain          |   7.6 |         2 |              |               |
 |  392 | Arno Ferguson             |   7.4 |         1 |              |               |
 |  393 | Alex Walters              |   7.4 |         3 |              |               |
 |  394 | Jaiyoung Ryu              |   7.3 |        22 |              |         +0.08 |
