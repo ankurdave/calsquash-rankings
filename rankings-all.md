@@ -1,4 +1,4 @@
-Generated 2016-07-20.
+Generated 2016-07-21.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -16,9 +16,9 @@ Generated 2016-07-20.
 |   12 | Jeff Grant                |  31.3 |       207 |              |               |
 |   13 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   15 | Eric Katerman             |  30.4 |        12 |        +0.19 |               |
-|   16 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
-|   17 | Sam Sternberg             |  30.2 |       116 |        +0.12 |         +0.99 |
+|   15 | Eric Katerman             |  30.6 |        13 |        +0.40 |               |
+|   16 | Sam Sternberg             |  30.3 |       117 |        +0.17 |         +1.05 |
+|   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |

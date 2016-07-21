@@ -1,10 +1,10 @@
-Generated 2016-07-20.
+Generated 2016-07-21.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Thomas Lowish      |  34.4 |        13 |        -0.01 |         +3.36 |
-|    2 | Eric Katerman      |  30.4 |        12 |        +0.19 |               |
-|    3 | Sam Sternberg      |  30.2 |       116 |        +0.12 |         +0.99 |
+|    2 | Eric Katerman      |  30.6 |        13 |        +0.40 |               |
+|    3 | Sam Sternberg      |  30.3 |       117 |        +0.17 |         +1.05 |
 |    4 | Frank Kennamer     |  27.1 |       204 |        +0.13 |         -0.29 |
 |    5 | Vishi              |  26.0 |        41 |              |         -0.14 |
 |    6 | Jim Veitch         |  25.9 |       418 |        +0.27 |         +0.27 |
