@@ -94,7 +94,7 @@ Generated 2016-07-21.
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
 |   92 | Garvin Heath              |  23.4 |        28 |              |               |
-|   93 | Aditya Guntuboyina        |  23.2 |        72 |        +0.07 |         +2.10 |
+|   93 | Aditya Guntuboyina        |  23.3 |        73 |        +0.11 |         +2.14 |
 |   94 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   95 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   96 | Joe Farrell               |  23.0 |        30 |              |               |
@@ -150,11 +150,11 @@ Generated 2016-07-21.
 |  146 | Matthew Brett             |  20.7 |        20 |              |               |
 |  147 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  148 | Prakash Bathini           |  20.7 |       122 |        -0.12 |         -0.69 |
-|  149 | Sam McCormick             |  20.6 |        15 |        +0.01 |               |
-|  150 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  151 | Reid Johnsen              |  20.6 |        22 |              |         +6.11 |
-|  152 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  153 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  149 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  150 | Reid Johnsen              |  20.6 |        22 |              |         +6.11 |
+|  151 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  152 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  153 | Sam McCormick             |  20.5 |        15 |        -0.09 |               |
 |  154 | Andrew Green              |  20.5 |        52 |              |               |
 |  155 | Steven Sloman             |  20.4 |        10 |              |               |
 |  156 | Anirudh Todi              |  20.3 |         3 |              |               |
@@ -362,17 +362,17 @@ Generated 2016-07-21.
 |  358 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  359 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  360 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  361 | Sahar Sareminaeni         |   8.8 |         2 |              |               |
-|  362 | Daniel Schwartz           |   8.8 |        14 |        -0.36 |               |
-|  363 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  364 | Raphael Magarik           |   8.8 |         6 |              |               |
-|  365 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  366 | Therese Jones             |   8.7 |         6 |              |               |
-|  367 | Steven Yee                |   8.7 |         9 |              |               |
-|  368 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  369 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  370 | Jonas Hansen              |   8.6 |        14 |              |         +2.36 |
-|  371 | Brian Kempenich           |   8.4 |        32 |              |         -0.75 |
+|  361 | Daniel Schwartz           |   8.8 |        14 |        -0.36 |               |
+|  362 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  363 | Raphael Magarik           |   8.8 |         6 |              |               |
+|  364 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  365 | Therese Jones             |   8.7 |         6 |              |               |
+|  366 | Steven Yee                |   8.7 |         9 |              |               |
+|  367 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  368 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  369 | Jonas Hansen              |   8.6 |        14 |              |         +2.36 |
+|  370 | Brian Kempenich           |   8.4 |        32 |              |         -0.75 |
+|  371 | Sahar Sareminaeni         |   8.4 |         3 |              |               |
 |  372 | Reynold Xin               |   8.3 |         5 |              |               |
 |  373 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  374 | Josh Lebowitz             |   8.3 |        19 |        +0.65 |               |
