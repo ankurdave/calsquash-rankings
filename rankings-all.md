@@ -46,7 +46,7 @@ Generated 2016-07-21.
 |   42 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   43 | Mikey Zarem               |  26.1 |         8 |              |               |
 |   44 | Vishi                     |  26.0 |        41 |              |         -0.14 |
-|   45 | Jim Veitch                |  25.9 |       418 |        +0.27 |         +0.27 |
+|   45 | Jim Veitch                |  25.8 |       419 |        +0.20 |         +0.21 |
 |   46 | Peter McDermott           |  25.8 |        10 |              |               |
 |   47 | Andrew Hsu                |  25.8 |        15 |              |               |
 |   48 | Arvind Muralimohan        |  25.7 |        16 |              |               |
@@ -94,7 +94,7 @@ Generated 2016-07-21.
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
 |   92 | Garvin Heath              |  23.4 |        28 |              |               |
-|   93 | Aditya Guntuboyina        |  23.2 |        71 |              |         +2.03 |
+|   93 | Aditya Guntuboyina        |  23.2 |        72 |        +0.07 |         +2.10 |
 |   94 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   95 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   96 | Joe Farrell               |  23.0 |        30 |              |               |
@@ -150,7 +150,7 @@ Generated 2016-07-21.
 |  146 | Matthew Brett             |  20.7 |        20 |              |               |
 |  147 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  148 | Prakash Bathini           |  20.7 |       122 |        -0.12 |         -0.69 |
-|  149 | Sam McCormick             |  20.6 |        15 |        +0.02 |               |
+|  149 | Sam McCormick             |  20.6 |        15 |        +0.01 |               |
 |  150 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  151 | Reid Johnsen              |  20.6 |        22 |              |         +6.11 |
 |  152 | Natalie Bratwood          |  20.5 |         5 |              |               |

@@ -7,15 +7,15 @@ Generated 2016-07-21.
 |    3 | Sam Sternberg      |  30.3 |       117 |        +0.17 |         +1.05 |
 |    4 | Frank Kennamer     |  27.1 |       204 |        +0.13 |         -0.29 |
 |    5 | Vishi              |  26.0 |        41 |              |         -0.14 |
-|    6 | Jim Veitch         |  25.9 |       418 |        +0.27 |         +0.27 |
-|    7 | Aditya Guntuboyina |  23.2 |        71 |              |         +2.03 |
+|    6 | Jim Veitch         |  25.8 |       419 |        +0.20 |         +0.21 |
+|    7 | Aditya Guntuboyina |  23.2 |        72 |        +0.07 |         +2.10 |
 |    8 | Saurabh Bajaj      |  22.6 |        19 |              |               |
 |    9 | Dan Meier          |  22.3 |        44 |        -0.29 |         +1.83 |
 |   10 | Jonathan Hankar    |  22.2 |       176 |        +0.13 |         +0.17 |
 |   11 | Matt Wong          |  22.0 |        63 |        +0.27 |         +0.50 |
 |   12 | Mark Modera        |  21.1 |       302 |        -0.13 |         -1.65 |
 |   13 | Prakash Bathini    |  20.7 |       122 |        -0.12 |         -0.69 |
-|   14 | Sam McCormick      |  20.6 |        15 |        +0.02 |               |
+|   14 | Sam McCormick      |  20.6 |        15 |        +0.01 |               |
 |   15 | Reid Johnsen       |  20.6 |        22 |              |         +6.11 |
 |   16 | Mike Jensen-Akula  |  19.9 |       212 |        -0.31 |         -2.12 |
 |   17 | Jonathan Francis   |  19.6 |        59 |        -0.02 |         +0.29 |
