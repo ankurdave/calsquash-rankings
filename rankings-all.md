@@ -151,28 +151,28 @@ Generated 2016-07-23.
 |  147 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  148 | Prakash Bathini           |  20.7 |       122 |        -0.12 |         -0.69 |
 |  149 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  150 | Reid Johnsen              |  20.6 |        22 |              |         +6.11 |
-|  151 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  152 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  153 | Sam McCormick             |  20.5 |        15 |        -0.09 |               |
-|  154 | Andrew Green              |  20.5 |        52 |              |               |
-|  155 | Steven Sloman             |  20.4 |        10 |              |               |
-|  156 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  157 | Carl Schreck              |  20.2 |         2 |              |               |
+|  150 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  151 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  152 | Sam McCormick             |  20.5 |        15 |        -0.09 |               |
+|  153 | Andrew Green              |  20.5 |        52 |              |               |
+|  154 | Steven Sloman             |  20.4 |        10 |              |               |
+|  155 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  156 | Carl Schreck              |  20.2 |         2 |              |               |
+|  157 | Reid Johnsen              |  20.2 |        23 |        -0.41 |         +5.71 |
 |  158 | John Grim                 |  20.1 |        13 |              |               |
 |  159 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  160 | Frank Kennan              |  20.1 |        11 |              |               |
-|  161 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  162 | Wesley Huang              |  20.0 |         8 |              |               |
-|  163 | Mike Jensen-Akula         |  19.9 |       212 |        -0.31 |         -2.12 |
-|  164 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  165 | Liam King                 |  19.9 |         6 |              |               |
-|  166 | Lysander Jim              |  19.8 |         6 |              |               |
-|  167 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  168 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  169 | Mike Delanty              |  19.7 |        12 |              |               |
-|  170 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  171 | Jonathan Francis          |  19.6 |        59 |        -0.02 |         +0.29 |
+|  161 | Jonathan Francis          |  20.1 |        61 |        +0.44 |         +0.74 |
+|  162 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  163 | Wesley Huang              |  20.0 |         8 |              |               |
+|  164 | Mike Jensen-Akula         |  19.9 |       212 |        -0.31 |         -2.12 |
+|  165 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  166 | Liam King                 |  19.9 |         6 |              |               |
+|  167 | Lysander Jim              |  19.8 |         6 |              |               |
+|  168 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  169 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  170 | Mike Delanty              |  19.7 |        12 |              |               |
+|  171 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  172 | Andrew Proudfoot          |  19.6 |        26 |              |         +5.89 |
 |  173 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  174 | Jacob Kersey              |  19.6 |        15 |              |               |
@@ -222,10 +222,10 @@ Generated 2016-07-23.
 |  218 | Troup Howard              |  17.5 |        35 |        -0.16 |         -0.05 |
 |  219 | Eric Borden               |  17.4 |        24 |        -0.19 |               |
 |  220 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  221 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  222 | Craig Riddell             |  17.4 |         8 |              |               |
-|  223 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  224 | Wayne Heiser              |  17.3 |        22 |        -0.08 |               |
+|  221 | Wayne Heiser              |  17.4 |        22 |        -0.04 |               |
+|  222 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  223 | Craig Riddell             |  17.4 |         8 |              |               |
+|  224 | Charity Caruthers         |  17.3 |         4 |              |               |
 |  225 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  226 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  227 | Zach Brown                |  17.3 |         3 |              |               |
@@ -321,16 +321,16 @@ Generated 2016-07-23.
 |  317 | Aman Gupta                |  11.8 |         3 |              |               |
 |  318 | Mitchell O'Connell        |  11.8 |        32 |              |         +0.71 |
 |  319 | Julian Gill               |  11.8 |         1 |              |               |
-|  320 | Rodrigo Calmet            |  11.7 |         3 |              |               |
-|  321 | James Shinn               |  11.7 |       120 |              |               |
-|  322 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  323 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  324 | David Appelfeld           |  11.6 |        26 |              |               |
-|  325 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  326 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  327 | Jennifer Rha              |  11.4 |        12 |              |         +3.38 |
-|  328 | Carlos Filho              |  11.4 |         7 |              |               |
-|  329 | Karan Jain                |  11.3 |        19 |              |         +0.03 |
+|  320 | James Shinn               |  11.7 |       120 |              |               |
+|  321 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  322 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  323 | David Appelfeld           |  11.6 |        26 |              |               |
+|  324 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  325 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
+|  326 | Jennifer Rha              |  11.4 |        12 |              |         +3.38 |
+|  327 | Carlos Filho              |  11.4 |         7 |              |               |
+|  328 | Karan Jain                |  11.3 |        19 |              |         +0.03 |
+|  329 | Rodrigo Calmet            |  11.0 |         4 |        -0.69 |               |
 |  330 | Lucas Siow                |  11.0 |        10 |              |               |
 |  331 | Reto Sutter               |  11.0 |        42 |        -0.54 |         -0.45 |
 |  332 | Dominick Ng               |  10.9 |        25 |              |               |
