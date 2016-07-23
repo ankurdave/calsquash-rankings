@@ -93,8 +93,8 @@ Generated 2016-07-23.
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
-|   92 | Garvin Heath              |  23.4 |        28 |              |               |
-|   93 | Aditya Guntuboyina        |  23.3 |        73 |        +0.11 |         +2.14 |
+|   92 | Aditya Guntuboyina        |  23.5 |        74 |        +0.30 |         +2.33 |
+|   93 | Garvin Heath              |  23.4 |        28 |              |               |
 |   94 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   95 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   96 | Joe Farrell               |  23.0 |        30 |              |               |
@@ -138,11 +138,11 @@ Generated 2016-07-23.
 |  134 | Casey Harelson            |  21.2 |        20 |              |               |
 |  135 | Philip Bildner            |  21.2 |        22 |              |               |
 |  136 | Darren Morgan             |  21.2 |        11 |              |               |
-|  137 | Mark Modera               |  21.1 |       302 |        -0.13 |         -1.65 |
-|  138 | Jared Bard                |  21.1 |        27 |              |         +2.15 |
-|  139 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  140 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  141 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  137 | Jared Bard                |  21.1 |        27 |              |         +2.15 |
+|  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  139 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  140 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  141 | Mark Modera               |  20.9 |       303 |        -0.32 |         -1.84 |
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
