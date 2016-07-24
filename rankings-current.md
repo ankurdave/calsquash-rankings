@@ -2,19 +2,19 @@ Generated 2016-07-24.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
-|    1 | Thomas Lowish      |  34.4 |        13 |        -0.01 |         +3.36 |
-|    2 | Eric Katerman      |  30.6 |        13 |        +0.40 |               |
-|    3 | Sam Sternberg      |  30.3 |       117 |        +0.17 |         +1.05 |
+|    1 | Thomas Lowish      |  34.8 |        14 |        +0.37 |         +3.74 |
+|    2 | Eric Katerman      |  30.3 |        14 |        +0.14 |               |
+|    3 | Sam Sternberg      |  30.3 |       117 |        +0.16 |         +1.03 |
 |    4 | Frank Kennamer     |  27.1 |       204 |        +0.13 |         -0.29 |
 |    5 | Vishi              |  26.0 |        41 |              |         -0.14 |
-|    6 | Jim Veitch         |  25.8 |       419 |        +0.20 |         +0.21 |
+|    6 | Jim Veitch         |  25.8 |       419 |        +0.18 |         +0.18 |
 |    7 | Aditya Guntuboyina |  23.5 |        74 |        +0.30 |         +2.33 |
-|    8 | Saurabh Bajaj      |  22.6 |        19 |              |               |
-|    9 | Dan Meier          |  22.3 |        44 |        -0.29 |         +1.83 |
+|    8 | Dan Meier          |  22.3 |        44 |        -0.30 |         +1.83 |
+|    9 | Matt Wong          |  22.2 |        64 |        +0.52 |         +0.75 |
 |   10 | Jonathan Hankar    |  22.2 |       177 |        +0.15 |         +0.20 |
-|   11 | Matt Wong          |  22.0 |        63 |        +0.27 |         +0.50 |
-|   12 | Mark Modera        |  20.9 |       303 |        -0.32 |         -1.84 |
-|   13 | Prakash Bathini    |  20.7 |       122 |        -0.12 |         -0.69 |
+|   11 | Saurabh Bajaj      |  22.1 |        20 |        -0.45 |               |
+|   12 | Mark Modera        |  20.9 |       304 |        -0.36 |         -1.88 |
+|   13 | Prakash Bathini    |  20.7 |       122 |        -0.10 |         -0.68 |
 |   14 | Sam McCormick      |  20.5 |        15 |        -0.09 |               |
 |   15 | Reid Johnsen       |  20.2 |        24 |        -0.35 |         +5.76 |
 |   16 | Jonathan Francis   |  20.1 |        61 |        +0.43 |         +0.74 |
@@ -25,7 +25,7 @@ Generated 2016-07-24.
 |   21 | Dror Matalon       |  18.3 |       342 |        +0.35 |         -0.15 |
 |   22 | Subrato Dey        |  17.9 |        23 |        -0.21 |               |
 |   23 | Josh Trauner       |  17.9 |        28 |        +0.34 |               |
-|   24 | Troup Howard       |  17.5 |        35 |        -0.16 |         -0.05 |
+|   24 | Troup Howard       |  17.5 |        35 |        -0.15 |         -0.04 |
 |   25 | Eric Borden        |  17.4 |        24 |        -0.19 |               |
 |   26 | Wayne Heiser       |  17.4 |        22 |        -0.04 |               |
 |   27 | Kent Daniels       |  15.5 |        81 |        +0.36 |         +1.13 |
@@ -36,16 +36,16 @@ Generated 2016-07-24.
 |   32 | Rodrigo Calmet     |  11.0 |         4 |        -0.69 |               |
 |   33 | Reto Sutter        |  11.0 |        42 |        -0.54 |         -0.45 |
 |   34 | Daniel Schwartz    |   8.8 |        14 |        -0.36 |               |
-|   35 | Brian Kempenich    |   8.4 |        32 |              |         -0.75 |
-|   36 | Sahar Sareminaeni  |   8.4 |         3 |              |               |
-|   37 | Josh Lebowitz      |   8.3 |        19 |        +0.65 |               |
-|   38 | Duo Wang           |   8.2 |        58 |              |         +1.14 |
-|   39 | Nate Aden          |   8.2 |        16 |        +0.45 |               |
-|   40 | Alok Singh         |   6.0 |        11 |              |               |
-|   41 | Keaton Noon        |   5.8 |        14 |              |               |
-|   42 | Ji Seop Oh         |   2.9 |         2 |              |               |
-|   43 | Ryan               |   2.3 |         2 |              |               |
-|   44 | Robert Isaac       |   2.3 |         1 |              |               |
+|   35 | Robert Isaac       |   8.5 |         2 |              |               |
+|   36 | Brian Kempenich    |   8.4 |        32 |              |         -0.75 |
+|   37 | Sahar Sareminaeni  |   8.4 |         3 |              |               |
+|   38 | Josh Lebowitz      |   8.3 |        19 |        +0.65 |               |
+|   39 | Duo Wang           |   8.2 |        58 |              |         +1.14 |
+|   40 | Nate Aden          |   8.2 |        16 |        +0.45 |               |
+|   41 | Alok Singh         |   6.0 |        11 |              |               |
+|   42 | Keaton Noon        |   5.8 |        14 |              |               |
+|   43 | Ji Seop Oh         |   2.9 |         2 |              |               |
+|   44 | Ryan               |   2.3 |         2 |              |               |
 |   45 | Nakul Vakil        |   0.0 |         4 |        -0.15 |               |
 |   46 | Cristhian Daniel   |  -1.1 |         3 |              |               |
 |   47 | Sameer Bajaj       |  -1.3 |         1 |              |               |
