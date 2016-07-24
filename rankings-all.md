@@ -16,9 +16,9 @@ Generated 2016-07-24.
 |   12 | Jeff Grant                |  31.3 |       207 |              |               |
 |   13 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   15 | Eric Katerman             |  30.3 |        14 |        +0.14 |               |
-|   16 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
-|   17 | Sam Sternberg             |  30.3 |       117 |        +0.16 |         +1.03 |
+|   15 | Sam Sternberg             |  30.4 |       118 |        +0.33 |         +1.20 |
+|   16 | Eric Katerman             |  30.3 |        14 |        +0.14 |               |
+|   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
@@ -33,10 +33,10 @@ Generated 2016-07-24.
 |   29 | Grant French              |  27.5 |       125 |              |               |
 |   30 | Stephen Dang              |  27.2 |        34 |              |               |
 |   31 | Samer Shehata             |  27.2 |        29 |              |               |
-|   32 | Frank Kennamer            |  27.1 |       204 |        +0.13 |         -0.29 |
-|   33 | Hussain Raza              |  27.0 |        50 |              |               |
-|   34 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   35 | Alan Jose                 |  26.9 |       182 |              |               |
+|   32 | Hussain Raza              |  27.0 |        50 |              |               |
+|   33 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   34 | Alan Jose                 |  26.9 |       182 |              |               |
+|   35 | Frank Kennamer            |  26.9 |       205 |        -0.04 |         -0.45 |
 |   36 | Michael Best              |  26.9 |        21 |              |               |
 |   37 | Josh Taylor               |  26.8 |        40 |              |               |
 |   38 | David Hwang               |  26.8 |        44 |              |               |
@@ -108,7 +108,7 @@ Generated 2016-07-24.
 |  104 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  105 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  106 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  107 | Dan Meier                 |  22.3 |        44 |        -0.30 |         +1.83 |
+|  107 | Dan Meier                 |  22.3 |        44 |        -0.29 |         +1.83 |
 |  108 | Matt Wong                 |  22.2 |        64 |        +0.52 |         +0.75 |
 |  109 | Jonathan Hankar           |  22.2 |       177 |        +0.15 |         +0.20 |
 |  110 | Robert Geiger             |  22.2 |         8 |              |               |
