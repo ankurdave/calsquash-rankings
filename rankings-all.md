@@ -204,11 +204,11 @@ Generated 2016-07-23.
 |  200 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  201 | John Eng                  |  18.4 |        28 |              |               |
 |  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  203 | Dror Matalon              |  18.3 |       342 |        +0.35 |         -0.15 |
-|  204 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  205 | Bob Roller                |  18.2 |         6 |              |               |
-|  206 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  207 | Shaun Lim                 |  18.0 |        36 |              |         +0.11 |
+|  203 | Shaun Lim                 |  18.3 |        38 |        +0.28 |         +0.39 |
+|  204 | Dror Matalon              |  18.3 |       342 |        +0.35 |         -0.15 |
+|  205 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  206 | Bob Roller                |  18.2 |         6 |              |               |
+|  207 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  208 | Subrato Dey               |  17.9 |        23 |        -0.21 |               |
 |  209 | Josh Trauner              |  17.9 |        28 |        +0.34 |               |
 |  210 | James Chung               |  17.9 |         7 |              |               |
@@ -259,13 +259,13 @@ Generated 2016-07-23.
 |  255 | Jared Nunn                |  15.7 |         5 |              |               |
 |  256 | Akash Sharma              |  15.7 |         8 |              |               |
 |  257 | Angie Ng                  |  15.7 |        12 |              |               |
-|  258 | Kent Daniels              |  15.6 |        80 |        +0.40 |         +1.17 |
-|  259 | Tanit Follett             |  15.5 |         8 |              |               |
-|  260 | Toni Queck                |  15.5 |        20 |              |               |
+|  258 | Tanit Follett             |  15.5 |         8 |              |               |
+|  259 | Toni Queck                |  15.5 |        20 |              |               |
+|  260 | Kent Daniels              |  15.5 |        81 |        +0.36 |         +1.13 |
 |  261 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  262 | Terry Chang               |  15.4 |        38 |        -0.20 |         +1.75 |
-|  263 | Peter Duerr               |  15.4 |        24 |              |               |
-|  264 | Kevin Fox                 |  15.3 |         7 |              |         +3.18 |
+|  262 | Peter Duerr               |  15.4 |        24 |              |               |
+|  263 | Kevin Fox                 |  15.3 |         7 |              |         +3.18 |
+|  264 | Terry Chang               |  15.2 |        39 |        -0.39 |         +1.56 |
 |  265 | Jim Evans                 |  15.1 |       216 |              |               |
 |  266 | Dennis Chan               |  15.1 |         1 |              |               |
 |  267 | Allie Giovanelli          |  15.0 |         4 |              |               |
@@ -475,7 +475,7 @@ Generated 2016-07-23.
 |  471 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  472 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
 |  473 | Cristhian Daniel          |  -1.1 |         3 |              |               |
-|  474 | Sameer Bajaj              |  -1.2 |         1 |              |               |
+|  474 | Sameer Bajaj              |  -1.3 |         1 |              |               |
 |  475 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  476 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  477 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |

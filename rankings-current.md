@@ -21,15 +21,15 @@ Generated 2016-07-23.
 |   17 | Mike Jensen-Akula  |  19.9 |       212 |        -0.31 |         -2.12 |
 |   18 | Jeff Gordon        |  19.1 |        25 |        +0.32 |               |
 |   19 | Kenny Bell         |  18.8 |       110 |        -0.20 |         +1.55 |
-|   20 | Dror Matalon       |  18.3 |       342 |        +0.35 |         -0.15 |
-|   21 | Shaun Lim          |  18.0 |        36 |              |         +0.11 |
+|   20 | Shaun Lim          |  18.3 |        38 |        +0.28 |         +0.39 |
+|   21 | Dror Matalon       |  18.3 |       342 |        +0.35 |         -0.15 |
 |   22 | Subrato Dey        |  17.9 |        23 |        -0.21 |               |
 |   23 | Josh Trauner       |  17.9 |        28 |        +0.34 |               |
 |   24 | Troup Howard       |  17.5 |        35 |        -0.16 |         -0.05 |
 |   25 | Eric Borden        |  17.4 |        24 |        -0.19 |               |
 |   26 | Wayne Heiser       |  17.4 |        22 |        -0.04 |               |
-|   27 | Kent Daniels       |  15.6 |        80 |        +0.40 |         +1.17 |
-|   28 | Terry Chang        |  15.4 |        38 |        -0.20 |         +1.75 |
+|   27 | Kent Daniels       |  15.5 |        81 |        +0.36 |         +1.13 |
+|   28 | Terry Chang        |  15.2 |        39 |        -0.39 |         +1.56 |
 |   29 | Ankur Dave         |  13.7 |        42 |        +0.26 |         +1.15 |
 |   30 | Nikhil Paranjape   |  13.2 |        18 |        +1.55 |               |
 |   31 | Jennifer Rha       |  11.4 |        12 |              |         +3.38 |
@@ -48,4 +48,4 @@ Generated 2016-07-23.
 |   44 | Robert Isaac       |   2.3 |         1 |              |               |
 |   45 | Nakul Vakil        |   0.0 |         4 |        -0.15 |               |
 |   46 | Cristhian Daniel   |  -1.1 |         3 |              |               |
-|   47 | Sameer Bajaj       |  -1.2 |         1 |              |               |
+|   47 | Sameer Bajaj       |  -1.3 |         1 |              |               |
