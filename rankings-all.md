@@ -110,9 +110,9 @@ Generated 2016-07-23.
 |  106 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  107 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  108 | Dan Meier                 |  22.3 |        44 |        -0.29 |         +1.83 |
-|  109 | Robert Geiger             |  22.2 |         8 |              |               |
-|  110 | Aaron Socha               |  22.2 |        24 |              |               |
-|  111 | Jonathan Hankar           |  22.2 |       176 |        +0.13 |         +0.17 |
+|  109 | Jonathan Hankar           |  22.2 |       177 |        +0.15 |         +0.20 |
+|  110 | Robert Geiger             |  22.2 |         8 |              |               |
+|  111 | Aaron Socha               |  22.2 |        24 |              |               |
 |  112 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  113 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  114 | Britta Gardner            |  22.1 |        16 |              |               |
@@ -157,12 +157,12 @@ Generated 2016-07-23.
 |  153 | Andrew Green              |  20.5 |        52 |              |               |
 |  154 | Steven Sloman             |  20.4 |        10 |              |               |
 |  155 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  156 | Carl Schreck              |  20.2 |         2 |              |               |
-|  157 | Reid Johnsen              |  20.2 |        23 |        -0.41 |         +5.71 |
+|  156 | Reid Johnsen              |  20.2 |        24 |        -0.35 |         +5.76 |
+|  157 | Carl Schreck              |  20.2 |         2 |              |               |
 |  158 | John Grim                 |  20.1 |        13 |              |               |
 |  159 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  160 | Frank Kennan              |  20.1 |        11 |              |               |
-|  161 | Jonathan Francis          |  20.1 |        61 |        +0.44 |         +0.74 |
+|  161 | Jonathan Francis          |  20.1 |        61 |        +0.43 |         +0.74 |
 |  162 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  163 | Wesley Huang              |  20.0 |         8 |              |               |
 |  164 | Mike Jensen-Akula         |  19.9 |       212 |        -0.31 |         -2.12 |
