@@ -9,10 +9,10 @@ Generated 2016-07-24.
 |    5 | Vishi              |  26.0 |        41 |              |         -0.14 |
 |    6 | Jim Veitch         |  25.8 |       419 |        +0.18 |         +0.18 |
 |    7 | Aditya Guntuboyina |  23.5 |        74 |        +0.30 |         +2.33 |
-|    8 | Dan Meier          |  22.3 |        44 |        -0.29 |         +1.83 |
-|    9 | Matt Wong          |  22.2 |        64 |        +0.52 |         +0.75 |
-|   10 | Jonathan Hankar    |  22.2 |       177 |        +0.15 |         +0.20 |
-|   11 | Saurabh Bajaj      |  22.1 |        20 |        -0.45 |               |
+|    8 | Saurabh Bajaj      |  22.4 |        21 |        -0.16 |               |
+|    9 | Dan Meier          |  22.3 |        44 |        -0.29 |         +1.83 |
+|   10 | Matt Wong          |  22.2 |        64 |        +0.52 |         +0.75 |
+|   11 | Jonathan Hankar    |  22.2 |       177 |        +0.15 |         +0.20 |
 |   12 | Mark Modera        |  20.9 |       304 |        -0.36 |         -1.88 |
 |   13 | Prakash Bathini    |  20.7 |       122 |        -0.10 |         -0.68 |
 |   14 | Sam McCormick      |  20.5 |        15 |        -0.09 |               |
@@ -25,8 +25,8 @@ Generated 2016-07-24.
 |   21 | Dror Matalon       |  18.3 |       342 |        +0.35 |         -0.15 |
 |   22 | Subrato Dey        |  17.9 |        23 |        -0.21 |               |
 |   23 | Josh Trauner       |  17.9 |        28 |        +0.34 |               |
-|   24 | Troup Howard       |  17.5 |        35 |        -0.15 |         -0.04 |
-|   25 | Eric Borden        |  17.4 |        24 |        -0.19 |               |
+|   24 | Eric Borden        |  17.4 |        24 |        -0.19 |               |
+|   25 | Troup Howard       |  17.4 |        36 |        -0.27 |         -0.16 |
 |   26 | Wayne Heiser       |  17.4 |        22 |        -0.04 |               |
 |   27 | Kent Daniels       |  15.5 |        81 |        +0.36 |         +1.13 |
 |   28 | Terry Chang        |  15.2 |        39 |        -0.39 |         +1.56 |

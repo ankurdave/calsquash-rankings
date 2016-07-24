@@ -106,15 +106,15 @@ Generated 2016-07-24.
 |  102 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  103 | Dev Millstein             |  22.6 |        92 |              |               |
 |  104 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  105 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  106 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  107 | Dan Meier                 |  22.3 |        44 |        -0.29 |         +1.83 |
-|  108 | Matt Wong                 |  22.2 |        64 |        +0.52 |         +0.75 |
-|  109 | Jonathan Hankar           |  22.2 |       177 |        +0.15 |         +0.20 |
-|  110 | Robert Geiger             |  22.2 |         8 |              |               |
-|  111 | Aaron Socha               |  22.2 |        24 |              |               |
-|  112 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  113 | Saurabh Bajaj             |  22.1 |        20 |        -0.45 |               |
+|  105 | Saurabh Bajaj             |  22.4 |        21 |        -0.16 |               |
+|  106 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  107 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  108 | Dan Meier                 |  22.3 |        44 |        -0.29 |         +1.83 |
+|  109 | Matt Wong                 |  22.2 |        64 |        +0.52 |         +0.75 |
+|  110 | Jonathan Hankar           |  22.2 |       177 |        +0.15 |         +0.20 |
+|  111 | Robert Geiger             |  22.2 |         8 |              |               |
+|  112 | Aaron Socha               |  22.2 |        24 |              |               |
+|  113 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  114 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  115 | Britta Gardner            |  22.1 |        16 |              |               |
 |  116 | Niklas Linde              |  22.1 |        23 |              |               |
@@ -219,9 +219,9 @@ Generated 2016-07-24.
 |  215 | George Roche              |  17.7 |        14 |              |         +2.59 |
 |  216 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  217 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  218 | Troup Howard              |  17.5 |        35 |        -0.15 |         -0.04 |
-|  219 | Eric Borden               |  17.4 |        24 |        -0.19 |               |
-|  220 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  218 | Eric Borden               |  17.4 |        24 |        -0.19 |               |
+|  219 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  220 | Troup Howard              |  17.4 |        36 |        -0.27 |         -0.16 |
 |  221 | Wayne Heiser              |  17.4 |        22 |        -0.04 |               |
 |  222 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  223 | Craig Riddell             |  17.4 |         8 |              |               |
