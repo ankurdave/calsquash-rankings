@@ -204,8 +204,8 @@ Generated 2016-07-25.
 |  200 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  201 | John Eng                  |  18.4 |        28 |              |               |
 |  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  203 | Shaun Lim                 |  18.3 |        38 |        +0.28 |         +0.39 |
-|  204 | Dror Matalon              |  18.3 |       342 |        +0.35 |         -0.15 |
+|  203 | Dror Matalon              |  18.3 |       343 |        +0.40 |         -0.10 |
+|  204 | Shaun Lim                 |  18.3 |        38 |        +0.28 |         +0.39 |
 |  205 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  206 | Bob Roller                |  18.2 |         6 |              |               |
 |  207 | Jamie Paterson            |  18.1 |         4 |              |               |
@@ -219,7 +219,7 @@ Generated 2016-07-25.
 |  215 | George Roche              |  17.7 |        14 |              |         +2.59 |
 |  216 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  217 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  218 | Eric Borden               |  17.4 |        24 |        -0.19 |               |
+|  218 | Eric Borden               |  17.4 |        25 |        -0.20 |               |
 |  219 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  220 | Troup Howard              |  17.4 |        36 |        -0.27 |         -0.16 |
 |  221 | Wayne Heiser              |  17.4 |        22 |        -0.04 |               |
