@@ -10,14 +10,14 @@ Generated 2016-07-24.
 |    6 | Jim Veitch         |  25.8 |       419 |        +0.18 |         +0.18 |
 |    7 | Aditya Guntuboyina |  23.5 |        74 |        +0.30 |         +2.33 |
 |    8 | Saurabh Bajaj      |  22.4 |        21 |        -0.16 |               |
-|    9 | Dan Meier          |  22.3 |        44 |        -0.29 |         +1.83 |
-|   10 | Matt Wong          |  22.2 |        64 |        +0.52 |         +0.75 |
-|   11 | Jonathan Hankar    |  22.2 |       177 |        +0.15 |         +0.20 |
+|    9 | Jonathan Hankar    |  22.3 |       178 |        +0.20 |         +0.25 |
+|   10 | Dan Meier          |  22.3 |        44 |        -0.29 |         +1.83 |
+|   11 | Matt Wong          |  22.2 |        64 |        +0.52 |         +0.75 |
 |   12 | Mark Modera        |  20.9 |       304 |        -0.36 |         -1.88 |
 |   13 | Prakash Bathini    |  20.7 |       122 |        -0.10 |         -0.68 |
 |   14 | Sam McCormick      |  20.5 |        15 |        -0.09 |               |
 |   15 | Reid Johnsen       |  20.2 |        24 |        -0.35 |         +5.76 |
-|   16 | Jonathan Francis   |  20.1 |        61 |        +0.43 |         +0.74 |
+|   16 | Jonathan Francis   |  20.0 |        62 |        +0.38 |         +0.69 |
 |   17 | Mike Jensen-Akula  |  19.9 |       212 |        -0.31 |         -2.12 |
 |   18 | Jeff Gordon        |  19.1 |        25 |        +0.32 |               |
 |   19 | Kenny Bell         |  18.8 |       110 |        -0.20 |         +1.55 |
@@ -33,7 +33,7 @@ Generated 2016-07-24.
 |   29 | Ankur Dave         |  13.7 |        42 |        +0.26 |         +1.15 |
 |   30 | Nikhil Paranjape   |  13.2 |        18 |        +1.55 |               |
 |   31 | Jennifer Rha       |  11.4 |        12 |              |         +3.38 |
-|   32 | Rodrigo Calmet     |  11.0 |         4 |        -0.69 |               |
+|   32 | Rodrigo Calmet     |  11.0 |         4 |        -0.70 |               |
 |   33 | Reto Sutter        |  11.0 |        42 |        -0.54 |         -0.45 |
 |   34 | Daniel Schwartz    |   8.8 |        14 |        -0.36 |               |
 |   35 | Robert Isaac       |   8.5 |         2 |              |               |

@@ -109,9 +109,9 @@ Generated 2016-07-24.
 |  105 | Saurabh Bajaj             |  22.4 |        21 |        -0.16 |               |
 |  106 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  107 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  108 | Dan Meier                 |  22.3 |        44 |        -0.29 |         +1.83 |
-|  109 | Matt Wong                 |  22.2 |        64 |        +0.52 |         +0.75 |
-|  110 | Jonathan Hankar           |  22.2 |       177 |        +0.15 |         +0.20 |
+|  108 | Jonathan Hankar           |  22.3 |       178 |        +0.20 |         +0.25 |
+|  109 | Dan Meier                 |  22.3 |        44 |        -0.29 |         +1.83 |
+|  110 | Matt Wong                 |  22.2 |        64 |        +0.52 |         +0.75 |
 |  111 | Robert Geiger             |  22.2 |         8 |              |               |
 |  112 | Aaron Socha               |  22.2 |        24 |              |               |
 |  113 | Robert Ashmore            |  22.2 |       104 |              |               |
@@ -162,7 +162,7 @@ Generated 2016-07-24.
 |  158 | John Grim                 |  20.1 |        13 |              |               |
 |  159 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  160 | Frank Kennan              |  20.1 |        11 |              |               |
-|  161 | Jonathan Francis          |  20.1 |        61 |        +0.43 |         +0.74 |
+|  161 | Jonathan Francis          |  20.0 |        62 |        +0.38 |         +0.69 |
 |  162 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  163 | Wesley Huang              |  20.0 |         8 |              |               |
 |  164 | Mike Jensen-Akula         |  19.9 |       212 |        -0.31 |         -2.12 |
@@ -330,7 +330,7 @@ Generated 2016-07-24.
 |  326 | Jennifer Rha              |  11.4 |        12 |              |         +3.38 |
 |  327 | Carlos Filho              |  11.4 |         7 |              |               |
 |  328 | Karan Jain                |  11.3 |        19 |              |         +0.03 |
-|  329 | Rodrigo Calmet            |  11.0 |         4 |        -0.69 |               |
+|  329 | Rodrigo Calmet            |  11.0 |         4 |        -0.70 |               |
 |  330 | Lucas Siow                |  11.0 |        10 |              |               |
 |  331 | Reto Sutter               |  11.0 |        42 |        -0.54 |         -0.45 |
 |  332 | Dominick Ng               |  10.9 |        25 |              |               |
