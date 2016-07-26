@@ -22,13 +22,13 @@ Generated 2016-07-25.
 |   18 | Jeff Gordon        |  19.1 |        25 |        +0.32 |               |
 |   19 | Kenny Bell         |  18.8 |       110 |        -0.20 |         +1.55 |
 |   20 | Dror Matalon       |  18.3 |       343 |        +0.40 |         -0.10 |
-|   21 | Shaun Lim          |  18.3 |        38 |        +0.28 |         +0.39 |
+|   21 | Shaun Lim          |  18.2 |        39 |        +0.14 |         +0.24 |
 |   22 | Subrato Dey        |  17.9 |        23 |        -0.21 |               |
 |   23 | Josh Trauner       |  17.9 |        28 |        +0.34 |               |
 |   24 | Eric Borden        |  17.4 |        25 |        -0.20 |               |
 |   25 | Troup Howard       |  17.4 |        36 |        -0.27 |         -0.16 |
 |   26 | Wayne Heiser       |  17.4 |        22 |        -0.04 |               |
-|   27 | Kent Daniels       |  15.5 |        81 |        +0.36 |         +1.13 |
+|   27 | Kent Daniels       |  15.5 |        81 |        +0.35 |         +1.12 |
 |   28 | Terry Chang        |  15.2 |        39 |        -0.39 |         +1.56 |
 |   29 | Ankur Dave         |  13.7 |        42 |        +0.26 |         +1.15 |
 |   30 | Nikhil Paranjape   |  13.1 |        19 |        +1.46 |               |
@@ -44,8 +44,8 @@ Generated 2016-07-25.
 |   40 | Duo Wang           |   8.2 |        58 |              |         +1.14 |
 |   41 | Alok Singh         |   6.0 |        11 |              |               |
 |   42 | Keaton Noon        |   5.8 |        14 |              |               |
-|   43 | Ryan               |   4.2 |         3 |        +1.83 |               |
-|   44 | Ji Seop Oh         |   2.9 |         2 |              |               |
-|   45 | Nakul Vakil        |   0.0 |         4 |        -0.15 |               |
-|   46 | Cristhian Daniel   |  -1.1 |         3 |              |               |
-|   47 | Sameer Bajaj       |  -1.3 |         1 |              |               |
+|   43 | Sameer Bajaj       |   4.5 |         2 |              |               |
+|   44 | Ryan               |   4.2 |         3 |        +1.83 |               |
+|   45 | Ji Seop Oh         |   2.9 |         2 |              |               |
+|   46 | Nakul Vakil        |   0.0 |         4 |        -0.15 |               |
+|   47 | Cristhian Daniel   |  -1.1 |         3 |              |               |
