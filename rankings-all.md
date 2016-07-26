@@ -330,9 +330,9 @@ Generated 2016-07-26.
 |  326 | Jennifer Rha              |  11.4 |        12 |              |         +3.38 |
 |  327 | Carlos Filho              |  11.4 |         7 |              |               |
 |  328 | Karan Jain                |  11.3 |        19 |              |         +0.03 |
-|  329 | Reto Sutter               |  11.0 |        42 |        -0.54 |         -0.45 |
-|  330 | Lucas Siow                |  11.0 |        10 |              |               |
-|  331 | Dominick Ng               |  10.9 |        25 |              |               |
+|  329 | Lucas Siow                |  11.0 |        10 |              |               |
+|  330 | Dominick Ng               |  10.9 |        25 |              |               |
+|  331 | Reto Sutter               |  10.9 |        43 |        -0.66 |         -0.57 |
 |  332 | Rodrigo Calmet            |  10.8 |         5 |        -0.95 |               |
 |  333 | George Bentley            |  10.6 |         4 |              |               |
 |  334 | Sudeep Agarwal            |  10.5 |         3 |              |               |
@@ -362,22 +362,22 @@ Generated 2016-07-26.
 |  358 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  359 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  360 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  361 | Daniel Schwartz           |   8.8 |        14 |        -0.35 |               |
-|  362 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  363 | Raphael Magarik           |   8.8 |         6 |              |               |
-|  364 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  365 | Therese Jones             |   8.7 |         6 |              |               |
-|  366 | Steven Yee                |   8.7 |         9 |              |               |
-|  367 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  368 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  369 | Jonas Hansen              |   8.6 |        14 |              |         +2.36 |
-|  370 | Robert Isaac              |   8.5 |         2 |              |               |
-|  371 | Brian Kempenich           |   8.4 |        32 |              |         -0.75 |
-|  372 | Sahar Sareminaeni         |   8.4 |         3 |              |               |
-|  373 | Reynold Xin               |   8.3 |         5 |              |               |
-|  374 | Nate Aden                 |   8.3 |        16 |        +0.56 |               |
-|  375 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  376 | Josh Lebowitz             |   8.2 |        19 |        +0.64 |               |
+|  361 | Josh Lebowitz             |   8.9 |        20 |        +1.30 |               |
+|  362 | Daniel Schwartz           |   8.8 |        14 |        -0.35 |               |
+|  363 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  364 | Raphael Magarik           |   8.8 |         6 |              |               |
+|  365 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  366 | Therese Jones             |   8.7 |         6 |              |               |
+|  367 | Steven Yee                |   8.7 |         9 |              |               |
+|  368 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  369 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  370 | Jonas Hansen              |   8.6 |        14 |              |         +2.36 |
+|  371 | Robert Isaac              |   8.5 |         2 |              |               |
+|  372 | Brian Kempenich           |   8.4 |        32 |              |         -0.75 |
+|  373 | Sahar Sareminaeni         |   8.4 |         3 |              |               |
+|  374 | Reynold Xin               |   8.3 |         5 |              |               |
+|  375 | Nate Aden                 |   8.3 |        16 |        +0.56 |               |
+|  376 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  377 | Duo Wang                  |   8.2 |        58 |              |         +1.14 |
 |  378 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  379 | Vishnu Narayanan          |   8.2 |        12 |              |               |

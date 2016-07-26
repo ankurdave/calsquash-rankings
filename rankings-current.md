@@ -33,14 +33,14 @@ Generated 2016-07-26.
 |   29 | Ankur Dave         |  13.7 |        42 |        +0.26 |         +1.15 |
 |   30 | Nikhil Paranjape   |  13.1 |        19 |        +1.46 |               |
 |   31 | Jennifer Rha       |  11.4 |        12 |              |         +3.38 |
-|   32 | Reto Sutter        |  11.0 |        42 |        -0.54 |         -0.45 |
+|   32 | Reto Sutter        |  10.9 |        43 |        -0.66 |         -0.57 |
 |   33 | Rodrigo Calmet     |  10.8 |         5 |        -0.95 |               |
-|   34 | Daniel Schwartz    |   8.8 |        14 |        -0.35 |               |
-|   35 | Robert Isaac       |   8.5 |         2 |              |               |
-|   36 | Brian Kempenich    |   8.4 |        32 |              |         -0.75 |
-|   37 | Sahar Sareminaeni  |   8.4 |         3 |              |               |
-|   38 | Nate Aden          |   8.3 |        16 |        +0.56 |               |
-|   39 | Josh Lebowitz      |   8.2 |        19 |        +0.64 |               |
+|   34 | Josh Lebowitz      |   8.9 |        20 |        +1.30 |               |
+|   35 | Daniel Schwartz    |   8.8 |        14 |        -0.35 |               |
+|   36 | Robert Isaac       |   8.5 |         2 |              |               |
+|   37 | Brian Kempenich    |   8.4 |        32 |              |         -0.75 |
+|   38 | Sahar Sareminaeni  |   8.4 |         3 |              |               |
+|   39 | Nate Aden          |   8.3 |        16 |        +0.56 |               |
 |   40 | Duo Wang           |   8.2 |        58 |              |         +1.14 |
 |   41 | Alok Singh         |   6.0 |        11 |              |               |
 |   42 | Keaton Noon        |   5.8 |        14 |              |               |
