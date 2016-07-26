@@ -13,10 +13,10 @@ Generated 2016-07-26.
 |    9 | Jonathan Hankar    |  22.3 |       178 |        +0.22 |         +0.26 |
 |   10 | Dan Meier          |  22.3 |        44 |        -0.29 |         +1.83 |
 |   11 | Matt Wong          |  22.2 |        64 |        +0.52 |         +0.75 |
-|   12 | Mark Modera        |  20.9 |       304 |        -0.36 |         -1.88 |
+|   12 | Mark Modera        |  20.9 |       305 |        -0.32 |         -1.84 |
 |   13 | Prakash Bathini    |  20.7 |       122 |        -0.10 |         -0.68 |
-|   14 | Sam McCormick      |  20.5 |        15 |        -0.09 |               |
-|   15 | Reid Johnsen       |  20.4 |        25 |        -0.15 |         +5.96 |
+|   14 | Reid Johnsen       |  20.4 |        25 |        -0.15 |         +5.96 |
+|   15 | Sam McCormick      |  20.4 |        15 |        -0.18 |               |
 |   16 | Jonathan Francis   |  20.0 |        62 |        +0.36 |         +0.67 |
 |   17 | Mike Jensen-Akula  |  19.9 |       212 |        -0.31 |         -2.12 |
 |   18 | Jeff Gordon        |  19.1 |        25 |        +0.32 |               |
@@ -39,9 +39,9 @@ Generated 2016-07-26.
 |   35 | Daniel Schwartz    |   8.8 |        14 |        -0.35 |               |
 |   36 | Robert Isaac       |   8.5 |         2 |              |               |
 |   37 | Brian Kempenich    |   8.4 |        32 |              |         -0.75 |
-|   38 | Sahar Sareminaeni  |   8.4 |         3 |              |               |
-|   39 | Nate Aden          |   8.3 |        16 |        +0.56 |               |
-|   40 | Duo Wang           |   8.2 |        58 |              |         +1.14 |
+|   38 | Nate Aden          |   8.3 |        16 |        +0.56 |               |
+|   39 | Duo Wang           |   8.2 |        58 |              |         +1.14 |
+|   40 | Sahar Sareminaeni  |   7.8 |         4 |              |               |
 |   41 | Alok Singh         |   6.0 |        11 |              |               |
 |   42 | Keaton Noon        |   5.8 |        14 |              |               |
 |   43 | Sameer Bajaj       |   4.5 |         2 |              |               |

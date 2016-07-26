@@ -142,9 +142,9 @@ Generated 2016-07-26.
 |  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  139 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  140 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  141 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  142 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  143 | Mark Modera               |  20.9 |       304 |        -0.36 |         -1.88 |
+|  141 | Mark Modera               |  20.9 |       305 |        -0.32 |         -1.84 |
+|  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  145 | Jamie Funk                |  20.8 |        30 |              |               |
 |  146 | Matthew Brett             |  20.7 |        20 |              |               |
@@ -153,10 +153,10 @@ Generated 2016-07-26.
 |  149 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  150 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  151 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  152 | Sam McCormick             |  20.5 |        15 |        -0.09 |               |
-|  153 | Andrew Green              |  20.5 |        52 |              |               |
-|  154 | Reid Johnsen              |  20.4 |        25 |        -0.15 |         +5.96 |
-|  155 | Steven Sloman             |  20.4 |        10 |              |               |
+|  152 | Andrew Green              |  20.5 |        52 |              |               |
+|  153 | Reid Johnsen              |  20.4 |        25 |        -0.15 |         +5.96 |
+|  154 | Steven Sloman             |  20.4 |        10 |              |               |
+|  155 | Sam McCormick             |  20.4 |        15 |        -0.18 |               |
 |  156 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  157 | Carl Schreck              |  20.2 |         2 |              |               |
 |  158 | John Grim                 |  20.1 |        13 |              |               |
@@ -374,22 +374,22 @@ Generated 2016-07-26.
 |  370 | Jonas Hansen              |   8.6 |        14 |              |         +2.36 |
 |  371 | Robert Isaac              |   8.5 |         2 |              |               |
 |  372 | Brian Kempenich           |   8.4 |        32 |              |         -0.75 |
-|  373 | Sahar Sareminaeni         |   8.4 |         3 |              |               |
-|  374 | Reynold Xin               |   8.3 |         5 |              |               |
-|  375 | Nate Aden                 |   8.3 |        16 |        +0.56 |               |
-|  376 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  377 | Duo Wang                  |   8.2 |        58 |              |         +1.14 |
-|  378 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  379 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  380 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  381 | John Coates               |   8.1 |         9 |              |               |
-|  382 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  383 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  384 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  385 | Zarina Khan               |   8.0 |         5 |              |               |
-|  386 | Chip Malt                 |   7.9 |         4 |              |               |
-|  387 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  388 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  373 | Reynold Xin               |   8.3 |         5 |              |               |
+|  374 | Nate Aden                 |   8.3 |        16 |        +0.56 |               |
+|  375 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  376 | Duo Wang                  |   8.2 |        58 |              |         +1.14 |
+|  377 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  378 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  379 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  380 | John Coates               |   8.1 |         9 |              |               |
+|  381 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  382 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  383 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  384 | Zarina Khan               |   8.0 |         5 |              |               |
+|  385 | Chip Malt                 |   7.9 |         4 |              |               |
+|  386 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  387 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  388 | Sahar Sareminaeni         |   7.8 |         4 |              |               |
 |  389 | Akira Chiwaki             |   7.8 |         3 |              |               |
 |  390 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  391 | Jeremy Brown              |   7.7 |         4 |              |               |
