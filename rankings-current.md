@@ -15,8 +15,8 @@ Generated 2016-07-27.
 |   11 | Matt Wong          |  22.2 |        64 |        +0.52 |         +0.75 |
 |   12 | Mark Modera        |  21.0 |       305 |        -0.22 |         -1.74 |
 |   13 | Prakash Bathini    |  20.7 |       122 |        -0.10 |         -0.68 |
-|   14 | Sam McCormick      |  20.5 |        15 |        -0.10 |               |
-|   15 | Reid Johnsen       |  20.4 |        25 |        -0.15 |         +5.96 |
+|   14 | Reid Johnsen       |  20.7 |        26 |        +0.10 |         +6.21 |
+|   15 | Sam McCormick      |  20.5 |        15 |        -0.10 |               |
 |   16 | Jonathan Francis   |  20.0 |        62 |        +0.36 |         +0.67 |
 |   17 | Mike Jensen-Akula  |  19.9 |       212 |        -0.31 |         -2.12 |
 |   18 | Jeff Gordon        |  19.4 |        26 |        +0.63 |               |
@@ -27,7 +27,7 @@ Generated 2016-07-27.
 |   23 | Subrato Dey        |  17.6 |        24 |        -0.48 |               |
 |   24 | Eric Borden        |  17.4 |        25 |        -0.20 |               |
 |   25 | Troup Howard       |  17.4 |        36 |        -0.27 |         -0.16 |
-|   26 | Wayne Heiser       |  17.4 |        22 |        -0.04 |               |
+|   26 | Wayne Heiser       |  17.2 |        23 |        -0.25 |               |
 |   27 | Kent Daniels       |  15.5 |        81 |        +0.35 |         +1.12 |
 |   28 | Terry Chang        |  15.2 |        39 |        -0.40 |         +1.55 |
 |   29 | Ankur Dave         |  13.7 |        42 |        +0.26 |         +1.15 |

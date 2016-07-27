@@ -150,12 +150,12 @@ Generated 2016-07-27.
 |  146 | Matthew Brett             |  20.7 |        20 |              |               |
 |  147 | Prakash Bathini           |  20.7 |       122 |        -0.10 |         -0.68 |
 |  148 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  149 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  150 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  151 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  152 | Andrew Green              |  20.5 |        52 |              |               |
-|  153 | Sam McCormick             |  20.5 |        15 |        -0.10 |               |
-|  154 | Reid Johnsen              |  20.4 |        25 |        -0.15 |         +5.96 |
+|  149 | Reid Johnsen              |  20.7 |        26 |        +0.10 |         +6.21 |
+|  150 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  151 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  152 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  153 | Andrew Green              |  20.5 |        52 |              |               |
+|  154 | Sam McCormick             |  20.5 |        15 |        -0.10 |               |
 |  155 | Steven Sloman             |  20.4 |        10 |              |               |
 |  156 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  157 | Carl Schreck              |  20.2 |         2 |              |               |
@@ -222,17 +222,17 @@ Generated 2016-07-27.
 |  218 | Eric Borden               |  17.4 |        25 |        -0.20 |               |
 |  219 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  220 | Troup Howard              |  17.4 |        36 |        -0.27 |         -0.16 |
-|  221 | Wayne Heiser              |  17.4 |        22 |        -0.04 |               |
-|  222 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  223 | Craig Riddell             |  17.4 |         8 |              |               |
-|  224 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  225 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  226 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  227 | Zach Brown                |  17.3 |         3 |              |               |
-|  228 | William Seles             |  17.2 |        15 |              |               |
-|  229 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  230 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  231 | Lucas Cheon               |  17.2 |        19 |              |               |
+|  221 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  222 | Craig Riddell             |  17.4 |         8 |              |               |
+|  223 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  224 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  225 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  226 | Zach Brown                |  17.3 |         3 |              |               |
+|  227 | William Seles             |  17.2 |        15 |              |               |
+|  228 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  229 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  230 | Lucas Cheon               |  17.2 |        19 |              |               |
+|  231 | Wayne Heiser              |  17.2 |        23 |        -0.25 |               |
 |  232 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  233 | Neil Conway               |  17.0 |        55 |              |               |
 |  234 | Michael Cianfrocco        |  17.0 |        18 |              |               |
