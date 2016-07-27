@@ -206,7 +206,7 @@ Generated 2016-07-27.
 |  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  203 | Dror Matalon              |  18.3 |       343 |        +0.40 |         -0.10 |
 |  204 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  205 | Shaun Lim                 |  18.2 |        39 |        +0.14 |         +0.24 |
+|  205 | Shaun Lim                 |  18.2 |        39 |        +0.14 |         +0.25 |
 |  206 | Bob Roller                |  18.2 |         6 |              |               |
 |  207 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  208 | James Chung               |  17.9 |         7 |              |               |
@@ -265,7 +265,7 @@ Generated 2016-07-27.
 |  261 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  262 | Peter Duerr               |  15.4 |        24 |              |               |
 |  263 | Kevin Fox                 |  15.3 |         7 |              |         +3.18 |
-|  264 | Terry Chang               |  15.2 |        39 |        -0.39 |         +1.56 |
+|  264 | Terry Chang               |  15.2 |        39 |        -0.40 |         +1.55 |
 |  265 | Jim Evans                 |  15.1 |       216 |              |               |
 |  266 | Dennis Chan               |  15.1 |         1 |              |               |
 |  267 | Allie Giovanelli          |  15.0 |         4 |              |               |
@@ -421,7 +421,7 @@ Generated 2016-07-27.
 |  417 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  418 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  419 | Zsolt Bartha              |   4.7 |        42 |              |         +1.17 |
-|  420 | Sameer Bajaj              |   4.5 |         2 |              |               |
+|  420 | Sameer Bajaj              |   4.6 |         2 |              |               |
 |  421 | Ryan                      |   4.2 |         3 |        +1.83 |               |
 |  422 | Annie Wong                |   4.0 |         3 |              |               |
 |  423 | Mateo Aceves              |   3.8 |         4 |              |               |
