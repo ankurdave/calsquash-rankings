@@ -176,12 +176,12 @@ Generated 2016-07-26.
 |  172 | Andrew Proudfoot          |  19.6 |        26 |              |         +5.89 |
 |  173 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  174 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  175 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  176 | Jaime Perez               |  19.3 |        11 |              |               |
-|  177 | Greg Adams                |  19.3 |        10 |              |               |
-|  178 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  179 | John Corcoran             |  19.1 |        49 |              |               |
-|  180 | Jeff Gordon               |  19.1 |        25 |        +0.32 |               |
+|  175 | Jeff Gordon               |  19.4 |        26 |        +0.63 |               |
+|  176 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  177 | Jaime Perez               |  19.3 |        11 |              |               |
+|  178 | Greg Adams                |  19.3 |        10 |              |               |
+|  179 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  180 | John Corcoran             |  19.1 |        49 |              |               |
 |  181 | Kedar Shah                |  19.1 |         9 |              |               |
 |  182 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  183 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -209,14 +209,14 @@ Generated 2016-07-26.
 |  205 | Shaun Lim                 |  18.2 |        39 |        +0.14 |         +0.24 |
 |  206 | Bob Roller                |  18.2 |         6 |              |               |
 |  207 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  208 | Subrato Dey               |  17.9 |        23 |        -0.21 |               |
-|  209 | Josh Trauner              |  17.9 |        28 |        +0.34 |               |
-|  210 | James Chung               |  17.9 |         7 |              |               |
-|  211 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
-|  212 | Nick Paget                |  17.8 |        35 |              |               |
-|  213 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  214 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  215 | George Roche              |  17.7 |        14 |              |         +2.59 |
+|  208 | James Chung               |  17.9 |         7 |              |               |
+|  209 | Josh Trauner              |  17.9 |        28 |        +0.33 |               |
+|  210 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
+|  211 | Nick Paget                |  17.8 |        35 |              |               |
+|  212 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  214 | George Roche              |  17.7 |        14 |              |         +2.59 |
+|  215 | Subrato Dey               |  17.6 |        24 |        -0.48 |               |
 |  216 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  217 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  218 | Eric Borden               |  17.4 |        25 |        -0.20 |               |
