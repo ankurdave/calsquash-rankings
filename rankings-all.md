@@ -303,8 +303,8 @@ Generated 2016-07-28.
 |  299 | Jake Toy                  |  13.4 |         5 |              |               |
 |  300 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  301 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  302 | Field Maloney             |  13.1 |        24 |              |               |
-|  303 | Nikhil Paranjape          |  13.1 |        19 |        +1.46 |               |
+|  302 | Nikhil Paranjape          |  13.1 |        19 |        +1.48 |               |
+|  303 | Field Maloney             |  13.1 |        24 |              |               |
 |  304 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  305 | Lewis Moore               |  13.0 |        69 |              |               |
 |  306 | David Isaksson            |  12.9 |        22 |              |               |
@@ -333,7 +333,7 @@ Generated 2016-07-28.
 |  329 | Karan Jain                |  11.3 |        19 |              |         +0.03 |
 |  330 | Lucas Siow                |  11.0 |        10 |              |               |
 |  331 | Dominick Ng               |  10.9 |        25 |              |               |
-|  332 | Reto Sutter               |  10.9 |        43 |        -0.66 |         -0.57 |
+|  332 | Reto Sutter               |  10.8 |        43 |        -0.71 |         -0.62 |
 |  333 | Rodrigo Calmet            |  10.8 |         5 |        -0.95 |               |
 |  334 | George Bentley            |  10.6 |         4 |              |               |
 |  335 | Sudeep Agarwal            |  10.5 |         3 |              |               |
@@ -363,8 +363,8 @@ Generated 2016-07-28.
 |  359 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  360 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  361 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  362 | Josh Lebowitz             |   8.9 |        20 |        +1.30 |               |
-|  363 | Daniel Schwartz           |   8.8 |        14 |        -0.35 |               |
+|  362 | Josh Lebowitz             |   8.9 |        20 |        +1.33 |               |
+|  363 | Daniel Schwartz           |   8.8 |        14 |        -0.36 |               |
 |  364 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  365 | Raphael Magarik           |   8.8 |         6 |              |               |
 |  366 | Nicholas Bauer            |   8.8 |        16 |              |               |
@@ -375,9 +375,9 @@ Generated 2016-07-28.
 |  371 | Jonas Hansen              |   8.6 |        14 |              |         +2.36 |
 |  372 | Brian Kempenich           |   8.4 |        32 |              |         -0.75 |
 |  373 | Reynold Xin               |   8.3 |         5 |              |               |
-|  374 | Nate Aden                 |   8.3 |        16 |        +0.56 |               |
-|  375 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  376 | Duo Wang                  |   8.2 |        58 |              |         +1.14 |
+|  374 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  375 | Duo Wang                  |   8.2 |        58 |              |         +1.14 |
+|  376 | Nate Aden                 |   8.2 |        16 |        +0.51 |               |
 |  377 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  378 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  379 | Phil Hartmeyer            |   8.2 |         3 |              |               |
@@ -422,8 +422,8 @@ Generated 2016-07-28.
 |  418 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  419 | Zsolt Bartha              |   4.7 |        42 |              |         +1.17 |
 |  420 | Sameer Bajaj              |   4.6 |         2 |              |               |
-|  421 | Ryan                      |   4.2 |         3 |        +1.83 |               |
-|  422 | Annie Wong                |   4.0 |         3 |              |               |
+|  421 | Annie Wong                |   4.0 |         3 |              |               |
+|  422 | Ryan                      |   4.0 |         3 |        +1.67 |               |
 |  423 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  424 | Maria Garzon              |   3.0 |         5 |              |               |
 |  425 | Nadir Shams               |   3.0 |         2 |              |               |
