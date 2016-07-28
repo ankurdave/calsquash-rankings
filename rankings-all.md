@@ -3,7 +3,7 @@ Generated 2016-07-27.
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  35.0 |       212 |              |         -0.33 |
-|    2 | Thomas Lowish             |  34.8 |        14 |        +0.37 |         +3.74 |
+|    2 | Thomas Lowish             |  34.8 |        14 |        +0.36 |         +3.74 |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
 |    5 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -16,8 +16,8 @@ Generated 2016-07-27.
 |   12 | Jeff Grant                |  31.3 |       207 |              |               |
 |   13 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   15 | Sam Sternberg             |  30.4 |       118 |        +0.33 |         +1.20 |
-|   16 | Eric Katerman             |  30.3 |        14 |        +0.14 |               |
+|   15 | Sam Sternberg             |  30.4 |       118 |        +0.32 |         +1.20 |
+|   16 | Eric Katerman             |  30.4 |        15 |        +0.20 |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -34,9 +34,9 @@ Generated 2016-07-27.
 |   30 | Stephen Dang              |  27.2 |        34 |              |               |
 |   31 | Samer Shehata             |  27.2 |        29 |              |               |
 |   32 | Hussain Raza              |  27.0 |        50 |              |               |
-|   33 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   34 | Alan Jose                 |  26.9 |       182 |              |               |
-|   35 | Frank Kennamer            |  26.9 |       205 |        -0.04 |         -0.45 |
+|   33 | Frank Kennamer            |  26.9 |       206 |              |         -0.41 |
+|   34 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   35 | Alan Jose                 |  26.9 |       182 |              |               |
 |   36 | Michael Best              |  26.9 |        21 |              |               |
 |   37 | Josh Taylor               |  26.8 |        40 |              |               |
 |   38 | David Hwang               |  26.8 |        44 |              |               |
