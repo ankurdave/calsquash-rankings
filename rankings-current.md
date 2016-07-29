@@ -19,12 +19,12 @@ Generated 2016-07-28.
 |   15 | Sam McCormick      |  20.5 |        15 |        -0.10 |               |
 |   16 | Jonathan Francis   |  20.0 |        62 |        +0.36 |         +0.67 |
 |   17 | Mike Jensen-Akula  |  19.9 |       212 |        -0.31 |         -2.12 |
-|   18 | Jeff Gordon        |  19.4 |        26 |        +0.63 |               |
-|   19 | Kenny Bell         |  18.8 |       110 |        -0.20 |         +1.55 |
+|   18 | Jeff Gordon        |  19.7 |        27 |        +0.94 |               |
+|   19 | Kenny Bell         |  18.6 |       111 |        -0.44 |         +1.31 |
 |   20 | Dror Matalon       |  18.3 |       343 |        +0.40 |         -0.10 |
 |   21 | Shaun Lim          |  18.2 |        39 |        +0.14 |         +0.25 |
 |   22 | Josh Trauner       |  17.9 |        28 |        +0.33 |               |
-|   23 | Subrato Dey        |  17.6 |        24 |        -0.48 |               |
+|   23 | Subrato Dey        |  17.6 |        24 |        -0.46 |               |
 |   24 | Eric Borden        |  17.4 |        25 |        -0.20 |               |
 |   25 | Troup Howard       |  17.4 |        36 |        -0.27 |         -0.16 |
 |   26 | Wayne Heiser       |  17.2 |        23 |        -0.25 |               |

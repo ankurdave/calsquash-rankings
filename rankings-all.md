@@ -171,12 +171,12 @@ Generated 2016-07-28.
 |  167 | Lysander Jim              |  19.8 |         6 |              |               |
 |  168 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  169 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  170 | Mike Delanty              |  19.7 |        12 |              |               |
-|  171 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  172 | Andrew Proudfoot          |  19.6 |        26 |              |         +5.89 |
-|  173 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  174 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  175 | Jeff Gordon               |  19.4 |        26 |        +0.63 |               |
+|  170 | Jeff Gordon               |  19.7 |        27 |        +0.94 |               |
+|  171 | Mike Delanty              |  19.7 |        12 |              |               |
+|  172 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  173 | Andrew Proudfoot          |  19.6 |        26 |              |         +5.89 |
+|  174 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  175 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  176 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  177 | Jaime Perez               |  19.3 |        11 |              |               |
 |  178 | Greg Adams                |  19.3 |        10 |              |               |
@@ -189,14 +189,14 @@ Generated 2016-07-28.
 |  185 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  186 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  187 | Gabriel Kahn              |  18.9 |         5 |              |         +7.87 |
-|  188 | Kenny Bell                |  18.8 |       110 |        -0.20 |         +1.55 |
-|  189 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  190 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  191 | Peter Dering              |  18.7 |         9 |              |               |
-|  192 | Sushant Jain              |  18.7 |        12 |              |               |
-|  193 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  194 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  195 | Allan Sly                 |  18.6 |        29 |              |               |
+|  188 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  189 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  190 | Peter Dering              |  18.7 |         9 |              |               |
+|  191 | Sushant Jain              |  18.7 |        12 |              |               |
+|  192 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  193 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  194 | Allan Sly                 |  18.6 |        29 |              |               |
+|  195 | Kenny Bell                |  18.6 |       111 |        -0.44 |         +1.31 |
 |  196 | Jason Facchin             |  18.5 |         3 |              |               |
 |  197 | Yan Liu                   |  18.5 |        10 |              |         -2.42 |
 |  198 | Akshay Dugar              |  18.5 |         6 |              |               |
@@ -216,7 +216,7 @@ Generated 2016-07-28.
 |  212 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  214 | George Roche              |  17.7 |        14 |              |         +2.59 |
-|  215 | Subrato Dey               |  17.6 |        24 |        -0.48 |               |
+|  215 | Subrato Dey               |  17.6 |        24 |        -0.46 |               |
 |  216 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  217 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  218 | Eric Borden               |  17.4 |        25 |        -0.20 |               |
