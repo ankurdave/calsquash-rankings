@@ -315,20 +315,20 @@ Generated 2016-07-29.
 |  311 | Richard Fabini            |  12.4 |         3 |              |               |
 |  312 | John Givens               |  12.2 |        13 |              |               |
 |  313 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  314 | Reed Foster               |  12.1 |         8 |              |               |
-|  315 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  316 | Robert Isaac              |  11.9 |         3 |              |               |
-|  317 | Larry Dale                |  11.9 |        29 |              |               |
-|  318 | Aman Gupta                |  11.8 |         3 |              |               |
-|  319 | Mitchell O'Connell        |  11.8 |        32 |              |         +0.71 |
-|  320 | Julian Gill               |  11.8 |         1 |              |               |
-|  321 | James Shinn               |  11.7 |       120 |              |               |
-|  322 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  323 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  324 | David Appelfeld           |  11.6 |        26 |              |               |
-|  325 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  326 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  327 | Jennifer Rha              |  11.4 |        12 |              |         +3.38 |
+|  314 | Jennifer Rha              |  12.1 |        14 |        +0.77 |         +4.15 |
+|  315 | Reed Foster               |  12.1 |         8 |              |               |
+|  316 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  317 | Robert Isaac              |  11.9 |         3 |              |               |
+|  318 | Larry Dale                |  11.9 |        29 |              |               |
+|  319 | Aman Gupta                |  11.8 |         3 |              |               |
+|  320 | Mitchell O'Connell        |  11.8 |        32 |              |         +0.71 |
+|  321 | Julian Gill               |  11.8 |         1 |              |               |
+|  322 | James Shinn               |  11.7 |       120 |              |               |
+|  323 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  324 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  325 | David Appelfeld           |  11.6 |        26 |              |               |
+|  326 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  327 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  328 | Carlos Filho              |  11.4 |         7 |              |               |
 |  329 | Karan Jain                |  11.3 |        19 |              |         +0.03 |
 |  330 | Lucas Siow                |  11.0 |        10 |              |               |
@@ -373,12 +373,12 @@ Generated 2016-07-29.
 |  369 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  370 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  371 | Jonas Hansen              |   8.6 |        14 |              |         +2.36 |
-|  372 | Brian Kempenich           |   8.4 |        32 |              |         -0.75 |
+|  372 | Duo Wang                  |   8.5 |        59 |        +0.23 |         +1.38 |
 |  373 | Reynold Xin               |   8.3 |         5 |              |               |
 |  374 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  375 | Duo Wang                  |   8.2 |        58 |              |         +1.14 |
-|  376 | Nate Aden                 |   8.2 |        16 |        +0.51 |               |
-|  377 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  375 | Nate Aden                 |   8.2 |        16 |        +0.51 |               |
+|  376 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  377 | Brian Kempenich           |   8.2 |        33 |        -0.21 |         -0.96 |
 |  378 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  379 | Phil Hartmeyer            |   8.2 |         3 |              |               |
 |  380 | John Coates               |   8.1 |         9 |              |               |
@@ -406,11 +406,11 @@ Generated 2016-07-29.
 |  402 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  403 | Jose Lara                 |   6.2 |         4 |              |               |
 |  404 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  405 | Alok Singh                |   6.0 |        11 |              |               |
-|  406 | Rohan Relan               |   6.0 |         4 |              |               |
-|  407 | Keaton Noon               |   5.8 |        14 |              |               |
-|  408 | David Zhu                 |   5.8 |         2 |              |               |
-|  409 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  405 | Rohan Relan               |   6.0 |         4 |              |               |
+|  406 | Alok Singh                |   5.9 |        12 |        -0.19 |               |
+|  407 | David Zhu                 |   5.8 |         2 |              |               |
+|  408 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  409 | Keaton Noon               |   5.6 |        15 |        -0.16 |               |
 |  410 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  411 | Manu Vaish                |   5.5 |         1 |              |               |
 |  412 | Emily Moylan              |   5.2 |        17 |              |               |
