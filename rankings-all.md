@@ -211,7 +211,7 @@ Generated 2016-08-05.
 |  207 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  208 | James Chung               |  17.9 |         7 |              |               |
 |  209 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
-|  210 | Josh Trauner              |  17.8 |        28 |              |               |
+|  210 | Josh Trauner              |  17.8 |        29 |              |               |
 |  211 | Nick Paget                |  17.8 |        35 |              |               |
 |  212 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
@@ -294,7 +294,7 @@ Generated 2016-08-05.
 |  290 | Gurj Johal                |  13.8 |         2 |              |               |
 |  291 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  292 | Josephine Lee             |  13.7 |         6 |              |               |
-|  293 | Ankur Dave                |  13.7 |        42 |              |         +7.97 |
+|  293 | Ankur Dave                |  13.7 |        43 |        +0.03 |         +8.00 |
 |  294 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  295 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  296 | Lars Foleide              |  13.5 |        11 |              |               |

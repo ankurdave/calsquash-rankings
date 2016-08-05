@@ -24,7 +24,7 @@ Generated 2016-08-05.
 |   20 | Kenny Bell          |  18.8 |       112 |              |         +1.33 |
 |   21 | Dror Matalon        |  18.3 |       343 |              |         -0.01 |
 |   22 | Shaun Lim           |  18.2 |        39 |              |         +0.25 |
-|   23 | Josh Trauner        |  17.8 |        28 |              |               |
+|   23 | Josh Trauner        |  17.8 |        29 |              |               |
 |   24 | Eric Borden         |  17.4 |        25 |              |        +13.59 |
 |   25 | Troup Howard        |  17.4 |        36 |              |         -0.33 |
 |   26 | Subrato Dey         |  17.3 |        25 |              |               |
@@ -32,7 +32,7 @@ Generated 2016-08-05.
 |   28 | Chris Flores        |  16.9 |       297 |              |         -1.81 |
 |   29 | Kent Daniels        |  15.6 |        82 |        +0.08 |         +0.47 |
 |   30 | Terry Chang         |  15.2 |        39 |              |         +1.55 |
-|   31 | Ankur Dave          |  13.7 |        42 |              |         +7.97 |
+|   31 | Ankur Dave          |  13.7 |        43 |        +0.03 |         +8.00 |
 |   32 | Nikhil Paranjape    |  13.1 |        19 |              |               |
 |   33 | Jennifer Rha        |  12.1 |        14 |              |         +2.17 |
 |   34 | Robert Isaac        |  11.9 |         3 |              |               |
