@@ -150,8 +150,8 @@ Generated 2016-08-05.
 |  146 | Matthew Brett             |  20.7 |        20 |              |               |
 |  147 | Prakash Bathini           |  20.7 |       122 |              |         -0.68 |
 |  148 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  149 | Reid Johnsen              |  20.7 |        26 |              |         +6.21 |
-|  150 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  149 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  150 | Reid Johnsen              |  20.6 |        27 |        -0.12 |         +6.09 |
 |  151 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  152 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  153 | Andrew Green              |  20.5 |        52 |              |               |
@@ -167,11 +167,11 @@ Generated 2016-08-05.
 |  163 | Wesley Huang              |  20.0 |         8 |              |               |
 |  164 | Mike Jensen-Akula         |  19.9 |       212 |              |         -1.88 |
 |  165 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  166 | Liam King                 |  19.9 |         6 |              |               |
-|  167 | Lysander Jim              |  19.8 |         6 |              |               |
-|  168 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  169 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  170 | Jeff Gordon               |  19.7 |        27 |              |               |
+|  166 | Jeff Gordon               |  19.9 |        28 |        +0.20 |               |
+|  167 | Liam King                 |  19.9 |         6 |              |               |
+|  168 | Lysander Jim              |  19.8 |         6 |              |               |
+|  169 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  170 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  171 | Mike Delanty              |  19.7 |        12 |              |               |
 |  172 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  173 | Andrew Proudfoot          |  19.6 |        26 |              |         +6.33 |

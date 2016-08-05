@@ -16,11 +16,11 @@ Generated 2016-08-05.
 |   12 | Matt Wong           |  22.2 |        64 |              |         +1.34 |
 |   13 | Jared Bard          |  21.1 |        27 |              |         +2.15 |
 |   14 | Mark Modera         |  21.0 |       305 |              |         -1.06 |
-|   15 | Reid Johnsen        |  20.7 |        26 |              |         +6.21 |
+|   15 | Reid Johnsen        |  20.6 |        27 |        -0.12 |         +6.09 |
 |   16 | Sam McCormick       |  20.5 |        15 |              |               |
 |   17 | Jonathan Francis    |  20.0 |        62 |              |         +0.67 |
 |   18 | Mike Jensen-Akula   |  19.9 |       212 |              |         -1.88 |
-|   19 | Jeff Gordon         |  19.7 |        27 |              |               |
+|   19 | Jeff Gordon         |  19.9 |        28 |        +0.20 |               |
 |   20 | Kenny Bell          |  18.8 |       112 |              |         +1.33 |
 |   21 | Dror Matalon        |  18.3 |       343 |              |         -0.01 |
 |   22 | Shaun Lim           |  18.2 |        39 |              |         +0.25 |
