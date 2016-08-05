@@ -1,4 +1,4 @@
-Generated 2016-08-04.
+Generated 2016-08-05.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -259,9 +259,9 @@ Generated 2016-08-04.
 |  255 | Jared Nunn                |  15.7 |         5 |              |               |
 |  256 | Akash Sharma              |  15.7 |         8 |              |               |
 |  257 | Angie Ng                  |  15.7 |        12 |              |               |
-|  258 | Tanit Follett             |  15.5 |         8 |              |               |
-|  259 | Toni Queck                |  15.5 |        20 |              |               |
-|  260 | Kent Daniels              |  15.5 |        81 |              |         +0.39 |
+|  258 | Kent Daniels              |  15.6 |        82 |        +0.08 |         +0.47 |
+|  259 | Tanit Follett             |  15.5 |         8 |              |               |
+|  260 | Toni Queck                |  15.5 |        20 |              |               |
 |  261 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  262 | Peter Duerr               |  15.4 |        24 |              |               |
 |  263 | Kevin Fox                 |  15.3 |         7 |              |               |
@@ -376,13 +376,13 @@ Generated 2016-08-04.
 |  372 | Duo Wang                  |   8.5 |        59 |              |         +1.61 |
 |  373 | Reynold Xin               |   8.3 |         5 |              |               |
 |  374 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  375 | Nate Aden                 |   8.2 |        16 |              |               |
-|  376 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  377 | Brian Kempenich           |   8.2 |        33 |              |         -0.96 |
-|  378 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  379 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  380 | John Coates               |   8.1 |         9 |              |               |
-|  381 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  375 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  376 | Brian Kempenich           |   8.2 |        33 |              |         -0.96 |
+|  377 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  378 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  379 | John Coates               |   8.1 |         9 |              |               |
+|  380 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  381 | Nate Aden                 |   8.1 |        17 |        -0.13 |               |
 |  382 | Fabrice Henrion           |   8.1 |         2 |              |               |
 |  383 | Alexander Zuern           |   8.0 |        25 |              |               |
 |  384 | Zarina Khan               |   8.0 |         5 |              |               |

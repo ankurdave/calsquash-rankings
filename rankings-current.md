@@ -1,4 +1,4 @@
-Generated 2016-08-04.
+Generated 2016-08-05.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -30,7 +30,7 @@ Generated 2016-08-04.
 |   26 | Subrato Dey         |  17.3 |        25 |              |               |
 |   27 | Wayne Heiser        |  17.2 |        23 |              |               |
 |   28 | Chris Flores        |  16.9 |       297 |              |         -1.81 |
-|   29 | Kent Daniels        |  15.5 |        81 |              |         +0.39 |
+|   29 | Kent Daniels        |  15.6 |        82 |        +0.08 |         +0.47 |
 |   30 | Terry Chang         |  15.2 |        39 |              |         +1.55 |
 |   31 | Ankur Dave          |  13.7 |        42 |              |         +7.97 |
 |   32 | Nikhil Paranjape    |  13.1 |        19 |              |               |
@@ -40,8 +40,8 @@ Generated 2016-08-04.
 |   36 | Josh Lebowitz       |   8.9 |        20 |              |               |
 |   37 | Daniel Schwartz     |   8.8 |        14 |              |               |
 |   38 | Duo Wang            |   8.5 |        59 |              |         +1.61 |
-|   39 | Nate Aden           |   8.2 |        16 |              |               |
-|   40 | Brian Kempenich     |   8.2 |        33 |              |         -0.96 |
+|   39 | Brian Kempenich     |   8.2 |        33 |              |         -0.96 |
+|   40 | Nate Aden           |   8.1 |        17 |        -0.13 |               |
 |   41 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
 |   42 | Alok Singh          |   5.9 |        12 |              |               |
 |   43 | Keaton Noon         |   5.6 |        15 |              |               |
