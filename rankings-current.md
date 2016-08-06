@@ -18,12 +18,12 @@ Generated 2016-08-06.
 |   14 | Mark Modera         |  21.0 |       305 |              |         -1.06 |
 |   15 | Reid Johnsen        |  20.6 |        27 |        -0.12 |         +6.09 |
 |   16 | Sam McCormick       |  20.5 |        15 |              |               |
-|   17 | Jonathan Francis    |  20.0 |        62 |              |         +0.67 |
-|   18 | Mike Jensen-Akula   |  19.9 |       212 |              |         -1.88 |
+|   17 | Mike Jensen-Akula   |  20.1 |       213 |        +0.12 |         -1.76 |
+|   18 | Jonathan Francis    |  20.0 |        62 |              |         +0.67 |
 |   19 | Jeff Gordon         |  19.9 |        28 |        +0.20 |               |
 |   20 | Kenny Bell          |  18.8 |       112 |              |         +1.33 |
 |   21 | Dror Matalon        |  18.3 |       343 |              |         -0.01 |
-|   22 | Shaun Lim           |  18.2 |        39 |              |         +0.25 |
+|   22 | Shaun Lim           |  18.1 |        40 |        -0.08 |         +0.17 |
 |   23 | Josh Trauner        |  17.8 |        29 |              |               |
 |   24 | Eric Borden         |  17.4 |        25 |              |        +13.59 |
 |   25 | Troup Howard        |  17.4 |        36 |              |         -0.33 |

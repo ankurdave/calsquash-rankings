@@ -162,10 +162,10 @@ Generated 2016-08-06.
 |  158 | John Grim                 |  20.1 |        13 |              |               |
 |  159 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  160 | Frank Kennan              |  20.1 |        11 |              |               |
-|  161 | Jonathan Francis          |  20.0 |        62 |              |         +0.67 |
-|  162 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  163 | Wesley Huang              |  20.0 |         8 |              |               |
-|  164 | Mike Jensen-Akula         |  19.9 |       212 |              |         -1.88 |
+|  161 | Mike Jensen-Akula         |  20.1 |       213 |        +0.12 |         -1.76 |
+|  162 | Jonathan Francis          |  20.0 |        62 |              |         +0.67 |
+|  163 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  164 | Wesley Huang              |  20.0 |         8 |              |               |
 |  165 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  166 | Jeff Gordon               |  19.9 |        28 |        +0.20 |               |
 |  167 | Liam King                 |  19.9 |         6 |              |               |
@@ -206,8 +206,8 @@ Generated 2016-08-06.
 |  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  203 | Dror Matalon              |  18.3 |       343 |              |         -0.01 |
 |  204 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  205 | Shaun Lim                 |  18.2 |        39 |              |         +0.25 |
-|  206 | Bob Roller                |  18.2 |         6 |              |               |
+|  205 | Bob Roller                |  18.2 |         6 |              |               |
+|  206 | Shaun Lim                 |  18.1 |        40 |        -0.08 |         +0.17 |
 |  207 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  208 | James Chung               |  17.9 |         7 |              |               |
 |  209 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
