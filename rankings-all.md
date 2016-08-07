@@ -88,11 +88,11 @@ Generated 2016-08-06.
 |   84 | Glenn Forrester           |  23.9 |       355 |              |         -0.72 |
 |   85 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   86 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   87 | Dan Bohn                  |  23.7 |        73 |              |         +0.49 |
-|   88 | Matt Waid                 |  23.7 |        51 |              |               |
-|   89 | Sonesh Surana             |  23.7 |        95 |              |               |
-|   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   91 | Amy Lee                   |  23.6 |        56 |              |               |
+|   87 | Matt Waid                 |  23.7 |        51 |              |               |
+|   88 | Sonesh Surana             |  23.7 |        95 |              |               |
+|   89 | Nader Shoaibi             |  23.7 |        64 |              |               |
+|   90 | Amy Lee                   |  23.6 |        56 |              |               |
+|   91 | Dan Bohn                  |  23.4 |        74 |        -0.30 |         +0.19 |
 |   92 | Aditya Guntuboyina        |  23.4 |        75 |              |         +2.15 |
 |   93 | Garvin Heath              |  23.4 |        28 |              |               |
 |   94 | Daniel Greengard          |  23.1 |        37 |              |               |
@@ -103,15 +103,15 @@ Generated 2016-08-06.
 |   99 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  100 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  101 | Julian Marshall           |  22.7 |        31 |              |               |
-|  102 | Gautam Tankha             |  22.6 |         7 |              |               |
-|  103 | Dev Millstein             |  22.6 |        92 |              |               |
-|  104 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  105 | Saurabh Bajaj             |  22.4 |        21 |              |               |
-|  106 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  107 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  108 | Jonathan Hankar           |  22.3 |       178 |              |         +0.26 |
-|  109 | Dan Meier                 |  22.3 |        44 |              |         +1.69 |
-|  110 | Matt Wong                 |  22.2 |        64 |              |         +1.34 |
+|  102 | Matt Wong                 |  22.6 |        65 |        +0.33 |         +1.67 |
+|  103 | Gautam Tankha             |  22.6 |         7 |              |               |
+|  104 | Dev Millstein             |  22.6 |        92 |              |               |
+|  105 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  106 | Saurabh Bajaj             |  22.4 |        21 |              |               |
+|  107 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  108 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  109 | Jonathan Hankar           |  22.3 |       178 |              |         +0.26 |
+|  110 | Dan Meier                 |  22.3 |        44 |              |         +1.69 |
 |  111 | Robert Geiger             |  22.2 |         8 |              |               |
 |  112 | Aaron Socha               |  22.2 |        24 |              |               |
 |  113 | Robert Ashmore            |  22.2 |       104 |              |               |
