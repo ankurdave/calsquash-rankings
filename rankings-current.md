@@ -12,8 +12,8 @@ Generated 2016-08-07.
 |    8 | Aditya Guntuboyina  |  23.4 |        75 |              |         +2.15 |
 |    9 | Matt Wong           |  22.6 |        65 |        +0.33 |         +1.67 |
 |   10 | Saurabh Bajaj       |  22.4 |        21 |              |               |
-|   11 | Jonathan Hankar     |  22.3 |       178 |              |         +0.26 |
-|   12 | Dan Meier           |  22.3 |        44 |              |         +1.69 |
+|   11 | Dan Meier           |  22.3 |        44 |              |         +1.69 |
+|   12 | Jonathan Hankar     |  22.2 |       179 |        -0.05 |         +0.21 |
 |   13 | Jared Bard          |  21.1 |        27 |              |         +2.15 |
 |   14 | Mark Modera         |  21.0 |       305 |              |         -1.06 |
 |   15 | Reid Johnsen        |  20.6 |        27 |        -0.12 |         +6.09 |
@@ -33,9 +33,9 @@ Generated 2016-08-07.
 |   29 | Kent Daniels        |  15.6 |        82 |        +0.08 |         +0.47 |
 |   30 | Terry Chang         |  15.2 |        39 |              |         +1.55 |
 |   31 | Ankur Dave          |  13.7 |        43 |        +0.03 |         +8.00 |
-|   32 | Nikhil Paranjape    |  13.1 |        19 |              |               |
-|   33 | Jennifer Rha        |  12.1 |        14 |              |         +2.17 |
-|   34 | Robert Isaac        |  11.9 |         3 |              |               |
+|   32 | Robert Isaac        |  13.3 |         4 |        +1.40 |               |
+|   33 | Nikhil Paranjape    |  13.1 |        19 |              |               |
+|   34 | Jennifer Rha        |  12.1 |        14 |              |         +2.17 |
 |   35 | Reto Sutter         |  10.8 |        43 |              |         +0.06 |
 |   36 | Josh Lebowitz       |   8.9 |        20 |              |               |
 |   37 | Daniel Schwartz     |   8.8 |        14 |              |               |

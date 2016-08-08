@@ -110,8 +110,8 @@ Generated 2016-08-07.
 |  106 | Saurabh Bajaj             |  22.4 |        21 |              |               |
 |  107 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  108 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  109 | Jonathan Hankar           |  22.3 |       178 |              |         +0.26 |
-|  110 | Dan Meier                 |  22.3 |        44 |              |         +1.69 |
+|  109 | Dan Meier                 |  22.3 |        44 |              |         +1.69 |
+|  110 | Jonathan Hankar           |  22.2 |       179 |        -0.05 |         +0.21 |
 |  111 | Robert Geiger             |  22.2 |         8 |              |               |
 |  112 | Aaron Socha               |  22.2 |        24 |              |               |
 |  113 | Robert Ashmore            |  22.2 |       104 |              |               |
@@ -301,24 +301,24 @@ Generated 2016-08-07.
 |  297 | Alex Rennet               |  13.5 |         2 |              |               |
 |  298 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  299 | Jake Toy                  |  13.4 |         5 |              |               |
-|  300 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  301 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  302 | Nikhil Paranjape          |  13.1 |        19 |              |               |
-|  303 | Field Maloney             |  13.1 |        24 |              |               |
-|  304 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  305 | Lewis Moore               |  13.0 |        69 |              |               |
-|  306 | David Isaksson            |  12.9 |        22 |              |               |
-|  307 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  308 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  309 | Josh Shiode               |  12.6 |        20 |              |               |
-|  310 | Huw Lester                |  12.5 |         1 |              |               |
-|  311 | Richard Fabini            |  12.4 |         3 |              |               |
-|  312 | John Givens               |  12.2 |        13 |              |               |
-|  313 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  314 | Jennifer Rha              |  12.1 |        14 |              |         +2.17 |
-|  315 | Reed Foster               |  12.1 |         8 |              |               |
-|  316 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  317 | Robert Isaac              |  11.9 |         3 |              |               |
+|  300 | Robert Isaac              |  13.3 |         4 |        +1.40 |               |
+|  301 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  302 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  303 | Nikhil Paranjape          |  13.1 |        19 |              |               |
+|  304 | Field Maloney             |  13.1 |        24 |              |               |
+|  305 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  306 | Lewis Moore               |  13.0 |        69 |              |               |
+|  307 | David Isaksson            |  12.9 |        22 |              |               |
+|  308 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  309 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  310 | Josh Shiode               |  12.6 |        20 |              |               |
+|  311 | Huw Lester                |  12.5 |         1 |              |               |
+|  312 | Richard Fabini            |  12.4 |         3 |              |               |
+|  313 | John Givens               |  12.2 |        13 |              |               |
+|  314 | Sylvan Arevalo            |  12.2 |         3 |              |               |
+|  315 | Jennifer Rha              |  12.1 |        14 |              |         +2.17 |
+|  316 | Reed Foster               |  12.1 |         8 |              |               |
+|  317 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  318 | Larry Dale                |  11.9 |        29 |              |               |
 |  319 | Aman Gupta                |  11.8 |         3 |              |               |
 |  320 | Mitchell O'Connell        |  11.8 |        32 |              |         +0.44 |
