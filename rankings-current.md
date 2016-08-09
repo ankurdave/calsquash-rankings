@@ -25,11 +25,11 @@ Generated 2016-08-09.
 |   21 | Dror Matalon        |  18.3 |       343 |              |         -0.01 |
 |   22 | Shaun Lim           |  18.1 |        40 |        -0.08 |         +0.17 |
 |   23 | Josh Trauner        |  17.8 |        29 |              |               |
-|   24 | Eric Borden         |  17.4 |        25 |              |        +13.59 |
-|   25 | Troup Howard        |  17.4 |        36 |              |         -0.33 |
-|   26 | Subrato Dey         |  17.3 |        25 |              |               |
+|   24 | Subrato Dey         |  17.5 |        26 |        +0.20 |               |
+|   25 | Eric Borden         |  17.4 |        25 |              |        +13.59 |
+|   26 | Troup Howard        |  17.4 |        36 |              |         -0.33 |
 |   27 | Wayne Heiser        |  17.2 |        23 |              |               |
-|   28 | Chris Flores        |  16.9 |       297 |              |         -1.81 |
+|   28 | Chris Flores        |  16.8 |       298 |        -0.12 |         -1.93 |
 |   29 | Kent Daniels        |  15.6 |        82 |        +0.08 |         +0.47 |
 |   30 | Terry Chang         |  15.2 |        39 |              |         +1.55 |
 |   31 | Ankur Dave          |  13.7 |        43 |        +0.03 |         +8.00 |
