@@ -26,8 +26,8 @@ Generated 2016-08-09.
 |   22 | Shaun Lim           |  18.1 |        40 |        -0.08 |         +0.17 |
 |   23 | Josh Trauner        |  17.8 |        29 |              |               |
 |   24 | Subrato Dey         |  17.5 |        26 |        +0.20 |               |
-|   25 | Eric Borden         |  17.4 |        25 |              |        +13.59 |
-|   26 | Troup Howard        |  17.4 |        36 |              |         -0.33 |
+|   25 | Troup Howard        |  17.4 |        36 |              |         -0.33 |
+|   26 | Eric Borden         |  17.3 |        26 |        -0.09 |        +13.50 |
 |   27 | Wayne Heiser        |  17.2 |        23 |              |               |
 |   28 | Chris Flores        |  16.8 |       298 |        -0.12 |         -1.93 |
 |   29 | Kent Daniels        |  15.6 |        82 |        +0.08 |         +0.47 |
@@ -37,14 +37,15 @@ Generated 2016-08-09.
 |   33 | Nikhil Paranjape    |  13.1 |        19 |              |               |
 |   34 | Jennifer Rha        |  12.1 |        14 |              |         +2.17 |
 |   35 | Reto Sutter         |  10.8 |        43 |              |         +0.06 |
-|   36 | Josh Lebowitz       |   8.9 |        20 |              |               |
-|   37 | Daniel Schwartz     |   8.8 |        14 |              |               |
-|   38 | Duo Wang            |   8.5 |        59 |              |         +1.61 |
-|   39 | Brian Kempenich     |   8.2 |        33 |              |         -0.96 |
-|   40 | Nate Aden           |   8.1 |        17 |        -0.13 |               |
-|   41 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
-|   42 | Alok Singh          |   5.9 |        12 |              |               |
-|   43 | Keaton Noon         |   5.6 |        15 |              |               |
-|   44 | Sameer Bajaj        |   4.6 |         2 |              |               |
-|   45 | Ryan                |   4.0 |         3 |              |               |
-|   46 | Nakul Vakil         |   0.0 |         4 |              |               |
+|   36 | Diego Butrich       |   9.6 |         1 |              |               |
+|   37 | Josh Lebowitz       |   8.9 |        20 |              |               |
+|   38 | Daniel Schwartz     |   8.8 |        14 |              |               |
+|   39 | Duo Wang            |   8.5 |        59 |              |         +1.61 |
+|   40 | Brian Kempenich     |   8.2 |        33 |              |         -0.96 |
+|   41 | Nate Aden           |   8.1 |        17 |        -0.13 |               |
+|   42 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
+|   43 | Alok Singh          |   5.9 |        12 |              |               |
+|   44 | Keaton Noon         |   5.6 |        15 |              |               |
+|   45 | Sameer Bajaj        |   4.6 |         2 |              |               |
+|   46 | Ryan                |   4.0 |         3 |              |               |
+|   47 | Nakul Vakil         |   0.0 |         4 |              |               |
