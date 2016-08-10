@@ -263,9 +263,9 @@ Generated 2016-08-10.
 |  259 | Tanit Follett             |  15.5 |         8 |              |               |
 |  260 | Toni Queck                |  15.5 |        20 |              |               |
 |  261 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  262 | Peter Duerr               |  15.4 |        24 |              |               |
-|  263 | Kevin Fox                 |  15.3 |         7 |              |               |
-|  264 | Terry Chang               |  15.2 |        39 |              |         +1.55 |
+|  262 | Terry Chang               |  15.4 |        40 |        +0.16 |         +1.71 |
+|  263 | Peter Duerr               |  15.4 |        24 |              |               |
+|  264 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  265 | Jim Evans                 |  15.1 |       216 |              |               |
 |  266 | Dennis Chan               |  15.1 |         1 |              |               |
 |  267 | Allie Giovanelli          |  15.0 |         4 |              |               |
@@ -333,8 +333,8 @@ Generated 2016-08-10.
 |  329 | Karan Jain                |  11.3 |        19 |              |               |
 |  330 | Lucas Siow                |  11.0 |        10 |              |               |
 |  331 | Dominick Ng               |  10.9 |        25 |              |               |
-|  332 | Reto Sutter               |  10.8 |        43 |              |         +0.06 |
-|  333 | Rodrigo Calmet            |  10.8 |         5 |              |               |
+|  332 | Rodrigo Calmet            |  10.8 |         5 |              |               |
+|  333 | Reto Sutter               |  10.7 |        44 |        -0.15 |         -0.09 |
 |  334 | George Bentley            |  10.6 |         4 |              |               |
 |  335 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  336 | Brian Puglise             |  10.4 |         2 |              |               |

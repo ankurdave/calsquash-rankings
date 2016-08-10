@@ -31,12 +31,12 @@ Generated 2016-08-10.
 |   27 | Wayne Heiser        |  17.2 |        23 |              |               |
 |   28 | Chris Flores        |  16.8 |       298 |        -0.12 |         -1.93 |
 |   29 | Kent Daniels        |  15.6 |        82 |        +0.08 |         +0.47 |
-|   30 | Terry Chang         |  15.2 |        39 |              |         +1.55 |
+|   30 | Terry Chang         |  15.4 |        40 |        +0.16 |         +1.71 |
 |   31 | Ankur Dave          |  13.7 |        43 |        +0.03 |         +8.00 |
 |   32 | Robert Isaac        |  13.3 |         4 |        +1.40 |               |
 |   33 | Nikhil Paranjape    |  13.1 |        19 |              |               |
 |   34 | Jennifer Rha        |  12.1 |        14 |              |         +2.17 |
-|   35 | Reto Sutter         |  10.8 |        43 |              |         +0.06 |
+|   35 | Reto Sutter         |  10.7 |        44 |        -0.15 |         -0.09 |
 |   36 | Diego Butrich       |   9.6 |         1 |              |               |
 |   37 | Josh Lebowitz       |   8.9 |        20 |              |               |
 |   38 | Daniel Schwartz     |   8.8 |        14 |              |               |
