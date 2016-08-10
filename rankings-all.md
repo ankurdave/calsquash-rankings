@@ -146,12 +146,12 @@ Generated 2016-08-09.
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  145 | Jamie Funk                |  20.8 |        30 |              |               |
-|  146 | Matthew Brett             |  20.7 |        20 |              |               |
-|  147 | Prakash Bathini           |  20.7 |       122 |              |         -0.68 |
-|  148 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  149 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  150 | Reid Johnsen              |  20.6 |        27 |        -0.12 |         +6.09 |
+|  145 | Reid Johnsen              |  20.8 |        28 |        +0.08 |         +6.29 |
+|  146 | Jamie Funk                |  20.8 |        30 |              |               |
+|  147 | Matthew Brett             |  20.7 |        20 |              |               |
+|  148 | Prakash Bathini           |  20.7 |       122 |              |         -0.68 |
+|  149 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  150 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  151 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  152 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  153 | Andrew Green              |  20.5 |        52 |              |               |
@@ -163,11 +163,11 @@ Generated 2016-08-09.
 |  159 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  160 | Frank Kennan              |  20.1 |        11 |              |               |
 |  161 | Mike Jensen-Akula         |  20.1 |       213 |        +0.12 |         -1.76 |
-|  162 | Jonathan Francis          |  20.0 |        62 |              |         +0.67 |
-|  163 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  164 | Wesley Huang              |  20.0 |         8 |              |               |
-|  165 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  166 | Jeff Gordon               |  19.9 |        28 |        +0.20 |               |
+|  162 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  163 | Wesley Huang              |  20.0 |         8 |              |               |
+|  164 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  165 | Jeff Gordon               |  19.9 |        28 |        +0.20 |               |
+|  166 | Jonathan Francis          |  19.9 |        63 |        -0.12 |         +0.55 |
 |  167 | Liam King                 |  19.9 |         6 |              |               |
 |  168 | Lysander Jim              |  19.8 |         6 |              |               |
 |  169 | Sebastien Biraud          |  19.7 |        60 |              |               |
