@@ -30,7 +30,7 @@ Generated 2016-08-10.
 |   26 | Eric Borden         |  17.3 |        26 |        -0.09 |        +13.50 |
 |   27 | Wayne Heiser        |  17.2 |        23 |              |               |
 |   28 | Chris Flores        |  16.8 |       298 |        -0.12 |         -1.93 |
-|   29 | Kent Daniels        |  15.6 |        82 |        +0.08 |         +0.47 |
+|   29 | Kent Daniels        |  15.4 |        83 |        -0.08 |         +0.31 |
 |   30 | Terry Chang         |  15.4 |        40 |        +0.16 |         +1.71 |
 |   31 | Ankur Dave          |  13.7 |        43 |        +0.03 |         +8.00 |
 |   32 | Robert Isaac        |  13.3 |         4 |        +1.40 |               |
@@ -48,5 +48,5 @@ Generated 2016-08-10.
 |   44 | Keaton Noon         |   5.6 |        15 |              |               |
 |   45 | Sameer Bajaj        |   4.6 |         2 |              |               |
 |   46 | Ryan                |   4.0 |         3 |              |               |
-|   47 | Nakul Vakil         |   0.0 |         4 |              |               |
+|   47 | Nakul Vakil         |   3.0 |         5 |        +3.01 |               |
 |   48 | Cristhian Daniel    |  -1.1 |         3 |              |               |
