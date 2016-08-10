@@ -49,3 +49,4 @@ Generated 2016-08-09.
 |   45 | Sameer Bajaj        |   4.6 |         2 |              |               |
 |   46 | Ryan                |   4.0 |         3 |              |               |
 |   47 | Nakul Vakil         |   0.0 |         4 |              |               |
+|   48 | Cristhian Daniel    |  -1.1 |         3 |              |               |
