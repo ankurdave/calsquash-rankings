@@ -34,11 +34,11 @@ Generated 2016-08-10.
 |   30 | Terry Chang         |  15.4 |        40 |        +0.16 |         +1.71 |
 |   31 | Ankur Dave          |  13.7 |        43 |        +0.03 |         +8.00 |
 |   32 | Robert Isaac        |  13.3 |         4 |        +1.40 |               |
-|   33 | Nikhil Paranjape    |  13.1 |        19 |              |               |
+|   33 | Nikhil Paranjape    |  13.2 |        20 |        +0.10 |               |
 |   34 | Jennifer Rha        |  12.1 |        14 |              |         +2.17 |
 |   35 | Reto Sutter         |  10.7 |        44 |        -0.15 |         -0.09 |
 |   36 | Diego Butrich       |   9.6 |         1 |              |               |
-|   37 | Josh Lebowitz       |   8.9 |        20 |              |               |
+|   37 | Josh Lebowitz       |   9.1 |        21 |        +0.13 |               |
 |   38 | Daniel Schwartz     |   8.8 |        14 |              |               |
 |   39 | Duo Wang            |   8.5 |        59 |              |         +1.61 |
 |   40 | Brian Kempenich     |   8.2 |        33 |              |         -0.96 |

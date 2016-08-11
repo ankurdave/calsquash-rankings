@@ -303,8 +303,8 @@ Generated 2016-08-10.
 |  299 | Jake Toy                  |  13.4 |         5 |              |               |
 |  300 | Robert Isaac              |  13.3 |         4 |        +1.40 |               |
 |  301 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  302 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  303 | Nikhil Paranjape          |  13.1 |        19 |              |               |
+|  302 | Nikhil Paranjape          |  13.2 |        20 |        +0.10 |               |
+|  303 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  304 | Field Maloney             |  13.1 |        24 |              |               |
 |  305 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  306 | Lewis Moore               |  13.0 |        69 |              |               |
@@ -362,9 +362,9 @@ Generated 2016-08-10.
 |  358 | Greg Sperla               |   9.3 |         8 |              |               |
 |  359 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  360 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  361 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  362 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  363 | Josh Lebowitz             |   8.9 |        20 |              |               |
+|  361 | Josh Lebowitz             |   9.1 |        21 |        +0.13 |               |
+|  362 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  363 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
 |  364 | Daniel Schwartz           |   8.8 |        14 |              |               |
 |  365 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  366 | Raphael Magarik           |   8.8 |         6 |              |               |
