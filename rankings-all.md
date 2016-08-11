@@ -146,7 +146,7 @@ Generated 2016-08-10.
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  145 | Reid Johnsen              |  20.8 |        28 |        +0.08 |         +6.29 |
+|  145 | Reid Johnsen              |  20.8 |        28 |        +0.07 |         +6.29 |
 |  146 | Jamie Funk                |  20.8 |        30 |              |               |
 |  147 | Matthew Brett             |  20.7 |        20 |              |               |
 |  148 | Prakash Bathini           |  20.7 |       122 |              |         -0.68 |
@@ -159,17 +159,17 @@ Generated 2016-08-10.
 |  155 | Steven Sloman             |  20.4 |        10 |              |               |
 |  156 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  157 | Carl Schreck              |  20.2 |         2 |              |               |
-|  158 | John Grim                 |  20.1 |        13 |              |               |
-|  159 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  160 | Frank Kennan              |  20.1 |        11 |              |               |
-|  161 | Mike Jensen-Akula         |  20.1 |       213 |        +0.12 |         -1.76 |
-|  162 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  163 | Wesley Huang              |  20.0 |         8 |              |               |
-|  164 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  165 | Jeff Gordon               |  19.9 |        28 |        +0.20 |               |
-|  166 | Jonathan Francis          |  19.9 |        63 |        -0.12 |         +0.55 |
-|  167 | Liam King                 |  19.9 |         6 |              |               |
-|  168 | Lysander Jim              |  19.8 |         6 |              |               |
+|  158 | Jeff Gordon               |  20.1 |        29 |        +0.43 |               |
+|  159 | John Grim                 |  20.1 |        13 |              |               |
+|  160 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  161 | Frank Kennan              |  20.1 |        11 |              |               |
+|  162 | Mike Jensen-Akula         |  20.1 |       213 |        +0.12 |         -1.76 |
+|  163 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  164 | Wesley Huang              |  20.0 |         8 |              |               |
+|  165 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  166 | Liam King                 |  19.9 |         6 |              |               |
+|  167 | Lysander Jim              |  19.8 |         6 |              |               |
+|  168 | Jonathan Francis          |  19.8 |        64 |        -0.26 |         +0.41 |
 |  169 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  170 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  171 | Mike Delanty              |  19.7 |        12 |              |               |
