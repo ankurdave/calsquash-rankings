@@ -261,9 +261,9 @@ Generated 2016-08-11.
 |  257 | Angie Ng                  |  15.7 |        12 |              |               |
 |  258 | Tanit Follett             |  15.5 |         8 |              |               |
 |  259 | Toni Queck                |  15.5 |        20 |              |               |
-|  260 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  261 | Kent Daniels              |  15.4 |        83 |        -0.08 |         +0.31 |
-|  262 | Terry Chang               |  15.4 |        40 |        +0.16 |         +1.71 |
+|  260 | Terry Chang               |  15.5 |        41 |        +0.24 |         +1.79 |
+|  261 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  262 | Kent Daniels              |  15.4 |        83 |        -0.08 |         +0.31 |
 |  263 | Peter Duerr               |  15.4 |        24 |              |               |
 |  264 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  265 | Jim Evans                 |  15.1 |       216 |              |               |
@@ -374,7 +374,7 @@ Generated 2016-08-11.
 |  370 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  371 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  372 | Jonas Hansen              |   8.6 |        14 |              |         +1.17 |
-|  373 | Duo Wang                  |   8.5 |        59 |              |         +1.61 |
+|  373 | Duo Wang                  |   8.4 |        60 |        -0.10 |         +1.51 |
 |  374 | Reynold Xin               |   8.3 |         5 |              |               |
 |  375 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  376 | Fahad Riyadh              |   8.2 |         5 |              |               |

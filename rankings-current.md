@@ -30,8 +30,8 @@ Generated 2016-08-11.
 |   26 | Eric Borden         |  17.3 |        26 |        -0.09 |        +13.50 |
 |   27 | Wayne Heiser        |  17.2 |        24 |        +0.05 |               |
 |   28 | Chris Flores        |  16.8 |       298 |        -0.12 |         -1.93 |
-|   29 | Kent Daniels        |  15.4 |        83 |        -0.08 |         +0.31 |
-|   30 | Terry Chang         |  15.4 |        40 |        +0.16 |         +1.71 |
+|   29 | Terry Chang         |  15.5 |        41 |        +0.24 |         +1.79 |
+|   30 | Kent Daniels        |  15.4 |        83 |        -0.08 |         +0.31 |
 |   31 | Ankur Dave          |  13.7 |        44 |        +0.04 |         +8.00 |
 |   32 | Robert Isaac        |  13.3 |         4 |        +1.40 |               |
 |   33 | Nikhil Paranjape    |  13.2 |        20 |        +0.10 |               |
@@ -40,7 +40,7 @@ Generated 2016-08-11.
 |   36 | Diego Butrich       |   9.6 |         1 |              |               |
 |   37 | Josh Lebowitz       |   9.1 |        21 |        +0.13 |               |
 |   38 | Daniel Schwartz     |   8.8 |        14 |              |               |
-|   39 | Duo Wang            |   8.5 |        59 |              |         +1.61 |
+|   39 | Duo Wang            |   8.4 |        60 |        -0.10 |         +1.51 |
 |   40 | Brian Kempenich     |   8.2 |        33 |              |         -0.96 |
 |   41 | Nate Aden           |   8.1 |        17 |        -0.13 |               |
 |   42 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
