@@ -230,9 +230,9 @@ Generated 2016-08-11.
 |  226 | Zach Brown                |  17.3 |         3 |              |               |
 |  227 | William Seles             |  17.2 |        15 |              |               |
 |  228 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  229 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  230 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  231 | Wayne Heiser              |  17.2 |        23 |              |               |
+|  229 | Wayne Heiser              |  17.2 |        24 |        +0.05 |               |
+|  230 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  231 | Lucas Cheon               |  17.2 |        19 |              |               |
 |  232 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  233 | Neil Conway               |  17.0 |        55 |              |               |
 |  234 | Michael Cianfrocco        |  17.0 |        18 |              |               |
@@ -294,7 +294,7 @@ Generated 2016-08-11.
 |  290 | Gurj Johal                |  13.8 |         2 |              |               |
 |  291 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  292 | Josephine Lee             |  13.7 |         6 |              |               |
-|  293 | Ankur Dave                |  13.7 |        43 |        +0.03 |         +8.00 |
+|  293 | Ankur Dave                |  13.7 |        44 |        +0.04 |         +8.00 |
 |  294 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  295 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  296 | Lars Foleide              |  13.5 |        11 |              |               |
