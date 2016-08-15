@@ -110,7 +110,7 @@ Generated 2016-08-15.
 |  106 | Saurabh Bajaj             |  22.4 |        21 |              |               |
 |  107 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  108 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  109 | Dan Meier                 |  22.3 |        44 |              |         +1.69 |
+|  109 | Dan Meier                 |  22.3 |        45 |        +0.02 |         +1.70 |
 |  110 | Jonathan Hankar           |  22.2 |       179 |        -0.05 |         +0.21 |
 |  111 | Robert Geiger             |  22.2 |         8 |              |               |
 |  112 | Aaron Socha               |  22.2 |        24 |              |               |
@@ -141,7 +141,7 @@ Generated 2016-08-15.
 |  137 | Jared Bard                |  21.1 |        27 |              |         +2.15 |
 |  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  139 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  140 | Mark Modera               |  21.0 |       305 |              |         -1.06 |
+|  140 | Mark Modera               |  21.0 |       306 |              |         -1.05 |
 |  141 | Paz Grimberg              |  21.0 |        17 |              |               |
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
