@@ -103,7 +103,7 @@ Generated 2016-08-15.
 |   99 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  100 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  101 | Julian Marshall           |  22.7 |        31 |              |               |
-|  102 | Matt Wong                 |  22.6 |        65 |        +0.33 |         +1.67 |
+|  102 | Matt Wong                 |  22.6 |        66 |        +0.32 |         +1.66 |
 |  103 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  104 | Dev Millstein             |  22.6 |        92 |              |               |
 |  105 | Sardar Nauman             |  22.4 |         4 |              |               |
@@ -141,7 +141,7 @@ Generated 2016-08-15.
 |  137 | Jared Bard                |  21.1 |        27 |              |         +2.15 |
 |  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  139 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  140 | Mark Modera               |  21.0 |       306 |              |         -1.05 |
+|  140 | Mark Modera               |  21.0 |       307 |        +0.03 |         -1.03 |
 |  141 | Paz Grimberg              |  21.0 |        17 |              |               |
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |

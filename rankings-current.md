@@ -10,12 +10,12 @@ Generated 2016-08-15.
 |    6 | John Kunze          |  24.7 |       296 |              |         -0.90 |
 |    7 | Dan Bohn            |  23.4 |        74 |        -0.30 |         +0.19 |
 |    8 | Aditya Guntuboyina  |  23.4 |        75 |              |         +2.15 |
-|    9 | Matt Wong           |  22.6 |        65 |        +0.33 |         +1.67 |
+|    9 | Matt Wong           |  22.6 |        66 |        +0.32 |         +1.66 |
 |   10 | Saurabh Bajaj       |  22.4 |        21 |              |               |
 |   11 | Dan Meier           |  22.3 |        45 |        +0.02 |         +1.70 |
 |   12 | Jonathan Hankar     |  22.2 |       179 |        -0.05 |         +0.21 |
 |   13 | Jared Bard          |  21.1 |        27 |              |         +2.15 |
-|   14 | Mark Modera         |  21.0 |       306 |              |         -1.05 |
+|   14 | Mark Modera         |  21.0 |       307 |        +0.03 |         -1.03 |
 |   15 | Reid Johnsen        |  20.8 |        28 |        +0.07 |         +6.29 |
 |   16 | Sam McCormick       |  20.5 |        15 |              |               |
 |   17 | Jeff Gordon         |  20.1 |        29 |        +0.43 |               |
