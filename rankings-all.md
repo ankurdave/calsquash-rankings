@@ -146,7 +146,7 @@ Generated 2016-08-15.
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  145 | Reid Johnsen              |  20.8 |        28 |        +0.07 |         +6.29 |
+|  145 | Reid Johnsen              |  20.8 |        28 |        +0.08 |         +6.29 |
 |  146 | Jamie Funk                |  20.8 |        30 |              |               |
 |  147 | Matthew Brett             |  20.7 |        20 |              |               |
 |  148 | Prakash Bathini           |  20.7 |       122 |              |         -0.68 |
@@ -158,8 +158,8 @@ Generated 2016-08-15.
 |  154 | Sam McCormick             |  20.5 |        15 |              |               |
 |  155 | Steven Sloman             |  20.4 |        10 |              |               |
 |  156 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  157 | Carl Schreck              |  20.2 |         2 |              |               |
-|  158 | Jeff Gordon               |  20.1 |        29 |        +0.43 |               |
+|  157 | Jeff Gordon               |  20.2 |        30 |        +0.50 |               |
+|  158 | Carl Schreck              |  20.2 |         2 |              |               |
 |  159 | John Grim                 |  20.1 |        13 |              |               |
 |  160 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  161 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -220,10 +220,10 @@ Generated 2016-08-15.
 |  216 | Subrato Dey               |  17.5 |        26 |        +0.20 |               |
 |  217 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  218 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  219 | Troup Howard              |  17.4 |        36 |              |         -0.33 |
-|  220 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  221 | Craig Riddell             |  17.4 |         8 |              |               |
-|  222 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  219 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  220 | Craig Riddell             |  17.4 |         8 |              |               |
+|  221 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  222 | Troup Howard              |  17.3 |        37 |        -0.04 |         -0.37 |
 |  223 | Eric Borden               |  17.3 |        26 |        -0.09 |        +13.50 |
 |  224 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  225 | Ariel Grostern            |  17.3 |        94 |              |               |
