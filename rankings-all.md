@@ -217,14 +217,14 @@ Generated 2016-08-16.
 |  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  214 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  215 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  216 | Subrato Dey               |  17.5 |        26 |        +0.20 |               |
-|  217 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  218 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  219 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  220 | Craig Riddell             |  17.4 |         8 |              |               |
-|  221 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  222 | Troup Howard              |  17.3 |        37 |        -0.04 |         -0.37 |
-|  223 | Eric Borden               |  17.3 |        26 |        -0.09 |        +13.50 |
+|  216 | Eric Borden               |  17.5 |        27 |        +0.11 |        +13.70 |
+|  217 | Subrato Dey               |  17.5 |        26 |        +0.20 |               |
+|  218 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  219 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  220 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  221 | Craig Riddell             |  17.4 |         8 |              |               |
+|  222 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  223 | Troup Howard              |  17.3 |        37 |        -0.04 |         -0.37 |
 |  224 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  225 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  226 | Zach Brown                |  17.3 |         3 |              |               |
@@ -239,9 +239,9 @@ Generated 2016-08-16.
 |  235 | Baxter Leman              |  16.9 |         6 |              |               |
 |  236 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  237 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  238 | Chris Flores              |  16.8 |       298 |        -0.12 |         -1.93 |
-|  239 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  240 | David Shabelman           |  16.7 |        30 |              |               |
+|  238 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  239 | David Shabelman           |  16.7 |        30 |              |               |
+|  240 | Chris Flores              |  16.7 |       299 |        -0.24 |         -2.05 |
 |  241 | Mark Priven               |  16.6 |        72 |              |               |
 |  242 | William Coleman           |  16.5 |        48 |              |               |
 |  243 | Mike Troxell              |  16.5 |         8 |              |               |
