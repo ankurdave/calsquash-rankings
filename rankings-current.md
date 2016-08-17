@@ -16,7 +16,7 @@ Generated 2016-08-17.
 |   12 | Jonathan Hankar     |  22.2 |       179 |        -0.05 |         +0.21 |
 |   13 | Jared Bard          |  21.1 |        27 |              |         +2.15 |
 |   14 | Mark Modera         |  21.0 |       307 |        +0.03 |         -1.03 |
-|   15 | Reid Johnsen        |  20.8 |        28 |        +0.08 |         +6.29 |
+|   15 | Reid Johnsen        |  20.8 |        29 |        +0.12 |         +6.33 |
 |   16 | Sam McCormick       |  20.5 |        15 |              |               |
 |   17 | Jeff Gordon         |  20.2 |        30 |        +0.50 |               |
 |   18 | Mike Jensen-Akula   |  20.1 |       213 |        +0.12 |         -1.76 |
@@ -27,7 +27,7 @@ Generated 2016-08-17.
 |   23 | Josh Trauner        |  17.8 |        29 |              |               |
 |   24 | Eric Borden         |  17.5 |        27 |        +0.11 |        +13.70 |
 |   25 | Subrato Dey         |  17.5 |        26 |        +0.20 |               |
-|   26 | Troup Howard        |  17.3 |        37 |        -0.04 |         -0.37 |
+|   26 | Troup Howard        |  17.3 |        38 |        -0.04 |         -0.37 |
 |   27 | Wayne Heiser        |  17.2 |        24 |        +0.05 |               |
 |   28 | Chris Flores        |  16.7 |       299 |        -0.24 |         -2.05 |
 |   29 | Terry Chang         |  15.5 |        41 |        +0.24 |         +1.79 |

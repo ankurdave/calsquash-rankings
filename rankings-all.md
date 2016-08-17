@@ -146,7 +146,7 @@ Generated 2016-08-17.
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  145 | Reid Johnsen              |  20.8 |        28 |        +0.08 |         +6.29 |
+|  145 | Reid Johnsen              |  20.8 |        29 |        +0.12 |         +6.33 |
 |  146 | Jamie Funk                |  20.8 |        30 |              |               |
 |  147 | Matthew Brett             |  20.7 |        20 |              |               |
 |  148 | Prakash Bathini           |  20.7 |       122 |              |         -0.68 |
@@ -224,7 +224,7 @@ Generated 2016-08-17.
 |  220 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  221 | Craig Riddell             |  17.4 |         8 |              |               |
 |  222 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  223 | Troup Howard              |  17.3 |        37 |        -0.04 |         -0.37 |
+|  223 | Troup Howard              |  17.3 |        38 |        -0.04 |         -0.37 |
 |  224 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  225 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  226 | Zach Brown                |  17.3 |         3 |              |               |
