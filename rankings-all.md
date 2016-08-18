@@ -204,11 +204,11 @@ Generated 2016-08-17.
 |  200 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  201 | John Eng                  |  18.4 |        28 |              |               |
 |  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  203 | Dror Matalon              |  18.3 |       343 |              |         -0.01 |
-|  204 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  205 | Bob Roller                |  18.2 |         6 |              |               |
-|  206 | Shaun Lim                 |  18.1 |        40 |        -0.08 |         +0.17 |
-|  207 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  203 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  204 | Bob Roller                |  18.2 |         6 |              |               |
+|  205 | Shaun Lim                 |  18.1 |        40 |        -0.08 |         +0.17 |
+|  206 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  207 | Dror Matalon              |  18.0 |       344 |        -0.31 |         -0.33 |
 |  208 | James Chung               |  17.9 |         7 |              |               |
 |  209 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
 |  210 | Josh Trauner              |  17.8 |        29 |              |               |
@@ -287,14 +287,14 @@ Generated 2016-08-17.
 |  283 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  284 | Adam Soliman              |  14.2 |        32 |              |               |
 |  285 | Charles Denby             |  14.2 |         5 |              |               |
-|  286 | Neil Sachs                |  14.1 |        12 |              |               |
-|  287 | Rupert Myers              |  14.0 |        27 |              |         -1.58 |
-|  288 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  289 | Mekoce Walker             |  13.8 |        38 |              |               |
-|  290 | Gurj Johal                |  13.8 |         2 |              |               |
-|  291 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  292 | Josephine Lee             |  13.7 |         6 |              |               |
-|  293 | Ankur Dave                |  13.7 |        44 |        +0.04 |         +8.00 |
+|  286 | Ankur Dave                |  14.1 |        45 |        +0.43 |         +8.40 |
+|  287 | Neil Sachs                |  14.1 |        12 |              |               |
+|  288 | Rupert Myers              |  14.0 |        27 |              |         -1.58 |
+|  289 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
+|  290 | Mekoce Walker             |  13.8 |        38 |              |               |
+|  291 | Gurj Johal                |  13.8 |         2 |              |               |
+|  292 | Freeden Ouer              |  13.8 |         1 |              |               |
+|  293 | Josephine Lee             |  13.7 |         6 |              |               |
 |  294 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  295 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  296 | Lars Foleide              |  13.5 |        11 |              |               |
