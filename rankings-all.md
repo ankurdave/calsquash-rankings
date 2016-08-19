@@ -263,7 +263,7 @@ Generated 2016-08-18.
 |  259 | Toni Queck                |  15.5 |        20 |              |               |
 |  260 | Terry Chang               |  15.5 |        41 |        +0.24 |         +1.79 |
 |  261 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  262 | Kent Daniels              |  15.4 |        83 |        -0.08 |         +0.31 |
+|  262 | Kent Daniels              |  15.4 |        84 |        -0.13 |         +0.26 |
 |  263 | Peter Duerr               |  15.4 |        24 |              |               |
 |  264 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  265 | Jim Evans                 |  15.1 |       216 |              |               |
@@ -303,7 +303,7 @@ Generated 2016-08-18.
 |  299 | Jake Toy                  |  13.4 |         5 |              |               |
 |  300 | Robert Isaac              |  13.3 |         4 |        +1.40 |               |
 |  301 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  302 | Nikhil Paranjape          |  13.2 |        20 |        +0.10 |               |
+|  302 | Nikhil Paranjape          |  13.2 |        20 |        +0.11 |               |
 |  303 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  304 | Field Maloney             |  13.1 |        24 |              |               |
 |  305 | Saumil Chheda             |  13.0 |         1 |              |               |
@@ -360,9 +360,9 @@ Generated 2016-08-18.
 |  356 | Robert Broesler           |   9.4 |         4 |              |               |
 |  357 | Raunak Bhinge             |   9.3 |         8 |              |               |
 |  358 | Greg Sperla               |   9.3 |         8 |              |               |
-|  359 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  360 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  361 | Josh Lebowitz             |   9.1 |        21 |        +0.13 |               |
+|  359 | Josh Lebowitz             |   9.3 |        22 |        +0.35 |               |
+|  360 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  361 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  362 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  363 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
 |  364 | Daniel Schwartz           |   8.8 |        14 |              |               |
