@@ -39,7 +39,7 @@ Generated 2016-08-23.
 |   35 | Reto Sutter         |  10.7 |        44 |        -0.15 |         -0.09 |
 |   36 | Diego Butrich       |   9.6 |         1 |              |               |
 |   37 | Josh Lebowitz       |   9.3 |        22 |        +0.35 |               |
-|   38 | Daniel Schwartz     |   8.8 |        14 |              |               |
+|   38 | Daniel Schwartz     |   9.2 |        15 |        +0.34 |               |
 |   39 | Duo Wang            |   8.4 |        60 |        -0.10 |         +1.51 |
 |   40 | Brian Kempenich     |   8.2 |        33 |              |         -0.96 |
 |   41 | Nate Aden           |   8.1 |        17 |        -0.13 |               |
@@ -49,4 +49,4 @@ Generated 2016-08-23.
 |   45 | Sameer Bajaj        |   4.6 |         2 |              |               |
 |   46 | Ryan                |   4.0 |         3 |              |               |
 |   47 | Nakul Vakil         |   3.0 |         5 |        +3.01 |               |
-|   48 | Cristhian Daniel    |  -1.1 |         3 |              |               |
+|   48 | Cristhian Daniel    |  -1.4 |         4 |        -0.21 |               |

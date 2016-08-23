@@ -362,10 +362,10 @@ Generated 2016-08-23.
 |  358 | Greg Sperla               |   9.3 |         8 |              |               |
 |  359 | Josh Lebowitz             |   9.3 |        22 |        +0.35 |               |
 |  360 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  361 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  362 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  363 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  364 | Daniel Schwartz           |   8.8 |        14 |              |               |
+|  361 | Daniel Schwartz           |   9.2 |        15 |        +0.34 |               |
+|  362 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  363 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  364 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
 |  365 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  366 | Raphael Magarik           |   8.8 |         6 |              |               |
 |  367 | Nicholas Bauer            |   8.8 |        16 |              |               |
@@ -476,7 +476,7 @@ Generated 2016-08-23.
 |  472 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  473 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  474 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  475 | Cristhian Daniel          |  -1.1 |         3 |              |               |
+|  475 | Cristhian Daniel          |  -1.4 |         4 |        -0.21 |               |
 |  476 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  477 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  478 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
