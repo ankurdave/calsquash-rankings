@@ -163,7 +163,7 @@ Generated 2016-08-24.
 |  159 | John Grim                 |  20.1 |        13 |              |               |
 |  160 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  161 | Frank Kennan              |  20.1 |        11 |              |               |
-|  162 | Mike Jensen-Akula         |  20.1 |       213 |        +0.12 |         -1.76 |
+|  162 | Mike Jensen-Akula         |  20.0 |       214 |        +0.07 |         -1.81 |
 |  163 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  164 | Wesley Huang              |  20.0 |         8 |              |               |
 |  165 | Jaime Vidal               |  19.9 |         8 |              |               |
@@ -216,8 +216,8 @@ Generated 2016-08-24.
 |  212 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  214 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  215 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  216 | Eric Borden               |  17.5 |        27 |        +0.11 |        +13.70 |
+|  215 | Eric Borden               |  17.7 |        28 |        +0.23 |        +13.82 |
+|  216 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  217 | Subrato Dey               |  17.5 |        26 |        +0.20 |               |
 |  218 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  219 | Sam Trachtman             |  17.4 |         5 |              |               |
