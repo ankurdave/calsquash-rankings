@@ -103,14 +103,14 @@ Generated 2016-08-23.
 |   99 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  100 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  101 | Julian Marshall           |  22.7 |        31 |              |               |
-|  102 | Matt Wong                 |  22.6 |        66 |        +0.32 |         +1.66 |
-|  103 | Gautam Tankha             |  22.6 |         7 |              |               |
-|  104 | Dev Millstein             |  22.6 |        92 |              |               |
+|  102 | Gautam Tankha             |  22.6 |         7 |              |               |
+|  103 | Dev Millstein             |  22.6 |        92 |              |               |
+|  104 | Matt Wong                 |  22.5 |        67 |        +0.25 |         +1.58 |
 |  105 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  106 | Saurabh Bajaj             |  22.4 |        21 |              |               |
-|  107 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  108 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  109 | Dan Meier                 |  22.3 |        45 |        +0.02 |         +1.70 |
+|  107 | Dan Meier                 |  22.4 |        46 |        +0.12 |         +1.81 |
+|  108 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  109 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  110 | Jonathan Hankar           |  22.2 |       179 |        -0.05 |         +0.21 |
 |  111 | Robert Geiger             |  22.2 |         8 |              |               |
 |  112 | Aaron Socha               |  22.2 |        24 |              |               |
