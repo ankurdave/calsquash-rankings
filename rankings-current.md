@@ -30,12 +30,12 @@ Generated 2016-08-25.
 |   26 | Troup Howard        |  17.3 |        38 |        -0.04 |         -0.37 |
 |   27 | Wayne Heiser        |  17.2 |        24 |        +0.05 |               |
 |   28 | Chris Flores        |  16.7 |       299 |        -0.24 |         -2.05 |
-|   29 | Terry Chang         |  15.5 |        41 |        +0.24 |         +1.79 |
+|   29 | Terry Chang         |  15.6 |        42 |        +0.34 |         +1.90 |
 |   30 | Kent Daniels        |  15.4 |        84 |        -0.13 |         +0.26 |
 |   31 | Ankur Dave          |  14.1 |        45 |        +0.43 |         +8.40 |
 |   32 | Robert Isaac        |  13.3 |         4 |        +1.40 |               |
 |   33 | Nikhil Paranjape    |  13.2 |        20 |        +0.11 |               |
-|   34 | Jennifer Rha        |  12.1 |        14 |              |         +2.17 |
+|   34 | Jennifer Rha        |  12.1 |        15 |        -0.01 |         +2.16 |
 |   35 | Reto Sutter         |  10.7 |        44 |        -0.15 |         -0.09 |
 |   36 | Diego Butrich       |   9.6 |         1 |              |               |
 |   37 | Josh Lebowitz       |   9.3 |        22 |        +0.35 |               |

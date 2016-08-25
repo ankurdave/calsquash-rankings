@@ -259,9 +259,9 @@ Generated 2016-08-25.
 |  255 | Jared Nunn                |  15.7 |         5 |              |               |
 |  256 | Akash Sharma              |  15.7 |         8 |              |               |
 |  257 | Angie Ng                  |  15.7 |        12 |              |               |
-|  258 | Tanit Follett             |  15.5 |         8 |              |               |
-|  259 | Toni Queck                |  15.5 |        20 |              |               |
-|  260 | Terry Chang               |  15.5 |        41 |        +0.24 |         +1.79 |
+|  258 | Terry Chang               |  15.6 |        42 |        +0.34 |         +1.90 |
+|  259 | Tanit Follett             |  15.5 |         8 |              |               |
+|  260 | Toni Queck                |  15.5 |        20 |              |               |
 |  261 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  262 | Kent Daniels              |  15.4 |        84 |        -0.13 |         +0.26 |
 |  263 | Peter Duerr               |  15.4 |        24 |              |               |
@@ -316,7 +316,7 @@ Generated 2016-08-25.
 |  312 | Richard Fabini            |  12.4 |         3 |              |               |
 |  313 | John Givens               |  12.2 |        13 |              |               |
 |  314 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  315 | Jennifer Rha              |  12.1 |        14 |              |         +2.17 |
+|  315 | Jennifer Rha              |  12.1 |        15 |        -0.01 |         +2.16 |
 |  316 | Reed Foster               |  12.1 |         8 |              |               |
 |  317 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  318 | Larry Dale                |  11.9 |        29 |              |               |
