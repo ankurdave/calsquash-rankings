@@ -186,10 +186,10 @@ Generated 2016-08-25.
 |  182 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  183 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  184 | Yating Liu                |  19.0 |         7 |              |               |
-|  185 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
-|  186 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  187 | Gabriel Kahn              |  18.9 |         5 |              |         +7.87 |
-|  188 | Kenny Bell                |  18.8 |       112 |              |         +1.33 |
+|  185 | Kenny Bell                |  18.9 |       113 |        +0.11 |         +1.44 |
+|  186 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
+|  187 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  188 | Gabriel Kahn              |  18.9 |         5 |              |         +7.87 |
 |  189 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  190 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  191 | Peter Dering              |  18.7 |         9 |              |               |
@@ -208,7 +208,7 @@ Generated 2016-08-25.
 |  204 | Bob Roller                |  18.2 |         6 |              |               |
 |  205 | Shaun Lim                 |  18.1 |        40 |        -0.08 |         +0.17 |
 |  206 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  207 | Dror Matalon              |  18.0 |       344 |        -0.31 |         -0.33 |
+|  207 | Dror Matalon              |  18.0 |       344 |        -0.32 |         -0.33 |
 |  208 | James Chung               |  17.9 |         7 |              |               |
 |  209 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
 |  210 | Josh Trauner              |  17.8 |        29 |              |               |
@@ -287,9 +287,9 @@ Generated 2016-08-25.
 |  283 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  284 | Adam Soliman              |  14.2 |        32 |              |               |
 |  285 | Charles Denby             |  14.2 |         5 |              |               |
-|  286 | Ankur Dave                |  14.1 |        45 |        +0.43 |         +8.40 |
-|  287 | Neil Sachs                |  14.1 |        12 |              |               |
-|  288 | Rupert Myers              |  14.0 |        27 |              |         -1.58 |
+|  286 | Neil Sachs                |  14.1 |        12 |              |               |
+|  287 | Rupert Myers              |  14.0 |        27 |              |         -1.58 |
+|  288 | Ankur Dave                |  14.0 |        46 |        +0.31 |         +8.27 |
 |  289 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  290 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  291 | Gurj Johal                |  13.8 |         2 |              |               |

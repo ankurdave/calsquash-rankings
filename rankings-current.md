@@ -21,9 +21,9 @@ Generated 2016-08-25.
 |   17 | Jeff Gordon         |  20.2 |        30 |        +0.50 |               |
 |   18 | Mike Jensen-Akula   |  20.0 |       214 |        +0.07 |         -1.81 |
 |   19 | Jonathan Francis    |  19.8 |        64 |        -0.26 |         +0.41 |
-|   20 | Kenny Bell          |  18.8 |       112 |              |         +1.33 |
+|   20 | Kenny Bell          |  18.9 |       113 |        +0.11 |         +1.44 |
 |   21 | Shaun Lim           |  18.1 |        40 |        -0.08 |         +0.17 |
-|   22 | Dror Matalon        |  18.0 |       344 |        -0.31 |         -0.33 |
+|   22 | Dror Matalon        |  18.0 |       344 |        -0.32 |         -0.33 |
 |   23 | Josh Trauner        |  17.8 |        29 |              |               |
 |   24 | Eric Borden         |  17.7 |        28 |        +0.23 |        +13.82 |
 |   25 | Subrato Dey         |  17.5 |        26 |        +0.20 |               |
@@ -32,7 +32,7 @@ Generated 2016-08-25.
 |   28 | Chris Flores        |  16.7 |       299 |        -0.24 |         -2.05 |
 |   29 | Terry Chang         |  15.6 |        42 |        +0.34 |         +1.90 |
 |   30 | Kent Daniels        |  15.4 |        84 |        -0.13 |         +0.26 |
-|   31 | Ankur Dave          |  14.1 |        45 |        +0.43 |         +8.40 |
+|   31 | Ankur Dave          |  14.0 |        46 |        +0.31 |         +8.27 |
 |   32 | Robert Isaac        |  13.3 |         4 |        +1.40 |               |
 |   33 | Nikhil Paranjape    |  13.2 |        20 |        +0.11 |               |
 |   34 | Jennifer Rha        |  12.1 |        15 |        -0.01 |         +2.16 |
