@@ -10,13 +10,13 @@ Generated 2016-08-26.
 |    6 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    7 | Louis Morrill             |  32.7 |        10 |              |               |
 |    8 | Tanu Sankalia             |  32.6 |        94 |              |               |
-|    9 | Rees Sweeney-Taylor       |  32.4 |        84 |        +0.02 |         +1.46 |
+|    9 | Rees Sweeney-Taylor       |  32.4 |        84 |        +0.03 |         +1.46 |
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Jeff Grant                |  31.3 |       207 |              |               |
 |   13 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   15 | Sam Sternberg             |  30.6 |       120 |        +0.19 |         +1.39 |
+|   15 | Sam Sternberg             |  30.7 |       121 |        +0.31 |         +1.50 |
 |   16 | Eric Katerman             |  30.4 |        17 |        +0.02 |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
@@ -48,9 +48,9 @@ Generated 2016-08-26.
 |   44 | Vishi                     |  26.0 |        41 |              |         -0.14 |
 |   45 | Peter McDermott           |  25.8 |        10 |              |               |
 |   46 | Andrew Hsu                |  25.8 |        15 |              |               |
-|   47 | Jim Veitch                |  25.8 |       419 |              |         -0.11 |
-|   48 | Arvind Muralimohan        |  25.7 |        16 |              |               |
-|   49 | Nick Cobbett              |  25.7 |        24 |              |               |
+|   47 | Arvind Muralimohan        |  25.7 |        16 |              |               |
+|   48 | Nick Cobbett              |  25.7 |        24 |              |               |
+|   49 | Jim Veitch                |  25.7 |       420 |        -0.13 |         -0.25 |
 |   50 | Richard Chan              |  25.5 |         9 |              |               |
 |   51 | Joe Schneider             |  25.5 |         8 |              |               |
 |   52 | Adam Angsten              |  25.4 |         3 |              |               |
