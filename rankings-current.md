@@ -11,9 +11,9 @@ Generated 2016-08-27.
 |    7 | Dan Bohn            |  23.4 |        74 |        -0.30 |         +0.19 |
 |    8 | Aditya Guntuboyina  |  23.4 |        75 |              |         +2.15 |
 |    9 | Matt Wong           |  22.5 |        67 |        +0.25 |         +1.58 |
-|   10 | Saurabh Bajaj       |  22.4 |        21 |              |               |
-|   11 | Dan Meier           |  22.4 |        46 |        +0.12 |         +1.81 |
-|   12 | Jonathan Hankar     |  22.2 |       179 |        -0.05 |         +0.21 |
+|   10 | Dan Meier           |  22.4 |        46 |        +0.12 |         +1.81 |
+|   11 | Jonathan Hankar     |  22.2 |       179 |        -0.05 |         +0.21 |
+|   12 | Saurabh Bajaj       |  21.8 |        22 |        -0.62 |               |
 |   13 | Reid Johnsen        |  21.1 |        30 |        +0.45 |         +6.67 |
 |   14 | Mark Modera         |  21.0 |       307 |        +0.03 |         -1.03 |
 |   15 | Jared Bard          |  20.7 |        28 |        -0.38 |         +1.77 |
@@ -29,11 +29,11 @@ Generated 2016-08-27.
 |   25 | Subrato Dey         |  17.5 |        26 |        +0.20 |               |
 |   26 | Troup Howard        |  17.4 |        38 |        -0.02 |         -0.35 |
 |   27 | Wayne Heiser        |  16.9 |        25 |        -0.26 |               |
-|   28 | Chris Flores        |  16.7 |       299 |        -0.24 |         -2.05 |
-|   29 | Terry Chang         |  15.6 |        42 |        +0.34 |         +1.90 |
-|   30 | Kent Daniels        |  15.4 |        84 |        -0.13 |         +0.26 |
-|   31 | Ankur Dave          |  14.0 |        46 |        +0.31 |         +8.27 |
-|   32 | Robert Isaac        |  13.3 |         4 |        +1.40 |               |
+|   28 | Robert Isaac        |  16.8 |         5 |        +4.92 |               |
+|   29 | Chris Flores        |  16.7 |       299 |        -0.24 |         -2.05 |
+|   30 | Terry Chang         |  15.6 |        42 |        +0.34 |         +1.90 |
+|   31 | Kent Daniels        |  15.4 |        84 |        -0.13 |         +0.26 |
+|   32 | Ankur Dave          |  14.0 |        46 |        +0.31 |         +8.27 |
 |   33 | Nikhil Paranjape    |  13.2 |        20 |        +0.11 |               |
 |   34 | Jennifer Rha        |  12.1 |        15 |        -0.01 |         +2.16 |
 |   35 | Reto Sutter         |  10.7 |        44 |        -0.15 |         -0.09 |
