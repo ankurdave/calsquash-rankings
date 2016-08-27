@@ -138,7 +138,7 @@ Generated 2016-08-26.
 |  134 | Casey Harelson            |  21.2 |        20 |              |               |
 |  135 | Philip Bildner            |  21.2 |        22 |              |               |
 |  136 | Darren Morgan             |  21.2 |        11 |              |               |
-|  137 | Jared Bard                |  21.1 |        27 |              |         +2.15 |
+|  137 | Reid Johnsen              |  21.1 |        30 |        +0.45 |         +6.67 |
 |  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  139 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  140 | Mark Modera               |  21.0 |       307 |        +0.03 |         -1.03 |
@@ -146,9 +146,9 @@ Generated 2016-08-26.
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  145 | Reid Johnsen              |  20.8 |        29 |        +0.12 |         +6.33 |
-|  146 | Jamie Funk                |  20.8 |        30 |              |               |
-|  147 | Matthew Brett             |  20.7 |        20 |              |               |
+|  145 | Jamie Funk                |  20.8 |        30 |              |               |
+|  146 | Matthew Brett             |  20.7 |        20 |              |               |
+|  147 | Jared Bard                |  20.7 |        28 |        -0.38 |         +1.77 |
 |  148 | Prakash Bathini           |  20.7 |       122 |              |         -0.68 |
 |  149 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  150 | Andres Ramirez            |  20.6 |         8 |              |               |
@@ -158,7 +158,7 @@ Generated 2016-08-26.
 |  154 | Sam McCormick             |  20.5 |        15 |              |               |
 |  155 | Steven Sloman             |  20.4 |        10 |              |               |
 |  156 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  157 | Jeff Gordon               |  20.2 |        30 |        +0.50 |               |
+|  157 | Jeff Gordon               |  20.2 |        30 |        +0.52 |               |
 |  158 | Carl Schreck              |  20.2 |         2 |              |               |
 |  159 | John Grim                 |  20.1 |        13 |              |               |
 |  160 | Shwetabh Singh            |  20.1 |         6 |              |               |
@@ -169,7 +169,7 @@ Generated 2016-08-26.
 |  165 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  166 | Liam King                 |  19.9 |         6 |              |               |
 |  167 | Lysander Jim              |  19.8 |         6 |              |               |
-|  168 | Jonathan Francis          |  19.8 |        64 |        -0.26 |         +0.41 |
+|  168 | Jonathan Francis          |  19.8 |        64 |        -0.25 |         +0.42 |
 |  169 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  170 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  171 | Mike Delanty              |  19.7 |        12 |              |               |
@@ -222,9 +222,9 @@ Generated 2016-08-26.
 |  218 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  219 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  220 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  221 | Craig Riddell             |  17.4 |         8 |              |               |
-|  222 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  223 | Troup Howard              |  17.3 |        38 |        -0.04 |         -0.37 |
+|  221 | Troup Howard              |  17.4 |        38 |        -0.02 |         -0.35 |
+|  222 | Craig Riddell             |  17.4 |         8 |              |               |
+|  223 | Charity Caruthers         |  17.3 |         4 |              |               |
 |  224 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  225 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  226 | Zach Brown                |  17.3 |         3 |              |               |

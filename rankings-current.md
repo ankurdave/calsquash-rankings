@@ -14,20 +14,20 @@ Generated 2016-08-26.
 |   10 | Saurabh Bajaj       |  22.4 |        21 |              |               |
 |   11 | Dan Meier           |  22.4 |        46 |        +0.12 |         +1.81 |
 |   12 | Jonathan Hankar     |  22.2 |       179 |        -0.05 |         +0.21 |
-|   13 | Jared Bard          |  21.1 |        27 |              |         +2.15 |
+|   13 | Reid Johnsen        |  21.1 |        30 |        +0.45 |         +6.67 |
 |   14 | Mark Modera         |  21.0 |       307 |        +0.03 |         -1.03 |
-|   15 | Reid Johnsen        |  20.8 |        29 |        +0.12 |         +6.33 |
+|   15 | Jared Bard          |  20.7 |        28 |        -0.38 |         +1.77 |
 |   16 | Sam McCormick       |  20.5 |        15 |              |               |
-|   17 | Jeff Gordon         |  20.2 |        30 |        +0.50 |               |
+|   17 | Jeff Gordon         |  20.2 |        30 |        +0.52 |               |
 |   18 | Mike Jensen-Akula   |  20.0 |       214 |        +0.07 |         -1.81 |
-|   19 | Jonathan Francis    |  19.8 |        64 |        -0.26 |         +0.41 |
+|   19 | Jonathan Francis    |  19.8 |        64 |        -0.25 |         +0.42 |
 |   20 | Kenny Bell          |  18.9 |       113 |        +0.11 |         +1.44 |
 |   21 | Dror Matalon        |  18.3 |       345 |        -0.08 |         -0.09 |
 |   22 | Shaun Lim           |  18.1 |        40 |        -0.08 |         +0.17 |
 |   23 | Josh Trauner        |  17.8 |        29 |              |               |
 |   24 | Eric Borden         |  17.7 |        28 |        +0.23 |        +13.82 |
 |   25 | Subrato Dey         |  17.5 |        26 |        +0.20 |               |
-|   26 | Troup Howard        |  17.3 |        38 |        -0.04 |         -0.37 |
+|   26 | Troup Howard        |  17.4 |        38 |        -0.02 |         -0.35 |
 |   27 | Wayne Heiser        |  16.9 |        25 |        -0.26 |               |
 |   28 | Chris Flores        |  16.7 |       299 |        -0.24 |         -2.05 |
 |   29 | Terry Chang         |  15.6 |        42 |        +0.34 |         +1.90 |
