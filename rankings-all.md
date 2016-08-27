@@ -204,11 +204,11 @@ Generated 2016-08-26.
 |  200 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  201 | John Eng                  |  18.4 |        28 |              |               |
 |  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  203 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  204 | Bob Roller                |  18.2 |         6 |              |               |
-|  205 | Shaun Lim                 |  18.1 |        40 |        -0.08 |         +0.17 |
-|  206 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  207 | Dror Matalon              |  18.0 |       344 |        -0.32 |         -0.33 |
+|  203 | Dror Matalon              |  18.3 |       345 |        -0.08 |         -0.09 |
+|  204 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  205 | Bob Roller                |  18.2 |         6 |              |               |
+|  206 | Shaun Lim                 |  18.1 |        40 |        -0.08 |         +0.17 |
+|  207 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  208 | James Chung               |  17.9 |         7 |              |               |
 |  209 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
 |  210 | Josh Trauner              |  17.8 |        29 |              |               |
@@ -230,13 +230,13 @@ Generated 2016-08-26.
 |  226 | Zach Brown                |  17.3 |         3 |              |               |
 |  227 | William Seles             |  17.2 |        15 |              |               |
 |  228 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  229 | Wayne Heiser              |  17.2 |        24 |        +0.05 |               |
-|  230 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  231 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  232 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  233 | Neil Conway               |  17.0 |        55 |              |               |
-|  234 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  235 | Baxter Leman              |  16.9 |         6 |              |               |
+|  229 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  230 | Lucas Cheon               |  17.2 |        19 |              |               |
+|  231 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  232 | Neil Conway               |  17.0 |        55 |              |               |
+|  233 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  234 | Baxter Leman              |  16.9 |         6 |              |               |
+|  235 | Wayne Heiser              |  16.9 |        25 |        -0.26 |               |
 |  236 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  237 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  238 | Chinghway Lim             |  16.7 |        10 |              |               |
