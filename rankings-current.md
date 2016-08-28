@@ -2,14 +2,14 @@ Generated 2016-08-28.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
-|    1 | Rees Sweeney-Taylor |  32.4 |        84 |        +0.03 |         +1.46 |
-|    2 | Sam Sternberg       |  30.7 |       121 |        +0.31 |         +1.50 |
+|    1 | Rees Sweeney-Taylor |  32.5 |        84 |        +0.03 |         +1.47 |
+|    2 | Sam Sternberg       |  30.8 |       122 |        +0.36 |         +1.56 |
 |    3 | Eric Katerman       |  30.4 |        17 |        +0.02 |               |
 |    4 | Frank Kennamer      |  26.9 |       206 |              |         -0.40 |
 |    5 | Jim Veitch          |  25.7 |       420 |        -0.13 |         -0.25 |
 |    6 | John Kunze          |  24.7 |       296 |              |         -0.90 |
 |    7 | Dan Bohn            |  23.4 |        74 |        -0.30 |         +0.19 |
-|    8 | Aditya Guntuboyina  |  23.4 |        75 |              |         +2.15 |
+|    8 | Aditya Guntuboyina  |  23.3 |        76 |        -0.09 |         +2.06 |
 |    9 | Matt Wong           |  22.5 |        67 |        +0.25 |         +1.58 |
 |   10 | Dan Meier           |  22.4 |        46 |        +0.12 |         +1.81 |
 |   11 | Jonathan Hankar     |  22.2 |       179 |        -0.05 |         +0.21 |

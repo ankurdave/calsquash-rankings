@@ -10,13 +10,13 @@ Generated 2016-08-28.
 |    6 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    7 | Louis Morrill             |  32.7 |        10 |              |               |
 |    8 | Tanu Sankalia             |  32.6 |        94 |              |               |
-|    9 | Rees Sweeney-Taylor       |  32.4 |        84 |        +0.03 |         +1.46 |
+|    9 | Rees Sweeney-Taylor       |  32.5 |        84 |        +0.03 |         +1.47 |
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Jeff Grant                |  31.3 |       207 |              |               |
 |   13 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   15 | Sam Sternberg             |  30.7 |       121 |        +0.31 |         +1.50 |
+|   15 | Sam Sternberg             |  30.8 |       122 |        +0.36 |         +1.56 |
 |   16 | Eric Katerman             |  30.4 |        17 |        +0.02 |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
@@ -93,8 +93,8 @@ Generated 2016-08-28.
 |   89 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   90 | Amy Lee                   |  23.6 |        56 |              |               |
 |   91 | Dan Bohn                  |  23.4 |        74 |        -0.30 |         +0.19 |
-|   92 | Aditya Guntuboyina        |  23.4 |        75 |              |         +2.15 |
-|   93 | Garvin Heath              |  23.4 |        28 |              |               |
+|   92 | Garvin Heath              |  23.4 |        28 |              |               |
+|   93 | Aditya Guntuboyina        |  23.3 |        76 |        -0.09 |         +2.06 |
 |   94 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   95 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   96 | Joe Farrell               |  23.0 |        30 |              |               |
