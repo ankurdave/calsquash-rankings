@@ -186,7 +186,7 @@ Generated 2016-08-28.
 |  182 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  183 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  184 | Yating Liu                |  19.0 |         7 |              |               |
-|  185 | Kenny Bell                |  18.9 |       113 |        +0.11 |         +1.44 |
+|  185 | Kenny Bell                |  19.0 |       114 |        +0.16 |         +1.49 |
 |  186 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  187 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  188 | Gabriel Kahn              |  18.9 |         5 |              |         +7.87 |
@@ -204,8 +204,8 @@ Generated 2016-08-28.
 |  200 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  201 | John Eng                  |  18.4 |        28 |              |               |
 |  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  203 | Dror Matalon              |  18.3 |       345 |        -0.08 |         -0.09 |
-|  204 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  203 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  204 | Dror Matalon              |  18.2 |       346 |        -0.11 |         -0.13 |
 |  205 | Bob Roller                |  18.2 |         6 |              |               |
 |  206 | Shaun Lim                 |  18.1 |        40 |        -0.08 |         +0.17 |
 |  207 | Jamie Paterson            |  18.1 |         4 |              |               |
@@ -290,7 +290,7 @@ Generated 2016-08-28.
 |  286 | Charles Denby             |  14.2 |         5 |              |               |
 |  287 | Neil Sachs                |  14.1 |        12 |              |               |
 |  288 | Rupert Myers              |  14.0 |        27 |              |         -1.58 |
-|  289 | Ankur Dave                |  14.0 |        46 |        +0.31 |         +8.27 |
+|  289 | Ankur Dave                |  14.0 |        46 |        +0.30 |         +8.27 |
 |  290 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  291 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  292 | Gurj Johal                |  13.8 |         2 |              |               |
