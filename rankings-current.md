@@ -8,14 +8,14 @@ Generated 2016-08-28.
 |    4 | Frank Kennamer      |  26.9 |       206 |              |         -0.40 |
 |    5 | Jim Veitch          |  25.7 |       420 |        -0.13 |         -0.25 |
 |    6 | John Kunze          |  24.7 |       296 |              |         -0.90 |
-|    7 | Dan Bohn            |  23.4 |        74 |        -0.30 |         +0.19 |
-|    8 | Aditya Guntuboyina  |  23.3 |        76 |        -0.09 |         +2.06 |
-|    9 | Matt Wong           |  22.5 |        67 |        +0.25 |         +1.58 |
-|   10 | Dan Meier           |  22.4 |        46 |        +0.12 |         +1.81 |
+|    7 | Aditya Guntuboyina  |  23.3 |        76 |        -0.09 |         +2.06 |
+|    8 | Dan Bohn            |  23.2 |        75 |        -0.59 |         -0.09 |
+|    9 | Dan Meier           |  22.7 |        47 |        +0.42 |         +2.11 |
+|   10 | Matt Wong           |  22.5 |        67 |        +0.25 |         +1.59 |
 |   11 | Jonathan Hankar     |  22.2 |       179 |        -0.05 |         +0.21 |
 |   12 | Saurabh Bajaj       |  21.8 |        22 |        -0.62 |               |
 |   13 | Reid Johnsen        |  21.1 |        30 |        +0.45 |         +6.67 |
-|   14 | Mark Modera         |  21.0 |       307 |        +0.03 |         -1.03 |
+|   14 | Mark Modera         |  21.1 |       307 |        +0.05 |         -1.01 |
 |   15 | Jared Bard          |  20.7 |        28 |        -0.38 |         +1.77 |
 |   16 | Sam McCormick       |  20.5 |        15 |              |               |
 |   17 | Jeff Gordon         |  20.2 |        30 |        +0.52 |               |

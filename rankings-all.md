@@ -92,22 +92,22 @@ Generated 2016-08-28.
 |   88 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   89 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   90 | Amy Lee                   |  23.6 |        56 |              |               |
-|   91 | Dan Bohn                  |  23.4 |        74 |        -0.30 |         +0.19 |
-|   92 | Garvin Heath              |  23.4 |        28 |              |               |
-|   93 | Aditya Guntuboyina        |  23.3 |        76 |        -0.09 |         +2.06 |
+|   91 | Garvin Heath              |  23.4 |        28 |              |               |
+|   92 | Aditya Guntuboyina        |  23.3 |        76 |        -0.09 |         +2.06 |
+|   93 | Dan Bohn                  |  23.2 |        75 |        -0.59 |         -0.09 |
 |   94 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   95 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   96 | Joe Farrell               |  23.0 |        30 |              |               |
 |   97 | Matt Wild                 |  23.0 |        25 |              |         -1.50 |
 |   98 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |   99 | Andrew Pritchard          |  22.7 |        16 |              |               |
-|  100 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  101 | Julian Marshall           |  22.7 |        31 |              |               |
-|  102 | Gautam Tankha             |  22.6 |         7 |              |               |
-|  103 | Dev Millstein             |  22.6 |        92 |              |               |
-|  104 | Matt Wong                 |  22.5 |        67 |        +0.25 |         +1.58 |
-|  105 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  106 | Dan Meier                 |  22.4 |        46 |        +0.12 |         +1.81 |
+|  100 | Dan Meier                 |  22.7 |        47 |        +0.42 |         +2.11 |
+|  101 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  102 | Julian Marshall           |  22.7 |        31 |              |               |
+|  103 | Gautam Tankha             |  22.6 |         7 |              |               |
+|  104 | Dev Millstein             |  22.6 |        92 |              |               |
+|  105 | Matt Wong                 |  22.5 |        67 |        +0.25 |         +1.59 |
+|  106 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  107 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  108 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  109 | Jonathan Hankar           |  22.2 |       179 |        -0.05 |         +0.21 |
@@ -141,7 +141,7 @@ Generated 2016-08-28.
 |  137 | Reid Johnsen              |  21.1 |        30 |        +0.45 |         +6.67 |
 |  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  139 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  140 | Mark Modera               |  21.0 |       307 |        +0.03 |         -1.03 |
+|  140 | Mark Modera               |  21.1 |       307 |        +0.05 |         -1.01 |
 |  141 | Paz Grimberg              |  21.0 |        17 |              |               |
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
