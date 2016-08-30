@@ -182,11 +182,11 @@ Generated 2016-08-30.
 |  178 | Greg Adams                |  19.3 |        10 |              |               |
 |  179 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  180 | John Corcoran             |  19.1 |        49 |              |               |
-|  181 | Kedar Shah                |  19.1 |         9 |              |               |
-|  182 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  183 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  184 | Yating Liu                |  19.0 |         7 |              |               |
-|  185 | Kenny Bell                |  19.0 |       114 |        +0.16 |         +1.49 |
+|  181 | Kenny Bell                |  19.1 |       115 |        +0.29 |         +1.62 |
+|  182 | Kedar Shah                |  19.1 |         9 |              |               |
+|  183 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  184 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  185 | Yating Liu                |  19.0 |         7 |              |               |
 |  186 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  187 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  188 | Gabriel Kahn              |  18.9 |         5 |              |         +7.87 |
@@ -211,10 +211,10 @@ Generated 2016-08-30.
 |  207 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  208 | James Chung               |  17.9 |         7 |              |               |
 |  209 | Andres Rodriguez          |  17.9 |        55 |              |         +0.60 |
-|  210 | Josh Trauner              |  17.8 |        29 |              |               |
-|  211 | Nick Paget                |  17.8 |        35 |              |               |
-|  212 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  210 | Nick Paget                |  17.8 |        35 |              |               |
+|  211 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  212 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  213 | Josh Trauner              |  17.7 |        30 |        -0.12 |               |
 |  214 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  215 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  216 | Subrato Dey               |  17.5 |        26 |        +0.20 |               |
@@ -361,8 +361,8 @@ Generated 2016-08-30.
 |  357 | Greg Sperla               |   9.3 |         8 |              |               |
 |  358 | Josh Lebowitz             |   9.3 |        22 |        +0.35 |               |
 |  359 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  360 | Daniel Schwartz           |   9.2 |        15 |        +0.34 |               |
-|  361 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  360 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  361 | Daniel Schwartz           |   9.1 |        15 |        +0.27 |               |
 |  362 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  363 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
 |  364 | Anshuman Tiwari           |   8.8 |         2 |              |               |
@@ -373,11 +373,11 @@ Generated 2016-08-30.
 |  369 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  370 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  371 | Jonas Hansen              |   8.6 |        14 |              |         +1.17 |
-|  372 | Duo Wang                  |   8.4 |        60 |        -0.10 |         +1.51 |
-|  373 | Reynold Xin               |   8.3 |         5 |              |               |
-|  374 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  375 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  376 | Brian Kempenich           |   8.2 |        33 |              |         -0.96 |
+|  372 | Brian Kempenich           |   8.4 |        34 |        +0.18 |         -0.78 |
+|  373 | Duo Wang                  |   8.4 |        60 |        -0.10 |         +1.51 |
+|  374 | Reynold Xin               |   8.3 |         5 |              |               |
+|  375 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  376 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  377 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  378 | Phil Hartmeyer            |   8.2 |         3 |              |               |
 |  379 | John Coates               |   8.1 |         9 |              |               |
@@ -476,9 +476,9 @@ Generated 2016-08-30.
 |  472 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  473 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  474 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  475 | Cristhian Daniel          |  -1.4 |         4 |        -0.21 |               |
-|  476 | Matthew Flairty           |  -1.4 |         2 |              |               |
-|  477 | Nick Firmani              |  -1.6 |         3 |              |               |
+|  475 | Matthew Flairty           |  -1.4 |         2 |              |               |
+|  476 | Nick Firmani              |  -1.6 |         3 |              |               |
+|  477 | Cristhian Daniel          |  -1.7 |         5 |        -0.54 |               |
 |  478 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
 |  479 | Judah Purcell             |  -2.2 |         1 |              |               |
 |  480 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
