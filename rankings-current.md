@@ -45,8 +45,8 @@ Generated 2016-08-31.
 |   41 | Diego Butrich       |   7.9 |         2 |              |               |
 |   42 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
 |   43 | Alok Singh          |   5.9 |        12 |              |               |
-|   44 | Keaton Noon         |   5.6 |        15 |              |               |
+|   44 | Keaton Noon         |   5.7 |        16 |        +0.12 |               |
 |   45 | Sameer Bajaj        |   4.6 |         2 |              |               |
 |   46 | Ryan                |   4.0 |         3 |              |               |
 |   47 | Nakul Vakil         |   3.0 |         5 |        +3.01 |               |
-|   48 | Cristhian Daniel    |  -1.7 |         5 |        -0.55 |               |
+|   48 | Cristhian Daniel    |  -0.8 |         6 |        +0.32 |               |

@@ -410,8 +410,8 @@ Generated 2016-08-31.
 |  406 | Rohan Relan               |   6.0 |         4 |              |               |
 |  407 | Alok Singh                |   5.9 |        12 |              |               |
 |  408 | David Zhu                 |   5.8 |         2 |              |               |
-|  409 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  410 | Keaton Noon               |   5.6 |        15 |              |               |
+|  409 | Keaton Noon               |   5.7 |        16 |        +0.12 |               |
+|  410 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  411 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  412 | Manu Vaish                |   5.5 |         1 |              |               |
 |  413 | Emily Moylan              |   5.2 |        17 |              |               |
@@ -476,9 +476,9 @@ Generated 2016-08-31.
 |  472 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  473 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  474 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  475 | Matthew Flairty           |  -1.4 |         2 |              |               |
-|  476 | Nick Firmani              |  -1.6 |         3 |              |               |
-|  477 | Cristhian Daniel          |  -1.7 |         5 |        -0.55 |               |
+|  475 | Cristhian Daniel          |  -0.8 |         6 |        +0.32 |               |
+|  476 | Matthew Flairty           |  -1.4 |         2 |              |               |
+|  477 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  478 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
 |  479 | Judah Purcell             |  -2.2 |         1 |              |               |
 |  480 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
