@@ -17,7 +17,7 @@ Generated 2016-08-30.
 |   13 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   15 | Sam Sternberg             |  30.8 |       122 |        +0.36 |         +1.56 |
-|   16 | Eric Katerman             |  30.4 |        17 |        +0.02 |               |
+|   16 | Eric Katerman             |  30.6 |        18 |        +0.26 |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -50,7 +50,7 @@ Generated 2016-08-30.
 |   46 | Andrew Hsu                |  25.8 |        15 |              |               |
 |   47 | Arvind Muralimohan        |  25.7 |        16 |              |               |
 |   48 | Nick Cobbett              |  25.7 |        24 |              |               |
-|   49 | Jim Veitch                |  25.7 |       420 |        -0.13 |         -0.25 |
+|   49 | Jim Veitch                |  25.5 |       421 |        -0.25 |         -0.36 |
 |   50 | Richard Chan              |  25.5 |         9 |              |               |
 |   51 | Joe Schneider             |  25.5 |         8 |              |               |
 |   52 | Adam Angsten              |  25.4 |         3 |              |               |
