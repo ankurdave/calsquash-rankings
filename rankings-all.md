@@ -138,7 +138,7 @@ Generated 2016-08-30.
 |  134 | Casey Harelson            |  21.2 |        20 |              |               |
 |  135 | Philip Bildner            |  21.2 |        22 |              |               |
 |  136 | Darren Morgan             |  21.2 |        11 |              |               |
-|  137 | Reid Johnsen              |  21.1 |        30 |        +0.45 |         +6.67 |
+|  137 | Reid Johnsen              |  21.2 |        30 |        +0.46 |         +6.68 |
 |  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  139 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  140 | Mark Modera               |  21.1 |       307 |        +0.05 |         -1.01 |
@@ -148,17 +148,17 @@ Generated 2016-08-30.
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  145 | Jamie Funk                |  20.8 |        30 |              |               |
 |  146 | Matthew Brett             |  20.7 |        20 |              |               |
-|  147 | Jared Bard                |  20.7 |        28 |        -0.38 |         +1.77 |
-|  148 | Prakash Bathini           |  20.7 |       122 |              |         -0.68 |
-|  149 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  150 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  147 | Prakash Bathini           |  20.7 |       122 |              |         -0.68 |
+|  148 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  149 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  150 | Jared Bard                |  20.6 |        29 |        -0.50 |         +1.65 |
 |  151 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  152 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  153 | Andrew Green              |  20.5 |        52 |              |               |
 |  154 | Sam McCormick             |  20.5 |        15 |              |               |
 |  155 | Steven Sloman             |  20.4 |        10 |              |               |
-|  156 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  157 | Jeff Gordon               |  20.2 |        30 |        +0.52 |               |
+|  156 | Jeff Gordon               |  20.4 |        31 |        +0.68 |               |
+|  157 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  158 | Carl Schreck              |  20.2 |         2 |              |               |
 |  159 | John Grim                 |  20.1 |        13 |              |               |
 |  160 | Shwetabh Singh            |  20.1 |         6 |              |               |
@@ -362,9 +362,9 @@ Generated 2016-08-30.
 |  358 | Josh Lebowitz             |   9.3 |        22 |        +0.35 |               |
 |  359 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  360 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  361 | Daniel Schwartz           |   9.1 |        15 |        +0.27 |               |
-|  362 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  363 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
+|  361 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  362 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
+|  363 | Brian Kempenich           |   8.8 |        35 |        +0.61 |         -0.35 |
 |  364 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  365 | Raphael Magarik           |   8.8 |         6 |              |               |
 |  366 | Nicholas Bauer            |   8.8 |        16 |              |               |
@@ -373,7 +373,7 @@ Generated 2016-08-30.
 |  369 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  370 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  371 | Jonas Hansen              |   8.6 |        14 |              |         +1.17 |
-|  372 | Brian Kempenich           |   8.4 |        34 |        +0.18 |         -0.78 |
+|  372 | Daniel Schwartz           |   8.5 |        16 |        -0.35 |               |
 |  373 | Duo Wang                  |   8.4 |        60 |        -0.10 |         +1.51 |
 |  374 | Reynold Xin               |   8.3 |         5 |              |               |
 |  375 | Anurag Gupta              |   8.3 |         6 |              |               |
@@ -478,7 +478,7 @@ Generated 2016-08-30.
 |  474 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
 |  475 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  476 | Nick Firmani              |  -1.6 |         3 |              |               |
-|  477 | Cristhian Daniel          |  -1.7 |         5 |        -0.54 |               |
+|  477 | Cristhian Daniel          |  -1.7 |         5 |        -0.55 |               |
 |  478 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
 |  479 | Judah Purcell             |  -2.2 |         1 |              |               |
 |  480 | Farzana Dudhwala          |  -2.7 |         3 |              |               |

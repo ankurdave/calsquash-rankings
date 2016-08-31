@@ -14,11 +14,11 @@ Generated 2016-08-30.
 |   10 | Matt Wong           |  22.5 |        67 |        +0.25 |         +1.59 |
 |   11 | Jonathan Hankar     |  22.2 |       179 |        -0.05 |         +0.21 |
 |   12 | Saurabh Bajaj       |  21.8 |        22 |        -0.62 |               |
-|   13 | Reid Johnsen        |  21.1 |        30 |        +0.45 |         +6.67 |
+|   13 | Reid Johnsen        |  21.2 |        30 |        +0.46 |         +6.68 |
 |   14 | Mark Modera         |  21.1 |       307 |        +0.05 |         -1.01 |
-|   15 | Jared Bard          |  20.7 |        28 |        -0.38 |         +1.77 |
+|   15 | Jared Bard          |  20.6 |        29 |        -0.50 |         +1.65 |
 |   16 | Sam McCormick       |  20.5 |        15 |              |               |
-|   17 | Jeff Gordon         |  20.2 |        30 |        +0.52 |               |
+|   17 | Jeff Gordon         |  20.4 |        31 |        +0.68 |               |
 |   18 | Mike Jensen-Akula   |  20.0 |       214 |        +0.08 |         -1.81 |
 |   19 | Jonathan Francis    |  19.8 |        64 |        -0.25 |         +0.42 |
 |   20 | Kenny Bell          |  19.1 |       115 |        +0.29 |         +1.62 |
@@ -38,8 +38,8 @@ Generated 2016-08-30.
 |   34 | Jennifer Rha        |  12.1 |        15 |        -0.01 |         +2.16 |
 |   35 | Reto Sutter         |  10.7 |        44 |        -0.15 |         -0.09 |
 |   36 | Josh Lebowitz       |   9.3 |        22 |        +0.35 |               |
-|   37 | Daniel Schwartz     |   9.1 |        15 |        +0.27 |               |
-|   38 | Brian Kempenich     |   8.4 |        34 |        +0.18 |         -0.78 |
+|   37 | Brian Kempenich     |   8.8 |        35 |        +0.61 |         -0.35 |
+|   38 | Daniel Schwartz     |   8.5 |        16 |        -0.35 |               |
 |   39 | Duo Wang            |   8.4 |        60 |        -0.10 |         +1.51 |
 |   40 | Nate Aden           |   8.1 |        17 |        -0.13 |               |
 |   41 | Diego Butrich       |   7.9 |         2 |              |               |
@@ -49,4 +49,4 @@ Generated 2016-08-30.
 |   45 | Sameer Bajaj        |   4.6 |         2 |              |               |
 |   46 | Ryan                |   4.0 |         3 |              |               |
 |   47 | Nakul Vakil         |   3.0 |         5 |        +3.01 |               |
-|   48 | Cristhian Daniel    |  -1.7 |         5 |        -0.54 |               |
+|   48 | Cristhian Daniel    |  -1.7 |         5 |        -0.55 |               |
