@@ -21,14 +21,14 @@ Generated 2016-08-31.
 |   17 | Jeff Gordon         |  20.4 |        31 |        +0.68 |               |
 |   18 | Mike Jensen-Akula   |  20.0 |       214 |        +0.08 |         -1.81 |
 |   19 | Jonathan Francis    |  19.8 |        64 |        -0.25 |         +0.42 |
-|   20 | Kenny Bell          |  19.1 |       115 |        +0.29 |         +1.62 |
+|   20 | Kenny Bell          |  19.1 |       116 |        +0.29 |         +1.62 |
 |   21 | Dror Matalon        |  18.2 |       346 |        -0.11 |         -0.13 |
 |   22 | Shaun Lim           |  18.1 |        40 |        -0.08 |         +0.17 |
 |   23 | Josh Trauner        |  17.7 |        30 |        -0.12 |               |
 |   24 | Subrato Dey         |  17.5 |        26 |        +0.20 |               |
 |   25 | Eric Borden         |  17.5 |        28 |        +0.04 |        +13.62 |
 |   26 | Troup Howard        |  17.4 |        38 |        -0.02 |         -0.35 |
-|   27 | Wayne Heiser        |  16.9 |        25 |        -0.26 |               |
+|   27 | Wayne Heiser        |  17.0 |        26 |        -0.19 |               |
 |   28 | Robert Isaac        |  16.8 |         5 |        +4.92 |               |
 |   29 | Chris Flores        |  16.8 |       300 |        -0.11 |         -1.92 |
 |   30 | Terry Chang         |  15.6 |        42 |        +0.34 |         +1.90 |

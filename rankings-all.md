@@ -182,7 +182,7 @@ Generated 2016-08-31.
 |  178 | Greg Adams                |  19.3 |        10 |              |               |
 |  179 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  180 | John Corcoran             |  19.1 |        49 |              |               |
-|  181 | Kenny Bell                |  19.1 |       115 |        +0.29 |         +1.62 |
+|  181 | Kenny Bell                |  19.1 |       116 |        +0.29 |         +1.62 |
 |  182 | Kedar Shah                |  19.1 |         9 |              |               |
 |  183 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  184 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -235,8 +235,8 @@ Generated 2016-08-31.
 |  231 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  232 | Neil Conway               |  17.0 |        55 |              |               |
 |  233 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  234 | Baxter Leman              |  16.9 |         6 |              |               |
-|  235 | Wayne Heiser              |  16.9 |        25 |        -0.26 |               |
+|  234 | Wayne Heiser              |  17.0 |        26 |        -0.19 |               |
+|  235 | Baxter Leman              |  16.9 |         6 |              |               |
 |  236 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  237 | Robert Isaac              |  16.8 |         5 |        +4.92 |               |
 |  238 | Chris Flores              |  16.8 |       300 |        -0.11 |         -1.92 |
