@@ -311,12 +311,12 @@ Generated 2016-09-01.
 |  307 | David Isaksson            |  12.9 |        22 |              |               |
 |  308 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  309 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  310 | Josh Shiode               |  12.6 |        20 |              |               |
-|  311 | Huw Lester                |  12.5 |         1 |              |               |
-|  312 | Richard Fabini            |  12.4 |         3 |              |               |
-|  313 | John Givens               |  12.2 |        13 |              |               |
-|  314 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  315 | Jennifer Rha              |  12.1 |        15 |        -0.01 |         +2.16 |
+|  310 | Jennifer Rha              |  12.7 |        16 |        +0.52 |         +2.69 |
+|  311 | Josh Shiode               |  12.6 |        20 |              |               |
+|  312 | Huw Lester                |  12.5 |         1 |              |               |
+|  313 | Richard Fabini            |  12.4 |         3 |              |               |
+|  314 | John Givens               |  12.2 |        13 |              |               |
+|  315 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  316 | Reed Foster               |  12.1 |         8 |              |               |
 |  317 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  318 | Larry Dale                |  11.9 |        29 |              |               |
@@ -334,9 +334,9 @@ Generated 2016-09-01.
 |  330 | Lucas Siow                |  11.0 |        10 |              |               |
 |  331 | Dominick Ng               |  10.9 |        25 |              |               |
 |  332 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  333 | Reto Sutter               |  10.7 |        44 |        -0.15 |         -0.09 |
-|  334 | George Bentley            |  10.6 |         4 |              |               |
-|  335 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  333 | George Bentley            |  10.6 |         4 |              |               |
+|  334 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  335 | Reto Sutter               |  10.5 |        45 |        -0.34 |         -0.28 |
 |  336 | Brian Puglise             |  10.4 |         2 |              |               |
 |  337 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  338 | Prasad Santhanam          |  10.3 |         7 |              |               |

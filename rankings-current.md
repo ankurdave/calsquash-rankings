@@ -35,8 +35,8 @@ Generated 2016-09-01.
 |   31 | Kent Daniels        |  15.4 |        84 |        -0.13 |         +0.26 |
 |   32 | Ankur Dave          |  14.0 |        46 |        +0.30 |         +8.27 |
 |   33 | Nikhil Paranjape    |  13.2 |        20 |        +0.11 |               |
-|   34 | Jennifer Rha        |  12.1 |        15 |        -0.01 |         +2.16 |
-|   35 | Reto Sutter         |  10.7 |        44 |        -0.15 |         -0.09 |
+|   34 | Jennifer Rha        |  12.7 |        16 |        +0.52 |         +2.69 |
+|   35 | Reto Sutter         |  10.5 |        45 |        -0.34 |         -0.28 |
 |   36 | Josh Lebowitz       |   9.3 |        22 |        +0.35 |               |
 |   37 | Brian Kempenich     |   8.8 |        35 |        +0.61 |         -0.35 |
 |   38 | Daniel Schwartz     |   8.5 |        16 |        -0.35 |               |
