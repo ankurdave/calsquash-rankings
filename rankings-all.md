@@ -16,8 +16,8 @@ Generated 2016-08-31.
 |   12 | Jeff Grant                |  31.3 |       207 |              |               |
 |   13 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   15 | Sam Sternberg             |  30.8 |       122 |        +0.36 |         +1.56 |
-|   16 | Eric Katerman             |  30.6 |        18 |        +0.26 |               |
+|   15 | Sam Sternberg             |  30.8 |       122 |        +0.37 |         +1.57 |
+|   16 | Eric Katerman             |  30.8 |        19 |        +0.39 |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -93,7 +93,7 @@ Generated 2016-08-31.
 |   89 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   90 | Amy Lee                   |  23.6 |        56 |              |               |
 |   91 | Garvin Heath              |  23.4 |        28 |              |               |
-|   92 | Aditya Guntuboyina        |  23.3 |        76 |        -0.09 |         +2.06 |
+|   92 | Aditya Guntuboyina        |  23.3 |        77 |        -0.17 |         +1.99 |
 |   93 | Dan Bohn                  |  23.2 |        75 |        -0.59 |         -0.09 |
 |   94 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   95 | Anubhav Gupta             |  23.0 |         8 |              |               |
