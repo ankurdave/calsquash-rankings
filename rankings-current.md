@@ -21,10 +21,10 @@ Generated 2016-09-01.
 |   17 | Jeff Gordon         |  20.4 |        31 |        +0.68 |               |
 |   18 | Mike Jensen-Akula   |  20.0 |       214 |        +0.08 |         -1.81 |
 |   19 | Jonathan Francis    |  19.8 |        64 |        -0.25 |         +0.42 |
-|   20 | Kenny Bell          |  19.1 |       116 |        +0.29 |         +1.62 |
-|   21 | Dror Matalon        |  18.2 |       346 |        -0.11 |         -0.13 |
+|   20 | Kenny Bell          |  19.1 |       116 |        +0.28 |         +1.61 |
+|   21 | Dror Matalon        |  18.4 |       347 |        +0.03 |         +0.02 |
 |   22 | Shaun Lim           |  18.1 |        40 |        -0.08 |         +0.17 |
-|   23 | Josh Trauner        |  17.7 |        30 |        -0.12 |               |
+|   23 | Josh Trauner        |  17.6 |        31 |        -0.27 |               |
 |   24 | Subrato Dey         |  17.5 |        26 |        +0.20 |               |
 |   25 | Eric Borden         |  17.5 |        28 |        +0.04 |        +13.62 |
 |   26 | Troup Howard        |  17.4 |        38 |        -0.02 |         -0.35 |
@@ -33,7 +33,7 @@ Generated 2016-09-01.
 |   29 | Chris Flores        |  16.8 |       300 |        -0.11 |         -1.92 |
 |   30 | Terry Chang         |  15.6 |        42 |        +0.34 |         +1.90 |
 |   31 | Kent Daniels        |  15.4 |        84 |        -0.13 |         +0.26 |
-|   32 | Ankur Dave          |  14.0 |        46 |        +0.30 |         +8.27 |
+|   32 | Ankur Dave          |  14.0 |        46 |        +0.31 |         +8.27 |
 |   33 | Nikhil Paranjape    |  13.2 |        20 |        +0.11 |               |
 |   34 | Jennifer Rha        |  12.7 |        16 |        +0.52 |         +2.69 |
 |   35 | Reto Sutter         |  10.5 |        45 |        -0.34 |         -0.28 |

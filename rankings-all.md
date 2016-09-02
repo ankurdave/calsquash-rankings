@@ -182,7 +182,7 @@ Generated 2016-09-01.
 |  178 | Greg Adams                |  19.3 |        10 |              |               |
 |  179 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  180 | John Corcoran             |  19.1 |        49 |              |               |
-|  181 | Kenny Bell                |  19.1 |       116 |        +0.29 |         +1.62 |
+|  181 | Kenny Bell                |  19.1 |       116 |        +0.28 |         +1.61 |
 |  182 | Kedar Shah                |  19.1 |         9 |              |               |
 |  183 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  184 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -203,9 +203,9 @@ Generated 2016-09-01.
 |  199 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
 |  200 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  201 | John Eng                  |  18.4 |        28 |              |               |
-|  202 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  203 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  204 | Dror Matalon              |  18.2 |       346 |        -0.11 |         -0.13 |
+|  202 | Dror Matalon              |  18.4 |       347 |        +0.03 |         +0.02 |
+|  203 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  204 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  205 | Bob Roller                |  18.2 |         6 |              |               |
 |  206 | Shaun Lim                 |  18.1 |        40 |        -0.08 |         +0.17 |
 |  207 | Jamie Paterson            |  18.1 |         4 |              |               |
@@ -214,9 +214,9 @@ Generated 2016-09-01.
 |  210 | Nick Paget                |  17.8 |        35 |              |               |
 |  211 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  212 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  213 | Josh Trauner              |  17.7 |        30 |        -0.12 |               |
-|  214 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  215 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  213 | George Roche              |  17.7 |        14 |              |         +0.37 |
+|  214 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  215 | Josh Trauner              |  17.6 |        31 |        -0.27 |               |
 |  216 | Subrato Dey               |  17.5 |        26 |        +0.20 |               |
 |  217 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  218 | Eric Borden               |  17.5 |        28 |        +0.04 |        +13.62 |
@@ -290,7 +290,7 @@ Generated 2016-09-01.
 |  286 | Charles Denby             |  14.2 |         5 |              |               |
 |  287 | Neil Sachs                |  14.1 |        12 |              |               |
 |  288 | Rupert Myers              |  14.0 |        27 |              |         -1.58 |
-|  289 | Ankur Dave                |  14.0 |        46 |        +0.30 |         +8.27 |
+|  289 | Ankur Dave                |  14.0 |        46 |        +0.31 |         +8.27 |
 |  290 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  291 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  292 | Gurj Johal                |  13.8 |         2 |              |               |
