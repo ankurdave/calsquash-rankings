@@ -215,8 +215,8 @@ Generated 2016-09-02.
 |  211 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  212 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  213 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  214 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  215 | Josh Trauner              |  17.6 |        31 |        -0.27 |               |
+|  214 | Josh Trauner              |  17.7 |        32 |        -0.18 |               |
+|  215 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  216 | Subrato Dey               |  17.5 |        26 |        +0.20 |               |
 |  217 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  218 | Eric Borden               |  17.5 |        28 |        +0.04 |        +13.62 |
@@ -235,7 +235,7 @@ Generated 2016-09-02.
 |  231 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  232 | Neil Conway               |  17.0 |        55 |              |               |
 |  233 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  234 | Wayne Heiser              |  17.0 |        26 |        -0.19 |               |
+|  234 | Wayne Heiser              |  17.0 |        27 |        -0.18 |               |
 |  235 | Baxter Leman              |  16.9 |         6 |              |               |
 |  236 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  237 | Robert Isaac              |  16.8 |         5 |        +4.92 |               |
