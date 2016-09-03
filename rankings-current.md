@@ -31,10 +31,10 @@ Generated 2016-09-02.
 |   27 | Wayne Heiser        |  17.0 |        27 |        -0.18 |               |
 |   28 | Robert Isaac        |  16.8 |         5 |        +4.92 |               |
 |   29 | Chris Flores        |  16.8 |       300 |        -0.11 |         -1.92 |
-|   30 | Terry Chang         |  15.6 |        42 |        +0.34 |         +1.90 |
-|   31 | Kent Daniels        |  15.4 |        84 |        -0.13 |         +0.26 |
+|   30 | Kent Daniels        |  15.6 |        85 |        +0.11 |         +0.50 |
+|   31 | Terry Chang         |  15.6 |        42 |        +0.34 |         +1.90 |
 |   32 | Ankur Dave          |  14.0 |        46 |        +0.31 |         +8.27 |
-|   33 | Nikhil Paranjape    |  13.2 |        20 |        +0.11 |               |
+|   33 | Nikhil Paranjape    |  12.9 |        21 |        -0.21 |               |
 |   34 | Jennifer Rha        |  12.7 |        16 |        +0.52 |         +2.69 |
 |   35 | Reto Sutter         |  10.5 |        45 |        -0.34 |         -0.28 |
 |   36 | Josh Lebowitz       |   9.3 |        22 |        +0.35 |               |

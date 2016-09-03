@@ -260,11 +260,11 @@ Generated 2016-09-02.
 |  256 | Jared Nunn                |  15.7 |         5 |              |               |
 |  257 | Akash Sharma              |  15.7 |         8 |              |               |
 |  258 | Angie Ng                  |  15.7 |        12 |              |               |
-|  259 | Terry Chang               |  15.6 |        42 |        +0.34 |         +1.90 |
-|  260 | Tanit Follett             |  15.5 |         8 |              |               |
-|  261 | Toni Queck                |  15.5 |        20 |              |               |
-|  262 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  263 | Kent Daniels              |  15.4 |        84 |        -0.13 |         +0.26 |
+|  259 | Kent Daniels              |  15.6 |        85 |        +0.11 |         +0.50 |
+|  260 | Terry Chang               |  15.6 |        42 |        +0.34 |         +1.90 |
+|  261 | Tanit Follett             |  15.5 |         8 |              |               |
+|  262 | Toni Queck                |  15.5 |        20 |              |               |
+|  263 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  264 | Peter Duerr               |  15.4 |        24 |              |               |
 |  265 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  266 | Jim Evans                 |  15.1 |       216 |              |               |
@@ -303,12 +303,12 @@ Generated 2016-09-02.
 |  299 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  300 | Jake Toy                  |  13.4 |         5 |              |               |
 |  301 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  302 | Nikhil Paranjape          |  13.2 |        20 |        +0.11 |               |
-|  303 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  304 | Field Maloney             |  13.1 |        24 |              |               |
-|  305 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  306 | Lewis Moore               |  13.0 |        69 |              |               |
-|  307 | David Isaksson            |  12.9 |        22 |              |               |
+|  302 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  303 | Field Maloney             |  13.1 |        24 |              |               |
+|  304 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  305 | Lewis Moore               |  13.0 |        69 |              |               |
+|  306 | David Isaksson            |  12.9 |        22 |              |               |
+|  307 | Nikhil Paranjape          |  12.9 |        21 |        -0.21 |               |
 |  308 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  309 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  310 | Jennifer Rha              |  12.7 |        16 |        +0.52 |         +2.69 |
