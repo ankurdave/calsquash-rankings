@@ -50,7 +50,7 @@ Generated 2016-09-04.
 |   46 | Andrew Hsu                |  25.8 |        15 |              |               |
 |   47 | Arvind Muralimohan        |  25.7 |        16 |              |               |
 |   48 | Nick Cobbett              |  25.7 |        24 |              |         +6.39 |
-|   49 | Jim Veitch                |  25.5 |       421 |              |         +0.14 |
+|   49 | Jim Veitch                |  25.5 |       422 |        -0.07 |         +0.07 |
 |   50 | Richard Chan              |  25.5 |         9 |              |               |
 |   51 | Joe Schneider             |  25.5 |         8 |              |               |
 |   52 | Adam Angsten              |  25.4 |         3 |              |               |
@@ -217,28 +217,28 @@ Generated 2016-09-04.
 |  213 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  214 | Josh Trauner              |  17.7 |        32 |              |               |
 |  215 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  216 | Subrato Dey               |  17.5 |        26 |              |               |
-|  217 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  218 | Eric Borden               |  17.5 |        28 |              |         +8.16 |
-|  219 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  220 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  221 | Troup Howard              |  17.4 |        38 |              |         -0.26 |
-|  222 | Craig Riddell             |  17.4 |         8 |              |               |
-|  223 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  224 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  225 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  226 | Zach Brown                |  17.3 |         3 |              |               |
-|  227 | William Seles             |  17.2 |        15 |              |               |
-|  228 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  229 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  230 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  231 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  232 | Neil Conway               |  17.0 |        55 |              |               |
-|  233 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  234 | Wayne Heiser              |  17.0 |        27 |              |               |
-|  235 | Baxter Leman              |  16.9 |         6 |              |               |
-|  236 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  237 | Robert Isaac              |  16.8 |         5 |              |               |
+|  216 | Robert Isaac              |  17.6 |         6 |        +0.74 |               |
+|  217 | Subrato Dey               |  17.5 |        26 |              |               |
+|  218 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  219 | Eric Borden               |  17.5 |        28 |              |         +8.16 |
+|  220 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  221 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  222 | Troup Howard              |  17.4 |        38 |              |         -0.26 |
+|  223 | Craig Riddell             |  17.4 |         8 |              |               |
+|  224 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  225 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  226 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  227 | Zach Brown                |  17.3 |         3 |              |               |
+|  228 | William Seles             |  17.2 |        15 |              |               |
+|  229 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  230 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  231 | Lucas Cheon               |  17.2 |        19 |              |               |
+|  232 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  233 | Neil Conway               |  17.0 |        55 |              |               |
+|  234 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  235 | Wayne Heiser              |  17.0 |        27 |              |               |
+|  236 | Baxter Leman              |  16.9 |         6 |              |               |
+|  237 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  238 | Chris Flores              |  16.8 |       300 |              |         -1.90 |
 |  239 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  240 | Chinghway Lim             |  16.7 |        10 |              |               |
