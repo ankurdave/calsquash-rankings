@@ -45,8 +45,8 @@ Generated 2016-09-05.
 |   41 | Nate Aden           |   8.1 |        17 |              |               |
 |   42 | Diego Butrich       |   7.9 |         2 |              |               |
 |   43 | Jose Lara           |   6.2 |         4 |              |               |
-|   44 | Keaton Noon         |   5.7 |        16 |              |               |
-|   45 | Zsolt Bartha        |   4.7 |        42 |              |         +1.44 |
-|   46 | Sameer Bajaj        |   4.6 |         2 |              |               |
-|   47 | Nakul Vakil         |   3.0 |         5 |              |               |
+|   44 | Alok Singh          |   5.9 |        12 |              |               |
+|   45 | Keaton Noon         |   5.7 |        16 |              |               |
+|   46 | Zsolt Bartha        |   4.7 |        42 |              |         +1.44 |
+|   47 | Sameer Bajaj        |   4.6 |         2 |              |               |
 |   48 | Cristhian Daniel    |  -0.8 |         6 |              |               |
