@@ -40,7 +40,7 @@ Generated 2016-09-06.
 |   36 | Josh Lebowitz       |   9.3 |        22 |              |               |
 |   37 | Brian Kempenich     |   8.8 |        35 |              |         -0.35 |
 |   38 | Raphael Magarik     |   8.8 |         6 |              |               |
-|   39 | Daniel Schwartz     |   8.5 |        16 |              |               |
+|   39 | Daniel Schwartz     |   8.7 |        17 |        +0.24 |               |
 |   40 | Duo Wang            |   8.4 |        60 |              |         +0.41 |
 |   41 | Nate Aden           |   8.1 |        17 |              |               |
 |   42 | Diego Butrich       |   7.9 |         2 |              |               |
@@ -49,4 +49,4 @@ Generated 2016-09-06.
 |   45 | Keaton Noon         |   5.7 |        16 |              |               |
 |   46 | Zsolt Bartha        |   4.7 |        42 |              |         +1.44 |
 |   47 | Sameer Bajaj        |   4.6 |         2 |              |               |
-|   48 | Cristhian Daniel    |  -0.8 |         6 |              |               |
+|   48 | Cristhian Daniel    |  -1.0 |         7 |        -0.16 |               |

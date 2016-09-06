@@ -368,12 +368,12 @@ Generated 2016-09-06.
 |  364 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  365 | Raphael Magarik           |   8.8 |         6 |              |               |
 |  366 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  367 | Therese Jones             |   8.7 |         6 |              |               |
-|  368 | Steven Yee                |   8.7 |         9 |              |               |
-|  369 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  370 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  371 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  372 | Daniel Schwartz           |   8.5 |        16 |              |               |
+|  367 | Daniel Schwartz           |   8.7 |        17 |        +0.24 |               |
+|  368 | Therese Jones             |   8.7 |         6 |              |               |
+|  369 | Steven Yee                |   8.7 |         9 |              |               |
+|  370 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  371 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  372 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  373 | Duo Wang                  |   8.4 |        60 |              |         +0.41 |
 |  374 | Reynold Xin               |   8.3 |         5 |              |               |
 |  375 | Anurag Gupta              |   8.3 |         6 |              |               |
@@ -476,7 +476,7 @@ Generated 2016-09-06.
 |  472 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  473 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  474 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  475 | Cristhian Daniel          |  -0.8 |         6 |              |               |
+|  475 | Cristhian Daniel          |  -1.0 |         7 |        -0.16 |               |
 |  476 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  477 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  478 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
