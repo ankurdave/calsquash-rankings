@@ -139,9 +139,9 @@ Generated 2016-09-07.
 |  135 | Philip Bildner            |  21.2 |        22 |              |               |
 |  136 | Darren Morgan             |  21.2 |        11 |              |               |
 |  137 | Reid Johnsen              |  21.2 |        30 |              |         +6.68 |
-|  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  139 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  140 | Mark Modera               |  21.1 |       307 |              |         -0.79 |
+|  138 | Mark Modera               |  21.1 |       308 |        +0.05 |         -0.74 |
+|  139 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  140 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  141 | Paz Grimberg              |  21.0 |        17 |              |               |
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
@@ -157,7 +157,7 @@ Generated 2016-09-07.
 |  153 | Andrew Green              |  20.5 |        52 |              |               |
 |  154 | Sam McCormick             |  20.5 |        15 |              |               |
 |  155 | Steven Sloman             |  20.4 |        10 |              |               |
-|  156 | Jeff Gordon               |  20.4 |        31 |              |               |
+|  156 | Jeff Gordon               |  20.4 |        32 |        -0.03 |               |
 |  157 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  158 | Carl Schreck              |  20.2 |         2 |              |               |
 |  159 | John Grim                 |  20.1 |        13 |              |               |
