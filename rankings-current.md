@@ -20,7 +20,7 @@ Generated 2016-09-07.
 |   16 | Jared Bard          |  20.6 |        29 |              |         +1.65 |
 |   17 | Sam McCormick       |  20.5 |        15 |              |               |
 |   18 | Jeff Gordon         |  20.4 |        32 |        -0.03 |               |
-|   19 | Mike Jensen-Akula   |  20.0 |       214 |              |         -1.90 |
+|   19 | Mike Jensen-Akula   |  20.2 |       215 |        +0.14 |         -1.77 |
 |   20 | Jonathan Francis    |  19.8 |        64 |              |         +0.31 |
 |   21 | Kenny Bell          |  19.1 |       116 |              |         +1.35 |
 |   22 | Dror Matalon        |  18.4 |       347 |              |         +0.02 |
@@ -49,4 +49,5 @@ Generated 2016-09-07.
 |   45 | Keaton Noon         |   5.7 |        17 |        -0.06 |               |
 |   46 | Zsolt Bartha        |   4.7 |        42 |              |         +1.44 |
 |   47 | Sameer Bajaj        |   4.6 |         2 |              |               |
-|   48 | Cristhian Daniel    |  -1.0 |         7 |        -0.16 |               |
+|   48 | Anuj Dawar          |   0.7 |         1 |              |               |
+|   49 | Cristhian Daniel    |  -1.0 |         7 |        -0.16 |               |
