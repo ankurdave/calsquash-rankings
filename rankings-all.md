@@ -169,14 +169,14 @@ Generated 2016-09-07.
 |  165 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  166 | Liam King                 |  19.9 |         6 |              |               |
 |  167 | Lysander Jim              |  19.8 |         6 |              |               |
-|  168 | Jonathan Francis          |  19.8 |        64 |              |         +0.31 |
-|  169 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  170 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  171 | Mike Delanty              |  19.7 |        12 |              |               |
-|  172 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  173 | Andrew Proudfoot          |  19.6 |        26 |              |         +3.17 |
-|  174 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  175 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  168 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  169 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  170 | Mike Delanty              |  19.7 |        12 |              |               |
+|  171 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  172 | Andrew Proudfoot          |  19.6 |        26 |              |         +3.17 |
+|  173 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  174 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  175 | Jonathan Francis          |  19.6 |        65 |        -0.22 |         +0.09 |
 |  176 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  177 | Jaime Perez               |  19.3 |        11 |              |               |
 |  178 | Greg Adams                |  19.3 |        10 |              |               |
@@ -197,13 +197,13 @@ Generated 2016-09-07.
 |  193 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  194 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  195 | Allan Sly                 |  18.6 |        29 |              |               |
-|  196 | Jason Facchin             |  18.5 |         3 |              |               |
-|  197 | Yan Liu                   |  18.5 |        10 |              |         -2.42 |
-|  198 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  199 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  200 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  201 | John Eng                  |  18.4 |        28 |              |               |
-|  202 | Dror Matalon              |  18.4 |       347 |              |         +0.02 |
+|  196 | Dror Matalon              |  18.6 |       348 |        +0.23 |         +0.25 |
+|  197 | Jason Facchin             |  18.5 |         3 |              |               |
+|  198 | Yan Liu                   |  18.5 |        10 |              |         -2.42 |
+|  199 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  200 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  201 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  202 | John Eng                  |  18.4 |        28 |              |               |
 |  203 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  204 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  205 | Bob Roller                |  18.2 |         6 |              |               |
