@@ -27,27 +27,26 @@ Generated 2016-09-07.
 |   23 | Shaun Lim           |  18.1 |        40 |              |         +0.17 |
 |   24 | Josh Trauner        |  17.7 |        32 |              |               |
 |   25 | Robert Isaac        |  17.6 |         6 |        +0.74 |               |
-|   26 | Subrato Dey         |  17.5 |        26 |              |               |
-|   27 | Eric Borden         |  17.5 |        28 |              |         +8.16 |
-|   28 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
-|   29 | Wayne Heiser        |  17.0 |        27 |              |               |
-|   30 | Kent Daniels        |  15.6 |        85 |              |         +0.79 |
-|   31 | Terry Chang         |  15.6 |        42 |              |         +1.90 |
-|   32 | Ankur Dave          |  14.0 |        46 |              |         +7.27 |
-|   33 | Nikhil Paranjape    |  12.9 |        21 |              |               |
-|   34 | Jennifer Rha        |  12.7 |        16 |              |         +2.69 |
-|   35 | Reto Sutter         |  10.5 |        45 |              |         -0.28 |
-|   36 | Josh Lebowitz       |   9.3 |        22 |              |               |
-|   37 | Brian Kempenich     |   8.8 |        35 |              |         -0.35 |
-|   38 | Raphael Magarik     |   8.8 |         6 |              |               |
-|   39 | Daniel Schwartz     |   8.7 |        17 |        +0.24 |               |
-|   40 | Duo Wang            |   8.4 |        60 |              |         +0.41 |
-|   41 | Nate Aden           |   8.1 |        17 |              |               |
-|   42 | Diego Butrich       |   7.9 |         2 |              |               |
-|   43 | Jose Lara           |   6.2 |         4 |              |               |
-|   44 | Ryan Akers          |   6.2 |         1 |              |               |
-|   45 | Alok Singh          |   5.9 |        12 |              |               |
-|   46 | Keaton Noon         |   5.7 |        17 |        -0.06 |               |
-|   47 | Zsolt Bartha        |   4.7 |        42 |              |         +1.44 |
-|   48 | Sameer Bajaj        |   4.6 |         2 |              |               |
-|   49 | Cristhian Daniel    |  -1.0 |         7 |        -0.16 |               |
+|   26 | Eric Borden         |  17.5 |        28 |              |         +8.16 |
+|   27 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
+|   28 | Wayne Heiser        |  17.0 |        27 |              |               |
+|   29 | Kent Daniels        |  15.6 |        85 |              |         +0.79 |
+|   30 | Terry Chang         |  15.6 |        42 |              |         +1.90 |
+|   31 | Ankur Dave          |  14.0 |        46 |              |         +7.27 |
+|   32 | Nikhil Paranjape    |  12.9 |        21 |              |               |
+|   33 | Jennifer Rha        |  12.7 |        16 |              |         +2.69 |
+|   34 | Reto Sutter         |  10.5 |        45 |              |         -0.28 |
+|   35 | Josh Lebowitz       |   9.3 |        22 |              |               |
+|   36 | Brian Kempenich     |   8.8 |        35 |              |         -0.35 |
+|   37 | Raphael Magarik     |   8.8 |         6 |              |               |
+|   38 | Daniel Schwartz     |   8.7 |        17 |        +0.24 |               |
+|   39 | Duo Wang            |   8.4 |        60 |              |         +0.41 |
+|   40 | Nate Aden           |   8.1 |        17 |              |               |
+|   41 | Diego Butrich       |   7.9 |         2 |              |               |
+|   42 | Jose Lara           |   6.2 |         4 |              |               |
+|   43 | Ryan Akers          |   6.2 |         1 |              |               |
+|   44 | Alok Singh          |   5.9 |        12 |              |               |
+|   45 | Keaton Noon         |   5.7 |        17 |        -0.06 |               |
+|   46 | Zsolt Bartha        |   4.7 |        42 |              |         +1.44 |
+|   47 | Sameer Bajaj        |   4.6 |         2 |              |               |
+|   48 | Cristhian Daniel    |  -1.0 |         7 |        -0.16 |               |
