@@ -37,9 +37,9 @@ Generated 2016-09-08.
 |   33 | Jennifer Rha        |  12.7 |        16 |              |         +2.69 |
 |   34 | Reto Sutter         |  10.5 |        45 |              |         -0.28 |
 |   35 | Josh Lebowitz       |   9.3 |        22 |              |               |
-|   36 | Brian Kempenich     |   8.8 |        35 |              |         -0.35 |
-|   37 | Raphael Magarik     |   8.8 |         6 |              |               |
-|   38 | Daniel Schwartz     |   8.7 |        17 |        +0.24 |               |
+|   36 | Raphael Magarik     |   9.2 |         7 |        +0.38 |               |
+|   37 | Brian Kempenich     |   8.8 |        35 |              |         -0.35 |
+|   38 | Daniel Schwartz     |   8.7 |        17 |        +0.22 |               |
 |   39 | Duo Wang            |   8.4 |        60 |              |         +0.41 |
 |   40 | Nate Aden           |   8.1 |        17 |              |               |
 |   41 | Diego Butrich       |   7.9 |         2 |              |               |
@@ -50,4 +50,4 @@ Generated 2016-09-08.
 |   46 | Zsolt Bartha        |   4.7 |        42 |              |         +1.44 |
 |   47 | Sameer Bajaj        |   4.6 |         2 |              |               |
 |   48 | Anuj Dawar          |   0.7 |         1 |              |               |
-|   49 | Cristhian Daniel    |  -1.0 |         7 |        -0.16 |               |
+|   49 | Cristhian Daniel    |  -1.1 |         8 |        -0.23 |               |

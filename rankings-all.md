@@ -361,15 +361,15 @@ Generated 2016-09-08.
 |  357 | Greg Sperla               |   9.3 |         8 |              |               |
 |  358 | Josh Lebowitz             |   9.3 |        22 |              |               |
 |  359 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  360 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  361 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  362 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  363 | Brian Kempenich           |   8.8 |        35 |              |         -0.35 |
-|  364 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  365 | Raphael Magarik           |   8.8 |         6 |              |               |
+|  360 | Raphael Magarik           |   9.2 |         7 |        +0.38 |               |
+|  361 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  362 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  363 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
+|  364 | Brian Kempenich           |   8.8 |        35 |              |         -0.35 |
+|  365 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  366 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  367 | Daniel Schwartz           |   8.7 |        17 |        +0.24 |               |
-|  368 | Therese Jones             |   8.7 |         6 |              |               |
+|  367 | Therese Jones             |   8.7 |         6 |              |               |
+|  368 | Daniel Schwartz           |   8.7 |        17 |        +0.22 |               |
 |  369 | Steven Yee                |   8.7 |         9 |              |               |
 |  370 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  371 | Joseph Duggan             |   8.6 |         8 |              |               |
@@ -478,7 +478,7 @@ Generated 2016-09-08.
 |  474 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  475 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  476 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  477 | Cristhian Daniel          |  -1.0 |         7 |        -0.16 |               |
+|  477 | Cristhian Daniel          |  -1.1 |         8 |        -0.23 |               |
 |  478 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  479 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  480 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
