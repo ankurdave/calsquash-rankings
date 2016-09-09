@@ -260,11 +260,11 @@ Generated 2016-09-08.
 |  256 | Jared Nunn                |  15.7 |         5 |              |               |
 |  257 | Akash Sharma              |  15.7 |         8 |              |               |
 |  258 | Angie Ng                  |  15.7 |        12 |              |               |
-|  259 | Kent Daniels              |  15.6 |        85 |              |         +0.79 |
-|  260 | Terry Chang               |  15.6 |        42 |              |         +1.90 |
-|  261 | Tanit Follett             |  15.5 |         8 |              |               |
-|  262 | Toni Queck                |  15.5 |        20 |              |               |
-|  263 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  259 | Terry Chang               |  15.6 |        42 |              |         +1.90 |
+|  260 | Tanit Follett             |  15.5 |         8 |              |               |
+|  261 | Toni Queck                |  15.5 |        20 |              |               |
+|  262 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  263 | Kent Daniels              |  15.4 |        86 |        -0.24 |         +0.55 |
 |  264 | Peter Duerr               |  15.4 |        24 |              |               |
 |  265 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  266 | Jim Evans                 |  15.1 |       216 |              |               |
@@ -286,11 +286,11 @@ Generated 2016-09-08.
 |  282 | Max Woodworth             |  14.4 |         7 |              |               |
 |  283 | Juliet Shih               |  14.4 |        11 |              |               |
 |  284 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  285 | Adam Soliman              |  14.2 |        32 |              |               |
-|  286 | Charles Denby             |  14.2 |         5 |              |               |
-|  287 | Neil Sachs                |  14.1 |        12 |              |               |
-|  288 | Rupert Myers              |  14.0 |        27 |              |         +0.79 |
-|  289 | Ankur Dave                |  14.0 |        46 |              |         +7.27 |
+|  285 | Ankur Dave                |  14.3 |        47 |        +0.29 |         +7.56 |
+|  286 | Adam Soliman              |  14.2 |        32 |              |               |
+|  287 | Charles Denby             |  14.2 |         5 |              |               |
+|  288 | Neil Sachs                |  14.1 |        12 |              |               |
+|  289 | Rupert Myers              |  14.0 |        27 |              |         +0.79 |
 |  290 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  291 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  292 | Gurj Johal                |  13.8 |         2 |              |               |

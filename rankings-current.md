@@ -30,9 +30,9 @@ Generated 2016-09-08.
 |   26 | Eric Borden         |  17.5 |        28 |              |         +8.16 |
 |   27 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
 |   28 | Wayne Heiser        |  17.0 |        27 |              |               |
-|   29 | Kent Daniels        |  15.6 |        85 |              |         +0.79 |
-|   30 | Terry Chang         |  15.6 |        42 |              |         +1.90 |
-|   31 | Ankur Dave          |  14.0 |        46 |              |         +7.27 |
+|   29 | Terry Chang         |  15.6 |        42 |              |         +1.90 |
+|   30 | Kent Daniels        |  15.4 |        86 |        -0.24 |         +0.55 |
+|   31 | Ankur Dave          |  14.3 |        47 |        +0.29 |         +7.56 |
 |   32 | Nikhil Paranjape    |  12.9 |        21 |              |               |
 |   33 | Jennifer Rha        |  12.7 |        16 |              |         +2.69 |
 |   34 | Reto Sutter         |  10.5 |        45 |              |         -0.28 |
