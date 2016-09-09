@@ -338,30 +338,30 @@ Generated 2016-09-09.
 |  334 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  335 | Reto Sutter               |  10.5 |        45 |              |         -0.28 |
 |  336 | Brian Puglise             |  10.4 |         2 |              |               |
-|  337 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  338 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  339 | John Provine              |  10.2 |        16 |              |               |
-|  340 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  341 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  342 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  343 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  344 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  345 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  346 | Myles Gordon              |   9.8 |        42 |              |         +0.42 |
-|  347 | Jacob Bank                |   9.7 |         1 |              |               |
-|  348 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
-|  349 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  350 | Mark Shapero              |   9.4 |         7 |              |               |
-|  351 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  352 | Max Grass                 |   9.4 |         1 |              |               |
-|  353 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  354 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  355 | Robert Broesler           |   9.4 |         4 |              |               |
-|  356 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  357 | Greg Sperla               |   9.3 |         8 |              |               |
-|  358 | Josh Lebowitz             |   9.3 |        22 |              |               |
-|  359 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  360 | Raphael Magarik           |   9.2 |         7 |        +0.38 |               |
+|  337 | Raphael Magarik           |  10.4 |         8 |        +1.58 |               |
+|  338 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  339 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  340 | John Provine              |  10.2 |        16 |              |               |
+|  341 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  342 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  343 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  344 | Sung-Jin Oh               |  10.1 |         6 |              |               |
+|  345 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  346 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  347 | Myles Gordon              |   9.8 |        42 |              |         +0.42 |
+|  348 | Jacob Bank                |   9.7 |         1 |              |               |
+|  349 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
+|  350 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  351 | Mark Shapero              |   9.4 |         7 |              |               |
+|  352 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  353 | Max Grass                 |   9.4 |         1 |              |               |
+|  354 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  355 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  356 | Robert Broesler           |   9.4 |         4 |              |               |
+|  357 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  358 | Greg Sperla               |   9.3 |         8 |              |               |
+|  359 | Josh Lebowitz             |   9.3 |        22 |              |               |
+|  360 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  361 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  362 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  363 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
@@ -486,11 +486,12 @@ Generated 2016-09-09.
 |  482 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
 |  483 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
 |  484 | James Redfield            |  -2.9 |         3 |              |               |
-|  485 | Seobin Jung               |  -2.9 |         5 |              |               |
-|  486 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  487 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  488 | Tin Do                    |  -4.0 |         1 |              |               |
-|  489 | Susan Grand               |  -4.3 |         3 |              |               |
-|  490 | Sara Green                |  -5.8 |         1 |              |               |
-|  491 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  492 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  485 | Duncan MacRae             |  -2.9 |         1 |              |               |
+|  486 | Seobin Jung               |  -2.9 |         5 |              |               |
+|  487 | Jenny Cheng               |  -3.2 |         1 |              |               |
+|  488 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  489 | Tin Do                    |  -4.0 |         1 |              |               |
+|  490 | Susan Grand               |  -4.3 |         3 |              |               |
+|  491 | Sara Green                |  -5.8 |         1 |              |               |
+|  492 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  493 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
