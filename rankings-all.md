@@ -374,16 +374,16 @@ Generated 2016-09-09.
 |  370 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  371 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  372 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  373 | Duo Wang                  |   8.4 |        60 |              |         +0.41 |
-|  374 | Reynold Xin               |   8.3 |         5 |              |               |
-|  375 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  376 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  377 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  378 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  379 | John Coates               |   8.1 |         9 |              |               |
-|  380 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  381 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  382 | Nate Aden                 |   8.1 |        17 |              |               |
+|  373 | Nate Aden                 |   8.4 |        18 |        +0.31 |               |
+|  374 | Duo Wang                  |   8.4 |        60 |              |         +0.41 |
+|  375 | Reynold Xin               |   8.3 |         5 |              |               |
+|  376 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  377 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  378 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  379 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  380 | John Coates               |   8.1 |         9 |              |               |
+|  381 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  382 | Fabrice Henrion           |   8.1 |         2 |              |               |
 |  383 | Alexander Zuern           |   8.0 |        25 |              |               |
 |  384 | Zarina Khan               |   8.0 |         5 |              |               |
 |  385 | Diego Butrich             |   7.9 |         2 |              |               |
@@ -422,8 +422,8 @@ Generated 2016-09-09.
 |  418 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  419 | Nikhil Srivastava         |   5.0 |        16 |              |         +5.51 |
 |  420 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  421 | Zsolt Bartha              |   4.7 |        42 |              |         +1.44 |
-|  422 | Sameer Bajaj              |   4.6 |         2 |              |               |
+|  421 | Sameer Bajaj              |   4.6 |         2 |              |               |
+|  422 | Zsolt Bartha              |   4.5 |        43 |        -0.19 |         +1.24 |
 |  423 | Annie Wong                |   4.0 |         3 |              |               |
 |  424 | Ryan                      |   4.0 |         3 |              |               |
 |  425 | Mateo Aceves              |   3.8 |         4 |              |               |
