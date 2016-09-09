@@ -50,12 +50,12 @@ Generated 2016-09-09.
 |   46 | Andrew Hsu                |  25.8 |        15 |              |               |
 |   47 | Arvind Muralimohan        |  25.7 |        16 |              |               |
 |   48 | Nick Cobbett              |  25.7 |        24 |              |         +6.39 |
-|   49 | Jim Veitch                |  25.5 |       422 |        -0.07 |         +0.07 |
-|   50 | Richard Chan              |  25.5 |         9 |              |               |
-|   51 | Joe Schneider             |  25.5 |         8 |              |               |
-|   52 | Adam Angsten              |  25.4 |         3 |              |               |
-|   53 | Matt Nelson-Teutsch       |  25.4 |        10 |              |         +4.55 |
-|   54 | Sean O'Nuallain           |  25.4 |        43 |              |               |
+|   49 | Richard Chan              |  25.5 |         9 |              |               |
+|   50 | Joe Schneider             |  25.5 |         8 |              |               |
+|   51 | Adam Angsten              |  25.4 |         3 |              |               |
+|   52 | Matt Nelson-Teutsch       |  25.4 |        10 |              |         +4.55 |
+|   53 | Sean O'Nuallain           |  25.4 |        43 |              |               |
+|   54 | Jim Veitch                |  25.4 |       423 |        -0.17 |         -0.03 |
 |   55 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   56 | Paul Greene               |  25.2 |         8 |              |               |
 |   57 | Mukul Sud                 |  25.0 |         3 |              |               |
@@ -109,8 +109,8 @@ Generated 2016-09-09.
 |  105 | Matt Wong                 |  22.5 |        67 |              |         +1.67 |
 |  106 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  107 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  108 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  109 | Jonathan Hankar           |  22.2 |       179 |              |         +0.21 |
+|  108 | Jonathan Hankar           |  22.3 |       180 |        +0.11 |         +0.32 |
+|  109 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  110 | Robert Geiger             |  22.2 |         8 |              |               |
 |  111 | Aaron Socha               |  22.2 |        24 |              |               |
 |  112 | Robert Ashmore            |  22.2 |       104 |              |               |
@@ -217,7 +217,7 @@ Generated 2016-09-09.
 |  213 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  214 | Josh Trauner              |  17.7 |        32 |              |               |
 |  215 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  216 | Robert Isaac              |  17.6 |         6 |        +0.74 |               |
+|  216 | Robert Isaac              |  17.6 |         6 |        +0.72 |               |
 |  217 | Subrato Dey               |  17.5 |        26 |              |               |
 |  218 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  219 | Eric Borden               |  17.5 |        28 |              |         +8.16 |
