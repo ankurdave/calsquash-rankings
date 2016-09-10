@@ -47,8 +47,9 @@ Generated 2016-09-10.
 |   43 | Ryan Akers          |   6.2 |         1 |              |               |
 |   44 | Alok Singh          |   5.9 |        12 |              |               |
 |   45 | Keaton Noon         |   5.7 |        17 |        -0.06 |               |
-|   46 | Zsolt Bartha        |   4.6 |        43 |        -0.18 |         +1.26 |
-|   47 | Sameer Bajaj        |   2.6 |         3 |        -1.93 |               |
-|   48 | Anuj Dawar          |   0.7 |         1 |              |               |
-|   49 | Cristhian Daniel    |  -1.1 |         8 |        -0.23 |               |
-|   50 | Duncan MacRae       |  -2.9 |         1 |              |               |
+|   46 | Anuj Dawar          |   5.6 |         2 |              |               |
+|   47 | Meldan Heaslip      |   5.3 |         1 |              |               |
+|   48 | Zsolt Bartha        |   4.6 |        43 |        -0.18 |         +1.26 |
+|   49 | Sameer Bajaj        |   2.6 |         3 |        -1.93 |               |
+|   50 | Cristhian Daniel    |  -1.1 |         8 |        -0.23 |               |
+|   51 | Duncan MacRae       |  -2.9 |         1 |              |               |
