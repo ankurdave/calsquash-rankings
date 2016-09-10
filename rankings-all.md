@@ -365,16 +365,16 @@ Generated 2016-09-10.
 |  361 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  362 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  363 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  364 | Brian Kempenich           |   8.8 |        35 |              |         -0.35 |
-|  365 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  366 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  367 | Therese Jones             |   8.7 |         6 |              |               |
-|  368 | Daniel Schwartz           |   8.7 |        17 |        +0.22 |               |
-|  369 | Steven Yee                |   8.7 |         9 |              |               |
-|  370 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  371 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  372 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  373 | Nate Aden                 |   8.4 |        18 |        +0.31 |               |
+|  364 | Nate Aden                 |   8.9 |        19 |        +0.82 |               |
+|  365 | Brian Kempenich           |   8.8 |        35 |              |         -0.35 |
+|  366 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  367 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  368 | Therese Jones             |   8.7 |         6 |              |               |
+|  369 | Daniel Schwartz           |   8.7 |        17 |        +0.22 |               |
+|  370 | Steven Yee                |   8.7 |         9 |              |               |
+|  371 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  372 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  373 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  374 | Duo Wang                  |   8.4 |        60 |              |         +0.41 |
 |  375 | Reynold Xin               |   8.3 |         5 |              |               |
 |  376 | Anurag Gupta              |   8.3 |         6 |              |               |
@@ -422,16 +422,16 @@ Generated 2016-09-10.
 |  418 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  419 | Nikhil Srivastava         |   5.0 |        16 |              |         +5.51 |
 |  420 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  421 | Sameer Bajaj              |   4.6 |         2 |              |               |
-|  422 | Zsolt Bartha              |   4.5 |        43 |        -0.19 |         +1.24 |
-|  423 | Annie Wong                |   4.0 |         3 |              |               |
-|  424 | Ryan                      |   4.0 |         3 |              |               |
-|  425 | Mateo Aceves              |   3.8 |         4 |              |               |
-|  426 | Nakul Vakil               |   3.0 |         5 |              |               |
-|  427 | Maria Garzon              |   3.0 |         5 |              |               |
-|  428 | Nadir Shams               |   3.0 |         2 |              |               |
-|  429 | Ji Seop Oh                |   2.9 |         2 |              |               |
-|  430 | Pedrum Mohageri           |   2.7 |         8 |              |               |
+|  421 | Zsolt Bartha              |   4.6 |        43 |        -0.18 |         +1.26 |
+|  422 | Annie Wong                |   4.0 |         3 |              |               |
+|  423 | Ryan                      |   4.0 |         3 |              |               |
+|  424 | Mateo Aceves              |   3.8 |         4 |              |               |
+|  425 | Nakul Vakil               |   3.0 |         5 |              |               |
+|  426 | Maria Garzon              |   3.0 |         5 |              |               |
+|  427 | Nadir Shams               |   3.0 |         2 |              |               |
+|  428 | Ji Seop Oh                |   2.9 |         2 |              |               |
+|  429 | Pedrum Mohageri           |   2.7 |         8 |              |               |
+|  430 | Sameer Bajaj              |   2.6 |         3 |        -1.93 |               |
 |  431 | David Vogel               |   2.6 |         7 |              |               |
 |  432 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  433 | Julia Selezneva           |   2.2 |         5 |              |               |

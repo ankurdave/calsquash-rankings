@@ -38,17 +38,17 @@ Generated 2016-09-10.
 |   34 | Reto Sutter         |  10.5 |        45 |              |         -0.28 |
 |   35 | Raphael Magarik     |  10.4 |         8 |        +1.58 |               |
 |   36 | Josh Lebowitz       |   9.3 |        22 |              |               |
-|   37 | Brian Kempenich     |   8.8 |        35 |              |         -0.35 |
-|   38 | Daniel Schwartz     |   8.7 |        17 |        +0.22 |               |
-|   39 | Nate Aden           |   8.4 |        18 |        +0.31 |               |
+|   37 | Nate Aden           |   8.9 |        19 |        +0.82 |               |
+|   38 | Brian Kempenich     |   8.8 |        35 |              |         -0.35 |
+|   39 | Daniel Schwartz     |   8.7 |        17 |        +0.22 |               |
 |   40 | Duo Wang            |   8.4 |        60 |              |         +0.41 |
 |   41 | Diego Butrich       |   7.9 |         2 |              |               |
 |   42 | Jose Lara           |   6.2 |         4 |              |               |
 |   43 | Ryan Akers          |   6.2 |         1 |              |               |
 |   44 | Alok Singh          |   5.9 |        12 |              |               |
 |   45 | Keaton Noon         |   5.7 |        17 |        -0.06 |               |
-|   46 | Sameer Bajaj        |   4.6 |         2 |              |               |
-|   47 | Zsolt Bartha        |   4.5 |        43 |        -0.19 |         +1.24 |
+|   46 | Zsolt Bartha        |   4.6 |        43 |        -0.18 |         +1.26 |
+|   47 | Sameer Bajaj        |   2.6 |         3 |        -1.93 |               |
 |   48 | Anuj Dawar          |   0.7 |         1 |              |               |
 |   49 | Cristhian Daniel    |  -1.1 |         8 |        -0.23 |               |
 |   50 | Duncan MacRae       |  -2.9 |         1 |              |               |
