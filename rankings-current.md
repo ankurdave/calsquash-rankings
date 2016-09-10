@@ -12,7 +12,7 @@ Generated 2016-09-10.
 |    8 | Dan Bohn            |  23.2 |        75 |              |         -0.54 |
 |    9 | Dan Meier           |  22.7 |        47 |              |         +1.23 |
 |   10 | Matt Wong           |  22.5 |        67 |              |         +1.67 |
-|   11 | Jonathan Hankar     |  22.3 |       180 |        +0.11 |         +0.32 |
+|   11 | Jonathan Hankar     |  22.1 |       181 |        -0.10 |         +0.11 |
 |   12 | Saurabh Bajaj       |  21.8 |        22 |              |               |
 |   13 | Robert Schwartz     |  21.2 |        73 |              |         -0.26 |
 |   14 | Reid Johnsen        |  21.2 |        30 |              |         +6.68 |
@@ -23,10 +23,10 @@ Generated 2016-09-10.
 |   19 | Mike Jensen-Akula   |  20.2 |       215 |        +0.14 |         -1.77 |
 |   20 | Jonathan Francis    |  19.6 |        65 |        -0.22 |         +0.09 |
 |   21 | Kenny Bell          |  19.1 |       116 |              |         +1.35 |
-|   22 | Dror Matalon        |  18.6 |       348 |        +0.23 |         +0.25 |
-|   23 | Shaun Lim           |  18.1 |        40 |              |         +0.17 |
-|   24 | Josh Trauner        |  17.7 |        32 |              |               |
-|   25 | Robert Isaac        |  17.6 |         6 |        +0.72 |               |
+|   22 | Robert Isaac        |  19.1 |         7 |        +2.23 |               |
+|   23 | Dror Matalon        |  18.6 |       348 |        +0.23 |         +0.25 |
+|   24 | Shaun Lim           |  18.1 |        40 |              |         +0.17 |
+|   25 | Josh Trauner        |  17.7 |        32 |              |               |
 |   26 | Eric Borden         |  17.5 |        28 |              |         +8.16 |
 |   27 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
 |   28 | Wayne Heiser        |  17.0 |        27 |              |               |

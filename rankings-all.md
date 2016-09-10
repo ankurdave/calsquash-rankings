@@ -109,11 +109,11 @@ Generated 2016-09-10.
 |  105 | Matt Wong                 |  22.5 |        67 |              |         +1.67 |
 |  106 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  107 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  108 | Jonathan Hankar           |  22.3 |       180 |        +0.11 |         +0.32 |
-|  109 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  110 | Robert Geiger             |  22.2 |         8 |              |               |
-|  111 | Aaron Socha               |  22.2 |        24 |              |               |
-|  112 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  108 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  109 | Robert Geiger             |  22.2 |         8 |              |               |
+|  110 | Aaron Socha               |  22.2 |        24 |              |               |
+|  111 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  112 | Jonathan Hankar           |  22.1 |       181 |        -0.10 |         +0.11 |
 |  113 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  114 | Britta Gardner            |  22.1 |        16 |              |               |
 |  115 | Niklas Linde              |  22.1 |        23 |              |               |
@@ -183,41 +183,41 @@ Generated 2016-09-10.
 |  179 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  180 | John Corcoran             |  19.1 |        49 |              |               |
 |  181 | Kenny Bell                |  19.1 |       116 |              |         +1.35 |
-|  182 | Kedar Shah                |  19.1 |         9 |              |               |
-|  183 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  184 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  185 | Yating Liu                |  19.0 |         7 |              |               |
-|  186 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
-|  187 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  188 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  189 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  190 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  191 | Peter Dering              |  18.7 |         9 |              |               |
-|  192 | Sushant Jain              |  18.7 |        12 |              |               |
-|  193 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  194 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  195 | Allan Sly                 |  18.6 |        29 |              |               |
-|  196 | Dror Matalon              |  18.6 |       348 |        +0.23 |         +0.25 |
-|  197 | Jason Facchin             |  18.5 |         3 |              |               |
-|  198 | Yan Liu                   |  18.5 |        10 |              |         -2.42 |
-|  199 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  200 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  201 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  202 | John Eng                  |  18.4 |        28 |              |               |
-|  203 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  204 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  205 | Bob Roller                |  18.2 |         6 |              |               |
-|  206 | Shaun Lim                 |  18.1 |        40 |              |         +0.17 |
-|  207 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  208 | James Chung               |  17.9 |         7 |              |               |
-|  209 | Andres Rodriguez          |  17.9 |        55 |              |         +0.69 |
-|  210 | Nick Paget                |  17.8 |        35 |              |               |
-|  211 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  212 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  213 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  214 | Josh Trauner              |  17.7 |        32 |              |               |
-|  215 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  216 | Robert Isaac              |  17.6 |         6 |        +0.72 |               |
+|  182 | Robert Isaac              |  19.1 |         7 |        +2.23 |               |
+|  183 | Kedar Shah                |  19.1 |         9 |              |               |
+|  184 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  185 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  186 | Yating Liu                |  19.0 |         7 |              |               |
+|  187 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
+|  188 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  189 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  190 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  191 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  192 | Peter Dering              |  18.7 |         9 |              |               |
+|  193 | Sushant Jain              |  18.7 |        12 |              |               |
+|  194 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  195 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  196 | Allan Sly                 |  18.6 |        29 |              |               |
+|  197 | Dror Matalon              |  18.6 |       348 |        +0.23 |         +0.25 |
+|  198 | Jason Facchin             |  18.5 |         3 |              |               |
+|  199 | Yan Liu                   |  18.5 |        10 |              |         -2.42 |
+|  200 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  201 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  202 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  203 | John Eng                  |  18.4 |        28 |              |               |
+|  204 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  205 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  206 | Bob Roller                |  18.2 |         6 |              |               |
+|  207 | Shaun Lim                 |  18.1 |        40 |              |         +0.17 |
+|  208 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  209 | James Chung               |  17.9 |         7 |              |               |
+|  210 | Andres Rodriguez          |  17.9 |        55 |              |         +0.69 |
+|  211 | Nick Paget                |  17.8 |        35 |              |               |
+|  212 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  214 | George Roche              |  17.7 |        14 |              |         +0.37 |
+|  215 | Josh Trauner              |  17.7 |        32 |              |               |
+|  216 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  217 | Subrato Dey               |  17.5 |        26 |              |               |
 |  218 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  219 | Eric Borden               |  17.5 |        28 |              |         +8.16 |
