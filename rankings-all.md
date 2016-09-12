@@ -366,16 +366,16 @@ Generated 2016-09-11.
 |  362 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  363 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
 |  364 | Nate Aden                 |   8.9 |        19 |        +0.82 |               |
-|  365 | Brian Kempenich           |   8.8 |        35 |              |         -0.35 |
-|  366 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  367 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  368 | Therese Jones             |   8.7 |         6 |              |               |
-|  369 | Daniel Schwartz           |   8.7 |        17 |        +0.22 |               |
-|  370 | Steven Yee                |   8.7 |         9 |              |               |
-|  371 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  365 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  366 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  367 | Therese Jones             |   8.7 |         6 |              |               |
+|  368 | Daniel Schwartz           |   8.7 |        17 |        +0.22 |               |
+|  369 | Steven Yee                |   8.7 |         9 |              |               |
+|  370 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  371 | Duo Wang                  |   8.6 |        61 |        +0.24 |         +0.65 |
 |  372 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  373 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  374 | Duo Wang                  |   8.4 |        60 |              |         +0.41 |
+|  373 | Brian Kempenich           |   8.6 |        36 |        -0.21 |         -0.56 |
+|  374 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  375 | Reynold Xin               |   8.3 |         5 |              |               |
 |  376 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  377 | Fahad Riyadh              |   8.2 |         5 |              |               |
