@@ -51,5 +51,5 @@ Generated 2016-09-13.
 |   47 | Keaton Noon         |   5.7 |        17 |        -0.06 |               |
 |   48 | Zsolt Bartha        |   4.6 |        43 |        -0.18 |         +1.26 |
 |   49 | Sameer Bajaj        |   2.6 |         3 |        -1.93 |               |
-|   50 | Cristhian Daniel    |  -1.1 |         8 |        -0.23 |               |
-|   51 | Duncan MacRae       |  -2.9 |         1 |              |               |
+|   50 | Cristhian Daniel    |   0.6 |         9 |        +1.47 |               |
+|   51 | Duncan MacRae       |  -5.7 |         2 |              |               |
