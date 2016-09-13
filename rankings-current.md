@@ -31,19 +31,19 @@ Generated 2016-09-13.
 |   27 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
 |   28 | Wayne Heiser        |  17.0 |        27 |              |               |
 |   29 | Terry Chang         |  15.6 |        42 |              |         +1.90 |
-|   30 | Kent Daniels        |  15.4 |        86 |        -0.24 |         +0.55 |
+|   30 | Kent Daniels        |  15.4 |        87 |        -0.28 |         +0.52 |
 |   31 | Ankur Dave          |  14.3 |        47 |        +0.29 |         +7.56 |
 |   32 | Nikhil Paranjape    |  12.9 |        21 |              |               |
 |   33 | Jennifer Rha        |  12.7 |        16 |              |         +2.69 |
-|   34 | Reto Sutter         |  10.5 |        45 |              |         -0.28 |
-|   35 | Raphael Magarik     |  10.4 |         8 |        +1.58 |               |
-|   36 | Meldan Heaslip      |  10.0 |         1 |              |               |
-|   37 | Josh Lebowitz       |   9.3 |        22 |              |               |
-|   38 | Nate Aden           |   8.9 |        19 |        +0.82 |               |
-|   39 | Daniel Schwartz     |   8.7 |        17 |        +0.22 |               |
-|   40 | Duo Wang            |   8.6 |        61 |        +0.24 |         +0.65 |
-|   41 | Brian Kempenich     |   8.6 |        36 |        -0.21 |         -0.56 |
-|   42 | Diego Butrich       |   7.9 |         2 |              |               |
+|   34 | Diego Butrich       |  11.2 |         3 |        +3.27 |               |
+|   35 | Reto Sutter         |  10.5 |        45 |              |         -0.28 |
+|   36 | Raphael Magarik     |  10.4 |         8 |        +1.58 |               |
+|   37 | Meldan Heaslip      |  10.0 |         1 |              |               |
+|   38 | Josh Lebowitz       |   9.3 |        22 |              |               |
+|   39 | Nate Aden           |   8.9 |        19 |        +0.82 |               |
+|   40 | Daniel Schwartz     |   8.7 |        17 |        +0.22 |               |
+|   41 | Duo Wang            |   8.6 |        61 |        +0.24 |         +0.65 |
+|   42 | Brian Kempenich     |   8.6 |        36 |        -0.21 |         -0.56 |
 |   43 | Anuj Dawar          |   6.9 |         3 |              |               |
 |   44 | Jose Lara           |   6.2 |         4 |              |               |
 |   45 | Ryan Akers          |   6.2 |         1 |              |               |
