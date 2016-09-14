@@ -16,8 +16,8 @@ Generated 2016-09-13.
 |   12 | Jeff Grant                |  31.3 |       207 |              |               |
 |   13 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   15 | Sam Sternberg             |  30.8 |       122 |              |         +1.57 |
-|   16 | Eric Katerman             |  30.8 |        19 |              |               |
+|   15 | Eric Katerman             |  30.9 |        20 |        +0.10 |               |
+|   16 | Sam Sternberg             |  30.8 |       122 |              |         +1.57 |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -101,9 +101,9 @@ Generated 2016-09-13.
 |   97 | Matt Wild                 |  23.0 |        25 |              |         -1.50 |
 |   98 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |   99 | Andrew Pritchard          |  22.7 |        16 |              |               |
-|  100 | Dan Meier                 |  22.7 |        47 |              |         +1.23 |
-|  101 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  102 | Julian Marshall           |  22.7 |        31 |              |               |
+|  100 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  101 | Julian Marshall           |  22.7 |        31 |              |               |
+|  102 | Dan Meier                 |  22.6 |        48 |        -0.07 |         +1.16 |
 |  103 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  104 | Dev Millstein             |  22.6 |        92 |              |               |
 |  105 | Matt Wong                 |  22.5 |        67 |              |         +1.67 |
