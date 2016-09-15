@@ -10,13 +10,13 @@ Generated 2016-09-14.
 |    6 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    7 | Louis Morrill             |  32.7 |        10 |              |               |
 |    8 | Tanu Sankalia             |  32.6 |        94 |              |               |
-|    9 | Rees Sweeney-Taylor       |  32.5 |        84 |              |         +1.21 |
-|   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
+|    9 | Kim Ben Khoo              |  32.4 |       187 |              |               |
+|   10 | Rees Sweeney-Taylor       |  32.3 |        85 |        -0.19 |         +1.02 |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Jeff Grant                |  31.3 |       207 |              |               |
-|   13 | Mads Kristensen           |  31.1 |        33 |              |               |
-|   14 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   15 | Eric Katerman             |  30.9 |        20 |        +0.10 |               |
+|   13 | Eric Katerman             |  31.3 |        21 |        +0.56 |               |
+|   14 | Mads Kristensen           |  31.1 |        33 |              |               |
+|   15 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   16 | Sam Sternberg             |  30.8 |       122 |              |         +1.57 |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
