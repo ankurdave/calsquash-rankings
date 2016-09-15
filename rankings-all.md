@@ -210,12 +210,12 @@ Generated 2016-09-15.
 |  206 | Bob Roller                |  18.2 |         6 |              |               |
 |  207 | Shaun Lim                 |  18.1 |        40 |              |         +0.17 |
 |  208 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  209 | James Chung               |  17.9 |         7 |              |               |
-|  210 | Andres Rodriguez          |  17.9 |        55 |              |         +0.69 |
-|  211 | Nick Paget                |  17.8 |        35 |              |               |
-|  212 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  213 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  214 | Eric Borden               |  17.7 |        29 |        +0.21 |         +8.37 |
+|  209 | Eric Borden               |  17.9 |        30 |        +0.41 |         +8.57 |
+|  210 | James Chung               |  17.9 |         7 |              |               |
+|  211 | Andres Rodriguez          |  17.9 |        55 |              |         +0.69 |
+|  212 | Nick Paget                |  17.8 |        35 |              |               |
+|  213 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  214 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  215 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  216 | Josh Trauner              |  17.7 |        32 |              |               |
 |  217 | Jim Kingsbury             |  17.6 |         2 |              |               |
@@ -236,9 +236,9 @@ Generated 2016-09-15.
 |  232 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  233 | Neil Conway               |  17.0 |        55 |              |               |
 |  234 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  235 | Wayne Heiser              |  17.0 |        27 |              |               |
-|  236 | Baxter Leman              |  16.9 |         6 |              |               |
-|  237 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  235 | Baxter Leman              |  16.9 |         6 |              |               |
+|  236 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  237 | Wayne Heiser              |  16.9 |        28 |        -0.13 |               |
 |  238 | Chris Flores              |  16.8 |       300 |              |         -1.90 |
 |  239 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  240 | Chinghway Lim             |  16.7 |        10 |              |               |

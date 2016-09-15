@@ -26,10 +26,10 @@ Generated 2016-09-15.
 |   22 | Dror Matalon        |  18.6 |       348 |        +0.23 |         +0.25 |
 |   23 | Robert Isaac        |  18.5 |         8 |        +1.70 |               |
 |   24 | Shaun Lim           |  18.1 |        40 |              |         +0.17 |
-|   25 | Eric Borden         |  17.7 |        29 |        +0.21 |         +8.37 |
+|   25 | Eric Borden         |  17.9 |        30 |        +0.41 |         +8.57 |
 |   26 | Josh Trauner        |  17.7 |        32 |              |               |
 |   27 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
-|   28 | Wayne Heiser        |  17.0 |        27 |              |               |
+|   28 | Wayne Heiser        |  16.9 |        28 |        -0.13 |               |
 |   29 | Terry Chang         |  15.6 |        42 |              |         +1.90 |
 |   30 | Kent Daniels        |  15.4 |        87 |        -0.28 |         +0.52 |
 |   31 | Ankur Dave          |  14.3 |        47 |        +0.29 |         +7.56 |
