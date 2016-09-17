@@ -158,8 +158,8 @@ Generated 2016-09-17.
 |  154 | Sam McCormick             |  20.5 |        15 |              |               |
 |  155 | Steven Sloman             |  20.4 |        10 |              |               |
 |  156 | Jeff Gordon               |  20.4 |        32 |        -0.03 |               |
-|  157 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  158 | Mike Jensen-Akula         |  20.2 |       215 |        +0.21 |         -1.69 |
+|  157 | Mike Jensen-Akula         |  20.3 |       216 |        +0.31 |         -1.59 |
+|  158 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  159 | Carl Schreck              |  20.2 |         2 |              |               |
 |  160 | John Grim                 |  20.1 |        13 |              |               |
 |  161 | Shwetabh Singh            |  20.1 |         6 |              |               |
@@ -398,7 +398,7 @@ Generated 2016-09-17.
 |  394 | Arno Ferguson             |   7.4 |         1 |              |               |
 |  395 | Alex Walters              |   7.4 |         3 |              |               |
 |  396 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  397 | Meldan Heaslip            |   7.2 |         2 |              |               |
+|  397 | Meldan Heaslip            |   7.0 |         3 |              |               |
 |  398 | Anuj Dawar                |   6.9 |         3 |              |               |
 |  399 | Brookes Degen             |   6.8 |         6 |              |               |
 |  400 | Joshua Braver             |   6.5 |         1 |              |               |
