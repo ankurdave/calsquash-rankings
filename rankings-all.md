@@ -207,8 +207,8 @@ Generated 2016-09-18.
 |  203 | John Eng                  |  18.4 |        28 |              |               |
 |  204 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  205 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  206 | Bob Roller                |  18.2 |         6 |              |               |
-|  207 | Shaun Lim                 |  18.1 |        40 |              |         +0.17 |
+|  206 | Shaun Lim                 |  18.2 |        41 |        +0.06 |         +0.23 |
+|  207 | Bob Roller                |  18.2 |         6 |              |               |
 |  208 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  209 | Eric Borden               |  17.9 |        30 |        +0.42 |         +8.59 |
 |  210 | James Chung               |  17.9 |         7 |              |               |
@@ -257,10 +257,10 @@ Generated 2016-09-18.
 |  253 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  254 | Louis Russell             |  15.8 |        20 |              |               |
 |  255 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  256 | Jared Nunn                |  15.7 |         5 |              |               |
-|  257 | Akash Sharma              |  15.7 |         8 |              |               |
-|  258 | Angie Ng                  |  15.7 |        12 |              |               |
-|  259 | Terry Chang               |  15.6 |        42 |              |         +1.90 |
+|  256 | Terry Chang               |  15.7 |        43 |        +0.13 |         +2.02 |
+|  257 | Jared Nunn                |  15.7 |         5 |              |               |
+|  258 | Akash Sharma              |  15.7 |         8 |              |               |
+|  259 | Angie Ng                  |  15.7 |        12 |              |               |
 |  260 | Tanit Follett             |  15.5 |         8 |              |               |
 |  261 | Toni Queck                |  15.5 |        20 |              |               |
 |  262 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
@@ -361,8 +361,8 @@ Generated 2016-09-18.
 |  357 | Robert Broesler           |   9.4 |         4 |              |               |
 |  358 | Raunak Bhinge             |   9.3 |         8 |              |               |
 |  359 | Greg Sperla               |   9.3 |         8 |              |               |
-|  360 | Josh Lebowitz             |   9.3 |        22 |              |               |
-|  361 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  360 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  361 | Josh Lebowitz             |   9.2 |        23 |        -0.10 |               |
 |  362 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  363 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  364 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
@@ -407,10 +407,10 @@ Generated 2016-09-18.
 |  403 | Markus Boese              |   6.5 |         1 |              |               |
 |  404 | Dav Clark                 |   6.4 |         6 |              |               |
 |  405 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  406 | Jose Lara                 |   6.2 |         4 |              |               |
-|  407 | Ryan Akers                |   6.2 |         1 |              |               |
-|  408 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  409 | Rohan Relan               |   6.0 |         4 |              |               |
+|  406 | Ryan Akers                |   6.2 |         1 |              |               |
+|  407 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  408 | Rohan Relan               |   6.0 |         4 |              |               |
+|  409 | Jose Lara                 |   5.9 |         5 |        -0.33 |               |
 |  410 | Alok Singh                |   5.9 |        12 |              |               |
 |  411 | David Zhu                 |   5.8 |         2 |              |               |
 |  412 | Ivan Rothman              |   5.7 |         5 |              |               |
