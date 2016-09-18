@@ -255,9 +255,9 @@ Generated 2016-09-18.
 |  251 | Jan Strasky               |  16.2 |        12 |              |               |
 |  252 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  253 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  254 | Louis Russell             |  15.8 |        20 |              |               |
-|  255 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  256 | Terry Chang               |  15.7 |        43 |        +0.13 |         +2.02 |
+|  254 | Terry Chang               |  15.8 |        44 |        +0.24 |         +2.14 |
+|  255 | Louis Russell             |  15.8 |        20 |              |               |
+|  256 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  257 | Jared Nunn                |  15.7 |         5 |              |               |
 |  258 | Akash Sharma              |  15.7 |         8 |              |               |
 |  259 | Angie Ng                  |  15.7 |        12 |              |               |
@@ -362,8 +362,8 @@ Generated 2016-09-18.
 |  358 | Raunak Bhinge             |   9.3 |         8 |              |               |
 |  359 | Greg Sperla               |   9.3 |         8 |              |               |
 |  360 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  361 | Josh Lebowitz             |   9.2 |        23 |        -0.10 |               |
-|  362 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  361 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  362 | Josh Lebowitz             |   9.0 |        24 |        -0.27 |               |
 |  363 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  364 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
 |  365 | Nate Aden                 |   8.9 |        19 |        +0.82 |               |
@@ -410,7 +410,7 @@ Generated 2016-09-18.
 |  406 | Ryan Akers                |   6.2 |         1 |              |               |
 |  407 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  408 | Rohan Relan               |   6.0 |         4 |              |               |
-|  409 | Jose Lara                 |   5.9 |         5 |        -0.33 |               |
+|  409 | Jose Lara                 |   5.9 |         5 |        -0.32 |               |
 |  410 | Alok Singh                |   5.9 |        12 |              |               |
 |  411 | David Zhu                 |   5.8 |         2 |              |               |
 |  412 | Ivan Rothman              |   5.7 |         5 |              |               |

@@ -30,7 +30,7 @@ Generated 2016-09-18.
 |   26 | Josh Trauner        |  17.7 |        32 |              |               |
 |   27 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
 |   28 | Wayne Heiser        |  17.2 |        29 |        +0.19 |               |
-|   29 | Terry Chang         |  15.7 |        43 |        +0.13 |         +2.02 |
+|   29 | Terry Chang         |  15.8 |        44 |        +0.24 |         +2.14 |
 |   30 | Kent Daniels        |  15.4 |        87 |        -0.28 |         +0.52 |
 |   31 | Ankur Dave          |  14.3 |        47 |        +0.29 |         +7.56 |
 |   32 | Nikhil Paranjape    |  12.9 |        21 |              |               |
@@ -38,7 +38,7 @@ Generated 2016-09-18.
 |   34 | Diego Butrich       |  11.2 |         3 |        +3.27 |               |
 |   35 | Reto Sutter         |  10.5 |        45 |              |         -0.28 |
 |   36 | Raphael Magarik     |  10.4 |         8 |        +1.58 |               |
-|   37 | Josh Lebowitz       |   9.2 |        23 |        -0.10 |               |
+|   37 | Josh Lebowitz       |   9.0 |        24 |        -0.27 |               |
 |   38 | Nate Aden           |   8.9 |        19 |        +0.82 |               |
 |   39 | Daniel Schwartz     |   8.7 |        17 |        +0.22 |               |
 |   40 | Duo Wang            |   8.6 |        61 |        +0.24 |         +0.65 |
@@ -46,7 +46,7 @@ Generated 2016-09-18.
 |   42 | Meldan Heaslip      |   7.0 |         3 |              |               |
 |   43 | Anuj Dawar          |   6.9 |         3 |              |               |
 |   44 | Ryan Akers          |   6.2 |         1 |              |               |
-|   45 | Jose Lara           |   5.9 |         5 |        -0.33 |               |
+|   45 | Jose Lara           |   5.9 |         5 |        -0.32 |               |
 |   46 | Alok Singh          |   5.9 |        12 |              |               |
 |   47 | Keaton Noon         |   5.7 |        17 |        -0.06 |               |
 |   48 | Zsolt Bartha        |   4.6 |        43 |        -0.18 |         +1.26 |
