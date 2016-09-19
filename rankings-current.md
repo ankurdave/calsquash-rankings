@@ -6,14 +6,14 @@ Generated 2016-09-18.
 |    2 | Eric Katerman       |  31.3 |        21 |        +0.56 |               |
 |    3 | Sam Sternberg       |  30.6 |       123 |        -0.21 |         +1.35 |
 |    4 | Colin Grant         |  27.1 |         2 |              |               |
-|    5 | Frank Kennamer      |  26.9 |       206 |              |         -0.47 |
-|    6 | Jim Veitch          |  25.4 |       423 |        -0.16 |         -0.02 |
+|    5 | Frank Kennamer      |  27.0 |       208 |        +0.07 |         -0.41 |
+|    6 | Jim Veitch          |  25.4 |       424 |        -0.14 |               |
 |    7 | John Kunze          |  24.7 |       296 |              |         -0.55 |
 |    8 | Aditya Guntuboyina  |  23.3 |        77 |              |         +1.84 |
 |    9 | Dan Bohn            |  23.2 |        75 |              |         -0.54 |
-|   10 | Matt Wong           |  22.9 |        69 |        +0.45 |         +2.12 |
+|   10 | Matt Wong           |  22.9 |        69 |        +0.40 |         +2.07 |
 |   11 | Dan Meier           |  22.6 |        49 |        -0.12 |         +1.11 |
-|   12 | Jonathan Hankar     |  21.9 |       182 |        -0.33 |         -0.13 |
+|   12 | Jonathan Hankar     |  21.8 |       182 |        -0.39 |         -0.18 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
 |   14 | Robert Schwartz     |  21.2 |        73 |              |         -0.26 |
 |   15 | Reid Johnsen        |  21.2 |        30 |              |         +6.68 |
@@ -25,7 +25,7 @@ Generated 2016-09-18.
 |   21 | Jonathan Francis    |  19.6 |        65 |        -0.22 |         +0.09 |
 |   22 | Kenny Bell          |  19.1 |       116 |              |         +1.35 |
 |   23 | Dror Matalon        |  18.6 |       348 |        +0.23 |         +0.25 |
-|   24 | Robert Isaac        |  18.5 |         8 |        +1.70 |               |
+|   24 | Robert Isaac        |  18.4 |         9 |        +1.52 |               |
 |   25 | Shaun Lim           |  18.2 |        41 |        +0.06 |         +0.23 |
 |   26 | Eric Borden         |  17.9 |        30 |        +0.42 |         +8.59 |
 |   27 | Josh Trauner        |  17.7 |        32 |              |               |

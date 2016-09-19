@@ -34,8 +34,8 @@ Generated 2016-09-18.
 |   30 | Stephen Dang              |  27.2 |        34 |              |               |
 |   31 | Samer Shehata             |  27.2 |        29 |              |               |
 |   32 | Colin Grant               |  27.1 |         2 |              |               |
-|   33 | Hussain Raza              |  27.0 |        50 |              |               |
-|   34 | Frank Kennamer            |  26.9 |       206 |              |         -0.47 |
+|   33 | Frank Kennamer            |  27.0 |       208 |        +0.07 |         -0.41 |
+|   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
 |   37 | Michael Best              |  26.9 |        21 |              |               |
@@ -55,7 +55,7 @@ Generated 2016-09-18.
 |   51 | Joe Schneider             |  25.5 |         8 |              |               |
 |   52 | Adam Angsten              |  25.4 |         3 |              |               |
 |   53 | Matt Nelson-Teutsch       |  25.4 |        10 |              |         +4.55 |
-|   54 | Jim Veitch                |  25.4 |       423 |        -0.16 |         -0.02 |
+|   54 | Jim Veitch                |  25.4 |       424 |        -0.14 |               |
 |   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   56 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   57 | Paul Greene               |  25.2 |         8 |              |               |
@@ -101,7 +101,7 @@ Generated 2016-09-18.
 |   97 | Joe Farrell               |  23.0 |        30 |              |               |
 |   98 | Matt Wild                 |  23.0 |        25 |              |         -1.50 |
 |   99 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  100 | Matt Wong                 |  22.9 |        69 |        +0.45 |         +2.12 |
+|  100 | Matt Wong                 |  22.9 |        69 |        +0.40 |         +2.07 |
 |  101 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  102 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  103 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -123,7 +123,7 @@ Generated 2016-09-18.
 |  119 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  120 | Andrew Lawrie             |  22.0 |        46 |              |         +1.85 |
 |  121 | Jan Beranek               |  21.9 |        46 |              |               |
-|  122 | Jonathan Hankar           |  21.9 |       182 |        -0.33 |         -0.13 |
+|  122 | Jonathan Hankar           |  21.8 |       182 |        -0.39 |         -0.18 |
 |  123 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  124 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  125 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -201,12 +201,12 @@ Generated 2016-09-18.
 |  197 | Dror Matalon              |  18.6 |       348 |        +0.23 |         +0.25 |
 |  198 | Jason Facchin             |  18.5 |         3 |              |               |
 |  199 | Yan Liu                   |  18.5 |        10 |              |         -2.42 |
-|  200 | Robert Isaac              |  18.5 |         8 |        +1.70 |               |
-|  201 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  202 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  203 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  204 | John Eng                  |  18.4 |        28 |              |               |
-|  205 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  200 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  201 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  202 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  203 | John Eng                  |  18.4 |        28 |              |               |
+|  204 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  205 | Robert Isaac              |  18.4 |         9 |        +1.52 |               |
 |  206 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  207 | Shaun Lim                 |  18.2 |        41 |        +0.06 |         +0.23 |
 |  208 | Bob Roller                |  18.2 |         6 |              |               |
