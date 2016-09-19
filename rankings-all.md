@@ -34,7 +34,7 @@ Generated 2016-09-18.
 |   30 | Stephen Dang              |  27.2 |        34 |              |               |
 |   31 | Samer Shehata             |  27.2 |        29 |              |               |
 |   32 | Colin Grant               |  27.1 |         2 |              |               |
-|   33 | Frank Kennamer            |  27.0 |       208 |        +0.07 |         -0.41 |
+|   33 | Frank Kennamer            |  27.0 |       208 |        +0.05 |         -0.42 |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -55,18 +55,18 @@ Generated 2016-09-18.
 |   51 | Joe Schneider             |  25.5 |         8 |              |               |
 |   52 | Adam Angsten              |  25.4 |         3 |              |               |
 |   53 | Matt Nelson-Teutsch       |  25.4 |        10 |              |         +4.55 |
-|   54 | Jim Veitch                |  25.4 |       424 |        -0.14 |               |
-|   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
-|   56 | Rahul Gupta               |  25.3 |         7 |              |               |
+|   54 | Sean O'Nuallain           |  25.4 |        43 |              |               |
+|   55 | Rahul Gupta               |  25.3 |         7 |              |               |
+|   56 | Jim Veitch                |  25.2 |       425 |        -0.32 |         -0.18 |
 |   57 | Paul Greene               |  25.2 |         8 |              |               |
 |   58 | Mukul Sud                 |  25.0 |         3 |              |               |
 |   59 | Ben Seelig                |  25.0 |        69 |              |               |
 |   60 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   61 | Madhav Pai                |  24.9 |         5 |              |               |
-|   62 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   63 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   64 | Orion Hodson              |  24.8 |        31 |              |               |
-|   65 | John Kunze                |  24.7 |       296 |              |         -0.55 |
+|   61 | John Kunze                |  24.9 |       297 |        +0.22 |         -0.33 |
+|   62 | Madhav Pai                |  24.9 |         5 |              |               |
+|   63 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   64 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   65 | Orion Hodson              |  24.8 |        31 |              |               |
 |   66 | Martin Stokes             |  24.7 |        12 |              |               |
 |   67 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
@@ -123,7 +123,7 @@ Generated 2016-09-18.
 |  119 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  120 | Andrew Lawrie             |  22.0 |        46 |              |         +1.85 |
 |  121 | Jan Beranek               |  21.9 |        46 |              |               |
-|  122 | Jonathan Hankar           |  21.8 |       182 |        -0.39 |         -0.18 |
+|  122 | Jonathan Hankar           |  21.8 |       182 |        -0.40 |         -0.20 |
 |  123 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  124 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  125 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -206,7 +206,7 @@ Generated 2016-09-18.
 |  202 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  203 | John Eng                  |  18.4 |        28 |              |               |
 |  204 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  205 | Robert Isaac              |  18.4 |         9 |        +1.52 |               |
+|  205 | Robert Isaac              |  18.3 |         9 |        +1.50 |               |
 |  206 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  207 | Shaun Lim                 |  18.2 |        41 |        +0.06 |         +0.23 |
 |  208 | Bob Roller                |  18.2 |         6 |              |               |
