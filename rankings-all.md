@@ -11,29 +11,29 @@ Generated 2016-09-19.
 |    7 | Louis Morrill             |  32.7 |        10 |              |               |
 |    8 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |    9 | Kim Ben Khoo              |  32.4 |       187 |              |               |
-|   10 | Rees Sweeney-Taylor       |  32.3 |        85 |        -0.19 |         +1.02 |
-|   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
+|   10 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
+|   11 | Rees Sweeney-Taylor       |  32.2 |        86 |        -0.30 |         +0.91 |
 |   12 | Jeff Grant                |  31.3 |       207 |              |               |
 |   13 | Eric Katerman             |  31.3 |        21 |        +0.56 |               |
 |   14 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   15 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   16 | Sam Sternberg             |  30.6 |       123 |        -0.21 |         +1.35 |
-|   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
-|   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
-|   19 | Ben Faber                 |  29.8 |        15 |              |               |
-|   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Alex Jermyn               |  29.3 |         3 |              |               |
-|   22 | Tiko Shah                 |  29.3 |       198 |              |               |
-|   23 | Jehan Engineer            |  29.2 |         9 |              |               |
-|   24 | Heba Nossier              |  29.2 |        14 |              |               |
-|   25 | Justin McCrary            |  29.0 |       140 |              |         +0.24 |
-|   26 | Ali Rahim                 |  28.4 |        24 |              |               |
-|   27 | Mikael Rehn               |  28.3 |         5 |              |               |
-|   28 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   29 | Grant French              |  27.5 |       125 |              |               |
-|   30 | Stephen Dang              |  27.2 |        34 |              |               |
-|   31 | Samer Shehata             |  27.2 |        29 |              |               |
-|   32 | Colin Grant               |  27.1 |         2 |              |               |
+|   16 | Sam Sternberg             |  30.6 |       123 |        -0.15 |         +1.42 |
+|   17 | Colin Grant               |  30.3 |         3 |              |               |
+|   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
+|   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
+|   20 | Ben Faber                 |  29.8 |        15 |              |               |
+|   21 | David Wood                |  29.7 |        43 |              |               |
+|   22 | Alex Jermyn               |  29.3 |         3 |              |               |
+|   23 | Tiko Shah                 |  29.3 |       198 |              |               |
+|   24 | Jehan Engineer            |  29.2 |         9 |              |               |
+|   25 | Heba Nossier              |  29.2 |        14 |              |               |
+|   26 | Justin McCrary            |  29.0 |       140 |              |         +0.24 |
+|   27 | Ali Rahim                 |  28.4 |        24 |              |               |
+|   28 | Mikael Rehn               |  28.3 |         5 |              |               |
+|   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
+|   30 | Grant French              |  27.5 |       125 |              |               |
+|   31 | Stephen Dang              |  27.2 |        34 |              |               |
+|   32 | Samer Shehata             |  27.2 |        29 |              |               |
 |   33 | Frank Kennamer            |  27.0 |       208 |        +0.05 |         -0.42 |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
