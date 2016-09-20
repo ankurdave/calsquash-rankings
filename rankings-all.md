@@ -336,9 +336,9 @@ Generated 2016-09-20.
 |  332 | Lucas Siow                |  11.0 |        10 |              |               |
 |  333 | Dominick Ng               |  10.9 |        25 |              |               |
 |  334 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  335 | George Bentley            |  10.6 |         4 |              |               |
-|  336 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  337 | Reto Sutter               |  10.5 |        45 |              |         -0.28 |
+|  335 | Reto Sutter               |  10.7 |        46 |        +0.24 |         -0.04 |
+|  336 | George Bentley            |  10.6 |         4 |              |               |
+|  337 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  338 | Brian Puglise             |  10.4 |         2 |              |               |
 |  339 | Raphael Magarik           |  10.4 |         8 |        +1.58 |               |
 |  340 | Lewis H. Moore            |  10.3 |         8 |              |               |
@@ -374,10 +374,10 @@ Generated 2016-09-20.
 |  370 | Daniel Schwartz           |   8.7 |        17 |        +0.22 |               |
 |  371 | Steven Yee                |   8.7 |         9 |              |               |
 |  372 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  373 | Duo Wang                  |   8.6 |        61 |        +0.24 |         +0.65 |
-|  374 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  375 | Brian Kempenich           |   8.6 |        36 |        -0.21 |         -0.56 |
-|  376 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  373 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  374 | Brian Kempenich           |   8.6 |        36 |        -0.21 |         -0.56 |
+|  375 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  376 | Duo Wang                  |   8.4 |        62 |        +0.03 |         +0.44 |
 |  377 | Reynold Xin               |   8.3 |         5 |              |               |
 |  378 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  379 | Fahad Riyadh              |   8.2 |         5 |              |               |

@@ -37,13 +37,13 @@ Generated 2016-09-20.
 |   33 | Nikhil Paranjape    |  12.9 |        21 |              |               |
 |   34 | Jennifer Rha        |  12.7 |        16 |              |         +2.69 |
 |   35 | Diego Butrich       |  11.2 |         3 |        +3.27 |               |
-|   36 | Reto Sutter         |  10.5 |        45 |              |         -0.28 |
+|   36 | Reto Sutter         |  10.7 |        46 |        +0.24 |         -0.04 |
 |   37 | Raphael Magarik     |  10.4 |         8 |        +1.58 |               |
 |   38 | Josh Lebowitz       |   9.0 |        24 |        -0.27 |               |
 |   39 | Nate Aden           |   8.9 |        19 |        +0.82 |               |
 |   40 | Daniel Schwartz     |   8.7 |        17 |        +0.22 |               |
-|   41 | Duo Wang            |   8.6 |        61 |        +0.24 |         +0.65 |
-|   42 | Brian Kempenich     |   8.6 |        36 |        -0.21 |         -0.56 |
+|   41 | Brian Kempenich     |   8.6 |        36 |        -0.21 |         -0.56 |
+|   42 | Duo Wang            |   8.4 |        62 |        +0.03 |         +0.44 |
 |   43 | Meldan Heaslip      |   7.0 |         3 |              |               |
 |   44 | Anuj Dawar          |   6.9 |         3 |              |               |
 |   45 | Ryan Akers          |   6.2 |         1 |              |               |
