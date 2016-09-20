@@ -135,24 +135,24 @@ Generated 2016-09-19.
 |  131 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  132 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  133 | Adam Jacob                |  21.3 |         3 |              |               |
-|  134 | Robert Schwartz           |  21.2 |        73 |              |         -0.26 |
-|  135 | Casey Harelson            |  21.2 |        20 |              |               |
-|  136 | Philip Bildner            |  21.2 |        22 |              |               |
-|  137 | Darren Morgan             |  21.2 |        11 |              |               |
-|  138 | Reid Johnsen              |  21.2 |        30 |              |         +6.68 |
-|  139 | Mark Modera               |  21.1 |       308 |        +0.05 |         -0.74 |
-|  140 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  141 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  134 | Casey Harelson            |  21.2 |        20 |              |               |
+|  135 | Philip Bildner            |  21.2 |        22 |              |               |
+|  136 | Darren Morgan             |  21.2 |        11 |              |               |
+|  137 | Reid Johnsen              |  21.2 |        30 |              |         +6.68 |
+|  138 | Mark Modera               |  21.1 |       308 |        +0.05 |         -0.74 |
+|  139 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  140 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  141 | Jared Bard                |  21.0 |        30 |        +0.42 |         +2.07 |
 |  142 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  143 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  144 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  145 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  146 | Jamie Funk                |  20.8 |        30 |              |               |
-|  147 | Matthew Brett             |  20.7 |        20 |              |               |
-|  148 | Prakash Bathini           |  20.7 |       122 |              |         -0.43 |
-|  149 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  150 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  151 | Jared Bard                |  20.6 |        29 |              |         +1.65 |
+|  143 | Robert Schwartz           |  21.0 |        74 |        -0.25 |         -0.52 |
+|  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  146 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  147 | Jamie Funk                |  20.8 |        30 |              |               |
+|  148 | Matthew Brett             |  20.7 |        20 |              |               |
+|  149 | Prakash Bathini           |  20.7 |       122 |              |         -0.43 |
+|  150 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  151 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  152 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  153 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  154 | Andrew Green              |  20.5 |        52 |              |               |

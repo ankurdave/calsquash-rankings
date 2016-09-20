@@ -15,10 +15,10 @@ Generated 2016-09-19.
 |   11 | Dan Meier           |  22.6 |        49 |        -0.12 |         +1.11 |
 |   12 | Jonathan Hankar     |  21.8 |       182 |        -0.40 |         -0.20 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
-|   14 | Robert Schwartz     |  21.2 |        73 |              |         -0.26 |
-|   15 | Reid Johnsen        |  21.2 |        30 |              |         +6.68 |
-|   16 | Mark Modera         |  21.1 |       308 |        +0.05 |         -0.74 |
-|   17 | Jared Bard          |  20.6 |        29 |              |         +1.65 |
+|   14 | Reid Johnsen        |  21.2 |        30 |              |         +6.68 |
+|   15 | Mark Modera         |  21.1 |       308 |        +0.05 |         -0.74 |
+|   16 | Jared Bard          |  21.0 |        30 |        +0.42 |         +2.07 |
+|   17 | Robert Schwartz     |  21.0 |        74 |        -0.25 |         -0.52 |
 |   18 | Sam McCormick       |  20.5 |        15 |              |               |
 |   19 | Jeff Gordon         |  20.4 |        32 |        -0.03 |               |
 |   20 | Mike Jensen-Akula   |  20.3 |       216 |        +0.31 |         -1.59 |
