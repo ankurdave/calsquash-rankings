@@ -12,13 +12,13 @@ Generated 2016-09-20.
 |    8 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |    9 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   10 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
-|   11 | Rees Sweeney-Taylor       |  32.2 |        86 |        -0.30 |         +0.91 |
-|   12 | Jeff Grant                |  31.3 |       207 |              |               |
-|   13 | Eric Katerman             |  31.3 |        21 |        +0.56 |               |
-|   14 | Mads Kristensen           |  31.1 |        33 |              |               |
-|   15 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   16 | Sam Sternberg             |  30.6 |       123 |        -0.15 |         +1.42 |
-|   17 | Colin Grant               |  30.3 |         3 |              |               |
+|   11 | Rees Sweeney-Taylor       |  32.2 |        86 |        -0.29 |         +0.92 |
+|   12 | Colin Grant               |  31.5 |         4 |              |               |
+|   13 | Eric Katerman             |  31.4 |        22 |        +0.67 |               |
+|   14 | Jeff Grant                |  31.3 |       207 |              |               |
+|   15 | Mads Kristensen           |  31.1 |        33 |              |               |
+|   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
+|   17 | Sam Sternberg             |  30.6 |       123 |        -0.15 |         +1.42 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
