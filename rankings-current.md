@@ -27,8 +27,8 @@ Generated 2016-09-21.
 |   23 | Dror Matalon        |  18.6 |       348 |        +0.23 |         +0.25 |
 |   24 | Robert Isaac        |  18.3 |         9 |        +1.49 |               |
 |   25 | Shaun Lim           |  18.2 |        41 |        +0.06 |         +0.23 |
-|   26 | Eric Borden         |  17.9 |        30 |        +0.42 |         +8.59 |
-|   27 | Josh Trauner        |  17.7 |        32 |              |               |
+|   26 | Eric Borden         |  18.0 |        31 |        +0.54 |         +8.70 |
+|   27 | Josh Trauner        |  17.6 |        33 |        -0.06 |               |
 |   28 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
 |   29 | Wayne Heiser        |  17.2 |        29 |        +0.19 |               |
 |   30 | Terry Chang         |  15.8 |        44 |        +0.24 |         +2.14 |
@@ -45,7 +45,7 @@ Generated 2016-09-21.
 |   41 | Brian Kempenich     |   8.6 |        36 |        -0.21 |         -0.56 |
 |   42 | Duo Wang            |   8.4 |        62 |        +0.03 |         +0.44 |
 |   43 | Meldan Heaslip      |   7.0 |         3 |              |               |
-|   44 | Anuj Dawar          |   6.9 |         3 |              |               |
+|   44 | Anuj Dawar          |   7.0 |         3 |              |               |
 |   45 | Ryan Akers          |   6.2 |         1 |              |               |
 |   46 | Jose Lara           |   5.9 |         5 |        -0.32 |               |
 |   47 | Alok Singh          |   5.9 |        12 |              |               |

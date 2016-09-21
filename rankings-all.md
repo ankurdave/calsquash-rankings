@@ -211,14 +211,14 @@ Generated 2016-09-21.
 |  207 | Shaun Lim                 |  18.2 |        41 |        +0.06 |         +0.23 |
 |  208 | Bob Roller                |  18.2 |         6 |              |               |
 |  209 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  210 | Eric Borden               |  17.9 |        30 |        +0.42 |         +8.59 |
+|  210 | Eric Borden               |  18.0 |        31 |        +0.54 |         +8.70 |
 |  211 | James Chung               |  17.9 |         7 |              |               |
 |  212 | Andres Rodriguez          |  17.9 |        55 |              |         +0.69 |
 |  213 | Nick Paget                |  17.8 |        35 |              |               |
 |  214 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  215 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  216 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  217 | Josh Trauner              |  17.7 |        32 |              |               |
+|  217 | Josh Trauner              |  17.6 |        33 |        -0.06 |               |
 |  218 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  219 | Subrato Dey               |  17.5 |        26 |              |               |
 |  220 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -400,7 +400,7 @@ Generated 2016-09-21.
 |  396 | Alex Walters              |   7.4 |         3 |              |               |
 |  397 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
 |  398 | Meldan Heaslip            |   7.0 |         3 |              |               |
-|  399 | Anuj Dawar                |   6.9 |         3 |              |               |
+|  399 | Anuj Dawar                |   7.0 |         3 |              |               |
 |  400 | Brookes Degen             |   6.8 |         6 |              |               |
 |  401 | Joshua Braver             |   6.5 |         1 |              |               |
 |  402 | Pablo Paredes             |   6.5 |         1 |              |               |
