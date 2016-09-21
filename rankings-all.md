@@ -59,10 +59,10 @@ Generated 2016-09-20.
 |   55 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   56 | Jim Veitch                |  25.2 |       425 |        -0.32 |         -0.18 |
 |   57 | Paul Greene               |  25.2 |         8 |              |               |
-|   58 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   59 | Ben Seelig                |  25.0 |        69 |              |               |
-|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   61 | John Kunze                |  24.9 |       297 |        +0.22 |         -0.33 |
+|   58 | John Kunze                |  25.1 |       298 |        +0.40 |         -0.15 |
+|   59 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   60 | Ben Seelig                |  25.0 |        69 |              |               |
+|   61 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   62 | Madhav Pai                |  24.9 |         5 |              |               |
 |   63 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   64 | Sushil Shetty             |  24.8 |        23 |              |               |
@@ -101,7 +101,7 @@ Generated 2016-09-20.
 |   97 | Joe Farrell               |  23.0 |        30 |              |               |
 |   98 | Matt Wild                 |  23.0 |        25 |              |         -1.50 |
 |   99 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  100 | Matt Wong                 |  22.9 |        69 |        +0.40 |         +2.07 |
+|  100 | Matt Wong                 |  22.7 |        70 |        +0.23 |         +1.90 |
 |  101 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  102 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  103 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -123,7 +123,7 @@ Generated 2016-09-20.
 |  119 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  120 | Andrew Lawrie             |  22.0 |        46 |              |         +1.85 |
 |  121 | Jan Beranek               |  21.9 |        46 |              |               |
-|  122 | Jonathan Hankar           |  21.8 |       182 |        -0.40 |         -0.20 |
+|  122 | Jonathan Hankar           |  21.8 |       182 |        -0.41 |         -0.20 |
 |  123 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  124 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  125 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -206,7 +206,7 @@ Generated 2016-09-20.
 |  202 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  203 | John Eng                  |  18.4 |        28 |              |               |
 |  204 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  205 | Robert Isaac              |  18.3 |         9 |        +1.50 |               |
+|  205 | Robert Isaac              |  18.3 |         9 |        +1.49 |               |
 |  206 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  207 | Shaun Lim                 |  18.2 |        41 |        +0.06 |         +0.23 |
 |  208 | Bob Roller                |  18.2 |         6 |              |               |
