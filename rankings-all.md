@@ -13,12 +13,12 @@ Generated 2016-09-21.
 |    9 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   10 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   11 | Rees Sweeney-Taylor       |  32.2 |        86 |        -0.29 |         +0.92 |
-|   12 | Colin Grant               |  31.5 |         4 |              |               |
-|   13 | Eric Katerman             |  31.4 |        22 |        +0.67 |               |
+|   12 | Eric Katerman             |  31.5 |        23 |        +0.78 |               |
+|   13 | Colin Grant               |  31.5 |         4 |              |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.6 |       123 |        -0.15 |         +1.42 |
+|   17 | Sam Sternberg             |  30.6 |       124 |        -0.15 |         +1.41 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
