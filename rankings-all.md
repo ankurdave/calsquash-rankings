@@ -256,8 +256,8 @@ Generated 2016-09-23.
 |  252 | Jan Strasky               |  16.2 |        12 |              |               |
 |  253 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  254 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  255 | Terry Chang               |  15.8 |        44 |        +0.24 |         +2.14 |
-|  256 | Louis Russell             |  15.8 |        20 |              |               |
+|  255 | Louis Russell             |  15.8 |        20 |              |               |
+|  256 | Terry Chang               |  15.8 |        44 |        +0.21 |         +2.11 |
 |  257 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  258 | Jared Nunn                |  15.7 |         5 |              |               |
 |  259 | Akash Sharma              |  15.7 |         8 |              |               |
@@ -354,18 +354,18 @@ Generated 2016-09-23.
 |  350 | Myles Gordon              |   9.8 |        42 |              |         +0.42 |
 |  351 | Jacob Bank                |   9.7 |         1 |              |               |
 |  352 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
-|  353 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  354 | Mark Shapero              |   9.4 |         7 |              |               |
-|  355 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  356 | Max Grass                 |   9.4 |         1 |              |               |
-|  357 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  358 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  359 | Robert Broesler           |   9.4 |         4 |              |               |
-|  360 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  361 | Greg Sperla               |   9.3 |         8 |              |               |
-|  362 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  363 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  364 | Josh Lebowitz             |   9.0 |        24 |        -0.27 |               |
+|  353 | Josh Lebowitz             |   9.6 |        25 |        +0.30 |               |
+|  354 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  355 | Mark Shapero              |   9.4 |         7 |              |               |
+|  356 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  357 | Max Grass                 |   9.4 |         1 |              |               |
+|  358 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  359 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  360 | Robert Broesler           |   9.4 |         4 |              |               |
+|  361 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  362 | Greg Sperla               |   9.3 |         8 |              |               |
+|  363 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  364 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  365 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  366 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
 |  367 | Nate Aden                 |   8.9 |        19 |        +0.82 |               |
@@ -412,19 +412,19 @@ Generated 2016-09-23.
 |  408 | Ryan Akers                |   6.2 |         1 |              |               |
 |  409 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  410 | Rohan Relan               |   6.0 |         4 |              |               |
-|  411 | Jose Lara                 |   5.9 |         5 |        -0.32 |               |
-|  412 | Alok Singh                |   5.9 |        12 |              |               |
-|  413 | David Zhu                 |   5.8 |         2 |              |               |
-|  414 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  415 | Keaton Noon               |   5.7 |        17 |        -0.06 |               |
-|  416 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  417 | Manu Vaish                |   5.5 |         1 |              |               |
-|  418 | Emily Moylan              |   5.2 |        17 |              |               |
-|  419 | Mohammad Salama           |   5.2 |         5 |              |               |
-|  420 | Catherine Wang            |   5.2 |        10 |              |               |
-|  421 | Ali Umar                  |   5.2 |        13 |              |               |
-|  422 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  423 | Nikhil Srivastava         |   5.0 |        16 |              |         +5.51 |
+|  411 | Alok Singh                |   5.9 |        12 |              |               |
+|  412 | David Zhu                 |   5.8 |         2 |              |               |
+|  413 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  414 | Keaton Noon               |   5.7 |        17 |        -0.06 |               |
+|  415 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  416 | Manu Vaish                |   5.5 |         1 |              |               |
+|  417 | Emily Moylan              |   5.2 |        17 |              |               |
+|  418 | Mohammad Salama           |   5.2 |         5 |              |               |
+|  419 | Catherine Wang            |   5.2 |        10 |              |               |
+|  420 | Ali Umar                  |   5.2 |        13 |              |               |
+|  421 | Martin Rasmussen          |   5.2 |         6 |              |               |
+|  422 | Nikhil Srivastava         |   5.0 |        16 |              |         +5.51 |
+|  423 | Jose Lara                 |   5.0 |         6 |        -1.23 |               |
 |  424 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  425 | Zsolt Bartha              |   4.6 |        44 |        -0.14 |         +1.30 |
 |  426 | Annie Wong                |   4.0 |         3 |              |               |
