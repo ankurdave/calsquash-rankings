@@ -34,7 +34,7 @@ Generated 2016-09-23.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.0 |       208 |        +0.05 |         -0.42 |
+|   33 | Frank Kennamer            |  27.2 |       209 |        +0.24 |         -0.24 |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -57,12 +57,12 @@ Generated 2016-09-23.
 |   53 | Matt Nelson-Teutsch       |  25.4 |        10 |              |         +4.55 |
 |   54 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   55 | Rahul Gupta               |  25.3 |         7 |              |               |
-|   56 | Jim Veitch                |  25.3 |       426 |        -0.27 |         -0.13 |
+|   56 | Jim Veitch                |  25.3 |       426 |        -0.28 |         -0.14 |
 |   57 | Paul Greene               |  25.2 |         8 |              |               |
-|   58 | John Kunze                |  25.1 |       298 |        +0.40 |         -0.15 |
-|   59 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   60 | Ben Seelig                |  25.0 |        69 |              |               |
-|   61 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   58 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   59 | Ben Seelig                |  25.0 |        69 |              |               |
+|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   61 | John Kunze                |  24.9 |       299 |        +0.21 |         -0.34 |
 |   62 | Madhav Pai                |  24.9 |         5 |              |               |
 |   63 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   64 | Sushil Shetty             |  24.8 |        23 |              |               |
@@ -103,7 +103,7 @@ Generated 2016-09-23.
 |   99 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  100 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  101 | Dan Meier                 |  22.7 |        50 |        +0.03 |         +1.25 |
-|  102 | Matt Wong                 |  22.7 |        71 |        +0.17 |         +1.84 |
+|  102 | Matt Wong                 |  22.7 |        71 |        +0.21 |         +1.88 |
 |  103 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  104 | Julian Marshall           |  22.7 |        31 |              |               |
 |  105 | Gautam Tankha             |  22.6 |         7 |              |               |
@@ -206,7 +206,7 @@ Generated 2016-09-23.
 |  202 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  203 | John Eng                  |  18.4 |        28 |              |               |
 |  204 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  205 | Robert Isaac              |  18.3 |         9 |        +1.47 |               |
+|  205 | Robert Isaac              |  18.3 |         9 |        +1.49 |               |
 |  206 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  207 | Shaun Lim                 |  18.2 |        41 |        +0.06 |         +0.23 |
 |  208 | Bob Roller                |  18.2 |         6 |              |               |
