@@ -131,22 +131,22 @@ Generated 2016-09-23.
 |  127 | Omair Azam                |  21.7 |        18 |              |               |
 |  128 | Phin Lee                  |  21.7 |        16 |              |               |
 |  129 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  130 | Dante Popple              |  21.5 |        17 |              |               |
-|  131 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  132 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  133 | Adam Jacob                |  21.3 |         3 |              |               |
-|  134 | Casey Harelson            |  21.2 |        20 |              |               |
-|  135 | Philip Bildner            |  21.2 |        22 |              |               |
-|  136 | Darren Morgan             |  21.2 |        11 |              |               |
-|  137 | Reid Johnsen              |  21.2 |        30 |              |         +6.68 |
-|  138 | Mark Modera               |  21.1 |       308 |        +0.05 |         -0.74 |
-|  139 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  140 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  141 | Jared Bard                |  21.0 |        30 |        +0.42 |         +2.07 |
-|  142 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  143 | Robert Schwartz           |  21.0 |        74 |        -0.25 |         -0.52 |
-|  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  130 | Reid Johnsen              |  21.5 |        31 |        +0.32 |         +7.00 |
+|  131 | Dante Popple              |  21.5 |        17 |              |               |
+|  132 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  133 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  134 | Adam Jacob                |  21.3 |         3 |              |               |
+|  135 | Casey Harelson            |  21.2 |        20 |              |               |
+|  136 | Philip Bildner            |  21.2 |        22 |              |               |
+|  137 | Darren Morgan             |  21.2 |        11 |              |               |
+|  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  139 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  140 | Jared Bard                |  21.0 |        30 |        +0.42 |         +2.07 |
+|  141 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  142 | Robert Schwartz           |  21.0 |        74 |        -0.25 |         -0.52 |
+|  143 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  144 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  145 | Mark Modera               |  20.9 |       309 |        -0.18 |         -0.97 |
 |  146 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  147 | Jamie Funk                |  20.8 |        30 |              |               |
 |  148 | Matthew Brett             |  20.7 |        20 |              |               |
@@ -158,7 +158,7 @@ Generated 2016-09-23.
 |  154 | Andrew Green              |  20.5 |        52 |              |               |
 |  155 | Sam McCormick             |  20.5 |        15 |              |               |
 |  156 | Steven Sloman             |  20.4 |        10 |              |               |
-|  157 | Jeff Gordon               |  20.4 |        32 |        -0.03 |               |
+|  157 | Jeff Gordon               |  20.4 |        32 |        -0.04 |               |
 |  158 | Mike Jensen-Akula         |  20.3 |       216 |        +0.31 |         -1.59 |
 |  159 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  160 | Carl Schreck              |  20.2 |         2 |              |               |
