@@ -5,14 +5,14 @@ Generated 2016-09-22.
 |    1 | Rees Sweeney-Taylor |  32.2 |        86 |        -0.29 |         +0.92 |
 |    2 | Eric Katerman       |  31.5 |        23 |        +0.78 |               |
 |    3 | Colin Grant         |  31.5 |         4 |              |               |
-|    4 | Sam Sternberg       |  30.6 |       124 |        -0.15 |         +1.41 |
+|    4 | Sam Sternberg       |  30.5 |       125 |        -0.31 |         +1.25 |
 |    5 | Frank Kennamer      |  27.0 |       208 |        +0.05 |         -0.42 |
 |    6 | Jim Veitch          |  25.3 |       426 |        -0.27 |         -0.13 |
 |    7 | John Kunze          |  25.1 |       298 |        +0.40 |         -0.15 |
 |    8 | Aditya Guntuboyina  |  23.3 |        77 |              |         +1.84 |
 |    9 | Dan Bohn            |  23.2 |        75 |              |         -0.54 |
-|   10 | Matt Wong           |  22.7 |        71 |        +0.17 |         +1.84 |
-|   11 | Dan Meier           |  22.6 |        49 |        -0.12 |         +1.11 |
+|   10 | Dan Meier           |  22.7 |        50 |        +0.03 |         +1.25 |
+|   11 | Matt Wong           |  22.7 |        71 |        +0.17 |         +1.84 |
 |   12 | Jonathan Hankar     |  21.8 |       182 |        -0.39 |         -0.18 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
 |   14 | Reid Johnsen        |  21.2 |        30 |              |         +6.68 |
