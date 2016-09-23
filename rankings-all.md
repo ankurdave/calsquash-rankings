@@ -374,9 +374,9 @@ Generated 2016-09-22.
 |  370 | Therese Jones             |   8.7 |         6 |              |               |
 |  371 | Daniel Schwartz           |   8.7 |        17 |        +0.22 |               |
 |  372 | Steven Yee                |   8.7 |         9 |              |               |
-|  373 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  374 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  375 | Brian Kempenich           |   8.6 |        36 |        -0.21 |         -0.56 |
+|  373 | Brian Kempenich           |   8.6 |        37 |        -0.18 |         -0.52 |
+|  374 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  375 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  376 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  377 | Duo Wang                  |   8.4 |        62 |        +0.03 |         +0.44 |
 |  378 | Reynold Xin               |   8.3 |         5 |              |               |
@@ -426,7 +426,7 @@ Generated 2016-09-22.
 |  422 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  423 | Nikhil Srivastava         |   5.0 |        16 |              |         +5.51 |
 |  424 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  425 | Zsolt Bartha              |   4.6 |        43 |        -0.18 |         +1.26 |
+|  425 | Zsolt Bartha              |   4.6 |        44 |        -0.14 |         +1.30 |
 |  426 | Annie Wong                |   4.0 |         3 |              |               |
 |  427 | Ryan                      |   4.0 |         3 |              |               |
 |  428 | Mateo Aceves              |   3.8 |         4 |              |               |

@@ -43,7 +43,7 @@ Generated 2016-09-22.
 |   39 | Josh Lebowitz       |   9.0 |        24 |        -0.27 |               |
 |   40 | Nate Aden           |   8.9 |        19 |        +0.82 |               |
 |   41 | Daniel Schwartz     |   8.7 |        17 |        +0.22 |               |
-|   42 | Brian Kempenich     |   8.6 |        36 |        -0.21 |         -0.56 |
+|   42 | Brian Kempenich     |   8.6 |        37 |        -0.18 |         -0.52 |
 |   43 | Duo Wang            |   8.4 |        62 |        +0.03 |         +0.44 |
 |   44 | Meldan Heaslip      |   7.0 |         3 |              |               |
 |   45 | Anuj Dawar          |   7.0 |         3 |              |               |
@@ -51,7 +51,7 @@ Generated 2016-09-22.
 |   47 | Jose Lara           |   5.9 |         5 |        -0.32 |               |
 |   48 | Alok Singh          |   5.9 |        12 |              |               |
 |   49 | Keaton Noon         |   5.7 |        17 |        -0.06 |               |
-|   50 | Zsolt Bartha        |   4.6 |        43 |        -0.18 |         +1.26 |
+|   50 | Zsolt Bartha        |   4.6 |        44 |        -0.14 |         +1.30 |
 |   51 | Sameer Bajaj        |   2.6 |         3 |        -1.93 |               |
 |   52 | Cristhian Daniel    |   0.6 |         9 |        +1.47 |               |
 |   53 | Duncan MacRae       |  -5.7 |         2 |              |               |
