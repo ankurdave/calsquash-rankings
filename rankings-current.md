@@ -9,19 +9,19 @@ Generated 2016-09-23.
 |    5 | Frank Kennamer      |  27.2 |       209 |        +0.24 |         -0.24 |
 |    6 | Jim Veitch          |  25.3 |       426 |        -0.28 |         -0.14 |
 |    7 | John Kunze          |  24.9 |       299 |        +0.21 |         -0.34 |
-|    8 | Aditya Guntuboyina  |  23.3 |        77 |              |         +1.84 |
-|    9 | Dan Bohn            |  23.2 |        75 |              |         -0.54 |
+|    8 | Dan Bohn            |  23.3 |        76 |        +0.17 |         -0.37 |
+|    9 | Aditya Guntuboyina  |  23.3 |        77 |              |         +1.84 |
 |   10 | Dan Meier           |  22.7 |        50 |        +0.03 |         +1.25 |
 |   11 | Matt Wong           |  22.7 |        71 |        +0.21 |         +1.88 |
 |   12 | Jonathan Hankar     |  21.8 |       182 |        -0.39 |         -0.18 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
-|   14 | Reid Johnsen        |  21.5 |        31 |        +0.32 |         +7.00 |
+|   14 | Reid Johnsen        |  21.5 |        31 |        +0.33 |         +7.00 |
 |   15 | Jared Bard          |  21.0 |        30 |        +0.42 |         +2.07 |
 |   16 | Robert Schwartz     |  21.0 |        74 |        -0.25 |         -0.52 |
-|   17 | Mark Modera         |  20.9 |       309 |        -0.18 |         -0.97 |
+|   17 | Mark Modera         |  20.9 |       309 |        -0.20 |         -0.99 |
 |   18 | Sam McCormick       |  20.5 |        15 |              |               |
-|   19 | Jeff Gordon         |  20.4 |        32 |        -0.04 |               |
-|   20 | Mike Jensen-Akula   |  20.3 |       216 |        +0.31 |         -1.59 |
+|   19 | Mike Jensen-Akula   |  20.3 |       216 |        +0.31 |         -1.59 |
+|   20 | Jeff Gordon         |  20.2 |        33 |        -0.21 |               |
 |   21 | Jonathan Francis    |  19.6 |        65 |        -0.22 |         +0.09 |
 |   22 | Kenny Bell          |  19.1 |       116 |              |         +1.35 |
 |   23 | Dror Matalon        |  18.6 |       348 |        +0.23 |         +0.25 |

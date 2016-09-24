@@ -94,8 +94,8 @@ Generated 2016-09-23.
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
 |   92 | Garvin Heath              |  23.4 |        28 |              |               |
-|   93 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.84 |
-|   94 | Dan Bohn                  |  23.2 |        75 |              |         -0.54 |
+|   93 | Dan Bohn                  |  23.3 |        76 |        +0.17 |         -0.37 |
+|   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.84 |
 |   95 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   96 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   97 | Joe Farrell               |  23.0 |        30 |              |               |
@@ -131,7 +131,7 @@ Generated 2016-09-23.
 |  127 | Omair Azam                |  21.7 |        18 |              |               |
 |  128 | Phin Lee                  |  21.7 |        16 |              |               |
 |  129 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  130 | Reid Johnsen              |  21.5 |        31 |        +0.32 |         +7.00 |
+|  130 | Reid Johnsen              |  21.5 |        31 |        +0.33 |         +7.00 |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
 |  132 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  133 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -146,8 +146,8 @@ Generated 2016-09-23.
 |  142 | Robert Schwartz           |  21.0 |        74 |        -0.25 |         -0.52 |
 |  143 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  144 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  145 | Mark Modera               |  20.9 |       309 |        -0.18 |         -0.97 |
-|  146 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  145 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  146 | Mark Modera               |  20.9 |       309 |        -0.20 |         -0.99 |
 |  147 | Jamie Funk                |  20.8 |        30 |              |               |
 |  148 | Matthew Brett             |  20.7 |        20 |              |               |
 |  149 | Prakash Bathini           |  20.7 |       122 |              |         -0.43 |
@@ -158,9 +158,9 @@ Generated 2016-09-23.
 |  154 | Andrew Green              |  20.5 |        52 |              |               |
 |  155 | Sam McCormick             |  20.5 |        15 |              |               |
 |  156 | Steven Sloman             |  20.4 |        10 |              |               |
-|  157 | Jeff Gordon               |  20.4 |        32 |        -0.04 |               |
-|  158 | Mike Jensen-Akula         |  20.3 |       216 |        +0.31 |         -1.59 |
-|  159 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  157 | Mike Jensen-Akula         |  20.3 |       216 |        +0.31 |         -1.59 |
+|  158 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  159 | Jeff Gordon               |  20.2 |        33 |        -0.21 |               |
 |  160 | Carl Schreck              |  20.2 |         2 |              |               |
 |  161 | John Grim                 |  20.1 |        13 |              |               |
 |  162 | Shwetabh Singh            |  20.1 |         6 |              |               |
