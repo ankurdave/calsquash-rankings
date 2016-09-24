@@ -8,12 +8,12 @@ Generated 2016-09-24.
 |    4 | Sam Sternberg       |  30.5 |       125 |        -0.31 |         +1.25 |
 |    5 | Frank Kennamer      |  27.2 |       209 |        +0.24 |         -0.24 |
 |    6 | Jim Veitch          |  25.3 |       426 |        -0.28 |         -0.14 |
-|    7 | John Kunze          |  24.9 |       299 |        +0.21 |         -0.34 |
+|    7 | John Kunze          |  24.5 |       300 |        -0.19 |         -0.73 |
 |    8 | Dan Bohn            |  23.3 |        76 |        +0.17 |         -0.37 |
 |    9 | Aditya Guntuboyina  |  23.3 |        77 |              |         +1.84 |
-|   10 | Dan Meier           |  22.7 |        50 |        +0.03 |         +1.25 |
-|   11 | Matt Wong           |  22.7 |        71 |        +0.21 |         +1.88 |
-|   12 | Jonathan Hankar     |  21.8 |       182 |        -0.39 |         -0.18 |
+|   10 | Matt Wong           |  22.8 |        71 |        +0.26 |         +1.93 |
+|   11 | Dan Meier           |  22.7 |        50 |        +0.03 |         +1.25 |
+|   12 | Jonathan Hankar     |  21.9 |       182 |        -0.33 |         -0.12 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
 |   14 | Reid Johnsen        |  21.5 |        31 |        +0.33 |         +7.00 |
 |   15 | Jared Bard          |  21.0 |        30 |        +0.42 |         +2.07 |
@@ -22,10 +22,10 @@ Generated 2016-09-24.
 |   18 | Sam McCormick       |  20.5 |        15 |              |               |
 |   19 | Mike Jensen-Akula   |  20.2 |       216 |        +0.20 |         -1.70 |
 |   20 | Jeff Gordon         |  20.2 |        33 |        -0.21 |               |
-|   21 | Jonathan Francis    |  19.6 |        65 |        -0.22 |         +0.09 |
-|   22 | Kenny Bell          |  19.1 |       116 |              |         +1.35 |
-|   23 | Dror Matalon        |  18.6 |       348 |        +0.23 |         +0.25 |
-|   24 | Robert Isaac        |  18.3 |         9 |        +1.49 |               |
+|   21 | Robert Isaac        |  19.9 |        10 |        +3.03 |               |
+|   22 | Jonathan Francis    |  19.6 |        65 |        -0.22 |         +0.09 |
+|   23 | Kenny Bell          |  19.1 |       116 |              |         +1.35 |
+|   24 | Dror Matalon        |  18.6 |       348 |        +0.23 |         +0.25 |
 |   25 | Shaun Lim           |  18.2 |        41 |        +0.06 |         +0.23 |
 |   26 | Eric Borden         |  18.0 |        31 |        +0.49 |         +8.65 |
 |   27 | Josh Trauner        |  17.6 |        33 |        -0.04 |               |
