@@ -158,8 +158,8 @@ Generated 2016-09-24.
 |  154 | Andrew Green              |  20.5 |        52 |              |               |
 |  155 | Sam McCormick             |  20.5 |        15 |              |               |
 |  156 | Steven Sloman             |  20.4 |        10 |              |               |
-|  157 | Mike Jensen-Akula         |  20.3 |       216 |        +0.31 |         -1.59 |
-|  158 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  157 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  158 | Mike Jensen-Akula         |  20.2 |       216 |        +0.20 |         -1.70 |
 |  159 | Jeff Gordon               |  20.2 |        33 |        -0.21 |               |
 |  160 | Carl Schreck              |  20.2 |         2 |              |               |
 |  161 | John Grim                 |  20.1 |        13 |              |               |
@@ -211,30 +211,30 @@ Generated 2016-09-24.
 |  207 | Shaun Lim                 |  18.2 |        41 |        +0.06 |         +0.23 |
 |  208 | Bob Roller                |  18.2 |         6 |              |               |
 |  209 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  210 | Eric Borden               |  18.0 |        31 |        +0.54 |         +8.70 |
+|  210 | Eric Borden               |  18.0 |        31 |        +0.49 |         +8.65 |
 |  211 | James Chung               |  17.9 |         7 |              |               |
 |  212 | Andres Rodriguez          |  17.9 |        55 |              |         +0.69 |
 |  213 | Nick Paget                |  17.8 |        35 |              |               |
 |  214 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  215 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  216 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  217 | Josh Trauner              |  17.6 |        33 |        -0.06 |               |
+|  217 | Josh Trauner              |  17.6 |        33 |        -0.04 |               |
 |  218 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  219 | Subrato Dey               |  17.5 |        26 |              |               |
 |  220 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  221 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  222 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  223 | Troup Howard              |  17.4 |        38 |              |         -0.26 |
-|  224 | Craig Riddell             |  17.4 |         8 |              |               |
-|  225 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  226 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  227 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  228 | Zach Brown                |  17.3 |         3 |              |               |
-|  229 | William Seles             |  17.2 |        15 |              |               |
-|  230 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  231 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  232 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  233 | Wayne Heiser              |  17.2 |        29 |        +0.19 |               |
+|  221 | Wayne Heiser              |  17.4 |        30 |        +0.47 |               |
+|  222 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  223 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  224 | Troup Howard              |  17.4 |        38 |              |         -0.26 |
+|  225 | Craig Riddell             |  17.4 |         8 |              |               |
+|  226 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  227 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  228 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  229 | Zach Brown                |  17.3 |         3 |              |               |
+|  230 | William Seles             |  17.2 |        15 |              |               |
+|  231 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  232 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  233 | Lucas Cheon               |  17.2 |        19 |              |               |
 |  234 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  235 | Neil Conway               |  17.0 |        55 |              |               |
 |  236 | Michael Cianfrocco        |  17.0 |        18 |              |               |
@@ -400,16 +400,16 @@ Generated 2016-09-24.
 |  396 | Arno Ferguson             |   7.4 |         1 |              |               |
 |  397 | Alex Walters              |   7.4 |         3 |              |               |
 |  398 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  399 | Meldan Heaslip            |   7.0 |         3 |              |               |
-|  400 | Anuj Dawar                |   7.0 |         3 |              |               |
-|  401 | Brookes Degen             |   6.8 |         6 |              |               |
-|  402 | Joshua Braver             |   6.5 |         1 |              |               |
-|  403 | Pablo Paredes             |   6.5 |         1 |              |               |
-|  404 | Mikel Shybut              |   6.5 |         4 |              |               |
-|  405 | Markus Boese              |   6.5 |         1 |              |               |
-|  406 | Dav Clark                 |   6.4 |         6 |              |               |
-|  407 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  408 | Ryan Akers                |   6.2 |         1 |              |               |
+|  399 | Meldan Heaslip            |   7.1 |         3 |              |               |
+|  400 | Brookes Degen             |   6.8 |         6 |              |               |
+|  401 | Joshua Braver             |   6.5 |         1 |              |               |
+|  402 | Pablo Paredes             |   6.5 |         1 |              |               |
+|  403 | Mikel Shybut              |   6.5 |         4 |              |               |
+|  404 | Markus Boese              |   6.5 |         1 |              |               |
+|  405 | Dav Clark                 |   6.4 |         6 |              |               |
+|  406 | Nicolas Huber             |   6.2 |         4 |              |               |
+|  407 | Ryan Akers                |   6.2 |         1 |              |               |
+|  408 | Anuj Dawar                |   6.1 |         4 |              |               |
 |  409 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  410 | Rohan Relan               |   6.0 |         4 |              |               |
 |  411 | Alok Singh                |   5.9 |        12 |              |               |

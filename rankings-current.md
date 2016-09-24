@@ -20,17 +20,17 @@ Generated 2016-09-24.
 |   16 | Robert Schwartz     |  21.0 |        74 |        -0.25 |         -0.52 |
 |   17 | Mark Modera         |  20.9 |       309 |        -0.20 |         -0.99 |
 |   18 | Sam McCormick       |  20.5 |        15 |              |               |
-|   19 | Mike Jensen-Akula   |  20.3 |       216 |        +0.31 |         -1.59 |
+|   19 | Mike Jensen-Akula   |  20.2 |       216 |        +0.20 |         -1.70 |
 |   20 | Jeff Gordon         |  20.2 |        33 |        -0.21 |               |
 |   21 | Jonathan Francis    |  19.6 |        65 |        -0.22 |         +0.09 |
 |   22 | Kenny Bell          |  19.1 |       116 |              |         +1.35 |
 |   23 | Dror Matalon        |  18.6 |       348 |        +0.23 |         +0.25 |
 |   24 | Robert Isaac        |  18.3 |         9 |        +1.49 |               |
 |   25 | Shaun Lim           |  18.2 |        41 |        +0.06 |         +0.23 |
-|   26 | Eric Borden         |  18.0 |        31 |        +0.54 |         +8.70 |
-|   27 | Josh Trauner        |  17.6 |        33 |        -0.06 |               |
-|   28 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
-|   29 | Wayne Heiser        |  17.2 |        29 |        +0.19 |               |
+|   26 | Eric Borden         |  18.0 |        31 |        +0.49 |         +8.65 |
+|   27 | Josh Trauner        |  17.6 |        33 |        -0.04 |               |
+|   28 | Wayne Heiser        |  17.4 |        30 |        +0.47 |               |
+|   29 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
 |   30 | Terry Chang         |  15.8 |        44 |        +0.21 |         +2.11 |
 |   31 | Kent Daniels        |  15.3 |        87 |        -0.28 |         +0.51 |
 |   32 | Ankur Dave          |  14.3 |        47 |        +0.28 |         +7.56 |
@@ -45,9 +45,9 @@ Generated 2016-09-24.
 |   41 | Daniel Schwartz     |   8.7 |        17 |        +0.22 |               |
 |   42 | Brian Kempenich     |   8.6 |        37 |        -0.18 |         -0.52 |
 |   43 | Duo Wang            |   8.4 |        62 |        +0.03 |         +0.44 |
-|   44 | Meldan Heaslip      |   7.0 |         3 |              |               |
-|   45 | Anuj Dawar          |   7.0 |         3 |              |               |
-|   46 | Ryan Akers          |   6.2 |         1 |              |               |
+|   44 | Meldan Heaslip      |   7.1 |         3 |              |               |
+|   45 | Ryan Akers          |   6.2 |         1 |              |               |
+|   46 | Anuj Dawar          |   6.1 |         4 |              |               |
 |   47 | Alok Singh          |   5.9 |        12 |              |               |
 |   48 | Keaton Noon         |   5.7 |        17 |        -0.06 |               |
 |   49 | Jose Lara           |   5.0 |         6 |        -1.23 |               |
