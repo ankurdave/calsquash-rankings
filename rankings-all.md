@@ -141,9 +141,9 @@ Generated 2016-09-25.
 |  137 | Darren Morgan             |  21.2 |        11 |              |               |
 |  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  139 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  140 | Jared Bard                |  21.0 |        30 |        +0.42 |         +2.07 |
-|  141 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  142 | Robert Schwartz           |  21.0 |        74 |        -0.25 |         -0.52 |
+|  140 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  141 | Jared Bard                |  21.0 |        30 |        +0.42 |         +2.07 |
+|  142 | Robert Schwartz           |  20.9 |        75 |        -0.33 |         -0.60 |
 |  143 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  144 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  145 | Joseph Farrell            |  20.9 |         8 |              |               |
@@ -178,7 +178,7 @@ Generated 2016-09-25.
 |  174 | Andrew Proudfoot          |  19.6 |        26 |              |         +3.17 |
 |  175 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  176 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  177 | Jonathan Francis          |  19.6 |        65 |        -0.22 |         +0.09 |
+|  177 | Jonathan Francis          |  19.6 |        65 |        -0.22 |         +0.10 |
 |  178 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  179 | Jaime Perez               |  19.3 |        11 |              |               |
 |  180 | Greg Adams                |  19.3 |        10 |              |               |
@@ -195,11 +195,11 @@ Generated 2016-09-25.
 |  191 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  192 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  193 | Peter Dering              |  18.7 |         9 |              |               |
-|  194 | Sushant Jain              |  18.7 |        12 |              |               |
-|  195 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  196 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  197 | Allan Sly                 |  18.6 |        29 |              |               |
-|  198 | Dror Matalon              |  18.6 |       348 |        +0.23 |         +0.25 |
+|  194 | Dror Matalon              |  18.7 |       349 |        +0.31 |         +0.33 |
+|  195 | Sushant Jain              |  18.7 |        12 |              |               |
+|  196 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  197 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  198 | Allan Sly                 |  18.6 |        29 |              |               |
 |  199 | Jason Facchin             |  18.5 |         3 |              |               |
 |  200 | Yan Liu                   |  18.5 |        10 |              |         -2.42 |
 |  201 | Akshay Dugar              |  18.5 |         6 |              |               |
