@@ -32,12 +32,12 @@ Generated 2016-09-24.
 |   28 | Wayne Heiser        |  17.4 |        30 |        +0.47 |               |
 |   29 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
 |   30 | Terry Chang         |  15.8 |        44 |        +0.21 |         +2.11 |
-|   31 | Kent Daniels        |  15.3 |        87 |        -0.28 |         +0.51 |
-|   32 | Ankur Dave          |  14.3 |        47 |        +0.28 |         +7.56 |
+|   31 | Kent Daniels        |  15.4 |        87 |        -0.27 |         +0.52 |
+|   32 | Ankur Dave          |  14.4 |        48 |        +0.43 |         +7.71 |
 |   33 | Nikhil Paranjape    |  12.8 |        22 |        -0.10 |               |
 |   34 | Jennifer Rha        |  12.7 |        16 |              |         +2.69 |
 |   35 | Diego Butrich       |  11.3 |         3 |        +3.39 |               |
-|   36 | Shai Vardi          |  11.3 |         1 |              |               |
+|   36 | Shai Vardi          |  11.0 |         2 |              |               |
 |   37 | Reto Sutter         |  10.7 |        46 |        +0.24 |         -0.04 |
 |   38 | Raphael Magarik     |  10.4 |         8 |        +1.58 |               |
 |   39 | Josh Lebowitz       |   9.6 |        25 |        +0.30 |               |

@@ -266,7 +266,7 @@ Generated 2016-09-24.
 |  262 | Toni Queck                |  15.5 |        20 |              |               |
 |  263 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  264 | Peter Duerr               |  15.4 |        24 |              |               |
-|  265 | Kent Daniels              |  15.3 |        87 |        -0.28 |         +0.51 |
+|  265 | Kent Daniels              |  15.4 |        87 |        -0.27 |         +0.52 |
 |  266 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  267 | Jim Evans                 |  15.1 |       216 |              |               |
 |  268 | Dennis Chan               |  15.1 |         1 |              |               |
@@ -284,10 +284,10 @@ Generated 2016-09-24.
 |  280 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  281 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  282 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  283 | Max Woodworth             |  14.4 |         7 |              |               |
-|  284 | Juliet Shih               |  14.4 |        11 |              |               |
-|  285 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  286 | Ankur Dave                |  14.3 |        47 |        +0.28 |         +7.56 |
+|  283 | Ankur Dave                |  14.4 |        48 |        +0.43 |         +7.71 |
+|  284 | Max Woodworth             |  14.4 |         7 |              |               |
+|  285 | Juliet Shih               |  14.4 |        11 |              |               |
+|  286 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  287 | Adam Soliman              |  14.2 |        32 |              |               |
 |  288 | Charles Denby             |  14.2 |         5 |              |               |
 |  289 | Neil Sachs                |  14.1 |        12 |              |               |
@@ -333,7 +333,7 @@ Generated 2016-09-24.
 |  329 | Carlos Filho              |  11.4 |         7 |              |               |
 |  330 | Diego Butrich             |  11.3 |         3 |        +3.39 |               |
 |  331 | Karan Jain                |  11.3 |        19 |              |               |
-|  332 | Shai Vardi                |  11.3 |         1 |              |               |
+|  332 | Shai Vardi                |  11.0 |         2 |              |               |
 |  333 | Lucas Siow                |  11.0 |        10 |              |               |
 |  334 | Dominick Ng               |  10.9 |        25 |              |               |
 |  335 | Rodrigo Calmet            |  10.8 |         5 |              |               |
