@@ -256,8 +256,8 @@ Generated 2016-09-25.
 |  252 | Jan Strasky               |  16.2 |        12 |              |               |
 |  253 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  254 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  255 | Louis Russell             |  15.8 |        20 |              |               |
-|  256 | Terry Chang               |  15.8 |        44 |        +0.21 |         +2.11 |
+|  255 | Terry Chang               |  16.0 |        45 |        +0.48 |         +2.38 |
+|  256 | Louis Russell             |  15.8 |        20 |              |               |
 |  257 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  258 | Jared Nunn                |  15.7 |         5 |              |               |
 |  259 | Akash Sharma              |  15.7 |         8 |              |               |
@@ -312,10 +312,10 @@ Generated 2016-09-25.
 |  308 | Nikhil Paranjape          |  12.8 |        22 |        -0.10 |               |
 |  309 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  310 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  311 | Jennifer Rha              |  12.7 |        16 |              |         +2.69 |
-|  312 | Josh Shiode               |  12.6 |        20 |              |               |
-|  313 | Huw Lester                |  12.5 |         1 |              |               |
-|  314 | Richard Fabini            |  12.4 |         3 |              |               |
+|  311 | Josh Shiode               |  12.6 |        20 |              |               |
+|  312 | Huw Lester                |  12.5 |         1 |              |               |
+|  313 | Richard Fabini            |  12.4 |         3 |              |               |
+|  314 | Jennifer Rha              |  12.3 |        17 |        -0.35 |         +2.35 |
 |  315 | John Givens               |  12.2 |        13 |              |               |
 |  316 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  317 | Reed Foster               |  12.1 |         8 |              |               |
@@ -354,7 +354,7 @@ Generated 2016-09-25.
 |  350 | Myles Gordon              |   9.8 |        42 |              |         +0.42 |
 |  351 | Jacob Bank                |   9.7 |         1 |              |               |
 |  352 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
-|  353 | Josh Lebowitz             |   9.6 |        25 |        +0.30 |               |
+|  353 | Josh Lebowitz             |   9.6 |        25 |        +0.27 |               |
 |  354 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  355 | Mark Shapero              |   9.4 |         7 |              |               |
 |  356 | Kevin Pollock             |   9.4 |        28 |              |               |
@@ -424,7 +424,7 @@ Generated 2016-09-25.
 |  420 | Ali Umar                  |   5.2 |        13 |              |               |
 |  421 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  422 | Nikhil Srivastava         |   5.0 |        16 |              |         +5.51 |
-|  423 | Jose Lara                 |   5.0 |         6 |        -1.23 |               |
+|  423 | Jose Lara                 |   5.0 |         6 |        -1.17 |               |
 |  424 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  425 | Zsolt Bartha              |   4.6 |        44 |        -0.14 |         +1.30 |
 |  426 | Annie Wong                |   4.0 |         3 |              |               |

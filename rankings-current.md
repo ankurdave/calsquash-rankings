@@ -31,16 +31,16 @@ Generated 2016-09-25.
 |   27 | Josh Trauner        |  17.6 |        33 |        -0.04 |               |
 |   28 | Wayne Heiser        |  17.4 |        30 |        +0.47 |               |
 |   29 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
-|   30 | Terry Chang         |  15.8 |        44 |        +0.21 |         +2.11 |
+|   30 | Terry Chang         |  16.0 |        45 |        +0.48 |         +2.38 |
 |   31 | Kent Daniels        |  15.4 |        87 |        -0.27 |         +0.52 |
 |   32 | Ankur Dave          |  14.4 |        48 |        +0.43 |         +7.71 |
 |   33 | Nikhil Paranjape    |  12.8 |        22 |        -0.10 |               |
-|   34 | Jennifer Rha        |  12.7 |        16 |              |         +2.69 |
+|   34 | Jennifer Rha        |  12.3 |        17 |        -0.35 |         +2.35 |
 |   35 | Diego Butrich       |  11.3 |         3 |        +3.39 |               |
 |   36 | Shai Vardi          |  11.0 |         2 |              |               |
 |   37 | Reto Sutter         |  10.7 |        46 |        +0.24 |         -0.04 |
 |   38 | Raphael Magarik     |  10.4 |         8 |        +1.58 |               |
-|   39 | Josh Lebowitz       |   9.6 |        25 |        +0.30 |               |
+|   39 | Josh Lebowitz       |   9.6 |        25 |        +0.27 |               |
 |   40 | Nate Aden           |   8.9 |        19 |        +0.82 |               |
 |   41 | Daniel Schwartz     |   8.7 |        17 |        +0.22 |               |
 |   42 | Brian Kempenich     |   8.6 |        37 |        -0.18 |         -0.52 |
@@ -50,7 +50,7 @@ Generated 2016-09-25.
 |   46 | Anuj Dawar          |   6.1 |         4 |              |               |
 |   47 | Alok Singh          |   5.9 |        12 |              |               |
 |   48 | Keaton Noon         |   5.7 |        17 |        -0.06 |               |
-|   49 | Jose Lara           |   5.0 |         6 |        -1.23 |               |
+|   49 | Jose Lara           |   5.0 |         6 |        -1.17 |               |
 |   50 | Zsolt Bartha        |   4.6 |        44 |        -0.14 |         +1.30 |
 |   51 | Sameer Bajaj        |   2.6 |         3 |        -1.93 |               |
 |   52 | Cristhian Daniel    |   0.6 |         9 |        +1.47 |               |
