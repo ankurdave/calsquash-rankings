@@ -143,15 +143,15 @@ Generated 2016-09-25.
 |  139 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  140 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  141 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  142 | Robert Schwartz           |  20.9 |        75 |        -0.33 |         -0.60 |
-|  143 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  144 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  145 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  146 | Mark Modera               |  20.9 |       309 |        -0.20 |         -0.99 |
-|  147 | Jamie Funk                |  20.8 |        30 |              |               |
-|  148 | Matthew Brett             |  20.7 |        20 |              |               |
-|  149 | Prakash Bathini           |  20.7 |       122 |              |         -0.43 |
-|  150 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  144 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  145 | Mark Modera               |  20.9 |       309 |        -0.20 |         -0.99 |
+|  146 | Jamie Funk                |  20.8 |        30 |              |               |
+|  147 | Matthew Brett             |  20.7 |        20 |              |               |
+|  148 | Prakash Bathini           |  20.7 |       122 |              |         -0.43 |
+|  149 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  150 | Robert Schwartz           |  20.7 |        76 |        -0.55 |         -0.81 |
 |  151 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  152 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  153 | Leor Lovinger             |  20.5 |         6 |              |               |
@@ -177,8 +177,8 @@ Generated 2016-09-25.
 |  173 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  174 | Andrew Proudfoot          |  19.6 |        26 |              |         +3.17 |
 |  175 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  176 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  177 | Jonathan Francis          |  19.4 |        66 |        -0.41 |         -0.10 |
+|  176 | Jonathan Francis          |  19.6 |        67 |        -0.19 |         +0.12 |
+|  177 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  178 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  179 | Jaime Perez               |  19.3 |        11 |              |               |
 |  180 | Greg Adams                |  19.3 |        10 |              |               |
@@ -195,7 +195,7 @@ Generated 2016-09-25.
 |  191 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  192 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  193 | Peter Dering              |  18.7 |         9 |              |               |
-|  194 | Dror Matalon              |  18.7 |       349 |        +0.30 |         +0.32 |
+|  194 | Dror Matalon              |  18.7 |       349 |        +0.31 |         +0.33 |
 |  195 | Sushant Jain              |  18.7 |        12 |              |               |
 |  196 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  197 | Kedar Viswanathan         |  18.6 |        16 |              |               |
