@@ -13,15 +13,15 @@ Generated 2016-09-27.
 |    9 | Dan Bohn            |  23.2 |        77 |              |         -0.54 |
 |   10 | Matt Wong           |  22.8 |        71 |        +0.26 |         +1.93 |
 |   11 | Dan Meier           |  22.7 |        50 |        +0.03 |         +1.26 |
-|   12 | Jonathan Hankar     |  21.9 |       182 |        -0.33 |         -0.12 |
-|   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
-|   14 | Reid Johnsen        |  21.7 |        32 |        +0.57 |         +7.24 |
+|   12 | Reid Johnsen        |  22.0 |        33 |        +0.82 |         +7.50 |
+|   13 | Jonathan Hankar     |  21.9 |       182 |        -0.33 |         -0.12 |
+|   14 | Saurabh Bajaj       |  21.8 |        22 |              |               |
 |   15 | Jared Bard          |  21.3 |        31 |        +0.73 |         +2.39 |
 |   16 | Mark Modera         |  20.9 |       309 |        -0.20 |         -0.99 |
 |   17 | Robert Schwartz     |  20.7 |        76 |        -0.55 |         -0.81 |
 |   18 | Sam McCormick       |  20.5 |        15 |              |               |
 |   19 | Mike Jensen-Akula   |  20.2 |       216 |        +0.20 |         -1.70 |
-|   20 | Jeff Gordon         |  20.2 |        33 |        -0.21 |               |
+|   20 | Jeff Gordon         |  20.0 |        34 |        -0.43 |               |
 |   21 | Robert Isaac        |  19.9 |        10 |        +3.03 |               |
 |   22 | Jonathan Francis    |  19.6 |        67 |        -0.19 |         +0.12 |
 |   23 | Kenny Bell          |  19.1 |       116 |              |         +1.35 |

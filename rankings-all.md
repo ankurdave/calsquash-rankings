@@ -119,15 +119,15 @@ Generated 2016-09-27.
 |  115 | Niklas Linde              |  22.1 |        23 |              |               |
 |  116 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  117 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  118 | Blake Woodard             |  22.0 |        10 |              |               |
-|  119 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  120 | Andrew Lawrie             |  22.0 |        46 |              |         +1.85 |
-|  121 | Jan Beranek               |  21.9 |        46 |              |               |
-|  122 | Jonathan Hankar           |  21.9 |       182 |        -0.33 |         -0.12 |
-|  123 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  124 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  125 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  126 | Reid Johnsen              |  21.7 |        32 |        +0.57 |         +7.24 |
+|  118 | Reid Johnsen              |  22.0 |        33 |        +0.82 |         +7.50 |
+|  119 | Blake Woodard             |  22.0 |        10 |              |               |
+|  120 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  121 | Andrew Lawrie             |  22.0 |        46 |              |         +1.85 |
+|  122 | Jan Beranek               |  21.9 |        46 |              |               |
+|  123 | Jonathan Hankar           |  21.9 |       182 |        -0.33 |         -0.12 |
+|  124 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  125 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  126 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  127 | Charlie Weiss             |  21.7 |        70 |              |         -0.42 |
 |  128 | Omair Azam                |  21.7 |        18 |              |               |
 |  129 | Phin Lee                  |  21.7 |        16 |              |               |
@@ -160,13 +160,13 @@ Generated 2016-09-27.
 |  156 | Steven Sloman             |  20.4 |        10 |              |               |
 |  157 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  158 | Mike Jensen-Akula         |  20.2 |       216 |        +0.20 |         -1.70 |
-|  159 | Jeff Gordon               |  20.2 |        33 |        -0.21 |               |
-|  160 | Carl Schreck              |  20.2 |         2 |              |               |
-|  161 | John Grim                 |  20.1 |        13 |              |               |
-|  162 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  163 | Frank Kennan              |  20.1 |        11 |              |               |
-|  164 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  165 | Wesley Huang              |  20.0 |         8 |              |               |
+|  159 | Carl Schreck              |  20.2 |         2 |              |               |
+|  160 | John Grim                 |  20.1 |        13 |              |               |
+|  161 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  162 | Frank Kennan              |  20.1 |        11 |              |               |
+|  163 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  164 | Wesley Huang              |  20.0 |         8 |              |               |
+|  165 | Jeff Gordon               |  20.0 |        34 |        -0.43 |               |
 |  166 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  167 | Liam King                 |  19.9 |         6 |              |               |
 |  168 | Robert Isaac              |  19.9 |        10 |        +3.03 |               |
