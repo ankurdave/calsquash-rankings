@@ -12,13 +12,13 @@ Generated 2016-09-26.
 |    8 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |    9 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   10 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
-|   11 | Rees Sweeney-Taylor       |  32.2 |        86 |        -0.29 |         +0.92 |
+|   11 | Rees Sweeney-Taylor       |  32.0 |        87 |        -0.44 |         +0.77 |
 |   12 | Eric Katerman             |  31.5 |        23 |        +0.78 |               |
 |   13 | Colin Grant               |  31.5 |         4 |              |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.5 |       125 |        -0.31 |         +1.25 |
+|   17 | Sam Sternberg             |  30.6 |       126 |        -0.14 |         +1.42 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -103,7 +103,7 @@ Generated 2016-09-26.
 |   99 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  100 | Matt Wong                 |  22.8 |        71 |        +0.26 |         +1.93 |
 |  101 | Andrew Pritchard          |  22.7 |        16 |              |               |
-|  102 | Dan Meier                 |  22.7 |        50 |        +0.03 |         +1.25 |
+|  102 | Dan Meier                 |  22.7 |        50 |        +0.03 |         +1.26 |
 |  103 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  104 | Julian Marshall           |  22.7 |        31 |              |               |
 |  105 | Gautam Tankha             |  22.6 |         7 |              |               |
