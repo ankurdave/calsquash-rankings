@@ -265,8 +265,8 @@ Generated 2016-09-26.
 |  261 | Tanit Follett             |  15.5 |         8 |              |               |
 |  262 | Toni Queck                |  15.5 |        20 |              |               |
 |  263 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  264 | Peter Duerr               |  15.4 |        24 |              |               |
-|  265 | Kent Daniels              |  15.4 |        87 |        -0.27 |         +0.52 |
+|  264 | Kent Daniels              |  15.4 |        88 |        -0.22 |         +0.58 |
+|  265 | Peter Duerr               |  15.4 |        24 |              |               |
 |  266 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  267 | Jim Evans                 |  15.1 |       216 |              |               |
 |  268 | Dennis Chan               |  15.1 |         1 |              |               |
@@ -297,43 +297,43 @@ Generated 2016-09-26.
 |  293 | Gurj Johal                |  13.8 |         2 |              |               |
 |  294 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  295 | Josephine Lee             |  13.7 |         6 |              |               |
-|  296 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  297 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  298 | Lars Foleide              |  13.5 |        11 |              |               |
-|  299 | Alex Rennet               |  13.5 |         2 |              |               |
-|  300 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  301 | Jake Toy                  |  13.4 |         5 |              |               |
-|  302 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  303 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  304 | Field Maloney             |  13.1 |        24 |              |               |
-|  305 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  306 | Lewis Moore               |  13.0 |        69 |              |               |
-|  307 | David Isaksson            |  12.9 |        22 |              |               |
-|  308 | Nikhil Paranjape          |  12.8 |        22 |        -0.10 |               |
-|  309 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  310 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  311 | Josh Shiode               |  12.6 |        20 |              |               |
-|  312 | Huw Lester                |  12.5 |         1 |              |               |
-|  313 | Richard Fabini            |  12.4 |         3 |              |               |
-|  314 | Jennifer Rha              |  12.3 |        17 |        -0.35 |         +2.35 |
-|  315 | John Givens               |  12.2 |        13 |              |               |
-|  316 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  317 | Reed Foster               |  12.1 |         8 |              |               |
-|  318 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  319 | Larry Dale                |  11.9 |        29 |              |               |
-|  320 | Aman Gupta                |  11.8 |         3 |              |               |
-|  321 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  322 | Julian Gill               |  11.8 |         1 |              |               |
-|  323 | James Shinn               |  11.7 |       120 |              |               |
-|  324 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  325 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  326 | David Appelfeld           |  11.6 |        26 |              |               |
-|  327 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  328 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  329 | Carlos Filho              |  11.4 |         7 |              |               |
-|  330 | Diego Butrich             |  11.3 |         3 |        +3.39 |               |
-|  331 | Karan Jain                |  11.3 |        19 |              |               |
-|  332 | Shai Vardi                |  11.0 |         2 |              |               |
+|  296 | Shai Vardi                |  13.6 |         3 |              |               |
+|  297 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  298 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  299 | Lars Foleide              |  13.5 |        11 |              |               |
+|  300 | Alex Rennet               |  13.5 |         2 |              |               |
+|  301 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  302 | Jake Toy                  |  13.4 |         5 |              |               |
+|  303 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  304 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  305 | Field Maloney             |  13.1 |        24 |              |               |
+|  306 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  307 | Lewis Moore               |  13.0 |        69 |              |               |
+|  308 | David Isaksson            |  12.9 |        22 |              |               |
+|  309 | Nikhil Paranjape          |  12.8 |        22 |        -0.10 |               |
+|  310 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  311 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  312 | Josh Shiode               |  12.6 |        20 |              |               |
+|  313 | Huw Lester                |  12.5 |         1 |              |               |
+|  314 | Richard Fabini            |  12.4 |         3 |              |               |
+|  315 | Jennifer Rha              |  12.3 |        17 |        -0.35 |         +2.35 |
+|  316 | John Givens               |  12.2 |        13 |              |               |
+|  317 | Sylvan Arevalo            |  12.2 |         3 |              |               |
+|  318 | Reed Foster               |  12.1 |         8 |              |               |
+|  319 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  320 | Larry Dale                |  11.9 |        29 |              |               |
+|  321 | Aman Gupta                |  11.8 |         3 |              |               |
+|  322 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  323 | Julian Gill               |  11.8 |         1 |              |               |
+|  324 | James Shinn               |  11.7 |       120 |              |               |
+|  325 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  326 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  327 | David Appelfeld           |  11.6 |        26 |              |               |
+|  328 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  329 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
+|  330 | Carlos Filho              |  11.4 |         7 |              |               |
+|  331 | Diego Butrich             |  11.3 |         3 |        +3.39 |               |
+|  332 | Karan Jain                |  11.3 |        19 |              |               |
 |  333 | Lucas Siow                |  11.0 |        10 |              |               |
 |  334 | Dominick Ng               |  10.9 |        25 |              |               |
 |  335 | Rodrigo Calmet            |  10.8 |         5 |              |               |
