@@ -16,15 +16,15 @@ Generated 2016-09-27.
 |   12 | Reid Johnsen        |  22.0 |        33 |        +0.82 |         +7.50 |
 |   13 | Jonathan Hankar     |  21.9 |       182 |        -0.33 |         -0.12 |
 |   14 | Saurabh Bajaj       |  21.8 |        22 |              |               |
-|   15 | Jared Bard          |  21.3 |        31 |        +0.73 |         +2.39 |
+|   15 | Jared Bard          |  21.3 |        31 |        +0.73 |         +2.38 |
 |   16 | Mark Modera         |  20.9 |       309 |        -0.20 |         -0.99 |
 |   17 | Robert Schwartz     |  20.7 |        76 |        -0.55 |         -0.81 |
 |   18 | Sam McCormick       |  20.5 |        15 |              |               |
 |   19 | Mike Jensen-Akula   |  20.2 |       216 |        +0.20 |         -1.70 |
 |   20 | Jeff Gordon         |  20.0 |        34 |        -0.43 |               |
 |   21 | Robert Isaac        |  19.9 |        10 |        +3.03 |               |
-|   22 | Jonathan Francis    |  19.6 |        67 |        -0.19 |         +0.12 |
-|   23 | Kenny Bell          |  19.1 |       116 |              |         +1.35 |
+|   22 | Jonathan Francis    |  19.5 |        68 |        -0.28 |         +0.03 |
+|   23 | Kenny Bell          |  19.2 |       117 |        +0.12 |         +1.47 |
 |   24 | Dror Matalon        |  18.7 |       349 |        +0.31 |         +0.33 |
 |   25 | Shaun Lim           |  18.2 |        41 |        +0.06 |         +0.23 |
 |   26 | Eric Borden         |  18.0 |        31 |        +0.49 |         +8.65 |

@@ -133,7 +133,7 @@ Generated 2016-09-27.
 |  129 | Phin Lee                  |  21.7 |        16 |              |               |
 |  130 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
-|  132 | Jared Bard                |  21.3 |        31 |        +0.73 |         +2.39 |
+|  132 | Jared Bard                |  21.3 |        31 |        +0.73 |         +2.38 |
 |  133 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  134 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  135 | Adam Jacob                |  21.3 |         3 |              |               |
@@ -177,14 +177,14 @@ Generated 2016-09-27.
 |  173 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  174 | Andrew Proudfoot          |  19.6 |        26 |              |         +3.17 |
 |  175 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  176 | Jonathan Francis          |  19.6 |        67 |        -0.19 |         +0.12 |
-|  177 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  176 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  177 | Jonathan Francis          |  19.5 |        68 |        -0.28 |         +0.03 |
 |  178 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  179 | Jaime Perez               |  19.3 |        11 |              |               |
 |  180 | Greg Adams                |  19.3 |        10 |              |               |
-|  181 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  182 | John Corcoran             |  19.1 |        49 |              |               |
-|  183 | Kenny Bell                |  19.1 |       116 |              |         +1.35 |
+|  181 | Kenny Bell                |  19.2 |       117 |        +0.12 |         +1.47 |
+|  182 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  183 | John Corcoran             |  19.1 |        49 |              |               |
 |  184 | Kedar Shah                |  19.1 |         9 |              |               |
 |  185 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  186 | Tuyen Le                  |  19.0 |         5 |              |               |
