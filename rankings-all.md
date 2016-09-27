@@ -341,8 +341,8 @@ Generated 2016-09-27.
 |  337 | George Bentley            |  10.6 |         4 |              |               |
 |  338 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  339 | Brian Puglise             |  10.4 |         2 |              |               |
-|  340 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  341 | Raphael Magarik           |  10.3 |         8 |        +1.52 |               |
+|  340 | Raphael Magarik           |  10.3 |         8 |        +1.55 |               |
+|  341 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  342 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  343 | John Provine              |  10.2 |        16 |              |               |
 |  344 | Anthony Patterson         |  10.2 |         6 |              |               |
@@ -458,8 +458,8 @@ Generated 2016-09-27.
 |  454 | Marco Eres                |   1.0 |         5 |              |               |
 |  455 | Alex Kaplan               |   0.8 |         8 |              |               |
 |  456 | Alfonso Rojas             |   0.6 |         8 |              |               |
-|  457 | Cristhian Daniel          |   0.6 |        10 |        +1.45 |               |
-|  458 | Ben Geller                |   0.6 |         4 |              |               |
+|  457 | Ben Geller                |   0.6 |         4 |              |               |
+|  458 | Cristhian Daniel          |   0.6 |        10 |        +1.43 |               |
 |  459 | Seth Garz                 |   0.6 |         1 |              |               |
 |  460 | James Aylott              |   0.6 |         3 |              |               |
 |  461 | Ashley Mercer             |   0.5 |         5 |              |               |
@@ -494,7 +494,7 @@ Generated 2016-09-27.
 |  490 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  491 | Tin Do                    |  -4.0 |         1 |              |               |
 |  492 | Susan Grand               |  -4.3 |         3 |              |               |
-|  493 | Duncan MacRae             |  -5.8 |         2 |              |               |
+|  493 | Duncan MacRae             |  -5.7 |         2 |              |               |
 |  494 | Sara Green                |  -5.8 |         1 |              |               |
 |  495 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  496 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |

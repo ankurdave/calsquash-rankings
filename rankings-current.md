@@ -39,7 +39,7 @@ Generated 2016-09-27.
 |   35 | Jennifer Rha        |  12.3 |        17 |        -0.35 |         +2.35 |
 |   36 | Diego Butrich       |  11.3 |         3 |        +3.39 |               |
 |   37 | Reto Sutter         |  10.7 |        46 |        +0.24 |         -0.04 |
-|   38 | Raphael Magarik     |  10.3 |         8 |        +1.52 |               |
+|   38 | Raphael Magarik     |  10.3 |         8 |        +1.55 |               |
 |   39 | Josh Lebowitz       |   9.6 |        25 |        +0.27 |               |
 |   40 | Nate Aden           |   8.9 |        19 |        +0.82 |               |
 |   41 | Daniel Schwartz     |   8.7 |        17 |        +0.23 |               |
@@ -53,5 +53,5 @@ Generated 2016-09-27.
 |   49 | Jose Lara           |   5.0 |         6 |        -1.17 |               |
 |   50 | Zsolt Bartha        |   4.6 |        44 |        -0.14 |         +1.30 |
 |   51 | Sameer Bajaj        |   2.6 |         3 |        -1.93 |               |
-|   52 | Cristhian Daniel    |   0.6 |        10 |        +1.45 |               |
-|   53 | Duncan MacRae       |  -5.8 |         2 |              |               |
+|   52 | Cristhian Daniel    |   0.6 |        10 |        +1.43 |               |
+|   53 | Duncan MacRae       |  -5.7 |         2 |              |               |
