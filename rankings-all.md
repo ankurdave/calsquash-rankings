@@ -341,8 +341,8 @@ Generated 2016-09-27.
 |  337 | George Bentley            |  10.6 |         4 |              |               |
 |  338 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  339 | Brian Puglise             |  10.4 |         2 |              |               |
-|  340 | Raphael Magarik           |  10.4 |         8 |        +1.58 |               |
-|  341 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  340 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  341 | Raphael Magarik           |  10.3 |         8 |        +1.52 |               |
 |  342 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  343 | John Provine              |  10.2 |        16 |              |               |
 |  344 | Anthony Patterson         |  10.2 |         6 |              |               |
@@ -371,8 +371,8 @@ Generated 2016-09-27.
 |  367 | Nate Aden                 |   8.9 |        19 |        +0.82 |               |
 |  368 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  369 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  370 | Therese Jones             |   8.7 |         6 |              |               |
-|  371 | Daniel Schwartz           |   8.7 |        17 |        +0.22 |               |
+|  370 | Daniel Schwartz           |   8.7 |        17 |        +0.23 |               |
+|  371 | Therese Jones             |   8.7 |         6 |              |               |
 |  372 | Steven Yee                |   8.7 |         9 |              |               |
 |  373 | Brian Kempenich           |   8.6 |        37 |        -0.18 |         -0.52 |
 |  374 | Nikolai Schnittke         |   8.6 |         4 |              |               |
@@ -396,26 +396,26 @@ Generated 2016-09-27.
 |  392 | Akira Chiwaki             |   7.8 |         3 |              |               |
 |  393 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  394 | Jeremy Brown              |   7.7 |         4 |              |               |
-|  395 | Yashraj Khaitain          |   7.6 |         2 |              |               |
-|  396 | Arno Ferguson             |   7.4 |         1 |              |               |
-|  397 | Alex Walters              |   7.4 |         3 |              |               |
-|  398 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  399 | Meldan Heaslip            |   7.1 |         3 |              |               |
-|  400 | Brookes Degen             |   6.8 |         6 |              |               |
-|  401 | Joshua Braver             |   6.5 |         1 |              |               |
-|  402 | Pablo Paredes             |   6.5 |         1 |              |               |
-|  403 | Mikel Shybut              |   6.5 |         4 |              |               |
-|  404 | Markus Boese              |   6.5 |         1 |              |               |
-|  405 | Dav Clark                 |   6.4 |         6 |              |               |
-|  406 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  407 | Ryan Akers                |   6.2 |         1 |              |               |
+|  395 | Ryan Akers                |   7.7 |         2 |              |               |
+|  396 | Yashraj Khaitain          |   7.6 |         2 |              |               |
+|  397 | Arno Ferguson             |   7.4 |         1 |              |               |
+|  398 | Alex Walters              |   7.4 |         3 |              |               |
+|  399 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
+|  400 | Meldan Heaslip            |   7.1 |         3 |              |               |
+|  401 | Brookes Degen             |   6.8 |         6 |              |               |
+|  402 | Joshua Braver             |   6.5 |         1 |              |               |
+|  403 | Pablo Paredes             |   6.5 |         1 |              |               |
+|  404 | Mikel Shybut              |   6.5 |         4 |              |               |
+|  405 | Markus Boese              |   6.5 |         1 |              |               |
+|  406 | Dav Clark                 |   6.4 |         6 |              |               |
+|  407 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  408 | Anuj Dawar                |   6.1 |         4 |              |               |
 |  409 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  410 | Rohan Relan               |   6.0 |         4 |              |               |
 |  411 | Alok Singh                |   5.9 |        12 |              |               |
 |  412 | David Zhu                 |   5.8 |         2 |              |               |
 |  413 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  414 | Keaton Noon               |   5.7 |        17 |        -0.06 |               |
+|  414 | Keaton Noon               |   5.7 |        17 |        -0.05 |               |
 |  415 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  416 | Manu Vaish                |   5.5 |         1 |              |               |
 |  417 | Emily Moylan              |   5.2 |        17 |              |               |
@@ -457,8 +457,8 @@ Generated 2016-09-27.
 |  453 | Michael Mann              |   1.1 |         4 |              |               |
 |  454 | Marco Eres                |   1.0 |         5 |              |               |
 |  455 | Alex Kaplan               |   0.8 |         8 |              |               |
-|  456 | Cristhian Daniel          |   0.6 |         9 |        +1.47 |               |
-|  457 | Alfonso Rojas             |   0.6 |         8 |              |               |
+|  456 | Alfonso Rojas             |   0.6 |         8 |              |               |
+|  457 | Cristhian Daniel          |   0.6 |        10 |        +1.45 |               |
 |  458 | Ben Geller                |   0.6 |         4 |              |               |
 |  459 | Seth Garz                 |   0.6 |         1 |              |               |
 |  460 | James Aylott              |   0.6 |         3 |              |               |
@@ -494,7 +494,7 @@ Generated 2016-09-27.
 |  490 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  491 | Tin Do                    |  -4.0 |         1 |              |               |
 |  492 | Susan Grand               |  -4.3 |         3 |              |               |
-|  493 | Duncan MacRae             |  -5.7 |         2 |              |               |
+|  493 | Duncan MacRae             |  -5.8 |         2 |              |               |
 |  494 | Sara Green                |  -5.8 |         1 |              |               |
 |  495 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  496 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
