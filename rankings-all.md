@@ -94,8 +94,8 @@ Generated 2016-09-26.
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
 |   92 | Garvin Heath              |  23.4 |        28 |              |               |
-|   93 | Dan Bohn                  |  23.3 |        76 |        +0.17 |         -0.37 |
-|   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.84 |
+|   93 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.84 |
+|   94 | Dan Bohn                  |  23.2 |        77 |              |         -0.54 |
 |   95 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   96 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   97 | Joe Farrell               |  23.0 |        30 |              |               |
@@ -127,11 +127,11 @@ Generated 2016-09-26.
 |  123 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  124 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  125 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  126 | Charlie Weiss             |  21.7 |        70 |              |         -0.42 |
-|  127 | Omair Azam                |  21.7 |        18 |              |               |
-|  128 | Phin Lee                  |  21.7 |        16 |              |               |
-|  129 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  130 | Reid Johnsen              |  21.5 |        31 |        +0.33 |         +7.00 |
+|  126 | Reid Johnsen              |  21.7 |        32 |        +0.57 |         +7.24 |
+|  127 | Charlie Weiss             |  21.7 |        70 |              |         -0.42 |
+|  128 | Omair Azam                |  21.7 |        18 |              |               |
+|  129 | Phin Lee                  |  21.7 |        16 |              |               |
+|  130 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
 |  132 | Jared Bard                |  21.3 |        31 |        +0.73 |         +2.39 |
 |  133 | Ian Lunt                  |  21.3 |         9 |              |               |

@@ -9,13 +9,13 @@ Generated 2016-09-26.
 |    5 | Frank Kennamer      |  27.2 |       209 |        +0.24 |         -0.24 |
 |    6 | Jim Veitch          |  25.3 |       426 |        -0.28 |         -0.14 |
 |    7 | John Kunze          |  24.5 |       300 |        -0.19 |         -0.73 |
-|    8 | Dan Bohn            |  23.3 |        76 |        +0.17 |         -0.37 |
-|    9 | Aditya Guntuboyina  |  23.3 |        77 |              |         +1.84 |
+|    8 | Aditya Guntuboyina  |  23.3 |        77 |              |         +1.84 |
+|    9 | Dan Bohn            |  23.2 |        77 |              |         -0.54 |
 |   10 | Matt Wong           |  22.8 |        71 |        +0.26 |         +1.93 |
 |   11 | Dan Meier           |  22.7 |        50 |        +0.03 |         +1.25 |
 |   12 | Jonathan Hankar     |  21.9 |       182 |        -0.33 |         -0.12 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
-|   14 | Reid Johnsen        |  21.5 |        31 |        +0.33 |         +7.00 |
+|   14 | Reid Johnsen        |  21.7 |        32 |        +0.57 |         +7.24 |
 |   15 | Jared Bard          |  21.3 |        31 |        +0.73 |         +2.39 |
 |   16 | Mark Modera         |  20.9 |       309 |        -0.20 |         -0.99 |
 |   17 | Robert Schwartz     |  20.7 |        76 |        -0.55 |         -0.81 |
