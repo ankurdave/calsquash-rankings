@@ -1,4 +1,4 @@
-Generated 2016-09-27.
+Generated 2016-09-28.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -8,28 +8,28 @@ Generated 2016-09-27.
 |    4 | Sam Sternberg       |  30.6 |       126 |        -0.14 |         +1.42 |
 |    5 | Frank Kennamer      |  27.2 |       209 |        +0.24 |         -0.24 |
 |    6 | Jim Veitch          |  25.3 |       426 |        -0.28 |         -0.14 |
-|    7 | John Kunze          |  24.5 |       300 |        -0.19 |         -0.73 |
+|    7 | John Kunze          |  24.7 |       301 |        -0.02 |         -0.57 |
 |    8 | Aditya Guntuboyina  |  23.3 |        77 |              |         +1.84 |
 |    9 | Dan Bohn            |  23.2 |        77 |              |         -0.54 |
 |   10 | Matt Wong           |  22.8 |        71 |        +0.26 |         +1.93 |
 |   11 | Dan Meier           |  22.7 |        50 |        +0.03 |         +1.26 |
 |   12 | Reid Johnsen        |  22.0 |        33 |        +0.82 |         +7.50 |
-|   13 | Jonathan Hankar     |  21.9 |       182 |        -0.33 |         -0.12 |
-|   14 | Saurabh Bajaj       |  21.8 |        22 |              |               |
+|   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
+|   14 | Jonathan Hankar     |  21.7 |       183 |        -0.50 |         -0.29 |
 |   15 | Jared Bard          |  21.3 |        31 |        +0.73 |         +2.38 |
 |   16 | Mark Modera         |  20.9 |       309 |        -0.20 |         -0.99 |
-|   17 | Robert Schwartz     |  20.7 |        76 |        -0.55 |         -0.81 |
+|   17 | Robert Schwartz     |  20.7 |        76 |        -0.55 |         -0.82 |
 |   18 | Sam McCormick       |  20.5 |        15 |              |               |
-|   19 | Mike Jensen-Akula   |  20.2 |       216 |        +0.20 |         -1.70 |
+|   19 | Mike Jensen-Akula   |  20.4 |       217 |        +0.42 |         -1.48 |
 |   20 | Jeff Gordon         |  20.0 |        34 |        -0.43 |               |
 |   21 | Robert Isaac        |  19.9 |        10 |        +3.03 |               |
 |   22 | Jonathan Francis    |  19.5 |        68 |        -0.28 |         +0.03 |
-|   23 | Kenny Bell          |  19.2 |       117 |        +0.12 |         +1.47 |
-|   24 | Dror Matalon        |  18.7 |       349 |        +0.31 |         +0.33 |
+|   23 | Kenny Bell          |  19.1 |       118 |        +0.02 |         +1.38 |
+|   24 | Dror Matalon        |  18.8 |       350 |        +0.41 |         +0.43 |
 |   25 | Shaun Lim           |  18.2 |        41 |        +0.06 |         +0.23 |
-|   26 | Eric Borden         |  18.0 |        31 |        +0.49 |         +8.65 |
-|   27 | Josh Trauner        |  17.6 |        33 |        -0.04 |               |
-|   28 | Wayne Heiser        |  17.4 |        30 |        +0.47 |               |
+|   26 | Eric Borden         |  17.8 |        32 |        +0.30 |         +8.46 |
+|   27 | Josh Trauner        |  17.6 |        33 |        -0.05 |               |
+|   28 | Wayne Heiser        |  17.4 |        30 |        +0.45 |               |
 |   29 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
 |   30 | Terry Chang         |  16.0 |        45 |        +0.48 |         +2.38 |
 |   31 | Kent Daniels        |  15.4 |        88 |        -0.22 |         +0.58 |
