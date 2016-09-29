@@ -341,7 +341,7 @@ Generated 2016-09-28.
 |  337 | George Bentley            |  10.6 |         4 |              |               |
 |  338 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  339 | Brian Puglise             |  10.4 |         2 |              |               |
-|  340 | Raphael Magarik           |  10.3 |         8 |        +1.55 |               |
+|  340 | Raphael Magarik           |  10.4 |         9 |        +1.60 |               |
 |  341 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  342 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  343 | John Provine              |  10.2 |        16 |              |               |
@@ -371,8 +371,8 @@ Generated 2016-09-28.
 |  367 | Nate Aden                 |   8.9 |        19 |        +0.82 |               |
 |  368 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  369 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  370 | Daniel Schwartz           |   8.7 |        17 |        +0.23 |               |
-|  371 | Therese Jones             |   8.7 |         6 |              |               |
+|  370 | Therese Jones             |   8.7 |         6 |              |               |
+|  371 | Daniel Schwartz           |   8.7 |        17 |        +0.20 |               |
 |  372 | Steven Yee                |   8.7 |         9 |              |               |
 |  373 | Brian Kempenich           |   8.6 |        37 |        -0.18 |         -0.52 |
 |  374 | Nikolai Schnittke         |   8.6 |         4 |              |               |
@@ -409,13 +409,13 @@ Generated 2016-09-28.
 |  405 | Markus Boese              |   6.5 |         1 |              |               |
 |  406 | Dav Clark                 |   6.4 |         6 |              |               |
 |  407 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  408 | Anuj Dawar                |   6.1 |         4 |              |               |
-|  409 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  410 | Rohan Relan               |   6.0 |         4 |              |               |
-|  411 | Alok Singh                |   5.9 |        12 |              |               |
-|  412 | David Zhu                 |   5.8 |         2 |              |               |
-|  413 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  414 | Keaton Noon               |   5.7 |        17 |        -0.05 |               |
+|  408 | Keaton Noon               |   6.2 |        19 |        +0.47 |               |
+|  409 | Anuj Dawar                |   6.1 |         4 |              |               |
+|  410 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  411 | Rohan Relan               |   6.0 |         4 |              |               |
+|  412 | Alok Singh                |   5.9 |        12 |              |               |
+|  413 | David Zhu                 |   5.8 |         2 |              |               |
+|  414 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  415 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  416 | Manu Vaish                |   5.5 |         1 |              |               |
 |  417 | Emily Moylan              |   5.2 |        17 |              |               |
@@ -459,15 +459,15 @@ Generated 2016-09-28.
 |  455 | Alex Kaplan               |   0.8 |         8 |              |               |
 |  456 | Alfonso Rojas             |   0.6 |         8 |              |               |
 |  457 | Ben Geller                |   0.6 |         4 |              |               |
-|  458 | Cristhian Daniel          |   0.6 |        10 |        +1.43 |               |
-|  459 | Seth Garz                 |   0.6 |         1 |              |               |
-|  460 | James Aylott              |   0.6 |         3 |              |               |
-|  461 | Ashley Mercer             |   0.5 |         5 |              |               |
-|  462 | Laurie Choi               |   0.5 |         2 |              |               |
-|  463 | Anne Iversen              |   0.4 |         3 |              |               |
-|  464 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  465 | Stuart Fox                |   0.2 |         1 |              |               |
-|  466 | Hannah Hagen              |   0.2 |         4 |              |               |
+|  458 | Seth Garz                 |   0.6 |         1 |              |               |
+|  459 | James Aylott              |   0.6 |         3 |              |               |
+|  460 | Ashley Mercer             |   0.5 |         5 |              |               |
+|  461 | Laurie Choi               |   0.5 |         2 |              |               |
+|  462 | Anne Iversen              |   0.4 |         3 |              |               |
+|  463 | Nathaniel Rice            |   0.4 |         3 |              |               |
+|  464 | Stuart Fox                |   0.2 |         1 |              |               |
+|  465 | Hannah Hagen              |   0.2 |         4 |              |               |
+|  466 | Cristhian Daniel          |   0.2 |        11 |        +1.02 |               |
 |  467 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  468 | Sandra Harpster           |  -0.1 |         5 |              |               |
 |  469 | Stephen Garden            |  -0.2 |         2 |              |               |
@@ -494,7 +494,7 @@ Generated 2016-09-28.
 |  490 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  491 | Tin Do                    |  -4.0 |         1 |              |               |
 |  492 | Susan Grand               |  -4.3 |         3 |              |               |
-|  493 | Duncan MacRae             |  -5.7 |         2 |              |               |
-|  494 | Sara Green                |  -5.8 |         1 |              |               |
-|  495 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  493 | Sara Green                |  -5.8 |         1 |              |               |
+|  494 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  495 | Duncan MacRae             |  -6.0 |         2 |              |               |
 |  496 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |

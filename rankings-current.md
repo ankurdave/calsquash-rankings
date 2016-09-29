@@ -39,19 +39,19 @@ Generated 2016-09-28.
 |   35 | Diego Butrich       |  12.5 |         4 |        +4.58 |               |
 |   36 | Jennifer Rha        |  12.3 |        17 |        -0.35 |         +2.35 |
 |   37 | Reto Sutter         |  10.7 |        46 |        +0.24 |         -0.04 |
-|   38 | Raphael Magarik     |  10.3 |         8 |        +1.55 |               |
+|   38 | Raphael Magarik     |  10.4 |         9 |        +1.60 |               |
 |   39 | Josh Lebowitz       |   9.6 |        25 |        +0.27 |               |
 |   40 | Nate Aden           |   8.9 |        19 |        +0.82 |               |
-|   41 | Daniel Schwartz     |   8.7 |        17 |        +0.23 |               |
+|   41 | Daniel Schwartz     |   8.7 |        17 |        +0.20 |               |
 |   42 | Brian Kempenich     |   8.6 |        37 |        -0.18 |         -0.52 |
 |   43 | Duo Wang            |   8.4 |        62 |        +0.03 |         +0.44 |
 |   44 | Ryan Akers          |   7.7 |         2 |              |               |
 |   45 | Meldan Heaslip      |   7.1 |         3 |              |               |
-|   46 | Anuj Dawar          |   6.1 |         4 |              |               |
-|   47 | Alok Singh          |   5.9 |        12 |              |               |
-|   48 | Keaton Noon         |   5.7 |        17 |        -0.05 |               |
+|   46 | Keaton Noon         |   6.2 |        19 |        +0.47 |               |
+|   47 | Anuj Dawar          |   6.1 |         4 |              |               |
+|   48 | Alok Singh          |   5.9 |        12 |              |               |
 |   49 | Jose Lara           |   5.0 |         6 |        -1.17 |               |
 |   50 | Zsolt Bartha        |   4.6 |        44 |        -0.14 |         +1.30 |
 |   51 | Sameer Bajaj        |   2.6 |         3 |        -1.93 |               |
-|   52 | Cristhian Daniel    |   0.6 |        10 |        +1.43 |               |
-|   53 | Duncan MacRae       |  -5.7 |         2 |              |               |
+|   52 | Cristhian Daniel    |   0.2 |        11 |        +1.02 |               |
+|   53 | Duncan MacRae       |  -6.0 |         2 |              |               |
