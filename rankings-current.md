@@ -18,13 +18,13 @@ Generated 2016-09-28.
 |   14 | Jonathan Hankar     |  21.7 |       183 |        -0.50 |         -0.29 |
 |   15 | Jared Bard          |  21.3 |        31 |        +0.73 |         +2.38 |
 |   16 | Mark Modera         |  20.9 |       309 |        -0.20 |         -0.99 |
-|   17 | Robert Schwartz     |  20.7 |        76 |        -0.55 |         -0.82 |
+|   17 | Robert Schwartz     |  20.8 |        77 |        -0.47 |         -0.73 |
 |   18 | Sam McCormick       |  20.5 |        15 |              |               |
 |   19 | Mike Jensen-Akula   |  20.4 |       217 |        +0.42 |         -1.48 |
 |   20 | Jeff Gordon         |  20.0 |        34 |        -0.43 |               |
 |   21 | Robert Isaac        |  19.9 |        10 |        +3.03 |               |
-|   22 | Jonathan Francis    |  19.5 |        68 |        -0.28 |         +0.03 |
-|   23 | Kenny Bell          |  19.1 |       118 |        +0.02 |         +1.38 |
+|   22 | Jonathan Francis    |  19.5 |        68 |        -0.28 |         +0.04 |
+|   23 | Kenny Bell          |  19.0 |       119 |        -0.06 |         +1.29 |
 |   24 | Dror Matalon        |  18.8 |       350 |        +0.41 |         +0.43 |
 |   25 | Shaun Lim           |  18.2 |        41 |        +0.06 |         +0.23 |
 |   26 | Eric Borden         |  17.8 |        32 |        +0.30 |         +8.46 |
@@ -33,11 +33,11 @@ Generated 2016-09-28.
 |   29 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
 |   30 | Terry Chang         |  16.0 |        45 |        +0.48 |         +2.38 |
 |   31 | Kent Daniels        |  15.4 |        88 |        -0.22 |         +0.58 |
-|   32 | Ankur Dave          |  14.4 |        48 |        +0.43 |         +7.71 |
+|   32 | Ankur Dave          |  14.5 |        49 |        +0.47 |         +7.74 |
 |   33 | Shai Vardi          |  13.6 |         3 |              |               |
 |   34 | Nikhil Paranjape    |  12.8 |        22 |        -0.10 |               |
-|   35 | Jennifer Rha        |  12.3 |        17 |        -0.35 |         +2.35 |
-|   36 | Diego Butrich       |  11.3 |         3 |        +3.39 |               |
+|   35 | Diego Butrich       |  12.5 |         4 |        +4.58 |               |
+|   36 | Jennifer Rha        |  12.3 |        17 |        -0.35 |         +2.35 |
 |   37 | Reto Sutter         |  10.7 |        46 |        +0.24 |         -0.04 |
 |   38 | Raphael Magarik     |  10.3 |         8 |        +1.55 |               |
 |   39 | Josh Lebowitz       |   9.6 |        25 |        +0.27 |               |
