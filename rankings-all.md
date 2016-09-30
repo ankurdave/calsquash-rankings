@@ -337,9 +337,9 @@ Generated 2016-09-30.
 |  333 | Lucas Siow                |  11.0 |        10 |              |               |
 |  334 | Dominick Ng               |  10.9 |        25 |              |               |
 |  335 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  336 | Reto Sutter               |  10.7 |        46 |        +0.24 |         -0.04 |
-|  337 | George Bentley            |  10.6 |         4 |              |               |
-|  338 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  336 | George Bentley            |  10.6 |         4 |              |               |
+|  337 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  338 | Reto Sutter               |  10.5 |        47 |              |         -0.29 |
 |  339 | Brian Puglise             |  10.4 |         2 |              |               |
 |  340 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  341 | Prasad Santhanam          |  10.3 |         7 |              |               |
@@ -362,14 +362,14 @@ Generated 2016-09-30.
 |  358 | Alexander Porcaro         |   9.4 |         2 |              |               |
 |  359 | Rob Cuthrell              |   9.4 |        11 |              |               |
 |  360 | Robert Broesler           |   9.4 |         4 |              |               |
-|  361 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  362 | Greg Sperla               |   9.3 |         8 |              |               |
-|  363 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  364 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  365 | Raphael Magarik           |   9.0 |        10 |        +0.26 |               |
-|  366 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  367 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  368 | Nate Aden                 |   8.9 |        19 |        +0.82 |               |
+|  361 | Nate Aden                 |   9.3 |        20 |        +1.25 |               |
+|  362 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  363 | Greg Sperla               |   9.3 |         8 |              |               |
+|  364 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  365 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  366 | Raphael Magarik           |   9.0 |        10 |        +0.26 |               |
+|  367 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  368 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
 |  369 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  370 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  371 | Therese Jones             |   8.7 |         6 |              |               |
@@ -378,7 +378,7 @@ Generated 2016-09-30.
 |  374 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  375 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  376 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  377 | Duo Wang                  |   8.4 |        62 |        +0.03 |         +0.44 |
+|  377 | Duo Wang                  |   8.4 |        62 |        +0.02 |         +0.43 |
 |  378 | Reynold Xin               |   8.3 |         5 |              |               |
 |  379 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  380 | Fahad Riyadh              |   8.2 |         5 |              |               |
@@ -426,7 +426,7 @@ Generated 2016-09-30.
 |  422 | Nikhil Srivastava         |   5.0 |        16 |              |         +5.51 |
 |  423 | Jose Lara                 |   5.0 |         6 |        -1.17 |               |
 |  424 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  425 | Zsolt Bartha              |   4.6 |        44 |        -0.14 |         +1.30 |
+|  425 | Zsolt Bartha              |   4.6 |        44 |        -0.13 |         +1.31 |
 |  426 | Annie Wong                |   4.0 |         3 |              |               |
 |  427 | Ryan                      |   4.0 |         3 |              |               |
 |  428 | Mateo Aceves              |   3.8 |         4 |              |               |
@@ -434,8 +434,8 @@ Generated 2016-09-30.
 |  430 | Maria Garzon              |   3.0 |         5 |              |               |
 |  431 | Nadir Shams               |   3.0 |         2 |              |               |
 |  432 | Ji Seop Oh                |   2.9 |         2 |              |               |
-|  433 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  434 | Sameer Bajaj              |   2.6 |         3 |        -1.93 |               |
+|  433 | Sameer Bajaj              |   2.7 |         3 |        -1.82 |               |
+|  434 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  435 | David Vogel               |   2.6 |         7 |              |               |
 |  436 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  437 | Julia Selezneva           |   2.2 |         5 |              |               |
