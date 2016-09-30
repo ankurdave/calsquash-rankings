@@ -265,7 +265,7 @@ Generated 2016-09-29.
 |  261 | Tanit Follett             |  15.5 |         8 |              |               |
 |  262 | Toni Queck                |  15.5 |        20 |              |               |
 |  263 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  264 | Kent Daniels              |  15.4 |        88 |        -0.22 |         +0.58 |
+|  264 | Kent Daniels              |  15.4 |        88 |        -0.21 |         +0.59 |
 |  265 | Peter Duerr               |  15.4 |        24 |              |               |
 |  266 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  267 | Jim Evans                 |  15.1 |       216 |              |               |
@@ -281,10 +281,10 @@ Generated 2016-09-29.
 |  277 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  278 | David Elfant              |  14.7 |         2 |              |               |
 |  279 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  280 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  281 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  282 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  283 | Ankur Dave                |  14.5 |        49 |        +0.47 |         +7.74 |
+|  280 | Ankur Dave                |  14.6 |        50 |        +0.61 |         +7.89 |
+|  281 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  282 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  283 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  284 | Max Woodworth             |  14.4 |         7 |              |               |
 |  285 | Juliet Shih               |  14.4 |        11 |              |               |
 |  286 | Khurram Mahmood           |  14.3 |         3 |              |               |
@@ -310,11 +310,11 @@ Generated 2016-09-29.
 |  306 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  307 | Lewis Moore               |  13.0 |        69 |              |               |
 |  308 | David Isaksson            |  12.9 |        22 |              |               |
-|  309 | Nikhil Paranjape          |  12.8 |        22 |        -0.10 |               |
-|  310 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  311 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  312 | Josh Shiode               |  12.6 |        20 |              |               |
-|  313 | Diego Butrich             |  12.5 |         4 |        +4.58 |               |
+|  309 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  310 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  311 | Nikhil Paranjape          |  12.7 |        23 |        -0.25 |               |
+|  312 | Diego Butrich             |  12.6 |         4 |        +4.62 |               |
+|  313 | Josh Shiode               |  12.6 |        20 |              |               |
 |  314 | Huw Lester                |  12.5 |         1 |              |               |
 |  315 | Richard Fabini            |  12.4 |         3 |              |               |
 |  316 | Jennifer Rha              |  12.3 |        17 |        -0.35 |         +2.35 |
