@@ -32,9 +32,9 @@ Generated 2016-09-29.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Stephen Dang              |  27.2 |        34 |              |               |
-|   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.2 |       209 |        +0.24 |         -0.24 |
+|   31 | Frank Kennamer            |  27.3 |       210 |        +0.37 |         -0.11 |
+|   32 | Stephen Dang              |  27.2 |        34 |              |               |
+|   33 | Samer Shehata             |  27.2 |        29 |              |               |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -56,8 +56,8 @@ Generated 2016-09-29.
 |   52 | Adam Angsten              |  25.4 |         3 |              |               |
 |   53 | Matt Nelson-Teutsch       |  25.4 |        10 |              |         +4.55 |
 |   54 | Sean O'Nuallain           |  25.4 |        43 |              |               |
-|   55 | Rahul Gupta               |  25.3 |         7 |              |               |
-|   56 | Jim Veitch                |  25.3 |       426 |        -0.28 |         -0.14 |
+|   55 | Jim Veitch                |  25.3 |       426 |        -0.22 |         -0.08 |
+|   56 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   57 | Paul Greene               |  25.2 |         8 |              |               |
 |   58 | Mukul Sud                 |  25.0 |         3 |              |               |
 |   59 | Ben Seelig                |  25.0 |        69 |              |               |
@@ -66,7 +66,7 @@ Generated 2016-09-29.
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
-|   65 | John Kunze                |  24.7 |       301 |        -0.02 |         -0.57 |
+|   65 | John Kunze                |  24.7 |       301 |              |         -0.54 |
 |   66 | Martin Stokes             |  24.7 |        12 |              |               |
 |   67 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
@@ -101,7 +101,7 @@ Generated 2016-09-29.
 |   97 | Joe Farrell               |  23.0 |        30 |              |               |
 |   98 | Matt Wild                 |  23.0 |        25 |              |         -1.50 |
 |   99 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  100 | Matt Wong                 |  22.8 |        71 |        +0.26 |         +1.93 |
+|  100 | Matt Wong                 |  22.8 |        71 |        +0.27 |         +1.94 |
 |  101 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  102 | Dan Meier                 |  22.7 |        50 |        +0.03 |         +1.26 |
 |  103 | Bhuvan Jain               |  22.7 |        18 |              |               |
@@ -127,11 +127,11 @@ Generated 2016-09-29.
 |  123 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  124 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  125 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  126 | Jonathan Hankar           |  21.7 |       183 |        -0.50 |         -0.29 |
-|  127 | Charlie Weiss             |  21.7 |        70 |              |         -0.42 |
-|  128 | Omair Azam                |  21.7 |        18 |              |               |
-|  129 | Phin Lee                  |  21.7 |        16 |              |               |
-|  130 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  126 | Charlie Weiss             |  21.7 |        70 |              |         -0.42 |
+|  127 | Omair Azam                |  21.7 |        18 |              |               |
+|  128 | Phin Lee                  |  21.7 |        16 |              |               |
+|  129 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  130 | Jonathan Hankar           |  21.6 |       184 |        -0.63 |         -0.42 |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
 |  132 | Jared Bard                |  21.3 |        31 |        +0.73 |         +2.38 |
 |  133 | Ian Lunt                  |  21.3 |         9 |              |               |
@@ -168,8 +168,8 @@ Generated 2016-09-29.
 |  164 | Wesley Huang              |  20.0 |         8 |              |               |
 |  165 | Jeff Gordon               |  20.0 |        34 |        -0.43 |               |
 |  166 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  167 | Liam King                 |  19.9 |         6 |              |               |
-|  168 | Robert Isaac              |  19.9 |        10 |        +3.03 |               |
+|  167 | Robert Isaac              |  19.9 |        10 |        +3.07 |               |
+|  168 | Liam King                 |  19.9 |         6 |              |               |
 |  169 | Lysander Jim              |  19.8 |         6 |              |               |
 |  170 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  171 | Suneesh Kaul              |  19.7 |         3 |              |               |

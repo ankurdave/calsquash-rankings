@@ -6,23 +6,23 @@ Generated 2016-09-29.
 |    2 | Eric Katerman       |  31.5 |        23 |        +0.78 |               |
 |    3 | Colin Grant         |  31.5 |         4 |              |               |
 |    4 | Sam Sternberg       |  30.6 |       126 |        -0.14 |         +1.42 |
-|    5 | Frank Kennamer      |  27.2 |       209 |        +0.24 |         -0.24 |
-|    6 | Jim Veitch          |  25.3 |       426 |        -0.28 |         -0.14 |
-|    7 | John Kunze          |  24.7 |       301 |        -0.02 |         -0.57 |
+|    5 | Frank Kennamer      |  27.3 |       210 |        +0.37 |         -0.11 |
+|    6 | Jim Veitch          |  25.3 |       426 |        -0.22 |         -0.08 |
+|    7 | John Kunze          |  24.7 |       301 |              |         -0.54 |
 |    8 | Aditya Guntuboyina  |  23.3 |        77 |              |         +1.84 |
 |    9 | Dan Bohn            |  23.2 |        77 |              |         -0.54 |
-|   10 | Matt Wong           |  22.8 |        71 |        +0.26 |         +1.93 |
+|   10 | Matt Wong           |  22.8 |        71 |        +0.27 |         +1.94 |
 |   11 | Dan Meier           |  22.7 |        50 |        +0.03 |         +1.26 |
 |   12 | Reid Johnsen        |  22.0 |        33 |        +0.82 |         +7.50 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
-|   14 | Jonathan Hankar     |  21.7 |       183 |        -0.50 |         -0.29 |
+|   14 | Jonathan Hankar     |  21.6 |       184 |        -0.63 |         -0.42 |
 |   15 | Jared Bard          |  21.3 |        31 |        +0.73 |         +2.38 |
 |   16 | Mark Modera         |  20.9 |       309 |        -0.20 |         -0.99 |
 |   17 | Robert Schwartz     |  20.8 |        77 |        -0.47 |         -0.73 |
 |   18 | Sam McCormick       |  20.5 |        15 |              |               |
 |   19 | Mike Jensen-Akula   |  20.4 |       217 |        +0.42 |         -1.48 |
 |   20 | Jeff Gordon         |  20.0 |        34 |        -0.43 |               |
-|   21 | Robert Isaac        |  19.9 |        10 |        +3.03 |               |
+|   21 | Robert Isaac        |  19.9 |        10 |        +3.07 |               |
 |   22 | Jonathan Francis    |  19.5 |        68 |        -0.28 |         +0.04 |
 |   23 | Kenny Bell          |  19.0 |       119 |        -0.06 |         +1.29 |
 |   24 | Dror Matalon        |  18.8 |       350 |        +0.41 |         +0.43 |
