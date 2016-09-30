@@ -39,19 +39,19 @@ Generated 2016-09-29.
 |   35 | Diego Butrich       |  12.5 |         4 |        +4.58 |               |
 |   36 | Jennifer Rha        |  12.3 |        17 |        -0.35 |         +2.35 |
 |   37 | Reto Sutter         |  10.7 |        46 |        +0.24 |         -0.04 |
-|   38 | Raphael Magarik     |   9.8 |         9 |        +1.06 |               |
+|   38 | Daniel Schwartz     |  10.1 |        19 |        +1.60 |               |
 |   39 | Josh Lebowitz       |   9.6 |        25 |        +0.27 |               |
-|   40 | Daniel Schwartz     |   9.3 |        18 |        +0.83 |               |
+|   40 | Raphael Magarik     |   9.0 |        10 |        +0.26 |               |
 |   41 | Nate Aden           |   8.9 |        19 |        +0.82 |               |
 |   42 | Brian Kempenich     |   8.6 |        37 |        -0.18 |         -0.52 |
 |   43 | Duo Wang            |   8.4 |        62 |        +0.03 |         +0.44 |
 |   44 | Ryan Akers          |   7.7 |         2 |              |               |
 |   45 | Meldan Heaslip      |   7.1 |         3 |              |               |
-|   46 | Keaton Noon         |   6.2 |        19 |        +0.47 |               |
-|   47 | Anuj Dawar          |   6.1 |         4 |              |               |
+|   46 | Anuj Dawar          |   6.1 |         4 |              |               |
+|   47 | Keaton Noon         |   6.1 |        19 |        +0.38 |               |
 |   48 | Alok Singh          |   5.9 |        12 |              |               |
 |   49 | Jose Lara           |   5.0 |         6 |        -1.17 |               |
 |   50 | Zsolt Bartha        |   4.6 |        44 |        -0.14 |         +1.30 |
 |   51 | Sameer Bajaj        |   2.6 |         3 |        -1.93 |               |
-|   52 | Cristhian Daniel    |   0.0 |        11 |        +0.85 |               |
-|   53 | Duncan MacRae       |  -5.8 |         3 |              |               |
+|   52 | Cristhian Daniel    |   0.0 |        11 |        +0.84 |               |
+|   53 | Duncan MacRae       |  -5.6 |         3 |              |               |
