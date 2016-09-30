@@ -133,16 +133,16 @@ Generated 2016-09-29.
 |  129 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  130 | Jonathan Hankar           |  21.6 |       184 |        -0.63 |         -0.42 |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
-|  132 | Jared Bard                |  21.3 |        31 |        +0.73 |         +2.38 |
-|  133 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  134 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  135 | Adam Jacob                |  21.3 |         3 |              |               |
-|  136 | Casey Harelson            |  21.2 |        20 |              |               |
-|  137 | Philip Bildner            |  21.2 |        22 |              |               |
-|  138 | Darren Morgan             |  21.2 |        11 |              |               |
-|  139 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  140 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  141 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  132 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  133 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  134 | Adam Jacob                |  21.3 |         3 |              |               |
+|  135 | Casey Harelson            |  21.2 |        20 |              |               |
+|  136 | Philip Bildner            |  21.2 |        22 |              |               |
+|  137 | Darren Morgan             |  21.2 |        11 |              |               |
+|  138 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  139 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  140 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  141 | Jared Bard                |  21.0 |        32 |        +0.37 |         +2.02 |
 |  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
@@ -184,15 +184,15 @@ Generated 2016-09-29.
 |  180 | Greg Adams                |  19.3 |        10 |              |               |
 |  181 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  182 | John Corcoran             |  19.1 |        49 |              |               |
-|  183 | Kedar Shah                |  19.1 |         9 |              |               |
-|  184 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  185 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  186 | Yating Liu                |  19.0 |         7 |              |               |
-|  187 | Kenny Bell                |  19.0 |       119 |        -0.06 |         +1.29 |
-|  188 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
-|  189 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  190 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  191 | Dror Matalon              |  18.8 |       350 |        +0.41 |         +0.43 |
+|  183 | Dror Matalon              |  19.1 |       351 |        +0.69 |         +0.71 |
+|  184 | Kedar Shah                |  19.1 |         9 |              |               |
+|  185 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  186 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  187 | Yating Liu                |  19.0 |         7 |              |               |
+|  188 | Kenny Bell                |  19.0 |       119 |        -0.06 |         +1.29 |
+|  189 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
+|  190 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  191 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  192 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  193 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  194 | Peter Dering              |  18.7 |         9 |              |               |
