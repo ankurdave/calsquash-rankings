@@ -20,15 +20,15 @@ Generated 2016-09-30.
 |   16 | Mark Modera         |  20.9 |       309 |        -0.20 |         -0.99 |
 |   17 | Robert Schwartz     |  20.8 |        77 |        -0.47 |         -0.73 |
 |   18 | Sam McCormick       |  20.5 |        15 |              |               |
-|   19 | Mike Jensen-Akula   |  20.4 |       217 |        +0.42 |         -1.48 |
+|   19 | Mike Jensen-Akula   |  20.4 |       217 |        +0.38 |         -1.52 |
 |   20 | Jeff Gordon         |  20.0 |        34 |        -0.43 |               |
 |   21 | Robert Isaac        |  19.9 |        10 |        +3.07 |               |
 |   22 | Jonathan Francis    |  19.5 |        68 |        -0.28 |         +0.04 |
 |   23 | Dror Matalon        |  19.1 |       351 |        +0.69 |         +0.71 |
 |   24 | Kenny Bell          |  19.0 |       119 |        -0.06 |         +1.29 |
 |   25 | Shaun Lim           |  18.2 |        41 |        +0.06 |         +0.23 |
-|   26 | Eric Borden         |  17.8 |        32 |        +0.30 |         +8.46 |
-|   27 | Josh Trauner        |  17.6 |        33 |        -0.05 |               |
+|   26 | Eric Borden         |  17.8 |        32 |        +0.28 |         +8.45 |
+|   27 | Josh Trauner        |  17.7 |        34 |        +0.09 |               |
 |   28 | Wayne Heiser        |  17.4 |        30 |        +0.45 |               |
 |   29 | Troup Howard        |  17.4 |        38 |              |         -0.26 |
 |   30 | Terry Chang         |  16.0 |        45 |        +0.48 |         +2.38 |
@@ -47,8 +47,8 @@ Generated 2016-09-30.
 |   43 | Duo Wang            |   8.4 |        62 |        +0.02 |         +0.43 |
 |   44 | Ryan Akers          |   7.7 |         2 |              |               |
 |   45 | Meldan Heaslip      |   7.1 |         3 |              |               |
-|   46 | Anuj Dawar          |   6.1 |         4 |              |               |
-|   47 | Keaton Noon         |   6.1 |        19 |        +0.38 |               |
+|   46 | Keaton Noon         |   6.1 |        19 |        +0.38 |               |
+|   47 | Anuj Dawar          |   5.9 |         5 |              |               |
 |   48 | Alok Singh          |   5.9 |        12 |              |               |
 |   49 | Jose Lara           |   5.0 |         6 |        -1.17 |               |
 |   50 | Zsolt Bartha        |   4.6 |        44 |        -0.13 |         +1.31 |

@@ -157,8 +157,8 @@ Generated 2016-09-30.
 |  153 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  154 | Andrew Green              |  20.5 |        52 |              |               |
 |  155 | Sam McCormick             |  20.5 |        15 |              |               |
-|  156 | Mike Jensen-Akula         |  20.4 |       217 |        +0.42 |         -1.48 |
-|  157 | Steven Sloman             |  20.4 |        10 |              |               |
+|  156 | Steven Sloman             |  20.4 |        10 |              |               |
+|  157 | Mike Jensen-Akula         |  20.4 |       217 |        +0.38 |         -1.52 |
 |  158 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  159 | Carl Schreck              |  20.2 |         2 |              |               |
 |  160 | John Grim                 |  20.1 |        13 |              |               |
@@ -216,9 +216,9 @@ Generated 2016-09-30.
 |  212 | Nick Paget                |  17.8 |        35 |              |               |
 |  213 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  214 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  215 | Eric Borden               |  17.8 |        32 |        +0.30 |         +8.46 |
-|  216 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  217 | Josh Trauner              |  17.6 |        33 |        -0.05 |               |
+|  215 | Eric Borden               |  17.8 |        32 |        +0.28 |         +8.45 |
+|  216 | Josh Trauner              |  17.7 |        34 |        +0.09 |               |
+|  217 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  218 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  219 | Subrato Dey               |  17.5 |        26 |              |               |
 |  220 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -409,10 +409,10 @@ Generated 2016-09-30.
 |  405 | Markus Boese              |   6.5 |         1 |              |               |
 |  406 | Dav Clark                 |   6.4 |         6 |              |               |
 |  407 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  408 | Anuj Dawar                |   6.1 |         4 |              |               |
-|  409 | Keaton Noon               |   6.1 |        19 |        +0.38 |               |
-|  410 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  411 | Rohan Relan               |   6.0 |         4 |              |               |
+|  408 | Keaton Noon               |   6.1 |        19 |        +0.38 |               |
+|  409 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  410 | Rohan Relan               |   6.0 |         4 |              |               |
+|  411 | Anuj Dawar                |   5.9 |         5 |              |               |
 |  412 | Alok Singh                |   5.9 |        12 |              |               |
 |  413 | David Zhu                 |   5.8 |         2 |              |               |
 |  414 | Ivan Rothman              |   5.7 |         5 |              |               |
