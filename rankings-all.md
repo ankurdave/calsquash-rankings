@@ -456,19 +456,19 @@ Generated 2016-10-05.
 |  452 | Alexandra Harmon          |   1.3 |         3 |              |               |
 |  453 | Michael Mann              |   1.1 |         4 |              |               |
 |  454 | Marco Eres                |   1.0 |         5 |              |               |
-|  455 | Alex Kaplan               |   0.8 |         8 |              |               |
-|  456 | Alfonso Rojas             |   0.6 |         8 |              |               |
-|  457 | Ben Geller                |   0.6 |         4 |              |               |
-|  458 | Seth Garz                 |   0.6 |         1 |              |               |
-|  459 | James Aylott              |   0.6 |         3 |              |               |
-|  460 | Ashley Mercer             |   0.5 |         5 |              |               |
-|  461 | Laurie Choi               |   0.5 |         2 |              |               |
-|  462 | Anne Iversen              |   0.4 |         3 |              |               |
-|  463 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  464 | Stuart Fox                |   0.2 |         1 |              |               |
-|  465 | Hannah Hagen              |   0.2 |         4 |              |               |
-|  466 | Rachel Chiu               |   0.1 |         2 |              |               |
-|  467 | Cristhian Daniel          |   0.0 |        11 |              |               |
+|  455 | Cristhian Daniel          |   0.8 |        12 |        +0.79 |               |
+|  456 | Alex Kaplan               |   0.8 |         8 |              |               |
+|  457 | Alfonso Rojas             |   0.6 |         8 |              |               |
+|  458 | Ben Geller                |   0.6 |         4 |              |               |
+|  459 | Seth Garz                 |   0.6 |         1 |              |               |
+|  460 | James Aylott              |   0.6 |         3 |              |               |
+|  461 | Ashley Mercer             |   0.5 |         5 |              |               |
+|  462 | Laurie Choi               |   0.5 |         2 |              |               |
+|  463 | Anne Iversen              |   0.4 |         3 |              |               |
+|  464 | Nathaniel Rice            |   0.4 |         3 |              |               |
+|  465 | Stuart Fox                |   0.2 |         1 |              |               |
+|  466 | Hannah Hagen              |   0.2 |         4 |              |               |
+|  467 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  468 | Sandra Harpster           |  -0.1 |         5 |              |               |
 |  469 | Stephen Garden            |  -0.2 |         2 |              |               |
 |  470 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
@@ -494,7 +494,7 @@ Generated 2016-10-05.
 |  490 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  491 | Tin Do                    |  -4.0 |         1 |              |               |
 |  492 | Susan Grand               |  -4.3 |         3 |              |               |
-|  493 | Duncan MacRae             |  -5.7 |         4 |        -0.12 |               |
-|  494 | Sara Green                |  -5.8 |         1 |              |               |
-|  495 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  493 | Sara Green                |  -5.8 |         1 |              |               |
+|  494 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  495 | Duncan MacRae             |  -6.2 |         5 |        -0.67 |               |
 |  496 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |

@@ -55,5 +55,5 @@ Generated 2016-10-05.
 |   51 | Meldan Heaslip      |   4.2 |         4 |              |               |
 |   52 | Sameer Bajaj        |   2.7 |         3 |              |               |
 |   53 | Anuj Dawar          |   2.5 |         5 |              |               |
-|   54 | Cristhian Daniel    |   0.0 |        11 |              |               |
-|   55 | Duncan MacRae       |  -5.7 |         4 |        -0.12 |               |
+|   54 | Cristhian Daniel    |   0.8 |        12 |        +0.79 |               |
+|   55 | Duncan MacRae       |  -6.2 |         5 |        -0.67 |               |
