@@ -49,11 +49,11 @@ Generated 2016-10-04.
 |   45 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
 |   46 | Ryan Akers          |   7.7 |         2 |              |               |
 |   47 | Keaton Noon         |   6.1 |        19 |              |               |
-|   48 | Alok Singh          |   5.9 |        12 |              |               |
+|   48 | Alok Singh          |   6.1 |        13 |        +0.26 |               |
 |   49 | Jose Lara           |   5.0 |         6 |              |               |
 |   50 | Zsolt Bartha        |   4.6 |        44 |              |         +1.77 |
 |   51 | Meldan Heaslip      |   4.2 |         4 |              |               |
 |   52 | Sameer Bajaj        |   2.7 |         3 |              |               |
 |   53 | Anuj Dawar          |   2.5 |         5 |              |               |
 |   54 | Cristhian Daniel    |   0.0 |        11 |              |               |
-|   55 | Duncan MacRae       |  -5.6 |         3 |              |               |
+|   55 | Duncan MacRae       |  -5.7 |         4 |        -0.12 |               |

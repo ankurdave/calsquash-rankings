@@ -409,9 +409,9 @@ Generated 2016-10-04.
 |  405 | Dav Clark                 |   6.4 |         6 |              |               |
 |  406 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  407 | Keaton Noon               |   6.1 |        19 |              |               |
-|  408 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  409 | Rohan Relan               |   6.0 |         4 |              |               |
-|  410 | Alok Singh                |   5.9 |        12 |              |               |
+|  408 | Alok Singh                |   6.1 |        13 |        +0.26 |               |
+|  409 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  410 | Rohan Relan               |   6.0 |         4 |              |               |
 |  411 | David Zhu                 |   5.8 |         2 |              |               |
 |  412 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  413 | Gwendal Rannou            |   5.6 |        13 |              |               |
@@ -494,7 +494,7 @@ Generated 2016-10-04.
 |  490 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  491 | Tin Do                    |  -4.0 |         1 |              |               |
 |  492 | Susan Grand               |  -4.3 |         3 |              |               |
-|  493 | Duncan MacRae             |  -5.6 |         3 |              |               |
+|  493 | Duncan MacRae             |  -5.7 |         4 |        -0.12 |               |
 |  494 | Sara Green                |  -5.8 |         1 |              |               |
 |  495 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  496 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
