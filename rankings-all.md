@@ -147,7 +147,7 @@ Generated 2016-10-05.
 |  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  144 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  145 | Mark Modera               |  20.9 |       309 |              |         -0.99 |
-|  146 | Robert Schwartz           |  20.8 |        77 |              |         -1.09 |
+|  146 | Robert Schwartz           |  20.8 |        78 |        +0.07 |         -1.03 |
 |  147 | Jamie Funk                |  20.8 |        30 |              |               |
 |  148 | Matthew Brett             |  20.7 |        20 |              |               |
 |  149 | Prakash Bathini           |  20.7 |       122 |              |         -0.66 |
@@ -158,7 +158,7 @@ Generated 2016-10-05.
 |  154 | Andrew Green              |  20.5 |        52 |              |               |
 |  155 | Sam McCormick             |  20.5 |        15 |              |        +10.48 |
 |  156 | Steven Sloman             |  20.4 |        10 |              |               |
-|  157 | Mike Jensen-Akula         |  20.4 |       217 |              |         -1.20 |
+|  157 | Mike Jensen-Akula         |  20.3 |       218 |        -0.05 |         -1.25 |
 |  158 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  159 | Carl Schreck              |  20.2 |         2 |              |               |
 |  160 | John Grim                 |  20.1 |        13 |              |               |
