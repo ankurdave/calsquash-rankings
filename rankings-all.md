@@ -409,13 +409,13 @@ Generated 2016-10-06.
 |  405 | Dav Clark                 |   6.4 |         6 |              |               |
 |  406 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  407 | Keaton Noon               |   6.1 |        19 |              |               |
-|  408 | Alok Singh                |   6.1 |        13 |        +0.26 |               |
-|  409 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  410 | Rohan Relan               |   6.0 |         4 |              |               |
-|  411 | David Zhu                 |   5.8 |         2 |              |               |
-|  412 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  413 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  414 | Manu Vaish                |   5.5 |         1 |              |               |
+|  408 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  409 | Rohan Relan               |   6.0 |         4 |              |               |
+|  410 | David Zhu                 |   5.8 |         2 |              |               |
+|  411 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  412 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  413 | Manu Vaish                |   5.5 |         1 |              |               |
+|  414 | Alok Singh                |   5.4 |        14 |        -0.45 |               |
 |  415 | Emily Moylan              |   5.2 |        17 |              |               |
 |  416 | Mohammad Salama           |   5.2 |         5 |              |         +1.20 |
 |  417 | Catherine Wang            |   5.2 |        10 |              |               |
@@ -438,25 +438,25 @@ Generated 2016-10-06.
 |  434 | David Vogel               |   2.6 |         7 |              |               |
 |  435 | Anuj Dawar                |   2.5 |         5 |              |               |
 |  436 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  437 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  438 | Phil Lin                  |   2.1 |         1 |              |               |
-|  439 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  440 | Adeesh Goel               |   1.9 |         3 |              |               |
-|  441 | Heather Dunbar            |   1.8 |         1 |              |               |
-|  442 | Himanshu Chandra          |   1.8 |         4 |              |               |
-|  443 | David Gundry              |   1.7 |         3 |              |               |
-|  444 | Shantanu Mittal           |   1.6 |         3 |              |               |
-|  445 | Vin Marshall              |   1.5 |        11 |              |               |
-|  446 | Matthew Mak               |   1.5 |         1 |              |               |
-|  447 | Matan Sela                |   1.5 |         1 |              |               |
-|  448 | Jonathan Vogel            |   1.3 |         7 |              |               |
-|  449 | Hobson Brown              |   1.3 |         1 |              |               |
-|  450 | Milind Sanghavi           |   1.3 |         1 |              |               |
-|  451 | Tom Joseph                |   1.3 |         2 |              |               |
-|  452 | Alexandra Harmon          |   1.3 |         3 |              |               |
-|  453 | Michael Mann              |   1.1 |         4 |              |               |
-|  454 | Marco Eres                |   1.0 |         5 |              |               |
-|  455 | Cristhian Daniel          |   0.8 |        12 |        +0.79 |               |
+|  437 | Cristhian Daniel          |   2.4 |        13 |        +2.34 |               |
+|  438 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  439 | Phil Lin                  |   2.1 |         1 |              |               |
+|  440 | Alexis Madrigal           |   2.1 |         2 |              |               |
+|  441 | Adeesh Goel               |   1.9 |         3 |              |               |
+|  442 | Heather Dunbar            |   1.8 |         1 |              |               |
+|  443 | Himanshu Chandra          |   1.8 |         4 |              |               |
+|  444 | David Gundry              |   1.7 |         3 |              |               |
+|  445 | Shantanu Mittal           |   1.6 |         3 |              |               |
+|  446 | Vin Marshall              |   1.5 |        11 |              |               |
+|  447 | Matthew Mak               |   1.5 |         1 |              |               |
+|  448 | Matan Sela                |   1.5 |         1 |              |               |
+|  449 | Jonathan Vogel            |   1.3 |         7 |              |               |
+|  450 | Hobson Brown              |   1.3 |         1 |              |               |
+|  451 | Milind Sanghavi           |   1.3 |         1 |              |               |
+|  452 | Tom Joseph                |   1.3 |         2 |              |               |
+|  453 | Alexandra Harmon          |   1.3 |         3 |              |               |
+|  454 | Michael Mann              |   1.1 |         4 |              |               |
+|  455 | Marco Eres                |   1.0 |         5 |              |               |
 |  456 | Alex Kaplan               |   0.8 |         8 |              |               |
 |  457 | Alfonso Rojas             |   0.6 |         8 |              |               |
 |  458 | Ben Geller                |   0.6 |         4 |              |               |
@@ -496,5 +496,5 @@ Generated 2016-10-06.
 |  492 | Susan Grand               |  -4.3 |         3 |              |               |
 |  493 | Sara Green                |  -5.8 |         1 |              |               |
 |  494 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  495 | Duncan MacRae             |  -6.2 |         5 |        -0.67 |               |
+|  495 | Duncan MacRae             |  -6.1 |         5 |        -0.51 |               |
 |  496 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |

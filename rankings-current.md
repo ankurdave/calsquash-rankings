@@ -31,29 +31,30 @@ Generated 2016-10-06.
 |   27 | Eric Borden         |  17.6 |        32 |              |         +3.22 |
 |   28 | Troup Howard        |  17.4 |        38 |              |         -0.29 |
 |   29 | Wayne Heiser        |  17.1 |        30 |              |               |
-|   30 | David Bratt         |  16.4 |        16 |              |         +0.33 |
-|   31 | Terry Chang         |  16.0 |        45 |              |         +2.38 |
-|   32 | Kent Daniels        |  15.4 |        88 |              |         +0.67 |
-|   33 | Ankur Dave          |  14.6 |        50 |              |         +6.69 |
-|   34 | Shai Vardi          |  14.5 |         4 |              |               |
-|   35 | Diego Butrich       |  14.1 |         5 |              |               |
-|   36 | Nikhil Paranjape    |  12.7 |        23 |              |               |
-|   37 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
-|   38 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
-|   39 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
-|   40 | Josh Lebowitz       |   9.6 |        25 |              |               |
-|   41 | Nate Aden           |   9.3 |        20 |              |               |
-|   42 | Brian Kempenich     |   8.6 |        37 |              |         -0.52 |
-|   43 | Raphael Magarik     |   8.5 |        11 |        -0.57 |               |
-|   44 | Duo Wang            |   8.4 |        62 |              |         +0.11 |
-|   45 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
-|   46 | Ryan Akers          |   7.7 |         2 |              |               |
-|   47 | Keaton Noon         |   6.1 |        19 |              |               |
-|   48 | Alok Singh          |   6.1 |        13 |        +0.26 |               |
-|   49 | Jose Lara           |   5.0 |         6 |              |               |
-|   50 | Zsolt Bartha        |   4.6 |        44 |              |         +1.77 |
-|   51 | Meldan Heaslip      |   4.2 |         4 |              |               |
-|   52 | Sameer Bajaj        |   2.7 |         3 |              |               |
-|   53 | Anuj Dawar          |   2.5 |         5 |              |               |
-|   54 | Cristhian Daniel    |   0.8 |        12 |        +0.79 |               |
-|   55 | Duncan MacRae       |  -6.2 |         5 |        -0.67 |               |
+|   30 | Chris Flores        |  16.8 |       300 |              |         -1.99 |
+|   31 | David Bratt         |  16.4 |        16 |              |         +0.33 |
+|   32 | Terry Chang         |  16.0 |        45 |              |         +2.38 |
+|   33 | Kent Daniels        |  15.4 |        88 |              |         +0.67 |
+|   34 | Ankur Dave          |  14.6 |        50 |              |         +6.69 |
+|   35 | Shai Vardi          |  14.5 |         4 |              |               |
+|   36 | Diego Butrich       |  14.1 |         5 |              |               |
+|   37 | Nikhil Paranjape    |  12.7 |        23 |              |               |
+|   38 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
+|   39 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
+|   40 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
+|   41 | Josh Lebowitz       |   9.6 |        25 |              |               |
+|   42 | Nate Aden           |   9.3 |        20 |              |               |
+|   43 | Brian Kempenich     |   8.6 |        37 |              |         -0.52 |
+|   44 | Raphael Magarik     |   8.5 |        11 |        -0.57 |               |
+|   45 | Duo Wang            |   8.4 |        62 |              |         +0.11 |
+|   46 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
+|   47 | Ryan Akers          |   7.7 |         2 |              |               |
+|   48 | Keaton Noon         |   6.1 |        19 |              |               |
+|   49 | Alok Singh          |   5.4 |        14 |        -0.45 |               |
+|   50 | Jose Lara           |   5.0 |         6 |              |               |
+|   51 | Zsolt Bartha        |   4.6 |        44 |              |         +1.77 |
+|   52 | Meldan Heaslip      |   4.2 |         4 |              |               |
+|   53 | Sameer Bajaj        |   2.7 |         3 |              |               |
+|   54 | Anuj Dawar          |   2.5 |         5 |              |               |
+|   55 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
+|   56 | Duncan MacRae       |  -6.1 |         5 |        -0.51 |               |
