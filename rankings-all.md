@@ -46,11 +46,11 @@ Generated 2016-10-05.
 |   42 | Amos Vernon               |  26.4 |        30 |              |               |
 |   43 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   44 | Mikey Zarem               |  26.1 |         8 |              |               |
-|   45 | Vishi                     |  26.0 |        41 |              |         -0.24 |
-|   46 | Peter McDermott           |  25.8 |        10 |              |               |
-|   47 | Andrew Hsu                |  25.8 |        15 |              |               |
-|   48 | Arvind Muralimohan        |  25.7 |        16 |              |         +4.04 |
-|   49 | Nick Cobbett              |  25.7 |        24 |              |         +6.39 |
+|   45 | Nick Cobbett              |  26.0 |        25 |        +0.36 |         +6.75 |
+|   46 | Vishi                     |  26.0 |        41 |              |         -0.24 |
+|   47 | Peter McDermott           |  25.8 |        10 |              |               |
+|   48 | Andrew Hsu                |  25.8 |        15 |              |               |
+|   49 | Arvind Muralimohan        |  25.7 |        16 |              |         +4.04 |
 |   50 | Richard Chan              |  25.5 |         9 |              |               |
 |   51 | Joe Schneider             |  25.5 |         8 |              |               |
 |   52 | Adam Angsten              |  25.4 |         3 |              |               |
@@ -66,10 +66,10 @@ Generated 2016-10-05.
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
-|   65 | John Kunze                |  24.7 |       301 |              |         -0.54 |
-|   66 | Martin Stokes             |  24.7 |        12 |              |               |
-|   67 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   65 | Martin Stokes             |  24.7 |        12 |              |               |
+|   66 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   68 | John Kunze                |  24.5 |       302 |        -0.21 |         -0.75 |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
 |   71 | Jon Shih                  |  24.4 |        47 |              |               |

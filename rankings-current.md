@@ -7,9 +7,9 @@ Generated 2016-10-05.
 |    3 | Colin Grant         |  31.5 |         4 |              |               |
 |    4 | Sam Sternberg       |  30.6 |       126 |              |         +1.42 |
 |    5 | Frank Kennamer      |  27.4 |       211 |              |         -0.24 |
-|    6 | Nick Cobbett        |  25.7 |        24 |              |         +6.39 |
+|    6 | Nick Cobbett        |  26.0 |        25 |        +0.36 |         +6.75 |
 |    7 | Jim Veitch          |  25.3 |       426 |              |         -0.54 |
-|    8 | John Kunze          |  24.7 |       301 |              |         -0.54 |
+|    8 | John Kunze          |  24.5 |       302 |        -0.21 |         -0.75 |
 |    9 | Dan Bohn            |  23.2 |        77 |              |         -0.52 |
 |   10 | Dan Meier           |  22.7 |        50 |              |         +1.49 |
 |   11 | Matt Wong           |  22.7 |        72 |              |         +1.69 |
