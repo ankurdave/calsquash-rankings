@@ -337,18 +337,18 @@ Generated 2016-10-06.
 |  333 | Lucas Siow                |  11.0 |        10 |              |               |
 |  334 | Dominick Ng               |  10.9 |        25 |              |               |
 |  335 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  336 | George Bentley            |  10.6 |         4 |              |               |
-|  337 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  338 | Reto Sutter               |  10.5 |        47 |              |         +0.17 |
-|  339 | Brian Puglise             |  10.4 |         2 |              |               |
-|  340 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  341 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  342 | John Provine              |  10.2 |        16 |              |               |
-|  343 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  344 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  345 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  346 | Sung-Jin Oh               |  10.1 |         6 |              |         +7.89 |
-|  347 | Daniel Schwartz           |  10.1 |        19 |              |               |
+|  336 | Daniel Schwartz           |  10.7 |        20 |        +0.64 |               |
+|  337 | George Bentley            |  10.6 |         4 |              |               |
+|  338 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  339 | Reto Sutter               |  10.5 |        47 |              |         +0.17 |
+|  340 | Brian Puglise             |  10.4 |         2 |              |               |
+|  341 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  342 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  343 | John Provine              |  10.2 |        16 |              |               |
+|  344 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  345 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  346 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  347 | Sung-Jin Oh               |  10.1 |         6 |              |         +7.89 |
 |  348 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  349 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  350 | Myles Gordon              |   9.8 |        42 |              |         -0.52 |
@@ -367,17 +367,17 @@ Generated 2016-10-06.
 |  363 | Greg Sperla               |   9.3 |         8 |              |               |
 |  364 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  365 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  366 | Raphael Magarik           |   9.0 |        10 |              |               |
-|  367 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  368 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  369 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  370 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  371 | Therese Jones             |   8.7 |         6 |              |               |
-|  372 | Steven Yee                |   8.7 |         9 |              |               |
-|  373 | Brian Kempenich           |   8.6 |        37 |              |         -0.52 |
-|  374 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  375 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  376 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  366 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  367 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
+|  368 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  369 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  370 | Therese Jones             |   8.7 |         6 |              |               |
+|  371 | Steven Yee                |   8.7 |         9 |              |               |
+|  372 | Brian Kempenich           |   8.6 |        37 |              |         -0.52 |
+|  373 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  374 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  375 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  376 | Raphael Magarik           |   8.5 |        11 |        -0.57 |               |
 |  377 | Duo Wang                  |   8.4 |        62 |              |         +0.11 |
 |  378 | Reynold Xin               |   8.3 |         5 |              |               |
 |  379 | Anurag Gupta              |   8.3 |         6 |              |               |
