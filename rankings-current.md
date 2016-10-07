@@ -16,11 +16,11 @@ Generated 2016-10-07.
 |   12 | Reid Johnsen        |  22.0 |        33 |              |         +7.50 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
 |   14 | Jonathan Hankar     |  21.6 |       184 |              |         -0.88 |
-|   15 | Mark Modera         |  20.9 |       309 |              |         -0.99 |
+|   15 | Mark Modera         |  21.1 |       310 |        +0.24 |         -0.75 |
 |   16 | Robert Schwartz     |  20.8 |        78 |        +0.07 |         -1.03 |
 |   17 | Jared Bard          |  20.8 |        33 |        -0.13 |         +1.89 |
 |   18 | Mike Jensen-Akula   |  20.3 |       218 |        -0.05 |         -1.25 |
-|   19 | Jeff Gordon         |  20.2 |        35 |        +0.17 |         +8.73 |
+|   19 | Jeff Gordon         |  19.9 |        36 |        -0.07 |         +8.48 |
 |   20 | Robert Isaac        |  19.9 |        10 |              |               |
 |   21 | Jonathan Francis    |  19.5 |        68 |              |         -0.12 |
 |   22 | Jaime Perez         |  19.3 |        11 |              |               |
