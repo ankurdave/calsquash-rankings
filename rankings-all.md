@@ -208,7 +208,7 @@ Generated 2016-10-06.
 |  204 | John Eng                  |  18.4 |        28 |              |               |
 |  205 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  206 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  207 | Shaun Lim                 |  18.2 |        41 |              |         +0.23 |
+|  207 | Shaun Lim                 |  18.2 |        42 |        +0.06 |         +0.29 |
 |  208 | Bob Roller                |  18.2 |         6 |              |               |
 |  209 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  210 | James Chung               |  17.9 |         7 |              |               |
@@ -351,10 +351,10 @@ Generated 2016-10-06.
 |  347 | Sung-Jin Oh               |  10.1 |         6 |              |         +7.89 |
 |  348 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  349 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  350 | Myles Gordon              |   9.8 |        42 |              |         -0.52 |
-|  351 | Jacob Bank                |   9.7 |         1 |              |               |
-|  352 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
-|  353 | Josh Lebowitz             |   9.6 |        25 |              |               |
+|  350 | Josh Lebowitz             |   9.8 |        27 |        +0.27 |               |
+|  351 | Myles Gordon              |   9.8 |        42 |              |         -0.52 |
+|  352 | Jacob Bank                |   9.7 |         1 |              |               |
+|  353 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
 |  354 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  355 | Mark Shapero              |   9.4 |         7 |              |               |
 |  356 | Kevin Pollock             |   9.4 |        28 |              |               |
@@ -436,13 +436,13 @@ Generated 2016-10-06.
 |  432 | Sameer Bajaj              |   2.7 |         3 |              |               |
 |  433 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  434 | David Vogel               |   2.6 |         7 |              |               |
-|  435 | Anuj Dawar                |   2.5 |         5 |              |               |
-|  436 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  437 | Cristhian Daniel          |   2.4 |        13 |        +2.34 |               |
-|  438 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  439 | Phil Lin                  |   2.1 |         1 |              |               |
-|  440 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  441 | Adeesh Goel               |   1.9 |         3 |              |               |
+|  435 | Xavier Vendrell           |   2.5 |         3 |              |               |
+|  436 | Cristhian Daniel          |   2.4 |        13 |        +2.34 |               |
+|  437 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  438 | Phil Lin                  |   2.1 |         1 |              |               |
+|  439 | Alexis Madrigal           |   2.1 |         2 |              |               |
+|  440 | Adeesh Goel               |   1.9 |         3 |              |               |
+|  441 | Anuj Dawar                |   1.8 |         6 |        -0.67 |               |
 |  442 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  443 | Himanshu Chandra          |   1.8 |         4 |              |               |
 |  444 | David Gundry              |   1.7 |         3 |              |               |

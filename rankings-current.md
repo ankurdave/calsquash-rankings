@@ -26,7 +26,7 @@ Generated 2016-10-06.
 |   22 | Jaime Perez         |  19.3 |        11 |              |               |
 |   23 | Dror Matalon        |  19.1 |       351 |              |         +1.02 |
 |   24 | Kenny Bell          |  19.0 |       119 |              |         +0.96 |
-|   25 | Shaun Lim           |  18.2 |        41 |              |         +0.23 |
+|   25 | Shaun Lim           |  18.2 |        42 |        +0.06 |         +0.29 |
 |   26 | Josh Trauner        |  17.7 |        35 |              |               |
 |   27 | Eric Borden         |  17.6 |        32 |              |         +3.22 |
 |   28 | Troup Howard        |  17.4 |        38 |              |         -0.29 |
@@ -42,7 +42,7 @@ Generated 2016-10-06.
 |   38 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
 |   39 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
 |   40 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
-|   41 | Josh Lebowitz       |   9.6 |        25 |              |               |
+|   41 | Josh Lebowitz       |   9.8 |        27 |        +0.27 |               |
 |   42 | Nate Aden           |   9.3 |        20 |              |               |
 |   43 | Brian Kempenich     |   8.5 |        38 |        -0.16 |         -0.68 |
 |   44 | Raphael Magarik     |   8.5 |        11 |        -0.57 |               |
@@ -55,6 +55,6 @@ Generated 2016-10-06.
 |   51 | Zsolt Bartha        |   4.6 |        44 |              |         +1.77 |
 |   52 | Meldan Heaslip      |   4.2 |         4 |              |               |
 |   53 | Sameer Bajaj        |   2.7 |         3 |              |               |
-|   54 | Anuj Dawar          |   2.5 |         5 |              |               |
-|   55 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
+|   54 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
+|   55 | Anuj Dawar          |   1.8 |         6 |        -0.67 |               |
 |   56 | Duncan MacRae       |  -6.1 |         5 |        -0.51 |               |
