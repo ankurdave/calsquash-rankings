@@ -311,9 +311,9 @@ Generated 2016-10-06.
 |  307 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  308 | Lewis Moore               |  13.0 |        69 |              |               |
 |  309 | David Isaksson            |  12.9 |        22 |              |               |
-|  310 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  311 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  312 | Nikhil Paranjape          |  12.7 |        23 |              |               |
+|  310 | Nikhil Paranjape          |  12.9 |        24 |        +0.25 |               |
+|  311 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  312 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  313 | Josh Shiode               |  12.6 |        20 |              |               |
 |  314 | Huw Lester                |  12.5 |         1 |              |               |
 |  315 | Richard Fabini            |  12.4 |         3 |              |               |
@@ -373,10 +373,10 @@ Generated 2016-10-06.
 |  369 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  370 | Therese Jones             |   8.7 |         6 |              |               |
 |  371 | Steven Yee                |   8.7 |         9 |              |               |
-|  372 | Brian Kempenich           |   8.6 |        37 |              |         -0.52 |
-|  373 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  374 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  375 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  372 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  373 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  374 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  375 | Brian Kempenich           |   8.5 |        38 |        -0.16 |         -0.68 |
 |  376 | Raphael Magarik           |   8.5 |        11 |        -0.57 |               |
 |  377 | Duo Wang                  |   8.4 |        62 |              |         +0.11 |
 |  378 | Reynold Xin               |   8.3 |         5 |              |               |
