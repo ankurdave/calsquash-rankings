@@ -38,12 +38,12 @@ Generated 2016-10-07.
 |   34 | Ankur Dave          |  14.6 |        50 |              |         +6.69 |
 |   35 | Shai Vardi          |  14.5 |         4 |              |               |
 |   36 | Diego Butrich       |  14.1 |         5 |              |               |
-|   37 | Nikhil Paranjape    |  12.9 |        24 |        +0.25 |               |
+|   37 | Nikhil Paranjape    |  12.8 |        25 |        +0.15 |               |
 |   38 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
 |   39 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
 |   40 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
 |   41 | Josh Lebowitz       |   9.8 |        27 |        +0.27 |               |
-|   42 | Nate Aden           |   9.3 |        20 |              |               |
+|   42 | Nate Aden           |   9.6 |        21 |        +0.25 |               |
 |   43 | Brian Kempenich     |   8.5 |        38 |        -0.16 |         -0.68 |
 |   44 | Raphael Magarik     |   8.5 |        11 |        -0.57 |               |
 |   45 | Duo Wang            |   8.4 |        62 |              |         +0.11 |

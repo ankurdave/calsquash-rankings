@@ -311,7 +311,7 @@ Generated 2016-10-07.
 |  307 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  308 | Lewis Moore               |  13.0 |        69 |              |               |
 |  309 | David Isaksson            |  12.9 |        22 |              |               |
-|  310 | Nikhil Paranjape          |  12.9 |        24 |        +0.25 |               |
+|  310 | Nikhil Paranjape          |  12.8 |        25 |        +0.15 |               |
 |  311 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  312 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  313 | Josh Shiode               |  12.6 |        20 |              |               |
@@ -355,14 +355,14 @@ Generated 2016-10-07.
 |  351 | Myles Gordon              |   9.8 |        42 |              |         -0.52 |
 |  352 | Jacob Bank                |   9.7 |         1 |              |               |
 |  353 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
-|  354 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  355 | Mark Shapero              |   9.4 |         7 |              |               |
-|  356 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  357 | Max Grass                 |   9.4 |         1 |              |               |
-|  358 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  359 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  360 | Robert Broesler           |   9.4 |         4 |              |               |
-|  361 | Nate Aden                 |   9.3 |        20 |              |               |
+|  354 | Nate Aden                 |   9.6 |        21 |        +0.25 |               |
+|  355 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  356 | Mark Shapero              |   9.4 |         7 |              |               |
+|  357 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  358 | Max Grass                 |   9.4 |         1 |              |               |
+|  359 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  360 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  361 | Robert Broesler           |   9.4 |         4 |              |               |
 |  362 | Raunak Bhinge             |   9.3 |         8 |              |               |
 |  363 | Greg Sperla               |   9.3 |         8 |              |               |
 |  364 | Anosha Siripala           |   9.2 |        10 |              |               |
