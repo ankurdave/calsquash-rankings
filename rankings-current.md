@@ -22,10 +22,10 @@ Generated 2016-10-08.
 |   18 | Mike Jensen-Akula   |  20.3 |       218 |        -0.05 |         -1.25 |
 |   19 | Jeff Gordon         |  19.9 |        36 |        -0.07 |         +8.48 |
 |   20 | Robert Isaac        |  19.9 |        10 |              |               |
-|   21 | Jonathan Francis    |  19.5 |        68 |              |         -0.12 |
+|   21 | Jonathan Francis    |  19.7 |        69 |        +0.24 |         +0.12 |
 |   22 | Jaime Perez         |  19.3 |        11 |              |               |
 |   23 | Dror Matalon        |  19.1 |       351 |              |         +1.02 |
-|   24 | Kenny Bell          |  19.0 |       119 |              |         +0.96 |
+|   24 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
 |   25 | Shaun Lim           |  18.2 |        42 |        +0.06 |         +0.29 |
 |   26 | Josh Trauner        |  17.7 |        35 |              |               |
 |   27 | Eric Borden         |  17.6 |        32 |              |         +3.22 |
