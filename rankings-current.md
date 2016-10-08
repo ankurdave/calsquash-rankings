@@ -11,8 +11,8 @@ Generated 2016-10-08.
 |    7 | Jim Veitch          |  25.3 |       426 |              |         -0.54 |
 |    8 | John Kunze          |  24.5 |       302 |        -0.21 |         -0.75 |
 |    9 | Dan Bohn            |  23.2 |        77 |              |         -0.52 |
-|   10 | Dan Meier           |  22.7 |        50 |              |         +1.49 |
-|   11 | Matt Wong           |  22.7 |        72 |              |         +1.69 |
+|   10 | Matt Wong           |  22.8 |        73 |        +0.11 |         +1.80 |
+|   11 | Dan Meier           |  22.7 |        50 |              |         +1.49 |
 |   12 | Reid Johnsen        |  22.0 |        33 |              |         +7.50 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
 |   14 | Jonathan Hankar     |  21.6 |       184 |              |         -0.88 |
@@ -35,26 +35,27 @@ Generated 2016-10-08.
 |   31 | David Bratt         |  16.4 |        16 |              |         +0.33 |
 |   32 | Terry Chang         |  16.0 |        45 |              |         +2.38 |
 |   33 | Kent Daniels        |  15.4 |        88 |              |         +0.67 |
-|   34 | Ankur Dave          |  14.6 |        50 |              |         +6.69 |
-|   35 | Shai Vardi          |  14.5 |         4 |              |               |
-|   36 | Diego Butrich       |  14.1 |         5 |              |               |
-|   37 | Nikhil Paranjape    |  12.8 |        25 |        +0.15 |               |
-|   38 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
-|   39 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
-|   40 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
-|   41 | Josh Lebowitz       |   9.8 |        27 |        +0.27 |               |
-|   42 | Nate Aden           |   9.6 |        21 |        +0.25 |               |
-|   43 | Brian Kempenich     |   8.5 |        38 |        -0.16 |         -0.68 |
-|   44 | Raphael Magarik     |   8.5 |        11 |        -0.57 |               |
-|   45 | Duo Wang            |   8.4 |        62 |              |         +0.11 |
-|   46 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
-|   47 | Ryan Akers          |   7.7 |         2 |              |               |
-|   48 | Keaton Noon         |   6.1 |        19 |              |               |
-|   49 | Alok Singh          |   5.4 |        14 |        -0.45 |               |
-|   50 | Jose Lara           |   5.0 |         6 |              |               |
-|   51 | Zsolt Bartha        |   4.6 |        44 |              |         +1.77 |
-|   52 | Meldan Heaslip      |   4.2 |         4 |              |               |
-|   53 | Sameer Bajaj        |   2.7 |         3 |              |               |
-|   54 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
-|   55 | Anuj Dawar          |   1.8 |         6 |        -0.67 |               |
-|   56 | Duncan MacRae       |  -6.1 |         5 |        -0.51 |               |
+|   34 | Vishal Jain         |  15.3 |         1 |              |               |
+|   35 | Ankur Dave          |  14.6 |        50 |              |         +6.69 |
+|   36 | Shai Vardi          |  14.5 |         4 |              |               |
+|   37 | Diego Butrich       |  14.1 |         5 |              |               |
+|   38 | Nikhil Paranjape    |  12.8 |        25 |        +0.15 |               |
+|   39 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
+|   40 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
+|   41 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
+|   42 | Josh Lebowitz       |   9.8 |        27 |        +0.27 |               |
+|   43 | Nate Aden           |   9.6 |        21 |        +0.25 |               |
+|   44 | Brian Kempenich     |   8.5 |        38 |        -0.16 |         -0.68 |
+|   45 | Raphael Magarik     |   8.5 |        11 |        -0.57 |               |
+|   46 | Duo Wang            |   8.4 |        62 |              |         +0.11 |
+|   47 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
+|   48 | Ryan Akers          |   7.7 |         2 |              |               |
+|   49 | Keaton Noon         |   6.1 |        19 |              |               |
+|   50 | Alok Singh          |   5.4 |        14 |        -0.45 |               |
+|   51 | Jose Lara           |   5.0 |         6 |              |               |
+|   52 | Zsolt Bartha        |   4.6 |        44 |              |         +1.77 |
+|   53 | Meldan Heaslip      |   4.2 |         4 |              |               |
+|   54 | Sameer Bajaj        |   2.7 |         3 |              |               |
+|   55 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
+|   56 | Anuj Dawar          |   1.8 |         6 |        -0.67 |               |
+|   57 | Duncan MacRae       |  -6.1 |         5 |        -0.51 |               |
