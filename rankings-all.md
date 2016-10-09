@@ -131,7 +131,7 @@ Generated 2016-10-09.
 |  127 | Omair Azam                |  21.7 |        18 |              |               |
 |  128 | Phin Lee                  |  21.7 |        16 |              |               |
 |  129 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  130 | Jonathan Hankar           |  21.6 |       184 |              |         -0.88 |
+|  130 | Jonathan Hankar           |  21.5 |       185 |        -0.05 |         -0.93 |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
 |  132 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  133 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -158,17 +158,17 @@ Generated 2016-10-09.
 |  154 | Andrew Green              |  20.5 |        52 |              |               |
 |  155 | Sam McCormick             |  20.5 |        15 |              |        +10.48 |
 |  156 | Steven Sloman             |  20.4 |        10 |              |               |
-|  157 | Mike Jensen-Akula         |  20.3 |       218 |        -0.05 |         -1.25 |
-|  158 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  159 | Carl Schreck              |  20.2 |         2 |              |               |
-|  160 | John Grim                 |  20.1 |        13 |              |               |
-|  161 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  162 | Frank Kennan              |  20.1 |        11 |              |               |
-|  163 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  164 | Wesley Huang              |  20.0 |         8 |              |               |
-|  165 | Jaime Vidal               |  19.9 |         8 |              |         +3.26 |
-|  166 | Jeff Gordon               |  19.9 |        36 |        -0.07 |         +8.48 |
-|  167 | Robert Isaac              |  19.9 |        10 |              |               |
+|  157 | Robert Isaac              |  20.4 |        11 |        +0.47 |               |
+|  158 | Mike Jensen-Akula         |  20.3 |       218 |        -0.05 |         -1.25 |
+|  159 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  160 | Carl Schreck              |  20.2 |         2 |              |               |
+|  161 | John Grim                 |  20.1 |        13 |              |               |
+|  162 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  163 | Frank Kennan              |  20.1 |        11 |              |               |
+|  164 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  165 | Wesley Huang              |  20.0 |         8 |              |               |
+|  166 | Jaime Vidal               |  19.9 |         8 |              |         +3.26 |
+|  167 | Jeff Gordon               |  19.9 |        36 |        -0.07 |         +8.48 |
 |  168 | Liam King                 |  19.9 |         6 |              |               |
 |  169 | Lysander Jim              |  19.8 |         6 |              |               |
 |  170 | Jonathan Francis          |  19.7 |        69 |        +0.24 |         +0.12 |
