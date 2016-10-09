@@ -310,9 +310,9 @@ Generated 2016-10-08.
 |  306 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  307 | Field Maloney             |  13.1 |        24 |              |               |
 |  308 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  309 | Lewis Moore               |  13.0 |        69 |              |               |
-|  310 | David Isaksson            |  12.9 |        22 |              |               |
-|  311 | Nikhil Paranjape          |  12.8 |        25 |        +0.15 |               |
+|  309 | Nikhil Paranjape          |  13.0 |        26 |        +0.36 |               |
+|  310 | Lewis Moore               |  13.0 |        69 |              |               |
+|  311 | David Isaksson            |  12.9 |        22 |              |               |
 |  312 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  313 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  314 | Josh Shiode               |  12.6 |        20 |              |               |
@@ -379,9 +379,9 @@ Generated 2016-10-08.
 |  375 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  376 | Brian Kempenich           |   8.5 |        38 |        -0.16 |         -0.68 |
 |  377 | Raphael Magarik           |   8.5 |        11 |        -0.57 |               |
-|  378 | Duo Wang                  |   8.4 |        62 |              |         +0.11 |
-|  379 | Reynold Xin               |   8.3 |         5 |              |               |
-|  380 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  378 | Reynold Xin               |   8.3 |         5 |              |               |
+|  379 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  380 | Duo Wang                  |   8.3 |        63 |        -0.14 |         -0.03 |
 |  381 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  382 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  383 | Phil Hartmeyer            |   8.2 |         3 |              |               |
