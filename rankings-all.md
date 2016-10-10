@@ -168,29 +168,29 @@ Generated 2016-10-09.
 |  164 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  165 | Wesley Huang              |  20.0 |         8 |              |               |
 |  166 | Jaime Vidal               |  19.9 |         8 |              |         +3.26 |
-|  167 | Jeff Gordon               |  19.9 |        36 |        -0.07 |         +8.48 |
-|  168 | Liam King                 |  19.9 |         6 |              |               |
-|  169 | Lysander Jim              |  19.8 |         6 |              |               |
-|  170 | Jonathan Francis          |  19.7 |        69 |        +0.24 |         +0.12 |
-|  171 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  172 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  173 | Mike Delanty              |  19.7 |        12 |              |               |
-|  174 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  175 | Andrew Proudfoot          |  19.6 |        26 |              |         +1.88 |
-|  176 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  177 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  178 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  179 | Jaime Perez               |  19.3 |        11 |              |               |
+|  167 | Jaime Perez               |  19.9 |        12 |        +0.61 |               |
+|  168 | Jeff Gordon               |  19.9 |        36 |        -0.07 |         +8.48 |
+|  169 | Liam King                 |  19.9 |         6 |              |               |
+|  170 | Lysander Jim              |  19.8 |         6 |              |               |
+|  171 | Jonathan Francis          |  19.7 |        69 |        +0.24 |         +0.12 |
+|  172 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  173 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  174 | Mike Delanty              |  19.7 |        12 |              |               |
+|  175 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  176 | Andrew Proudfoot          |  19.6 |        26 |              |         +1.88 |
+|  177 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  178 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  179 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  180 | Greg Adams                |  19.3 |        10 |              |               |
 |  181 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  182 | John Corcoran             |  19.1 |        49 |              |               |
-|  183 | Dror Matalon              |  19.1 |       351 |              |         +1.02 |
-|  184 | Kedar Shah                |  19.1 |         9 |              |               |
-|  185 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  186 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  187 | Yating Liu                |  19.0 |         7 |              |               |
-|  188 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
-|  189 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  183 | Kedar Shah                |  19.1 |         9 |              |               |
+|  184 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  185 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  186 | Yating Liu                |  19.0 |         7 |              |               |
+|  187 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
+|  188 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  189 | Dror Matalon              |  18.9 |       352 |        -0.20 |         +0.83 |
 |  190 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  191 | Kenny Bell                |  18.8 |       120 |        -0.24 |         +0.72 |
 |  192 | Viraj Paropkari           |  18.8 |        16 |              |               |

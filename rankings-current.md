@@ -21,10 +21,10 @@ Generated 2016-10-09.
 |   17 | Jared Bard          |  20.8 |        33 |        -0.13 |         +1.89 |
 |   18 | Robert Isaac        |  20.4 |        11 |        +0.47 |               |
 |   19 | Mike Jensen-Akula   |  20.3 |       218 |        -0.05 |         -1.25 |
-|   20 | Jeff Gordon         |  19.9 |        36 |        -0.07 |         +8.48 |
-|   21 | Jonathan Francis    |  19.7 |        69 |        +0.24 |         +0.12 |
-|   22 | Jaime Perez         |  19.3 |        11 |              |               |
-|   23 | Dror Matalon        |  19.1 |       351 |              |         +1.02 |
+|   20 | Jaime Perez         |  19.9 |        12 |        +0.61 |               |
+|   21 | Jeff Gordon         |  19.9 |        36 |        -0.07 |         +8.48 |
+|   22 | Jonathan Francis    |  19.7 |        69 |        +0.24 |         +0.12 |
+|   23 | Dror Matalon        |  18.9 |       352 |        -0.20 |         +0.83 |
 |   24 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
 |   25 | Shaun Lim           |  18.2 |        42 |        +0.06 |         +0.29 |
 |   26 | Josh Trauner        |  17.7 |        35 |              |               |
