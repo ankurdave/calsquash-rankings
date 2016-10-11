@@ -215,8 +215,8 @@ Generated 2016-10-10.
 |  211 | Andres Rodriguez          |  17.9 |        55 |              |         +0.78 |
 |  212 | Nick Paget                |  17.8 |        35 |              |               |
 |  213 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  214 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  215 | Josh Trauner              |  17.7 |        35 |              |               |
+|  214 | Josh Trauner              |  17.8 |        36 |        +0.04 |               |
+|  215 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  216 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  217 | Eric Borden               |  17.6 |        32 |              |         +3.22 |
 |  218 | Jim Kingsbury             |  17.6 |         2 |              |               |
@@ -240,7 +240,7 @@ Generated 2016-10-10.
 |  236 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  237 | Baxter Leman              |  16.9 |         6 |              |               |
 |  238 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  239 | Chris Flores              |  16.8 |       300 |              |         -1.99 |
+|  239 | Chris Flores              |  16.8 |       301 |              |         -1.99 |
 |  240 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  241 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  242 | David Shabelman           |  16.7 |        30 |              |               |
