@@ -343,55 +343,55 @@ Generated 2016-10-10.
 |  339 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  340 | Reto Sutter               |  10.5 |        47 |              |         +0.17 |
 |  341 | Brian Puglise             |  10.4 |         2 |              |               |
-|  342 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  343 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  344 | John Provine              |  10.2 |        16 |              |               |
-|  345 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  346 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  347 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  348 | Sung-Jin Oh               |  10.1 |         6 |              |         +7.89 |
-|  349 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  350 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  351 | Josh Lebowitz             |   9.8 |        27 |        +0.27 |               |
-|  352 | Myles Gordon              |   9.8 |        42 |              |         -0.52 |
-|  353 | Jacob Bank                |   9.7 |         1 |              |               |
-|  354 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
-|  355 | Nate Aden                 |   9.6 |        21 |        +0.25 |               |
-|  356 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  357 | Mark Shapero              |   9.4 |         7 |              |               |
-|  358 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  359 | Max Grass                 |   9.4 |         1 |              |               |
-|  360 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  361 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  362 | Robert Broesler           |   9.4 |         4 |              |               |
-|  363 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  364 | Greg Sperla               |   9.3 |         8 |              |               |
-|  365 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  366 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  367 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  368 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  369 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  370 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  371 | Therese Jones             |   8.7 |         6 |              |               |
-|  372 | Steven Yee                |   8.7 |         9 |              |               |
-|  373 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  374 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  375 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  376 | Brian Kempenich           |   8.5 |        38 |        -0.16 |         -0.68 |
-|  377 | Raphael Magarik           |   8.5 |        11 |        -0.57 |               |
+|  342 | Sahar Sareminaeni         |  10.4 |         5 |        +2.48 |               |
+|  343 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  344 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  345 | John Provine              |  10.2 |        16 |              |               |
+|  346 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  347 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  348 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  349 | Sung-Jin Oh               |  10.1 |         6 |              |         +7.89 |
+|  350 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  351 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  352 | Josh Lebowitz             |   9.8 |        27 |        +0.27 |               |
+|  353 | Myles Gordon              |   9.8 |        42 |              |         -0.52 |
+|  354 | Jacob Bank                |   9.7 |         1 |              |               |
+|  355 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
+|  356 | Nate Aden                 |   9.6 |        21 |        +0.25 |               |
+|  357 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  358 | Mark Shapero              |   9.4 |         7 |              |               |
+|  359 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  360 | Max Grass                 |   9.4 |         1 |              |               |
+|  361 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  362 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  363 | Robert Broesler           |   9.4 |         4 |              |               |
+|  364 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  365 | Greg Sperla               |   9.3 |         8 |              |               |
+|  366 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  367 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  368 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  369 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
+|  370 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  371 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  372 | Therese Jones             |   8.7 |         6 |              |               |
+|  373 | Steven Yee                |   8.7 |         9 |              |               |
+|  374 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  375 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  376 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  377 | Brian Kempenich           |   8.5 |        38 |        -0.16 |         -0.68 |
 |  378 | Reynold Xin               |   8.3 |         5 |              |               |
 |  379 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  380 | Duo Wang                  |   8.3 |        63 |        -0.14 |         -0.03 |
 |  381 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  382 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  383 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  384 | John Coates               |   8.1 |         9 |              |               |
-|  385 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  386 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  387 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  388 | Zarina Khan               |   8.0 |         5 |              |               |
-|  389 | Chip Malt                 |   7.9 |         4 |              |               |
-|  390 | Sahar Sareminaeni         |   7.9 |         4 |              |               |
+|  383 | Raphael Magarik           |   8.2 |        12 |        -0.85 |               |
+|  384 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  385 | John Coates               |   8.1 |         9 |              |               |
+|  386 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  387 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  388 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  389 | Zarina Khan               |   8.0 |         5 |              |               |
+|  390 | Chip Malt                 |   7.9 |         4 |              |               |
 |  391 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  392 | Minsoo Bae                |   7.9 |         2 |              |               |
 |  393 | Akira Chiwaki             |   7.8 |         3 |              |               |

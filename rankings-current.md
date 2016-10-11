@@ -43,12 +43,12 @@ Generated 2016-10-10.
 |   39 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
 |   40 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
 |   41 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
-|   42 | Josh Lebowitz       |   9.8 |        27 |        +0.27 |               |
-|   43 | Nate Aden           |   9.6 |        21 |        +0.25 |               |
-|   44 | Brian Kempenich     |   8.5 |        38 |        -0.16 |         -0.68 |
-|   45 | Raphael Magarik     |   8.5 |        11 |        -0.57 |               |
+|   42 | Sahar Sareminaeni   |  10.4 |         5 |        +2.48 |               |
+|   43 | Josh Lebowitz       |   9.8 |        27 |        +0.27 |               |
+|   44 | Nate Aden           |   9.6 |        21 |        +0.25 |               |
+|   45 | Brian Kempenich     |   8.5 |        38 |        -0.16 |         -0.68 |
 |   46 | Duo Wang            |   8.3 |        63 |        -0.14 |         -0.03 |
-|   47 | Sahar Sareminaeni   |   7.9 |         4 |              |               |
+|   47 | Raphael Magarik     |   8.2 |        12 |        -0.85 |               |
 |   48 | Ryan Akers          |   7.7 |         2 |              |               |
 |   49 | Keaton Noon         |   6.1 |        19 |              |               |
 |   50 | Alok Singh          |   5.4 |        14 |        -0.45 |               |
