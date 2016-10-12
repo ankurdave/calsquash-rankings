@@ -132,10 +132,11 @@ def parse_matches():
 
   return matches, current_month_start_pos, trailing_12mo_start_pos
 
-def calculate_ratings(matches):
+def calculate_ratings(matches, focus_player=None):
   """Calculate TrueSkill ratings from match history.
 
   matches -- a list of matches from parse_matches
+  focus_player -- optionally, a player about whom to plot historical results
 
   Return (ratings, num_matches) where ratings maps player name to a
   trueskill.Rating object and num_matches maps player name to the number of
@@ -158,6 +159,14 @@ def calculate_ratings(matches):
     num_matches[p2] += 1
   for p1, p2, p1_score in matches:
     add_match(p1, p2, p1_score)
+
+    if focus_player:
+      if focus_player == p1:
+        print '%f -- %s won in %d over %s' % (
+          env.expose(ratings[p1]), p1, 3 + (6 - p1_score), p2)
+      elif focus_player == p2:
+        print '%f -- %s lost in %d to  %s' % (
+          env.expose(ratings[p2]), p2, 3 + (6 - p1_score), p1)
 
   return ratings, num_matches
 
@@ -220,10 +229,12 @@ def main():
                     ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
                     player_pred=lambda r: r[0] in cau)
   if interactive:
-    import code
     def competitiveness(p1, p2):
       return trueskill.quality_1vs1(ratings[p1], ratings[p2], env=env)
-    code.interact(local=dict(globals(), **locals()))
+    def add_match(p1, p2, p1_score, matches):
+      matches += [(p1, p2, p1_score)]
+      return calculate_ratings(matches)
+    import pdb; pdb.set_trace()
 
 if __name__=='__main__':
   main()
