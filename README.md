@@ -7,12 +7,11 @@ See the rankings for [current players](rankings-current.md) and [all players](ra
 To run:
 
 ```shell
-# Install dependencies
-$ pip install beautifulsoup4 requests trueskill PrettyTable
+$ pip install virtualenv
 
 # Scrape match data from the box league records
-$ python scraper.py
+$ ./scraper
 
 # Generate rankings
-$ python skill.py
+$ ./skill
 ```
