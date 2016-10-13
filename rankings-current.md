@@ -33,10 +33,10 @@ Generated 2016-10-12.
 |   29 | Wayne Heiser        |  17.1 |        30 |              |               |
 |   30 | Chris Flores        |  16.8 |       301 |              |         -1.99 |
 |   31 | David Bratt         |  16.4 |        16 |              |         +0.33 |
-|   32 | Terry Chang         |  16.0 |        45 |              |         +2.38 |
+|   32 | Terry Chang         |  15.9 |        46 |        -0.15 |         +2.23 |
 |   33 | Kent Daniels        |  15.4 |        88 |              |         +0.67 |
 |   34 | Vishal Jain         |  15.3 |         1 |              |               |
-|   35 | Ankur Dave          |  14.6 |        50 |              |         +6.69 |
+|   35 | Ankur Dave          |  14.8 |        51 |        +0.19 |         +6.88 |
 |   36 | Shai Vardi          |  14.5 |         4 |              |               |
 |   37 | Diego Butrich       |  14.1 |         5 |              |               |
 |   38 | Nikhil Paranjape    |  13.0 |        26 |        +0.36 |               |

@@ -256,7 +256,7 @@ Generated 2016-10-12.
 |  252 | Jan Strasky               |  16.2 |        12 |              |               |
 |  253 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  254 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  255 | Terry Chang               |  16.0 |        45 |              |         +2.38 |
+|  255 | Terry Chang               |  15.9 |        46 |        -0.15 |         +2.23 |
 |  256 | Louis Russell             |  15.8 |        20 |              |               |
 |  257 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  258 | Jared Nunn                |  15.7 |         5 |              |               |
@@ -279,10 +279,10 @@ Generated 2016-10-12.
 |  275 | Alex Marqusee             |  14.9 |        28 |              |               |
 |  276 | Paul Norberg              |  14.8 |         8 |              |               |
 |  277 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  278 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  279 | David Elfant              |  14.7 |         2 |              |               |
-|  280 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  281 | Ankur Dave                |  14.6 |        50 |              |         +6.69 |
+|  278 | Ankur Dave                |  14.8 |        51 |        +0.19 |         +6.88 |
+|  279 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  280 | David Elfant              |  14.7 |         2 |              |               |
+|  281 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  282 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  283 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  284 | Shai Vardi                |  14.5 |         4 |              |               |
