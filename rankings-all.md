@@ -12,13 +12,13 @@ Generated 2016-10-13.
 |    8 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |    9 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   10 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
-|   11 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.70 |
-|   12 | Eric Katerman             |  31.5 |        23 |              |               |
-|   13 | Colin Grant               |  31.5 |         4 |              |               |
+|   11 | Colin Grant               |  32.2 |         5 |        +0.66 |               |
+|   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.70 |
+|   13 | Eric Katerman             |  31.5 |        23 |              |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.3 |       127 |        -0.31 |         +1.11 |
+|   17 | Sam Sternberg             |  30.3 |       127 |        -0.30 |         +1.12 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -41,8 +41,8 @@ Generated 2016-10-13.
 |   37 | Michael Best              |  26.9 |        21 |              |               |
 |   38 | Josh Taylor               |  26.8 |        40 |              |               |
 |   39 | David Hwang               |  26.8 |        44 |              |               |
-|   40 | Nick Cobbett              |  26.5 |        26 |        +0.88 |         +7.28 |
-|   41 | Gary Golding              |  26.5 |         6 |              |               |
+|   40 | Gary Golding              |  26.5 |         6 |              |               |
+|   41 | Nick Cobbett              |  26.5 |        27 |        +0.83 |         +7.22 |
 |   42 | Ethan Kerr                |  26.4 |        12 |              |               |
 |   43 | Amos Vernon               |  26.4 |        30 |              |               |
 |   44 | Andrew Moylan             |  26.3 |        95 |              |               |
@@ -69,7 +69,7 @@ Generated 2016-10-13.
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
 |   66 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   68 | John Kunze                |  24.5 |       302 |        -0.19 |         -0.73 |
+|   68 | John Kunze                |  24.5 |       302 |        -0.21 |         -0.75 |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
 |   71 | Jon Shih                  |  24.4 |        47 |              |               |
