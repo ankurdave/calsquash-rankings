@@ -1,4 +1,4 @@
-Generated 2016-10-12.
+Generated 2016-10-13.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -15,16 +15,16 @@ Generated 2016-10-12.
 |   11 | Dan Meier           |  22.7 |        50 |              |         +1.49 |
 |   12 | Reid Johnsen        |  22.0 |        34 |        -0.01 |         +7.48 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
-|   14 | Jonathan Hankar     |  21.5 |       185 |        -0.05 |         -0.93 |
+|   14 | Jonathan Hankar     |  21.6 |       185 |        -0.02 |         -0.90 |
 |   15 | Mark Modera         |  21.1 |       310 |        +0.24 |         -0.75 |
-|   16 | Robert Schwartz     |  20.8 |        78 |        +0.07 |         -1.03 |
-|   17 | Jared Bard          |  20.8 |        33 |        -0.13 |         +1.89 |
-|   18 | Robert Isaac        |  20.4 |        11 |        +0.47 |               |
+|   16 | Robert Isaac        |  21.0 |        12 |        +1.10 |               |
+|   17 | Robert Schwartz     |  20.8 |        78 |        +0.07 |         -1.03 |
+|   18 | Jared Bard          |  20.8 |        33 |        -0.13 |         +1.89 |
 |   19 | Mike Jensen-Akula   |  20.3 |       218 |        -0.05 |         -1.25 |
-|   20 | Jaime Perez         |  19.9 |        12 |        +0.61 |               |
-|   21 | Jeff Gordon         |  19.9 |        36 |        -0.07 |         +8.48 |
-|   22 | Jonathan Francis    |  19.7 |        69 |        +0.24 |         +0.12 |
-|   23 | Dror Matalon        |  18.9 |       352 |        -0.20 |         +0.83 |
+|   20 | Jeff Gordon         |  19.9 |        36 |        -0.07 |         +8.48 |
+|   21 | Jonathan Francis    |  19.7 |        69 |        +0.24 |         +0.12 |
+|   22 | Jaime Perez         |  19.5 |        13 |        +0.19 |               |
+|   23 | Dror Matalon        |  18.9 |       352 |        -0.21 |         +0.81 |
 |   24 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
 |   25 | Shaun Lim           |  18.2 |        42 |        +0.06 |         +0.29 |
 |   26 | Josh Trauner        |  17.8 |        36 |        +0.04 |               |

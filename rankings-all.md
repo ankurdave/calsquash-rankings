@@ -1,4 +1,4 @@
-Generated 2016-10-12.
+Generated 2016-10-13.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -131,7 +131,7 @@ Generated 2016-10-12.
 |  127 | Omair Azam                |  21.7 |        18 |              |               |
 |  128 | Phin Lee                  |  21.7 |        16 |              |               |
 |  129 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  130 | Jonathan Hankar           |  21.5 |       185 |        -0.05 |         -0.93 |
+|  130 | Jonathan Hankar           |  21.6 |       185 |        -0.02 |         -0.90 |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
 |  132 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  133 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -143,22 +143,22 @@ Generated 2016-10-12.
 |  139 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  140 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  141 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  142 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  143 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  144 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  145 | Robert Schwartz           |  20.8 |        78 |        +0.07 |         -1.03 |
-|  146 | Jared Bard                |  20.8 |        33 |        -0.13 |         +1.89 |
-|  147 | Jamie Funk                |  20.8 |        30 |              |               |
-|  148 | Matthew Brett             |  20.7 |        20 |              |               |
-|  149 | Prakash Bathini           |  20.7 |       122 |              |         -0.66 |
-|  150 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  151 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  152 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  153 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  154 | Andrew Green              |  20.5 |        52 |              |               |
-|  155 | Sam McCormick             |  20.5 |        15 |              |        +10.48 |
-|  156 | Steven Sloman             |  20.4 |        10 |              |               |
-|  157 | Robert Isaac              |  20.4 |        11 |        +0.47 |               |
+|  142 | Robert Isaac              |  21.0 |        12 |        +1.10 |               |
+|  143 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  144 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  145 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  146 | Robert Schwartz           |  20.8 |        78 |        +0.07 |         -1.03 |
+|  147 | Jared Bard                |  20.8 |        33 |        -0.13 |         +1.89 |
+|  148 | Jamie Funk                |  20.8 |        30 |              |               |
+|  149 | Matthew Brett             |  20.7 |        20 |              |               |
+|  150 | Prakash Bathini           |  20.7 |       122 |              |         -0.66 |
+|  151 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  152 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  153 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  154 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  155 | Andrew Green              |  20.5 |        52 |              |               |
+|  156 | Sam McCormick             |  20.5 |        15 |              |        +10.48 |
+|  157 | Steven Sloman             |  20.4 |        10 |              |               |
 |  158 | Mike Jensen-Akula         |  20.3 |       218 |        -0.05 |         -1.25 |
 |  159 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  160 | Carl Schreck              |  20.2 |         2 |              |               |
@@ -168,18 +168,18 @@ Generated 2016-10-12.
 |  164 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  165 | Wesley Huang              |  20.0 |         8 |              |               |
 |  166 | Jaime Vidal               |  19.9 |         8 |              |         +3.26 |
-|  167 | Jaime Perez               |  19.9 |        12 |        +0.61 |               |
-|  168 | Jeff Gordon               |  19.9 |        36 |        -0.07 |         +8.48 |
-|  169 | Liam King                 |  19.9 |         6 |              |               |
-|  170 | Lysander Jim              |  19.8 |         6 |              |               |
-|  171 | Jonathan Francis          |  19.7 |        69 |        +0.24 |         +0.12 |
-|  172 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  173 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  174 | Mike Delanty              |  19.7 |        12 |              |               |
-|  175 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  176 | Andrew Proudfoot          |  19.6 |        26 |              |         +1.88 |
-|  177 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  178 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  167 | Jeff Gordon               |  19.9 |        36 |        -0.07 |         +8.48 |
+|  168 | Liam King                 |  19.9 |         6 |              |               |
+|  169 | Lysander Jim              |  19.8 |         6 |              |               |
+|  170 | Jonathan Francis          |  19.7 |        69 |        +0.24 |         +0.12 |
+|  171 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  172 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  173 | Mike Delanty              |  19.7 |        12 |              |               |
+|  174 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  175 | Andrew Proudfoot          |  19.6 |        26 |              |         +1.88 |
+|  176 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  177 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  178 | Jaime Perez               |  19.5 |        13 |        +0.19 |               |
 |  179 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  180 | Greg Adams                |  19.3 |        10 |              |               |
 |  181 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
@@ -190,8 +190,8 @@ Generated 2016-10-12.
 |  186 | Yating Liu                |  19.0 |         7 |              |               |
 |  187 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  188 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  189 | Dror Matalon              |  18.9 |       352 |        -0.20 |         +0.83 |
-|  190 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  189 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  190 | Dror Matalon              |  18.9 |       352 |        -0.21 |         +0.81 |
 |  191 | Kenny Bell                |  18.8 |       120 |        -0.24 |         +0.72 |
 |  192 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  193 | Arbi Vartan               |  18.7 |        20 |              |               |
