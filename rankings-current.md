@@ -1,4 +1,4 @@
-Generated 2016-10-11.
+Generated 2016-10-12.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -41,9 +41,9 @@ Generated 2016-10-11.
 |   37 | Diego Butrich       |  14.1 |         5 |              |               |
 |   38 | Nikhil Paranjape    |  13.0 |        26 |        +0.36 |               |
 |   39 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
-|   40 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
-|   41 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
-|   42 | Sahar Sareminaeni   |  10.4 |         5 |        +2.48 |               |
+|   40 | Sahar Sareminaeni   |  11.6 |         6 |        +3.68 |               |
+|   41 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
+|   42 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
 |   43 | Josh Lebowitz       |   9.8 |        27 |        +0.27 |               |
 |   44 | Nate Aden           |   9.6 |        21 |        +0.25 |               |
 |   45 | Brian Kempenich     |   8.5 |        38 |        -0.16 |         -0.68 |
@@ -52,7 +52,7 @@ Generated 2016-10-11.
 |   48 | Ryan Akers          |   7.7 |         2 |              |               |
 |   49 | Keaton Noon         |   6.1 |        19 |              |               |
 |   50 | Alok Singh          |   5.4 |        14 |        -0.45 |               |
-|   51 | Jose Lara           |   5.0 |         6 |              |               |
+|   51 | Jose Lara           |   4.8 |         7 |        -0.18 |               |
 |   52 | Zsolt Bartha        |   4.6 |        44 |              |         +1.77 |
 |   53 | Meldan Heaslip      |   4.2 |         4 |              |               |
 |   54 | Sameer Bajaj        |   2.7 |         3 |              |               |

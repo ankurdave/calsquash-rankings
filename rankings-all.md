@@ -1,4 +1,4 @@
-Generated 2016-10-11.
+Generated 2016-10-12.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -330,20 +330,20 @@ Generated 2016-10-11.
 |  326 | James Shinn               |  11.7 |       120 |              |               |
 |  327 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  328 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  329 | David Appelfeld           |  11.6 |        26 |              |               |
-|  330 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  331 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  332 | Carlos Filho              |  11.4 |         7 |              |               |
-|  333 | Karan Jain                |  11.3 |        19 |              |               |
-|  334 | Lucas Siow                |  11.0 |        10 |              |               |
-|  335 | Dominick Ng               |  10.9 |        25 |              |               |
-|  336 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  337 | Daniel Schwartz           |  10.7 |        20 |        +0.64 |               |
-|  338 | George Bentley            |  10.6 |         4 |              |               |
-|  339 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  340 | Reto Sutter               |  10.5 |        47 |              |         +0.17 |
-|  341 | Brian Puglise             |  10.4 |         2 |              |               |
-|  342 | Sahar Sareminaeni         |  10.4 |         5 |        +2.48 |               |
+|  329 | Sahar Sareminaeni         |  11.6 |         6 |        +3.68 |               |
+|  330 | David Appelfeld           |  11.6 |        26 |              |               |
+|  331 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  332 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
+|  333 | Carlos Filho              |  11.4 |         7 |              |               |
+|  334 | Karan Jain                |  11.3 |        19 |              |               |
+|  335 | Lucas Siow                |  11.0 |        10 |              |               |
+|  336 | Dominick Ng               |  10.9 |        25 |              |               |
+|  337 | Rodrigo Calmet            |  10.8 |         5 |              |               |
+|  338 | Daniel Schwartz           |  10.7 |        20 |        +0.64 |               |
+|  339 | George Bentley            |  10.6 |         4 |              |               |
+|  340 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  341 | Reto Sutter               |  10.5 |        47 |              |         +0.17 |
+|  342 | Brian Puglise             |  10.4 |         2 |              |               |
 |  343 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  344 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  345 | John Provine              |  10.2 |        16 |              |               |
@@ -423,7 +423,7 @@ Generated 2016-10-11.
 |  419 | Ali Umar                  |   5.2 |        13 |              |               |
 |  420 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  421 | Nikhil Srivastava         |   5.0 |        16 |              |         +6.01 |
-|  422 | Jose Lara                 |   5.0 |         6 |              |               |
+|  422 | Jose Lara                 |   4.8 |         7 |        -0.18 |               |
 |  423 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  424 | Zsolt Bartha              |   4.6 |        44 |              |         +1.77 |
 |  425 | Meldan Heaslip            |   4.2 |         4 |              |               |
