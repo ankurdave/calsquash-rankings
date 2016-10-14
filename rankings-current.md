@@ -26,7 +26,7 @@ Generated 2016-10-14.
 |   22 | Jaime Perez         |  19.5 |        13 |        +0.18 |               |
 |   23 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
 |   24 | Dror Matalon        |  18.7 |       353 |        -0.35 |         +0.67 |
-|   25 | Shaun Lim           |  18.2 |        42 |        +0.06 |         +0.29 |
+|   25 | Shaun Lim           |  18.2 |        42 |        +0.07 |         +0.29 |
 |   26 | Josh Trauner        |  17.8 |        36 |        +0.04 |               |
 |   27 | Eric Borden         |  17.6 |        32 |              |         +3.22 |
 |   28 | Troup Howard        |  17.4 |        38 |              |         -0.29 |
@@ -34,8 +34,8 @@ Generated 2016-10-14.
 |   30 | Chris Flores        |  16.8 |       301 |              |         -1.99 |
 |   31 | David Bratt         |  16.4 |        16 |              |         +0.33 |
 |   32 | Terry Chang         |  15.9 |        46 |        -0.15 |         +2.23 |
-|   33 | Kent Daniels        |  15.4 |        88 |              |         +0.67 |
-|   34 | Vishal Jain         |  15.3 |         1 |              |               |
+|   33 | Vishal Jain         |  15.3 |         1 |              |               |
+|   34 | Kent Daniels        |  15.2 |        89 |        -0.19 |         +0.47 |
 |   35 | Ankur Dave          |  14.8 |        51 |        +0.19 |         +6.88 |
 |   36 | Shai Vardi          |  14.5 |         4 |              |               |
 |   37 | Diego Butrich       |  14.1 |         5 |              |               |
@@ -44,7 +44,7 @@ Generated 2016-10-14.
 |   40 | Sahar Sareminaeni   |  12.1 |         7 |        +4.20 |               |
 |   41 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
 |   42 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
-|   43 | Josh Lebowitz       |   9.8 |        27 |        +0.26 |               |
+|   43 | Josh Lebowitz       |  10.2 |        28 |        +0.68 |               |
 |   44 | Nate Aden           |   9.7 |        22 |        +0.34 |               |
 |   45 | Brian Kempenich     |   8.5 |        39 |        -0.12 |         -0.64 |
 |   46 | Duo Wang            |   8.3 |        63 |        -0.13 |         -0.02 |
@@ -56,7 +56,7 @@ Generated 2016-10-14.
 |   52 | Jose Lara           |   4.8 |         7 |        -0.23 |               |
 |   53 | Zsolt Bartha        |   4.5 |        45 |        -0.08 |         +1.69 |
 |   54 | Sameer Bajaj        |   2.7 |         3 |              |               |
-|   55 | Anuj Dawar          |   2.7 |         7 |        +0.17 |               |
+|   55 | Anuj Dawar          |   2.7 |         7 |        +0.21 |               |
 |   56 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
 |   57 | Craig Hollow        |   1.0 |         1 |              |               |
 |   58 | Duncan MacRae       |  -6.1 |         5 |        -0.51 |               |

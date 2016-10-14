@@ -208,7 +208,7 @@ Generated 2016-10-14.
 |  204 | John Eng                  |  18.4 |        28 |              |               |
 |  205 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  206 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  207 | Shaun Lim                 |  18.2 |        42 |        +0.06 |         +0.29 |
+|  207 | Shaun Lim                 |  18.2 |        42 |        +0.07 |         +0.29 |
 |  208 | Bob Roller                |  18.2 |         6 |              |               |
 |  209 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  210 | James Chung               |  17.9 |         7 |              |               |
@@ -266,9 +266,9 @@ Generated 2016-10-14.
 |  262 | Toni Queck                |  15.5 |        20 |              |               |
 |  263 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  264 | Peter Duerr               |  15.4 |        24 |              |               |
-|  265 | Kent Daniels              |  15.4 |        88 |              |         +0.67 |
-|  266 | Vishal Jain               |  15.3 |         1 |              |               |
-|  267 | Kevin Fox                 |  15.3 |         7 |              |               |
+|  265 | Vishal Jain               |  15.3 |         1 |              |               |
+|  266 | Kevin Fox                 |  15.3 |         7 |              |               |
+|  267 | Kent Daniels              |  15.2 |        89 |        -0.19 |         +0.47 |
 |  268 | Jim Evans                 |  15.1 |       216 |              |               |
 |  269 | Dennis Chan               |  15.1 |         1 |              |               |
 |  270 | Allie Giovanelli          |  15.0 |         4 |              |               |
@@ -347,13 +347,13 @@ Generated 2016-10-14.
 |  343 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  344 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  345 | John Provine              |  10.2 |        16 |              |               |
-|  346 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  347 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  348 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  349 | Sung-Jin Oh               |  10.1 |         6 |              |         +7.89 |
-|  350 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  351 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  352 | Josh Lebowitz             |   9.8 |        27 |        +0.26 |               |
+|  346 | Josh Lebowitz             |  10.2 |        28 |        +0.68 |               |
+|  347 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  348 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  349 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  350 | Sung-Jin Oh               |  10.1 |         6 |              |         +7.89 |
+|  351 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  352 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  353 | Myles Gordon              |   9.8 |        42 |              |         -0.52 |
 |  354 | Jacob Bank                |   9.7 |         1 |              |               |
 |  355 | Nate Aden                 |   9.7 |        22 |        +0.34 |               |
@@ -436,7 +436,7 @@ Generated 2016-10-14.
 |  432 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  433 | Sameer Bajaj              |   2.7 |         3 |              |               |
 |  434 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  435 | Anuj Dawar                |   2.7 |         7 |        +0.17 |               |
+|  435 | Anuj Dawar                |   2.7 |         7 |        +0.21 |               |
 |  436 | David Vogel               |   2.6 |         7 |              |               |
 |  437 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  438 | Cristhian Daniel          |   2.4 |        13 |        +2.34 |               |
