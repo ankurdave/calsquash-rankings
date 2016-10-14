@@ -240,14 +240,14 @@ Generated 2016-10-14.
 |  236 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  237 | Baxter Leman              |  16.9 |         6 |              |               |
 |  238 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  239 | Chris Flores              |  16.8 |       301 |              |         -1.99 |
-|  240 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  241 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  242 | David Shabelman           |  16.7 |        30 |              |               |
-|  243 | Mark Priven               |  16.6 |        72 |              |               |
-|  244 | William Coleman           |  16.5 |        48 |              |               |
-|  245 | Mike Troxell              |  16.5 |         8 |              |               |
-|  246 | David Bratt               |  16.4 |        16 |              |         +0.33 |
+|  239 | David Bratt               |  16.9 |        17 |        +0.45 |         +0.78 |
+|  240 | Chris Flores              |  16.8 |       301 |              |         -1.99 |
+|  241 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  242 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  243 | David Shabelman           |  16.7 |        30 |              |               |
+|  244 | Mark Priven               |  16.6 |        72 |              |               |
+|  245 | William Coleman           |  16.5 |        48 |              |               |
+|  246 | Mike Troxell              |  16.5 |         8 |              |               |
 |  247 | Danish Mir                |  16.4 |         1 |              |               |
 |  248 | Paul Chang                |  16.3 |         7 |              |               |
 |  249 | Steven Hahm               |  16.3 |         5 |              |               |
@@ -256,7 +256,7 @@ Generated 2016-10-14.
 |  252 | Jan Strasky               |  16.2 |        12 |              |               |
 |  253 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  254 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  255 | Terry Chang               |  15.9 |        46 |        -0.15 |         +2.23 |
+|  255 | Terry Chang               |  15.8 |        47 |        -0.21 |         +2.17 |
 |  256 | Louis Russell             |  15.8 |        20 |              |               |
 |  257 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  258 | Jared Nunn                |  15.7 |         5 |              |               |
@@ -279,7 +279,7 @@ Generated 2016-10-14.
 |  275 | Alex Marqusee             |  14.9 |        28 |              |               |
 |  276 | Paul Norberg              |  14.8 |         8 |              |               |
 |  277 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  278 | Ankur Dave                |  14.8 |        51 |        +0.19 |         +6.88 |
+|  278 | Ankur Dave                |  14.8 |        51 |        +0.19 |         +6.87 |
 |  279 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  280 | David Elfant              |  14.7 |         2 |              |               |
 |  281 | Ansul Rajgha              |  14.7 |        15 |              |               |

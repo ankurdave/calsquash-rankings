@@ -31,12 +31,12 @@ Generated 2016-10-14.
 |   27 | Eric Borden         |  17.6 |        32 |              |         +3.22 |
 |   28 | Troup Howard        |  17.4 |        38 |              |         -0.29 |
 |   29 | Wayne Heiser        |  17.1 |        30 |              |               |
-|   30 | Chris Flores        |  16.8 |       301 |              |         -1.99 |
-|   31 | David Bratt         |  16.4 |        16 |              |         +0.33 |
-|   32 | Terry Chang         |  15.9 |        46 |        -0.15 |         +2.23 |
+|   30 | David Bratt         |  16.9 |        17 |        +0.45 |         +0.78 |
+|   31 | Chris Flores        |  16.8 |       301 |              |         -1.99 |
+|   32 | Terry Chang         |  15.8 |        47 |        -0.21 |         +2.17 |
 |   33 | Vishal Jain         |  15.3 |         1 |              |               |
 |   34 | Kent Daniels        |  15.2 |        89 |        -0.19 |         +0.47 |
-|   35 | Ankur Dave          |  14.8 |        51 |        +0.19 |         +6.88 |
+|   35 | Ankur Dave          |  14.8 |        51 |        +0.19 |         +6.87 |
 |   36 | Shai Vardi          |  14.5 |         4 |              |               |
 |   37 | Diego Butrich       |  14.1 |         5 |              |               |
 |   38 | Nikhil Paranjape    |  13.0 |        26 |        +0.36 |               |
