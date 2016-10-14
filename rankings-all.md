@@ -1,4 +1,4 @@
-Generated 2016-10-13.
+Generated 2016-10-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -94,8 +94,8 @@ Generated 2016-10-13.
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
 |   92 | Garvin Heath              |  23.4 |        28 |              |               |
-|   93 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.42 |
-|   94 | Dan Bohn                  |  23.2 |        77 |              |         -0.52 |
+|   93 | Dan Bohn                  |  23.3 |        78 |        +0.13 |         -0.39 |
+|   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.42 |
 |   95 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   96 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   97 | Joe Farrell               |  23.0 |        30 |              |               |
@@ -179,7 +179,7 @@ Generated 2016-10-13.
 |  175 | Andrew Proudfoot          |  19.6 |        26 |              |         +1.88 |
 |  176 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  177 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  178 | Jaime Perez               |  19.5 |        13 |        +0.19 |               |
+|  178 | Jaime Perez               |  19.5 |        13 |        +0.18 |               |
 |  179 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  180 | Greg Adams                |  19.3 |        10 |              |               |
 |  181 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
@@ -191,10 +191,10 @@ Generated 2016-10-13.
 |  187 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  188 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  189 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  190 | Dror Matalon              |  18.9 |       352 |        -0.21 |         +0.81 |
-|  191 | Kenny Bell                |  18.8 |       120 |        -0.24 |         +0.72 |
-|  192 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  193 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  190 | Kenny Bell                |  18.8 |       120 |        -0.24 |         +0.72 |
+|  191 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  192 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  193 | Dror Matalon              |  18.7 |       353 |        -0.35 |         +0.67 |
 |  194 | Peter Dering              |  18.7 |         9 |              |               |
 |  195 | Sushant Jain              |  18.7 |        12 |              |               |
 |  196 | Guillaume Egles           |  18.6 |        11 |              |               |
