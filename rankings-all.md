@@ -101,9 +101,9 @@ Generated 2016-10-13.
 |   97 | Joe Farrell               |  23.0 |        30 |              |               |
 |   98 | Matt Wild                 |  23.0 |        25 |              |         -0.36 |
 |   99 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  100 | Matt Wong                 |  22.8 |        74 |        +0.16 |         +1.85 |
-|  101 | Andrew Pritchard          |  22.7 |        16 |              |        +18.45 |
-|  102 | Dan Meier                 |  22.7 |        50 |              |         +1.49 |
+|  100 | Dan Meier                 |  22.9 |        51 |        +0.16 |         +1.65 |
+|  101 | Matt Wong                 |  22.8 |        74 |        +0.15 |         +1.84 |
+|  102 | Andrew Pritchard          |  22.7 |        16 |              |        +18.45 |
 |  103 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  104 | Julian Marshall           |  22.7 |        31 |              |               |
 |  105 | Gautam Tankha             |  22.6 |         7 |              |               |
@@ -120,10 +120,10 @@ Generated 2016-10-13.
 |  116 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  117 | Nacho Quaglio             |  22.0 |         3 |              |               |
 |  118 | Blake Woodard             |  22.0 |        10 |              |               |
-|  119 | Reid Johnsen              |  22.0 |        34 |        -0.01 |         +7.48 |
-|  120 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  121 | Andrew Lawrie             |  22.0 |        46 |              |         +0.96 |
-|  122 | Jan Beranek               |  21.9 |        46 |              |               |
+|  119 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  120 | Andrew Lawrie             |  22.0 |        46 |              |         +0.96 |
+|  121 | Jan Beranek               |  21.9 |        46 |              |               |
+|  122 | Reid Johnsen              |  21.8 |        35 |        -0.14 |         +7.36 |
 |  123 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  124 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  125 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
