@@ -321,16 +321,16 @@ Generated 2016-10-14.
 |  317 | Jennifer Rha              |  12.3 |        17 |              |         +0.90 |
 |  318 | John Givens               |  12.2 |        13 |              |               |
 |  319 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  320 | Reed Foster               |  12.1 |         8 |              |               |
-|  321 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  322 | Larry Dale                |  11.9 |        29 |              |               |
-|  323 | Aman Gupta                |  11.8 |         3 |              |               |
-|  324 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  325 | Julian Gill               |  11.8 |         1 |              |               |
-|  326 | James Shinn               |  11.7 |       120 |              |               |
-|  327 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  328 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  329 | Sahar Sareminaeni         |  11.6 |         6 |        +3.68 |               |
+|  320 | Sahar Sareminaeni         |  12.1 |         7 |        +4.20 |               |
+|  321 | Reed Foster               |  12.1 |         8 |              |               |
+|  322 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  323 | Larry Dale                |  11.9 |        29 |              |               |
+|  324 | Aman Gupta                |  11.8 |         3 |              |               |
+|  325 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  326 | Julian Gill               |  11.8 |         1 |              |               |
+|  327 | James Shinn               |  11.7 |       120 |              |               |
+|  328 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  329 | Min Joon Seo              |  11.6 |         3 |              |               |
 |  330 | David Appelfeld           |  11.6 |        26 |              |               |
 |  331 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  332 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
@@ -382,9 +382,9 @@ Generated 2016-10-14.
 |  378 | Reynold Xin               |   8.3 |         5 |              |               |
 |  379 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  380 | Duo Wang                  |   8.3 |        63 |        -0.13 |         -0.02 |
-|  381 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  382 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  383 | Raphael Magarik           |   8.2 |        12 |        -0.85 |               |
+|  381 | Raphael Magarik           |   8.3 |        12 |        -0.79 |               |
+|  382 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  383 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  384 | Phil Hartmeyer            |   8.2 |         3 |              |               |
 |  385 | John Coates               |   8.1 |         9 |              |               |
 |  386 | Vito Sciaraffia           |   8.1 |         5 |              |               |
@@ -424,9 +424,9 @@ Generated 2016-10-14.
 |  420 | Ali Umar                  |   5.2 |        13 |              |               |
 |  421 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  422 | Nikhil Srivastava         |   5.0 |        16 |              |         +6.01 |
-|  423 | Jose Lara                 |   4.8 |         7 |        -0.18 |               |
+|  423 | Jose Lara                 |   4.8 |         7 |        -0.23 |               |
 |  424 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  425 | Zsolt Bartha              |   4.6 |        44 |              |         +1.77 |
+|  425 | Zsolt Bartha              |   4.5 |        45 |        -0.08 |         +1.69 |
 |  426 | Annie Wong                |   4.0 |         3 |              |               |
 |  427 | Ryan                      |   4.0 |         3 |              |               |
 |  428 | Mateo Aceves              |   3.8 |         4 |              |               |

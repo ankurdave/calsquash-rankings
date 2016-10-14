@@ -41,20 +41,20 @@ Generated 2016-10-14.
 |   37 | Diego Butrich       |  14.1 |         5 |              |               |
 |   38 | Nikhil Paranjape    |  13.0 |        26 |        +0.36 |               |
 |   39 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
-|   40 | Sahar Sareminaeni   |  11.6 |         6 |        +3.68 |               |
+|   40 | Sahar Sareminaeni   |  12.1 |         7 |        +4.20 |               |
 |   41 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
 |   42 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
 |   43 | Josh Lebowitz       |   9.8 |        27 |        +0.26 |               |
 |   44 | Nate Aden           |   9.7 |        22 |        +0.34 |               |
 |   45 | Brian Kempenich     |   8.5 |        39 |        -0.12 |         -0.64 |
 |   46 | Duo Wang            |   8.3 |        63 |        -0.13 |         -0.02 |
-|   47 | Raphael Magarik     |   8.2 |        12 |        -0.85 |               |
+|   47 | Raphael Magarik     |   8.3 |        12 |        -0.79 |               |
 |   48 | Ryan Akers          |   7.7 |         2 |              |               |
 |   49 | Keaton Noon         |   6.1 |        19 |              |               |
 |   50 | Meldan Heaslip      |   5.9 |         5 |        +1.72 |               |
 |   51 | Alok Singh          |   5.4 |        14 |        -0.45 |               |
-|   52 | Jose Lara           |   4.8 |         7 |        -0.18 |               |
-|   53 | Zsolt Bartha        |   4.6 |        44 |              |         +1.77 |
+|   52 | Jose Lara           |   4.8 |         7 |        -0.23 |               |
+|   53 | Zsolt Bartha        |   4.5 |        45 |        -0.08 |         +1.69 |
 |   54 | Sameer Bajaj        |   2.7 |         3 |              |               |
 |   55 | Anuj Dawar          |   2.7 |         7 |        +0.17 |               |
 |   56 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
