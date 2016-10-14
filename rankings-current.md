@@ -16,12 +16,12 @@ Generated 2016-10-14.
 |   12 | Reid Johnsen        |  21.8 |        35 |        -0.14 |         +7.36 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
 |   14 | Jonathan Hankar     |  21.6 |       185 |        -0.02 |         -0.90 |
-|   15 | Mark Modera         |  21.1 |       310 |        +0.24 |         -0.75 |
+|   15 | Mark Modera         |  21.2 |       311 |        +0.34 |         -0.65 |
 |   16 | Robert Isaac        |  21.0 |        12 |        +1.10 |               |
 |   17 | Robert Schwartz     |  20.8 |        78 |        +0.07 |         -1.03 |
 |   18 | Jared Bard          |  20.8 |        33 |        -0.13 |         +1.89 |
 |   19 | Mike Jensen-Akula   |  20.3 |       218 |        -0.05 |         -1.25 |
-|   20 | Jeff Gordon         |  19.9 |        36 |        -0.07 |         +8.48 |
+|   20 | Jeff Gordon         |  19.9 |        36 |        -0.07 |         +8.49 |
 |   21 | Jonathan Francis    |  19.7 |        69 |        +0.24 |         +0.12 |
 |   22 | Jaime Perez         |  19.5 |        13 |        +0.18 |               |
 |   23 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
@@ -58,4 +58,5 @@ Generated 2016-10-14.
 |   54 | Sameer Bajaj        |   2.7 |         3 |              |               |
 |   55 | Anuj Dawar          |   2.7 |         7 |        +0.17 |               |
 |   56 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
-|   57 | Duncan MacRae       |  -6.1 |         5 |        -0.51 |               |
+|   57 | Craig Hollow        |   1.0 |         1 |              |               |
+|   58 | Duncan MacRae       |  -6.1 |         5 |        -0.51 |               |
