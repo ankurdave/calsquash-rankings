@@ -44,18 +44,18 @@ Generated 2016-10-13.
 |   40 | Sahar Sareminaeni   |  11.6 |         6 |        +3.68 |               |
 |   41 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
 |   42 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
-|   43 | Josh Lebowitz       |   9.8 |        27 |        +0.27 |               |
+|   43 | Josh Lebowitz       |   9.8 |        27 |        +0.26 |               |
 |   44 | Nate Aden           |   9.6 |        21 |        +0.25 |               |
 |   45 | Brian Kempenich     |   8.5 |        38 |        -0.16 |         -0.68 |
 |   46 | Duo Wang            |   8.3 |        63 |        -0.14 |         -0.03 |
 |   47 | Raphael Magarik     |   8.2 |        12 |        -0.85 |               |
 |   48 | Ryan Akers          |   7.7 |         2 |              |               |
 |   49 | Keaton Noon         |   6.1 |        19 |              |               |
-|   50 | Alok Singh          |   5.4 |        14 |        -0.45 |               |
-|   51 | Jose Lara           |   4.8 |         7 |        -0.18 |               |
-|   52 | Zsolt Bartha        |   4.6 |        44 |              |         +1.77 |
-|   53 | Meldan Heaslip      |   4.2 |         4 |              |               |
+|   50 | Meldan Heaslip      |   5.9 |         5 |        +1.72 |               |
+|   51 | Alok Singh          |   5.4 |        14 |        -0.45 |               |
+|   52 | Jose Lara           |   4.8 |         7 |        -0.18 |               |
+|   53 | Zsolt Bartha        |   4.6 |        44 |              |         +1.77 |
 |   54 | Sameer Bajaj        |   2.7 |         3 |              |               |
-|   55 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
-|   56 | Anuj Dawar          |   1.8 |         6 |        -0.67 |               |
+|   55 | Anuj Dawar          |   2.7 |         7 |        +0.17 |               |
+|   56 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
 |   57 | Duncan MacRae       |  -6.1 |         5 |        -0.51 |               |

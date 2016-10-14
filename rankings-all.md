@@ -353,7 +353,7 @@ Generated 2016-10-13.
 |  349 | Sung-Jin Oh               |  10.1 |         6 |              |         +7.89 |
 |  350 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  351 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  352 | Josh Lebowitz             |   9.8 |        27 |        +0.27 |               |
+|  352 | Josh Lebowitz             |   9.8 |        27 |        +0.26 |               |
 |  353 | Myles Gordon              |   9.8 |        42 |              |         -0.52 |
 |  354 | Jacob Bank                |   9.7 |         1 |              |               |
 |  355 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
@@ -412,21 +412,21 @@ Generated 2016-10-13.
 |  408 | Keaton Noon               |   6.1 |        19 |              |               |
 |  409 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  410 | Rohan Relan               |   6.0 |         4 |              |               |
-|  411 | David Zhu                 |   5.8 |         2 |              |               |
-|  412 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  413 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  414 | Manu Vaish                |   5.5 |         1 |              |               |
-|  415 | Alok Singh                |   5.4 |        14 |        -0.45 |               |
-|  416 | Emily Moylan              |   5.2 |        17 |              |               |
-|  417 | Mohammad Salama           |   5.2 |         5 |              |         +1.20 |
-|  418 | Catherine Wang            |   5.2 |        10 |              |               |
-|  419 | Ali Umar                  |   5.2 |        13 |              |               |
-|  420 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  421 | Nikhil Srivastava         |   5.0 |        16 |              |         +6.01 |
-|  422 | Jose Lara                 |   4.8 |         7 |        -0.18 |               |
-|  423 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  424 | Zsolt Bartha              |   4.6 |        44 |              |         +1.77 |
-|  425 | Meldan Heaslip            |   4.2 |         4 |              |               |
+|  411 | Meldan Heaslip            |   5.9 |         5 |        +1.72 |               |
+|  412 | David Zhu                 |   5.8 |         2 |              |               |
+|  413 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  414 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  415 | Manu Vaish                |   5.5 |         1 |              |               |
+|  416 | Alok Singh                |   5.4 |        14 |        -0.45 |               |
+|  417 | Emily Moylan              |   5.2 |        17 |              |               |
+|  418 | Mohammad Salama           |   5.2 |         5 |              |         +1.20 |
+|  419 | Catherine Wang            |   5.2 |        10 |              |               |
+|  420 | Ali Umar                  |   5.2 |        13 |              |               |
+|  421 | Martin Rasmussen          |   5.2 |         6 |              |               |
+|  422 | Nikhil Srivastava         |   5.0 |        16 |              |         +6.01 |
+|  423 | Jose Lara                 |   4.8 |         7 |        -0.18 |               |
+|  424 | Tammy J Faridi            |   4.7 |        27 |              |               |
+|  425 | Zsolt Bartha              |   4.6 |        44 |              |         +1.77 |
 |  426 | Annie Wong                |   4.0 |         3 |              |               |
 |  427 | Ryan                      |   4.0 |         3 |              |               |
 |  428 | Mateo Aceves              |   3.8 |         4 |              |               |
@@ -436,14 +436,14 @@ Generated 2016-10-13.
 |  432 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  433 | Sameer Bajaj              |   2.7 |         3 |              |               |
 |  434 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  435 | David Vogel               |   2.6 |         7 |              |               |
-|  436 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  437 | Cristhian Daniel          |   2.4 |        13 |        +2.34 |               |
-|  438 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  439 | Phil Lin                  |   2.1 |         1 |              |               |
-|  440 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  441 | Adeesh Goel               |   1.9 |         3 |              |               |
-|  442 | Anuj Dawar                |   1.8 |         6 |        -0.67 |               |
+|  435 | Anuj Dawar                |   2.7 |         7 |        +0.17 |               |
+|  436 | David Vogel               |   2.6 |         7 |              |               |
+|  437 | Xavier Vendrell           |   2.5 |         3 |              |               |
+|  438 | Cristhian Daniel          |   2.4 |        13 |        +2.34 |               |
+|  439 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  440 | Phil Lin                  |   2.1 |         1 |              |               |
+|  441 | Alexis Madrigal           |   2.1 |         2 |              |               |
+|  442 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  443 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  444 | Himanshu Chandra          |   1.8 |         4 |              |               |
 |  445 | David Gundry              |   1.7 |         3 |              |               |
