@@ -356,8 +356,8 @@ Generated 2016-10-14.
 |  352 | Josh Lebowitz             |   9.8 |        27 |        +0.26 |               |
 |  353 | Myles Gordon              |   9.8 |        42 |              |         -0.52 |
 |  354 | Jacob Bank                |   9.7 |         1 |              |               |
-|  355 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
-|  356 | Nate Aden                 |   9.6 |        21 |        +0.25 |               |
+|  355 | Nate Aden                 |   9.7 |        22 |        +0.34 |               |
+|  356 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
 |  357 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  358 | Mark Shapero              |   9.4 |         7 |              |               |
 |  359 | Kevin Pollock             |   9.4 |        28 |              |               |
@@ -378,10 +378,10 @@ Generated 2016-10-14.
 |  374 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  375 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  376 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  377 | Brian Kempenich           |   8.5 |        38 |        -0.16 |         -0.68 |
+|  377 | Brian Kempenich           |   8.5 |        39 |        -0.12 |         -0.64 |
 |  378 | Reynold Xin               |   8.3 |         5 |              |               |
 |  379 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  380 | Duo Wang                  |   8.3 |        63 |        -0.14 |         -0.03 |
+|  380 | Duo Wang                  |   8.3 |        63 |        -0.13 |         -0.02 |
 |  381 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  382 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  383 | Raphael Magarik           |   8.2 |        12 |        -0.85 |               |

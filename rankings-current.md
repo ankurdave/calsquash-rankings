@@ -45,9 +45,9 @@ Generated 2016-10-14.
 |   41 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
 |   42 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
 |   43 | Josh Lebowitz       |   9.8 |        27 |        +0.26 |               |
-|   44 | Nate Aden           |   9.6 |        21 |        +0.25 |               |
-|   45 | Brian Kempenich     |   8.5 |        38 |        -0.16 |         -0.68 |
-|   46 | Duo Wang            |   8.3 |        63 |        -0.14 |         -0.03 |
+|   44 | Nate Aden           |   9.7 |        22 |        +0.34 |               |
+|   45 | Brian Kempenich     |   8.5 |        39 |        -0.12 |         -0.64 |
+|   46 | Duo Wang            |   8.3 |        63 |        -0.13 |         -0.02 |
 |   47 | Raphael Magarik     |   8.2 |        12 |        -0.85 |               |
 |   48 | Ryan Akers          |   7.7 |         2 |              |               |
 |   49 | Keaton Noon         |   6.1 |        19 |              |               |
