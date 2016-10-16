@@ -207,8 +207,8 @@ Generated 2016-10-15.
 |  203 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  204 | John Eng                  |  18.4 |        28 |              |               |
 |  205 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  206 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  207 | Shaun Lim                 |  18.2 |        42 |        +0.07 |         +0.29 |
+|  206 | Shaun Lim                 |  18.3 |        43 |        +0.09 |         +0.32 |
+|  207 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  208 | Bob Roller                |  18.2 |         6 |              |               |
 |  209 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  210 | James Chung               |  17.9 |         7 |              |               |
@@ -348,8 +348,8 @@ Generated 2016-10-15.
 |  344 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  345 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  346 | John Provine              |  10.2 |        16 |              |               |
-|  347 | Josh Lebowitz             |  10.2 |        28 |        +0.68 |               |
-|  348 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  347 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  348 | Josh Lebowitz             |  10.2 |        28 |        +0.67 |               |
 |  349 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  350 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  351 | Sung-Jin Oh               |  10.1 |         6 |              |         +7.89 |
@@ -413,7 +413,7 @@ Generated 2016-10-15.
 |  409 | Keaton Noon               |   6.1 |        19 |              |               |
 |  410 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  411 | Rohan Relan               |   6.0 |         4 |              |               |
-|  412 | Meldan Heaslip            |   5.9 |         5 |        +1.72 |               |
+|  412 | Meldan Heaslip            |   5.8 |         5 |        +1.63 |               |
 |  413 | David Zhu                 |   5.8 |         2 |              |               |
 |  414 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  415 | Gwendal Rannou            |   5.6 |        13 |              |               |
@@ -436,8 +436,8 @@ Generated 2016-10-15.
 |  432 | Nadir Shams               |   3.0 |         2 |              |               |
 |  433 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  434 | Sameer Bajaj              |   2.7 |         3 |              |               |
-|  435 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  436 | Anuj Dawar                |   2.7 |         7 |        +0.21 |               |
+|  435 | Anuj Dawar                |   2.7 |         8 |        +0.23 |               |
+|  436 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  437 | David Vogel               |   2.6 |         7 |              |               |
 |  438 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  439 | Cristhian Daniel          |   2.4 |        13 |        +2.34 |               |
