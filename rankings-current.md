@@ -27,12 +27,12 @@ Generated 2016-10-15.
 |   23 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
 |   24 | Dror Matalon        |  18.7 |       353 |        -0.35 |         +0.67 |
 |   25 | Shaun Lim           |  18.3 |        43 |        +0.09 |         +0.32 |
-|   26 | Josh Trauner        |  17.8 |        36 |        +0.04 |               |
+|   26 | Josh Trauner        |  17.9 |        37 |        +0.20 |               |
 |   27 | Eric Borden         |  17.6 |        32 |              |         +3.22 |
 |   28 | Troup Howard        |  17.4 |        38 |              |         -0.29 |
-|   29 | Wayne Heiser        |  17.1 |        30 |              |               |
+|   29 | Wayne Heiser        |  17.0 |        31 |        -0.14 |               |
 |   30 | David Bratt         |  16.9 |        17 |        +0.45 |         +0.78 |
-|   31 | Chris Flores        |  16.7 |       302 |        -0.10 |         -2.08 |
+|   31 | Chris Flores        |  16.7 |       302 |        -0.08 |         -2.07 |
 |   32 | Terry Chang         |  15.8 |        47 |        -0.21 |         +2.17 |
 |   33 | Vishal Jain         |  15.3 |         1 |              |               |
 |   34 | Kent Daniels        |  15.2 |        89 |        -0.19 |         +0.47 |

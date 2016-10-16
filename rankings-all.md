@@ -211,11 +211,11 @@ Generated 2016-10-15.
 |  207 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  208 | Bob Roller                |  18.2 |         6 |              |               |
 |  209 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  210 | James Chung               |  17.9 |         7 |              |               |
-|  211 | Andres Rodriguez          |  17.9 |        55 |              |         +0.78 |
-|  212 | Nick Paget                |  17.8 |        35 |              |               |
-|  213 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  214 | Josh Trauner              |  17.8 |        36 |        +0.04 |               |
+|  210 | Josh Trauner              |  17.9 |        37 |        +0.20 |               |
+|  211 | James Chung               |  17.9 |         7 |              |               |
+|  212 | Andres Rodriguez          |  17.9 |        55 |              |         +0.78 |
+|  213 | Nick Paget                |  17.8 |        35 |              |               |
+|  214 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  215 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  216 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  217 | Eric Borden               |  17.6 |        32 |              |         +3.22 |
@@ -234,15 +234,15 @@ Generated 2016-10-15.
 |  230 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  231 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  232 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  233 | Wayne Heiser              |  17.1 |        30 |              |               |
-|  234 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  235 | Neil Conway               |  17.0 |        55 |              |               |
-|  236 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  233 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  234 | Neil Conway               |  17.0 |        55 |              |               |
+|  235 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  236 | Wayne Heiser              |  17.0 |        31 |        -0.14 |               |
 |  237 | Baxter Leman              |  16.9 |         6 |              |               |
 |  238 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  239 | David Bratt               |  16.9 |        17 |        +0.45 |         +0.78 |
 |  240 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  241 | Chris Flores              |  16.7 |       302 |        -0.10 |         -2.08 |
+|  241 | Chris Flores              |  16.7 |       302 |        -0.08 |         -2.07 |
 |  242 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  243 | David Shabelman           |  16.7 |        30 |              |               |
 |  244 | Mark Priven               |  16.6 |        72 |              |               |
