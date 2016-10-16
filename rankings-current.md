@@ -1,4 +1,4 @@
-Generated 2016-10-15.
+Generated 2016-10-16.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -16,10 +16,10 @@ Generated 2016-10-15.
 |   12 | Reid Johnsen        |  21.8 |        35 |        -0.14 |         +7.36 |
 |   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
 |   14 | Jonathan Hankar     |  21.6 |       185 |        -0.02 |         -0.90 |
-|   15 | Mark Modera         |  21.2 |       311 |        +0.34 |         -0.65 |
+|   15 | Mark Modera         |  21.4 |       312 |        +0.51 |         -0.48 |
 |   16 | Robert Isaac        |  21.0 |        12 |        +1.10 |               |
 |   17 | Robert Schwartz     |  20.8 |        78 |        +0.07 |         -1.03 |
-|   18 | Jared Bard          |  20.8 |        33 |        -0.13 |         +1.89 |
+|   18 | Jared Bard          |  20.7 |        34 |        -0.30 |         +1.72 |
 |   19 | Mike Jensen-Akula   |  20.3 |       218 |        -0.05 |         -1.25 |
 |   20 | Jeff Gordon         |  19.9 |        36 |        -0.07 |         +8.49 |
 |   21 | Jonathan Francis    |  19.7 |        69 |        +0.24 |         +0.12 |

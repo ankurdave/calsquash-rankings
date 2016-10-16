@@ -1,4 +1,4 @@
-Generated 2016-10-15.
+Generated 2016-10-16.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -133,11 +133,11 @@ Generated 2016-10-15.
 |  129 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  130 | Jonathan Hankar           |  21.6 |       185 |        -0.02 |         -0.90 |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
-|  132 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  133 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  134 | Adam Jacob                |  21.3 |         3 |              |               |
-|  135 | Casey Harelson            |  21.2 |        20 |              |               |
-|  136 | Mark Modera               |  21.2 |       311 |        +0.34 |         -0.65 |
+|  132 | Mark Modera               |  21.4 |       312 |        +0.51 |         -0.48 |
+|  133 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  134 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  135 | Adam Jacob                |  21.3 |         3 |              |               |
+|  136 | Casey Harelson            |  21.2 |        20 |              |               |
 |  137 | Philip Bildner            |  21.2 |        22 |              |               |
 |  138 | Darren Morgan             |  21.2 |        11 |              |               |
 |  139 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
@@ -148,11 +148,11 @@ Generated 2016-10-15.
 |  144 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  145 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  146 | Robert Schwartz           |  20.8 |        78 |        +0.07 |         -1.03 |
-|  147 | Jared Bard                |  20.8 |        33 |        -0.13 |         +1.89 |
-|  148 | Jamie Funk                |  20.8 |        30 |              |               |
-|  149 | Matthew Brett             |  20.7 |        20 |              |               |
-|  150 | Prakash Bathini           |  20.7 |       122 |              |         -0.66 |
-|  151 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  147 | Jamie Funk                |  20.8 |        30 |              |               |
+|  148 | Matthew Brett             |  20.7 |        20 |              |               |
+|  149 | Prakash Bathini           |  20.7 |       122 |              |         -0.66 |
+|  150 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  151 | Jared Bard                |  20.7 |        34 |        -0.30 |         +1.72 |
 |  152 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  153 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  154 | Leor Lovinger             |  20.5 |         6 |              |               |
