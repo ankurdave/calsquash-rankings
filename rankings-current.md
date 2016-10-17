@@ -2,14 +2,14 @@ Generated 2016-10-16.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant         |  33.4 |         6 |        +1.86 |               |
+|    1 | Colin Grant         |  33.4 |         6 |        +1.85 |               |
 |    2 | Rees Sweeney-Taylor |  32.0 |        87 |              |         +0.70 |
 |    3 | Eric Katerman       |  31.5 |        23 |              |               |
-|    4 | Sam Sternberg       |  30.2 |       128 |        -0.40 |         +1.02 |
-|    5 | Frank Kennamer      |  27.4 |       211 |              |         -0.24 |
-|    6 | Nick Cobbett        |  26.5 |        27 |        +0.82 |         +7.21 |
+|    4 | Sam Sternberg       |  30.3 |       129 |        -0.33 |         +1.10 |
+|    5 | Frank Kennamer      |  27.1 |       212 |        -0.36 |         -0.60 |
+|    6 | Nick Cobbett        |  26.5 |        27 |        +0.85 |         +7.24 |
 |    7 | Jim Veitch          |  25.3 |       426 |              |         -0.54 |
-|    8 | John Kunze          |  24.5 |       302 |        -0.21 |         -0.75 |
+|    8 | John Kunze          |  24.8 |       304 |        +0.04 |         -0.50 |
 |    9 | Dan Bohn            |  23.3 |        78 |        +0.13 |         -0.39 |
 |   10 | Dan Meier           |  22.9 |        51 |        +0.16 |         +1.65 |
 |   11 | Matt Wong           |  22.8 |        74 |        +0.15 |         +1.84 |
@@ -21,7 +21,7 @@ Generated 2016-10-16.
 |   17 | Robert Schwartz     |  20.8 |        78 |        +0.07 |         -1.03 |
 |   18 | Jared Bard          |  20.7 |        34 |        -0.30 |         +1.72 |
 |   19 | Mike Jensen-Akula   |  20.3 |       218 |        -0.05 |         -1.25 |
-|   20 | Jeff Gordon         |  19.9 |        36 |        -0.07 |         +8.49 |
+|   20 | Jeff Gordon         |  20.0 |        37 |        -0.02 |         +8.54 |
 |   21 | Jonathan Francis    |  19.7 |        69 |        +0.24 |         +0.12 |
 |   22 | Jaime Perez         |  19.5 |        13 |        +0.18 |               |
 |   23 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
@@ -59,5 +59,5 @@ Generated 2016-10-16.
 |   55 | Sameer Bajaj        |   2.7 |         3 |              |               |
 |   56 | Anuj Dawar          |   2.7 |         8 |        +0.23 |               |
 |   57 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
-|   58 | Craig Hollow        |   1.0 |         1 |              |               |
+|   58 | Craig Hollow        |   1.5 |         2 |              |               |
 |   59 | Duncan MacRae       |  -6.1 |         5 |        -0.51 |               |
