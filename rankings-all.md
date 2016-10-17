@@ -1,24 +1,24 @@
-Generated 2016-10-16.
+Generated 2016-10-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  35.0 |       212 |              |         -0.65 |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
-|    3 | Robert Lynn               |  34.4 |         7 |              |               |
-|    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    6 | Colin Grant               |  33.4 |         6 |        +1.85 |               |
+|    3 | Colin Grant               |  34.5 |         7 |        +2.98 |               |
+|    4 | Robert Lynn               |  34.4 |         7 |              |               |
+|    5 | Paul Valiant              |  33.9 |        63 |              |               |
+|    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    8 | Louis Morrill             |  32.7 |        10 |              |               |
 |    9 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.70 |
-|   13 | Eric Katerman             |  31.5 |        23 |              |               |
+|   13 | Eric Katerman             |  31.4 |        24 |        -0.15 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.3 |       129 |        -0.33 |         +1.10 |
+|   17 | Sam Sternberg             |  30.3 |       129 |        -0.32 |         +1.10 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -41,7 +41,7 @@ Generated 2016-10-16.
 |   37 | Michael Best              |  26.9 |        21 |              |               |
 |   38 | Josh Taylor               |  26.8 |        40 |              |               |
 |   39 | David Hwang               |  26.8 |        44 |              |               |
-|   40 | Nick Cobbett              |  26.5 |        27 |        +0.85 |         +7.24 |
+|   40 | Nick Cobbett              |  26.5 |        27 |        +0.86 |         +7.25 |
 |   41 | Gary Golding              |  26.5 |         6 |              |               |
 |   42 | Ethan Kerr                |  26.4 |        12 |              |               |
 |   43 | Amos Vernon               |  26.4 |        30 |              |               |
