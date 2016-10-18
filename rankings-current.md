@@ -53,11 +53,11 @@ Generated 2016-10-17.
 |   49 | Ryan Akers          |   7.7 |         2 |              |               |
 |   50 | Keaton Noon         |   6.1 |        19 |              |               |
 |   51 | Meldan Heaslip      |   5.7 |         5 |        +1.49 |               |
-|   52 | Alok Singh          |   5.4 |        14 |        -0.45 |               |
+|   52 | Alok Singh          |   5.4 |        14 |        -0.50 |               |
 |   53 | Jose Lara           |   4.8 |         7 |        -0.23 |               |
 |   54 | Zsolt Bartha        |   4.5 |        45 |        -0.08 |         +1.69 |
-|   55 | Sameer Bajaj        |   2.7 |         3 |              |               |
+|   55 | Sameer Bajaj        |   4.4 |         4 |        +1.62 |               |
 |   56 | Anuj Dawar          |   2.7 |         9 |        +0.15 |               |
-|   57 | Cristhian Daniel    |   2.4 |        13 |        +2.34 |               |
+|   57 | Cristhian Daniel    |   2.1 |        14 |        +2.07 |               |
 |   58 | Craig Hollow        |   1.5 |         2 |              |               |
-|   59 | Duncan MacRae       |  -6.1 |         5 |        -0.51 |               |
+|   59 | Duncan MacRae       |  -6.1 |         5 |        -0.55 |               |

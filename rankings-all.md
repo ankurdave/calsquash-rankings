@@ -418,7 +418,7 @@ Generated 2016-10-17.
 |  414 | Meldan Heaslip            |   5.7 |         5 |        +1.49 |               |
 |  415 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  416 | Manu Vaish                |   5.5 |         1 |              |               |
-|  417 | Alok Singh                |   5.4 |        14 |        -0.45 |               |
+|  417 | Alok Singh                |   5.4 |        14 |        -0.50 |               |
 |  418 | Emily Moylan              |   5.2 |        17 |              |               |
 |  419 | Mohammad Salama           |   5.2 |         5 |              |         +1.20 |
 |  420 | Catherine Wang            |   5.2 |        10 |              |               |
@@ -428,22 +428,22 @@ Generated 2016-10-17.
 |  424 | Jose Lara                 |   4.8 |         7 |        -0.23 |               |
 |  425 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  426 | Zsolt Bartha              |   4.5 |        45 |        -0.08 |         +1.69 |
-|  427 | Annie Wong                |   4.0 |         3 |              |               |
-|  428 | Ryan                      |   4.0 |         3 |              |               |
-|  429 | Mateo Aceves              |   3.8 |         4 |              |               |
-|  430 | Nakul Vakil               |   3.0 |         5 |              |               |
-|  431 | Maria Garzon              |   3.0 |         5 |              |               |
-|  432 | Nadir Shams               |   3.0 |         2 |              |               |
-|  433 | Ji Seop Oh                |   2.9 |         2 |              |               |
-|  434 | Sameer Bajaj              |   2.7 |         3 |              |               |
+|  427 | Sameer Bajaj              |   4.4 |         4 |        +1.62 |               |
+|  428 | Annie Wong                |   4.0 |         3 |              |               |
+|  429 | Ryan                      |   4.0 |         3 |              |               |
+|  430 | Mateo Aceves              |   3.8 |         4 |              |               |
+|  431 | Nakul Vakil               |   3.0 |         5 |              |               |
+|  432 | Maria Garzon              |   3.0 |         5 |              |               |
+|  433 | Nadir Shams               |   3.0 |         2 |              |               |
+|  434 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  435 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  436 | Anuj Dawar                |   2.7 |         9 |        +0.15 |               |
 |  437 | David Vogel               |   2.6 |         7 |              |               |
 |  438 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  439 | Cristhian Daniel          |   2.4 |        13 |        +2.34 |               |
-|  440 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  441 | Phil Lin                  |   2.1 |         1 |              |               |
-|  442 | Alexis Madrigal           |   2.1 |         2 |              |               |
+|  439 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  440 | Phil Lin                  |   2.1 |         1 |              |               |
+|  441 | Alexis Madrigal           |   2.1 |         2 |              |               |
+|  442 | Cristhian Daniel          |   2.1 |        14 |        +2.07 |               |
 |  443 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  444 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  445 | Himanshu Chandra          |   1.8 |         4 |              |               |
@@ -499,5 +499,5 @@ Generated 2016-10-17.
 |  495 | Susan Grand               |  -4.3 |         3 |              |               |
 |  496 | Sara Green                |  -5.8 |         1 |              |               |
 |  497 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  498 | Duncan MacRae             |  -6.1 |         5 |        -0.51 |               |
+|  498 | Duncan MacRae             |  -6.1 |         5 |        -0.55 |               |
 |  499 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
