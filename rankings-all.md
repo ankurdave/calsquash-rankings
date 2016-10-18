@@ -93,8 +93,8 @@ Generated 2016-10-18.
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
-|   92 | Garvin Heath              |  23.4 |        28 |              |               |
-|   93 | Dan Bohn                  |  23.3 |        78 |        +0.13 |         -0.39 |
+|   92 | Dan Bohn                  |  23.5 |        79 |        +0.29 |         -0.23 |
+|   93 | Garvin Heath              |  23.4 |        28 |              |               |
 |   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.42 |
 |   95 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   96 | Anubhav Gupta             |  23.0 |         8 |              |               |
@@ -179,9 +179,9 @@ Generated 2016-10-18.
 |  175 | Andrew Proudfoot          |  19.6 |        26 |              |         +1.88 |
 |  176 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  177 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  178 | Jaime Perez               |  19.5 |        13 |        +0.18 |               |
-|  179 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  180 | Greg Adams                |  19.3 |        10 |              |               |
+|  178 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  179 | Greg Adams                |  19.3 |        10 |              |               |
+|  180 | Jaime Perez               |  19.2 |        14 |        -0.11 |               |
 |  181 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  182 | John Corcoran             |  19.1 |        49 |              |               |
 |  183 | Kedar Shah                |  19.1 |         9 |              |               |
