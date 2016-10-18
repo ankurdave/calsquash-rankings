@@ -1,4 +1,4 @@
-Generated 2016-10-17.
+Generated 2016-10-18.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -45,14 +45,14 @@ Generated 2016-10-17.
 |   41 | Sahar Sareminaeni   |  12.1 |         7 |        +4.20 |               |
 |   42 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
 |   43 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
-|   44 | Josh Lebowitz       |  10.2 |        28 |        +0.66 |               |
+|   44 | Josh Lebowitz       |  10.3 |        29 |        +0.73 |               |
 |   45 | Nate Aden           |   9.7 |        22 |        +0.34 |               |
 |   46 | Brian Kempenich     |   8.5 |        39 |        -0.12 |         -0.64 |
 |   47 | Duo Wang            |   8.3 |        63 |        -0.13 |         -0.02 |
 |   48 | Raphael Magarik     |   8.3 |        12 |        -0.79 |               |
 |   49 | Ryan Akers          |   7.7 |         2 |              |               |
-|   50 | Keaton Noon         |   6.1 |        19 |              |               |
-|   51 | Meldan Heaslip      |   5.7 |         5 |        +1.49 |               |
+|   50 | Meldan Heaslip      |   6.7 |         6 |        +2.47 |               |
+|   51 | Keaton Noon         |   6.1 |        19 |              |               |
 |   52 | Alok Singh          |   5.4 |        14 |        -0.50 |               |
 |   53 | Jose Lara           |   4.8 |         7 |        -0.23 |               |
 |   54 | Zsolt Bartha        |   4.5 |        45 |        -0.08 |         +1.69 |
