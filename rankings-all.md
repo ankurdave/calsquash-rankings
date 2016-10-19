@@ -307,11 +307,11 @@ Generated 2016-10-18.
 |  303 | Alex Rennet               |  13.5 |         2 |              |               |
 |  304 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  305 | Jake Toy                  |  13.4 |         5 |              |               |
-|  306 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  307 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  308 | Field Maloney             |  13.1 |        24 |              |               |
-|  309 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  310 | Nikhil Paranjape          |  13.0 |        26 |        +0.36 |               |
+|  306 | Nikhil Paranjape          |  13.3 |        27 |        +0.64 |               |
+|  307 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  308 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  309 | Field Maloney             |  13.1 |        24 |              |               |
+|  310 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  311 | Lewis Moore               |  13.0 |        69 |              |               |
 |  312 | David Isaksson            |  12.9 |        22 |              |               |
 |  313 | Suluck Chaturabul         |  12.7 |         2 |              |               |
@@ -343,10 +343,10 @@ Generated 2016-10-18.
 |  339 | Daniel Schwartz           |  10.7 |        20 |        +0.64 |               |
 |  340 | George Bentley            |  10.6 |         4 |              |               |
 |  341 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  342 | Reto Sutter               |  10.5 |        47 |              |         +0.17 |
-|  343 | Brian Puglise             |  10.4 |         2 |              |               |
-|  344 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  345 | Josh Lebowitz             |  10.3 |        29 |        +0.73 |               |
+|  342 | Brian Puglise             |  10.4 |         2 |              |               |
+|  343 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  344 | Josh Lebowitz             |  10.3 |        29 |        +0.73 |               |
+|  345 | Reto Sutter               |  10.3 |        48 |        -0.19 |         -0.02 |
 |  346 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  347 | John Provine              |  10.2 |        16 |              |               |
 |  348 | Anthony Patterson         |  10.2 |         6 |              |               |
@@ -379,7 +379,7 @@ Generated 2016-10-18.
 |  375 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  376 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  377 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  378 | Brian Kempenich           |   8.5 |        39 |        -0.12 |         -0.64 |
+|  378 | Brian Kempenich           |   8.5 |        39 |        -0.11 |         -0.64 |
 |  379 | Reynold Xin               |   8.3 |         5 |              |               |
 |  380 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  381 | Duo Wang                  |   8.3 |        63 |        -0.13 |         -0.02 |

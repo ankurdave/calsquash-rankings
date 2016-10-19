@@ -40,14 +40,14 @@ Generated 2016-10-18.
 |   36 | Shai Vardi          |  14.5 |         4 |              |               |
 |   37 | Diego Butrich       |  14.1 |         5 |              |               |
 |   38 | Anibhav Singla      |  13.9 |         1 |              |               |
-|   39 | Nikhil Paranjape    |  13.0 |        26 |        +0.36 |               |
+|   39 | Nikhil Paranjape    |  13.3 |        27 |        +0.64 |               |
 |   40 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
 |   41 | Sahar Sareminaeni   |  12.1 |         7 |        +4.20 |               |
 |   42 | Daniel Schwartz     |  10.7 |        20 |        +0.64 |               |
-|   43 | Reto Sutter         |  10.5 |        47 |              |         +0.17 |
-|   44 | Josh Lebowitz       |  10.3 |        29 |        +0.73 |               |
+|   43 | Josh Lebowitz       |  10.3 |        29 |        +0.73 |               |
+|   44 | Reto Sutter         |  10.3 |        48 |        -0.19 |         -0.02 |
 |   45 | Nate Aden           |   9.7 |        22 |        +0.34 |               |
-|   46 | Brian Kempenich     |   8.5 |        39 |        -0.12 |         -0.64 |
+|   46 | Brian Kempenich     |   8.5 |        39 |        -0.11 |         -0.64 |
 |   47 | Duo Wang            |   8.3 |        63 |        -0.13 |         -0.02 |
 |   48 | Raphael Magarik     |   8.3 |        12 |        -0.79 |               |
 |   49 | Ryan Akers          |   7.7 |         2 |              |               |
