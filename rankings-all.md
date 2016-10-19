@@ -4,7 +4,7 @@ Generated 2016-10-18.
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  35.0 |       212 |              |         -0.65 |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
-|    3 | Colin Grant               |  34.5 |         7 |        +2.98 |               |
+|    3 | Colin Grant               |  34.6 |         8 |        +3.13 |               |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -63,10 +63,10 @@ Generated 2016-10-18.
 |   59 | Ben Seelig                |  25.0 |        69 |              |               |
 |   60 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   61 | Madhav Pai                |  24.9 |         5 |              |               |
-|   62 | John Kunze                |  24.8 |       304 |        +0.04 |         -0.50 |
-|   63 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   64 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   65 | Orion Hodson              |  24.8 |        31 |              |               |
+|   62 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   63 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   64 | Orion Hodson              |  24.8 |        31 |              |               |
+|   65 | John Kunze                |  24.7 |       305 |              |         -0.54 |
 |   66 | Martin Stokes             |  24.7 |        12 |              |               |
 |   67 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
