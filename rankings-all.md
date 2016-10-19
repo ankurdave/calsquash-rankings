@@ -133,17 +133,17 @@ Generated 2016-10-18.
 |  129 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  130 | Jonathan Hankar           |  21.6 |       185 |        -0.02 |         -0.90 |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
-|  132 | Mark Modera               |  21.4 |       312 |        +0.51 |         -0.48 |
-|  133 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  134 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  135 | Adam Jacob                |  21.3 |         3 |              |               |
-|  136 | Casey Harelson            |  21.2 |        20 |              |               |
-|  137 | Philip Bildner            |  21.2 |        22 |              |               |
-|  138 | Darren Morgan             |  21.2 |        11 |              |               |
-|  139 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  140 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  141 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  142 | Robert Isaac              |  21.0 |        12 |        +1.10 |               |
+|  132 | Robert Isaac              |  21.4 |        13 |        +1.53 |               |
+|  133 | Mark Modera               |  21.4 |       312 |        +0.51 |         -0.48 |
+|  134 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  135 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  136 | Adam Jacob                |  21.3 |         3 |              |               |
+|  137 | Casey Harelson            |  21.2 |        20 |              |               |
+|  138 | Philip Bildner            |  21.2 |        22 |              |               |
+|  139 | Darren Morgan             |  21.2 |        11 |              |               |
+|  140 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  141 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  142 | Paz Grimberg              |  21.0 |        17 |              |               |
 |  143 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  144 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  145 | Joseph Farrell            |  20.9 |         8 |              |               |
@@ -194,12 +194,12 @@ Generated 2016-10-18.
 |  190 | Kenny Bell                |  18.8 |       120 |        -0.24 |         +0.72 |
 |  191 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  192 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  193 | Dror Matalon              |  18.7 |       353 |        -0.35 |         +0.67 |
-|  194 | Peter Dering              |  18.7 |         9 |              |               |
-|  195 | Sushant Jain              |  18.7 |        12 |              |               |
-|  196 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  197 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  198 | Allan Sly                 |  18.6 |        29 |              |               |
+|  193 | Peter Dering              |  18.7 |         9 |              |               |
+|  194 | Sushant Jain              |  18.7 |        12 |              |               |
+|  195 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  196 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  197 | Allan Sly                 |  18.6 |        29 |              |               |
+|  198 | Dror Matalon              |  18.6 |       354 |        -0.50 |         +0.52 |
 |  199 | Jason Facchin             |  18.5 |         3 |              |               |
 |  200 | Yan Liu                   |  18.5 |        10 |              |               |
 |  201 | Akshay Dugar              |  18.5 |         6 |              |               |
