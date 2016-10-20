@@ -30,8 +30,8 @@ Generated 2016-10-20.
 |   26 | Shaun Lim           |  18.2 |        43 |        +0.08 |         +0.31 |
 |   27 | Josh Trauner        |  17.9 |        37 |        +0.20 |               |
 |   28 | Eric Borden         |  17.4 |        33 |        -0.20 |         +3.02 |
-|   29 | Troup Howard        |  17.4 |        38 |              |         -0.29 |
-|   30 | Wayne Heiser        |  17.0 |        31 |        -0.14 |               |
+|   29 | Wayne Heiser        |  17.2 |        32 |        +0.10 |               |
+|   30 | Troup Howard        |  17.2 |        39 |        -0.18 |         -0.47 |
 |   31 | David Bratt         |  16.9 |        17 |        +0.45 |         +0.78 |
 |   32 | Chris Flores        |  16.7 |       302 |        -0.08 |         -2.07 |
 |   33 | Terry Chang         |  15.8 |        47 |        -0.21 |         +2.17 |

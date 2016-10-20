@@ -225,20 +225,20 @@ Generated 2016-10-20.
 |  221 | Eric Borden               |  17.4 |        33 |        -0.20 |         +3.02 |
 |  222 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  223 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  224 | Troup Howard              |  17.4 |        38 |              |         -0.29 |
-|  225 | Craig Riddell             |  17.4 |         8 |              |               |
-|  226 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  227 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  228 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  229 | Zach Brown                |  17.3 |         3 |              |               |
+|  224 | Craig Riddell             |  17.4 |         8 |              |               |
+|  225 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  226 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  227 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  228 | Zach Brown                |  17.3 |         3 |              |               |
+|  229 | Wayne Heiser              |  17.2 |        32 |        +0.10 |               |
 |  230 | William Seles             |  17.2 |        15 |              |               |
 |  231 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  232 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  233 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  234 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  235 | Neil Conway               |  17.0 |        55 |              |               |
-|  236 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  237 | Wayne Heiser              |  17.0 |        31 |        -0.14 |               |
+|  234 | Troup Howard              |  17.2 |        39 |        -0.18 |         -0.47 |
+|  235 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  236 | Neil Conway               |  17.0 |        55 |              |               |
+|  237 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  238 | Baxter Leman              |  16.9 |         6 |              |               |
 |  239 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  240 | David Bratt               |  16.9 |        17 |        +0.45 |         +0.78 |
