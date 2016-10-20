@@ -1,4 +1,4 @@
-Generated 2016-10-19.
+Generated 2016-10-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -154,12 +154,12 @@ Generated 2016-10-19.
 |  150 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  151 | Jared Bard                |  20.7 |        34 |        -0.30 |         +1.72 |
 |  152 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  153 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  154 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  155 | Andrew Green              |  20.5 |        52 |              |               |
-|  156 | Sam McCormick             |  20.5 |        15 |              |        +10.48 |
-|  157 | Steven Sloman             |  20.4 |        10 |              |               |
-|  158 | Mike Jensen-Akula         |  20.3 |       218 |        -0.05 |         -1.25 |
+|  153 | Mike Jensen-Akula         |  20.6 |       219 |        +0.16 |         -1.04 |
+|  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  155 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  156 | Andrew Green              |  20.5 |        52 |              |               |
+|  157 | Sam McCormick             |  20.5 |        15 |              |        +10.48 |
+|  158 | Steven Sloman             |  20.4 |        10 |              |               |
 |  159 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  160 | Carl Schreck              |  20.2 |         2 |              |               |
 |  161 | John Grim                 |  20.1 |        13 |              |               |
@@ -219,10 +219,10 @@ Generated 2016-10-19.
 |  215 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  216 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  217 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  218 | Eric Borden               |  17.6 |        32 |              |         +3.22 |
-|  219 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  220 | Subrato Dey               |  17.5 |        26 |              |               |
-|  221 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  218 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  219 | Subrato Dey               |  17.5 |        26 |              |               |
+|  220 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  221 | Eric Borden               |  17.4 |        33 |        -0.20 |         +3.02 |
 |  222 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  223 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  224 | Troup Howard              |  17.4 |        38 |              |         -0.29 |

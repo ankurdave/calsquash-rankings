@@ -1,4 +1,4 @@
-Generated 2016-10-19.
+Generated 2016-10-20.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -20,7 +20,7 @@ Generated 2016-10-19.
 |   16 | Mark Modera         |  21.4 |       312 |        +0.51 |         -0.48 |
 |   17 | Robert Schwartz     |  20.8 |        78 |        +0.07 |         -1.03 |
 |   18 | Jared Bard          |  20.7 |        34 |        -0.30 |         +1.72 |
-|   19 | Mike Jensen-Akula   |  20.3 |       218 |        -0.05 |         -1.25 |
+|   19 | Mike Jensen-Akula   |  20.6 |       219 |        +0.16 |         -1.04 |
 |   20 | Vishal Jain         |  20.0 |         2 |              |               |
 |   21 | Jeff Gordon         |  20.0 |        37 |        -0.02 |         +8.54 |
 |   22 | Jonathan Francis    |  19.7 |        69 |        +0.24 |         +0.12 |
@@ -29,7 +29,7 @@ Generated 2016-10-19.
 |   25 | Dror Matalon        |  18.6 |       354 |        -0.50 |         +0.52 |
 |   26 | Shaun Lim           |  18.2 |        43 |        +0.08 |         +0.31 |
 |   27 | Josh Trauner        |  17.9 |        37 |        +0.20 |               |
-|   28 | Eric Borden         |  17.6 |        32 |              |         +3.22 |
+|   28 | Eric Borden         |  17.4 |        33 |        -0.20 |         +3.02 |
 |   29 | Troup Howard        |  17.4 |        38 |              |         -0.29 |
 |   30 | Wayne Heiser        |  17.0 |        31 |        -0.14 |               |
 |   31 | David Bratt         |  16.9 |        17 |        +0.45 |         +0.78 |
