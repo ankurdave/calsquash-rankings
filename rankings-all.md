@@ -304,25 +304,25 @@ Generated 2016-10-19.
 |  300 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  301 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  302 | Lars Foleide              |  13.5 |        11 |              |               |
-|  303 | Alex Rennet               |  13.5 |         2 |              |               |
-|  304 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  305 | Jake Toy                  |  13.4 |         5 |              |               |
-|  306 | Nikhil Paranjape          |  13.3 |        27 |        +0.64 |               |
-|  307 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  308 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  309 | Field Maloney             |  13.1 |        24 |              |               |
-|  310 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  311 | Lewis Moore               |  13.0 |        69 |              |               |
-|  312 | David Isaksson            |  12.9 |        22 |              |               |
-|  313 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  314 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  315 | Josh Shiode               |  12.6 |        20 |              |               |
-|  316 | Huw Lester                |  12.5 |         1 |              |               |
-|  317 | Richard Fabini            |  12.4 |         3 |              |               |
-|  318 | Jennifer Rha              |  12.3 |        17 |              |         +0.90 |
-|  319 | John Givens               |  12.2 |        13 |              |               |
-|  320 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  321 | Sahar Sareminaeni         |  12.1 |         7 |        +4.20 |               |
+|  303 | Sahar Sareminaeni         |  13.5 |         8 |        +5.56 |               |
+|  304 | Alex Rennet               |  13.5 |         2 |              |               |
+|  305 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  306 | Jake Toy                  |  13.4 |         5 |              |               |
+|  307 | Nikhil Paranjape          |  13.3 |        27 |        +0.64 |               |
+|  308 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  309 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  310 | Field Maloney             |  13.1 |        24 |              |               |
+|  311 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  312 | Lewis Moore               |  13.0 |        69 |              |               |
+|  313 | David Isaksson            |  12.9 |        22 |              |               |
+|  314 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  315 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  316 | Josh Shiode               |  12.6 |        20 |              |               |
+|  317 | Huw Lester                |  12.5 |         1 |              |               |
+|  318 | Richard Fabini            |  12.4 |         3 |              |               |
+|  319 | Jennifer Rha              |  12.3 |        17 |              |         +0.90 |
+|  320 | John Givens               |  12.2 |        13 |              |               |
+|  321 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  322 | Reed Foster               |  12.1 |         8 |              |               |
 |  323 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  324 | Larry Dale                |  11.9 |        29 |              |               |
@@ -340,8 +340,8 @@ Generated 2016-10-19.
 |  336 | Lucas Siow                |  11.0 |        10 |              |               |
 |  337 | Dominick Ng               |  10.9 |        25 |              |               |
 |  338 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  339 | Daniel Schwartz           |  10.7 |        20 |        +0.64 |               |
-|  340 | George Bentley            |  10.6 |         4 |              |               |
+|  339 | George Bentley            |  10.6 |         4 |              |               |
+|  340 | Daniel Schwartz           |  10.5 |        21 |        +0.42 |               |
 |  341 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  342 | Brian Puglise             |  10.4 |         2 |              |               |
 |  343 | Lewis H. Moore            |  10.3 |         8 |              |               |
@@ -381,9 +381,9 @@ Generated 2016-10-19.
 |  377 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  378 | Brian Kempenich           |   8.5 |        39 |        -0.11 |         -0.64 |
 |  379 | Reynold Xin               |   8.3 |         5 |              |               |
-|  380 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  381 | Duo Wang                  |   8.3 |        63 |        -0.13 |         -0.02 |
-|  382 | Raphael Magarik           |   8.3 |        12 |        -0.79 |               |
+|  380 | Raphael Magarik           |   8.3 |        12 |        -0.74 |               |
+|  381 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  382 | Duo Wang                  |   8.3 |        63 |        -0.13 |         -0.02 |
 |  383 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  384 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  385 | Phil Hartmeyer            |   8.2 |         3 |              |               |
