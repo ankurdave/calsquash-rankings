@@ -1,4 +1,4 @@
-Generated 2016-10-20.
+Generated 2016-10-21.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -56,9 +56,9 @@ Generated 2016-10-20.
 |   52 | Adam Angsten              |  25.4 |         3 |              |               |
 |   53 | Matt Nelson-Teutsch       |  25.4 |        10 |              |         +1.02 |
 |   54 | Sean O'Nuallain           |  25.4 |        43 |              |               |
-|   55 | Jim Veitch                |  25.3 |       426 |              |         -0.54 |
-|   56 | Rahul Gupta               |  25.3 |         7 |              |               |
-|   57 | Paul Greene               |  25.2 |         8 |              |               |
+|   55 | Rahul Gupta               |  25.3 |         7 |              |               |
+|   56 | Paul Greene               |  25.2 |         8 |              |               |
+|   57 | Jim Veitch                |  25.1 |       427 |        -0.21 |         -0.75 |
 |   58 | Mukul Sud                 |  25.0 |         3 |              |               |
 |   59 | Ben Seelig                |  25.0 |        69 |              |               |
 |   60 | Jaime Paterson            |  24.9 |         1 |              |               |
@@ -97,12 +97,12 @@ Generated 2016-10-20.
 |   93 | Garvin Heath              |  23.4 |        28 |              |               |
 |   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.42 |
 |   95 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   96 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|   97 | Joe Farrell               |  23.0 |        30 |              |               |
-|   98 | Matt Wild                 |  23.0 |        25 |              |         -0.36 |
-|   99 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  100 | Dan Meier                 |  22.9 |        51 |        +0.16 |         +1.65 |
-|  101 | Matt Wong                 |  22.8 |        74 |        +0.15 |         +1.84 |
+|   96 | Matt Wong                 |  23.0 |        75 |        +0.38 |         +2.07 |
+|   97 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|   98 | Joe Farrell               |  23.0 |        30 |              |               |
+|   99 | Matt Wild                 |  23.0 |        25 |              |         -0.36 |
+|  100 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  101 | Dan Meier                 |  22.9 |        51 |        +0.16 |         +1.65 |
 |  102 | Andrew Pritchard          |  22.7 |        16 |              |        +18.45 |
 |  103 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  104 | Julian Marshall           |  22.7 |        31 |              |               |
