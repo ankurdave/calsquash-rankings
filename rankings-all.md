@@ -14,7 +14,7 @@ Generated 2016-10-20.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.70 |
-|   13 | Eric Katerman             |  31.4 |        24 |        -0.15 |               |
+|   13 | Eric Katerman             |  31.3 |        25 |        -0.20 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
@@ -41,7 +41,7 @@ Generated 2016-10-20.
 |   37 | Michael Best              |  26.9 |        21 |              |               |
 |   38 | Josh Taylor               |  26.8 |        40 |              |               |
 |   39 | David Hwang               |  26.8 |        44 |              |               |
-|   40 | Nick Cobbett              |  26.5 |        27 |        +0.86 |         +7.25 |
+|   40 | Nick Cobbett              |  26.6 |        28 |        +0.96 |         +7.35 |
 |   41 | Gary Golding              |  26.5 |         6 |              |               |
 |   42 | Ethan Kerr                |  26.4 |        12 |              |               |
 |   43 | Amos Vernon               |  26.4 |        30 |              |               |
