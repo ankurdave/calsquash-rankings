@@ -208,8 +208,8 @@ Generated 2016-10-20.
 |  204 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  205 | John Eng                  |  18.4 |        28 |              |               |
 |  206 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  207 | Shaun Lim                 |  18.2 |        43 |        +0.08 |         +0.31 |
-|  208 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  207 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  208 | Shaun Lim                 |  18.2 |        43 |        +0.07 |         +0.29 |
 |  209 | Bob Roller                |  18.2 |         6 |              |               |
 |  210 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  211 | Josh Trauner              |  17.9 |        37 |        +0.20 |               |
@@ -268,13 +268,13 @@ Generated 2016-10-20.
 |  264 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  265 | Peter Duerr               |  15.4 |        24 |              |               |
 |  266 | Kevin Fox                 |  15.3 |         7 |              |               |
-|  267 | Kent Daniels              |  15.2 |        90 |        -0.14 |         +0.53 |
-|  268 | Jim Evans                 |  15.1 |       216 |              |               |
-|  269 | Dennis Chan               |  15.1 |         1 |              |               |
-|  270 | Allie Giovanelli          |  15.0 |         4 |              |               |
-|  271 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  272 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
-|  273 | Mimi Zhang                |  14.9 |         6 |              |               |
+|  267 | Jim Evans                 |  15.1 |       216 |              |               |
+|  268 | Dennis Chan               |  15.1 |         1 |              |               |
+|  269 | Allie Giovanelli          |  15.0 |         4 |              |               |
+|  270 | Patrick Baylis            |  15.0 |        12 |              |               |
+|  271 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  272 | Mimi Zhang                |  14.9 |         6 |              |               |
+|  273 | Kent Daniels              |  14.9 |        91 |        -0.45 |         +0.22 |
 |  274 | Jeff Dorman               |  14.9 |        14 |              |               |
 |  275 | Alex Marqusee             |  14.9 |        28 |              |               |
 |  276 | Paul Norberg              |  14.8 |         8 |              |               |
@@ -345,7 +345,7 @@ Generated 2016-10-20.
 |  341 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  342 | Brian Puglise             |  10.4 |         2 |              |               |
 |  343 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  344 | Josh Lebowitz             |  10.3 |        29 |        +0.73 |               |
+|  344 | Josh Lebowitz             |  10.3 |        29 |        +0.75 |               |
 |  345 | Reto Sutter               |  10.3 |        48 |        -0.19 |         -0.02 |
 |  346 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  347 | John Provine              |  10.2 |        16 |              |               |
@@ -370,41 +370,41 @@ Generated 2016-10-20.
 |  366 | Greg Sperla               |   9.3 |         8 |              |               |
 |  367 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  368 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  369 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  370 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
-|  371 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  372 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  373 | Therese Jones             |   8.7 |         6 |              |               |
-|  374 | Steven Yee                |   8.7 |         9 |              |               |
-|  375 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  376 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  377 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  378 | Brian Kempenich           |   8.5 |        39 |        -0.11 |         -0.64 |
-|  379 | Reynold Xin               |   8.3 |         5 |              |               |
-|  380 | Raphael Magarik           |   8.3 |        12 |        -0.74 |               |
-|  381 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  382 | Duo Wang                  |   8.3 |        63 |        -0.13 |         -0.02 |
-|  383 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  384 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  385 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  386 | John Coates               |   8.1 |         9 |              |               |
-|  387 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  388 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  389 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  390 | Zarina Khan               |   8.0 |         5 |              |               |
-|  391 | Chip Malt                 |   7.9 |         4 |              |               |
-|  392 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  393 | Minsoo Bae                |   7.9 |         2 |              |               |
-|  394 | Akira Chiwaki             |   7.8 |         3 |              |               |
-|  395 | Felipe Gomez              |   7.7 |         4 |              |               |
-|  396 | Jeremy Brown              |   7.7 |         4 |              |               |
-|  397 | Ryan Akers                |   7.7 |         2 |              |               |
-|  398 | Yashraj Khaitain          |   7.6 |         2 |              |               |
-|  399 | Arno Ferguson             |   7.4 |         1 |              |               |
-|  400 | Alex Walters              |   7.4 |         3 |              |               |
-|  401 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  402 | Brookes Degen             |   6.8 |         6 |              |               |
-|  403 | Meldan Heaslip            |   6.7 |         6 |        +2.47 |               |
+|  369 | Meldan Heaslip            |   9.1 |         7 |        +4.88 |               |
+|  370 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  371 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
+|  372 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  373 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  374 | Therese Jones             |   8.7 |         6 |              |               |
+|  375 | Steven Yee                |   8.7 |         9 |              |               |
+|  376 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  377 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  378 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  379 | Brian Kempenich           |   8.5 |        39 |        -0.11 |         -0.64 |
+|  380 | Reynold Xin               |   8.3 |         5 |              |               |
+|  381 | Raphael Magarik           |   8.3 |        12 |        -0.74 |               |
+|  382 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  383 | Duo Wang                  |   8.3 |        63 |        -0.13 |         -0.02 |
+|  384 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  385 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  386 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  387 | John Coates               |   8.1 |         9 |              |               |
+|  388 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  389 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  390 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  391 | Zarina Khan               |   8.0 |         5 |              |               |
+|  392 | Chip Malt                 |   7.9 |         4 |              |               |
+|  393 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  394 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  395 | Akira Chiwaki             |   7.8 |         3 |              |               |
+|  396 | Felipe Gomez              |   7.7 |         4 |              |               |
+|  397 | Jeremy Brown              |   7.7 |         4 |              |               |
+|  398 | Ryan Akers                |   7.7 |         2 |              |               |
+|  399 | Yashraj Khaitain          |   7.6 |         2 |              |               |
+|  400 | Arno Ferguson             |   7.4 |         1 |              |               |
+|  401 | Alex Walters              |   7.4 |         3 |              |               |
+|  402 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
+|  403 | Brookes Degen             |   6.8 |         6 |              |               |
 |  404 | Joshua Braver             |   6.5 |         1 |              |               |
 |  405 | Pablo Paredes             |   6.5 |         1 |              |               |
 |  406 | Mikel Shybut              |   6.5 |         4 |              |               |
@@ -437,7 +437,7 @@ Generated 2016-10-20.
 |  433 | Nadir Shams               |   3.0 |         2 |              |               |
 |  434 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  435 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  436 | Anuj Dawar                |   2.7 |         9 |        +0.15 |               |
+|  436 | Anuj Dawar                |   2.6 |         9 |        +0.13 |               |
 |  437 | David Vogel               |   2.6 |         7 |              |               |
 |  438 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  439 | Julia Selezneva           |   2.2 |         5 |              |               |
