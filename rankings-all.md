@@ -4,7 +4,7 @@ Generated 2016-10-21.
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  35.0 |       212 |              |         -0.65 |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
-|    3 | Colin Grant               |  34.6 |         8 |        +3.13 |               |
+|    3 | Colin Grant               |  34.6 |         8 |        +3.15 |               |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -14,7 +14,7 @@ Generated 2016-10-21.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.70 |
-|   13 | Eric Katerman             |  31.3 |        25 |        -0.20 |               |
+|   13 | Eric Katerman             |  31.5 |        26 |        -0.09 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
@@ -41,7 +41,7 @@ Generated 2016-10-21.
 |   37 | Michael Best              |  26.9 |        21 |              |               |
 |   38 | Josh Taylor               |  26.8 |        40 |              |               |
 |   39 | David Hwang               |  26.8 |        44 |              |               |
-|   40 | Nick Cobbett              |  26.6 |        28 |        +0.96 |         +7.35 |
+|   40 | Nick Cobbett              |  26.6 |        28 |        +0.97 |         +7.36 |
 |   41 | Gary Golding              |  26.5 |         6 |              |               |
 |   42 | Ethan Kerr                |  26.4 |        12 |              |               |
 |   43 | Amos Vernon               |  26.4 |        30 |              |               |
@@ -66,8 +66,8 @@ Generated 2016-10-21.
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
-|   65 | John Kunze                |  24.7 |       305 |              |         -0.54 |
-|   66 | Martin Stokes             |  24.7 |        12 |              |               |
+|   65 | Martin Stokes             |  24.7 |        12 |              |               |
+|   66 | John Kunze                |  24.6 |       306 |        -0.09 |         -0.63 |
 |   67 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
