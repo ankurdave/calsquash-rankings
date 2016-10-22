@@ -292,19 +292,19 @@ Generated 2016-10-21.
 |  288 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  289 | Adam Soliman              |  14.2 |        32 |              |               |
 |  290 | Charles Denby             |  14.2 |         5 |              |               |
-|  291 | Diego Butrich             |  14.1 |         5 |              |               |
-|  292 | Neil Sachs                |  14.1 |        12 |              |               |
-|  293 | Rupert Myers              |  14.0 |        27 |              |         +2.26 |
-|  294 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  295 | Anibhav Singla            |  13.9 |         1 |              |               |
-|  296 | Mekoce Walker             |  13.8 |        38 |              |               |
-|  297 | Gurj Johal                |  13.8 |         2 |              |               |
-|  298 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  299 | Josephine Lee             |  13.7 |         6 |              |               |
-|  300 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  301 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  302 | Lars Foleide              |  13.5 |        11 |              |               |
-|  303 | Sahar Sareminaeni         |  13.5 |         8 |        +5.56 |               |
+|  291 | Sahar Sareminaeni         |  14.2 |         9 |        +6.25 |               |
+|  292 | Diego Butrich             |  14.1 |         5 |              |               |
+|  293 | Neil Sachs                |  14.1 |        12 |              |               |
+|  294 | Rupert Myers              |  14.0 |        27 |              |         +2.26 |
+|  295 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
+|  296 | Anibhav Singla            |  13.9 |         1 |              |               |
+|  297 | Mekoce Walker             |  13.8 |        38 |              |               |
+|  298 | Gurj Johal                |  13.8 |         2 |              |               |
+|  299 | Freeden Ouer              |  13.8 |         1 |              |               |
+|  300 | Josephine Lee             |  13.7 |         6 |              |               |
+|  301 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  302 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  303 | Lars Foleide              |  13.5 |        11 |              |               |
 |  304 | Alex Rennet               |  13.5 |         2 |              |               |
 |  305 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  306 | Jake Toy                  |  13.4 |         5 |              |               |
@@ -320,7 +320,7 @@ Generated 2016-10-21.
 |  316 | Josh Shiode               |  12.6 |        20 |              |               |
 |  317 | Huw Lester                |  12.5 |         1 |              |               |
 |  318 | Richard Fabini            |  12.4 |         3 |              |               |
-|  319 | Jennifer Rha              |  12.3 |        17 |              |         +0.90 |
+|  319 | Jennifer Rha              |  12.4 |        18 |        +0.12 |         +1.02 |
 |  320 | John Givens               |  12.2 |        13 |              |               |
 |  321 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  322 | Reed Foster               |  12.1 |         8 |              |               |

@@ -38,11 +38,11 @@ Generated 2016-10-21.
 |   34 | Kent Daniels        |  14.9 |        91 |        -0.45 |         +0.22 |
 |   35 | Ankur Dave          |  14.8 |        51 |        +0.19 |         +6.87 |
 |   36 | Shai Vardi          |  14.5 |         4 |              |               |
-|   37 | Diego Butrich       |  14.1 |         5 |              |               |
-|   38 | Anibhav Singla      |  13.9 |         1 |              |               |
-|   39 | Sahar Sareminaeni   |  13.5 |         8 |        +5.56 |               |
+|   37 | Sahar Sareminaeni   |  14.2 |         9 |        +6.25 |               |
+|   38 | Diego Butrich       |  14.1 |         5 |              |               |
+|   39 | Anibhav Singla      |  13.9 |         1 |              |               |
 |   40 | Nikhil Paranjape    |  13.3 |        27 |        +0.64 |               |
-|   41 | Jennifer Rha        |  12.3 |        17 |              |         +0.90 |
+|   41 | Jennifer Rha        |  12.4 |        18 |        +0.12 |         +1.02 |
 |   42 | Daniel Schwartz     |  10.5 |        21 |        +0.42 |               |
 |   43 | Josh Lebowitz       |  10.3 |        29 |        +0.75 |               |
 |   44 | Reto Sutter         |  10.3 |        48 |        -0.19 |         -0.02 |
