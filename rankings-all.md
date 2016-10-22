@@ -147,14 +147,14 @@ Generated 2016-10-21.
 |  143 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  144 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  145 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  146 | Robert Schwartz           |  20.8 |        78 |        +0.07 |         -1.03 |
-|  147 | Jamie Funk                |  20.8 |        30 |              |               |
-|  148 | Matthew Brett             |  20.7 |        20 |              |               |
-|  149 | Prakash Bathini           |  20.7 |       122 |              |         -0.66 |
-|  150 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  151 | Jared Bard                |  20.7 |        34 |        -0.30 |         +1.72 |
-|  152 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  153 | Mike Jensen-Akula         |  20.6 |       219 |        +0.16 |         -1.04 |
+|  146 | Jamie Funk                |  20.8 |        30 |              |               |
+|  147 | Matthew Brett             |  20.7 |        20 |              |               |
+|  148 | Prakash Bathini           |  20.7 |       122 |              |         -0.66 |
+|  149 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  150 | Jared Bard                |  20.7 |        34 |        -0.30 |         +1.72 |
+|  151 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  152 | Mike Jensen-Akula         |  20.6 |       219 |        +0.16 |         -1.04 |
+|  153 | Robert Schwartz           |  20.5 |        79 |        -0.22 |         -1.31 |
 |  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  155 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  156 | Andrew Green              |  20.5 |        52 |              |               |
@@ -165,14 +165,14 @@ Generated 2016-10-21.
 |  161 | John Grim                 |  20.1 |        13 |              |               |
 |  162 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  163 | Frank Kennan              |  20.1 |        11 |              |               |
-|  164 | Vishal Jain               |  20.0 |         2 |              |               |
-|  165 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  166 | Wesley Huang              |  20.0 |         8 |              |               |
-|  167 | Jeff Gordon               |  20.0 |        37 |        -0.02 |         +8.54 |
-|  168 | Jaime Vidal               |  19.9 |         8 |              |         +3.26 |
-|  169 | Liam King                 |  19.9 |         6 |              |               |
-|  170 | Lysander Jim              |  19.8 |         6 |              |               |
-|  171 | Jonathan Francis          |  19.7 |        69 |        +0.24 |         +0.12 |
+|  164 | Jonathan Francis          |  20.0 |        70 |        +0.54 |         +0.42 |
+|  165 | Vishal Jain               |  20.0 |         2 |              |               |
+|  166 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  167 | Wesley Huang              |  20.0 |         8 |              |               |
+|  168 | Jeff Gordon               |  20.0 |        37 |        -0.02 |         +8.54 |
+|  169 | Jaime Vidal               |  19.9 |         8 |              |         +3.26 |
+|  170 | Liam King                 |  19.9 |         6 |              |               |
+|  171 | Lysander Jim              |  19.8 |         6 |              |               |
 |  172 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  173 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  174 | Mike Delanty              |  19.7 |        12 |              |               |

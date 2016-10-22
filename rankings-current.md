@@ -18,12 +18,12 @@ Generated 2016-10-21.
 |   14 | Jonathan Hankar     |  21.6 |       185 |        -0.02 |         -0.90 |
 |   15 | Robert Isaac        |  21.4 |        13 |        +1.53 |               |
 |   16 | Mark Modera         |  21.4 |       312 |        +0.51 |         -0.48 |
-|   17 | Robert Schwartz     |  20.8 |        78 |        +0.07 |         -1.03 |
-|   18 | Jared Bard          |  20.7 |        34 |        -0.30 |         +1.72 |
-|   19 | Mike Jensen-Akula   |  20.6 |       219 |        +0.16 |         -1.04 |
-|   20 | Vishal Jain         |  20.0 |         2 |              |               |
-|   21 | Jeff Gordon         |  20.0 |        37 |        -0.02 |         +8.54 |
-|   22 | Jonathan Francis    |  19.7 |        69 |        +0.24 |         +0.12 |
+|   17 | Jared Bard          |  20.7 |        34 |        -0.30 |         +1.72 |
+|   18 | Mike Jensen-Akula   |  20.6 |       219 |        +0.16 |         -1.04 |
+|   19 | Robert Schwartz     |  20.5 |        79 |        -0.22 |         -1.31 |
+|   20 | Jonathan Francis    |  20.0 |        70 |        +0.54 |         +0.42 |
+|   21 | Vishal Jain         |  20.0 |         2 |              |               |
+|   22 | Jeff Gordon         |  20.0 |        37 |        -0.02 |         +8.54 |
 |   23 | Jaime Perez         |  19.2 |        14 |        -0.11 |               |
 |   24 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
 |   25 | Dror Matalon        |  18.6 |       354 |        -0.50 |         +0.52 |
