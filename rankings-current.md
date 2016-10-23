@@ -1,4 +1,4 @@
-Generated 2016-10-21.
+Generated 2016-10-23.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -8,13 +8,13 @@ Generated 2016-10-21.
 |    4 | Sam Sternberg       |  30.3 |       129 |        -0.32 |         +1.10 |
 |    5 | Frank Kennamer      |  27.1 |       212 |        -0.36 |         -0.60 |
 |    6 | Nick Cobbett        |  26.6 |        28 |        +0.97 |         +7.36 |
-|    7 | Jim Veitch          |  25.1 |       427 |        -0.21 |         -0.75 |
+|    7 | Jim Veitch          |  25.1 |       428 |        -0.19 |         -0.73 |
 |    8 | John Kunze          |  24.6 |       306 |        -0.09 |         -0.63 |
 |    9 | Dan Bohn            |  23.5 |        79 |        +0.29 |         -0.23 |
 |   10 | Matt Wong           |  23.0 |        75 |        +0.38 |         +2.07 |
 |   11 | Dan Meier           |  22.9 |        51 |        +0.16 |         +1.65 |
 |   12 | Saurabh Bajaj       |  21.8 |        22 |              |               |
-|   13 | Reid Johnsen        |  21.7 |        36 |        -0.33 |         +7.17 |
+|   13 | Reid Johnsen        |  21.6 |        36 |        -0.37 |         +7.13 |
 |   14 | Jonathan Hankar     |  21.6 |       185 |        -0.02 |         -0.90 |
 |   15 | Robert Isaac        |  21.4 |        13 |        +1.53 |               |
 |   16 | Mark Modera         |  21.4 |       312 |        +0.51 |         -0.48 |
@@ -22,7 +22,7 @@ Generated 2016-10-21.
 |   18 | Mike Jensen-Akula   |  20.6 |       219 |        +0.16 |         -1.04 |
 |   19 | Robert Schwartz     |  20.5 |        79 |        -0.22 |         -1.31 |
 |   20 | Jonathan Francis    |  20.0 |        70 |        +0.54 |         +0.42 |
-|   21 | Vishal Jain         |  20.0 |         2 |              |               |
+|   21 | Vishal Jain         |  20.0 |         3 |              |               |
 |   22 | Jeff Gordon         |  20.0 |        37 |        -0.02 |         +8.54 |
 |   23 | Jaime Perez         |  19.2 |        14 |        -0.11 |               |
 |   24 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |

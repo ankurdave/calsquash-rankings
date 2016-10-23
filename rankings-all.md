@@ -1,4 +1,4 @@
-Generated 2016-10-21.
+Generated 2016-10-23.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -58,7 +58,7 @@ Generated 2016-10-21.
 |   54 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   55 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   56 | Paul Greene               |  25.2 |         8 |              |               |
-|   57 | Jim Veitch                |  25.1 |       427 |        -0.21 |         -0.75 |
+|   57 | Jim Veitch                |  25.1 |       428 |        -0.19 |         -0.73 |
 |   58 | Mukul Sud                 |  25.0 |         3 |              |               |
 |   59 | Ben Seelig                |  25.0 |        69 |              |               |
 |   60 | Jaime Paterson            |  24.9 |         1 |              |               |
@@ -130,7 +130,7 @@ Generated 2016-10-21.
 |  126 | Omair Azam                |  21.7 |        18 |              |               |
 |  127 | Phin Lee                  |  21.7 |        16 |              |               |
 |  128 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  129 | Reid Johnsen              |  21.7 |        36 |        -0.33 |         +7.17 |
+|  129 | Reid Johnsen              |  21.6 |        36 |        -0.37 |         +7.13 |
 |  130 | Jonathan Hankar           |  21.6 |       185 |        -0.02 |         -0.90 |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
 |  132 | Robert Isaac              |  21.4 |        13 |        +1.53 |               |
@@ -166,7 +166,7 @@ Generated 2016-10-21.
 |  162 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  163 | Frank Kennan              |  20.1 |        11 |              |               |
 |  164 | Jonathan Francis          |  20.0 |        70 |        +0.54 |         +0.42 |
-|  165 | Vishal Jain               |  20.0 |         2 |              |               |
+|  165 | Vishal Jain               |  20.0 |         3 |              |               |
 |  166 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  167 | Wesley Huang              |  20.0 |         8 |              |               |
 |  168 | Jeff Gordon               |  20.0 |        37 |        -0.02 |         +8.54 |
