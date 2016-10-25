@@ -1,4 +1,4 @@
-Generated 2016-10-23.
+Generated 2016-10-25.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -8,39 +8,39 @@ Generated 2016-10-23.
 |    4 | Sam Sternberg       |  30.3 |       129 |        -0.32 |         +1.10 |
 |    5 | Frank Kennamer      |  27.1 |       212 |        -0.36 |         -0.60 |
 |    6 | Nick Cobbett        |  26.6 |        28 |        +0.97 |         +7.36 |
-|    7 | Jim Veitch          |  25.1 |       428 |        -0.19 |         -0.73 |
+|    7 | Jim Veitch          |  25.2 |       429 |        -0.16 |         -0.71 |
 |    8 | John Kunze          |  24.6 |       306 |        -0.09 |         -0.63 |
 |    9 | Dan Bohn            |  23.5 |        79 |        +0.29 |         -0.23 |
-|   10 | Matt Wong           |  23.0 |        75 |        +0.38 |         +2.07 |
+|   10 | Matt Wong           |  23.0 |        75 |        +0.36 |         +2.05 |
 |   11 | Dan Meier           |  22.9 |        51 |        +0.16 |         +1.65 |
 |   12 | Saurabh Bajaj       |  21.8 |        22 |              |               |
-|   13 | Reid Johnsen        |  21.6 |        36 |        -0.37 |         +7.13 |
-|   14 | Jonathan Hankar     |  21.6 |       185 |        -0.02 |         -0.90 |
-|   15 | Robert Isaac        |  21.4 |        13 |        +1.53 |               |
+|   13 | Jonathan Hankar     |  21.7 |       186 |        +0.10 |         -0.78 |
+|   14 | Reid Johnsen        |  21.6 |        37 |        -0.35 |         +7.15 |
+|   15 | Robert Isaac        |  21.4 |        13 |        +1.55 |               |
 |   16 | Mark Modera         |  21.4 |       312 |        +0.51 |         -0.48 |
 |   17 | Jared Bard          |  20.7 |        34 |        -0.30 |         +1.72 |
-|   18 | Mike Jensen-Akula   |  20.6 |       219 |        +0.16 |         -1.04 |
-|   19 | Robert Schwartz     |  20.5 |        79 |        -0.22 |         -1.31 |
-|   20 | Jonathan Francis    |  20.0 |        70 |        +0.54 |         +0.42 |
-|   21 | Vishal Jain         |  20.0 |         3 |              |               |
-|   22 | Jeff Gordon         |  20.0 |        37 |        -0.02 |         +8.54 |
-|   23 | Jaime Perez         |  19.2 |        14 |        -0.11 |               |
-|   24 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
-|   25 | Dror Matalon        |  18.6 |       354 |        -0.50 |         +0.52 |
-|   26 | Shaun Lim           |  18.2 |        43 |        +0.07 |         +0.29 |
-|   27 | Josh Trauner        |  17.9 |        37 |        +0.20 |               |
-|   28 | Eric Borden         |  17.4 |        33 |        -0.20 |         +3.02 |
-|   29 | Wayne Heiser        |  17.2 |        32 |        +0.10 |               |
+|   18 | Anibhav Singla      |  20.6 |         3 |              |               |
+|   19 | Mike Jensen-Akula   |  20.6 |       219 |        +0.16 |         -1.04 |
+|   20 | Robert Schwartz     |  20.5 |        79 |        -0.22 |         -1.31 |
+|   21 | Jonathan Francis    |  20.0 |        70 |        +0.54 |         +0.42 |
+|   22 | Vishal Jain         |  20.0 |         3 |              |               |
+|   23 | Jeff Gordon         |  20.0 |        37 |        -0.02 |         +8.54 |
+|   24 | Jaime Perez         |  19.1 |        15 |        -0.20 |               |
+|   25 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
+|   26 | Dror Matalon        |  18.6 |       354 |        -0.52 |         +0.51 |
+|   27 | Shaun Lim           |  18.2 |        43 |        +0.07 |         +0.29 |
+|   28 | Josh Trauner        |  17.9 |        38 |        +0.14 |               |
+|   29 | Eric Borden         |  17.4 |        33 |        -0.20 |         +3.02 |
 |   30 | Troup Howard        |  17.2 |        39 |        -0.18 |         -0.47 |
-|   31 | David Bratt         |  16.9 |        17 |        +0.45 |         +0.78 |
-|   32 | Chris Flores        |  16.7 |       302 |        -0.08 |         -2.07 |
-|   33 | Terry Chang         |  15.8 |        47 |        -0.21 |         +2.17 |
-|   34 | Kent Daniels        |  14.9 |        91 |        -0.45 |         +0.22 |
-|   35 | Ankur Dave          |  14.8 |        51 |        +0.19 |         +6.87 |
-|   36 | Shai Vardi          |  14.5 |         4 |              |               |
-|   37 | Sahar Sareminaeni   |  14.2 |         9 |        +6.25 |               |
-|   38 | Diego Butrich       |  14.1 |         5 |              |               |
-|   39 | Anibhav Singla      |  13.9 |         1 |              |               |
+|   31 | Wayne Heiser        |  17.2 |        33 |        +0.03 |               |
+|   32 | David Bratt         |  16.9 |        17 |        +0.45 |         +0.78 |
+|   33 | Chris Flores        |  16.7 |       302 |        -0.08 |         -2.07 |
+|   34 | Terry Chang         |  15.8 |        47 |        -0.21 |         +2.17 |
+|   35 | Kent Daniels        |  14.9 |        91 |        -0.45 |         +0.22 |
+|   36 | Ankur Dave          |  14.8 |        51 |        +0.19 |         +6.87 |
+|   37 | Shai Vardi          |  14.5 |         4 |              |               |
+|   38 | Sahar Sareminaeni   |  14.2 |         9 |        +6.25 |               |
+|   39 | Diego Butrich       |  14.1 |         5 |              |               |
 |   40 | Nikhil Paranjape    |  13.3 |        27 |        +0.64 |               |
 |   41 | Jennifer Rha        |  12.4 |        18 |        +0.12 |         +1.02 |
 |   42 | Daniel Schwartz     |  10.5 |        21 |        +0.42 |               |
