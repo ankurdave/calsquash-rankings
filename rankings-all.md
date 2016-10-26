@@ -1,4 +1,4 @@
-Generated 2016-10-25.
+Generated 2016-10-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -410,8 +410,8 @@ Generated 2016-10-25.
 |  406 | Mikel Shybut              |   6.5 |         4 |              |               |
 |  407 | Markus Boese              |   6.5 |         1 |              |               |
 |  408 | Dav Clark                 |   6.4 |         6 |              |               |
-|  409 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  410 | Keaton Noon               |   6.1 |        19 |              |               |
+|  409 | Keaton Noon               |   6.3 |        20 |        +0.16 |               |
+|  410 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  411 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  412 | Rohan Relan               |   6.0 |         4 |              |               |
 |  413 | David Zhu                 |   5.8 |         2 |              |               |
@@ -443,7 +443,7 @@ Generated 2016-10-25.
 |  439 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  440 | Phil Lin                  |   2.1 |         1 |              |               |
 |  441 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  442 | Cristhian Daniel          |   2.1 |        14 |        +2.07 |               |
+|  442 | Cristhian Daniel          |   2.0 |        14 |        +2.03 |               |
 |  443 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  444 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  445 | Himanshu Chandra          |   1.8 |         4 |              |               |
@@ -499,5 +499,5 @@ Generated 2016-10-25.
 |  495 | Susan Grand               |  -4.3 |         3 |              |               |
 |  496 | Sara Green                |  -5.8 |         1 |              |               |
 |  497 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  498 | Duncan MacRae             |  -6.1 |         5 |        -0.55 |               |
+|  498 | Duncan MacRae             |  -6.2 |         6 |        -0.60 |               |
 |  499 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |

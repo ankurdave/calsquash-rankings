@@ -1,4 +1,4 @@
-Generated 2016-10-25.
+Generated 2016-10-26.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -52,12 +52,12 @@ Generated 2016-10-25.
 |   48 | Raphael Magarik     |   8.3 |        12 |        -0.74 |               |
 |   49 | Duo Wang            |   8.3 |        63 |        -0.13 |         -0.02 |
 |   50 | Ryan Akers          |   7.7 |         2 |              |               |
-|   51 | Keaton Noon         |   6.1 |        19 |              |               |
+|   51 | Keaton Noon         |   6.3 |        20 |        +0.16 |               |
 |   52 | Alok Singh          |   5.4 |        14 |        -0.50 |               |
 |   53 | Jose Lara           |   4.8 |         7 |        -0.23 |               |
 |   54 | Zsolt Bartha        |   4.5 |        45 |        -0.08 |         +1.69 |
 |   55 | Sameer Bajaj        |   4.4 |         4 |        +1.62 |               |
 |   56 | Anuj Dawar          |   2.6 |         9 |        +0.13 |               |
-|   57 | Cristhian Daniel    |   2.1 |        14 |        +2.07 |               |
+|   57 | Cristhian Daniel    |   2.0 |        14 |        +2.03 |               |
 |   58 | Craig Hollow        |   1.5 |         2 |              |               |
-|   59 | Duncan MacRae       |  -6.1 |         5 |        -0.55 |               |
+|   59 | Duncan MacRae       |  -6.2 |         6 |        -0.60 |               |
