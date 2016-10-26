@@ -258,7 +258,7 @@ Generated 2016-10-26.
 |  254 | Jan Strasky               |  16.2 |        12 |              |               |
 |  255 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  256 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  257 | Terry Chang               |  15.8 |        47 |        -0.21 |         +2.17 |
+|  257 | Terry Chang               |  15.8 |        47 |        -0.20 |         +2.18 |
 |  258 | Louis Russell             |  15.8 |        20 |              |               |
 |  259 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  260 | Jared Nunn                |  15.7 |         5 |              |               |
@@ -273,14 +273,14 @@ Generated 2016-10-26.
 |  269 | Dennis Chan               |  15.1 |         1 |              |               |
 |  270 | Allie Giovanelli          |  15.0 |         4 |              |               |
 |  271 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  272 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
-|  273 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  274 | Kent Daniels              |  14.9 |        91 |        -0.45 |         +0.22 |
-|  275 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  276 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  277 | Paul Norberg              |  14.8 |         8 |              |               |
-|  278 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  279 | Ankur Dave                |  14.8 |        51 |        +0.19 |         +6.87 |
+|  272 | Ankur Dave                |  15.0 |        52 |        +0.36 |         +7.05 |
+|  273 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  274 | Mimi Zhang                |  14.9 |         6 |              |               |
+|  275 | Kent Daniels              |  14.9 |        91 |        -0.45 |         +0.22 |
+|  276 | Jeff Dorman               |  14.9 |        14 |              |               |
+|  277 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  278 | Paul Norberg              |  14.8 |         8 |              |               |
+|  279 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  280 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  281 | David Elfant              |  14.7 |         2 |              |               |
 |  282 | Ansul Rajgha              |  14.7 |        15 |              |               |
@@ -294,9 +294,9 @@ Generated 2016-10-26.
 |  290 | Adam Soliman              |  14.2 |        32 |              |               |
 |  291 | Charles Denby             |  14.2 |         5 |              |               |
 |  292 | Sahar Sareminaeni         |  14.2 |         9 |        +6.25 |               |
-|  293 | Diego Butrich             |  14.1 |         5 |              |               |
-|  294 | Neil Sachs                |  14.1 |        12 |              |               |
-|  295 | Rupert Myers              |  14.0 |        27 |              |         +2.26 |
+|  293 | Neil Sachs                |  14.1 |        12 |              |               |
+|  294 | Rupert Myers              |  14.0 |        27 |              |         +2.26 |
+|  295 | Diego Butrich             |  13.9 |         6 |        -0.20 |               |
 |  296 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  297 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  298 | Gurj Johal                |  13.8 |         2 |              |               |
