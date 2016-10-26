@@ -93,8 +93,8 @@ Generated 2016-10-25.
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
-|   92 | Dan Bohn                  |  23.5 |        79 |        +0.29 |         -0.23 |
-|   93 | Garvin Heath              |  23.4 |        28 |              |               |
+|   92 | Garvin Heath              |  23.4 |        28 |              |               |
+|   93 | Dan Bohn                  |  23.3 |        80 |        +0.14 |         -0.38 |
 |   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.42 |
 |   95 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   96 | Matt Wong                 |  23.0 |        75 |        +0.36 |         +2.05 |
@@ -123,17 +123,17 @@ Generated 2016-10-25.
 |  119 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  120 | Andrew Lawrie             |  22.0 |        46 |              |         +0.96 |
 |  121 | Jan Beranek               |  21.9 |        46 |              |               |
-|  122 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  123 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  124 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  125 | Charlie Weiss             |  21.7 |        70 |              |         -0.18 |
-|  126 | Omair Azam                |  21.7 |        18 |              |               |
-|  127 | Jonathan Hankar           |  21.7 |       186 |        +0.10 |         -0.78 |
+|  122 | Jonathan Hankar           |  21.9 |       187 |        +0.26 |         -0.62 |
+|  123 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  124 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  125 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  126 | Charlie Weiss             |  21.7 |        70 |              |         -0.18 |
+|  127 | Omair Azam                |  21.7 |        18 |              |               |
 |  128 | Phin Lee                  |  21.7 |        16 |              |               |
 |  129 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  130 | Reid Johnsen              |  21.6 |        37 |        -0.35 |         +7.15 |
 |  131 | Dante Popple              |  21.5 |        17 |              |               |
-|  132 | Robert Isaac              |  21.4 |        13 |        +1.55 |               |
+|  132 | Robert Isaac              |  21.4 |        13 |        +1.52 |               |
 |  133 | Mark Modera               |  21.4 |       312 |        +0.51 |         -0.48 |
 |  134 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  135 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -185,7 +185,7 @@ Generated 2016-10-25.
 |  181 | Greg Adams                |  19.3 |        10 |              |               |
 |  182 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  183 | John Corcoran             |  19.1 |        49 |              |               |
-|  184 | Jaime Perez               |  19.1 |        15 |        -0.20 |               |
+|  184 | Jaime Perez               |  19.1 |        15 |        -0.21 |               |
 |  185 | Kedar Shah                |  19.1 |         9 |              |               |
 |  186 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  187 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -201,7 +201,7 @@ Generated 2016-10-25.
 |  197 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  198 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  199 | Allan Sly                 |  18.6 |        29 |              |               |
-|  200 | Dror Matalon              |  18.6 |       354 |        -0.52 |         +0.51 |
+|  200 | Dror Matalon              |  18.6 |       354 |        -0.51 |         +0.51 |
 |  201 | Jason Facchin             |  18.5 |         3 |              |               |
 |  202 | Yan Liu                   |  18.5 |        10 |              |               |
 |  203 | Akshay Dugar              |  18.5 |         6 |              |               |

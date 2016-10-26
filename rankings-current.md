@@ -10,13 +10,13 @@ Generated 2016-10-25.
 |    6 | Nick Cobbett        |  26.6 |        28 |        +0.97 |         +7.36 |
 |    7 | Jim Veitch          |  25.2 |       429 |        -0.16 |         -0.71 |
 |    8 | John Kunze          |  24.6 |       306 |        -0.09 |         -0.63 |
-|    9 | Dan Bohn            |  23.5 |        79 |        +0.29 |         -0.23 |
+|    9 | Dan Bohn            |  23.3 |        80 |        +0.14 |         -0.38 |
 |   10 | Matt Wong           |  23.0 |        75 |        +0.36 |         +2.05 |
 |   11 | Dan Meier           |  22.9 |        51 |        +0.16 |         +1.65 |
-|   12 | Saurabh Bajaj       |  21.8 |        22 |              |               |
-|   13 | Jonathan Hankar     |  21.7 |       186 |        +0.10 |         -0.78 |
+|   12 | Jonathan Hankar     |  21.9 |       187 |        +0.26 |         -0.62 |
+|   13 | Saurabh Bajaj       |  21.8 |        22 |              |               |
 |   14 | Reid Johnsen        |  21.6 |        37 |        -0.35 |         +7.15 |
-|   15 | Robert Isaac        |  21.4 |        13 |        +1.55 |               |
+|   15 | Robert Isaac        |  21.4 |        13 |        +1.52 |               |
 |   16 | Mark Modera         |  21.4 |       312 |        +0.51 |         -0.48 |
 |   17 | Jared Bard          |  20.7 |        34 |        -0.30 |         +1.72 |
 |   18 | Anibhav Singla      |  20.6 |         3 |              |               |
@@ -25,9 +25,9 @@ Generated 2016-10-25.
 |   21 | Jonathan Francis    |  20.0 |        70 |        +0.54 |         +0.42 |
 |   22 | Vishal Jain         |  20.0 |         3 |              |               |
 |   23 | Jeff Gordon         |  20.0 |        37 |        -0.02 |         +8.54 |
-|   24 | Jaime Perez         |  19.1 |        15 |        -0.20 |               |
+|   24 | Jaime Perez         |  19.1 |        15 |        -0.21 |               |
 |   25 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
-|   26 | Dror Matalon        |  18.6 |       354 |        -0.52 |         +0.51 |
+|   26 | Dror Matalon        |  18.6 |       354 |        -0.51 |         +0.51 |
 |   27 | Shaun Lim           |  18.2 |        43 |        +0.07 |         +0.29 |
 |   28 | Josh Trauner        |  17.9 |        38 |        +0.14 |               |
 |   29 | Eric Borden         |  17.4 |        33 |        -0.20 |         +3.02 |
