@@ -1,4 +1,4 @@
-Generated 2016-10-26.
+Generated 2016-10-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -242,7 +242,7 @@ Generated 2016-10-26.
 |  238 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  239 | Baxter Leman              |  16.9 |         6 |              |               |
 |  240 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  241 | David Bratt               |  16.9 |        17 |        +0.45 |         +0.78 |
+|  241 | David Bratt               |  16.9 |        17 |        +0.44 |         +0.77 |
 |  242 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  243 | Chris Flores              |  16.7 |       302 |        -0.08 |         -2.07 |
 |  244 | Chinghway Lim             |  16.7 |        10 |              |               |
@@ -258,7 +258,7 @@ Generated 2016-10-26.
 |  254 | Jan Strasky               |  16.2 |        12 |              |               |
 |  255 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  256 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  257 | Terry Chang               |  15.8 |        47 |        -0.20 |         +2.18 |
+|  257 | Terry Chang               |  15.8 |        48 |        -0.23 |         +2.15 |
 |  258 | Louis Russell             |  15.8 |        20 |              |               |
 |  259 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  260 | Jared Nunn                |  15.7 |         5 |              |               |
@@ -273,8 +273,8 @@ Generated 2016-10-26.
 |  269 | Dennis Chan               |  15.1 |         1 |              |               |
 |  270 | Allie Giovanelli          |  15.0 |         4 |              |               |
 |  271 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  272 | Ankur Dave                |  15.0 |        52 |        +0.36 |         +7.05 |
-|  273 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  272 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  273 | Ankur Dave                |  15.0 |        52 |        +0.36 |         +7.05 |
 |  274 | Mimi Zhang                |  14.9 |         6 |              |               |
 |  275 | Jeff Dorman               |  14.9 |        14 |              |               |
 |  276 | Alex Marqusee             |  14.9 |        28 |              |               |
@@ -286,17 +286,17 @@ Generated 2016-10-26.
 |  282 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  283 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  284 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  285 | Shai Vardi                |  14.5 |         4 |              |               |
-|  286 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  287 | Max Woodworth             |  14.4 |         7 |              |               |
-|  288 | Juliet Shih               |  14.4 |        11 |              |               |
-|  289 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  290 | Adam Soliman              |  14.2 |        32 |              |               |
-|  291 | Charles Denby             |  14.2 |         5 |              |               |
-|  292 | Sahar Sareminaeni         |  14.2 |         9 |        +6.25 |               |
-|  293 | Neil Sachs                |  14.1 |        12 |              |               |
-|  294 | Rupert Myers              |  14.0 |        27 |              |         +2.26 |
-|  295 | Diego Butrich             |  13.9 |         6 |        -0.20 |               |
+|  285 | Diego Butrich             |  14.6 |         7 |        +0.47 |               |
+|  286 | Shai Vardi                |  14.5 |         4 |              |               |
+|  287 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  288 | Max Woodworth             |  14.4 |         7 |              |               |
+|  289 | Juliet Shih               |  14.4 |        11 |              |               |
+|  290 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  291 | Adam Soliman              |  14.2 |        32 |              |               |
+|  292 | Charles Denby             |  14.2 |         5 |              |               |
+|  293 | Sahar Sareminaeni         |  14.2 |         9 |        +6.25 |               |
+|  294 | Neil Sachs                |  14.1 |        12 |              |               |
+|  295 | Rupert Myers              |  14.0 |        27 |              |         +2.26 |
 |  296 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  297 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  298 | Gurj Johal                |  13.8 |         2 |              |               |

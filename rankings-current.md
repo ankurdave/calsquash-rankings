@@ -1,4 +1,4 @@
-Generated 2016-10-26.
+Generated 2016-10-27.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -33,14 +33,14 @@ Generated 2016-10-26.
 |   29 | Eric Borden         |  17.4 |        33 |        -0.20 |         +3.02 |
 |   30 | Troup Howard        |  17.2 |        39 |        -0.18 |         -0.47 |
 |   31 | Wayne Heiser        |  17.2 |        33 |        +0.03 |               |
-|   32 | David Bratt         |  16.9 |        17 |        +0.45 |         +0.78 |
+|   32 | David Bratt         |  16.9 |        17 |        +0.44 |         +0.77 |
 |   33 | Chris Flores        |  16.7 |       302 |        -0.08 |         -2.07 |
-|   34 | Terry Chang         |  15.8 |        47 |        -0.20 |         +2.18 |
+|   34 | Terry Chang         |  15.8 |        48 |        -0.23 |         +2.15 |
 |   35 | Ankur Dave          |  15.0 |        52 |        +0.36 |         +7.05 |
 |   36 | Kent Daniels        |  14.9 |        91 |        -0.47 |         +0.20 |
-|   37 | Shai Vardi          |  14.5 |         4 |              |               |
-|   38 | Sahar Sareminaeni   |  14.2 |         9 |        +6.25 |               |
-|   39 | Diego Butrich       |  13.9 |         6 |        -0.20 |               |
+|   37 | Diego Butrich       |  14.6 |         7 |        +0.47 |               |
+|   38 | Shai Vardi          |  14.5 |         4 |              |               |
+|   39 | Sahar Sareminaeni   |  14.2 |         9 |        +6.25 |               |
 |   40 | Nikhil Paranjape    |  13.3 |        27 |        +0.64 |               |
 |   41 | Jennifer Rha        |  12.4 |        18 |        +0.12 |         +1.02 |
 |   42 | Daniel Schwartz     |  10.5 |        21 |        +0.42 |               |
