@@ -28,7 +28,7 @@ Generated 2016-10-26.
 |   24 | Jaime Perez         |  19.1 |        15 |        -0.21 |               |
 |   25 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
 |   26 | Dror Matalon        |  18.6 |       354 |        -0.51 |         +0.51 |
-|   27 | Shaun Lim           |  18.2 |        43 |        +0.07 |         +0.29 |
+|   27 | Shaun Lim           |  18.3 |        44 |        +0.11 |         +0.34 |
 |   28 | Josh Trauner        |  17.9 |        38 |        +0.14 |               |
 |   29 | Eric Borden         |  17.4 |        33 |        -0.20 |         +3.02 |
 |   30 | Troup Howard        |  17.2 |        39 |        -0.18 |         -0.47 |
@@ -37,17 +37,17 @@ Generated 2016-10-26.
 |   33 | Chris Flores        |  16.7 |       302 |        -0.08 |         -2.07 |
 |   34 | Terry Chang         |  15.8 |        47 |        -0.20 |         +2.18 |
 |   35 | Ankur Dave          |  15.0 |        52 |        +0.36 |         +7.05 |
-|   36 | Kent Daniels        |  14.9 |        91 |        -0.45 |         +0.22 |
+|   36 | Kent Daniels        |  14.9 |        91 |        -0.47 |         +0.20 |
 |   37 | Shai Vardi          |  14.5 |         4 |              |               |
 |   38 | Sahar Sareminaeni   |  14.2 |         9 |        +6.25 |               |
 |   39 | Diego Butrich       |  13.9 |         6 |        -0.20 |               |
 |   40 | Nikhil Paranjape    |  13.3 |        27 |        +0.64 |               |
 |   41 | Jennifer Rha        |  12.4 |        18 |        +0.12 |         +1.02 |
 |   42 | Daniel Schwartz     |  10.5 |        21 |        +0.42 |               |
-|   43 | Josh Lebowitz       |  10.3 |        29 |        +0.75 |               |
-|   44 | Reto Sutter         |  10.3 |        48 |        -0.19 |         -0.02 |
+|   43 | Reto Sutter         |  10.3 |        48 |        -0.19 |         -0.02 |
+|   44 | Josh Lebowitz       |  10.3 |        29 |        +0.71 |               |
 |   45 | Nate Aden           |   9.7 |        22 |        +0.34 |               |
-|   46 | Meldan Heaslip      |   9.1 |         7 |        +4.88 |               |
+|   46 | Meldan Heaslip      |   8.9 |         8 |        +4.68 |               |
 |   47 | Brian Kempenich     |   8.5 |        39 |        -0.11 |         -0.64 |
 |   48 | Raphael Magarik     |   8.3 |        12 |        -0.74 |               |
 |   49 | Duo Wang            |   8.3 |        63 |        -0.13 |         -0.02 |
@@ -57,7 +57,7 @@ Generated 2016-10-26.
 |   53 | Jose Lara           |   4.8 |         7 |        -0.23 |               |
 |   54 | Zsolt Bartha        |   4.5 |        45 |        -0.08 |         +1.69 |
 |   55 | Sameer Bajaj        |   4.4 |         4 |        +1.62 |               |
-|   56 | Anuj Dawar          |   2.6 |         9 |        +0.13 |               |
+|   56 | Anuj Dawar          |   2.5 |         9 |        +0.03 |               |
 |   57 | Cristhian Daniel    |   2.0 |        14 |        +2.03 |               |
 |   58 | Craig Hollow        |   1.5 |         2 |              |               |
 |   59 | Duncan MacRae       |  -6.2 |         6 |        -0.60 |               |

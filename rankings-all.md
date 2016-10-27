@@ -209,8 +209,8 @@ Generated 2016-10-26.
 |  205 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  206 | John Eng                  |  18.4 |        28 |              |               |
 |  207 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  208 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  209 | Shaun Lim                 |  18.2 |        43 |        +0.07 |         +0.29 |
+|  208 | Shaun Lim                 |  18.3 |        44 |        +0.11 |         +0.34 |
+|  209 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  210 | Bob Roller                |  18.2 |         6 |              |               |
 |  211 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  212 | Josh Trauner              |  17.9 |        38 |        +0.14 |               |
@@ -276,9 +276,9 @@ Generated 2016-10-26.
 |  272 | Ankur Dave                |  15.0 |        52 |        +0.36 |         +7.05 |
 |  273 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
 |  274 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  275 | Kent Daniels              |  14.9 |        91 |        -0.45 |         +0.22 |
-|  276 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  277 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  275 | Jeff Dorman               |  14.9 |        14 |              |               |
+|  276 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  277 | Kent Daniels              |  14.9 |        91 |        -0.47 |         +0.20 |
 |  278 | Paul Norberg              |  14.8 |         8 |              |               |
 |  279 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  280 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
@@ -345,9 +345,9 @@ Generated 2016-10-26.
 |  341 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  342 | Brian Puglise             |  10.4 |         2 |              |               |
 |  343 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  344 | Josh Lebowitz             |  10.3 |        29 |        +0.75 |               |
-|  345 | Reto Sutter               |  10.3 |        48 |        -0.19 |         -0.02 |
-|  346 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  344 | Reto Sutter               |  10.3 |        48 |        -0.19 |         -0.02 |
+|  345 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  346 | Josh Lebowitz             |  10.3 |        29 |        +0.71 |               |
 |  347 | John Provine              |  10.2 |        16 |              |               |
 |  348 | Anthony Patterson         |  10.2 |         6 |              |               |
 |  349 | Nicholas DuBroff          |  10.2 |         8 |              |               |
@@ -370,9 +370,9 @@ Generated 2016-10-26.
 |  366 | Greg Sperla               |   9.3 |         8 |              |               |
 |  367 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  368 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  369 | Meldan Heaslip            |   9.1 |         7 |        +4.88 |               |
-|  370 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  371 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
+|  369 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  370 | Laura Dobbs               |   9.0 |        26 |              |         -0.49 |
+|  371 | Meldan Heaslip            |   8.9 |         8 |        +4.68 |               |
 |  372 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  373 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  374 | Therese Jones             |   8.7 |         6 |              |               |
@@ -437,8 +437,8 @@ Generated 2016-10-26.
 |  433 | Nadir Shams               |   3.0 |         2 |              |               |
 |  434 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  435 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  436 | Anuj Dawar                |   2.6 |         9 |        +0.13 |               |
-|  437 | David Vogel               |   2.6 |         7 |              |               |
+|  436 | David Vogel               |   2.6 |         7 |              |               |
+|  437 | Anuj Dawar                |   2.5 |         9 |        +0.03 |               |
 |  438 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  439 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  440 | Phil Lin                  |   2.1 |         1 |              |               |
