@@ -1,4 +1,4 @@
-Generated 2016-10-31.
+Generated 2016-11-01.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -405,12 +405,12 @@ Generated 2016-10-31.
 |  401 | Alex Walters              |   7.4 |         3 |              |               |
 |  402 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
 |  403 | Brookes Degen             |   6.8 |         6 |              |               |
-|  404 | Joshua Braver             |   6.5 |         1 |              |               |
-|  405 | Pablo Paredes             |   6.5 |         1 |              |               |
-|  406 | Mikel Shybut              |   6.5 |         4 |              |               |
-|  407 | Markus Boese              |   6.5 |         1 |              |               |
-|  408 | Dav Clark                 |   6.4 |         6 |              |               |
-|  409 | Keaton Noon               |   6.3 |        20 |        +0.16 |               |
+|  404 | Keaton Noon               |   6.6 |        21 |        +0.44 |               |
+|  405 | Joshua Braver             |   6.5 |         1 |              |               |
+|  406 | Pablo Paredes             |   6.5 |         1 |              |               |
+|  407 | Mikel Shybut              |   6.5 |         4 |              |               |
+|  408 | Markus Boese              |   6.5 |         1 |              |               |
+|  409 | Dav Clark                 |   6.4 |         6 |              |               |
 |  410 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  411 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  412 | Rohan Relan               |   6.0 |         4 |              |               |
@@ -418,7 +418,7 @@ Generated 2016-10-31.
 |  414 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  415 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  416 | Manu Vaish                |   5.5 |         1 |              |               |
-|  417 | Alok Singh                |   5.4 |        14 |        -0.50 |               |
+|  417 | Alok Singh                |   5.3 |        14 |        -0.55 |               |
 |  418 | Emily Moylan              |   5.2 |        17 |              |               |
 |  419 | Mohammad Salama           |   5.2 |         5 |              |         +1.20 |
 |  420 | Catherine Wang            |   5.2 |        10 |              |               |
@@ -428,7 +428,7 @@ Generated 2016-10-31.
 |  424 | Jose Lara                 |   4.7 |         7 |        -0.27 |               |
 |  425 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  426 | Zsolt Bartha              |   4.4 |        46 |        -0.21 |         +1.56 |
-|  427 | Sameer Bajaj              |   4.4 |         4 |        +1.62 |               |
+|  427 | Sameer Bajaj              |   4.3 |         4 |        +1.51 |               |
 |  428 | Annie Wong                |   4.0 |         3 |              |               |
 |  429 | Ryan                      |   4.0 |         3 |              |               |
 |  430 | Mateo Aceves              |   3.8 |         4 |              |               |
@@ -443,11 +443,11 @@ Generated 2016-10-31.
 |  439 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  440 | Phil Lin                  |   2.1 |         1 |              |               |
 |  441 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  442 | Cristhian Daniel          |   2.0 |        14 |        +2.03 |               |
-|  443 | Craig Hollow              |   1.9 |         3 |              |               |
-|  444 | Adeesh Goel               |   1.9 |         3 |              |               |
-|  445 | Heather Dunbar            |   1.8 |         1 |              |               |
-|  446 | Himanshu Chandra          |   1.8 |         4 |              |               |
+|  442 | Craig Hollow              |   1.9 |         3 |              |               |
+|  443 | Adeesh Goel               |   1.9 |         3 |              |               |
+|  444 | Heather Dunbar            |   1.8 |         1 |              |               |
+|  445 | Himanshu Chandra          |   1.8 |         4 |              |               |
+|  446 | Cristhian Daniel          |   1.7 |        15 |        +1.72 |               |
 |  447 | David Gundry              |   1.7 |         3 |              |               |
 |  448 | Shantanu Mittal           |   1.6 |         3 |              |               |
 |  449 | Vin Marshall              |   1.5 |        11 |              |               |
@@ -499,5 +499,5 @@ Generated 2016-10-31.
 |  495 | Susan Grand               |  -4.3 |         3 |              |               |
 |  496 | Sara Green                |  -5.8 |         1 |              |               |
 |  497 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  498 | Duncan MacRae             |  -6.2 |         6 |        -0.60 |               |
+|  498 | Duncan MacRae             |  -6.2 |         6 |        -0.63 |               |
 |  499 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |

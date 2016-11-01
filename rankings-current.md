@@ -1,4 +1,4 @@
-Generated 2016-10-31.
+Generated 2016-11-01.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -52,12 +52,12 @@ Generated 2016-10-31.
 |   48 | Brian Kempenich     |   8.5 |        39 |        -0.09 |         -0.62 |
 |   49 | Duo Wang            |   8.3 |        63 |        -0.13 |         -0.02 |
 |   50 | Ryan Akers          |   7.7 |         2 |              |               |
-|   51 | Keaton Noon         |   6.3 |        20 |        +0.16 |               |
-|   52 | Alok Singh          |   5.4 |        14 |        -0.50 |               |
+|   51 | Keaton Noon         |   6.6 |        21 |        +0.44 |               |
+|   52 | Alok Singh          |   5.3 |        14 |        -0.55 |               |
 |   53 | Jose Lara           |   4.7 |         7 |        -0.27 |               |
 |   54 | Zsolt Bartha        |   4.4 |        46 |        -0.21 |         +1.56 |
-|   55 | Sameer Bajaj        |   4.4 |         4 |        +1.62 |               |
+|   55 | Sameer Bajaj        |   4.3 |         4 |        +1.51 |               |
 |   56 | Anuj Dawar          |   2.5 |         9 |        +0.03 |               |
-|   57 | Cristhian Daniel    |   2.0 |        14 |        +2.03 |               |
-|   58 | Craig Hollow        |   1.9 |         3 |              |               |
-|   59 | Duncan MacRae       |  -6.2 |         6 |        -0.60 |               |
+|   57 | Craig Hollow        |   1.9 |         3 |              |               |
+|   58 | Cristhian Daniel    |   1.7 |        15 |        +1.72 |               |
+|   59 | Duncan MacRae       |  -6.2 |         6 |        -0.63 |               |
