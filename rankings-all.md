@@ -226,17 +226,17 @@ Generated 2016-11-01.
 |  222 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  223 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  224 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  225 | Craig Riddell             |  17.4 |         8 |              |               |
-|  226 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  227 | Troup Howard              |  17.3 |        40 |        -0.03 |         -0.32 |
-|  228 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  229 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  230 | Zach Brown                |  17.3 |         3 |              |               |
-|  231 | William Seles             |  17.2 |        15 |              |               |
-|  232 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  233 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  234 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  235 | Wayne Heiser              |  17.2 |        33 |        +0.03 |               |
+|  225 | Wayne Heiser              |  17.4 |        34 |        +0.22 |               |
+|  226 | Craig Riddell             |  17.4 |         8 |              |               |
+|  227 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  228 | Troup Howard              |  17.3 |        40 |        -0.03 |         -0.32 |
+|  229 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  230 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  231 | Zach Brown                |  17.3 |         3 |              |               |
+|  232 | William Seles             |  17.2 |        15 |              |               |
+|  233 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  234 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  235 | Lucas Cheon               |  17.2 |        19 |              |               |
 |  236 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  237 | Neil Conway               |  17.0 |        55 |              |               |
 |  238 | Michael Cianfrocco        |  17.0 |        18 |              |               |
@@ -244,10 +244,10 @@ Generated 2016-11-01.
 |  240 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  241 | David Bratt               |  16.8 |        18 |        +0.39 |         +0.72 |
 |  242 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  243 | Chris Flores              |  16.7 |       302 |        -0.09 |         -2.08 |
-|  244 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  245 | David Shabelman           |  16.7 |        30 |              |               |
-|  246 | Mark Priven               |  16.6 |        72 |              |               |
+|  243 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  244 | David Shabelman           |  16.7 |        30 |              |               |
+|  245 | Mark Priven               |  16.6 |        72 |              |               |
+|  246 | Chris Flores              |  16.6 |       303 |        -0.22 |         -2.20 |
 |  247 | William Coleman           |  16.5 |        48 |              |               |
 |  248 | Mike Troxell              |  16.5 |         8 |              |               |
 |  249 | Danish Mir                |  16.4 |         1 |              |               |
