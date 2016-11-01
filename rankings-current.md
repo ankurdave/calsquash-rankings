@@ -2,11 +2,11 @@ Generated 2016-10-31.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant         |  34.6 |         8 |        +3.09 |               |
+|    1 | Colin Grant         |  34.6 |         8 |        +3.11 |               |
 |    2 | Rees Sweeney-Taylor |  32.0 |        87 |              |         +0.70 |
 |    3 | Eric Katerman       |  31.5 |        27 |        -0.06 |               |
-|    4 | Sam Sternberg       |  30.4 |       130 |        -0.28 |         +1.14 |
-|    5 | Frank Kennamer      |  27.1 |       212 |        -0.36 |         -0.60 |
+|    4 | Sam Sternberg       |  30.5 |       131 |        -0.13 |         +1.29 |
+|    5 | Frank Kennamer      |  26.9 |       213 |        -0.53 |         -0.77 |
 |    6 | Nick Cobbett        |  26.6 |        28 |        +0.96 |         +7.36 |
 |    7 | Jim Veitch          |  25.0 |       430 |        -0.33 |         -0.87 |
 |    8 | John Kunze          |  24.6 |       306 |        -0.08 |         -0.62 |

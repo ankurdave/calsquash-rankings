@@ -4,7 +4,7 @@ Generated 2016-10-31.
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  35.0 |       212 |              |         -0.65 |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
-|    3 | Colin Grant               |  34.6 |         8 |        +3.09 |               |
+|    3 | Colin Grant               |  34.6 |         8 |        +3.11 |               |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -18,7 +18,7 @@ Generated 2016-10-31.
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.4 |       130 |        -0.28 |         +1.14 |
+|   17 | Sam Sternberg             |  30.5 |       131 |        -0.13 |         +1.29 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -34,10 +34,10 @@ Generated 2016-10-31.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.1 |       212 |        -0.36 |         -0.60 |
-|   34 | Hussain Raza              |  27.0 |        50 |              |               |
-|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   36 | Alan Jose                 |  26.9 |       182 |              |               |
+|   33 | Hussain Raza              |  27.0 |        50 |              |               |
+|   34 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   35 | Alan Jose                 |  26.9 |       182 |              |               |
+|   36 | Frank Kennamer            |  26.9 |       213 |        -0.53 |         -0.77 |
 |   37 | Michael Best              |  26.9 |        21 |              |               |
 |   38 | Josh Taylor               |  26.8 |        40 |              |               |
 |   39 | David Hwang               |  26.8 |        44 |              |               |
