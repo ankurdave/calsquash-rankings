@@ -1,4 +1,4 @@
-Generated 2016-11-01.
+Generated 2016-11-03.
 
 | Rank | Player              | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------|-------|-----------|--------------|---------------|
@@ -21,16 +21,16 @@ Generated 2016-11-01.
 |   17 | Jared Bard          |  20.8 |        35 |        -0.17 |         +1.85 |
 |   18 | Mike Jensen-Akula   |  20.6 |       219 |        +0.16 |         -1.04 |
 |   19 | Anibhav Singla      |  20.5 |         3 |              |               |
-|   20 | Robert Schwartz     |  20.3 |        80 |        -0.44 |         -1.53 |
+|   20 | Robert Schwartz     |  20.3 |        80 |        -0.42 |         -1.52 |
 |   21 | Vishal Jain         |  20.0 |         3 |              |               |
-|   22 | Jonathan Francis    |  20.0 |        70 |        +0.54 |         +0.42 |
-|   23 | Jeff Gordon         |  19.9 |        37 |        -0.03 |         +8.52 |
+|   22 | Jeff Gordon         |  19.9 |        37 |        -0.03 |         +8.52 |
+|   23 | Jonathan Francis    |  19.8 |        71 |        +0.34 |         +0.23 |
 |   24 | Jaime Perez         |  19.1 |        15 |        -0.21 |               |
 |   25 | Kenny Bell          |  18.8 |       120 |        -0.24 |         +0.72 |
 |   26 | Dror Matalon        |  18.6 |       354 |        -0.51 |         +0.51 |
 |   27 | Shaun Lim           |  18.3 |        44 |        +0.11 |         +0.34 |
-|   28 | Josh Trauner        |  17.8 |        39 |        +0.05 |               |
-|   29 | Eric Borden         |  17.8 |        34 |        +0.11 |         +3.33 |
+|   28 | Eric Borden         |  18.0 |        35 |        +0.36 |         +3.58 |
+|   29 | Josh Trauner        |  17.8 |        39 |        +0.05 |               |
 |   30 | Wayne Heiser        |  17.4 |        34 |        +0.22 |               |
 |   31 | Troup Howard        |  17.3 |        40 |        -0.03 |         -0.32 |
 |   32 | David Bratt         |  16.8 |        18 |        +0.39 |         +0.72 |

@@ -1,4 +1,4 @@
-Generated 2016-11-01.
+Generated 2016-11-03.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -160,19 +160,19 @@ Generated 2016-11-01.
 |  156 | Andrew Green              |  20.5 |        52 |              |               |
 |  157 | Sam McCormick             |  20.5 |        15 |              |        +10.48 |
 |  158 | Steven Sloman             |  20.4 |        10 |              |               |
-|  159 | Robert Schwartz           |  20.3 |        80 |        -0.44 |         -1.53 |
+|  159 | Robert Schwartz           |  20.3 |        80 |        -0.42 |         -1.52 |
 |  160 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  161 | Carl Schreck              |  20.2 |         2 |              |               |
 |  162 | John Grim                 |  20.1 |        13 |              |               |
 |  163 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  164 | Frank Kennan              |  20.1 |        11 |              |               |
 |  165 | Vishal Jain               |  20.0 |         3 |              |               |
-|  166 | Jonathan Francis          |  20.0 |        70 |        +0.54 |         +0.42 |
-|  167 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  168 | Wesley Huang              |  20.0 |         8 |              |               |
-|  169 | Jeff Gordon               |  19.9 |        37 |        -0.03 |         +8.52 |
-|  170 | Jaime Vidal               |  19.9 |         8 |              |         +3.26 |
-|  171 | Liam King                 |  19.9 |         6 |              |               |
+|  166 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  167 | Wesley Huang              |  20.0 |         8 |              |               |
+|  168 | Jeff Gordon               |  19.9 |        37 |        -0.03 |         +8.52 |
+|  169 | Jaime Vidal               |  19.9 |         8 |              |         +3.26 |
+|  170 | Liam King                 |  19.9 |         6 |              |               |
+|  171 | Jonathan Francis          |  19.8 |        71 |        +0.34 |         +0.23 |
 |  172 | Lysander Jim              |  19.8 |         6 |              |               |
 |  173 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  174 | Suneesh Kaul              |  19.7 |         3 |              |               |
@@ -213,13 +213,13 @@ Generated 2016-11-01.
 |  209 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  210 | Bob Roller                |  18.2 |         6 |              |               |
 |  211 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  212 | James Chung               |  17.9 |         7 |              |               |
-|  213 | Andres Rodriguez          |  17.9 |        55 |              |         +0.78 |
-|  214 | Nick Paget                |  17.8 |        35 |              |               |
-|  215 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  216 | Josh Trauner              |  17.8 |        39 |        +0.05 |               |
-|  217 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  218 | Eric Borden               |  17.8 |        34 |        +0.11 |         +3.33 |
+|  212 | Eric Borden               |  18.0 |        35 |        +0.36 |         +3.58 |
+|  213 | James Chung               |  17.9 |         7 |              |               |
+|  214 | Andres Rodriguez          |  17.9 |        55 |              |         +0.78 |
+|  215 | Nick Paget                |  17.8 |        35 |              |               |
+|  216 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  217 | Josh Trauner              |  17.8 |        39 |        +0.05 |               |
+|  218 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  219 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  220 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  221 | Subrato Dey               |  17.5 |        26 |              |               |
