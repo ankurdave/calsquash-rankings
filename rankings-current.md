@@ -1,4 +1,4 @@
-Generated 2016-11-03.
+Generated 2016-11-04.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -40,22 +40,21 @@ Generated 2016-11-03.
 |   36 | Diego Butrich     |  14.6 |         7 |              |               |
 |   37 | Sahar Sareminaeni |  14.2 |         9 |              |               |
 |   38 | Nikhil Paranjape  |  13.3 |        27 |              |               |
-|   39 | Jennifer Rha      |  12.4 |        18 |              |         +1.07 |
-|   40 | Daniel Schwartz   |  10.5 |        21 |              |               |
-|   41 | Josh Lebowitz     |  10.3 |        29 |              |               |
-|   42 | Reto Sutter       |  10.1 |        49 |              |         -0.39 |
-|   43 | Nate Aden         |  10.0 |        23 |              |               |
-|   44 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
-|   45 | Meldan Heaslip    |   8.9 |         8 |              |               |
-|   46 | Raphael Magarik   |   8.7 |        13 |              |               |
-|   47 | Brian Kempenich   |   8.5 |        39 |              |         -0.62 |
-|   48 | Duo Wang          |   8.3 |        63 |              |         +0.01 |
-|   49 | Keaton Noon       |   6.6 |        21 |              |               |
-|   50 | Alok Singh        |   5.3 |        14 |              |               |
-|   51 | Jose Lara         |   4.7 |         7 |              |               |
-|   52 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
-|   53 | Sameer Bajaj      |   4.3 |         4 |              |               |
-|   54 | Anuj Dawar        |   2.5 |         9 |              |               |
-|   55 | Craig Hollow      |   1.9 |         3 |              |               |
-|   56 | Cristhian Daniel  |   1.7 |        15 |              |               |
-|   57 | Duncan MacRae     |  -6.2 |         6 |              |               |
+|   39 | Daniel Schwartz   |  10.5 |        21 |              |               |
+|   40 | Josh Lebowitz     |  10.3 |        29 |              |               |
+|   41 | Reto Sutter       |  10.1 |        49 |              |         -0.39 |
+|   42 | Nate Aden         |  10.0 |        23 |              |               |
+|   43 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
+|   44 | Meldan Heaslip    |   8.9 |         8 |              |               |
+|   45 | Raphael Magarik   |   8.7 |        13 |              |               |
+|   46 | Brian Kempenich   |   8.5 |        39 |              |         -0.62 |
+|   47 | Duo Wang          |   8.3 |        63 |              |         +0.01 |
+|   48 | Keaton Noon       |   6.6 |        21 |              |               |
+|   49 | Alok Singh        |   5.3 |        14 |              |               |
+|   50 | Jose Lara         |   4.7 |         7 |              |               |
+|   51 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
+|   52 | Sameer Bajaj      |   4.3 |         4 |              |               |
+|   53 | Anuj Dawar        |   2.5 |         9 |              |               |
+|   54 | Craig Hollow      |   1.9 |         3 |              |               |
+|   55 | Cristhian Daniel  |   1.7 |        15 |              |               |
+|   56 | Duncan MacRae     |  -6.2 |         6 |              |               |
