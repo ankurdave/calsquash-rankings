@@ -1,4 +1,4 @@
-Generated 2016-11-04.
+Generated 2016-11-05.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -150,17 +150,17 @@ Generated 2016-11-04.
 |  146 | Jared Bard                |  20.8 |        35 |              |         +1.85 |
 |  147 | Jamie Funk                |  20.8 |        30 |              |               |
 |  148 | Matthew Brett             |  20.7 |        20 |              |               |
-|  149 | Prakash Bathini           |  20.7 |       122 |              |         -0.30 |
-|  150 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  151 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  152 | Mike Jensen-Akula         |  20.6 |       219 |              |         -1.04 |
-|  153 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  149 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  150 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  151 | Mike Jensen-Akula         |  20.6 |       219 |              |         -1.04 |
+|  152 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  153 | Prakash Bathini           |  20.5 |       123 |        -0.17 |         -0.47 |
 |  154 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  155 | Anibhav Singla            |  20.5 |         3 |              |               |
-|  156 | Andrew Green              |  20.5 |        52 |              |               |
-|  157 | Sam McCormick             |  20.5 |        15 |              |         +2.22 |
-|  158 | Steven Sloman             |  20.4 |        10 |              |               |
-|  159 | Robert Schwartz           |  20.3 |        80 |              |         -1.53 |
+|  155 | Robert Schwartz           |  20.5 |        81 |        +0.18 |         -1.36 |
+|  156 | Anibhav Singla            |  20.5 |         3 |              |               |
+|  157 | Andrew Green              |  20.5 |        52 |              |               |
+|  158 | Sam McCormick             |  20.5 |        15 |              |         +2.22 |
+|  159 | Steven Sloman             |  20.4 |        10 |              |               |
 |  160 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  161 | Carl Schreck              |  20.2 |         2 |              |               |
 |  162 | John Grim                 |  20.1 |        13 |              |               |

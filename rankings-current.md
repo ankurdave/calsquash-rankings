@@ -1,4 +1,4 @@
-Generated 2016-11-04.
+Generated 2016-11-05.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -17,10 +17,10 @@ Generated 2016-11-04.
 |   13 | Reid Johnsen      |  21.7 |        37 |              |         +7.20 |
 |   14 | Mark Modera       |  21.3 |       312 |              |         -0.27 |
 |   15 | Jared Bard        |  20.8 |        35 |              |         +1.85 |
-|   16 | Prakash Bathini   |  20.7 |       122 |              |         -0.30 |
-|   17 | Anibhav Singla    |  20.5 |         3 |              |               |
-|   18 | Sam McCormick     |  20.5 |        15 |              |         +2.22 |
-|   19 | Robert Schwartz   |  20.3 |        80 |              |         -1.53 |
+|   16 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
+|   17 | Robert Schwartz   |  20.5 |        81 |        +0.18 |         -1.36 |
+|   18 | Anibhav Singla    |  20.5 |         3 |              |               |
+|   19 | Sam McCormick     |  20.5 |        15 |              |         +2.22 |
 |   20 | Vishal Jain       |  20.0 |         3 |              |               |
 |   21 | Jeff Gordon       |  19.9 |        37 |              |         +4.28 |
 |   22 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
