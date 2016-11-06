@@ -42,8 +42,8 @@ Generated 2016-11-05.
 |   38 | Nikhil Paranjape  |  13.3 |        27 |              |               |
 |   39 | Daniel Schwartz   |  10.5 |        21 |              |               |
 |   40 | Josh Lebowitz     |  10.3 |        29 |              |               |
-|   41 | Reto Sutter       |  10.1 |        49 |              |         -0.39 |
-|   42 | Nate Aden         |  10.0 |        23 |              |               |
+|   41 | Nate Aden         |  10.2 |        24 |        +0.18 |               |
+|   42 | Reto Sutter       |  10.1 |        49 |              |         -0.39 |
 |   43 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
 |   44 | Meldan Heaslip    |   8.9 |         8 |              |               |
 |   45 | Raphael Magarik   |   8.7 |        13 |              |               |
@@ -54,7 +54,7 @@ Generated 2016-11-05.
 |   50 | Jose Lara         |   4.7 |         7 |              |               |
 |   51 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
 |   52 | Sameer Bajaj      |   4.3 |         4 |              |               |
-|   53 | Anuj Dawar        |   2.5 |         9 |              |               |
+|   53 | Anuj Dawar        |   2.2 |        10 |        -0.34 |               |
 |   54 | Craig Hollow      |   1.9 |         3 |              |               |
 |   55 | Cristhian Daniel  |   1.7 |        15 |              |               |
 |   56 | Duncan MacRae     |  -6.2 |         6 |              |               |

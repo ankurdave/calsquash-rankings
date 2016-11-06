@@ -350,11 +350,11 @@ Generated 2016-11-05.
 |  346 | John Provine              |  10.2 |        16 |              |               |
 |  347 | Anthony Patterson         |  10.2 |         6 |              |               |
 |  348 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  349 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  350 | Sung-Jin Oh               |  10.1 |         6 |              |         +1.01 |
-|  351 | Reto Sutter               |  10.1 |        49 |              |         -0.39 |
-|  352 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  353 | Nate Aden                 |  10.0 |        23 |              |               |
+|  349 | Nate Aden                 |  10.2 |        24 |        +0.18 |               |
+|  350 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  351 | Sung-Jin Oh               |  10.1 |         6 |              |         +1.01 |
+|  352 | Reto Sutter               |  10.1 |        49 |              |         -0.39 |
+|  353 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  354 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  355 | Myles Gordon              |   9.8 |        42 |              |         -0.39 |
 |  356 | Jacob Bank                |   9.7 |         1 |              |               |
@@ -438,8 +438,8 @@ Generated 2016-11-05.
 |  434 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  435 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  436 | David Vogel               |   2.6 |         7 |              |               |
-|  437 | Anuj Dawar                |   2.5 |         9 |              |               |
-|  438 | Xavier Vendrell           |   2.5 |         3 |              |               |
+|  437 | Xavier Vendrell           |   2.5 |         3 |              |               |
+|  438 | Anuj Dawar                |   2.2 |        10 |        -0.34 |               |
 |  439 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  440 | Phil Lin                  |   2.1 |         1 |              |               |
 |  441 | Alexis Madrigal           |   2.1 |         2 |              |               |
