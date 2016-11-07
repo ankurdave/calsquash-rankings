@@ -1,4 +1,4 @@
-Generated 2016-11-06.
+Generated 2016-11-07.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -48,8 +48,8 @@ Generated 2016-11-06.
 |   44 | Meldan Heaslip    |   8.9 |         8 |              |               |
 |   45 | Raphael Magarik   |   8.7 |        13 |              |               |
 |   46 | Brian Kempenich   |   8.5 |        39 |              |         -0.62 |
-|   47 | Duo Wang          |   8.3 |        63 |              |         +0.01 |
-|   48 | Keaton Noon       |   6.6 |        21 |              |               |
+|   47 | Duo Wang          |   8.4 |        64 |        +0.15 |         +0.16 |
+|   48 | Keaton Noon       |   6.4 |        22 |        -0.13 |               |
 |   49 | Alok Singh        |   5.3 |        14 |              |               |
 |   50 | Jose Lara         |   4.7 |         7 |              |               |
 |   51 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |

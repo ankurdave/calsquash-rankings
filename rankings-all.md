@@ -1,4 +1,4 @@
-Generated 2016-11-06.
+Generated 2016-11-07.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -382,9 +382,9 @@ Generated 2016-11-06.
 |  378 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  379 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  380 | Brian Kempenich           |   8.5 |        39 |              |         -0.62 |
-|  381 | Reynold Xin               |   8.3 |         5 |              |               |
-|  382 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  383 | Duo Wang                  |   8.3 |        63 |              |         +0.01 |
+|  381 | Duo Wang                  |   8.4 |        64 |        +0.15 |         +0.16 |
+|  382 | Reynold Xin               |   8.3 |         5 |              |               |
+|  383 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  384 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  385 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  386 | Phil Hartmeyer            |   8.2 |         3 |              |               |
@@ -405,11 +405,11 @@ Generated 2016-11-06.
 |  401 | Alex Walters              |   7.4 |         3 |              |               |
 |  402 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
 |  403 | Brookes Degen             |   6.8 |         6 |              |               |
-|  404 | Keaton Noon               |   6.6 |        21 |              |               |
-|  405 | Joshua Braver             |   6.5 |         1 |              |               |
-|  406 | Pablo Paredes             |   6.5 |         1 |              |               |
-|  407 | Mikel Shybut              |   6.5 |         4 |              |               |
-|  408 | Markus Boese              |   6.5 |         1 |              |               |
+|  404 | Joshua Braver             |   6.5 |         1 |              |               |
+|  405 | Pablo Paredes             |   6.5 |         1 |              |               |
+|  406 | Mikel Shybut              |   6.5 |         4 |              |               |
+|  407 | Markus Boese              |   6.5 |         1 |              |               |
+|  408 | Keaton Noon               |   6.4 |        22 |        -0.13 |               |
 |  409 | Dav Clark                 |   6.4 |         6 |              |               |
 |  410 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  411 | Rafael Silberblatt        |   6.1 |         5 |              |               |
