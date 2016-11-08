@@ -1,4 +1,4 @@
-Generated 2016-11-07.
+Generated 2016-11-08.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -278,12 +278,12 @@ Generated 2016-11-07.
 |  274 | Mimi Zhang                |  14.9 |         6 |              |               |
 |  275 | Jeff Dorman               |  14.9 |        14 |              |               |
 |  276 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  277 | Kent Daniels              |  14.9 |        91 |              |         -0.27 |
-|  278 | Paul Norberg              |  14.8 |         8 |              |               |
-|  279 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  280 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  281 | David Elfant              |  14.7 |         2 |              |               |
-|  282 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  277 | Paul Norberg              |  14.8 |         8 |              |               |
+|  278 | Frederick Bayles          |  14.8 |         8 |              |               |
+|  279 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  280 | David Elfant              |  14.7 |         2 |              |               |
+|  281 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  282 | Kent Daniels              |  14.6 |        92 |        -0.29 |         -0.56 |
 |  283 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  284 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  285 | Diego Butrich             |  14.6 |         7 |              |               |
@@ -339,14 +339,14 @@ Generated 2016-11-07.
 |  335 | Karan Jain                |  11.3 |        19 |              |               |
 |  336 | Lucas Siow                |  11.0 |        10 |              |               |
 |  337 | Dominick Ng               |  10.9 |        25 |              |               |
-|  338 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  339 | George Bentley            |  10.6 |         4 |              |               |
-|  340 | Daniel Schwartz           |  10.5 |        21 |              |               |
-|  341 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  342 | Brian Puglise             |  10.4 |         2 |              |               |
-|  343 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  344 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  345 | Josh Lebowitz             |  10.3 |        29 |              |               |
+|  338 | Josh Lebowitz             |  10.8 |        30 |        +0.58 |               |
+|  339 | Rodrigo Calmet            |  10.8 |         5 |              |               |
+|  340 | George Bentley            |  10.6 |         4 |              |               |
+|  341 | Daniel Schwartz           |  10.5 |        21 |              |               |
+|  342 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  343 | Brian Puglise             |  10.4 |         2 |              |               |
+|  344 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  345 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  346 | John Provine              |  10.2 |        16 |              |               |
 |  347 | Anthony Patterson         |  10.2 |         6 |              |               |
 |  348 | Nicholas DuBroff          |  10.2 |         8 |              |               |

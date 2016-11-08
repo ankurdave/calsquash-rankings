@@ -1,4 +1,4 @@
-Generated 2016-11-07.
+Generated 2016-11-08.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -36,12 +36,12 @@ Generated 2016-11-07.
 |   32 | Chris Flores      |  16.6 |       303 |              |         -1.98 |
 |   33 | Terry Chang       |  15.8 |        48 |              |         +2.14 |
 |   34 | Ankur Dave        |  15.1 |        53 |              |         +7.02 |
-|   35 | Kent Daniels      |  14.9 |        91 |              |         -0.27 |
+|   35 | Kent Daniels      |  14.6 |        92 |        -0.29 |         -0.56 |
 |   36 | Diego Butrich     |  14.6 |         7 |              |               |
 |   37 | Sahar Sareminaeni |  14.2 |         9 |              |               |
 |   38 | Nikhil Paranjape  |  13.3 |        27 |              |               |
-|   39 | Daniel Schwartz   |  10.5 |        21 |              |               |
-|   40 | Josh Lebowitz     |  10.3 |        29 |              |               |
+|   39 | Josh Lebowitz     |  10.8 |        30 |        +0.58 |               |
+|   40 | Daniel Schwartz   |  10.5 |        21 |              |               |
 |   41 | Nate Aden         |  10.2 |        24 |        +0.18 |               |
 |   42 | Reto Sutter       |  10.1 |        49 |              |         -0.39 |
 |   43 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
