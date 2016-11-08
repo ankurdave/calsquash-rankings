@@ -49,12 +49,13 @@ Generated 2016-11-07.
 |   45 | Raphael Magarik   |   8.7 |        13 |              |               |
 |   46 | Brian Kempenich   |   8.5 |        39 |              |         -0.62 |
 |   47 | Duo Wang          |   8.4 |        64 |        +0.15 |         +0.16 |
-|   48 | Keaton Noon       |   6.4 |        22 |        -0.13 |               |
-|   49 | Alok Singh        |   5.3 |        14 |              |               |
-|   50 | Jose Lara         |   4.7 |         7 |              |               |
-|   51 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
-|   52 | Sameer Bajaj      |   4.3 |         4 |              |               |
-|   53 | Anuj Dawar        |   2.2 |        10 |        -0.34 |               |
-|   54 | Craig Hollow      |   1.9 |         3 |              |               |
-|   55 | Cristhian Daniel  |   1.7 |        15 |              |               |
-|   56 | Duncan MacRae     |  -6.2 |         6 |              |               |
+|   48 | James Grant       |   6.9 |         1 |              |               |
+|   49 | Keaton Noon       |   6.4 |        22 |        -0.13 |               |
+|   50 | Alok Singh        |   5.3 |        14 |              |               |
+|   51 | Jose Lara         |   4.7 |         8 |        -0.08 |               |
+|   52 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
+|   53 | Sameer Bajaj      |   4.3 |         4 |              |               |
+|   54 | Anuj Dawar        |   2.2 |        10 |        -0.34 |               |
+|   55 | Craig Hollow      |   1.9 |         3 |              |               |
+|   56 | Cristhian Daniel  |   1.7 |        15 |              |               |
+|   57 | Duncan MacRae     |  -6.2 |         6 |              |               |
