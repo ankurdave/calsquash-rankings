@@ -1,4 +1,4 @@
-Generated 2016-11-08.
+Generated 2016-11-09.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -22,13 +22,13 @@ Generated 2016-11-08.
 |   18 | Sam McCormick     |  20.5 |        15 |              |         +2.22 |
 |   19 | Robert Schwartz   |  20.5 |        82 |        +0.11 |         -1.42 |
 |   20 | Vishal Jain       |  20.0 |         3 |              |               |
-|   21 | Jeff Gordon       |  19.9 |        37 |              |         +4.28 |
+|   21 | Jeff Gordon       |  20.0 |        38 |        +0.10 |         +4.38 |
 |   22 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
 |   23 | Jaime Perez       |  19.1 |        15 |              |               |
 |   24 | Kenny Bell        |  18.8 |       120 |              |         +0.72 |
 |   25 | Dror Matalon      |  18.6 |       354 |              |         +0.51 |
 |   26 | Shaun Lim         |  18.3 |        44 |              |         +0.31 |
-|   27 | Eric Borden       |  18.0 |        35 |              |         +3.66 |
+|   27 | Eric Borden       |  17.9 |        36 |        -0.08 |         +3.58 |
 |   28 | Josh Trauner      |  17.8 |        39 |              |               |
 |   29 | Wayne Heiser      |  17.4 |        34 |              |               |
 |   30 | Troup Howard      |  17.3 |        40 |              |         -0.32 |

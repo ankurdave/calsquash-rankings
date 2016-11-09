@@ -1,4 +1,4 @@
-Generated 2016-11-08.
+Generated 2016-11-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -167,9 +167,9 @@ Generated 2016-11-08.
 |  163 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  164 | Frank Kennan              |  20.1 |        11 |              |               |
 |  165 | Vishal Jain               |  20.0 |         3 |              |               |
-|  166 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  167 | Wesley Huang              |  20.0 |         8 |              |               |
-|  168 | Jeff Gordon               |  19.9 |        37 |              |         +4.28 |
+|  166 | Jeff Gordon               |  20.0 |        38 |        +0.10 |         +4.38 |
+|  167 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  168 | Wesley Huang              |  20.0 |         8 |              |               |
 |  169 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  170 | Liam King                 |  19.9 |         6 |              |               |
 |  171 | Jonathan Francis          |  19.8 |        71 |              |         +0.66 |
@@ -213,7 +213,7 @@ Generated 2016-11-08.
 |  209 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  210 | Bob Roller                |  18.2 |         6 |              |               |
 |  211 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  212 | Eric Borden               |  18.0 |        35 |              |         +3.66 |
+|  212 | Eric Borden               |  17.9 |        36 |        -0.08 |         +3.58 |
 |  213 | James Chung               |  17.9 |         7 |              |               |
 |  214 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
 |  215 | Nick Paget                |  17.8 |        35 |              |               |
