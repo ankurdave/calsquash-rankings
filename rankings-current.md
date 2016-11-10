@@ -7,7 +7,7 @@ Generated 2016-11-09.
 |    3 | Sam Sternberg     |  30.5 |       131 |              |         +1.29 |
 |    4 | Frank Kennamer    |  26.9 |       213 |              |         -0.63 |
 |    5 | Nick Cobbett      |  26.6 |        28 |              |         +7.36 |
-|    6 | Jim Veitch        |  25.0 |       430 |              |         -1.41 |
+|    6 | Jim Veitch        |  24.8 |       431 |        -0.23 |         -1.63 |
 |    7 | John Kunze        |  24.6 |       306 |              |         -0.62 |
 |    8 | Dan Bohn          |  23.2 |        81 |              |         -0.54 |
 |    9 | Matt Wong         |  23.2 |        76 |              |         +1.73 |
@@ -17,9 +17,9 @@ Generated 2016-11-09.
 |   13 | Robert Isaac      |  21.8 |        14 |              |               |
 |   14 | Reid Johnsen      |  21.7 |        37 |              |         +7.20 |
 |   15 | Mark Modera       |  21.3 |       312 |              |         -0.27 |
-|   16 | Jared Bard        |  20.8 |        35 |              |         +1.85 |
-|   17 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
-|   18 | Sam McCormick     |  20.5 |        15 |              |         +2.22 |
+|   16 | Sam McCormick     |  21.3 |        16 |        +0.76 |         +2.98 |
+|   17 | Jared Bard        |  20.8 |        35 |              |         +1.85 |
+|   18 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
 |   19 | Robert Schwartz   |  20.5 |        82 |        +0.11 |         -1.42 |
 |   20 | Vishal Jain       |  20.0 |         3 |              |               |
 |   21 | Jeff Gordon       |  20.0 |        38 |        +0.10 |         +4.38 |

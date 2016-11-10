@@ -58,11 +58,11 @@ Generated 2016-11-09.
 |   54 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   55 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   56 | Paul Greene               |  25.2 |         8 |              |               |
-|   57 | Jim Veitch                |  25.0 |       430 |              |         -1.41 |
-|   58 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   59 | Ben Seelig                |  25.0 |        69 |              |               |
-|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   61 | Madhav Pai                |  24.9 |         5 |              |               |
+|   57 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   58 | Ben Seelig                |  25.0 |        69 |              |               |
+|   59 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   60 | Madhav Pai                |  24.9 |         5 |              |               |
+|   61 | Jim Veitch                |  24.8 |       431 |        -0.23 |         -1.63 |
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
@@ -139,26 +139,26 @@ Generated 2016-11-09.
 |  135 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  136 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  137 | Adam Jacob                |  21.3 |         3 |              |               |
-|  138 | Casey Harelson            |  21.2 |        20 |              |               |
-|  139 | Philip Bildner            |  21.2 |        22 |              |               |
-|  140 | Darren Morgan             |  21.2 |        11 |              |               |
-|  141 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  142 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  143 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  146 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  147 | Jared Bard                |  20.8 |        35 |              |         +1.85 |
-|  148 | Jamie Funk                |  20.8 |        30 |              |               |
-|  149 | Matthew Brett             |  20.7 |        20 |              |               |
-|  150 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  151 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  152 | Mike Jensen-Akula         |  20.6 |       219 |              |         -1.04 |
-|  153 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  154 | Prakash Bathini           |  20.5 |       123 |        -0.17 |         -0.47 |
-|  155 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  156 | Andrew Green              |  20.5 |        52 |              |               |
-|  157 | Sam McCormick             |  20.5 |        15 |              |         +2.22 |
+|  138 | Sam McCormick             |  21.3 |        16 |        +0.76 |         +2.98 |
+|  139 | Casey Harelson            |  21.2 |        20 |              |               |
+|  140 | Philip Bildner            |  21.2 |        22 |              |               |
+|  141 | Darren Morgan             |  21.2 |        11 |              |               |
+|  142 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  143 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  144 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  145 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  147 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  148 | Jared Bard                |  20.8 |        35 |              |         +1.85 |
+|  149 | Jamie Funk                |  20.8 |        30 |              |               |
+|  150 | Matthew Brett             |  20.7 |        20 |              |               |
+|  151 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  152 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  153 | Mike Jensen-Akula         |  20.6 |       219 |              |         -1.04 |
+|  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  155 | Prakash Bathini           |  20.5 |       123 |        -0.17 |         -0.47 |
+|  156 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  157 | Andrew Green              |  20.5 |        52 |              |               |
 |  158 | Robert Schwartz           |  20.5 |        82 |        +0.11 |         -1.42 |
 |  159 | Steven Sloman             |  20.4 |        10 |              |               |
 |  160 | Anirudh Todi              |  20.3 |         3 |              |               |
