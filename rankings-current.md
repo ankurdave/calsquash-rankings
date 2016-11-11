@@ -13,15 +13,15 @@ Generated 2016-11-10.
 |    9 | Matt Wong         |  23.2 |        76 |              |         +1.73 |
 |   10 | Dan Meier         |  23.0 |        53 |              |         +1.47 |
 |   11 | Anibhav Singla    |  22.9 |         4 |        +2.36 |               |
-|   12 | Jonathan Hankar   |  21.9 |       187 |              |               |
-|   13 | Robert Isaac      |  21.8 |        14 |              |               |
+|   12 | Vishal Jain       |  22.1 |         4 |        +2.04 |               |
+|   13 | Jonathan Hankar   |  21.9 |       187 |              |               |
 |   14 | Reid Johnsen      |  21.7 |        37 |              |         +7.20 |
-|   15 | Mark Modera       |  21.3 |       312 |              |         -0.27 |
-|   16 | Sam McCormick     |  21.3 |        16 |        +0.76 |         +2.98 |
-|   17 | Jared Bard        |  20.8 |        35 |              |         +1.85 |
-|   18 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
-|   19 | Robert Schwartz   |  20.5 |        82 |        +0.11 |         -1.42 |
-|   20 | Vishal Jain       |  20.0 |         3 |              |               |
+|   15 | Robert Isaac      |  21.5 |        15 |        -0.30 |               |
+|   16 | Mark Modera       |  21.3 |       312 |              |         -0.27 |
+|   17 | Sam McCormick     |  21.3 |        16 |        +0.76 |         +2.98 |
+|   18 | Jared Bard        |  20.8 |        35 |              |         +1.85 |
+|   19 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
+|   20 | Robert Schwartz   |  20.5 |        82 |        +0.11 |         -1.42 |
 |   21 | Jeff Gordon       |  20.0 |        38 |        +0.10 |         +4.38 |
 |   22 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
 |   23 | Jaime Perez       |  19.1 |        15 |              |               |
