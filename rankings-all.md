@@ -1,4 +1,4 @@
-Generated 2016-11-10.
+Generated 2016-11-11.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -289,11 +289,11 @@ Generated 2016-11-10.
 |  285 | Diego Butrich             |  14.6 |         7 |              |               |
 |  286 | Shai Vardi                |  14.5 |         4 |              |               |
 |  287 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  288 | Max Woodworth             |  14.4 |         7 |              |               |
-|  289 | Juliet Shih               |  14.4 |        11 |              |               |
-|  290 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  291 | Adam Soliman              |  14.2 |        32 |              |               |
-|  292 | Sahar Sareminaeni         |  14.2 |         9 |              |               |
+|  288 | Sahar Sareminaeni         |  14.4 |        10 |        +0.24 |               |
+|  289 | Max Woodworth             |  14.4 |         7 |              |               |
+|  290 | Juliet Shih               |  14.4 |        11 |              |               |
+|  291 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  292 | Adam Soliman              |  14.2 |        32 |              |               |
 |  293 | Charles Denby             |  14.2 |         5 |              |               |
 |  294 | Neil Sachs                |  14.1 |        12 |              |               |
 |  295 | Rupert Myers              |  14.0 |        27 |              |         +1.39 |
@@ -440,8 +440,8 @@ Generated 2016-11-10.
 |  436 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  437 | David Vogel               |   2.6 |         7 |              |               |
 |  438 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  439 | Anuj Dawar                |   2.2 |        10 |        -0.34 |               |
-|  440 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  439 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  440 | Anuj Dawar                |   2.2 |        11 |        -0.36 |               |
 |  441 | Phil Lin                  |   2.1 |         1 |              |               |
 |  442 | Alexis Madrigal           |   2.1 |         2 |              |               |
 |  443 | Craig Hollow              |   1.9 |         3 |              |               |

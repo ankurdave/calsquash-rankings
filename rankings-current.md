@@ -1,4 +1,4 @@
-Generated 2016-11-10.
+Generated 2016-11-11.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -38,7 +38,7 @@ Generated 2016-11-10.
 |   34 | Ankur Dave        |  15.1 |        53 |              |         +7.02 |
 |   35 | Kent Daniels      |  14.6 |        92 |        -0.29 |         -0.56 |
 |   36 | Diego Butrich     |  14.6 |         7 |              |               |
-|   37 | Sahar Sareminaeni |  14.2 |         9 |              |               |
+|   37 | Sahar Sareminaeni |  14.4 |        10 |        +0.24 |               |
 |   38 | Nikhil Paranjape  |  13.3 |        27 |              |               |
 |   39 | Josh Lebowitz     |  10.8 |        30 |        +0.58 |               |
 |   40 | Daniel Schwartz   |  10.5 |        21 |              |               |
@@ -55,7 +55,7 @@ Generated 2016-11-10.
 |   51 | Jose Lara         |   4.7 |         8 |        -0.08 |               |
 |   52 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
 |   53 | Sameer Bajaj      |   4.3 |         4 |              |               |
-|   54 | Anuj Dawar        |   2.2 |        10 |        -0.34 |               |
+|   54 | Anuj Dawar        |   2.2 |        11 |        -0.36 |               |
 |   55 | Craig Hollow      |   1.9 |         3 |              |               |
 |   56 | Cristhian Daniel  |   1.7 |        15 |              |               |
 |   57 | Duncan MacRae     |  -6.2 |         6 |              |               |
