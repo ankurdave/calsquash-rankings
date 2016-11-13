@@ -1,10 +1,10 @@
-Generated 2016-11-11.
+Generated 2016-11-12.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  35.0 |       212 |              |         -0.07 |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
-|    3 | Colin Grant               |  34.6 |         8 |              |               |
+|    3 | Colin Grant               |  34.7 |         9 |        +0.08 |               |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -96,7 +96,7 @@ Generated 2016-11-11.
 |   92 | Garvin Heath              |  23.4 |        28 |              |               |
 |   93 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.44 |
 |   94 | Dan Bohn                  |  23.2 |        81 |              |         -0.54 |
-|   95 | Matt Wong                 |  23.2 |        76 |              |         +1.73 |
+|   95 | Matt Wong                 |  23.1 |        77 |        -0.04 |         +1.68 |
 |   96 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   97 | Dan Meier                 |  23.0 |        53 |              |         +1.47 |
 |   98 | Anubhav Gupta             |  23.0 |         8 |              |               |
