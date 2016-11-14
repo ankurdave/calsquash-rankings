@@ -1,4 +1,4 @@
-Generated 2016-11-13.
+Generated 2016-11-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -343,15 +343,15 @@ Generated 2016-11-13.
 |  339 | Josh Lebowitz             |  10.8 |        30 |        +0.58 |               |
 |  340 | Rodrigo Calmet            |  10.8 |         5 |              |               |
 |  341 | George Bentley            |  10.6 |         4 |              |               |
-|  342 | Daniel Schwartz           |  10.5 |        21 |              |               |
-|  343 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  344 | Brian Puglise             |  10.4 |         2 |              |               |
-|  345 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  346 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  347 | John Provine              |  10.2 |        16 |              |               |
-|  348 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  349 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  350 | Nate Aden                 |  10.2 |        24 |        +0.18 |               |
+|  342 | Nate Aden                 |  10.6 |        25 |        +0.57 |               |
+|  343 | Daniel Schwartz           |  10.5 |        21 |              |               |
+|  344 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  345 | Brian Puglise             |  10.4 |         2 |              |               |
+|  346 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  347 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  348 | John Provine              |  10.2 |        16 |              |               |
+|  349 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  350 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  351 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  352 | Sung-Jin Oh               |  10.1 |         6 |              |         +1.01 |
 |  353 | Reto Sutter               |  10.1 |        49 |              |         -0.39 |
@@ -373,17 +373,17 @@ Generated 2016-11-13.
 |  369 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  370 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  371 | Laura Dobbs               |   9.0 |        26 |              |         -0.27 |
-|  372 | Meldan Heaslip            |   8.9 |         8 |              |               |
-|  373 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  374 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  375 | Raphael Magarik           |   8.7 |        13 |              |               |
+|  372 | Raphael Magarik           |   8.9 |        15 |        +0.17 |               |
+|  373 | Meldan Heaslip            |   8.9 |         8 |              |               |
+|  374 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  375 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  376 | Therese Jones             |   8.7 |         6 |              |               |
 |  377 | Steven Yee                |   8.7 |         9 |              |               |
 |  378 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  379 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  380 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  381 | Brian Kempenich           |   8.5 |        39 |              |         -0.62 |
-|  382 | Duo Wang                  |   8.4 |        64 |        +0.15 |         +0.16 |
+|  381 | Duo Wang                  |   8.4 |        64 |        +0.15 |         +0.16 |
+|  382 | Brian Kempenich           |   8.3 |        40 |        -0.23 |         -0.85 |
 |  383 | Reynold Xin               |   8.3 |         5 |              |               |
 |  384 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  385 | Fahad Riyadh              |   8.2 |         5 |              |               |
@@ -441,8 +441,8 @@ Generated 2016-11-13.
 |  437 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  438 | David Vogel               |   2.6 |         7 |              |               |
 |  439 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  440 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  441 | Anuj Dawar                |   2.2 |        11 |        -0.36 |               |
+|  440 | Anuj Dawar                |   2.2 |        11 |        -0.33 |               |
+|  441 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  442 | Phil Lin                  |   2.1 |         1 |              |               |
 |  443 | Alexis Madrigal           |   2.1 |         2 |              |               |
 |  444 | Craig Hollow              |   1.9 |         3 |              |               |

@@ -1,4 +1,4 @@
-Generated 2016-11-13.
+Generated 2016-11-14.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -42,21 +42,21 @@ Generated 2016-11-13.
 |   38 | Sahar Sareminaeni |  14.4 |        10 |        +0.24 |               |
 |   39 | Nikhil Paranjape  |  13.3 |        27 |              |               |
 |   40 | Josh Lebowitz     |  10.8 |        30 |        +0.58 |               |
-|   41 | Daniel Schwartz   |  10.5 |        21 |              |               |
-|   42 | Nate Aden         |  10.2 |        24 |        +0.18 |               |
+|   41 | Nate Aden         |  10.6 |        25 |        +0.57 |               |
+|   42 | Daniel Schwartz   |  10.5 |        21 |              |               |
 |   43 | Reto Sutter       |  10.1 |        49 |              |         -0.39 |
 |   44 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
-|   45 | Meldan Heaslip    |   8.9 |         8 |              |               |
-|   46 | Raphael Magarik   |   8.7 |        13 |              |               |
-|   47 | Brian Kempenich   |   8.5 |        39 |              |         -0.62 |
-|   48 | Duo Wang          |   8.4 |        64 |        +0.15 |         +0.16 |
+|   45 | Raphael Magarik   |   8.9 |        15 |        +0.17 |               |
+|   46 | Meldan Heaslip    |   8.9 |         8 |              |               |
+|   47 | Duo Wang          |   8.4 |        64 |        +0.15 |         +0.16 |
+|   48 | Brian Kempenich   |   8.3 |        40 |        -0.23 |         -0.85 |
 |   49 | James Grant       |   6.9 |         1 |              |               |
 |   50 | Keaton Noon       |   6.4 |        22 |        -0.13 |               |
 |   51 | Alok Singh        |   5.3 |        14 |              |               |
 |   52 | Jose Lara         |   4.7 |         8 |        -0.08 |               |
 |   53 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
 |   54 | Sameer Bajaj      |   4.3 |         4 |              |               |
-|   55 | Anuj Dawar        |   2.2 |        11 |        -0.36 |               |
+|   55 | Anuj Dawar        |   2.2 |        11 |        -0.33 |               |
 |   56 | Craig Hollow      |   1.9 |         3 |              |               |
 |   57 | Cristhian Daniel  |   1.7 |        15 |              |               |
 |   58 | Duncan MacRae     |  -6.2 |         6 |              |               |
