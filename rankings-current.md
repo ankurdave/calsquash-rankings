@@ -22,11 +22,11 @@ Generated 2016-11-13.
 |   18 | Jared Bard        |  20.8 |        35 |              |         +1.85 |
 |   19 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
 |   20 | Robert Schwartz   |  20.4 |        82 |        +0.08 |         -1.45 |
-|   21 | Jeff Gordon       |  20.0 |        38 |        +0.10 |         +4.38 |
+|   21 | Jeff Gordon       |  20.2 |        39 |        +0.21 |         +4.49 |
 |   22 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
 |   23 | Jaime Perez       |  19.1 |        15 |              |               |
 |   24 | Kenny Bell        |  18.8 |       120 |              |         +0.72 |
-|   25 | Dror Matalon      |  18.6 |       354 |              |         +0.51 |
+|   25 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
 |   26 | Natalie Leung     |  18.4 |         1 |              |               |
 |   27 | Shaun Lim         |  18.3 |        44 |              |         +0.31 |
 |   28 | Eric Borden       |  17.9 |        36 |        -0.08 |         +3.58 |

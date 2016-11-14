@@ -164,10 +164,10 @@ Generated 2016-11-13.
 |  160 | Robert Schwartz           |  20.4 |        82 |        +0.08 |         -1.45 |
 |  161 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  162 | Carl Schreck              |  20.2 |         2 |              |               |
-|  163 | John Grim                 |  20.1 |        13 |              |               |
-|  164 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  165 | Frank Kennan              |  20.1 |        11 |              |               |
-|  166 | Jeff Gordon               |  20.0 |        38 |        +0.10 |         +4.38 |
+|  163 | Jeff Gordon               |  20.2 |        39 |        +0.21 |         +4.49 |
+|  164 | John Grim                 |  20.1 |        13 |              |               |
+|  165 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  166 | Frank Kennan              |  20.1 |        11 |              |               |
 |  167 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  168 | Wesley Huang              |  20.0 |         8 |              |               |
 |  169 | Jaime Vidal               |  19.9 |         8 |              |               |
@@ -201,11 +201,11 @@ Generated 2016-11-13.
 |  197 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  198 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  199 | Allan Sly                 |  18.6 |        29 |              |               |
-|  200 | Dror Matalon              |  18.6 |       354 |              |         +0.51 |
-|  201 | Jason Facchin             |  18.5 |         3 |              |               |
-|  202 | Yan Liu                   |  18.5 |        10 |              |               |
-|  203 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  204 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  200 | Jason Facchin             |  18.5 |         3 |              |               |
+|  201 | Yan Liu                   |  18.5 |        10 |              |               |
+|  202 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  203 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  204 | Dror Matalon              |  18.5 |       355 |        -0.09 |         +0.42 |
 |  205 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  206 | John Eng                  |  18.4 |        28 |              |               |
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
