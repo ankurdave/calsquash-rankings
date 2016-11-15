@@ -282,9 +282,9 @@ Generated 2016-11-14.
 |  278 | Paul Norberg              |  14.8 |         8 |              |               |
 |  279 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  280 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  281 | David Elfant              |  14.7 |         2 |              |               |
-|  282 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  283 | Kent Daniels              |  14.6 |        92 |        -0.29 |         -0.56 |
+|  281 | Kent Daniels              |  14.7 |        93 |        -0.15 |         -0.42 |
+|  282 | David Elfant              |  14.7 |         2 |              |               |
+|  283 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  284 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  285 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  286 | Diego Butrich             |  14.6 |         7 |              |               |
@@ -340,7 +340,7 @@ Generated 2016-11-14.
 |  336 | Karan Jain                |  11.3 |        19 |              |               |
 |  337 | Lucas Siow                |  11.0 |        10 |              |               |
 |  338 | Dominick Ng               |  10.9 |        25 |              |               |
-|  339 | Josh Lebowitz             |  10.8 |        30 |        +0.58 |               |
+|  339 | Josh Lebowitz             |  10.9 |        30 |        +0.59 |               |
 |  340 | Rodrigo Calmet            |  10.8 |         5 |              |               |
 |  341 | George Bentley            |  10.6 |         4 |              |               |
 |  342 | Nate Aden                 |  10.6 |        25 |        +0.57 |               |
@@ -374,14 +374,14 @@ Generated 2016-11-14.
 |  370 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  371 | Laura Dobbs               |   9.0 |        26 |              |         -0.27 |
 |  372 | Raphael Magarik           |   8.9 |        15 |        +0.17 |               |
-|  373 | Meldan Heaslip            |   8.9 |         8 |              |               |
-|  374 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  375 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  376 | Therese Jones             |   8.7 |         6 |              |               |
-|  377 | Steven Yee                |   8.7 |         9 |              |               |
-|  378 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  379 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  380 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  373 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  374 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  375 | Therese Jones             |   8.7 |         6 |              |               |
+|  376 | Steven Yee                |   8.7 |         9 |              |               |
+|  377 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  378 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  379 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  380 | Meldan Heaslip            |   8.6 |         9 |        -0.34 |               |
 |  381 | Duo Wang                  |   8.4 |        64 |        +0.15 |         +0.16 |
 |  382 | Brian Kempenich           |   8.3 |        40 |        -0.23 |         -0.85 |
 |  383 | Reynold Xin               |   8.3 |         5 |              |               |

@@ -37,17 +37,17 @@ Generated 2016-11-14.
 |   33 | Chris Flores      |  16.6 |       303 |              |         -1.98 |
 |   34 | Terry Chang       |  15.8 |        48 |              |         +2.14 |
 |   35 | Ankur Dave        |  15.1 |        53 |              |         +7.02 |
-|   36 | Kent Daniels      |  14.6 |        92 |        -0.29 |         -0.56 |
+|   36 | Kent Daniels      |  14.7 |        93 |        -0.15 |         -0.42 |
 |   37 | Diego Butrich     |  14.6 |         7 |              |               |
 |   38 | Sahar Sareminaeni |  14.4 |        10 |        +0.24 |               |
 |   39 | Nikhil Paranjape  |  13.3 |        27 |              |               |
-|   40 | Josh Lebowitz     |  10.8 |        30 |        +0.58 |               |
+|   40 | Josh Lebowitz     |  10.9 |        30 |        +0.59 |               |
 |   41 | Nate Aden         |  10.6 |        25 |        +0.57 |               |
 |   42 | Daniel Schwartz   |  10.5 |        21 |              |               |
 |   43 | Reto Sutter       |  10.1 |        49 |              |         -0.39 |
 |   44 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
 |   45 | Raphael Magarik   |   8.9 |        15 |        +0.17 |               |
-|   46 | Meldan Heaslip    |   8.9 |         8 |              |               |
+|   46 | Meldan Heaslip    |   8.6 |         9 |        -0.34 |               |
 |   47 | Duo Wang          |   8.4 |        64 |        +0.15 |         +0.16 |
 |   48 | Brian Kempenich   |   8.3 |        40 |        -0.23 |         -0.85 |
 |   49 | James Grant       |   6.9 |         1 |              |               |
