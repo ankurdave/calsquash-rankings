@@ -31,7 +31,7 @@ Generated 2016-11-15.
 |   27 | Shaun Lim         |  18.3 |        44 |              |         +0.31 |
 |   28 | Eric Borden       |  17.9 |        36 |        -0.08 |         +3.58 |
 |   29 | Josh Trauner      |  17.8 |        39 |              |               |
-|   30 | Wayne Heiser      |  17.4 |        34 |              |               |
+|   30 | Wayne Heiser      |  17.4 |        35 |        +0.07 |               |
 |   31 | Troup Howard      |  17.3 |        40 |              |         -0.32 |
 |   32 | David Bratt       |  16.8 |        18 |              |         +0.39 |
 |   33 | Chris Flores      |  16.6 |       303 |              |         -1.98 |
@@ -41,22 +41,23 @@ Generated 2016-11-15.
 |   37 | Kent Daniels      |  14.7 |        93 |        -0.15 |         -0.42 |
 |   38 | Diego Butrich     |  14.6 |         7 |              |               |
 |   39 | Nikhil Paranjape  |  13.3 |        27 |              |               |
-|   40 | Josh Lebowitz     |  10.9 |        30 |        +0.59 |               |
-|   41 | Nate Aden         |  10.5 |        25 |        +0.56 |               |
-|   42 | Daniel Schwartz   |  10.5 |        21 |              |               |
-|   43 | Reto Sutter       |  10.1 |        49 |              |         -0.39 |
-|   44 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
-|   45 | Raphael Magarik   |   8.8 |        16 |        +0.05 |               |
-|   46 | Meldan Heaslip    |   8.6 |         9 |        -0.34 |               |
-|   47 | James Grant       |   8.5 |         2 |              |               |
-|   48 | Duo Wang          |   8.4 |        64 |        +0.15 |         +0.16 |
-|   49 | Brian Kempenich   |   8.3 |        40 |        -0.24 |         -0.86 |
-|   50 | Keaton Noon       |   6.4 |        22 |        -0.13 |               |
-|   51 | Alok Singh        |   5.3 |        14 |              |               |
-|   52 | Jose Lara         |   4.7 |         8 |        -0.06 |               |
-|   53 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
-|   54 | Sameer Bajaj      |   4.3 |         4 |              |               |
-|   55 | Anuj Dawar        |   2.2 |        11 |        -0.33 |               |
-|   56 | Craig Hollow      |   1.9 |         3 |              |               |
-|   57 | Cristhian Daniel  |   1.7 |        16 |        -0.04 |               |
-|   58 | Duncan MacRae     |  -6.2 |         6 |              |               |
+|   40 | Marc Schechter    |  11.3 |         1 |              |               |
+|   41 | Josh Lebowitz     |  10.9 |        30 |        +0.59 |               |
+|   42 | Nate Aden         |  10.5 |        25 |        +0.56 |               |
+|   43 | Daniel Schwartz   |  10.5 |        21 |              |               |
+|   44 | Reto Sutter       |  10.1 |        49 |              |         -0.39 |
+|   45 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
+|   46 | Raphael Magarik   |   8.8 |        16 |        +0.05 |               |
+|   47 | Meldan Heaslip    |   8.6 |         9 |        -0.34 |               |
+|   48 | James Grant       |   8.5 |         2 |              |               |
+|   49 | Duo Wang          |   8.4 |        64 |        +0.15 |         +0.16 |
+|   50 | Brian Kempenich   |   8.3 |        40 |        -0.24 |         -0.86 |
+|   51 | Keaton Noon       |   6.4 |        22 |        -0.13 |               |
+|   52 | Alok Singh        |   5.3 |        14 |              |               |
+|   53 | Jose Lara         |   4.7 |         8 |        -0.06 |               |
+|   54 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
+|   55 | Sameer Bajaj      |   4.3 |         4 |              |               |
+|   56 | Anuj Dawar        |   2.2 |        11 |        -0.33 |               |
+|   57 | Craig Hollow      |   1.9 |         3 |              |               |
+|   58 | Cristhian Daniel  |   1.7 |        16 |        -0.04 |               |
+|   59 | Duncan MacRae     |  -6.2 |         6 |              |               |
