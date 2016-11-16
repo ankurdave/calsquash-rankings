@@ -1,4 +1,4 @@
-Generated 2016-11-14.
+Generated 2016-11-15.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -382,30 +382,30 @@ Generated 2016-11-14.
 |  378 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  379 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  380 | Meldan Heaslip            |   8.6 |         9 |        -0.34 |               |
-|  381 | Duo Wang                  |   8.4 |        64 |        +0.15 |         +0.16 |
-|  382 | Brian Kempenich           |   8.3 |        40 |        -0.23 |         -0.85 |
-|  383 | Reynold Xin               |   8.3 |         5 |              |               |
-|  384 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  385 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  386 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  387 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  388 | John Coates               |   8.1 |         9 |              |               |
-|  389 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  390 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  391 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  392 | Zarina Khan               |   8.0 |         5 |              |               |
-|  393 | Chip Malt                 |   7.9 |         4 |              |               |
-|  394 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  395 | Minsoo Bae                |   7.9 |         2 |              |               |
-|  396 | Akira Chiwaki             |   7.8 |         3 |              |               |
-|  397 | Felipe Gomez              |   7.7 |         4 |              |               |
-|  398 | Jeremy Brown              |   7.7 |         4 |              |               |
-|  399 | Ryan Akers                |   7.7 |         2 |              |               |
-|  400 | Yashraj Khaitain          |   7.6 |         2 |              |               |
-|  401 | Arno Ferguson             |   7.4 |         1 |              |               |
-|  402 | Alex Walters              |   7.4 |         3 |              |               |
-|  403 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  404 | James Grant               |   6.9 |         1 |              |               |
+|  381 | James Grant               |   8.5 |         2 |              |               |
+|  382 | Duo Wang                  |   8.4 |        64 |        +0.15 |         +0.16 |
+|  383 | Brian Kempenich           |   8.3 |        40 |        -0.23 |         -0.85 |
+|  384 | Reynold Xin               |   8.3 |         5 |              |               |
+|  385 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  386 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  387 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  388 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  389 | John Coates               |   8.1 |         9 |              |               |
+|  390 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  391 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  392 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  393 | Zarina Khan               |   8.0 |         5 |              |               |
+|  394 | Chip Malt                 |   7.9 |         4 |              |               |
+|  395 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  396 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  397 | Akira Chiwaki             |   7.8 |         3 |              |               |
+|  398 | Felipe Gomez              |   7.7 |         4 |              |               |
+|  399 | Jeremy Brown              |   7.7 |         4 |              |               |
+|  400 | Ryan Akers                |   7.7 |         2 |              |               |
+|  401 | Yashraj Khaitain          |   7.6 |         2 |              |               |
+|  402 | Arno Ferguson             |   7.4 |         1 |              |               |
+|  403 | Alex Walters              |   7.4 |         3 |              |               |
+|  404 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
 |  405 | Brookes Degen             |   6.8 |         6 |              |               |
 |  406 | Joshua Braver             |   6.5 |         1 |              |               |
 |  407 | Pablo Paredes             |   6.5 |         1 |              |               |
@@ -428,7 +428,7 @@ Generated 2016-11-14.
 |  424 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  425 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.68 |
 |  426 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  427 | Jose Lara                 |   4.7 |         8 |        -0.08 |               |
+|  427 | Jose Lara                 |   4.7 |         8 |        -0.06 |               |
 |  428 | Zsolt Bartha              |   4.4 |        46 |              |         +2.35 |
 |  429 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  430 | Annie Wong                |   4.0 |         3 |              |               |
@@ -449,8 +449,8 @@ Generated 2016-11-14.
 |  445 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  446 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  447 | Himanshu Chandra          |   1.8 |         4 |              |               |
-|  448 | Cristhian Daniel          |   1.7 |        15 |              |               |
-|  449 | David Gundry              |   1.7 |         3 |              |               |
+|  448 | David Gundry              |   1.7 |         3 |              |               |
+|  449 | Cristhian Daniel          |   1.7 |        16 |        -0.04 |               |
 |  450 | Shantanu Mittal           |   1.6 |         3 |              |               |
 |  451 | Vin Marshall              |   1.5 |        11 |              |               |
 |  452 | Matthew Mak               |   1.5 |         1 |              |               |
