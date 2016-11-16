@@ -193,18 +193,18 @@ Generated 2016-11-15.
 |  189 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  190 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  191 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  192 | Kenny Bell                |  18.8 |       120 |              |         +0.72 |
-|  193 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  194 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  195 | Peter Dering              |  18.7 |         9 |              |               |
-|  196 | Sushant Jain              |  18.7 |        12 |              |               |
-|  197 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  198 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  199 | Allan Sly                 |  18.6 |        29 |              |               |
-|  200 | Jason Facchin             |  18.5 |         3 |              |               |
-|  201 | Yan Liu                   |  18.5 |        10 |              |               |
-|  202 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  203 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  192 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  193 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  194 | Peter Dering              |  18.7 |         9 |              |               |
+|  195 | Sushant Jain              |  18.7 |        12 |              |               |
+|  196 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  197 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  198 | Allan Sly                 |  18.6 |        29 |              |               |
+|  199 | Jason Facchin             |  18.5 |         3 |              |               |
+|  200 | Yan Liu                   |  18.5 |        10 |              |               |
+|  201 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  202 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  203 | Kenny Bell                |  18.5 |       121 |        -0.32 |         +0.40 |
 |  204 | Dror Matalon              |  18.5 |       355 |        -0.09 |         +0.42 |
 |  205 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  206 | John Eng                  |  18.4 |        28 |              |               |
@@ -267,12 +267,12 @@ Generated 2016-11-15.
 |  263 | Angie Ng                  |  15.7 |        12 |              |               |
 |  264 | Tanit Follett             |  15.5 |         8 |              |               |
 |  265 | Toni Queck                |  15.5 |        20 |              |               |
-|  266 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  267 | Peter Duerr               |  15.4 |        24 |              |               |
-|  268 | Kevin Fox                 |  15.3 |         7 |              |               |
-|  269 | Jim Evans                 |  15.1 |       216 |              |               |
-|  270 | Dennis Chan               |  15.1 |         1 |              |               |
-|  271 | Ankur Dave                |  15.1 |        53 |              |         +7.02 |
+|  266 | Ankur Dave                |  15.4 |        54 |        +0.37 |         +7.39 |
+|  267 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  268 | Peter Duerr               |  15.4 |        24 |              |               |
+|  269 | Kevin Fox                 |  15.3 |         7 |              |               |
+|  270 | Jim Evans                 |  15.1 |       216 |              |               |
+|  271 | Dennis Chan               |  15.1 |         1 |              |               |
 |  272 | Allie Giovanelli          |  15.0 |         4 |              |               |
 |  273 | Sahar Sareminaeni         |  15.0 |        11 |        +0.82 |               |
 |  274 | Patrick Baylis            |  15.0 |        12 |              |               |
