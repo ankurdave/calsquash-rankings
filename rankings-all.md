@@ -125,25 +125,25 @@ Generated 2016-11-15.
 |  121 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  122 | Andrew Lawrie             |  22.0 |        46 |              |         +0.32 |
 |  123 | Jan Beranek               |  21.9 |        46 |              |               |
-|  124 | Jonathan Hankar           |  21.9 |       187 |              |               |
-|  125 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  126 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  127 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  128 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  129 | Omair Azam                |  21.7 |        18 |              |               |
-|  130 | Reid Johnsen              |  21.7 |        37 |              |         +7.20 |
-|  131 | Phin Lee                  |  21.7 |        16 |              |               |
-|  132 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  133 | Robert Isaac              |  21.5 |        15 |        -0.30 |               |
+|  124 | Sam McCormick             |  21.9 |        17 |        +1.39 |         +3.60 |
+|  125 | Jonathan Hankar           |  21.9 |       187 |              |               |
+|  126 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  129 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  130 | Omair Azam                |  21.7 |        18 |              |               |
+|  131 | Reid Johnsen              |  21.7 |        37 |              |         +7.20 |
+|  132 | Phin Lee                  |  21.7 |        16 |              |               |
+|  133 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  134 | Dante Popple              |  21.5 |        17 |              |               |
 |  135 | Mark Modera               |  21.3 |       312 |              |         -0.27 |
 |  136 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  137 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  138 | Adam Jacob                |  21.3 |         3 |              |               |
-|  139 | Sam McCormick             |  21.3 |        16 |        +0.76 |         +2.98 |
-|  140 | Casey Harelson            |  21.2 |        20 |              |               |
-|  141 | Philip Bildner            |  21.2 |        22 |              |               |
-|  142 | Darren Morgan             |  21.2 |        11 |              |               |
+|  139 | Casey Harelson            |  21.2 |        20 |              |               |
+|  140 | Philip Bildner            |  21.2 |        22 |              |               |
+|  141 | Darren Morgan             |  21.2 |        11 |              |               |
+|  142 | Robert Isaac              |  21.1 |        16 |        -0.70 |               |
 |  143 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  144 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  145 | Paz Grimberg              |  21.0 |        17 |              |               |
