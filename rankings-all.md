@@ -274,23 +274,23 @@ Generated 2016-11-15.
 |  270 | Dennis Chan               |  15.1 |         1 |              |               |
 |  271 | Ankur Dave                |  15.1 |        53 |              |         +7.02 |
 |  272 | Allie Giovanelli          |  15.0 |         4 |              |               |
-|  273 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  274 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
-|  275 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  276 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  277 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  278 | Paul Norberg              |  14.8 |         8 |              |               |
-|  279 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  280 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  281 | Kent Daniels              |  14.7 |        93 |        -0.15 |         -0.42 |
-|  282 | David Elfant              |  14.7 |         2 |              |               |
-|  283 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  284 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  285 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  286 | Diego Butrich             |  14.6 |         7 |              |               |
-|  287 | Shai Vardi                |  14.5 |         4 |              |               |
-|  288 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  289 | Sahar Sareminaeni         |  14.4 |        10 |        +0.24 |               |
+|  273 | Sahar Sareminaeni         |  15.0 |        11 |        +0.82 |               |
+|  274 | Patrick Baylis            |  15.0 |        12 |              |               |
+|  275 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  276 | Mimi Zhang                |  14.9 |         6 |              |               |
+|  277 | Jeff Dorman               |  14.9 |        14 |              |               |
+|  278 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  279 | Paul Norberg              |  14.8 |         8 |              |               |
+|  280 | Frederick Bayles          |  14.8 |         8 |              |               |
+|  281 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  282 | Kent Daniels              |  14.7 |        93 |        -0.15 |         -0.42 |
+|  283 | David Elfant              |  14.7 |         2 |              |               |
+|  284 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  285 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  286 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  287 | Diego Butrich             |  14.6 |         7 |              |               |
+|  288 | Shai Vardi                |  14.5 |         4 |              |               |
+|  289 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  290 | Max Woodworth             |  14.4 |         7 |              |               |
 |  291 | Juliet Shih               |  14.4 |        11 |              |               |
 |  292 | Khurram Mahmood           |  14.3 |         3 |              |               |
@@ -343,7 +343,7 @@ Generated 2016-11-15.
 |  339 | Josh Lebowitz             |  10.9 |        30 |        +0.59 |               |
 |  340 | Rodrigo Calmet            |  10.8 |         5 |              |               |
 |  341 | George Bentley            |  10.6 |         4 |              |               |
-|  342 | Nate Aden                 |  10.6 |        25 |        +0.57 |               |
+|  342 | Nate Aden                 |  10.5 |        25 |        +0.56 |               |
 |  343 | Daniel Schwartz           |  10.5 |        21 |              |               |
 |  344 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  345 | Brian Puglise             |  10.4 |         2 |              |               |
@@ -373,8 +373,8 @@ Generated 2016-11-15.
 |  369 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  370 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  371 | Laura Dobbs               |   9.0 |        26 |              |         -0.27 |
-|  372 | Raphael Magarik           |   8.9 |        15 |        +0.17 |               |
-|  373 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  372 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  373 | Raphael Magarik           |   8.8 |        16 |        +0.05 |               |
 |  374 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  375 | Therese Jones             |   8.7 |         6 |              |               |
 |  376 | Steven Yee                |   8.7 |         9 |              |               |
@@ -384,7 +384,7 @@ Generated 2016-11-15.
 |  380 | Meldan Heaslip            |   8.6 |         9 |        -0.34 |               |
 |  381 | James Grant               |   8.5 |         2 |              |               |
 |  382 | Duo Wang                  |   8.4 |        64 |        +0.15 |         +0.16 |
-|  383 | Brian Kempenich           |   8.3 |        40 |        -0.23 |         -0.85 |
+|  383 | Brian Kempenich           |   8.3 |        40 |        -0.24 |         -0.86 |
 |  384 | Reynold Xin               |   8.3 |         5 |              |               |
 |  385 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  386 | Fahad Riyadh              |   8.2 |         5 |              |               |
