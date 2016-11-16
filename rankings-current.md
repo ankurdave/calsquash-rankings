@@ -25,23 +25,23 @@ Generated 2016-11-15.
 |   21 | Jeff Gordon       |  20.2 |        39 |        +0.21 |         +4.49 |
 |   22 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
 |   23 | Jaime Perez       |  19.1 |        15 |              |               |
-|   24 | Kenny Bell        |  18.5 |       121 |        -0.32 |         +0.40 |
-|   25 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
-|   26 | Natalie Leung     |  18.4 |         1 |              |               |
+|   24 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
+|   25 | Natalie Leung     |  18.4 |         1 |              |               |
+|   26 | Kenny Bell        |  18.4 |       122 |        -0.42 |         +0.30 |
 |   27 | Shaun Lim         |  18.3 |        44 |              |         +0.31 |
 |   28 | Eric Borden       |  17.9 |        36 |        -0.08 |         +3.58 |
 |   29 | Josh Trauner      |  17.8 |        39 |              |               |
-|   30 | Wayne Heiser      |  17.4 |        35 |        +0.07 |               |
+|   30 | Wayne Heiser      |  17.5 |        35 |        +0.16 |               |
 |   31 | Troup Howard      |  17.3 |        40 |              |         -0.32 |
 |   32 | David Bratt       |  16.8 |        18 |              |         +0.39 |
 |   33 | Chris Flores      |  16.6 |       303 |              |         -1.98 |
 |   34 | Terry Chang       |  15.8 |        48 |              |         +2.14 |
 |   35 | Ankur Dave        |  15.4 |        54 |        +0.37 |         +7.39 |
-|   36 | Sahar Sareminaeni |  15.0 |        11 |        +0.82 |               |
-|   37 | Kent Daniels      |  14.7 |        93 |        -0.15 |         -0.42 |
-|   38 | Diego Butrich     |  14.6 |         7 |              |               |
-|   39 | Nikhil Paranjape  |  13.3 |        27 |              |               |
-|   40 | Marc Schechter    |  11.3 |         1 |              |               |
+|   36 | Marc Schechter    |  15.3 |         2 |              |               |
+|   37 | Sahar Sareminaeni |  15.0 |        11 |        +0.82 |               |
+|   38 | Kent Daniels      |  14.7 |        93 |        -0.15 |         -0.42 |
+|   39 | Diego Butrich     |  14.6 |         7 |              |               |
+|   40 | Nikhil Paranjape  |  13.3 |        27 |              |               |
 |   41 | Josh Lebowitz     |  10.9 |        30 |        +0.59 |               |
 |   42 | Nate Aden         |  10.5 |        25 |        +0.56 |               |
 |   43 | Daniel Schwartz   |  10.5 |        21 |              |               |
