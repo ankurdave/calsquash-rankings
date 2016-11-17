@@ -1,4 +1,4 @@
-Generated 2016-11-15.
+Generated 2016-11-16.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -208,7 +208,7 @@ Generated 2016-11-15.
 |  204 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  205 | John Eng                  |  18.4 |        28 |              |               |
 |  206 | Natalie Leung             |  18.4 |         1 |              |               |
-|  207 | Kenny Bell                |  18.4 |       122 |        -0.42 |         +0.30 |
+|  207 | Kenny Bell                |  18.4 |       122 |        -0.43 |         +0.29 |
 |  208 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  209 | Shaun Lim                 |  18.3 |        44 |              |         +0.31 |
 |  210 | Pierre Darancet           |  18.2 |        94 |              |               |
@@ -216,10 +216,10 @@ Generated 2016-11-15.
 |  212 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  213 | Eric Borden               |  17.9 |        36 |        -0.08 |         +3.58 |
 |  214 | James Chung               |  17.9 |         7 |              |               |
-|  215 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
-|  216 | Nick Paget                |  17.8 |        35 |              |               |
-|  217 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  218 | Josh Trauner              |  17.8 |        39 |              |               |
+|  215 | Josh Trauner              |  17.9 |        40 |        +0.06 |               |
+|  216 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
+|  217 | Nick Paget                |  17.8 |        35 |              |               |
+|  218 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  219 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  220 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  221 | Jim Kingsbury             |  17.6 |         2 |              |               |
@@ -267,8 +267,8 @@ Generated 2016-11-15.
 |  263 | Angie Ng                  |  15.7 |        12 |              |               |
 |  264 | Tanit Follett             |  15.5 |         8 |              |               |
 |  265 | Toni Queck                |  15.5 |        20 |              |               |
-|  266 | Ankur Dave                |  15.4 |        54 |        +0.37 |         +7.39 |
-|  267 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  266 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  267 | Ankur Dave                |  15.4 |        55 |        +0.33 |         +7.35 |
 |  268 | Peter Duerr               |  15.4 |        24 |              |               |
 |  269 | Marc Schechter            |  15.3 |         2 |              |               |
 |  270 | Kevin Fox                 |  15.3 |         7 |              |               |

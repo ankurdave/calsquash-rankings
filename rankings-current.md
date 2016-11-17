@@ -1,4 +1,4 @@
-Generated 2016-11-15.
+Generated 2016-11-16.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -27,16 +27,16 @@ Generated 2016-11-15.
 |   23 | Jaime Perez       |  19.1 |        15 |              |               |
 |   24 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
 |   25 | Natalie Leung     |  18.4 |         1 |              |               |
-|   26 | Kenny Bell        |  18.4 |       122 |        -0.42 |         +0.30 |
+|   26 | Kenny Bell        |  18.4 |       122 |        -0.43 |         +0.29 |
 |   27 | Shaun Lim         |  18.3 |        44 |              |         +0.31 |
 |   28 | Eric Borden       |  17.9 |        36 |        -0.08 |         +3.58 |
-|   29 | Josh Trauner      |  17.8 |        39 |              |               |
+|   29 | Josh Trauner      |  17.9 |        40 |        +0.06 |               |
 |   30 | Wayne Heiser      |  17.5 |        35 |        +0.16 |               |
 |   31 | Troup Howard      |  17.3 |        40 |              |         -0.32 |
 |   32 | David Bratt       |  16.8 |        18 |              |         +0.39 |
 |   33 | Chris Flores      |  16.6 |       303 |              |         -1.98 |
 |   34 | Terry Chang       |  15.8 |        48 |              |         +2.14 |
-|   35 | Ankur Dave        |  15.4 |        54 |        +0.37 |         +7.39 |
+|   35 | Ankur Dave        |  15.4 |        55 |        +0.33 |         +7.35 |
 |   36 | Marc Schechter    |  15.3 |         2 |              |               |
 |   37 | Sahar Sareminaeni |  15.0 |        11 |        +0.82 |               |
 |   38 | Kent Daniels      |  14.7 |        93 |        -0.15 |         -0.42 |
