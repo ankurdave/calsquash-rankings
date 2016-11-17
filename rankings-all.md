@@ -1,10 +1,10 @@
-Generated 2016-11-16.
+Generated 2016-11-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  35.0 |       212 |              |         -0.07 |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
-|    3 | Colin Grant               |  34.7 |         9 |        +0.08 |               |
+|    3 | Colin Grant               |  34.8 |        10 |        +0.17 |               |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -14,7 +14,7 @@ Generated 2016-11-16.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.42 |
-|   13 | Eric Katerman             |  31.5 |        27 |              |               |
+|   13 | Eric Katerman             |  31.6 |        28 |        +0.14 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
