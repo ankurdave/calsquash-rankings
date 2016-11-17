@@ -344,7 +344,7 @@ Generated 2016-11-16.
 |  340 | Josh Lebowitz             |  10.9 |        30 |        +0.59 |               |
 |  341 | Rodrigo Calmet            |  10.8 |         5 |              |               |
 |  342 | George Bentley            |  10.6 |         4 |              |               |
-|  343 | Nate Aden                 |  10.5 |        25 |        +0.56 |               |
+|  343 | Nate Aden                 |  10.6 |        25 |        +0.56 |               |
 |  344 | Daniel Schwartz           |  10.5 |        21 |              |               |
 |  345 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  346 | Brian Puglise             |  10.4 |         2 |              |               |
@@ -355,7 +355,7 @@ Generated 2016-11-16.
 |  351 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  352 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  353 | Sung-Jin Oh               |  10.1 |         6 |              |         +1.01 |
-|  354 | Reto Sutter               |  10.1 |        49 |              |         -0.39 |
+|  354 | Reto Sutter               |  10.1 |        50 |        -0.02 |         -0.41 |
 |  355 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  356 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  357 | Myles Gordon              |   9.8 |        42 |              |         -0.39 |
@@ -439,10 +439,10 @@ Generated 2016-11-16.
 |  435 | Maria Garzon              |   3.0 |         5 |              |               |
 |  436 | Nadir Shams               |   3.0 |         2 |              |               |
 |  437 | Ji Seop Oh                |   2.9 |         2 |              |               |
-|  438 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  439 | David Vogel               |   2.6 |         7 |              |               |
-|  440 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  441 | Anuj Dawar                |   2.2 |        11 |        -0.33 |               |
+|  438 | Anuj Dawar                |   2.8 |        12 |        +0.27 |               |
+|  439 | Pedrum Mohageri           |   2.7 |         8 |              |               |
+|  440 | David Vogel               |   2.6 |         7 |              |               |
+|  441 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  442 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  443 | Phil Lin                  |   2.1 |         1 |              |               |
 |  444 | Alexis Madrigal           |   2.1 |         2 |              |               |
