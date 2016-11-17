@@ -383,22 +383,22 @@ Generated 2016-11-17.
 |  379 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  380 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  381 | Meldan Heaslip            |   8.6 |         9 |        -0.34 |               |
-|  382 | James Grant               |   8.5 |         2 |              |               |
-|  383 | Duo Wang                  |   8.4 |        64 |        +0.15 |         +0.16 |
-|  384 | Brian Kempenich           |   8.3 |        40 |        -0.24 |         -0.86 |
-|  385 | Reynold Xin               |   8.3 |         5 |              |               |
-|  386 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  387 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  388 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  389 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  390 | John Coates               |   8.1 |         9 |              |               |
-|  391 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  392 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  393 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  394 | Zarina Khan               |   8.0 |         5 |              |               |
-|  395 | Chip Malt                 |   7.9 |         4 |              |               |
-|  396 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  397 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  382 | Duo Wang                  |   8.4 |        64 |        +0.15 |         +0.16 |
+|  383 | Brian Kempenich           |   8.3 |        40 |        -0.24 |         -0.86 |
+|  384 | Reynold Xin               |   8.3 |         5 |              |               |
+|  385 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  386 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  387 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  388 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  389 | John Coates               |   8.1 |         9 |              |               |
+|  390 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  391 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  392 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  393 | Zarina Khan               |   8.0 |         5 |              |               |
+|  394 | Chip Malt                 |   7.9 |         4 |              |               |
+|  395 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  396 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  397 | James Grant               |   7.8 |         2 |              |               |
 |  398 | Akira Chiwaki             |   7.8 |         3 |              |               |
 |  399 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  400 | Jeremy Brown              |   7.7 |         4 |              |               |
@@ -429,29 +429,29 @@ Generated 2016-11-17.
 |  425 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  426 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.68 |
 |  427 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  428 | Jose Lara                 |   4.7 |         8 |        -0.06 |               |
-|  429 | Zsolt Bartha              |   4.4 |        46 |              |         +2.35 |
-|  430 | Sameer Bajaj              |   4.3 |         4 |              |               |
-|  431 | Annie Wong                |   4.0 |         3 |              |               |
-|  432 | Ryan                      |   4.0 |         3 |              |               |
-|  433 | Mateo Aceves              |   3.8 |         4 |              |               |
+|  428 | Zsolt Bartha              |   4.4 |        46 |              |         +2.35 |
+|  429 | Sameer Bajaj              |   4.3 |         4 |              |               |
+|  430 | Annie Wong                |   4.0 |         3 |              |               |
+|  431 | Ryan                      |   4.0 |         3 |              |               |
+|  432 | Mateo Aceves              |   3.8 |         4 |              |               |
+|  433 | Jose Lara                 |   3.7 |         9 |        -1.00 |               |
 |  434 | Nakul Vakil               |   3.0 |         5 |              |               |
 |  435 | Maria Garzon              |   3.0 |         5 |              |               |
 |  436 | Nadir Shams               |   3.0 |         2 |              |               |
 |  437 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  438 | Anuj Dawar                |   2.8 |        12 |        +0.27 |               |
-|  439 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  440 | David Vogel               |   2.6 |         7 |              |               |
-|  441 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  442 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  443 | Phil Lin                  |   2.1 |         1 |              |               |
-|  444 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  445 | Craig Hollow              |   1.9 |         3 |              |               |
-|  446 | Adeesh Goel               |   1.9 |         3 |              |               |
-|  447 | Heather Dunbar            |   1.8 |         1 |              |               |
-|  448 | Himanshu Chandra          |   1.8 |         4 |              |               |
-|  449 | David Gundry              |   1.7 |         3 |              |               |
-|  450 | Cristhian Daniel          |   1.7 |        16 |        -0.04 |               |
+|  439 | Cristhian Daniel          |   2.8 |        17 |        +1.06 |               |
+|  440 | Pedrum Mohageri           |   2.7 |         8 |              |               |
+|  441 | David Vogel               |   2.6 |         7 |              |               |
+|  442 | Xavier Vendrell           |   2.5 |         3 |              |               |
+|  443 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  444 | Phil Lin                  |   2.1 |         1 |              |               |
+|  445 | Alexis Madrigal           |   2.1 |         2 |              |               |
+|  446 | Craig Hollow              |   1.9 |         3 |              |               |
+|  447 | Adeesh Goel               |   1.9 |         3 |              |               |
+|  448 | Heather Dunbar            |   1.8 |         1 |              |               |
+|  449 | Himanshu Chandra          |   1.8 |         4 |              |               |
+|  450 | David Gundry              |   1.7 |         3 |              |               |
 |  451 | Shantanu Mittal           |   1.6 |         3 |              |               |
 |  452 | Vin Marshall              |   1.5 |        11 |              |               |
 |  453 | Matthew Mak               |   1.5 |         1 |              |               |
