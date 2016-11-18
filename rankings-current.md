@@ -13,11 +13,11 @@ Generated 2016-11-18.
 |    9 | Matt Wong         |  23.1 |        77 |        -0.04 |         +1.68 |
 |   10 | Dan Meier         |  23.0 |        53 |              |         +1.47 |
 |   11 | Vishal Jain       |  22.1 |         4 |        +2.04 |               |
-|   12 | Anibhav Singla    |  22.1 |         5 |        +1.55 |               |
-|   13 | Reid Johnsen      |  21.9 |        38 |        +0.23 |         +7.43 |
+|   12 | Reid Johnsen      |  22.1 |        39 |        +0.40 |         +7.60 |
+|   13 | Anibhav Singla    |  22.1 |         5 |        +1.55 |               |
 |   14 | Sam McCormick     |  21.9 |        17 |        +1.39 |         +3.60 |
 |   15 | Jonathan Hankar   |  21.9 |       187 |              |               |
-|   16 | Mark Modera       |  21.3 |       312 |              |         -0.27 |
+|   16 | Mark Modera       |  21.2 |       313 |        -0.14 |         -0.40 |
 |   17 | Robert Isaac      |  21.1 |        16 |        -0.70 |               |
 |   18 | Jared Bard        |  20.8 |        35 |              |         +1.85 |
 |   19 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |

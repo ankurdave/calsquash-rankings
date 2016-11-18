@@ -116,16 +116,16 @@ Generated 2016-11-18.
 |  112 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  113 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  114 | Vishal Jain               |  22.1 |         4 |        +2.04 |               |
-|  115 | Anibhav Singla            |  22.1 |         5 |        +1.55 |               |
-|  116 | Britta Gardner            |  22.1 |        16 |              |               |
-|  117 | Niklas Linde              |  22.1 |        23 |              |               |
-|  118 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  119 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  120 | Blake Woodard             |  22.0 |        10 |              |               |
-|  121 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  122 | Andrew Lawrie             |  22.0 |        46 |              |         +0.32 |
-|  123 | Jan Beranek               |  21.9 |        46 |              |               |
-|  124 | Reid Johnsen              |  21.9 |        38 |        +0.23 |         +7.43 |
+|  115 | Reid Johnsen              |  22.1 |        39 |        +0.40 |         +7.60 |
+|  116 | Anibhav Singla            |  22.1 |         5 |        +1.55 |               |
+|  117 | Britta Gardner            |  22.1 |        16 |              |               |
+|  118 | Niklas Linde              |  22.1 |        23 |              |               |
+|  119 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  120 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  121 | Blake Woodard             |  22.0 |        10 |              |               |
+|  122 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  123 | Andrew Lawrie             |  22.0 |        46 |              |         +0.32 |
+|  124 | Jan Beranek               |  21.9 |        46 |              |               |
 |  125 | Sam McCormick             |  21.9 |        17 |        +1.39 |         +3.60 |
 |  126 | Jonathan Hankar           |  21.9 |       187 |              |               |
 |  127 | Saurabh Bajaj             |  21.8 |        22 |              |               |
@@ -136,11 +136,11 @@ Generated 2016-11-18.
 |  132 | Phin Lee                  |  21.7 |        16 |              |               |
 |  133 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  134 | Dante Popple              |  21.5 |        17 |              |               |
-|  135 | Mark Modera               |  21.3 |       312 |              |         -0.27 |
-|  136 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  137 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  138 | Adam Jacob                |  21.3 |         3 |              |               |
-|  139 | Casey Harelson            |  21.2 |        20 |              |               |
+|  135 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  136 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  137 | Adam Jacob                |  21.3 |         3 |              |               |
+|  138 | Casey Harelson            |  21.2 |        20 |              |               |
+|  139 | Mark Modera               |  21.2 |       313 |        -0.14 |         -0.40 |
 |  140 | Philip Bildner            |  21.2 |        22 |              |               |
 |  141 | Darren Morgan             |  21.2 |        11 |              |               |
 |  142 | Robert Isaac              |  21.1 |        16 |        -0.70 |               |
