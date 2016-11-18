@@ -3,7 +3,7 @@ Generated 2016-11-18.
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  35.0 |       212 |              |         -0.07 |
-|    2 | Colin Grant               |  34.8 |        10 |        +0.20 |               |
+|    2 | Colin Grant               |  35.0 |        11 |        +0.43 |               |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
@@ -41,7 +41,7 @@ Generated 2016-11-18.
 |   37 | Michael Best              |  26.9 |        21 |              |               |
 |   38 | Josh Taylor               |  26.8 |        40 |              |               |
 |   39 | David Hwang               |  26.8 |        44 |              |               |
-|   40 | Nick Cobbett              |  26.6 |        28 |              |         +7.36 |
+|   40 | Nick Cobbett              |  26.6 |        29 |        -0.05 |         +7.30 |
 |   41 | Gary Golding              |  26.5 |         6 |              |               |
 |   42 | Ethan Kerr                |  26.4 |        12 |              |               |
 |   43 | Amos Vernon               |  26.4 |        30 |              |               |
