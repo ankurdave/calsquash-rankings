@@ -1,14 +1,14 @@
-Generated 2016-11-17.
+Generated 2016-11-18.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant       |  34.8 |        10 |        +0.17 |               |
-|    2 | Eric Katerman     |  31.6 |        28 |        +0.14 |               |
+|    1 | Colin Grant       |  34.8 |        10 |        +0.20 |               |
+|    2 | Eric Katerman     |  31.7 |        29 |        +0.25 |               |
 |    3 | Sam Sternberg     |  30.5 |       131 |              |         +1.29 |
 |    4 | Frank Kennamer    |  26.9 |       213 |              |         -0.63 |
 |    5 | Nick Cobbett      |  26.6 |        28 |              |         +7.36 |
 |    6 | Jim Veitch        |  24.8 |       431 |        -0.23 |         -1.63 |
-|    7 | John Kunze        |  24.6 |       306 |              |         -0.62 |
+|    7 | John Kunze        |  24.5 |       307 |        -0.09 |         -0.71 |
 |    8 | Dan Bohn          |  23.2 |        81 |              |         -0.54 |
 |    9 | Matt Wong         |  23.1 |        77 |        -0.04 |         +1.68 |
 |   10 | Dan Meier         |  23.0 |        53 |              |         +1.47 |

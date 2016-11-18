@@ -1,10 +1,10 @@
-Generated 2016-11-17.
+Generated 2016-11-18.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler             |  35.0 |       212 |              |         -0.07 |
-|    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
-|    3 | Colin Grant               |  34.8 |        10 |        +0.17 |               |
+|    2 | Colin Grant               |  34.8 |        10 |        +0.20 |               |
+|    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -14,7 +14,7 @@ Generated 2016-11-17.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.42 |
-|   13 | Eric Katerman             |  31.6 |        28 |        +0.14 |               |
+|   13 | Eric Katerman             |  31.7 |        29 |        +0.25 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
@@ -67,8 +67,8 @@ Generated 2016-11-17.
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
-|   66 | John Kunze                |  24.6 |       306 |              |         -0.62 |
-|   67 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   66 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   67 | John Kunze                |  24.5 |       307 |        -0.09 |         -0.71 |
 |   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
