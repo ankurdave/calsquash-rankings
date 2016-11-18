@@ -44,15 +44,15 @@ Generated 2016-11-17.
 |   40 | Nikhil Paranjape  |  13.3 |        27 |              |               |
 |   41 | Josh Lebowitz     |  10.9 |        30 |        +0.59 |               |
 |   42 | Nate Aden         |  10.6 |        25 |        +0.56 |               |
-|   43 | Daniel Schwartz   |  10.5 |        21 |              |               |
-|   44 | Reto Sutter       |  10.1 |        50 |        -0.02 |         -0.41 |
+|   43 | Reto Sutter       |  10.1 |        50 |        -0.02 |         -0.41 |
+|   44 | Daniel Schwartz   |   9.8 |        22 |        -0.69 |               |
 |   45 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
 |   46 | Raphael Magarik   |   8.8 |        16 |        +0.05 |               |
 |   47 | Meldan Heaslip    |   8.6 |         9 |        -0.34 |               |
-|   48 | Duo Wang          |   8.4 |        64 |        +0.15 |         +0.16 |
+|   48 | Duo Wang          |   8.5 |        64 |        +0.19 |         +0.20 |
 |   49 | Brian Kempenich   |   8.3 |        40 |        -0.24 |         -0.86 |
 |   50 | James Grant       |   7.8 |         2 |              |               |
-|   51 | Keaton Noon       |   6.4 |        22 |        -0.13 |               |
+|   51 | Keaton Noon       |   7.2 |        23 |        +0.67 |               |
 |   52 | Alok Singh        |   5.3 |        14 |              |               |
 |   53 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
 |   54 | Sameer Bajaj      |   4.3 |         4 |              |               |

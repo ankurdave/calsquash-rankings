@@ -345,19 +345,19 @@ Generated 2016-11-17.
 |  341 | Rodrigo Calmet            |  10.8 |         5 |              |               |
 |  342 | George Bentley            |  10.6 |         4 |              |               |
 |  343 | Nate Aden                 |  10.6 |        25 |        +0.56 |               |
-|  344 | Daniel Schwartz           |  10.5 |        21 |              |               |
-|  345 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  346 | Brian Puglise             |  10.4 |         2 |              |               |
-|  347 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  348 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  349 | John Provine              |  10.2 |        16 |              |               |
-|  350 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  351 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  352 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  353 | Sung-Jin Oh               |  10.1 |         6 |              |         +1.01 |
-|  354 | Reto Sutter               |  10.1 |        50 |        -0.02 |         -0.41 |
-|  355 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  356 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  344 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  345 | Brian Puglise             |  10.4 |         2 |              |               |
+|  346 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  347 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  348 | John Provine              |  10.2 |        16 |              |               |
+|  349 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  350 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  351 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  352 | Sung-Jin Oh               |  10.1 |         6 |              |         +1.01 |
+|  353 | Reto Sutter               |  10.1 |        50 |        -0.02 |         -0.41 |
+|  354 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  355 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  356 | Daniel Schwartz           |   9.8 |        22 |        -0.69 |               |
 |  357 | Myles Gordon              |   9.8 |        42 |              |         -0.39 |
 |  358 | Jacob Bank                |   9.7 |         1 |              |               |
 |  359 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
@@ -383,7 +383,7 @@ Generated 2016-11-17.
 |  379 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  380 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  381 | Meldan Heaslip            |   8.6 |         9 |        -0.34 |               |
-|  382 | Duo Wang                  |   8.4 |        64 |        +0.15 |         +0.16 |
+|  382 | Duo Wang                  |   8.5 |        64 |        +0.19 |         +0.20 |
 |  383 | Brian Kempenich           |   8.3 |        40 |        -0.24 |         -0.86 |
 |  384 | Reynold Xin               |   8.3 |         5 |              |               |
 |  385 | Anurag Gupta              |   8.3 |         6 |              |               |
@@ -407,12 +407,12 @@ Generated 2016-11-17.
 |  403 | Arno Ferguson             |   7.4 |         1 |              |               |
 |  404 | Alex Walters              |   7.4 |         3 |              |               |
 |  405 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  406 | Brookes Degen             |   6.8 |         6 |              |               |
-|  407 | Joshua Braver             |   6.5 |         1 |              |               |
-|  408 | Pablo Paredes             |   6.5 |         1 |              |               |
-|  409 | Mikel Shybut              |   6.5 |         4 |              |               |
-|  410 | Markus Boese              |   6.5 |         1 |              |               |
-|  411 | Keaton Noon               |   6.4 |        22 |        -0.13 |               |
+|  406 | Keaton Noon               |   7.2 |        23 |        +0.67 |               |
+|  407 | Brookes Degen             |   6.8 |         6 |              |               |
+|  408 | Joshua Braver             |   6.5 |         1 |              |               |
+|  409 | Pablo Paredes             |   6.5 |         1 |              |               |
+|  410 | Mikel Shybut              |   6.5 |         4 |              |               |
+|  411 | Markus Boese              |   6.5 |         1 |              |               |
 |  412 | Dav Clark                 |   6.4 |         6 |              |               |
 |  413 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  414 | Rafael Silberblatt        |   6.1 |         5 |              |               |
