@@ -125,14 +125,14 @@ Generated 2016-11-18.
 |  121 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  122 | Andrew Lawrie             |  22.0 |        46 |              |         +0.32 |
 |  123 | Jan Beranek               |  21.9 |        46 |              |               |
-|  124 | Sam McCormick             |  21.9 |        17 |        +1.39 |         +3.60 |
-|  125 | Jonathan Hankar           |  21.9 |       187 |              |               |
-|  126 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  129 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  130 | Omair Azam                |  21.7 |        18 |              |               |
-|  131 | Reid Johnsen              |  21.7 |        37 |              |         +7.20 |
+|  124 | Reid Johnsen              |  21.9 |        38 |        +0.23 |         +7.43 |
+|  125 | Sam McCormick             |  21.9 |        17 |        +1.39 |         +3.60 |
+|  126 | Jonathan Hankar           |  21.9 |       187 |              |               |
+|  127 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  130 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  131 | Omair Azam                |  21.7 |        18 |              |               |
 |  132 | Phin Lee                  |  21.7 |        16 |              |               |
 |  133 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  134 | Dante Popple              |  21.5 |        17 |              |               |
@@ -185,14 +185,14 @@ Generated 2016-11-18.
 |  181 | Greg Adams                |  19.3 |        10 |              |               |
 |  182 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  183 | John Corcoran             |  19.1 |        49 |              |               |
-|  184 | Jaime Perez               |  19.1 |        15 |              |               |
-|  185 | Kedar Shah                |  19.1 |         9 |              |               |
-|  186 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  187 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  188 | Yating Liu                |  19.0 |         7 |              |               |
-|  189 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
-|  190 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  191 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  184 | Kedar Shah                |  19.1 |         9 |              |               |
+|  185 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  186 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  187 | Yating Liu                |  19.0 |         7 |              |               |
+|  188 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
+|  189 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  190 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  191 | Jaime Perez               |  18.8 |        16 |        -0.31 |               |
 |  192 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  193 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  194 | Peter Dering              |  18.7 |         9 |              |               |
