@@ -1,4 +1,4 @@
-Generated 2016-11-18.
+Generated 2016-11-19.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -116,8 +116,8 @@ Generated 2016-11-18.
 |  112 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  113 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  114 | Vishal Jain               |  22.1 |         4 |        +2.04 |               |
-|  115 | Reid Johnsen              |  22.1 |        39 |        +0.40 |         +7.60 |
-|  116 | Anibhav Singla            |  22.1 |         5 |        +1.55 |               |
+|  115 | Anibhav Singla            |  22.1 |         5 |        +1.55 |               |
+|  116 | Reid Johnsen              |  22.1 |        39 |        +0.38 |         +7.58 |
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
 |  119 | Errick Ceppas             |  22.0 |         6 |              |               |
@@ -140,13 +140,13 @@ Generated 2016-11-18.
 |  136 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  137 | Adam Jacob                |  21.3 |         3 |              |               |
 |  138 | Casey Harelson            |  21.2 |        20 |              |               |
-|  139 | Mark Modera               |  21.2 |       313 |        -0.14 |         -0.40 |
-|  140 | Philip Bildner            |  21.2 |        22 |              |               |
-|  141 | Darren Morgan             |  21.2 |        11 |              |               |
-|  142 | Robert Isaac              |  21.1 |        16 |        -0.70 |               |
-|  143 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  144 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  145 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  139 | Philip Bildner            |  21.2 |        22 |              |               |
+|  140 | Darren Morgan             |  21.2 |        11 |              |               |
+|  141 | Robert Isaac              |  21.1 |        16 |        -0.70 |               |
+|  142 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  143 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  144 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  145 | Mark Modera               |  21.0 |       314 |        -0.34 |         -0.61 |
 |  146 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  147 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  148 | Joseph Farrell            |  20.9 |         8 |              |               |
@@ -181,18 +181,18 @@ Generated 2016-11-18.
 |  177 | Andrew Proudfoot          |  19.6 |        26 |              |         +0.83 |
 |  178 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  179 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  180 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  181 | Greg Adams                |  19.3 |        10 |              |               |
-|  182 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  183 | John Corcoran             |  19.1 |        49 |              |               |
-|  184 | Kedar Shah                |  19.1 |         9 |              |               |
-|  185 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  186 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  187 | Yating Liu                |  19.0 |         7 |              |               |
-|  188 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
-|  189 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  190 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  191 | Jaime Perez               |  18.8 |        16 |        -0.31 |               |
+|  180 | Jaime Perez               |  19.3 |        17 |        +0.23 |               |
+|  181 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  182 | Greg Adams                |  19.3 |        10 |              |               |
+|  183 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  184 | John Corcoran             |  19.1 |        49 |              |               |
+|  185 | Kedar Shah                |  19.1 |         9 |              |               |
+|  186 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  187 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  188 | Yating Liu                |  19.0 |         7 |              |               |
+|  189 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
+|  190 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  191 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  192 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  193 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  194 | Peter Dering              |  18.7 |         9 |              |               |
