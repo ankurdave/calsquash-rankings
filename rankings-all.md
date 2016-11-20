@@ -383,7 +383,7 @@ Generated 2016-11-19.
 |  379 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  380 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  381 | Meldan Heaslip            |   8.6 |         9 |        -0.34 |               |
-|  382 | Duo Wang                  |   8.5 |        64 |        +0.19 |         +0.20 |
+|  382 | Duo Wang                  |   8.5 |        65 |        +0.21 |         +0.22 |
 |  383 | Brian Kempenich           |   8.3 |        40 |        -0.24 |         -0.86 |
 |  384 | Reynold Xin               |   8.3 |         5 |              |               |
 |  385 | Anurag Gupta              |   8.3 |         6 |              |               |
@@ -429,7 +429,7 @@ Generated 2016-11-19.
 |  425 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  426 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.68 |
 |  427 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  428 | Zsolt Bartha              |   4.4 |        46 |              |         +2.35 |
+|  428 | Zsolt Bartha              |   4.4 |        47 |        +0.02 |         +2.37 |
 |  429 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  430 | Annie Wong                |   4.0 |         3 |              |               |
 |  431 | Ryan                      |   4.0 |         3 |              |               |

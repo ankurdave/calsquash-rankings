@@ -49,12 +49,12 @@ Generated 2016-11-19.
 |   45 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
 |   46 | Raphael Magarik   |   8.8 |        16 |        +0.05 |               |
 |   47 | Meldan Heaslip    |   8.6 |         9 |        -0.34 |               |
-|   48 | Duo Wang          |   8.5 |        64 |        +0.19 |         +0.20 |
+|   48 | Duo Wang          |   8.5 |        65 |        +0.21 |         +0.22 |
 |   49 | Brian Kempenich   |   8.3 |        40 |        -0.24 |         -0.86 |
 |   50 | James Grant       |   7.8 |         2 |              |               |
 |   51 | Keaton Noon       |   7.2 |        23 |        +0.67 |               |
 |   52 | Alok Singh        |   5.3 |        14 |              |               |
-|   53 | Zsolt Bartha      |   4.4 |        46 |              |         +2.35 |
+|   53 | Zsolt Bartha      |   4.4 |        47 |        +0.02 |         +2.37 |
 |   54 | Sameer Bajaj      |   4.3 |         4 |              |               |
 |   55 | Jose Lara         |   3.7 |         9 |        -1.00 |               |
 |   56 | Anuj Dawar        |   2.8 |        12 |        +0.27 |               |
