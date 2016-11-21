@@ -25,19 +25,19 @@ Generated 2016-11-20.
 |   21 | Jeff Gordon       |  20.2 |        39 |        +0.21 |         +4.49 |
 |   22 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
 |   23 | Jaime Perez       |  19.3 |        17 |        +0.23 |               |
-|   24 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
-|   25 | Natalie Leung     |  18.4 |         1 |              |               |
-|   26 | Kenny Bell        |  18.4 |       122 |        -0.43 |         +0.29 |
-|   27 | Shaun Lim         |  18.3 |        44 |              |         +0.31 |
-|   28 | Eric Borden       |  17.9 |        36 |        -0.08 |         +3.58 |
-|   29 | Josh Trauner      |  17.9 |        40 |        +0.06 |               |
-|   30 | Wayne Heiser      |  17.5 |        35 |        +0.16 |               |
-|   31 | Troup Howard      |  17.3 |        40 |              |         -0.32 |
-|   32 | David Bratt       |  16.8 |        18 |              |         +0.39 |
-|   33 | Chris Flores      |  16.6 |       303 |              |         -1.98 |
-|   34 | Terry Chang       |  15.8 |        48 |              |         +2.14 |
-|   35 | Ankur Dave        |  15.4 |        55 |        +0.33 |         +7.35 |
-|   36 | Marc Schechter    |  15.3 |         2 |              |               |
+|   24 | Marc Schechter    |  18.6 |         3 |              |               |
+|   25 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
+|   26 | Natalie Leung     |  18.4 |         1 |              |               |
+|   27 | Kenny Bell        |  18.4 |       122 |        -0.44 |         +0.28 |
+|   28 | Shaun Lim         |  18.3 |        44 |              |         +0.31 |
+|   29 | Eric Borden       |  17.9 |        36 |        -0.08 |         +3.58 |
+|   30 | Josh Trauner      |  17.9 |        40 |        +0.06 |               |
+|   31 | Wayne Heiser      |  17.4 |        35 |        +0.07 |               |
+|   32 | Troup Howard      |  17.3 |        40 |              |         -0.32 |
+|   33 | David Bratt       |  16.8 |        18 |              |         +0.39 |
+|   34 | Chris Flores      |  16.6 |       303 |              |         -1.98 |
+|   35 | Terry Chang       |  15.8 |        48 |              |         +2.14 |
+|   36 | Ankur Dave        |  15.3 |        56 |        +0.24 |         +7.26 |
 |   37 | Sahar Sareminaeni |  15.0 |        11 |        +0.82 |               |
 |   38 | Kent Daniels      |  14.7 |        93 |        -0.15 |         -0.42 |
 |   39 | Diego Butrich     |  14.6 |         7 |              |               |
