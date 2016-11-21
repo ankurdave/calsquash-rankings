@@ -112,11 +112,11 @@ Generated 2016-11-20.
 |  108 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  109 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  110 | Vishal Jain               |  22.3 |         5 |        +2.26 |               |
-|  111 | Robert Geiger             |  22.2 |         8 |              |               |
-|  112 | Aaron Socha               |  22.2 |        24 |              |               |
-|  113 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  114 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  115 | Anibhav Singla            |  22.1 |         5 |        +1.55 |               |
+|  111 | Anibhav Singla            |  22.3 |         6 |        +1.74 |               |
+|  112 | Robert Geiger             |  22.2 |         8 |              |               |
+|  113 | Aaron Socha               |  22.2 |        24 |              |               |
+|  114 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  115 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  116 | Reid Johnsen              |  22.1 |        39 |        +0.38 |         +7.58 |
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
@@ -161,7 +161,7 @@ Generated 2016-11-20.
 |  157 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  158 | Andrew Green              |  20.5 |        52 |              |               |
 |  159 | Steven Sloman             |  20.4 |        10 |              |               |
-|  160 | Robert Schwartz           |  20.4 |        82 |        +0.08 |         -1.45 |
+|  160 | Robert Schwartz           |  20.4 |        82 |        +0.09 |         -1.45 |
 |  161 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  162 | Carl Schreck              |  20.2 |         2 |              |               |
 |  163 | Jeff Gordon               |  20.2 |        39 |        +0.21 |         +4.49 |
@@ -447,7 +447,7 @@ Generated 2016-11-20.
 |  443 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  444 | Phil Lin                  |   2.1 |         1 |              |               |
 |  445 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  446 | Craig Hollow              |   1.9 |         3 |              |               |
+|  446 | Craig Hollow              |   2.0 |         4 |        +0.08 |               |
 |  447 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  448 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  449 | Himanshu Chandra          |   1.8 |         4 |              |               |

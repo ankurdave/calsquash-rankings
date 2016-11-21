@@ -13,7 +13,7 @@ Generated 2016-11-20.
 |    9 | Matt Wong         |  23.1 |        77 |        -0.04 |         +1.68 |
 |   10 | Dan Meier         |  23.0 |        53 |              |         +1.47 |
 |   11 | Vishal Jain       |  22.3 |         5 |        +2.26 |               |
-|   12 | Anibhav Singla    |  22.1 |         5 |        +1.55 |               |
+|   12 | Anibhav Singla    |  22.3 |         6 |        +1.74 |               |
 |   13 | Reid Johnsen      |  22.1 |        39 |        +0.38 |         +7.58 |
 |   14 | Sam McCormick     |  21.9 |        17 |        +1.39 |         +3.60 |
 |   15 | Jonathan Hankar   |  21.9 |       187 |              |               |
@@ -21,7 +21,7 @@ Generated 2016-11-20.
 |   17 | Mark Modera       |  21.0 |       314 |        -0.34 |         -0.61 |
 |   18 | Jared Bard        |  20.8 |        35 |              |         +1.85 |
 |   19 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
-|   20 | Robert Schwartz   |  20.4 |        82 |        +0.08 |         -1.45 |
+|   20 | Robert Schwartz   |  20.4 |        82 |        +0.09 |         -1.45 |
 |   21 | Jeff Gordon       |  20.2 |        39 |        +0.21 |         +4.49 |
 |   22 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
 |   23 | Jaime Perez       |  19.3 |        17 |        +0.23 |               |
@@ -59,5 +59,5 @@ Generated 2016-11-20.
 |   55 | Jose Lara         |   3.7 |         9 |        -1.00 |               |
 |   56 | Anuj Dawar        |   3.2 |        13 |        +0.72 |               |
 |   57 | Cristhian Daniel  |   2.8 |        17 |        +1.06 |               |
-|   58 | Craig Hollow      |   1.9 |         3 |              |               |
+|   58 | Craig Hollow      |   2.0 |         4 |        +0.08 |               |
 |   59 | Duncan MacRae     |  -6.2 |         6 |              |               |
