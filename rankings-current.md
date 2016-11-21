@@ -1,4 +1,4 @@
-Generated 2016-11-20.
+Generated 2016-11-21.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -39,16 +39,16 @@ Generated 2016-11-20.
 |   35 | Terry Chang       |  15.8 |        48 |              |         +2.14 |
 |   36 | Ankur Dave        |  15.3 |        56 |        +0.24 |         +7.26 |
 |   37 | Sahar Sareminaeni |  15.0 |        11 |        +0.82 |               |
-|   38 | Kent Daniels      |  14.7 |        93 |        -0.15 |         -0.42 |
+|   38 | Kent Daniels      |  14.7 |        93 |        -0.17 |         -0.44 |
 |   39 | Diego Butrich     |  14.6 |         7 |              |               |
 |   40 | Nikhil Paranjape  |  13.3 |        27 |              |               |
-|   41 | Josh Lebowitz     |  10.9 |        30 |        +0.59 |               |
+|   41 | Josh Lebowitz     |  10.7 |        31 |        +0.40 |               |
 |   42 | Nate Aden         |  10.6 |        25 |        +0.57 |               |
 |   43 | Reto Sutter       |  10.1 |        50 |        -0.02 |         -0.41 |
 |   44 | Daniel Schwartz   |   9.8 |        22 |        -0.69 |               |
 |   45 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
-|   46 | Raphael Magarik   |   8.9 |        17 |        +0.14 |               |
-|   47 | Meldan Heaslip    |   8.6 |         9 |        -0.34 |               |
+|   46 | Meldan Heaslip    |   9.4 |        10 |        +0.54 |               |
+|   47 | Raphael Magarik   |   8.9 |        17 |        +0.14 |               |
 |   48 | Duo Wang          |   8.5 |        65 |        +0.21 |         +0.22 |
 |   49 | Brian Kempenich   |   8.3 |        40 |        -0.24 |         -0.86 |
 |   50 | James Grant       |   7.8 |         2 |              |               |

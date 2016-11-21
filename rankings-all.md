@@ -1,4 +1,4 @@
-Generated 2016-11-20.
+Generated 2016-11-21.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -284,7 +284,7 @@ Generated 2016-11-20.
 |  280 | Paul Norberg              |  14.8 |         8 |              |               |
 |  281 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  282 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  283 | Kent Daniels              |  14.7 |        93 |        -0.15 |         -0.42 |
+|  283 | Kent Daniels              |  14.7 |        93 |        -0.17 |         -0.44 |
 |  284 | David Elfant              |  14.7 |         2 |              |               |
 |  285 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  286 | Margaret Chapman          |  14.6 |         6 |              |               |
@@ -341,8 +341,8 @@ Generated 2016-11-20.
 |  337 | Karan Jain                |  11.3 |        19 |              |               |
 |  338 | Lucas Siow                |  11.0 |        10 |              |               |
 |  339 | Dominick Ng               |  10.9 |        25 |              |               |
-|  340 | Josh Lebowitz             |  10.9 |        30 |        +0.59 |               |
-|  341 | Rodrigo Calmet            |  10.8 |         5 |              |               |
+|  340 | Rodrigo Calmet            |  10.8 |         5 |              |               |
+|  341 | Josh Lebowitz             |  10.7 |        31 |        +0.40 |               |
 |  342 | George Bentley            |  10.6 |         4 |              |               |
 |  343 | Nate Aden                 |  10.6 |        25 |        +0.57 |               |
 |  344 | Sudeep Agarwal            |  10.5 |         3 |              |               |
@@ -362,27 +362,27 @@ Generated 2016-11-20.
 |  358 | Jacob Bank                |   9.7 |         1 |              |               |
 |  359 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
 |  360 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  361 | Mark Shapero              |   9.4 |         7 |              |               |
-|  362 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  363 | Max Grass                 |   9.4 |         1 |              |               |
-|  364 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  365 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  366 | Robert Broesler           |   9.4 |         4 |              |               |
-|  367 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  368 | Greg Sperla               |   9.3 |         8 |              |               |
-|  369 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  370 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  371 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  372 | Laura Dobbs               |   9.0 |        26 |              |         -0.27 |
-|  373 | Raphael Magarik           |   8.9 |        17 |        +0.14 |               |
-|  374 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  375 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  376 | Therese Jones             |   8.7 |         6 |              |               |
-|  377 | Steven Yee                |   8.7 |         9 |              |               |
-|  378 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  379 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  380 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  381 | Meldan Heaslip            |   8.6 |         9 |        -0.34 |               |
+|  361 | Meldan Heaslip            |   9.4 |        10 |        +0.54 |               |
+|  362 | Mark Shapero              |   9.4 |         7 |              |               |
+|  363 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  364 | Max Grass                 |   9.4 |         1 |              |               |
+|  365 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  366 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  367 | Robert Broesler           |   9.4 |         4 |              |               |
+|  368 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  369 | Greg Sperla               |   9.3 |         8 |              |               |
+|  370 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  371 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  372 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  373 | Laura Dobbs               |   9.0 |        26 |              |         -0.27 |
+|  374 | Raphael Magarik           |   8.9 |        17 |        +0.14 |               |
+|  375 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  376 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  377 | Therese Jones             |   8.7 |         6 |              |               |
+|  378 | Steven Yee                |   8.7 |         9 |              |               |
+|  379 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  380 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  381 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  382 | Duo Wang                  |   8.5 |        65 |        +0.21 |         +0.22 |
 |  383 | Brian Kempenich           |   8.3 |        40 |        -0.24 |         -0.86 |
 |  384 | Reynold Xin               |   8.3 |         5 |              |               |
