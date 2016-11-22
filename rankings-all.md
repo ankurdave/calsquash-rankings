@@ -172,8 +172,8 @@ Generated 2016-11-21.
 |  168 | Wesley Huang              |  20.0 |         8 |              |               |
 |  169 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  170 | Liam King                 |  19.9 |         6 |              |               |
-|  171 | Marc Schechter            |  19.9 |         4 |              |               |
-|  172 | Jonathan Francis          |  19.8 |        71 |              |         +0.66 |
+|  171 | Jonathan Francis          |  19.8 |        71 |              |         +0.66 |
+|  172 | Marc Schechter            |  19.8 |         4 |              |               |
 |  173 | Lysander Jim              |  19.8 |         6 |              |               |
 |  174 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  175 | Suneesh Kaul              |  19.7 |         3 |              |               |
@@ -209,7 +209,7 @@ Generated 2016-11-21.
 |  205 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  206 | John Eng                  |  18.4 |        28 |              |               |
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
-|  208 | Kenny Bell                |  18.4 |       122 |        -0.42 |         +0.30 |
+|  208 | Kenny Bell                |  18.4 |       122 |        -0.41 |         +0.31 |
 |  209 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  210 | Shaun Lim                 |  18.3 |        44 |              |         +0.31 |
 |  211 | Pierre Darancet           |  18.2 |        94 |              |               |
@@ -221,17 +221,17 @@ Generated 2016-11-21.
 |  217 | Nick Paget                |  17.8 |        35 |              |               |
 |  218 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  219 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  220 | Josh Trauner              |  17.8 |        41 |        -0.04 |               |
+|  220 | Josh Trauner              |  17.8 |        41 |        -0.03 |               |
 |  221 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  222 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  223 | Subrato Dey               |  17.5 |        26 |              |         +7.28 |
 |  224 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  225 | Wayne Heiser              |  17.5 |        35 |        +0.16 |               |
-|  226 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  227 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  228 | Craig Riddell             |  17.4 |         8 |              |               |
-|  229 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  230 | Troup Howard              |  17.3 |        40 |              |         -0.32 |
+|  225 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  226 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  227 | Craig Riddell             |  17.4 |         8 |              |               |
+|  228 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  229 | Troup Howard              |  17.3 |        40 |              |         -0.32 |
+|  230 | Wayne Heiser              |  17.3 |        36 |        -0.06 |               |
 |  231 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  232 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  233 | Zach Brown                |  17.3 |         3 |              |               |
@@ -267,10 +267,10 @@ Generated 2016-11-21.
 |  263 | Akash Sharma              |  15.7 |         8 |              |               |
 |  264 | Angie Ng                  |  15.7 |        12 |              |               |
 |  265 | Tanit Follett             |  15.5 |         8 |              |               |
-|  266 | Toni Queck                |  15.5 |        20 |              |               |
-|  267 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  268 | Peter Duerr               |  15.4 |        24 |              |               |
-|  269 | Ankur Dave                |  15.3 |        56 |        +0.26 |         +7.28 |
+|  266 | Ankur Dave                |  15.5 |        57 |        +0.46 |         +7.49 |
+|  267 | Toni Queck                |  15.5 |        20 |              |               |
+|  268 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  269 | Peter Duerr               |  15.4 |        24 |              |               |
 |  270 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  271 | Jim Evans                 |  15.1 |       216 |              |               |
 |  272 | Dennis Chan               |  15.1 |         1 |              |               |
