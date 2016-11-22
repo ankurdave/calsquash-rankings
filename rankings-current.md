@@ -1,4 +1,4 @@
-Generated 2016-11-21.
+Generated 2016-11-22.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -29,13 +29,13 @@ Generated 2016-11-21.
 |   25 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
 |   26 | Natalie Leung     |  18.4 |         1 |              |               |
 |   27 | Kenny Bell        |  18.4 |       122 |        -0.41 |         +0.31 |
-|   28 | Shaun Lim         |  18.3 |        44 |              |         +0.31 |
+|   28 | Shaun Lim         |  18.3 |        45 |              |         +0.31 |
 |   29 | Eric Borden       |  17.9 |        36 |        -0.08 |         +3.58 |
 |   30 | Josh Trauner      |  17.8 |        41 |        -0.03 |               |
 |   31 | Troup Howard      |  17.3 |        40 |              |         -0.32 |
 |   32 | Wayne Heiser      |  17.3 |        36 |        -0.06 |               |
 |   33 | David Bratt       |  16.8 |        18 |              |         +0.39 |
-|   34 | Chris Flores      |  16.6 |       303 |              |         -1.98 |
+|   34 | Chris Flores      |  16.6 |       304 |        +0.04 |         -1.93 |
 |   35 | Terry Chang       |  15.8 |        48 |              |         +2.14 |
 |   36 | Ankur Dave        |  15.5 |        57 |        +0.46 |         +7.49 |
 |   37 | Sahar Sareminaeni |  15.0 |        11 |        +0.82 |               |

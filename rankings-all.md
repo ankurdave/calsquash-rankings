@@ -1,4 +1,4 @@
-Generated 2016-11-21.
+Generated 2016-11-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -211,7 +211,7 @@ Generated 2016-11-21.
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
 |  208 | Kenny Bell                |  18.4 |       122 |        -0.41 |         +0.31 |
 |  209 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  210 | Shaun Lim                 |  18.3 |        44 |              |         +0.31 |
+|  210 | Shaun Lim                 |  18.3 |        45 |              |         +0.31 |
 |  211 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  212 | Bob Roller                |  18.2 |         6 |              |               |
 |  213 | Jamie Paterson            |  18.1 |         4 |              |               |
@@ -248,8 +248,8 @@ Generated 2016-11-21.
 |  244 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  245 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  246 | David Shabelman           |  16.7 |        30 |              |               |
-|  247 | Mark Priven               |  16.6 |        72 |              |               |
-|  248 | Chris Flores              |  16.6 |       303 |              |         -1.98 |
+|  247 | Chris Flores              |  16.6 |       304 |        +0.04 |         -1.93 |
+|  248 | Mark Priven               |  16.6 |        72 |              |               |
 |  249 | William Coleman           |  16.5 |        48 |              |               |
 |  250 | Mike Troxell              |  16.5 |         8 |              |               |
 |  251 | Danish Mir                |  16.4 |         1 |              |               |
