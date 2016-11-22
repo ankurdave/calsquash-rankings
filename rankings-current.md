@@ -47,17 +47,17 @@ Generated 2016-11-21.
 |   43 | Reto Sutter       |  10.1 |        50 |        -0.02 |         -0.41 |
 |   44 | Daniel Schwartz   |   9.8 |        22 |        -0.69 |               |
 |   45 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
-|   46 | Meldan Heaslip    |   9.4 |        10 |        +0.54 |               |
-|   47 | Raphael Magarik   |   8.9 |        17 |        +0.14 |               |
-|   48 | Duo Wang          |   8.5 |        65 |        +0.21 |         +0.22 |
-|   49 | Brian Kempenich   |   8.3 |        40 |        -0.24 |         -0.86 |
-|   50 | James Grant       |   7.8 |         2 |              |               |
+|   46 | James Grant       |   9.8 |         3 |              |               |
+|   47 | Meldan Heaslip    |   9.4 |        10 |        +0.54 |               |
+|   48 | Raphael Magarik   |   8.9 |        17 |        +0.14 |               |
+|   49 | Duo Wang          |   8.5 |        65 |        +0.21 |         +0.22 |
+|   50 | Brian Kempenich   |   8.3 |        40 |        -0.24 |         -0.86 |
 |   51 | Keaton Noon       |   7.2 |        23 |        +0.67 |               |
-|   52 | Alok Singh        |   5.3 |        14 |              |               |
+|   52 | Alok Singh        |   5.2 |        15 |        -0.06 |               |
 |   53 | Zsolt Bartha      |   4.4 |        47 |        +0.02 |         +2.37 |
 |   54 | Sameer Bajaj      |   4.3 |         4 |              |               |
-|   55 | Jose Lara         |   3.7 |         9 |        -1.00 |               |
+|   55 | Jose Lara         |   3.8 |         9 |        -0.99 |               |
 |   56 | Anuj Dawar        |   3.2 |        13 |        +0.72 |               |
-|   57 | Cristhian Daniel  |   2.8 |        17 |        +1.06 |               |
+|   57 | Cristhian Daniel  |   2.8 |        17 |        +1.07 |               |
 |   58 | Craig Hollow      |   2.0 |         4 |        +0.08 |               |
 |   59 | Duncan MacRae     |  -6.2 |         6 |              |               |
