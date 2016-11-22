@@ -9,7 +9,7 @@ Generated 2016-11-21.
 |    5 | Nick Cobbett      |  26.9 |        30 |        +0.27 |         +7.63 |
 |    6 | Jim Veitch        |  24.9 |       432 |        -0.13 |         -1.54 |
 |    7 | John Kunze        |  24.5 |       308 |        -0.13 |         -0.76 |
-|    8 | Dan Bohn          |  23.2 |        81 |              |         -0.54 |
+|    8 | Dan Bohn          |  23.2 |        82 |        +0.03 |         -0.51 |
 |    9 | Matt Wong         |  23.1 |        77 |        -0.04 |         +1.68 |
 |   10 | Dan Meier         |  23.0 |        53 |              |         +1.47 |
 |   11 | Vishal Jain       |  22.3 |         5 |        +2.26 |               |
@@ -25,7 +25,7 @@ Generated 2016-11-21.
 |   21 | Jeff Gordon       |  20.2 |        39 |        +0.21 |         +4.49 |
 |   22 | Marc Schechter    |  19.9 |         4 |              |               |
 |   23 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
-|   24 | Jaime Perez       |  19.3 |        17 |        +0.23 |               |
+|   24 | Jaime Perez       |  19.3 |        18 |        +0.25 |               |
 |   25 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
 |   26 | Natalie Leung     |  18.4 |         1 |              |               |
 |   27 | Kenny Bell        |  18.4 |       122 |        -0.42 |         +0.30 |

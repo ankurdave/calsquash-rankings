@@ -95,7 +95,7 @@ Generated 2016-11-21.
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
 |   92 | Garvin Heath              |  23.4 |        28 |              |               |
 |   93 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.44 |
-|   94 | Dan Bohn                  |  23.2 |        81 |              |         -0.54 |
+|   94 | Dan Bohn                  |  23.2 |        82 |        +0.03 |         -0.51 |
 |   95 | Matt Wong                 |  23.1 |        77 |        -0.04 |         +1.68 |
 |   96 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   97 | Dan Meier                 |  23.0 |        53 |              |         +1.47 |
@@ -182,7 +182,7 @@ Generated 2016-11-21.
 |  178 | Andrew Proudfoot          |  19.6 |        26 |              |         +0.83 |
 |  179 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  180 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  181 | Jaime Perez               |  19.3 |        17 |        +0.23 |               |
+|  181 | Jaime Perez               |  19.3 |        18 |        +0.25 |               |
 |  182 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  183 | Greg Adams                |  19.3 |        10 |              |               |
 |  184 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
