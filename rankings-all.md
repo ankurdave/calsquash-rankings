@@ -1,8 +1,8 @@
-Generated 2016-11-26.
+Generated 2016-11-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  35.2 |        12 |        +0.54 |               |
+|    1 | Colin Grant               |  35.2 |        12 |        +0.55 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |         -0.07 |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -18,8 +18,8 @@ Generated 2016-11-26.
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.5 |       131 |              |         +1.29 |
-|   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
+|   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
+|   18 | Sam Sternberg             |  30.2 |       132 |        -0.33 |         +0.96 |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
 |   21 | David Wood                |  29.7 |        43 |              |               |
@@ -93,10 +93,10 @@ Generated 2016-11-26.
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
-|   92 | Garvin Heath              |  23.4 |        28 |              |               |
-|   93 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.44 |
-|   94 | Dan Bohn                  |  23.2 |        82 |        +0.03 |         -0.51 |
-|   95 | Matt Wong                 |  23.1 |        77 |        -0.04 |         +1.68 |
+|   92 | Matt Wong                 |  23.5 |        78 |        +0.27 |         +1.99 |
+|   93 | Garvin Heath              |  23.4 |        28 |              |               |
+|   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.44 |
+|   95 | Dan Bohn                  |  23.2 |        82 |        +0.03 |         -0.51 |
 |   96 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   97 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   98 | Joe Farrell               |  23.0 |        30 |              |               |
@@ -117,17 +117,17 @@ Generated 2016-11-26.
 |  113 | Aaron Socha               |  22.2 |        24 |              |               |
 |  114 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  115 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  116 | Reid Johnsen              |  22.1 |        39 |        +0.38 |         +7.58 |
+|  116 | Jonathan Hankar           |  22.1 |       188 |        +0.24 |         +0.23 |
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
-|  119 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  120 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  121 | Blake Woodard             |  22.0 |        10 |              |               |
-|  122 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  123 | Andrew Lawrie             |  22.0 |        46 |              |         +0.32 |
-|  124 | Jan Beranek               |  21.9 |        46 |              |               |
-|  125 | Sam McCormick             |  21.9 |        17 |        +1.41 |         +3.63 |
-|  126 | Jonathan Hankar           |  21.9 |       187 |              |               |
+|  119 | Reid Johnsen              |  22.1 |        39 |        +0.37 |         +7.57 |
+|  120 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  121 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  122 | Blake Woodard             |  22.0 |        10 |              |               |
+|  123 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  124 | Andrew Lawrie             |  22.0 |        46 |              |         +0.32 |
+|  125 | Jan Beranek               |  21.9 |        46 |              |               |
+|  126 | Sam McCormick             |  21.9 |        17 |        +1.41 |         +3.63 |
 |  127 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -146,11 +146,11 @@ Generated 2016-11-26.
 |  142 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  143 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  144 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  145 | Mark Modera               |  21.0 |       314 |        -0.34 |         -0.61 |
-|  146 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  147 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  148 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  149 | Jared Bard                |  20.8 |        35 |              |         +1.85 |
+|  145 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  147 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  148 | Jared Bard                |  20.8 |        35 |              |         +1.85 |
+|  149 | Mark Modera               |  20.8 |       315 |        -0.56 |         -0.82 |
 |  150 | Jamie Funk                |  20.8 |        30 |              |               |
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
 |  152 | Jeff Bird                 |  20.7 |        38 |              |               |
@@ -182,7 +182,7 @@ Generated 2016-11-26.
 |  178 | Andrew Proudfoot          |  19.6 |        26 |              |         +0.83 |
 |  179 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  180 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  181 | Jaime Perez               |  19.3 |        18 |        +0.25 |               |
+|  181 | Jaime Perez               |  19.3 |        18 |        +0.23 |               |
 |  182 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  183 | Greg Adams                |  19.3 |        10 |              |               |
 |  184 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
@@ -269,13 +269,13 @@ Generated 2016-11-26.
 |  265 | Tanit Follett             |  15.5 |         8 |              |               |
 |  266 | Ankur Dave                |  15.5 |        57 |        +0.46 |         +7.49 |
 |  267 | Toni Queck                |  15.5 |        20 |              |               |
-|  268 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  269 | Peter Duerr               |  15.4 |        24 |              |               |
-|  270 | Kevin Fox                 |  15.3 |         7 |              |               |
-|  271 | Jim Evans                 |  15.1 |       216 |              |               |
-|  272 | Dennis Chan               |  15.1 |         1 |              |               |
-|  273 | Allie Giovanelli          |  15.0 |         4 |              |               |
-|  274 | Sahar Sareminaeni         |  15.0 |        11 |        +0.82 |               |
+|  268 | Sahar Sareminaeni         |  15.5 |        12 |        +1.31 |               |
+|  269 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  270 | Peter Duerr               |  15.4 |        24 |              |               |
+|  271 | Kevin Fox                 |  15.3 |         7 |              |               |
+|  272 | Jim Evans                 |  15.1 |       216 |              |               |
+|  273 | Dennis Chan               |  15.1 |         1 |              |               |
+|  274 | Allie Giovanelli          |  15.0 |         4 |              |               |
 |  275 | Patrick Baylis            |  15.0 |        12 |              |               |
 |  276 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
 |  277 | Mimi Zhang                |  14.9 |         6 |              |               |
@@ -344,8 +344,8 @@ Generated 2016-11-26.
 |  340 | Rodrigo Calmet            |  10.8 |         5 |              |               |
 |  341 | Josh Lebowitz             |  10.7 |        31 |        +0.40 |               |
 |  342 | George Bentley            |  10.6 |         4 |              |               |
-|  343 | Nate Aden                 |  10.6 |        25 |        +0.57 |               |
-|  344 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  343 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  344 | Nate Aden                 |  10.5 |        26 |        +0.47 |               |
 |  345 | Brian Puglise             |  10.4 |         2 |              |               |
 |  346 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  347 | Prasad Santhanam          |  10.3 |         7 |              |               |
