@@ -28,12 +28,12 @@ Generated 2016-11-29.
 |   24 | Jaime Perez       |  19.3 |        18 |        +0.23 |               |
 |   25 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
 |   26 | Natalie Leung     |  18.4 |         1 |              |               |
-|   27 | Kenny Bell        |  18.4 |       122 |        -0.41 |         +0.31 |
-|   28 | Shaun Lim         |  18.3 |        45 |        -0.01 |         +0.30 |
+|   27 | Shaun Lim         |  18.3 |        45 |        -0.01 |         +0.30 |
+|   28 | Kenny Bell        |  18.2 |       123 |        -0.60 |         +0.12 |
 |   29 | Eric Borden       |  17.9 |        36 |        -0.08 |         +3.58 |
-|   30 | Josh Trauner      |  17.8 |        41 |        -0.03 |               |
-|   31 | Troup Howard      |  17.6 |        41 |        +0.27 |         -0.05 |
-|   32 | Wayne Heiser      |  17.3 |        36 |        -0.06 |               |
+|   30 | Wayne Heiser      |  17.7 |        38 |        +0.33 |               |
+|   31 | Josh Trauner      |  17.7 |        42 |        -0.11 |               |
+|   32 | Troup Howard      |  17.6 |        41 |        +0.27 |         -0.05 |
 |   33 | David Bratt       |  16.7 |        19 |        -0.15 |         +0.24 |
 |   34 | Chris Flores      |  16.5 |       306 |        -0.03 |         -2.01 |
 |   35 | Terry Chang       |  15.8 |        48 |              |         +2.14 |

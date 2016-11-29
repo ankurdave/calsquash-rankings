@@ -209,10 +209,10 @@ Generated 2016-11-29.
 |  205 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  206 | John Eng                  |  18.4 |        28 |              |               |
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
-|  208 | Kenny Bell                |  18.4 |       122 |        -0.41 |         +0.31 |
-|  209 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  210 | Shaun Lim                 |  18.3 |        45 |        -0.01 |         +0.30 |
-|  211 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  208 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  209 | Shaun Lim                 |  18.3 |        45 |        -0.01 |         +0.30 |
+|  210 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  211 | Kenny Bell                |  18.2 |       123 |        -0.60 |         +0.12 |
 |  212 | Bob Roller                |  18.2 |         6 |              |               |
 |  213 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  214 | Eric Borden               |  17.9 |        36 |        -0.08 |         +3.58 |
@@ -221,17 +221,17 @@ Generated 2016-11-29.
 |  217 | Nick Paget                |  17.8 |        35 |              |               |
 |  218 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  219 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  220 | Josh Trauner              |  17.8 |        41 |        -0.03 |               |
-|  221 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  222 | Troup Howard              |  17.6 |        41 |        +0.27 |         -0.05 |
-|  223 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  224 | Subrato Dey               |  17.5 |        26 |              |         +7.28 |
-|  225 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  226 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  227 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  228 | Craig Riddell             |  17.4 |         8 |              |               |
-|  229 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  230 | Wayne Heiser              |  17.3 |        36 |        -0.06 |               |
+|  220 | Wayne Heiser              |  17.7 |        38 |        +0.33 |               |
+|  221 | Josh Trauner              |  17.7 |        42 |        -0.11 |               |
+|  222 | George Roche              |  17.7 |        14 |              |         +0.37 |
+|  223 | Troup Howard              |  17.6 |        41 |        +0.27 |         -0.05 |
+|  224 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  225 | Subrato Dey               |  17.5 |        26 |              |         +7.28 |
+|  226 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  227 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  228 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  229 | Craig Riddell             |  17.4 |         8 |              |               |
+|  230 | Charity Caruthers         |  17.3 |         4 |              |               |
 |  231 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  232 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  233 | Zach Brown                |  17.3 |         3 |              |               |
