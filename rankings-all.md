@@ -211,7 +211,7 @@ Generated 2016-11-28.
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
 |  208 | Kenny Bell                |  18.4 |       122 |        -0.41 |         +0.31 |
 |  209 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  210 | Shaun Lim                 |  18.3 |        45 |        -0.02 |         +0.29 |
+|  210 | Shaun Lim                 |  18.3 |        45 |        -0.01 |         +0.30 |
 |  211 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  212 | Bob Roller                |  18.2 |         6 |              |               |
 |  213 | Jamie Paterson            |  18.1 |         4 |              |               |
@@ -223,7 +223,7 @@ Generated 2016-11-28.
 |  219 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  220 | Josh Trauner              |  17.8 |        41 |        -0.03 |               |
 |  221 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  222 | Troup Howard              |  17.6 |        41 |        +0.26 |         -0.06 |
+|  222 | Troup Howard              |  17.6 |        41 |        +0.27 |         -0.05 |
 |  223 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  224 | Subrato Dey               |  17.5 |        26 |              |         +7.28 |
 |  225 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -244,14 +244,14 @@ Generated 2016-11-28.
 |  240 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  241 | Baxter Leman              |  16.9 |         6 |              |               |
 |  242 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  243 | David Bratt               |  16.8 |        18 |              |         +0.39 |
-|  244 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  245 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  246 | David Shabelman           |  16.7 |        30 |              |               |
+|  243 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  244 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  245 | David Shabelman           |  16.7 |        30 |              |               |
+|  246 | David Bratt               |  16.7 |        19 |        -0.15 |         +0.24 |
 |  247 | Mark Priven               |  16.6 |        72 |              |               |
 |  248 | William Coleman           |  16.5 |        48 |              |               |
-|  249 | Mike Troxell              |  16.5 |         8 |              |               |
-|  250 | Chris Flores              |  16.4 |       305 |        -0.18 |         -2.15 |
+|  249 | Chris Flores              |  16.5 |       306 |        -0.03 |         -2.01 |
+|  250 | Mike Troxell              |  16.5 |         8 |              |               |
 |  251 | Danish Mir                |  16.4 |         1 |              |               |
 |  252 | Paul Chang                |  16.3 |         7 |              |               |
 |  253 | Steven Hahm               |  16.3 |         5 |              |               |
