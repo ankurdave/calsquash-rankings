@@ -14,13 +14,13 @@ Generated 2016-11-29.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.42 |
-|   13 | Eric Katerman             |  31.5 |        30 |        +0.02 |               |
+|   13 | Eric Katerman             |  31.8 |        31 |        +0.32 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
-|   18 | Sam Sternberg             |  30.2 |       132 |        -0.33 |         +0.96 |
-|   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
+|   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
+|   19 | Sam Sternberg             |  30.0 |       133 |        -0.52 |         +0.77 |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
 |   21 | David Wood                |  29.7 |        43 |              |               |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
@@ -37,8 +37,8 @@ Generated 2016-11-29.
 |   33 | Hussain Raza              |  27.0 |        50 |              |               |
 |   34 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   35 | Alan Jose                 |  26.9 |       182 |              |               |
-|   36 | Frank Kennamer            |  26.9 |       213 |              |         -0.63 |
-|   37 | Nick Cobbett              |  26.9 |        30 |        +0.27 |         +7.63 |
+|   36 | Nick Cobbett              |  26.9 |        30 |        +0.29 |         +7.65 |
+|   37 | Frank Kennamer            |  26.9 |       213 |              |         -0.63 |
 |   38 | Michael Best              |  26.9 |        21 |              |               |
 |   39 | Josh Taylor               |  26.8 |        40 |              |               |
 |   40 | David Hwang               |  26.8 |        44 |              |               |
@@ -93,7 +93,7 @@ Generated 2016-11-29.
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Amy Lee                   |  23.6 |        56 |              |               |
-|   92 | Matt Wong                 |  23.5 |        78 |        +0.27 |         +1.99 |
+|   92 | Matt Wong                 |  23.4 |        78 |        +0.26 |         +1.98 |
 |   93 | Garvin Heath              |  23.4 |        28 |              |               |
 |   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.44 |
 |   95 | Dan Bohn                  |  23.2 |        82 |        +0.03 |         -0.51 |
