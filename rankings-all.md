@@ -1,4 +1,4 @@
-Generated 2016-11-29.
+Generated 2016-11-30.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -115,14 +115,14 @@ Generated 2016-11-29.
 |  111 | Vishal Jain               |  22.2 |         5 |        +2.20 |               |
 |  112 | Robert Geiger             |  22.2 |         8 |              |               |
 |  113 | Aaron Socha               |  22.2 |        24 |              |               |
-|  114 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  115 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  116 | Jonathan Hankar           |  22.1 |       188 |        +0.24 |         +0.23 |
+|  114 | Jonathan Hankar           |  22.2 |       189 |        +0.31 |         +0.31 |
+|  115 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  116 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
-|  119 | Reid Johnsen              |  22.1 |        39 |        +0.37 |         +7.57 |
-|  120 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  121 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  119 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  120 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  121 | Reid Johnsen              |  22.0 |        40 |        +0.31 |         +7.51 |
 |  122 | Blake Woodard             |  22.0 |        10 |              |               |
 |  123 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  124 | Andrew Lawrie             |  22.0 |        46 |              |         +0.32 |
@@ -150,7 +150,7 @@ Generated 2016-11-29.
 |  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  147 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  148 | Jared Bard                |  20.8 |        35 |              |         +1.85 |
-|  149 | Mark Modera               |  20.8 |       315 |        -0.56 |         -0.82 |
+|  149 | Mark Modera               |  20.8 |       315 |        -0.56 |         -0.83 |
 |  150 | Jamie Funk                |  20.8 |        30 |              |               |
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
 |  152 | Jeff Bird                 |  20.7 |        38 |              |               |
