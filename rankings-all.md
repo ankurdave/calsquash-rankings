@@ -211,8 +211,8 @@ Generated 2016-11-29.
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
 |  208 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  209 | Shaun Lim                 |  18.3 |        45 |        -0.01 |         +0.30 |
-|  210 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  211 | Kenny Bell                |  18.2 |       123 |        -0.60 |         +0.12 |
+|  210 | Kenny Bell                |  18.2 |       124 |        -0.56 |         +0.16 |
+|  211 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  212 | Bob Roller                |  18.2 |         6 |              |               |
 |  213 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  214 | Eric Borden               |  17.9 |        36 |        -0.08 |         +3.58 |
@@ -221,10 +221,10 @@ Generated 2016-11-29.
 |  217 | Nick Paget                |  17.8 |        35 |              |               |
 |  218 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  219 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  220 | Wayne Heiser              |  17.7 |        38 |        +0.33 |               |
-|  221 | Josh Trauner              |  17.7 |        42 |        -0.11 |               |
+|  220 | Troup Howard              |  17.7 |        42 |        +0.38 |         +0.06 |
+|  221 | Wayne Heiser              |  17.7 |        38 |        +0.34 |               |
 |  222 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  223 | Troup Howard              |  17.6 |        41 |        +0.27 |         -0.05 |
+|  223 | Josh Trauner              |  17.7 |        43 |        -0.13 |               |
 |  224 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  225 | Subrato Dey               |  17.5 |        26 |              |         +7.28 |
 |  226 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -247,10 +247,10 @@ Generated 2016-11-29.
 |  243 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  244 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  245 | David Shabelman           |  16.7 |        30 |              |               |
-|  246 | David Bratt               |  16.7 |        19 |        -0.15 |         +0.24 |
+|  246 | David Bratt               |  16.6 |        20 |        -0.20 |         +0.19 |
 |  247 | Mark Priven               |  16.6 |        72 |              |               |
-|  248 | William Coleman           |  16.5 |        48 |              |               |
-|  249 | Chris Flores              |  16.5 |       306 |        -0.03 |         -2.01 |
+|  248 | Chris Flores              |  16.5 |       306 |        -0.02 |         -2.00 |
+|  249 | William Coleman           |  16.5 |        48 |              |               |
 |  250 | Mike Troxell              |  16.5 |         8 |              |               |
 |  251 | Danish Mir                |  16.4 |         1 |              |               |
 |  252 | Paul Chang                |  16.3 |         7 |              |               |
