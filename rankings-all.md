@@ -69,11 +69,11 @@ Generated 2016-11-29.
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
 |   66 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   68 | John Kunze                |  24.5 |       308 |        -0.13 |         -0.76 |
-|   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   70 | Adam Pollak               |  24.5 |        31 |              |               |
-|   71 | Jon Shih                  |  24.4 |        47 |              |               |
-|   72 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   68 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   69 | Adam Pollak               |  24.5 |        31 |              |               |
+|   70 | Jon Shih                  |  24.4 |        47 |              |               |
+|   71 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   72 | John Kunze                |  24.4 |       309 |        -0.26 |         -0.88 |
 |   73 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   74 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   75 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -92,8 +92,8 @@ Generated 2016-11-29.
 |   88 | Matt Waid                 |  23.7 |        51 |              |               |
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   91 | Amy Lee                   |  23.6 |        56 |              |               |
-|   92 | Matt Wong                 |  23.4 |        78 |        +0.26 |         +1.98 |
+|   91 | Matt Wong                 |  23.6 |        79 |        +0.40 |         +2.13 |
+|   92 | Amy Lee                   |  23.6 |        56 |              |               |
 |   93 | Garvin Heath              |  23.4 |        28 |              |               |
 |   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.44 |
 |   95 | Dan Bohn                  |  23.2 |        82 |        +0.03 |         -0.51 |
