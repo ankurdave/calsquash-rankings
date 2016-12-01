@@ -345,7 +345,7 @@ Generated 2016-11-30.
 |  341 | Josh Lebowitz             |  10.7 |        31 |        +0.40 |               |
 |  342 | George Bentley            |  10.6 |         4 |              |               |
 |  343 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  344 | Nate Aden                 |  10.5 |        26 |        +0.47 |               |
+|  344 | Nate Aden                 |  10.4 |        26 |        +0.45 |               |
 |  345 | Brian Puglise             |  10.4 |         2 |              |               |
 |  346 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  347 | Prasad Santhanam          |  10.3 |         7 |              |               |
@@ -355,7 +355,7 @@ Generated 2016-11-30.
 |  351 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  352 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  353 | Sung-Jin Oh               |  10.1 |         6 |              |         +1.01 |
-|  354 | Reto Sutter               |  10.1 |        50 |        -0.02 |         -0.41 |
+|  354 | Reto Sutter               |  10.0 |        50 |        -0.06 |         -0.45 |
 |  355 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  356 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  357 | Daniel Schwartz           |   9.8 |        22 |        -0.69 |               |
@@ -376,7 +376,7 @@ Generated 2016-11-30.
 |  372 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  373 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  374 | Laura Dobbs               |   9.0 |        26 |              |         -0.27 |
-|  375 | Raphael Magarik           |   8.9 |        17 |        +0.14 |               |
+|  375 | Raphael Magarik           |   8.8 |        17 |        +0.08 |               |
 |  376 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  377 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  378 | Therese Jones             |   8.7 |         6 |              |               |
@@ -384,8 +384,8 @@ Generated 2016-11-30.
 |  380 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  381 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  382 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  383 | Duo Wang                  |   8.5 |        65 |        +0.21 |         +0.22 |
-|  384 | Brian Kempenich           |   8.3 |        40 |        -0.24 |         -0.86 |
+|  383 | Brian Kempenich           |   8.5 |        41 |        -0.03 |         -0.65 |
+|  384 | Duo Wang                  |   8.5 |        65 |        +0.21 |         +0.22 |
 |  385 | Reynold Xin               |   8.3 |         5 |              |               |
 |  386 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  387 | Fahad Riyadh              |   8.2 |         5 |              |               |
@@ -435,11 +435,11 @@ Generated 2016-11-30.
 |  431 | Ryan                      |   4.0 |         3 |              |               |
 |  432 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  433 | Jose Lara                 |   3.8 |         9 |        -0.99 |               |
-|  434 | Anuj Dawar                |   3.2 |        13 |        +0.72 |               |
-|  435 | Nakul Vakil               |   3.0 |         5 |              |               |
-|  436 | Maria Garzon              |   3.0 |         5 |              |               |
-|  437 | Nadir Shams               |   3.0 |         2 |              |               |
-|  438 | Ji Seop Oh                |   2.9 |         2 |              |               |
+|  434 | Nakul Vakil               |   3.0 |         5 |              |               |
+|  435 | Maria Garzon              |   3.0 |         5 |              |               |
+|  436 | Nadir Shams               |   3.0 |         2 |              |               |
+|  437 | Ji Seop Oh                |   2.9 |         2 |              |               |
+|  438 | Anuj Dawar                |   2.8 |        14 |        +0.32 |               |
 |  439 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  440 | David Vogel               |   2.6 |         7 |              |               |
 |  441 | Cristhian Daniel          |   2.5 |        18 |        +0.73 |               |

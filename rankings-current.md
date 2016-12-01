@@ -43,21 +43,21 @@ Generated 2016-11-30.
 |   39 | Diego Butrich     |  14.6 |         7 |              |               |
 |   40 | Nikhil Paranjape  |  13.3 |        27 |              |               |
 |   41 | Josh Lebowitz     |  10.7 |        31 |        +0.40 |               |
-|   42 | Nate Aden         |  10.5 |        26 |        +0.47 |               |
+|   42 | Nate Aden         |  10.4 |        26 |        +0.45 |               |
 |   43 | James Grant       |  10.2 |         3 |              |               |
-|   44 | Reto Sutter       |  10.1 |        50 |        -0.02 |         -0.41 |
+|   44 | Reto Sutter       |  10.0 |        50 |        -0.06 |         -0.45 |
 |   45 | Daniel Schwartz   |   9.8 |        22 |        -0.69 |               |
 |   46 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
 |   47 | Meldan Heaslip    |   9.4 |        10 |        +0.54 |               |
-|   48 | Raphael Magarik   |   8.9 |        17 |        +0.14 |               |
-|   49 | Duo Wang          |   8.5 |        65 |        +0.21 |         +0.22 |
-|   50 | Brian Kempenich   |   8.3 |        40 |        -0.24 |         -0.86 |
+|   48 | Raphael Magarik   |   8.8 |        17 |        +0.08 |               |
+|   49 | Brian Kempenich   |   8.5 |        41 |        -0.03 |         -0.65 |
+|   50 | Duo Wang          |   8.5 |        65 |        +0.21 |         +0.22 |
 |   51 | Keaton Noon       |   7.2 |        23 |        +0.67 |               |
 |   52 | Alok Singh        |   5.9 |        17 |        +0.61 |               |
 |   53 | Zsolt Bartha      |   4.4 |        47 |        +0.02 |         +2.37 |
 |   54 | Sameer Bajaj      |   4.3 |         4 |              |               |
 |   55 | Jose Lara         |   3.8 |         9 |        -0.99 |               |
-|   56 | Anuj Dawar        |   3.2 |        13 |        +0.72 |               |
+|   56 | Anuj Dawar        |   2.8 |        14 |        +0.32 |               |
 |   57 | Cristhian Daniel  |   2.5 |        18 |        +0.73 |               |
 |   58 | Craig Hollow      |   2.0 |         4 |        +0.08 |               |
 |   59 | Duncan MacRae     |  -6.3 |         7 |        -0.07 |               |
