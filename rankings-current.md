@@ -18,11 +18,11 @@ Generated 2016-11-30.
 |   14 | Reid Johnsen      |  22.0 |        40 |        +0.32 |         +7.52 |
 |   15 | Sam McCormick     |  21.9 |        17 |        +1.41 |         +3.63 |
 |   16 | Robert Isaac      |  21.1 |        16 |        -0.72 |               |
-|   17 | Jared Bard        |  20.8 |        35 |              |         +1.85 |
-|   18 | Mark Modera       |  20.8 |       315 |        -0.56 |         -0.82 |
-|   19 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
-|   20 | Robert Schwartz   |  20.4 |        82 |        +0.09 |         -1.45 |
-|   21 | Jeff Gordon       |  20.2 |        39 |        +0.21 |         +4.49 |
+|   17 | Mark Modera       |  20.8 |       315 |        -0.56 |         -0.82 |
+|   18 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
+|   19 | Jeff Gordon       |  20.5 |        40 |        +0.53 |         +4.81 |
+|   20 | Jared Bard        |  20.5 |        36 |        -0.33 |         +1.52 |
+|   21 | Robert Schwartz   |  20.4 |        82 |        +0.09 |         -1.45 |
 |   22 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
 |   23 | Marc Schechter    |  19.8 |         4 |              |               |
 |   24 | Jaime Perez       |  19.3 |        18 |        +0.22 |               |
@@ -30,7 +30,7 @@ Generated 2016-11-30.
 |   26 | Natalie Leung     |  18.4 |         1 |              |               |
 |   27 | Shaun Lim         |  18.3 |        45 |        -0.01 |         +0.30 |
 |   28 | Kenny Bell        |  18.2 |       124 |        -0.56 |         +0.16 |
-|   29 | Eric Borden       |  17.9 |        36 |        -0.08 |         +3.58 |
+|   29 | Eric Borden       |  17.9 |        36 |        -0.07 |         +3.58 |
 |   30 | Troup Howard      |  17.7 |        42 |        +0.38 |         +0.06 |
 |   31 | Wayne Heiser      |  17.7 |        38 |        +0.34 |               |
 |   32 | Josh Trauner      |  17.7 |        43 |        -0.13 |               |

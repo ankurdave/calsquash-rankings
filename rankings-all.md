@@ -149,22 +149,22 @@ Generated 2016-11-30.
 |  145 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  147 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  148 | Jared Bard                |  20.8 |        35 |              |         +1.85 |
-|  149 | Mark Modera               |  20.8 |       315 |        -0.56 |         -0.82 |
-|  150 | Jamie Funk                |  20.8 |        30 |              |               |
-|  151 | Matthew Brett             |  20.7 |        20 |              |               |
-|  152 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  153 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  154 | Mike Jensen-Akula         |  20.6 |       219 |              |         -1.04 |
-|  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  156 | Prakash Bathini           |  20.5 |       123 |        -0.17 |         -0.47 |
-|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  158 | Andrew Green              |  20.5 |        52 |              |               |
-|  159 | Steven Sloman             |  20.4 |        10 |              |               |
-|  160 | Robert Schwartz           |  20.4 |        82 |        +0.09 |         -1.45 |
-|  161 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  162 | Carl Schreck              |  20.2 |         2 |              |               |
-|  163 | Jeff Gordon               |  20.2 |        39 |        +0.21 |         +4.49 |
+|  148 | Mark Modera               |  20.8 |       315 |        -0.56 |         -0.82 |
+|  149 | Jamie Funk                |  20.8 |        30 |              |               |
+|  150 | Matthew Brett             |  20.7 |        20 |              |               |
+|  151 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  152 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  153 | Mike Jensen-Akula         |  20.6 |       219 |              |         -1.04 |
+|  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  155 | Prakash Bathini           |  20.5 |       123 |        -0.17 |         -0.47 |
+|  156 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  157 | Andrew Green              |  20.5 |        52 |              |               |
+|  158 | Jeff Gordon               |  20.5 |        40 |        +0.53 |         +4.81 |
+|  159 | Jared Bard                |  20.5 |        36 |        -0.33 |         +1.52 |
+|  160 | Steven Sloman             |  20.4 |        10 |              |               |
+|  161 | Robert Schwartz           |  20.4 |        82 |        +0.09 |         -1.45 |
+|  162 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  163 | Carl Schreck              |  20.2 |         2 |              |               |
 |  164 | John Grim                 |  20.1 |        13 |              |               |
 |  165 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  166 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -215,7 +215,7 @@ Generated 2016-11-30.
 |  211 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  212 | Bob Roller                |  18.2 |         6 |              |               |
 |  213 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  214 | Eric Borden               |  17.9 |        36 |        -0.08 |         +3.58 |
+|  214 | Eric Borden               |  17.9 |        36 |        -0.07 |         +3.58 |
 |  215 | James Chung               |  17.9 |         7 |              |               |
 |  216 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
 |  217 | Nick Paget                |  17.8 |        35 |              |               |
