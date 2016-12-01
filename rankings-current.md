@@ -10,22 +10,22 @@ Generated 2016-11-30.
 |    6 | Jim Veitch        |  24.9 |       433 |        -0.12 |         -1.53 |
 |    7 | John Kunze        |  24.4 |       309 |        -0.26 |         -0.88 |
 |    8 | Matt Wong         |  23.6 |        79 |        +0.40 |         +2.13 |
-|    9 | Dan Bohn          |  23.2 |        82 |        +0.03 |         -0.51 |
+|    9 | Dan Bohn          |  23.1 |        83 |        -0.11 |         -0.65 |
 |   10 | Dan Meier         |  22.9 |        54 |        -0.09 |         +1.38 |
-|   11 | Anibhav Singla    |  22.3 |         6 |        +1.74 |               |
-|   12 | Vishal Jain       |  22.2 |         5 |        +2.20 |               |
-|   13 | Jonathan Hankar   |  22.2 |       189 |        +0.31 |         +0.31 |
-|   14 | Reid Johnsen      |  22.0 |        40 |        +0.31 |         +7.51 |
+|   11 | Jonathan Hankar   |  22.3 |       190 |        +0.45 |         +0.44 |
+|   12 | Anibhav Singla    |  22.3 |         6 |        +1.74 |               |
+|   13 | Vishal Jain       |  22.2 |         5 |        +2.20 |               |
+|   14 | Reid Johnsen      |  22.0 |        40 |        +0.32 |         +7.52 |
 |   15 | Sam McCormick     |  21.9 |        17 |        +1.41 |         +3.63 |
 |   16 | Robert Isaac      |  21.1 |        16 |        -0.72 |               |
 |   17 | Jared Bard        |  20.8 |        35 |              |         +1.85 |
-|   18 | Mark Modera       |  20.8 |       315 |        -0.56 |         -0.83 |
+|   18 | Mark Modera       |  20.8 |       315 |        -0.56 |         -0.82 |
 |   19 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
 |   20 | Robert Schwartz   |  20.4 |        82 |        +0.09 |         -1.45 |
 |   21 | Jeff Gordon       |  20.2 |        39 |        +0.21 |         +4.49 |
 |   22 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
 |   23 | Marc Schechter    |  19.8 |         4 |              |               |
-|   24 | Jaime Perez       |  19.3 |        18 |        +0.23 |               |
+|   24 | Jaime Perez       |  19.3 |        18 |        +0.22 |               |
 |   25 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
 |   26 | Natalie Leung     |  18.4 |         1 |              |               |
 |   27 | Shaun Lim         |  18.3 |        45 |        -0.01 |         +0.30 |

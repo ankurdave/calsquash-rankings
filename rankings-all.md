@@ -96,8 +96,8 @@ Generated 2016-11-30.
 |   92 | Amy Lee                   |  23.6 |        56 |              |               |
 |   93 | Garvin Heath              |  23.4 |        28 |              |               |
 |   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.44 |
-|   95 | Dan Bohn                  |  23.2 |        82 |        +0.03 |         -0.51 |
-|   96 | Daniel Greengard          |  23.1 |        37 |              |               |
+|   95 | Daniel Greengard          |  23.1 |        37 |              |               |
+|   96 | Dan Bohn                  |  23.1 |        83 |        -0.11 |         -0.65 |
 |   97 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   98 | Joe Farrell               |  23.0 |        30 |              |               |
 |   99 | Matt Wild                 |  23.0 |        25 |              |               |
@@ -111,18 +111,18 @@ Generated 2016-11-30.
 |  107 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  108 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  109 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  110 | Anibhav Singla            |  22.3 |         6 |        +1.74 |               |
-|  111 | Vishal Jain               |  22.2 |         5 |        +2.20 |               |
-|  112 | Robert Geiger             |  22.2 |         8 |              |               |
-|  113 | Aaron Socha               |  22.2 |        24 |              |               |
-|  114 | Jonathan Hankar           |  22.2 |       189 |        +0.31 |         +0.31 |
+|  110 | Jonathan Hankar           |  22.3 |       190 |        +0.45 |         +0.44 |
+|  111 | Anibhav Singla            |  22.3 |         6 |        +1.74 |               |
+|  112 | Vishal Jain               |  22.2 |         5 |        +2.20 |               |
+|  113 | Robert Geiger             |  22.2 |         8 |              |               |
+|  114 | Aaron Socha               |  22.2 |        24 |              |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  116 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
 |  119 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  120 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  121 | Reid Johnsen              |  22.0 |        40 |        +0.31 |         +7.51 |
+|  121 | Reid Johnsen              |  22.0 |        40 |        +0.32 |         +7.52 |
 |  122 | Blake Woodard             |  22.0 |        10 |              |               |
 |  123 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  124 | Andrew Lawrie             |  22.0 |        46 |              |         +0.32 |
@@ -150,7 +150,7 @@ Generated 2016-11-30.
 |  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  147 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  148 | Jared Bard                |  20.8 |        35 |              |         +1.85 |
-|  149 | Mark Modera               |  20.8 |       315 |        -0.56 |         -0.83 |
+|  149 | Mark Modera               |  20.8 |       315 |        -0.56 |         -0.82 |
 |  150 | Jamie Funk                |  20.8 |        30 |              |               |
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
 |  152 | Jeff Bird                 |  20.7 |        38 |              |               |
@@ -182,7 +182,7 @@ Generated 2016-11-30.
 |  178 | Andrew Proudfoot          |  19.6 |        26 |              |         +0.83 |
 |  179 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  180 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  181 | Jaime Perez               |  19.3 |        18 |        +0.23 |               |
+|  181 | Jaime Perez               |  19.3 |        18 |        +0.22 |               |
 |  182 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  183 | Greg Adams                |  19.3 |        10 |              |               |
 |  184 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
