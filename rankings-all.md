@@ -2,7 +2,7 @@ Generated 2016-11-30.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  35.2 |        12 |        +0.55 |               |
+|    1 | Colin Grant               |  35.1 |        12 |        +0.53 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |         -0.07 |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -14,13 +14,13 @@ Generated 2016-11-30.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.42 |
-|   13 | Eric Katerman             |  31.8 |        31 |        +0.32 |               |
+|   13 | Eric Katerman             |  31.8 |        31 |        +0.34 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
-|   19 | Sam Sternberg             |  30.0 |       133 |        -0.52 |         +0.77 |
+|   19 | Sam Sternberg             |  30.1 |       134 |        -0.44 |         +0.85 |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
 |   21 | David Wood                |  29.7 |        43 |              |               |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
@@ -37,9 +37,9 @@ Generated 2016-11-30.
 |   33 | Hussain Raza              |  27.0 |        50 |              |               |
 |   34 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   35 | Alan Jose                 |  26.9 |       182 |              |               |
-|   36 | Nick Cobbett              |  26.9 |        30 |        +0.29 |         +7.65 |
-|   37 | Frank Kennamer            |  26.9 |       213 |              |         -0.63 |
-|   38 | Michael Best              |  26.9 |        21 |              |               |
+|   36 | Frank Kennamer            |  26.9 |       213 |              |         -0.63 |
+|   37 | Michael Best              |  26.9 |        21 |              |               |
+|   38 | Nick Cobbett              |  26.9 |        30 |        +0.26 |         +7.62 |
 |   39 | Josh Taylor               |  26.8 |        40 |              |               |
 |   40 | David Hwang               |  26.8 |        44 |              |               |
 |   41 | Gary Golding              |  26.5 |         6 |              |               |
@@ -73,9 +73,9 @@ Generated 2016-11-30.
 |   69 | Adam Pollak               |  24.5 |        31 |              |               |
 |   70 | Jon Shih                  |  24.4 |        47 |              |               |
 |   71 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   72 | John Kunze                |  24.4 |       309 |        -0.26 |         -0.88 |
-|   73 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   74 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   72 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   73 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   74 | John Kunze                |  24.3 |       310 |        -0.38 |         -1.00 |
 |   75 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   76 | Toby Reiner               |  24.2 |       159 |              |               |
 |   77 | Himanshu Jatia            |  24.2 |         4 |              |               |
@@ -92,7 +92,7 @@ Generated 2016-11-30.
 |   88 | Matt Waid                 |  23.7 |        51 |              |               |
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   91 | Matt Wong                 |  23.6 |        79 |        +0.40 |         +2.13 |
+|   91 | Matt Wong                 |  23.6 |        79 |        +0.42 |         +2.14 |
 |   92 | Amy Lee                   |  23.6 |        56 |              |               |
 |   93 | Garvin Heath              |  23.4 |        28 |              |               |
 |   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +1.44 |
