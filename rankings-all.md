@@ -34,10 +34,10 @@ Generated 2016-12-01.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Hussain Raza              |  27.0 |        50 |              |               |
-|   34 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   35 | Alan Jose                 |  26.9 |       182 |              |               |
-|   36 | Frank Kennamer            |  26.9 |       213 |              |         -0.63 |
+|   33 | Frank Kennamer            |  27.1 |       214 |        +0.20 |         -0.42 |
+|   34 | Hussain Raza              |  27.0 |        50 |              |               |
+|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   36 | Alan Jose                 |  26.9 |       182 |              |               |
 |   37 | Michael Best              |  26.9 |        21 |              |               |
 |   38 | Nick Cobbett              |  26.9 |        30 |        +0.26 |         +7.62 |
 |   39 | Josh Taylor               |  26.8 |        40 |              |               |
@@ -58,11 +58,11 @@ Generated 2016-12-01.
 |   54 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   55 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   56 | Paul Greene               |  25.2 |         8 |              |               |
-|   57 | Jim Veitch                |  25.0 |       434 |        +0.04 |         -1.36 |
-|   58 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   59 | Ben Seelig                |  25.0 |        69 |              |               |
-|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   61 | Madhav Pai                |  24.9 |         5 |              |               |
+|   57 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   58 | Ben Seelig                |  25.0 |        69 |              |               |
+|   59 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   60 | Madhav Pai                |  24.9 |         5 |              |               |
+|   61 | Jim Veitch                |  24.9 |       435 |        -0.13 |         -1.54 |
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
@@ -113,9 +113,9 @@ Generated 2016-12-01.
 |  109 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  110 | Jonathan Hankar           |  22.3 |       190 |        +0.45 |         +0.44 |
 |  111 | Anibhav Singla            |  22.3 |         6 |        +1.74 |               |
-|  112 | Vishal Jain               |  22.2 |         5 |        +2.20 |               |
-|  113 | Robert Geiger             |  22.2 |         8 |              |               |
-|  114 | Aaron Socha               |  22.2 |        24 |              |               |
+|  112 | Robert Geiger             |  22.2 |         8 |              |               |
+|  113 | Aaron Socha               |  22.2 |        24 |              |               |
+|  114 | Vishal Jain               |  22.2 |         5 |        +2.15 |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  116 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
@@ -148,7 +148,7 @@ Generated 2016-12-01.
 |  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  146 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  147 | Robert Isaac              |  20.9 |        17 |        -0.97 |               |
+|  147 | Robert Isaac              |  20.9 |        17 |        -0.98 |               |
 |  148 | Mark Modera               |  20.8 |       315 |        -0.56 |         -0.82 |
 |  149 | Jamie Funk                |  20.8 |        30 |              |               |
 |  150 | Matthew Brett             |  20.7 |        20 |              |               |
