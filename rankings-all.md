@@ -32,9 +32,9 @@ Generated 2016-12-01.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Stephen Dang              |  27.2 |        34 |              |               |
-|   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.1 |       214 |        +0.20 |         -0.42 |
+|   31 | Frank Kennamer            |  27.2 |       215 |        +0.34 |         -0.28 |
+|   32 | Stephen Dang              |  27.2 |        34 |              |               |
+|   33 | Samer Shehata             |  27.2 |        29 |              |               |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -102,7 +102,7 @@ Generated 2016-12-01.
 |   98 | Joe Farrell               |  23.0 |        30 |              |               |
 |   99 | Matt Wild                 |  23.0 |        25 |              |               |
 |  100 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  101 | Dan Meier                 |  22.9 |        54 |        -0.09 |         +1.38 |
+|  101 | Dan Meier                 |  22.8 |        55 |        -0.24 |         +1.23 |
 |  102 | Andrew Pritchard          |  22.7 |        16 |              |         +2.42 |
 |  103 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  104 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -117,17 +117,17 @@ Generated 2016-12-01.
 |  113 | Aaron Socha               |  22.2 |        24 |              |               |
 |  114 | Vishal Jain               |  22.2 |         5 |        +2.15 |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  116 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  117 | Britta Gardner            |  22.1 |        16 |              |               |
-|  118 | Niklas Linde              |  22.1 |        23 |              |               |
-|  119 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  120 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  121 | Reid Johnsen              |  22.0 |        40 |        +0.32 |         +7.52 |
-|  122 | Blake Woodard             |  22.0 |        10 |              |               |
-|  123 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  124 | Andrew Lawrie             |  22.0 |        46 |              |         +0.32 |
-|  125 | Jan Beranek               |  21.9 |        46 |              |               |
-|  126 | Sam McCormick             |  21.9 |        17 |        +1.41 |         +3.63 |
+|  116 | Sam McCormick             |  22.1 |        19 |        +1.64 |         +3.86 |
+|  117 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  118 | Britta Gardner            |  22.1 |        16 |              |               |
+|  119 | Niklas Linde              |  22.1 |        23 |              |               |
+|  120 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  121 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  122 | Reid Johnsen              |  22.0 |        40 |        +0.32 |         +7.52 |
+|  123 | Blake Woodard             |  22.0 |        10 |              |               |
+|  124 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  125 | Andrew Lawrie             |  22.0 |        46 |              |         +0.32 |
+|  126 | Jan Beranek               |  21.9 |        46 |              |               |
 |  127 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |

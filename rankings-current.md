@@ -5,18 +5,18 @@ Generated 2016-12-01.
 |    1 | Colin Grant       |  35.1 |        12 |        +0.53 |               |
 |    2 | Eric Katerman     |  31.8 |        31 |        +0.34 |               |
 |    3 | Sam Sternberg     |  30.1 |       134 |        -0.44 |         +0.85 |
-|    4 | Frank Kennamer    |  27.1 |       214 |        +0.20 |         -0.42 |
+|    4 | Frank Kennamer    |  27.2 |       215 |        +0.34 |         -0.28 |
 |    5 | Nick Cobbett      |  26.9 |        30 |        +0.26 |         +7.62 |
 |    6 | Jim Veitch        |  24.9 |       435 |        -0.13 |         -1.54 |
 |    7 | John Kunze        |  24.3 |       310 |        -0.38 |         -1.00 |
 |    8 | Matt Wong         |  23.6 |        79 |        +0.42 |         +2.14 |
 |    9 | Dan Bohn          |  23.1 |        83 |        -0.11 |         -0.65 |
-|   10 | Dan Meier         |  22.9 |        54 |        -0.09 |         +1.38 |
+|   10 | Dan Meier         |  22.8 |        55 |        -0.24 |         +1.23 |
 |   11 | Jonathan Hankar   |  22.3 |       190 |        +0.45 |         +0.44 |
 |   12 | Anibhav Singla    |  22.3 |         6 |        +1.74 |               |
 |   13 | Vishal Jain       |  22.2 |         5 |        +2.15 |               |
-|   14 | Reid Johnsen      |  22.0 |        40 |        +0.32 |         +7.52 |
-|   15 | Sam McCormick     |  21.9 |        17 |        +1.41 |         +3.63 |
+|   14 | Sam McCormick     |  22.1 |        19 |        +1.64 |         +3.86 |
+|   15 | Reid Johnsen      |  22.0 |        40 |        +0.32 |         +7.52 |
 |   16 | Robert Isaac      |  20.9 |        17 |        -0.98 |               |
 |   17 | Mark Modera       |  20.8 |       315 |        -0.56 |         -0.82 |
 |   18 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
