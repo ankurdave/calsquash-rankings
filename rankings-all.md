@@ -1,4 +1,4 @@
-Generated 2016-11-30.
+Generated 2016-12-01.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -58,11 +58,11 @@ Generated 2016-11-30.
 |   54 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   55 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   56 | Paul Greene               |  25.2 |         8 |              |               |
-|   57 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   58 | Ben Seelig                |  25.0 |        69 |              |               |
-|   59 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   60 | Madhav Pai                |  24.9 |         5 |              |               |
-|   61 | Jim Veitch                |  24.9 |       433 |        -0.12 |         -1.53 |
+|   57 | Jim Veitch                |  25.0 |       434 |        +0.04 |         -1.36 |
+|   58 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   59 | Ben Seelig                |  25.0 |        69 |              |               |
+|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   61 | Madhav Pai                |  24.9 |         5 |              |               |
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
@@ -142,13 +142,13 @@ Generated 2016-11-30.
 |  138 | Casey Harelson            |  21.2 |        20 |              |               |
 |  139 | Philip Bildner            |  21.2 |        22 |              |               |
 |  140 | Darren Morgan             |  21.2 |        11 |              |               |
-|  141 | Robert Isaac              |  21.1 |        16 |        -0.72 |               |
-|  142 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  143 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  144 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  145 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  147 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  141 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  142 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  143 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  146 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  147 | Robert Isaac              |  20.9 |        17 |        -0.97 |               |
 |  148 | Mark Modera               |  20.8 |       315 |        -0.56 |         -0.82 |
 |  149 | Jamie Funk                |  20.8 |        30 |              |               |
 |  150 | Matthew Brett             |  20.7 |        20 |              |               |
