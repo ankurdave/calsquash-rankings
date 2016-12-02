@@ -19,12 +19,12 @@ Generated 2016-12-01.
 |   15 | Reid Johnsen      |  22.0 |        40 |        +0.32 |         +7.52 |
 |   16 | Robert Isaac      |  20.9 |        17 |        -0.98 |               |
 |   17 | Mark Modera       |  20.8 |       315 |        -0.56 |         -0.82 |
-|   18 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
-|   19 | Jeff Gordon       |  20.5 |        40 |        +0.53 |         +4.81 |
-|   20 | Jared Bard        |  20.5 |        36 |        -0.33 |         +1.52 |
+|   18 | Jeff Gordon       |  20.7 |        41 |        +0.79 |         +5.07 |
+|   19 | Prakash Bathini   |  20.5 |       123 |        -0.17 |         -0.47 |
+|   20 | Jared Bard        |  20.5 |        36 |        -0.32 |         +1.53 |
 |   21 | Robert Schwartz   |  20.4 |        82 |        +0.09 |         -1.45 |
-|   22 | Jonathan Francis  |  19.8 |        71 |              |         +0.66 |
-|   23 | Marc Schechter    |  19.8 |         4 |              |               |
+|   22 | Marc Schechter    |  19.8 |         4 |              |               |
+|   23 | Jonathan Francis  |  19.6 |        72 |        -0.24 |         +0.42 |
 |   24 | Jaime Perez       |  19.3 |        18 |        +0.22 |               |
 |   25 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
 |   26 | Natalie Leung     |  18.4 |         1 |              |               |

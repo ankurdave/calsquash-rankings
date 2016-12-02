@@ -151,16 +151,16 @@ Generated 2016-12-01.
 |  147 | Robert Isaac              |  20.9 |        17 |        -0.98 |               |
 |  148 | Mark Modera               |  20.8 |       315 |        -0.56 |         -0.82 |
 |  149 | Jamie Funk                |  20.8 |        30 |              |               |
-|  150 | Matthew Brett             |  20.7 |        20 |              |               |
-|  151 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  152 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  153 | Mike Jensen-Akula         |  20.6 |       219 |              |         -1.04 |
-|  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  155 | Prakash Bathini           |  20.5 |       123 |        -0.17 |         -0.47 |
-|  156 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  157 | Andrew Green              |  20.5 |        52 |              |               |
-|  158 | Jeff Gordon               |  20.5 |        40 |        +0.53 |         +4.81 |
-|  159 | Jared Bard                |  20.5 |        36 |        -0.33 |         +1.52 |
+|  150 | Jeff Gordon               |  20.7 |        41 |        +0.79 |         +5.07 |
+|  151 | Matthew Brett             |  20.7 |        20 |              |               |
+|  152 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  153 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  154 | Mike Jensen-Akula         |  20.6 |       219 |              |         -1.04 |
+|  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  156 | Prakash Bathini           |  20.5 |       123 |        -0.17 |         -0.47 |
+|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  158 | Andrew Green              |  20.5 |        52 |              |               |
+|  159 | Jared Bard                |  20.5 |        36 |        -0.32 |         +1.53 |
 |  160 | Steven Sloman             |  20.4 |        10 |              |               |
 |  161 | Robert Schwartz           |  20.4 |        82 |        +0.09 |         -1.45 |
 |  162 | Anirudh Todi              |  20.3 |         3 |              |               |
@@ -172,15 +172,15 @@ Generated 2016-12-01.
 |  168 | Wesley Huang              |  20.0 |         8 |              |               |
 |  169 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  170 | Liam King                 |  19.9 |         6 |              |               |
-|  171 | Jonathan Francis          |  19.8 |        71 |              |         +0.66 |
-|  172 | Marc Schechter            |  19.8 |         4 |              |               |
-|  173 | Lysander Jim              |  19.8 |         6 |              |               |
-|  174 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  175 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  176 | Mike Delanty              |  19.7 |        12 |              |               |
-|  177 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  178 | Andrew Proudfoot          |  19.6 |        26 |              |         +0.83 |
-|  179 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  171 | Marc Schechter            |  19.8 |         4 |              |               |
+|  172 | Lysander Jim              |  19.8 |         6 |              |               |
+|  173 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  174 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  175 | Mike Delanty              |  19.7 |        12 |              |               |
+|  176 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  177 | Andrew Proudfoot          |  19.6 |        26 |              |         +0.83 |
+|  178 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  179 | Jonathan Francis          |  19.6 |        72 |        -0.24 |         +0.42 |
 |  180 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  181 | Jaime Perez               |  19.3 |        18 |        +0.22 |               |
 |  182 | Thomas Scanlon            |  19.3 |        20 |              |               |
