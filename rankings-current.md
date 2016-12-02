@@ -39,16 +39,16 @@ Generated 2016-12-01.
 |   35 | Terry Chang       |  15.8 |        48 |              |         +2.14 |
 |   36 | Ankur Dave        |  15.5 |        57 |        +0.46 |         +7.49 |
 |   37 | Sahar Sareminaeni |  15.5 |        12 |        +1.31 |               |
-|   38 | Kent Daniels      |  14.7 |        93 |        -0.17 |         -0.44 |
+|   38 | Kent Daniels      |  14.7 |        93 |        -0.16 |         -0.44 |
 |   39 | Diego Butrich     |  14.6 |         7 |              |               |
-|   40 | Nikhil Paranjape  |  13.3 |        27 |              |               |
-|   41 | Josh Lebowitz     |  10.7 |        31 |        +0.40 |               |
+|   40 | Nikhil Paranjape  |  13.1 |        28 |        -0.24 |               |
+|   41 | Josh Lebowitz     |  10.7 |        31 |        +0.44 |               |
 |   42 | Nate Aden         |  10.4 |        26 |        +0.45 |               |
-|   43 | James Grant       |  10.2 |         3 |              |               |
-|   44 | Reto Sutter       |  10.0 |        50 |        -0.06 |         -0.45 |
-|   45 | Daniel Schwartz   |   9.8 |        22 |        -0.69 |               |
-|   46 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
-|   47 | Meldan Heaslip    |   9.4 |        10 |        +0.54 |               |
+|   43 | Meldan Heaslip    |  10.3 |        11 |        +1.45 |               |
+|   44 | James Grant       |  10.2 |         3 |              |               |
+|   45 | Reto Sutter       |  10.0 |        50 |        -0.06 |         -0.45 |
+|   46 | Daniel Schwartz   |   9.8 |        22 |        -0.69 |               |
+|   47 | Myles Gordon      |   9.8 |        42 |              |         -0.39 |
 |   48 | Raphael Magarik   |   8.8 |        17 |        +0.08 |               |
 |   49 | Brian Kempenich   |   8.5 |        41 |        -0.03 |         -0.65 |
 |   50 | Duo Wang          |   8.5 |        65 |        +0.21 |         +0.22 |

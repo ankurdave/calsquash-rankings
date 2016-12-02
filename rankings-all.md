@@ -284,7 +284,7 @@ Generated 2016-12-01.
 |  280 | Paul Norberg              |  14.8 |         8 |              |               |
 |  281 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  282 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  283 | Kent Daniels              |  14.7 |        93 |        -0.17 |         -0.44 |
+|  283 | Kent Daniels              |  14.7 |        93 |        -0.16 |         -0.44 |
 |  284 | David Elfant              |  14.7 |         2 |              |               |
 |  285 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  286 | Margaret Chapman          |  14.6 |         6 |              |               |
@@ -310,10 +310,10 @@ Generated 2016-12-01.
 |  306 | Alex Rennet               |  13.5 |         2 |              |               |
 |  307 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  308 | Jake Toy                  |  13.4 |         5 |              |               |
-|  309 | Nikhil Paranjape          |  13.3 |        27 |              |               |
-|  310 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  311 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  312 | Field Maloney             |  13.1 |        24 |              |               |
+|  309 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  310 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  311 | Field Maloney             |  13.1 |        24 |              |               |
+|  312 | Nikhil Paranjape          |  13.1 |        28 |        -0.24 |               |
 |  313 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  314 | Lewis Moore               |  13.0 |        69 |              |               |
 |  315 | David Isaksson            |  12.9 |        22 |              |               |
@@ -342,28 +342,28 @@ Generated 2016-12-01.
 |  338 | Lucas Siow                |  11.0 |        10 |              |               |
 |  339 | Dominick Ng               |  10.9 |        25 |              |               |
 |  340 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  341 | Josh Lebowitz             |  10.7 |        31 |        +0.40 |               |
+|  341 | Josh Lebowitz             |  10.7 |        31 |        +0.44 |               |
 |  342 | George Bentley            |  10.6 |         4 |              |               |
 |  343 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  344 | Nate Aden                 |  10.4 |        26 |        +0.45 |               |
 |  345 | Brian Puglise             |  10.4 |         2 |              |               |
 |  346 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  347 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  348 | John Provine              |  10.2 |        16 |              |               |
-|  349 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  350 | James Grant               |  10.2 |         3 |              |               |
-|  351 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  352 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  353 | Sung-Jin Oh               |  10.1 |         6 |              |         +1.01 |
-|  354 | Reto Sutter               |  10.0 |        50 |        -0.06 |         -0.45 |
-|  355 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  356 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  357 | Daniel Schwartz           |   9.8 |        22 |        -0.69 |               |
-|  358 | Myles Gordon              |   9.8 |        42 |              |         -0.39 |
-|  359 | Jacob Bank                |   9.7 |         1 |              |               |
-|  360 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
-|  361 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  362 | Meldan Heaslip            |   9.4 |        10 |        +0.54 |               |
+|  347 | Meldan Heaslip            |  10.3 |        11 |        +1.45 |               |
+|  348 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  349 | John Provine              |  10.2 |        16 |              |               |
+|  350 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  351 | James Grant               |  10.2 |         3 |              |               |
+|  352 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  353 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  354 | Sung-Jin Oh               |  10.1 |         6 |              |         +1.01 |
+|  355 | Reto Sutter               |  10.0 |        50 |        -0.06 |         -0.45 |
+|  356 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  357 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  358 | Daniel Schwartz           |   9.8 |        22 |        -0.69 |               |
+|  359 | Myles Gordon              |   9.8 |        42 |              |         -0.39 |
+|  360 | Jacob Bank                |   9.7 |         1 |              |               |
+|  361 | Gene Zubovich             |   9.7 |        19 |              |         -0.87 |
+|  362 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  363 | Mark Shapero              |   9.4 |         7 |              |               |
 |  364 | Kevin Pollock             |   9.4 |        28 |              |               |
 |  365 | Max Grass                 |   9.4 |         1 |              |               |
