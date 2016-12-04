@@ -1,4 +1,4 @@
-Generated 2016-12-03.
+Generated 2016-12-04.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -205,17 +205,17 @@ Generated 2016-12-03.
 |  201 | Yan Liu                   |  18.5 |        10 |              |               |
 |  202 | Akshay Dugar              |  18.5 |         6 |              |               |
 |  203 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  204 | Dror Matalon              |  18.5 |       355 |        -0.09 |         +0.42 |
-|  205 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  206 | John Eng                  |  18.4 |        28 |              |               |
-|  207 | Natalie Leung             |  18.4 |         1 |              |               |
-|  208 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  209 | Shaun Lim                 |  18.3 |        45 |        -0.01 |         +0.30 |
+|  204 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  205 | John Eng                  |  18.4 |        28 |              |               |
+|  206 | Natalie Leung             |  18.4 |         1 |              |               |
+|  207 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  208 | Shaun Lim                 |  18.3 |        45 |        -0.01 |         +0.30 |
+|  209 | Eric Borden               |  18.3 |        37 |        +0.25 |         +3.90 |
 |  210 | Kenny Bell                |  18.2 |       124 |        -0.56 |         +0.16 |
 |  211 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  212 | Bob Roller                |  18.2 |         6 |              |               |
-|  213 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  214 | Eric Borden               |  17.9 |        36 |        -0.07 |         +3.58 |
+|  212 | Dror Matalon              |  18.2 |       356 |        -0.36 |         +0.16 |
+|  213 | Bob Roller                |  18.2 |         6 |              |               |
+|  214 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  215 | James Chung               |  17.9 |         7 |              |               |
 |  216 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
 |  217 | Nick Paget                |  17.8 |        35 |              |               |

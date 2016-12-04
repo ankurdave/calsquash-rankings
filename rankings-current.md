@@ -1,4 +1,4 @@
-Generated 2016-12-03.
+Generated 2016-12-04.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -26,11 +26,11 @@ Generated 2016-12-03.
 |   22 | Marc Schechter    |  19.8 |         4 |              |               |
 |   23 | Jonathan Francis  |  19.6 |        72 |        -0.24 |         +0.42 |
 |   24 | Jaime Perez       |  19.3 |        18 |        +0.22 |               |
-|   25 | Dror Matalon      |  18.5 |       355 |        -0.09 |         +0.42 |
-|   26 | Natalie Leung     |  18.4 |         1 |              |               |
-|   27 | Shaun Lim         |  18.3 |        45 |        -0.01 |         +0.30 |
+|   25 | Natalie Leung     |  18.4 |         1 |              |               |
+|   26 | Shaun Lim         |  18.3 |        45 |        -0.01 |         +0.30 |
+|   27 | Eric Borden       |  18.3 |        37 |        +0.25 |         +3.90 |
 |   28 | Kenny Bell        |  18.2 |       124 |        -0.56 |         +0.16 |
-|   29 | Eric Borden       |  17.9 |        36 |        -0.07 |         +3.58 |
+|   29 | Dror Matalon      |  18.2 |       356 |        -0.36 |         +0.16 |
 |   30 | Troup Howard      |  17.7 |        42 |        +0.38 |         +0.06 |
 |   31 | Wayne Heiser      |  17.7 |        38 |        +0.34 |               |
 |   32 | Josh Trauner      |  17.7 |        43 |        -0.13 |               |
