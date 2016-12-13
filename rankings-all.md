@@ -1,4 +1,4 @@
-Generated 2016-12-11.
+Generated 2016-12-12.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -384,12 +384,12 @@ Generated 2016-12-11.
 |  380 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  381 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  382 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  383 | Brian Kempenich           |   8.5 |        41 |              |         -0.65 |
-|  384 | Duo Wang                  |   8.5 |        65 |              |         +0.05 |
-|  385 | Reynold Xin               |   8.3 |         5 |              |               |
-|  386 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  387 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  388 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  383 | Duo Wang                  |   8.5 |        65 |              |         +0.05 |
+|  384 | Reynold Xin               |   8.3 |         5 |              |               |
+|  385 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  386 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  387 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  388 | Brian Kempenich           |   8.2 |        42 |        -0.35 |         -0.99 |
 |  389 | Phil Hartmeyer            |   8.2 |         3 |              |               |
 |  390 | John Coates               |   8.1 |         9 |              |               |
 |  391 | Vito Sciaraffia           |   8.1 |         5 |              |               |
@@ -431,15 +431,15 @@ Generated 2016-12-11.
 |  427 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  428 | Zsolt Bartha              |   4.4 |        47 |              |         +2.51 |
 |  429 | Sameer Bajaj              |   4.3 |         4 |              |               |
-|  430 | Annie Wong                |   4.0 |         3 |              |               |
-|  431 | Ryan                      |   4.0 |         3 |              |               |
-|  432 | Mateo Aceves              |   3.8 |         4 |              |               |
-|  433 | Jose Lara                 |   3.8 |         9 |              |               |
-|  434 | Nakul Vakil               |   3.0 |         5 |              |               |
-|  435 | Maria Garzon              |   3.0 |         5 |              |               |
-|  436 | Nadir Shams               |   3.0 |         2 |              |               |
-|  437 | Ji Seop Oh                |   2.9 |         2 |              |               |
-|  438 | Anuj Dawar                |   2.8 |        14 |              |               |
+|  430 | Anuj Dawar                |   4.2 |        15 |        +1.38 |               |
+|  431 | Annie Wong                |   4.0 |         3 |              |               |
+|  432 | Ryan                      |   4.0 |         3 |              |               |
+|  433 | Mateo Aceves              |   3.8 |         4 |              |               |
+|  434 | Jose Lara                 |   3.8 |         9 |              |               |
+|  435 | Nakul Vakil               |   3.0 |         5 |              |               |
+|  436 | Maria Garzon              |   3.0 |         5 |              |               |
+|  437 | Nadir Shams               |   3.0 |         2 |              |               |
+|  438 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  439 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  440 | David Vogel               |   2.6 |         7 |              |               |
 |  441 | Cristhian Daniel          |   2.5 |        18 |              |               |

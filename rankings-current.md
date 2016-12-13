@@ -1,4 +1,4 @@
-Generated 2016-12-11.
+Generated 2016-12-12.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -48,13 +48,13 @@ Generated 2016-12-11.
 |   44 | Reto Sutter        |  10.0 |        50 |              |         -0.58 |
 |   45 | Daniel Schwartz    |   9.8 |        22 |              |               |
 |   46 | Raphael Magarik    |   8.8 |        17 |              |               |
-|   47 | Brian Kempenich    |   8.5 |        41 |              |         -0.65 |
-|   48 | Duo Wang           |   8.5 |        65 |              |         +0.05 |
+|   47 | Duo Wang           |   8.5 |        65 |              |         +0.05 |
+|   48 | Brian Kempenich    |   8.2 |        42 |        -0.35 |         -0.99 |
 |   49 | Keaton Noon        |   7.2 |        23 |              |         +3.66 |
 |   50 | Alok Singh         |   5.9 |        17 |              |               |
 |   51 | Zsolt Bartha       |   4.4 |        47 |              |         +2.51 |
-|   52 | Jose Lara          |   3.8 |         9 |              |               |
-|   53 | Anuj Dawar         |   2.8 |        14 |              |               |
+|   52 | Anuj Dawar         |   4.2 |        15 |        +1.38 |               |
+|   53 | Jose Lara          |   3.8 |         9 |              |               |
 |   54 | Cristhian Daniel   |   2.5 |        18 |              |               |
 |   55 | Craig Hollow       |   2.0 |         4 |              |               |
 |   56 | Duncan MacRae      |  -6.3 |         7 |              |               |
