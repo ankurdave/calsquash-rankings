@@ -1,4 +1,4 @@
-Generated 2016-12-12.
+Generated 2016-12-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -148,22 +148,22 @@ Generated 2016-12-12.
 |  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  146 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  147 | Robert Isaac              |  20.8 |        17 |              |               |
-|  148 | Mark Modera               |  20.8 |       315 |              |         -0.86 |
-|  149 | Jamie Funk                |  20.8 |        30 |              |               |
-|  150 | Jeff Gordon               |  20.7 |        41 |              |         +3.15 |
-|  151 | Matthew Brett             |  20.7 |        20 |              |               |
-|  152 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  153 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  154 | Mike Jensen-Akula         |  20.6 |       219 |              |         -1.04 |
+|  147 | Jared Bard                |  20.8 |        37 |        +0.34 |         +1.40 |
+|  148 | Robert Isaac              |  20.8 |        17 |              |               |
+|  149 | Mark Modera               |  20.8 |       315 |              |         -0.86 |
+|  150 | Jamie Funk                |  20.8 |        30 |              |               |
+|  151 | Jeff Gordon               |  20.7 |        41 |              |         +3.15 |
+|  152 | Matthew Brett             |  20.7 |        20 |              |               |
+|  153 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  154 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
 |  157 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  158 | Andrew Green              |  20.5 |        52 |              |               |
-|  159 | Jared Bard                |  20.5 |        36 |              |         +1.06 |
-|  160 | Steven Sloman             |  20.4 |        10 |              |               |
-|  161 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
-|  162 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  159 | Steven Sloman             |  20.4 |        10 |              |               |
+|  160 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
+|  161 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  162 | Mike Jensen-Akula         |  20.3 |       220 |        -0.27 |         -1.32 |
 |  163 | Carl Schreck              |  20.2 |         2 |              |               |
 |  164 | John Grim                 |  20.1 |        13 |              |               |
 |  165 | Shwetabh Singh            |  20.1 |         6 |              |               |

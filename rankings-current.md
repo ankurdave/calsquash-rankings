@@ -1,4 +1,4 @@
-Generated 2016-12-12.
+Generated 2016-12-17.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -17,12 +17,12 @@ Generated 2016-12-12.
 |   13 | Anibhav Singla     |  22.3 |         6 |              |               |
 |   14 | Reid Johnsen       |  22.0 |        40 |              |         +7.52 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
-|   16 | Robert Isaac       |  20.8 |        17 |              |               |
-|   17 | Mark Modera        |  20.8 |       315 |              |         -0.86 |
-|   18 | Jeff Gordon        |  20.7 |        41 |              |         +3.15 |
-|   19 | Mike Jensen-Akula  |  20.6 |       219 |              |         -1.04 |
-|   20 | Jared Bard         |  20.5 |        36 |              |         +1.06 |
-|   21 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
+|   16 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
+|   17 | Robert Isaac       |  20.8 |        17 |              |               |
+|   18 | Mark Modera        |  20.8 |       315 |              |         -0.86 |
+|   19 | Jeff Gordon        |  20.7 |        41 |              |         +3.15 |
+|   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
+|   21 | Mike Jensen-Akula  |  20.3 |       220 |        -0.27 |         -1.32 |
 |   22 | Marc Schechter     |  19.8 |         4 |              |               |
 |   23 | Jonathan Francis   |  19.6 |        72 |              |         +0.22 |
 |   24 | Jaime Perez        |  19.3 |        18 |              |               |
