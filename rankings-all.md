@@ -442,11 +442,11 @@ Generated 2016-12-17.
 |  438 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  439 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  440 | David Vogel               |   2.6 |         7 |              |               |
-|  441 | Cristhian Daniel          |   2.5 |        18 |              |               |
-|  442 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  443 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  444 | Phil Lin                  |   2.1 |         1 |              |               |
-|  445 | Alexis Madrigal           |   2.1 |         2 |              |               |
+|  441 | Xavier Vendrell           |   2.5 |         3 |              |               |
+|  442 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  443 | Phil Lin                  |   2.1 |         1 |              |               |
+|  444 | Alexis Madrigal           |   2.1 |         2 |              |               |
+|  445 | Cristhian Daniel          |   2.1 |        19 |        -0.38 |               |
 |  446 | Craig Hollow              |   2.0 |         4 |              |               |
 |  447 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  448 | Heather Dunbar            |   1.8 |         1 |              |               |
@@ -499,8 +499,8 @@ Generated 2016-12-17.
 |  495 | Jenny Cheng               |  -3.2 |         1 |              |               |
 |  496 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  497 | Tin Do                    |  -4.0 |         1 |              |               |
-|  498 | Susan Grand               |  -4.3 |         3 |              |               |
-|  499 | Sara Green                |  -5.8 |         1 |              |               |
-|  500 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  501 | Duncan MacRae             |  -6.3 |         7 |              |               |
+|  498 | Duncan MacRae             |  -4.2 |         8 |        +2.05 |               |
+|  499 | Susan Grand               |  -4.3 |         3 |              |               |
+|  500 | Sara Green                |  -5.8 |         1 |              |               |
+|  501 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  502 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |

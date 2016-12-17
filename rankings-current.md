@@ -55,6 +55,6 @@ Generated 2016-12-17.
 |   51 | Zsolt Bartha       |   4.4 |        47 |              |         +2.51 |
 |   52 | Anuj Dawar         |   4.2 |        15 |        +1.38 |               |
 |   53 | Jose Lara          |   3.8 |         9 |              |               |
-|   54 | Cristhian Daniel   |   2.5 |        18 |              |               |
+|   54 | Cristhian Daniel   |   2.1 |        19 |        -0.38 |               |
 |   55 | Craig Hollow       |   2.0 |         4 |              |               |
-|   56 | Duncan MacRae      |  -6.3 |         7 |              |               |
+|   56 | Duncan MacRae      |  -4.2 |         8 |        +2.05 |               |
