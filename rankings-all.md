@@ -1,4 +1,4 @@
-Generated 2016-12-19.
+Generated 2016-12-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -273,23 +273,23 @@ Generated 2016-12-19.
 |  269 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  270 | Peter Duerr               |  15.4 |        24 |              |               |
 |  271 | Kevin Fox                 |  15.3 |         7 |              |               |
-|  272 | Jim Evans                 |  15.1 |       216 |              |               |
-|  273 | Dennis Chan               |  15.1 |         1 |              |               |
-|  274 | Allie Giovanelli          |  15.0 |         4 |              |               |
-|  275 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  276 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
-|  277 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  278 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  279 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  280 | Paul Norberg              |  14.8 |         8 |              |               |
-|  281 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  282 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  283 | Kent Daniels              |  14.7 |        93 |              |         -0.15 |
-|  284 | David Elfant              |  14.7 |         2 |              |               |
-|  285 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  286 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  287 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  288 | Diego Butrich             |  14.6 |         7 |              |               |
+|  272 | Diego Butrich             |  15.2 |         8 |        +0.59 |               |
+|  273 | Jim Evans                 |  15.1 |       216 |              |               |
+|  274 | Dennis Chan               |  15.1 |         1 |              |               |
+|  275 | Allie Giovanelli          |  15.0 |         4 |              |               |
+|  276 | Patrick Baylis            |  15.0 |        12 |              |               |
+|  277 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  278 | Mimi Zhang                |  14.9 |         6 |              |               |
+|  279 | Jeff Dorman               |  14.9 |        14 |              |               |
+|  280 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  281 | Paul Norberg              |  14.8 |         8 |              |               |
+|  282 | Frederick Bayles          |  14.8 |         8 |              |               |
+|  283 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  284 | Kent Daniels              |  14.7 |        93 |              |         -0.15 |
+|  285 | David Elfant              |  14.7 |         2 |              |               |
+|  286 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  287 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  288 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  289 | Shai Vardi                |  14.5 |         4 |              |               |
 |  290 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  291 | Max Woodworth             |  14.4 |         7 |              |               |
@@ -488,19 +488,20 @@ Generated 2016-12-19.
 |  484 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  485 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  486 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  487 | Matthew Flairty           |  -1.4 |         2 |              |               |
-|  488 | Nick Firmani              |  -1.6 |         3 |              |               |
-|  489 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
-|  490 | Judah Purcell             |  -2.2 |         1 |              |               |
-|  491 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
-|  492 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
-|  493 | James Redfield            |  -2.9 |         3 |              |               |
-|  494 | Seobin Jung               |  -2.9 |         5 |              |               |
-|  495 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  496 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  497 | Tin Do                    |  -4.0 |         1 |              |               |
-|  498 | Duncan MacRae             |  -4.2 |         8 |        +2.05 |               |
-|  499 | Susan Grand               |  -4.3 |         3 |              |               |
-|  500 | Sara Green                |  -5.8 |         1 |              |               |
-|  501 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  502 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  487 | Sergey Dobrinov           |  -0.8 |         1 |              |               |
+|  488 | Matthew Flairty           |  -1.4 |         2 |              |               |
+|  489 | Nick Firmani              |  -1.6 |         3 |              |               |
+|  490 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
+|  491 | Judah Purcell             |  -2.2 |         1 |              |               |
+|  492 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
+|  493 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
+|  494 | James Redfield            |  -2.9 |         3 |              |               |
+|  495 | Seobin Jung               |  -2.9 |         5 |              |               |
+|  496 | Jenny Cheng               |  -3.2 |         1 |              |               |
+|  497 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  498 | Tin Do                    |  -4.0 |         1 |              |               |
+|  499 | Duncan MacRae             |  -4.2 |         8 |        +2.05 |               |
+|  500 | Susan Grand               |  -4.3 |         3 |              |               |
+|  501 | Sara Green                |  -5.8 |         1 |              |               |
+|  502 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  503 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |

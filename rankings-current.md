@@ -1,4 +1,4 @@
-Generated 2016-12-19.
+Generated 2016-12-20.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -38,8 +38,8 @@ Generated 2016-12-19.
 |   34 | Chris Flores       |  16.5 |       306 |              |         -1.31 |
 |   35 | Sahar Sareminaeni  |  15.8 |        13 |        +0.26 |               |
 |   36 | Ankur Dave         |  15.5 |        57 |              |         +7.43 |
-|   37 | Kent Daniels       |  14.7 |        93 |              |         -0.15 |
-|   38 | Diego Butrich      |  14.6 |         7 |              |               |
+|   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
+|   38 | Kent Daniels       |  14.7 |        93 |              |         -0.15 |
 |   39 | Nikhil Paranjape   |  13.1 |        29 |        +0.08 |         +8.45 |
 |   40 | Josh Lebowitz      |  10.7 |        31 |              |               |
 |   41 | Nate Aden          |  10.4 |        26 |              |               |
@@ -57,4 +57,5 @@ Generated 2016-12-19.
 |   53 | Jose Lara          |   3.8 |         9 |              |               |
 |   54 | Cristhian Daniel   |   2.1 |        19 |        -0.38 |               |
 |   55 | Craig Hollow       |   2.0 |         4 |              |               |
-|   56 | Duncan MacRae      |  -4.2 |         8 |        +2.05 |               |
+|   56 | Sergey Dobrinov    |  -0.8 |         1 |              |               |
+|   57 | Duncan MacRae      |  -4.2 |         8 |        +2.05 |               |
