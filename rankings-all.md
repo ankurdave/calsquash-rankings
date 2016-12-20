@@ -1,4 +1,4 @@
-Generated 2016-12-18.
+Generated 2016-12-19.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -262,14 +262,14 @@ Generated 2016-12-18.
 |  258 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  259 | Terry Chang               |  15.8 |        48 |              |         +2.14 |
 |  260 | Louis Russell             |  15.8 |        20 |              |               |
-|  261 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  262 | Jared Nunn                |  15.7 |         5 |              |               |
-|  263 | Akash Sharma              |  15.7 |         8 |              |               |
-|  264 | Angie Ng                  |  15.7 |        12 |              |               |
-|  265 | Tanit Follett             |  15.5 |         8 |              |               |
-|  266 | Ankur Dave                |  15.5 |        57 |              |         +7.43 |
-|  267 | Toni Queck                |  15.5 |        20 |              |               |
-|  268 | Sahar Sareminaeni         |  15.5 |        12 |              |               |
+|  261 | Sahar Sareminaeni         |  15.8 |        13 |        +0.26 |               |
+|  262 | Rich Shapiro              |  15.8 |        82 |              |               |
+|  263 | Jared Nunn                |  15.7 |         5 |              |               |
+|  264 | Akash Sharma              |  15.7 |         8 |              |               |
+|  265 | Angie Ng                  |  15.7 |        12 |              |               |
+|  266 | Tanit Follett             |  15.5 |         8 |              |               |
+|  267 | Ankur Dave                |  15.5 |        57 |              |         +7.43 |
+|  268 | Toni Queck                |  15.5 |        20 |              |               |
 |  269 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  270 | Peter Duerr               |  15.4 |        24 |              |               |
 |  271 | Kevin Fox                 |  15.3 |         7 |              |               |
@@ -312,8 +312,8 @@ Generated 2016-12-18.
 |  308 | Jake Toy                  |  13.4 |         5 |              |               |
 |  309 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  310 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  311 | Field Maloney             |  13.1 |        24 |              |               |
-|  312 | Nikhil Paranjape          |  13.1 |        28 |              |         +8.36 |
+|  311 | Nikhil Paranjape          |  13.1 |        29 |        +0.08 |         +8.45 |
+|  312 | Field Maloney             |  13.1 |        24 |              |               |
 |  313 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  314 | Lewis Moore               |  13.0 |        69 |              |               |
 |  315 | David Isaksson            |  12.9 |        22 |              |               |

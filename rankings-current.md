@@ -1,4 +1,4 @@
-Generated 2016-12-18.
+Generated 2016-12-19.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -36,11 +36,11 @@ Generated 2016-12-18.
 |   32 | Josh Trauner       |  17.7 |        43 |              |               |
 |   33 | David Bratt        |  16.6 |        20 |              |         +0.19 |
 |   34 | Chris Flores       |  16.5 |       306 |              |         -1.31 |
-|   35 | Ankur Dave         |  15.5 |        57 |              |         +7.43 |
-|   36 | Sahar Sareminaeni  |  15.5 |        12 |              |               |
+|   35 | Sahar Sareminaeni  |  15.8 |        13 |        +0.26 |               |
+|   36 | Ankur Dave         |  15.5 |        57 |              |         +7.43 |
 |   37 | Kent Daniels       |  14.7 |        93 |              |         -0.15 |
 |   38 | Diego Butrich      |  14.6 |         7 |              |               |
-|   39 | Nikhil Paranjape   |  13.1 |        28 |              |         +8.36 |
+|   39 | Nikhil Paranjape   |  13.1 |        29 |        +0.08 |         +8.45 |
 |   40 | Josh Lebowitz      |  10.7 |        31 |              |               |
 |   41 | Nate Aden          |  10.4 |        26 |              |               |
 |   42 | Meldan Heaslip     |  10.3 |        11 |              |               |
