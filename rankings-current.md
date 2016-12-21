@@ -33,11 +33,11 @@ Generated 2016-12-20.
 |   29 | Dror Matalon       |  18.2 |       356 |              |         +0.18 |
 |   30 | Troup Howard       |  17.7 |        42 |              |         +0.06 |
 |   31 | Wayne Heiser       |  17.7 |        38 |              |               |
-|   32 | Josh Trauner       |  17.7 |        43 |              |               |
+|   32 | Josh Trauner       |  17.5 |        44 |        -0.19 |               |
 |   33 | David Bratt        |  16.6 |        20 |              |         +0.19 |
 |   34 | Chris Flores       |  16.5 |       306 |              |         -1.31 |
 |   35 | Sahar Sareminaeni  |  15.8 |        13 |        +0.26 |               |
-|   36 | Ankur Dave         |  15.5 |        57 |              |         +7.43 |
+|   36 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
 |   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
 |   38 | Kent Daniels       |  14.7 |        93 |              |         -0.15 |
 |   39 | Nikhil Paranjape   |  13.1 |        29 |        +0.08 |         +8.45 |

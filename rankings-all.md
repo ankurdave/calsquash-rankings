@@ -224,10 +224,10 @@ Generated 2016-12-20.
 |  220 | Troup Howard              |  17.7 |        42 |              |         +0.06 |
 |  221 | Wayne Heiser              |  17.7 |        38 |              |               |
 |  222 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  223 | Josh Trauner              |  17.7 |        43 |              |               |
-|  224 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  225 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
-|  226 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  223 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  224 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
+|  225 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  226 | Josh Trauner              |  17.5 |        44 |        -0.19 |               |
 |  227 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  228 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  229 | Craig Riddell             |  17.4 |         8 |              |               |
@@ -264,11 +264,11 @@ Generated 2016-12-20.
 |  260 | Louis Russell             |  15.8 |        20 |              |               |
 |  261 | Sahar Sareminaeni         |  15.8 |        13 |        +0.26 |               |
 |  262 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  263 | Jared Nunn                |  15.7 |         5 |              |               |
-|  264 | Akash Sharma              |  15.7 |         8 |              |               |
-|  265 | Angie Ng                  |  15.7 |        12 |              |               |
-|  266 | Tanit Follett             |  15.5 |         8 |              |               |
-|  267 | Ankur Dave                |  15.5 |        57 |              |         +7.43 |
+|  263 | Ankur Dave                |  15.8 |        58 |        +0.22 |         +7.65 |
+|  264 | Jared Nunn                |  15.7 |         5 |              |               |
+|  265 | Akash Sharma              |  15.7 |         8 |              |               |
+|  266 | Angie Ng                  |  15.7 |        12 |              |               |
+|  267 | Tanit Follett             |  15.5 |         8 |              |               |
 |  268 | Toni Queck                |  15.5 |        20 |              |               |
 |  269 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  270 | Peter Duerr               |  15.4 |        24 |              |               |
