@@ -1,4 +1,4 @@
-Generated 2016-12-20.
+Generated 2016-12-23.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -207,9 +207,9 @@ Generated 2016-12-20.
 |  203 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
 |  204 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  205 | John Eng                  |  18.4 |        28 |              |               |
-|  206 | Natalie Leung             |  18.4 |         1 |              |               |
-|  207 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  208 | Shaun Lim                 |  18.3 |        45 |              |         +0.30 |
+|  206 | Shaun Lim                 |  18.4 |        46 |        +0.18 |         +0.48 |
+|  207 | Natalie Leung             |  18.4 |         1 |              |               |
+|  208 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  209 | Eric Borden               |  18.3 |        37 |              |         +3.05 |
 |  210 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
 |  211 | Pierre Darancet           |  18.2 |        94 |              |               |
@@ -285,11 +285,11 @@ Generated 2016-12-20.
 |  281 | Paul Norberg              |  14.8 |         8 |              |               |
 |  282 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  283 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  284 | Kent Daniels              |  14.7 |        93 |              |         -0.15 |
-|  285 | David Elfant              |  14.7 |         2 |              |               |
-|  286 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  287 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  288 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  284 | David Elfant              |  14.7 |         2 |              |               |
+|  285 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  286 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  287 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  288 | Kent Daniels              |  14.6 |        94 |        -0.16 |         -0.31 |
 |  289 | Shai Vardi                |  14.5 |         4 |              |               |
 |  290 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  291 | Max Woodworth             |  14.4 |         7 |              |               |

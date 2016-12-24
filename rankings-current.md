@@ -1,4 +1,4 @@
-Generated 2016-12-20.
+Generated 2016-12-23.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -26,8 +26,8 @@ Generated 2016-12-20.
 |   22 | Marc Schechter     |  19.8 |         4 |              |               |
 |   23 | Jonathan Francis   |  19.6 |        72 |              |         +0.22 |
 |   24 | Jaime Perez        |  19.3 |        18 |              |               |
-|   25 | Natalie Leung      |  18.4 |         1 |              |               |
-|   26 | Shaun Lim          |  18.3 |        45 |              |         +0.30 |
+|   25 | Shaun Lim          |  18.4 |        46 |        +0.18 |         +0.48 |
+|   26 | Natalie Leung      |  18.4 |         1 |              |               |
 |   27 | Eric Borden        |  18.3 |        37 |              |         +3.05 |
 |   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
 |   29 | Dror Matalon       |  18.2 |       356 |              |         +0.18 |
@@ -39,7 +39,7 @@ Generated 2016-12-20.
 |   35 | Sahar Sareminaeni  |  15.8 |        13 |        +0.26 |               |
 |   36 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
 |   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
-|   38 | Kent Daniels       |  14.7 |        93 |              |         -0.15 |
+|   38 | Kent Daniels       |  14.6 |        94 |        -0.16 |         -0.31 |
 |   39 | Nikhil Paranjape   |  13.1 |        29 |        +0.08 |         +8.45 |
 |   40 | Josh Lebowitz      |  10.7 |        31 |              |               |
 |   41 | Nate Aden          |  10.4 |        26 |              |               |
