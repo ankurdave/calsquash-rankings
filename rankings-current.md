@@ -1,4 +1,4 @@
-Generated 2016-12-23.
+Generated 2016-12-28.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -10,17 +10,17 @@ Generated 2016-12-23.
 |    6 | John Kunze         |  24.3 |       310 |              |         -1.00 |
 |    7 | Matt Wong          |  23.6 |        79 |              |         +2.45 |
 |    8 | Aditya Guntuboyina |  23.3 |        77 |              |         +0.99 |
-|    9 | Dan Bohn           |  23.1 |        83 |              |         -0.65 |
-|   10 | Dan Meier          |  22.8 |        55 |              |         +1.13 |
+|    9 | Dan Bohn           |  22.9 |        84 |        -0.19 |         -0.83 |
+|   10 | Dan Meier          |  22.8 |        56 |        -0.03 |         +1.10 |
 |   11 | Sam McCormick      |  22.7 |        20 |              |         +2.72 |
 |   12 | Jonathan Hankar    |  22.3 |       190 |              |         +0.31 |
 |   13 | Anibhav Singla     |  22.3 |         6 |              |               |
 |   14 | Reid Johnsen       |  22.0 |        40 |              |         +7.52 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
-|   16 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
-|   17 | Robert Isaac       |  20.8 |        17 |              |               |
-|   18 | Mark Modera        |  20.8 |       315 |              |         -0.86 |
-|   19 | Jeff Gordon        |  20.7 |        41 |              |         +3.15 |
+|   16 | Jeff Gordon        |  21.0 |        43 |        +0.28 |         +3.43 |
+|   17 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
+|   18 | Robert Isaac       |  20.8 |        17 |              |               |
+|   19 | Mark Modera        |  20.8 |       315 |              |         -0.86 |
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
 |   21 | Mike Jensen-Akula  |  20.3 |       220 |        -0.27 |         -1.32 |
 |   22 | Marc Schechter     |  19.8 |         4 |              |               |

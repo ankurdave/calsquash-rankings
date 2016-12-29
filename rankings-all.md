@@ -1,4 +1,4 @@
-Generated 2016-12-23.
+Generated 2016-12-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -97,12 +97,12 @@ Generated 2016-12-23.
 |   93 | Garvin Heath              |  23.4 |        28 |              |               |
 |   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +0.99 |
 |   95 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   96 | Dan Bohn                  |  23.1 |        83 |              |         -0.65 |
-|   97 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|   98 | Joe Farrell               |  23.0 |        30 |              |               |
-|   99 | Matt Wild                 |  23.0 |        25 |              |               |
-|  100 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  101 | Dan Meier                 |  22.8 |        55 |              |         +1.13 |
+|   96 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|   97 | Joe Farrell               |  23.0 |        30 |              |               |
+|   98 | Matt Wild                 |  23.0 |        25 |              |               |
+|   99 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  100 | Dan Bohn                  |  22.9 |        84 |        -0.19 |         -0.83 |
+|  101 | Dan Meier                 |  22.8 |        56 |        -0.03 |         +1.10 |
 |  102 | Andrew Pritchard          |  22.7 |        16 |              |         +0.40 |
 |  103 | Sam McCormick             |  22.7 |        20 |              |         +2.72 |
 |  104 | Bhuvan Jain               |  22.7 |        18 |              |               |
@@ -145,14 +145,14 @@ Generated 2016-12-23.
 |  141 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  142 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  143 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  146 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  147 | Jared Bard                |  20.8 |        37 |        +0.34 |         +1.40 |
-|  148 | Robert Isaac              |  20.8 |        17 |              |               |
-|  149 | Mark Modera               |  20.8 |       315 |              |         -0.86 |
-|  150 | Jamie Funk                |  20.8 |        30 |              |               |
-|  151 | Jeff Gordon               |  20.7 |        41 |              |         +3.15 |
+|  144 | Jeff Gordon               |  21.0 |        43 |        +0.28 |         +3.43 |
+|  145 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  147 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  148 | Jared Bard                |  20.8 |        37 |        +0.34 |         +1.40 |
+|  149 | Robert Isaac              |  20.8 |        17 |              |               |
+|  150 | Mark Modera               |  20.8 |       315 |              |         -0.86 |
+|  151 | Jamie Funk                |  20.8 |        30 |              |               |
 |  152 | Matthew Brett             |  20.7 |        20 |              |               |
 |  153 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  154 | Andres Ramirez            |  20.6 |         8 |              |               |
