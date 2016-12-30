@@ -1,8 +1,8 @@
-Generated 2016-12-28.
+Generated 2016-12-29.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  35.1 |        12 |              |               |
+|    1 | Colin Grant               |  35.3 |        13 |        +0.11 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |               |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -62,7 +62,7 @@ Generated 2016-12-28.
 |   58 | Ben Seelig                |  25.0 |        69 |              |               |
 |   59 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   60 | Madhav Pai                |  24.9 |         5 |              |               |
-|   61 | Jim Veitch                |  24.9 |       435 |              |         -1.36 |
+|   61 | Jim Veitch                |  24.8 |       436 |        -0.05 |         -1.40 |
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
@@ -113,11 +113,11 @@ Generated 2016-12-28.
 |  109 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  110 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  111 | Jonathan Hankar           |  22.3 |       190 |              |         +0.31 |
-|  112 | Anibhav Singla            |  22.3 |         6 |              |               |
-|  113 | Robert Geiger             |  22.2 |         8 |              |               |
-|  114 | Aaron Socha               |  22.2 |        24 |              |               |
-|  115 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  116 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  112 | Robert Geiger             |  22.2 |         8 |              |               |
+|  113 | Aaron Socha               |  22.2 |        24 |              |               |
+|  114 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  115 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  116 | Anibhav Singla            |  22.1 |         7 |        -0.17 |               |
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
 |  119 | Errick Ceppas             |  22.0 |         6 |              |               |
@@ -181,8 +181,8 @@ Generated 2016-12-28.
 |  177 | Andrew Proudfoot          |  19.6 |        26 |              |         +0.06 |
 |  178 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  179 | Jonathan Francis          |  19.6 |        72 |              |         +0.22 |
-|  180 | Jacob Kersey              |  19.6 |        15 |              |         +3.09 |
-|  181 | Jaime Perez               |  19.3 |        18 |              |               |
+|  180 | Jaime Perez               |  19.6 |        19 |        +0.26 |               |
+|  181 | Jacob Kersey              |  19.6 |        15 |              |         +3.09 |
 |  182 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  183 | Greg Adams                |  19.3 |        10 |              |               |
 |  184 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |

@@ -1,12 +1,12 @@
-Generated 2016-12-28.
+Generated 2016-12-29.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant        |  35.1 |        12 |              |               |
+|    1 | Colin Grant        |  35.3 |        13 |        +0.11 |               |
 |    2 | Eric Katerman      |  31.8 |        31 |              |               |
 |    3 | Sam Sternberg      |  30.1 |       134 |              |         +0.85 |
 |    4 | Frank Kennamer     |  27.3 |       215 |              |         -0.27 |
-|    5 | Jim Veitch         |  24.9 |       435 |              |         -1.36 |
+|    5 | Jim Veitch         |  24.8 |       436 |        -0.05 |         -1.40 |
 |    6 | John Kunze         |  24.3 |       310 |              |         -1.00 |
 |    7 | Matt Wong          |  23.6 |        79 |              |         +2.45 |
 |    8 | Aditya Guntuboyina |  23.3 |        77 |              |         +0.99 |
@@ -14,7 +14,7 @@ Generated 2016-12-28.
 |   10 | Dan Meier          |  22.8 |        56 |        -0.03 |         +1.10 |
 |   11 | Sam McCormick      |  22.7 |        20 |              |         +2.72 |
 |   12 | Jonathan Hankar    |  22.3 |       190 |              |         +0.31 |
-|   13 | Anibhav Singla     |  22.3 |         6 |              |               |
+|   13 | Anibhav Singla     |  22.1 |         7 |        -0.17 |               |
 |   14 | Reid Johnsen       |  22.0 |        40 |              |         +7.52 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
 |   16 | Jeff Gordon        |  21.0 |        43 |        +0.28 |         +3.43 |
@@ -25,7 +25,7 @@ Generated 2016-12-28.
 |   21 | Mike Jensen-Akula  |  20.3 |       220 |        -0.27 |         -1.32 |
 |   22 | Marc Schechter     |  19.8 |         4 |              |               |
 |   23 | Jonathan Francis   |  19.6 |        72 |              |         +0.22 |
-|   24 | Jaime Perez        |  19.3 |        18 |              |               |
+|   24 | Jaime Perez        |  19.6 |        19 |        +0.26 |               |
 |   25 | Shaun Lim          |  18.4 |        46 |        +0.18 |         +0.48 |
 |   26 | Natalie Leung      |  18.4 |         1 |              |               |
 |   27 | Eric Borden        |  18.3 |        37 |              |         +3.05 |
