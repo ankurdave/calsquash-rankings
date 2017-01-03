@@ -1,4 +1,4 @@
-Generated 2017-01-02.
+Generated 2017-01-03.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -35,13 +35,13 @@ Generated 2017-01-02.
 |   31 | Wayne Heiser       |  17.7 |        38 |              |               |
 |   32 | Josh Trauner       |  17.5 |        44 |        -0.19 |               |
 |   33 | David Bratt        |  16.6 |        20 |              |         +0.19 |
-|   34 | Chris Flores       |  16.5 |       306 |              |         -1.31 |
+|   34 | Chris Flores       |  16.5 |       307 |        -0.06 |         -1.37 |
 |   35 | Sahar Sareminaeni  |  15.8 |        13 |        +0.26 |               |
 |   36 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
 |   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
 |   38 | Kent Daniels       |  14.6 |        94 |        -0.16 |         -0.31 |
 |   39 | Nikhil Paranjape   |  13.1 |        29 |        +0.08 |         +8.45 |
-|   40 | Josh Lebowitz      |  10.7 |        31 |              |               |
+|   40 | Josh Lebowitz      |  10.8 |        32 |        +0.12 |               |
 |   41 | Nate Aden          |  10.4 |        26 |              |               |
 |   42 | Meldan Heaslip     |  10.3 |        11 |              |               |
 |   43 | James Grant        |  10.2 |         3 |              |               |

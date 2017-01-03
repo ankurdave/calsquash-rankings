@@ -1,4 +1,4 @@
-Generated 2017-01-02.
+Generated 2017-01-03.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -249,9 +249,9 @@ Generated 2017-01-02.
 |  245 | David Shabelman           |  16.7 |        30 |              |               |
 |  246 | David Bratt               |  16.6 |        20 |              |         +0.19 |
 |  247 | Mark Priven               |  16.6 |        72 |              |               |
-|  248 | Chris Flores              |  16.5 |       306 |              |         -1.31 |
-|  249 | William Coleman           |  16.5 |        48 |              |               |
-|  250 | Mike Troxell              |  16.5 |         8 |              |               |
+|  248 | William Coleman           |  16.5 |        48 |              |               |
+|  249 | Mike Troxell              |  16.5 |         8 |              |               |
+|  250 | Chris Flores              |  16.5 |       307 |        -0.06 |         -1.37 |
 |  251 | Danish Mir                |  16.4 |         1 |              |               |
 |  252 | Paul Chang                |  16.3 |         7 |              |               |
 |  253 | Steven Hahm               |  16.3 |         5 |              |               |
@@ -341,8 +341,8 @@ Generated 2017-01-02.
 |  337 | Karan Jain                |  11.3 |        19 |              |               |
 |  338 | Lucas Siow                |  11.0 |        10 |              |               |
 |  339 | Dominick Ng               |  10.9 |        25 |              |               |
-|  340 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  341 | Josh Lebowitz             |  10.7 |        31 |              |               |
+|  340 | Josh Lebowitz             |  10.8 |        32 |        +0.12 |               |
+|  341 | Rodrigo Calmet            |  10.8 |         5 |              |               |
 |  342 | George Bentley            |  10.6 |         4 |              |               |
 |  343 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  344 | Nate Aden                 |  10.4 |        26 |              |               |
