@@ -341,14 +341,14 @@ Generated 2017-01-03.
 |  337 | Karan Jain                |  11.3 |        19 |              |               |
 |  338 | Lucas Siow                |  11.0 |        10 |              |               |
 |  339 | Dominick Ng               |  10.9 |        25 |              |               |
-|  340 | Josh Lebowitz             |  10.8 |        32 |        +0.12 |               |
+|  340 | Meldan Heaslip            |  10.9 |        12 |        +0.54 |               |
 |  341 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  342 | George Bentley            |  10.6 |         4 |              |               |
-|  343 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  344 | Nate Aden                 |  10.4 |        26 |              |               |
-|  345 | Brian Puglise             |  10.4 |         2 |              |               |
-|  346 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  347 | Meldan Heaslip            |  10.3 |        11 |              |               |
+|  342 | Josh Lebowitz             |  10.7 |        33 |        -0.02 |               |
+|  343 | George Bentley            |  10.6 |         4 |              |               |
+|  344 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  345 | Nate Aden                 |  10.4 |        26 |              |               |
+|  346 | Brian Puglise             |  10.4 |         2 |              |               |
+|  347 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  348 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  349 | John Provine              |  10.2 |        16 |              |               |
 |  350 | Anthony Patterson         |  10.2 |         6 |              |               |

@@ -41,9 +41,9 @@ Generated 2017-01-03.
 |   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
 |   38 | Kent Daniels       |  14.6 |        94 |        -0.16 |         -0.31 |
 |   39 | Nikhil Paranjape   |  13.1 |        29 |        +0.08 |         +8.45 |
-|   40 | Josh Lebowitz      |  10.8 |        32 |        +0.12 |               |
-|   41 | Nate Aden          |  10.4 |        26 |              |               |
-|   42 | Meldan Heaslip     |  10.3 |        11 |              |               |
+|   40 | Meldan Heaslip     |  10.9 |        12 |        +0.54 |               |
+|   41 | Josh Lebowitz      |  10.7 |        33 |        -0.02 |               |
+|   42 | Nate Aden          |  10.4 |        26 |              |               |
 |   43 | James Grant        |  10.2 |         3 |              |               |
 |   44 | Reto Sutter        |  10.0 |        50 |              |         -0.58 |
 |   45 | Daniel Schwartz    |   9.8 |        22 |              |               |
