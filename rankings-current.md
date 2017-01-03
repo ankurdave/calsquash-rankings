@@ -1,4 +1,4 @@
-Generated 2016-12-29.
+Generated 2017-01-02.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -11,10 +11,10 @@ Generated 2016-12-29.
 |    7 | Matt Wong          |  23.6 |        79 |              |         +2.45 |
 |    8 | Aditya Guntuboyina |  23.3 |        77 |              |         +0.99 |
 |    9 | Dan Bohn           |  22.9 |        84 |        -0.19 |         -0.83 |
-|   10 | Dan Meier          |  22.8 |        56 |        -0.03 |         +1.10 |
-|   11 | Sam McCormick      |  22.7 |        20 |              |         +2.72 |
-|   12 | Jonathan Hankar    |  22.3 |       190 |              |         +0.31 |
-|   13 | Anibhav Singla     |  22.1 |         7 |        -0.17 |               |
+|   10 | Anibhav Singla     |  22.8 |         8 |        +0.55 |               |
+|   11 | Dan Meier          |  22.8 |        56 |        -0.03 |         +1.10 |
+|   12 | Sam McCormick      |  22.7 |        20 |              |         +2.72 |
+|   13 | Jonathan Hankar    |  22.3 |       190 |              |         +0.31 |
 |   14 | Reid Johnsen       |  22.0 |        40 |              |         +7.52 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
 |   16 | Jeff Gordon        |  21.0 |        43 |        +0.28 |         +3.43 |
@@ -25,12 +25,12 @@ Generated 2016-12-29.
 |   21 | Mike Jensen-Akula  |  20.3 |       220 |        -0.27 |         -1.32 |
 |   22 | Marc Schechter     |  19.8 |         4 |              |               |
 |   23 | Jonathan Francis   |  19.6 |        72 |              |         +0.22 |
-|   24 | Jaime Perez        |  19.6 |        19 |        +0.26 |               |
+|   24 | Jaime Perez        |  19.6 |        19 |        +0.27 |               |
 |   25 | Shaun Lim          |  18.4 |        46 |        +0.18 |         +0.48 |
 |   26 | Natalie Leung      |  18.4 |         1 |              |               |
 |   27 | Eric Borden        |  18.3 |        37 |              |         +3.05 |
 |   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
-|   29 | Dror Matalon       |  18.2 |       356 |              |         +0.18 |
+|   29 | Dror Matalon       |  18.1 |       357 |        -0.06 |         +0.11 |
 |   30 | Troup Howard       |  17.7 |        42 |              |         +0.06 |
 |   31 | Wayne Heiser       |  17.7 |        38 |              |               |
 |   32 | Josh Trauner       |  17.5 |        44 |        -0.19 |               |

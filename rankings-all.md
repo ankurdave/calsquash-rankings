@@ -1,4 +1,4 @@
-Generated 2016-12-29.
+Generated 2017-01-02.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -102,22 +102,22 @@ Generated 2016-12-29.
 |   98 | Matt Wild                 |  23.0 |        25 |              |               |
 |   99 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  100 | Dan Bohn                  |  22.9 |        84 |        -0.19 |         -0.83 |
-|  101 | Dan Meier                 |  22.8 |        56 |        -0.03 |         +1.10 |
-|  102 | Andrew Pritchard          |  22.7 |        16 |              |         +0.40 |
-|  103 | Sam McCormick             |  22.7 |        20 |              |         +2.72 |
-|  104 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  105 | Julian Marshall           |  22.7 |        31 |              |               |
-|  106 | Gautam Tankha             |  22.6 |         7 |              |               |
-|  107 | Dev Millstein             |  22.6 |        92 |              |               |
-|  108 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  109 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  110 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  111 | Jonathan Hankar           |  22.3 |       190 |              |         +0.31 |
-|  112 | Robert Geiger             |  22.2 |         8 |              |               |
-|  113 | Aaron Socha               |  22.2 |        24 |              |               |
-|  114 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  115 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  116 | Anibhav Singla            |  22.1 |         7 |        -0.17 |               |
+|  101 | Anibhav Singla            |  22.8 |         8 |        +0.55 |               |
+|  102 | Dan Meier                 |  22.8 |        56 |        -0.03 |         +1.10 |
+|  103 | Andrew Pritchard          |  22.7 |        16 |              |         +0.40 |
+|  104 | Sam McCormick             |  22.7 |        20 |              |         +2.72 |
+|  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  106 | Julian Marshall           |  22.7 |        31 |              |               |
+|  107 | Gautam Tankha             |  22.6 |         7 |              |               |
+|  108 | Dev Millstein             |  22.6 |        92 |              |               |
+|  109 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  110 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  111 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  112 | Jonathan Hankar           |  22.3 |       190 |              |         +0.31 |
+|  113 | Robert Geiger             |  22.2 |         8 |              |               |
+|  114 | Aaron Socha               |  22.2 |        24 |              |               |
+|  115 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  116 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
 |  119 | Errick Ceppas             |  22.0 |         6 |              |               |
@@ -181,7 +181,7 @@ Generated 2016-12-29.
 |  177 | Andrew Proudfoot          |  19.6 |        26 |              |         +0.06 |
 |  178 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  179 | Jonathan Francis          |  19.6 |        72 |              |         +0.22 |
-|  180 | Jaime Perez               |  19.6 |        19 |        +0.26 |               |
+|  180 | Jaime Perez               |  19.6 |        19 |        +0.27 |               |
 |  181 | Jacob Kersey              |  19.6 |        15 |              |         +3.09 |
 |  182 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  183 | Greg Adams                |  19.3 |        10 |              |               |
@@ -213,8 +213,8 @@ Generated 2016-12-29.
 |  209 | Eric Borden               |  18.3 |        37 |              |         +3.05 |
 |  210 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
 |  211 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  212 | Dror Matalon              |  18.2 |       356 |              |         +0.18 |
-|  213 | Bob Roller                |  18.2 |         6 |              |               |
+|  212 | Bob Roller                |  18.2 |         6 |              |               |
+|  213 | Dror Matalon              |  18.1 |       357 |        -0.06 |         +0.11 |
 |  214 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  215 | James Chung               |  17.9 |         7 |              |               |
 |  216 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
