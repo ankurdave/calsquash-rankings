@@ -1,4 +1,4 @@
-Generated 2017-01-03.
+Generated 2017-01-04.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -94,8 +94,8 @@ Generated 2017-01-03.
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   91 | Matt Wong                 |  23.6 |        79 |              |         +2.45 |
 |   92 | Amy Lee                   |  23.6 |        56 |              |               |
-|   93 | Garvin Heath              |  23.4 |        28 |              |               |
-|   94 | Aditya Guntuboyina        |  23.3 |        77 |              |         +0.99 |
+|   93 | Aditya Guntuboyina        |  23.5 |        78 |        +0.19 |         +1.18 |
+|   94 | Garvin Heath              |  23.4 |        28 |              |               |
 |   95 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   96 | Dan Bohn                  |  23.1 |        83 |              |         -0.65 |
 |   97 | Anubhav Gupta             |  23.0 |         8 |              |               |
@@ -150,12 +150,12 @@ Generated 2017-01-03.
 |  146 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  147 | Jared Bard                |  20.8 |        37 |        +0.34 |         +1.40 |
 |  148 | Robert Isaac              |  20.8 |        17 |              |               |
-|  149 | Jeff Gordon               |  20.8 |        42 |        +0.05 |         +3.20 |
-|  150 | Mark Modera               |  20.8 |       315 |              |         -0.86 |
-|  151 | Jamie Funk                |  20.8 |        30 |              |               |
-|  152 | Matthew Brett             |  20.7 |        20 |              |               |
-|  153 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  154 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  149 | Mark Modera               |  20.8 |       315 |              |         -0.86 |
+|  150 | Jamie Funk                |  20.8 |        30 |              |               |
+|  151 | Matthew Brett             |  20.7 |        20 |              |               |
+|  152 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  153 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  154 | Jeff Gordon               |  20.6 |        43 |        -0.13 |         +3.02 |
 |  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
 |  157 | Leor Lovinger             |  20.5 |         6 |              |               |

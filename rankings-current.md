@@ -1,4 +1,4 @@
-Generated 2017-01-03.
+Generated 2017-01-04.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -9,7 +9,7 @@ Generated 2017-01-03.
 |    5 | Jim Veitch         |  24.8 |       436 |        -0.05 |         -1.40 |
 |    6 | John Kunze         |  24.3 |       310 |              |         -1.00 |
 |    7 | Matt Wong          |  23.6 |        79 |              |         +2.45 |
-|    8 | Aditya Guntuboyina |  23.3 |        77 |              |         +0.99 |
+|    8 | Aditya Guntuboyina |  23.5 |        78 |        +0.19 |         +1.18 |
 |    9 | Dan Bohn           |  23.1 |        83 |              |         -0.65 |
 |   10 | Anibhav Singla     |  22.8 |         8 |        +0.55 |               |
 |   11 | Dan Meier          |  22.8 |        56 |        -0.03 |         +1.10 |
@@ -19,8 +19,8 @@ Generated 2017-01-03.
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
 |   16 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
 |   17 | Robert Isaac       |  20.8 |        17 |              |               |
-|   18 | Jeff Gordon        |  20.8 |        42 |        +0.05 |         +3.20 |
-|   19 | Mark Modera        |  20.8 |       315 |              |         -0.86 |
+|   18 | Mark Modera        |  20.8 |       315 |              |         -0.86 |
+|   19 | Jeff Gordon        |  20.6 |        43 |        -0.13 |         +3.02 |
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
 |   21 | Mike Jensen-Akula  |  20.3 |       220 |        -0.27 |         -1.32 |
 |   22 | Marc Schechter     |  19.8 |         4 |              |               |
