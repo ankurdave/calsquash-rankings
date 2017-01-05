@@ -26,7 +26,7 @@ Generated 2017-01-04.
 |   22 | Marc Schechter     |  19.8 |         4 |              |               |
 |   23 | Jonathan Francis   |  19.6 |        72 |              |         +0.22 |
 |   24 | Jaime Perez        |  19.6 |        19 |        +0.27 |               |
-|   25 | Shaun Lim          |  18.4 |        46 |        +0.18 |         +0.48 |
+|   25 | Shaun Lim          |  18.5 |        47 |        +0.24 |         +0.54 |
 |   26 | Natalie Leung      |  18.4 |         1 |              |               |
 |   27 | Eric Borden        |  18.3 |        37 |              |         +3.05 |
 |   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
@@ -39,11 +39,11 @@ Generated 2017-01-04.
 |   35 | Sahar Sareminaeni  |  15.8 |        13 |        +0.26 |               |
 |   36 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
 |   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
-|   38 | Kent Daniels       |  14.6 |        94 |        -0.16 |         -0.31 |
+|   38 | Kent Daniels       |  14.6 |        94 |        -0.16 |         -0.30 |
 |   39 | Nikhil Paranjape   |  13.1 |        29 |        +0.08 |         +8.45 |
 |   40 | Meldan Heaslip     |  10.9 |        12 |        +0.54 |               |
 |   41 | Josh Lebowitz      |  10.7 |        33 |        -0.02 |               |
-|   42 | Nate Aden          |  10.4 |        26 |              |               |
+|   42 | Nate Aden          |  10.3 |        27 |        -0.09 |               |
 |   43 | James Grant        |  10.2 |         3 |              |               |
 |   44 | Reto Sutter        |  10.0 |        50 |              |         -0.58 |
 |   45 | Daniel Schwartz    |   9.8 |        22 |              |               |

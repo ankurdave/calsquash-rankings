@@ -203,11 +203,11 @@ Generated 2017-01-04.
 |  199 | Allan Sly                 |  18.6 |        29 |              |               |
 |  200 | Jason Facchin             |  18.5 |         3 |              |               |
 |  201 | Yan Liu                   |  18.5 |        10 |              |               |
-|  202 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  203 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  204 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  205 | John Eng                  |  18.4 |        28 |              |               |
-|  206 | Shaun Lim                 |  18.4 |        46 |        +0.18 |         +0.48 |
+|  202 | Shaun Lim                 |  18.5 |        47 |        +0.24 |         +0.54 |
+|  203 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  204 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  205 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  206 | John Eng                  |  18.4 |        28 |              |               |
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
 |  208 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  209 | Eric Borden               |  18.3 |        37 |              |         +3.05 |
@@ -289,7 +289,7 @@ Generated 2017-01-04.
 |  285 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  286 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  287 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  288 | Kent Daniels              |  14.6 |        94 |        -0.16 |         -0.31 |
+|  288 | Kent Daniels              |  14.6 |        94 |        -0.16 |         -0.30 |
 |  289 | Shai Vardi                |  14.5 |         4 |              |               |
 |  290 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  291 | Max Woodworth             |  14.4 |         7 |              |               |
@@ -346,8 +346,8 @@ Generated 2017-01-04.
 |  342 | Josh Lebowitz             |  10.7 |        33 |        -0.02 |               |
 |  343 | George Bentley            |  10.6 |         4 |              |               |
 |  344 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  345 | Nate Aden                 |  10.4 |        26 |              |               |
-|  346 | Brian Puglise             |  10.4 |         2 |              |               |
+|  345 | Brian Puglise             |  10.4 |         2 |              |               |
+|  346 | Nate Aden                 |  10.3 |        27 |        -0.09 |               |
 |  347 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  348 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  349 | John Provine              |  10.2 |        16 |              |               |
