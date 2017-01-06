@@ -1,4 +1,4 @@
-Generated 2017-01-04.
+Generated 2017-01-05.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -9,10 +9,10 @@ Generated 2017-01-04.
 |    5 | Jim Veitch         |  24.8 |       436 |        -0.05 |         -1.40 |
 |    6 | John Kunze         |  24.3 |       310 |              |         -1.00 |
 |    7 | Matt Wong          |  23.6 |        79 |              |         +2.45 |
-|    8 | Aditya Guntuboyina |  23.5 |        78 |        +0.19 |         +1.18 |
+|    8 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |
 |    9 | Dan Bohn           |  23.1 |        83 |              |         -0.65 |
 |   10 | Anibhav Singla     |  22.8 |         8 |        +0.55 |               |
-|   11 | Dan Meier          |  22.8 |        56 |        -0.03 |         +1.10 |
+|   11 | Dan Meier          |  22.7 |        57 |        -0.06 |         +1.06 |
 |   12 | Sam McCormick      |  22.7 |        20 |              |         +2.72 |
 |   13 | Jonathan Hankar    |  22.3 |       190 |              |         +0.31 |
 |   14 | Reid Johnsen       |  22.0 |        40 |              |         +7.52 |
@@ -20,7 +20,7 @@ Generated 2017-01-04.
 |   16 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
 |   17 | Robert Isaac       |  20.8 |        17 |              |               |
 |   18 | Mark Modera        |  20.8 |       315 |              |         -0.86 |
-|   19 | Jeff Gordon        |  20.6 |        43 |        -0.13 |         +3.02 |
+|   19 | Jeff Gordon        |  20.6 |        43 |        -0.12 |         +3.03 |
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
 |   21 | Mike Jensen-Akula  |  20.3 |       220 |        -0.27 |         -1.32 |
 |   22 | Marc Schechter     |  19.8 |         4 |              |               |
