@@ -1,12 +1,12 @@
-Generated 2017-01-05.
+Generated 2017-01-07.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant        |  35.3 |        13 |        +0.11 |               |
-|    2 | Eric Katerman      |  31.8 |        31 |              |               |
+|    2 | Eric Katerman      |  31.9 |        32 |        +0.09 |               |
 |    3 | Sam Sternberg      |  30.1 |       134 |              |         +0.85 |
 |    4 | Frank Kennamer     |  27.3 |       215 |              |         -0.27 |
-|    5 | Jim Veitch         |  24.8 |       436 |        -0.05 |         -1.40 |
+|    5 | Jim Veitch         |  24.7 |       437 |        -0.13 |         -1.49 |
 |    6 | John Kunze         |  24.3 |       310 |              |         -1.00 |
 |    7 | Matt Wong          |  23.6 |        79 |              |         +2.45 |
 |    8 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |

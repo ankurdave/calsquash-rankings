@@ -1,4 +1,4 @@
-Generated 2017-01-05.
+Generated 2017-01-07.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -14,7 +14,7 @@ Generated 2017-01-05.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.31 |
-|   13 | Eric Katerman             |  31.8 |        31 |              |               |
+|   13 | Eric Katerman             |  31.9 |        32 |        +0.09 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
@@ -62,10 +62,10 @@ Generated 2017-01-05.
 |   58 | Ben Seelig                |  25.0 |        69 |              |               |
 |   59 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   60 | Madhav Pai                |  24.9 |         5 |              |               |
-|   61 | Jim Veitch                |  24.8 |       436 |        -0.05 |         -1.40 |
-|   62 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   63 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   64 | Orion Hodson              |  24.8 |        31 |              |               |
+|   61 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   62 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   63 | Orion Hodson              |  24.8 |        31 |              |               |
+|   64 | Jim Veitch                |  24.7 |       437 |        -0.13 |         -1.49 |
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
 |   66 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
