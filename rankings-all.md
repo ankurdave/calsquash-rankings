@@ -148,9 +148,9 @@ Generated 2017-01-08.
 |  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  146 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  147 | Jared Bard                |  20.8 |        37 |        +0.34 |         +1.40 |
-|  148 | Robert Isaac              |  20.8 |        17 |              |               |
-|  149 | Mark Modera               |  20.8 |       315 |              |         -0.86 |
+|  147 | Mark Modera               |  20.8 |       316 |        +0.05 |         -0.81 |
+|  148 | Jared Bard                |  20.8 |        37 |        +0.34 |         +1.40 |
+|  149 | Robert Isaac              |  20.8 |        17 |              |               |
 |  150 | Jamie Funk                |  20.8 |        30 |              |               |
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
 |  152 | Jeff Bird                 |  20.7 |        38 |              |               |
@@ -181,7 +181,7 @@ Generated 2017-01-08.
 |  177 | Andrew Proudfoot          |  19.6 |        26 |              |         +0.06 |
 |  178 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  179 | Jonathan Francis          |  19.6 |        72 |              |         +0.22 |
-|  180 | Jaime Perez               |  19.6 |        19 |        +0.27 |               |
+|  180 | Jaime Perez               |  19.6 |        20 |        +0.29 |               |
 |  181 | Jacob Kersey              |  19.6 |        15 |              |         +3.09 |
 |  182 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  183 | Greg Adams                |  19.3 |        10 |              |               |

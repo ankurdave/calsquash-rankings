@@ -17,15 +17,15 @@ Generated 2017-01-08.
 |   13 | Jonathan Hankar    |  22.3 |       190 |              |         +0.31 |
 |   14 | Reid Johnsen       |  22.0 |        40 |              |         +7.52 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
-|   16 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
-|   17 | Robert Isaac       |  20.8 |        17 |              |               |
-|   18 | Mark Modera        |  20.8 |       315 |              |         -0.86 |
+|   16 | Mark Modera        |  20.8 |       316 |        +0.05 |         -0.81 |
+|   17 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
+|   18 | Robert Isaac       |  20.8 |        17 |              |               |
 |   19 | Jeff Gordon        |  20.6 |        43 |        -0.12 |         +3.03 |
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
 |   21 | Mike Jensen-Akula  |  20.3 |       220 |        -0.27 |         -1.32 |
 |   22 | Marc Schechter     |  19.8 |         4 |              |               |
 |   23 | Jonathan Francis   |  19.6 |        72 |              |         +0.22 |
-|   24 | Jaime Perez        |  19.6 |        19 |        +0.27 |               |
+|   24 | Jaime Perez        |  19.6 |        20 |        +0.29 |               |
 |   25 | Shaun Lim          |  18.5 |        47 |        +0.24 |         +0.54 |
 |   26 | Natalie Leung      |  18.4 |         1 |              |               |
 |   27 | Eric Borden        |  18.3 |        37 |              |         +3.05 |
