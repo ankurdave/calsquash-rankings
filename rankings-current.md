@@ -1,4 +1,4 @@
-Generated 2017-01-07.
+Generated 2017-01-08.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -34,17 +34,17 @@ Generated 2017-01-07.
 |   30 | Troup Howard       |  17.7 |        42 |              |         +0.06 |
 |   31 | Wayne Heiser       |  17.7 |        38 |              |               |
 |   32 | Josh Trauner       |  17.5 |        44 |        -0.19 |               |
-|   33 | David Bratt        |  16.6 |        20 |              |         +0.19 |
-|   34 | Chris Flores       |  16.5 |       307 |        -0.06 |         -1.37 |
-|   35 | Sahar Sareminaeni  |  15.8 |        13 |        +0.26 |               |
-|   36 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
-|   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
-|   38 | Kent Daniels       |  14.6 |        94 |        -0.16 |         -0.30 |
-|   39 | Nikhil Paranjape   |  13.1 |        29 |        +0.08 |         +8.45 |
-|   40 | Meldan Heaslip     |  10.9 |        12 |        +0.54 |               |
-|   41 | Josh Lebowitz      |  10.7 |        33 |        -0.02 |               |
-|   42 | Nate Aden          |  10.3 |        27 |        -0.09 |               |
-|   43 | James Grant        |  10.2 |         3 |              |               |
+|   33 | James Grant        |  16.8 |         4 |        +6.63 |               |
+|   34 | David Bratt        |  16.6 |        20 |              |         +0.19 |
+|   35 | Chris Flores       |  16.5 |       307 |        -0.06 |         -1.37 |
+|   36 | Sahar Sareminaeni  |  15.8 |        13 |        +0.26 |               |
+|   37 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
+|   38 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
+|   39 | Kent Daniels       |  14.6 |        94 |        -0.16 |         -0.30 |
+|   40 | Nikhil Paranjape   |  13.1 |        29 |        +0.08 |         +8.45 |
+|   41 | Meldan Heaslip     |  10.9 |        12 |        +0.54 |               |
+|   42 | Josh Lebowitz      |  10.7 |        33 |        -0.02 |               |
+|   43 | Nate Aden          |  10.3 |        27 |        -0.09 |               |
 |   44 | Reto Sutter        |  10.0 |        50 |              |         -0.58 |
 |   45 | Daniel Schwartz    |   9.8 |        22 |              |               |
 |   46 | Raphael Magarik    |   8.8 |        17 |              |               |
@@ -57,5 +57,6 @@ Generated 2017-01-07.
 |   53 | Jose Lara          |   3.8 |         9 |              |               |
 |   54 | Cristhian Daniel   |   2.1 |        19 |        -0.38 |               |
 |   55 | Craig Hollow       |   2.0 |         4 |              |               |
-|   56 | Sergey Dobrinov    |  -0.8 |         1 |              |               |
-|   57 | Duncan MacRae      |  -4.2 |         8 |        +2.05 |               |
+|   56 | Janeau Janssen     |   0.8 |         1 |              |               |
+|   57 | Sergey Dobrinov    |  -0.8 |         1 |              |               |
+|   58 | Duncan MacRae      |  -4.2 |         8 |        +2.05 |               |
