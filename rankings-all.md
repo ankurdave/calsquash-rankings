@@ -1,4 +1,4 @@
-Generated 2017-01-08.
+Generated 2017-01-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -65,10 +65,10 @@ Generated 2017-01-08.
 |   61 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   62 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   63 | Orion Hodson              |  24.8 |        31 |              |               |
-|   64 | Jim Veitch                |  24.7 |       437 |        -0.13 |         -1.49 |
-|   65 | Martin Stokes             |  24.7 |        12 |              |               |
-|   66 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   64 | Martin Stokes             |  24.7 |        12 |              |               |
+|   65 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   66 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   67 | Jim Veitch                |  24.5 |       438 |        -0.35 |         -1.71 |
 |   68 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   69 | Adam Pollak               |  24.5 |        31 |              |               |
 |   70 | Jon Shih                  |  24.4 |        47 |              |               |
@@ -96,16 +96,16 @@ Generated 2017-01-08.
 |   92 | Amy Lee                   |  23.6 |        56 |              |               |
 |   93 | Aditya Guntuboyina        |  23.5 |        79 |        +0.23 |         +1.22 |
 |   94 | Garvin Heath              |  23.4 |        28 |              |               |
-|   95 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   96 | Dan Bohn                  |  23.1 |        83 |              |         -0.65 |
-|   97 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|   98 | Joe Farrell               |  23.0 |        30 |              |               |
-|   99 | Matt Wild                 |  23.0 |        25 |              |               |
-|  100 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  101 | Anibhav Singla            |  22.8 |         8 |        +0.55 |               |
-|  102 | Andrew Pritchard          |  22.7 |        16 |              |         +0.40 |
-|  103 | Dan Meier                 |  22.7 |        57 |        -0.06 |         +1.06 |
-|  104 | Sam McCormick             |  22.7 |        20 |              |         +2.72 |
+|   95 | Sam McCormick             |  23.2 |        21 |        +0.47 |         +3.20 |
+|   96 | Daniel Greengard          |  23.1 |        37 |              |               |
+|   97 | Dan Bohn                  |  23.1 |        83 |              |         -0.65 |
+|   98 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|   99 | Joe Farrell               |  23.0 |        30 |              |               |
+|  100 | Matt Wild                 |  23.0 |        25 |              |               |
+|  101 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  102 | Anibhav Singla            |  22.8 |         8 |        +0.55 |               |
+|  103 | Andrew Pritchard          |  22.7 |        16 |              |         +0.40 |
+|  104 | Dan Meier                 |  22.7 |        57 |        -0.06 |         +1.06 |
 |  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  106 | Julian Marshall           |  22.7 |        31 |              |               |
 |  107 | Gautam Tankha             |  22.6 |         7 |              |               |

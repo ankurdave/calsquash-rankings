@@ -1,4 +1,4 @@
-Generated 2017-01-08.
+Generated 2017-01-09.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -6,14 +6,14 @@ Generated 2017-01-08.
 |    2 | Eric Katerman      |  31.9 |        32 |        +0.09 |               |
 |    3 | Sam Sternberg      |  30.1 |       134 |              |         +0.85 |
 |    4 | Frank Kennamer     |  27.3 |       215 |              |         -0.27 |
-|    5 | Jim Veitch         |  24.7 |       437 |        -0.13 |         -1.49 |
+|    5 | Jim Veitch         |  24.5 |       438 |        -0.35 |         -1.71 |
 |    6 | John Kunze         |  24.3 |       310 |              |         -1.00 |
 |    7 | Matt Wong          |  23.6 |        79 |              |         +2.45 |
 |    8 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |
-|    9 | Dan Bohn           |  23.1 |        83 |              |         -0.65 |
-|   10 | Anibhav Singla     |  22.8 |         8 |        +0.55 |               |
-|   11 | Dan Meier          |  22.7 |        57 |        -0.06 |         +1.06 |
-|   12 | Sam McCormick      |  22.7 |        20 |              |         +2.72 |
+|    9 | Sam McCormick      |  23.2 |        21 |        +0.47 |         +3.20 |
+|   10 | Dan Bohn           |  23.1 |        83 |              |         -0.65 |
+|   11 | Anibhav Singla     |  22.8 |         8 |        +0.55 |               |
+|   12 | Dan Meier          |  22.7 |        57 |        -0.06 |         +1.06 |
 |   13 | Jonathan Hankar    |  22.3 |       190 |              |         +0.31 |
 |   14 | Reid Johnsen       |  22.0 |        40 |              |         +7.52 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
