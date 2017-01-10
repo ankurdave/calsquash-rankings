@@ -1,8 +1,8 @@
-Generated 2017-01-09.
+Generated 2017-01-10.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  35.3 |        13 |        +0.11 |               |
+|    1 | Colin Grant               |  35.9 |        14 |        +0.77 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |               |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -14,7 +14,7 @@ Generated 2017-01-09.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.31 |
-|   13 | Eric Katerman             |  31.9 |        32 |        +0.09 |               |
+|   13 | Eric Katerman             |  31.8 |        33 |        -0.04 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
