@@ -194,16 +194,16 @@ Generated 2017-01-10.
 |  190 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  191 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  192 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  193 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  194 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  195 | Peter Dering              |  18.7 |         9 |              |               |
-|  196 | Sushant Jain              |  18.7 |        12 |              |               |
-|  197 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  198 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  199 | Allan Sly                 |  18.6 |        29 |              |               |
-|  200 | Jason Facchin             |  18.5 |         3 |              |               |
-|  201 | Yan Liu                   |  18.5 |        10 |              |               |
-|  202 | Shaun Lim                 |  18.5 |        47 |        +0.24 |         +0.54 |
+|  193 | Shaun Lim                 |  18.8 |        48 |        +0.52 |         +0.82 |
+|  194 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  195 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  196 | Peter Dering              |  18.7 |         9 |              |               |
+|  197 | Sushant Jain              |  18.7 |        12 |              |               |
+|  198 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  199 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  200 | Allan Sly                 |  18.6 |        29 |              |               |
+|  201 | Jason Facchin             |  18.5 |         3 |              |               |
+|  202 | Yan Liu                   |  18.5 |        10 |              |               |
 |  203 | Akshay Dugar              |  18.5 |         6 |              |               |
 |  204 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
 |  205 | Javed Ahmed               |  18.5 |        58 |              |               |
@@ -263,18 +263,18 @@ Generated 2017-01-10.
 |  259 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  260 | Terry Chang               |  15.8 |        48 |              |         +2.14 |
 |  261 | Louis Russell             |  15.8 |        20 |              |               |
-|  262 | Sahar Sareminaeni         |  15.8 |        13 |        +0.26 |               |
-|  263 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  264 | Ankur Dave                |  15.8 |        58 |        +0.22 |         +7.65 |
-|  265 | Jared Nunn                |  15.7 |         5 |              |               |
-|  266 | Akash Sharma              |  15.7 |         8 |              |               |
-|  267 | Angie Ng                  |  15.7 |        12 |              |               |
-|  268 | Tanit Follett             |  15.5 |         8 |              |               |
-|  269 | Toni Queck                |  15.5 |        20 |              |               |
-|  270 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  271 | Peter Duerr               |  15.4 |        24 |              |               |
-|  272 | Kevin Fox                 |  15.3 |         7 |              |               |
-|  273 | Diego Butrich             |  15.2 |         8 |        +0.59 |               |
+|  262 | Rich Shapiro              |  15.8 |        82 |              |               |
+|  263 | Ankur Dave                |  15.8 |        58 |        +0.22 |         +7.65 |
+|  264 | Jared Nunn                |  15.7 |         5 |              |               |
+|  265 | Akash Sharma              |  15.7 |         8 |              |               |
+|  266 | Angie Ng                  |  15.7 |        12 |              |               |
+|  267 | Tanit Follett             |  15.5 |         8 |              |               |
+|  268 | Toni Queck                |  15.5 |        20 |              |               |
+|  269 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  270 | Peter Duerr               |  15.4 |        24 |              |               |
+|  271 | Kevin Fox                 |  15.3 |         7 |              |               |
+|  272 | Diego Butrich             |  15.2 |         8 |        +0.59 |               |
+|  273 | Sahar Sareminaeni         |  15.2 |        14 |        -0.35 |               |
 |  274 | Jim Evans                 |  15.1 |       216 |              |               |
 |  275 | Dennis Chan               |  15.1 |         1 |              |               |
 |  276 | Allie Giovanelli          |  15.0 |         4 |              |               |
@@ -290,7 +290,7 @@ Generated 2017-01-10.
 |  286 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  287 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  288 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  289 | Kent Daniels              |  14.6 |        94 |        -0.16 |         -0.30 |
+|  289 | Kent Daniels              |  14.6 |        94 |        -0.15 |         -0.30 |
 |  290 | Shai Vardi                |  14.5 |         4 |              |               |
 |  291 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  292 | Max Woodworth             |  14.4 |         7 |              |               |

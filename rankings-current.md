@@ -26,7 +26,7 @@ Generated 2017-01-10.
 |   22 | Marc Schechter     |  19.8 |         4 |              |               |
 |   23 | Jonathan Francis   |  19.6 |        72 |              |         +0.22 |
 |   24 | Jaime Perez        |  19.6 |        20 |        +0.29 |               |
-|   25 | Shaun Lim          |  18.5 |        47 |        +0.24 |         +0.54 |
+|   25 | Shaun Lim          |  18.8 |        48 |        +0.52 |         +0.82 |
 |   26 | Natalie Leung      |  18.4 |         1 |              |               |
 |   27 | Eric Borden        |  18.3 |        37 |              |         +3.05 |
 |   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
@@ -37,10 +37,10 @@ Generated 2017-01-10.
 |   33 | James Grant        |  16.8 |         4 |        +6.63 |               |
 |   34 | David Bratt        |  16.6 |        20 |              |         +0.19 |
 |   35 | Chris Flores       |  16.5 |       307 |        -0.06 |         -1.37 |
-|   36 | Sahar Sareminaeni  |  15.8 |        13 |        +0.26 |               |
-|   37 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
-|   38 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
-|   39 | Kent Daniels       |  14.6 |        94 |        -0.16 |         -0.30 |
+|   36 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
+|   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
+|   38 | Sahar Sareminaeni  |  15.2 |        14 |        -0.35 |               |
+|   39 | Kent Daniels       |  14.6 |        94 |        -0.15 |         -0.30 |
 |   40 | Nikhil Paranjape   |  13.1 |        29 |        +0.08 |         +8.45 |
 |   41 | Meldan Heaslip     |  10.9 |        12 |        +0.54 |               |
 |   42 | Josh Lebowitz      |  10.7 |        33 |        -0.02 |               |
