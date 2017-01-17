@@ -1,4 +1,4 @@
-Generated 2017-01-16.
+Generated 2017-01-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -32,7 +32,7 @@ Generated 2017-01-16.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Frank Kennamer            |  27.3 |       216 |        +0.04 |         -0.22 |
+|   31 | Frank Kennamer            |  27.4 |       217 |        +0.15 |         -0.12 |
 |   32 | Stephen Dang              |  27.2 |        34 |              |               |
 |   33 | Samer Shehata             |  27.2 |        29 |              |               |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
@@ -122,11 +122,11 @@ Generated 2017-01-16.
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
 |  119 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  120 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  121 | Reid Johnsen              |  22.0 |        40 |              |         +7.52 |
-|  122 | Blake Woodard             |  22.0 |        10 |              |               |
-|  123 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  124 | Andrew Lawrie             |  22.0 |        46 |              |         +0.16 |
-|  125 | Jan Beranek               |  21.9 |        46 |              |               |
+|  121 | Blake Woodard             |  22.0 |        10 |              |               |
+|  122 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  123 | Andrew Lawrie             |  22.0 |        46 |              |         +0.16 |
+|  124 | Jan Beranek               |  21.9 |        46 |              |               |
+|  125 | Reid Johnsen              |  21.9 |        41 |        -0.13 |         +7.40 |
 |  126 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
