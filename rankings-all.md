@@ -216,7 +216,7 @@ Generated 2017-01-17.
 |  212 | Bob Roller                |  18.2 |         6 |              |               |
 |  213 | Dror Matalon              |  18.1 |       358 |        -0.11 |         +0.06 |
 |  214 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  215 | Troup Howard              |  18.0 |        43 |        +0.27 |         +0.34 |
+|  215 | Troup Howard              |  18.1 |        44 |        +0.34 |         +0.41 |
 |  216 | James Chung               |  17.9 |         7 |              |               |
 |  217 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
 |  218 | Nick Paget                |  17.8 |        35 |              |               |
@@ -239,7 +239,7 @@ Generated 2017-01-17.
 |  235 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  236 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  237 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  238 | Josh Trauner              |  17.1 |        46 |        -0.58 |               |
+|  238 | Josh Trauner              |  17.1 |        46 |        -0.57 |               |
 |  239 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  240 | Neil Conway               |  17.0 |        55 |              |               |
 |  241 | Michael Cianfrocco        |  17.0 |        18 |              |               |
@@ -422,10 +422,10 @@ Generated 2017-01-17.
 |  418 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  419 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  420 | Manu Vaish                |   5.5 |         1 |              |               |
-|  421 | Craig Hollow              |   5.4 |         5 |        +3.40 |               |
-|  422 | Emily Moylan              |   5.2 |        17 |              |               |
-|  423 | Mohammad Salama           |   5.2 |         5 |              |               |
-|  424 | Catherine Wang            |   5.2 |        10 |              |               |
+|  421 | Emily Moylan              |   5.2 |        17 |              |               |
+|  422 | Mohammad Salama           |   5.2 |         5 |              |               |
+|  423 | Catherine Wang            |   5.2 |        10 |              |               |
+|  424 | Craig Hollow              |   5.2 |         6 |        +3.17 |               |
 |  425 | Ali Umar                  |   5.2 |        13 |              |               |
 |  426 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  427 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.49 |
