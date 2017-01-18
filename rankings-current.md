@@ -1,4 +1,4 @@
-Generated 2017-01-17.
+Generated 2017-01-18.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -31,10 +31,10 @@ Generated 2017-01-17.
 |   27 | Eric Borden        |  18.3 |        38 |        +0.08 |         +3.13 |
 |   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
 |   29 | Dror Matalon       |  18.1 |       358 |        -0.11 |         +0.06 |
-|   30 | Troup Howard       |  18.1 |        44 |        +0.34 |         +0.41 |
-|   31 | Wayne Heiser       |  17.7 |        38 |              |               |
+|   30 | Troup Howard       |  18.0 |        44 |        +0.33 |         +0.39 |
+|   31 | Wayne Heiser       |  17.8 |        39 |        +0.05 |               |
 |   32 | David Bratt        |  17.3 |        22 |        +0.71 |         +0.90 |
-|   33 | Josh Trauner       |  17.1 |        46 |        -0.57 |               |
+|   33 | Josh Trauner       |  17.1 |        46 |        -0.60 |               |
 |   34 | Chris Flores       |  16.3 |       308 |        -0.28 |         -1.59 |
 |   35 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
 |   36 | Sahar Sareminaeni  |  15.6 |        15 |        +0.09 |               |
@@ -52,7 +52,7 @@ Generated 2017-01-17.
 |   48 | Brian Kempenich    |   8.2 |        42 |        -0.35 |         -0.99 |
 |   49 | Keaton Noon        |   7.2 |        23 |              |         +3.66 |
 |   50 | Alok Singh         |   6.5 |        18 |        +0.62 |               |
-|   51 | Craig Hollow       |   5.2 |         6 |        +3.17 |               |
+|   51 | Craig Hollow       |   4.9 |         7 |        +2.90 |               |
 |   52 | Zsolt Bartha       |   4.4 |        47 |              |         +2.51 |
 |   53 | Anuj Dawar         |   4.2 |        15 |        +1.38 |               |
 |   54 | Jose Lara          |   3.8 |         9 |              |               |

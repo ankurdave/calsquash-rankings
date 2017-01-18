@@ -1,4 +1,4 @@
-Generated 2017-01-17.
+Generated 2017-01-18.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -216,13 +216,13 @@ Generated 2017-01-17.
 |  212 | Bob Roller                |  18.2 |         6 |              |               |
 |  213 | Dror Matalon              |  18.1 |       358 |        -0.11 |         +0.06 |
 |  214 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  215 | Troup Howard              |  18.1 |        44 |        +0.34 |         +0.41 |
+|  215 | Troup Howard              |  18.0 |        44 |        +0.33 |         +0.39 |
 |  216 | James Chung               |  17.9 |         7 |              |               |
 |  217 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
 |  218 | Nick Paget                |  17.8 |        35 |              |               |
 |  219 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  220 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  221 | Wayne Heiser              |  17.7 |        38 |              |               |
+|  221 | Wayne Heiser              |  17.8 |        39 |        +0.05 |               |
 |  222 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  223 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  224 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
@@ -239,8 +239,8 @@ Generated 2017-01-17.
 |  235 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  236 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  237 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  238 | Josh Trauner              |  17.1 |        46 |        -0.57 |               |
-|  239 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  238 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  239 | Josh Trauner              |  17.1 |        46 |        -0.60 |               |
 |  240 | Neil Conway               |  17.0 |        55 |              |               |
 |  241 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  242 | Baxter Leman              |  16.9 |         6 |              |               |
@@ -425,10 +425,10 @@ Generated 2017-01-17.
 |  421 | Emily Moylan              |   5.2 |        17 |              |               |
 |  422 | Mohammad Salama           |   5.2 |         5 |              |               |
 |  423 | Catherine Wang            |   5.2 |        10 |              |               |
-|  424 | Craig Hollow              |   5.2 |         6 |        +3.17 |               |
-|  425 | Ali Umar                  |   5.2 |        13 |              |               |
-|  426 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  427 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.49 |
+|  424 | Ali Umar                  |   5.2 |        13 |              |               |
+|  425 | Martin Rasmussen          |   5.2 |         6 |              |               |
+|  426 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.49 |
+|  427 | Craig Hollow              |   4.9 |         7 |        +2.90 |               |
 |  428 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  429 | Zsolt Bartha              |   4.4 |        47 |              |         +2.51 |
 |  430 | Sameer Bajaj              |   4.3 |         4 |              |               |
