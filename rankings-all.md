@@ -231,14 +231,14 @@ Generated 2017-01-17.
 |  227 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  228 | Craig Riddell             |  17.4 |         8 |              |               |
 |  229 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  230 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  231 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  232 | Zach Brown                |  17.3 |         3 |              |               |
-|  233 | William Seles             |  17.2 |        15 |              |               |
-|  234 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  235 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  236 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  237 | David Bratt               |  17.1 |        21 |        +0.50 |         +0.69 |
+|  230 | David Bratt               |  17.3 |        22 |        +0.71 |         +0.90 |
+|  231 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  232 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  233 | Zach Brown                |  17.3 |         3 |              |               |
+|  234 | William Seles             |  17.2 |        15 |              |               |
+|  235 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  236 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  237 | Lucas Cheon               |  17.2 |        19 |              |               |
 |  238 | Josh Trauner              |  17.1 |        46 |        -0.58 |               |
 |  239 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  240 | Neil Conway               |  17.0 |        55 |              |               |
@@ -255,7 +255,7 @@ Generated 2017-01-17.
 |  251 | Paul Chang                |  16.3 |         7 |              |               |
 |  252 | Steven Hahm               |  16.3 |         5 |              |               |
 |  253 | Jules Bowie               |  16.3 |        12 |              |               |
-|  254 | Chris Flores              |  16.3 |       308 |        -0.29 |         -1.60 |
+|  254 | Chris Flores              |  16.3 |       308 |        -0.28 |         -1.59 |
 |  255 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  256 | Jan Strasky               |  16.2 |        12 |              |               |
 |  257 | Sarah Mcneil              |  16.2 |        24 |              |               |
@@ -342,9 +342,9 @@ Generated 2017-01-17.
 |  338 | Karan Jain                |  11.3 |        19 |              |               |
 |  339 | Lucas Siow                |  11.0 |        10 |              |               |
 |  340 | Dominick Ng               |  10.9 |        25 |              |               |
-|  341 | Meldan Heaslip            |  10.9 |        12 |        +0.53 |               |
-|  342 | Rodrigo Calmet            |  10.8 |         5 |              |               |
-|  343 | Josh Lebowitz             |  10.7 |        33 |        -0.01 |               |
+|  341 | Rodrigo Calmet            |  10.8 |         5 |              |               |
+|  342 | Meldan Heaslip            |  10.7 |        13 |        +0.35 |               |
+|  343 | Josh Lebowitz             |  10.7 |        33 |        -0.03 |               |
 |  344 | George Bentley            |  10.6 |         4 |              |               |
 |  345 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  346 | Brian Puglise             |  10.4 |         2 |              |               |

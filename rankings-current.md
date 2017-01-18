@@ -33,17 +33,17 @@ Generated 2017-01-17.
 |   29 | Dror Matalon       |  18.1 |       358 |        -0.11 |         +0.06 |
 |   30 | Troup Howard       |  18.0 |        43 |        +0.27 |         +0.34 |
 |   31 | Wayne Heiser       |  17.7 |        38 |              |               |
-|   32 | David Bratt        |  17.1 |        21 |        +0.50 |         +0.69 |
+|   32 | David Bratt        |  17.3 |        22 |        +0.71 |         +0.90 |
 |   33 | Josh Trauner       |  17.1 |        46 |        -0.58 |               |
-|   34 | Chris Flores       |  16.3 |       308 |        -0.29 |         -1.60 |
+|   34 | Chris Flores       |  16.3 |       308 |        -0.28 |         -1.59 |
 |   35 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
 |   36 | Sahar Sareminaeni  |  15.6 |        15 |        +0.09 |               |
 |   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
 |   38 | Kent Daniels       |  14.6 |        95 |        -0.16 |         -0.31 |
 |   39 | James Grant        |  14.1 |         5 |        +3.87 |               |
 |   40 | Nikhil Paranjape   |  13.3 |        30 |        +0.18 |         +8.55 |
-|   41 | Meldan Heaslip     |  10.9 |        12 |        +0.53 |               |
-|   42 | Josh Lebowitz      |  10.7 |        33 |        -0.01 |               |
+|   41 | Meldan Heaslip     |  10.7 |        13 |        +0.35 |               |
+|   42 | Josh Lebowitz      |  10.7 |        33 |        -0.03 |               |
 |   43 | Nate Aden          |  10.3 |        28 |        -0.11 |               |
 |   44 | Reto Sutter        |  10.0 |        51 |        -0.05 |         -0.62 |
 |   45 | Daniel Schwartz    |   9.8 |        22 |              |               |
