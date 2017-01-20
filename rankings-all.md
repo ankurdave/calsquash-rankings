@@ -103,9 +103,9 @@ Generated 2017-01-20.
 |   99 | Joe Farrell               |  23.0 |        30 |              |               |
 |  100 | Matt Wild                 |  23.0 |        25 |              |               |
 |  101 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  102 | Anibhav Singla            |  22.8 |         8 |        +0.55 |               |
-|  103 | Andrew Pritchard          |  22.7 |        16 |              |         +0.40 |
-|  104 | Dan Meier                 |  22.7 |        57 |        -0.06 |         +1.06 |
+|  102 | Andrew Pritchard          |  22.7 |        16 |              |         +0.40 |
+|  103 | Dan Meier                 |  22.7 |        57 |        -0.06 |         +1.06 |
+|  104 | Anibhav Singla            |  22.7 |         8 |        +0.42 |               |
 |  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  106 | Julian Marshall           |  22.7 |        31 |              |               |
 |  107 | Gautam Tankha             |  22.6 |         7 |              |               |
@@ -148,8 +148,8 @@ Generated 2017-01-20.
 |  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  146 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  147 | Mark Modera               |  20.8 |       318 |        +0.04 |         -0.81 |
-|  148 | Jared Bard                |  20.8 |        37 |        +0.34 |         +1.40 |
+|  147 | Jared Bard                |  20.8 |        37 |        +0.34 |         +1.40 |
+|  148 | Mark Modera               |  20.8 |       318 |        +0.03 |         -0.83 |
 |  149 | Robert Isaac              |  20.8 |        17 |              |               |
 |  150 | Jamie Funk                |  20.8 |        30 |              |               |
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
@@ -181,11 +181,11 @@ Generated 2017-01-20.
 |  177 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  178 | Andrew Proudfoot          |  19.6 |        26 |              |         +0.06 |
 |  179 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  180 | Jaime Perez               |  19.6 |        20 |        +0.29 |               |
-|  181 | Jacob Kersey              |  19.6 |        15 |              |         +3.09 |
-|  182 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  183 | Greg Adams                |  19.3 |        10 |              |               |
-|  184 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  180 | Jacob Kersey              |  19.6 |        15 |              |         +3.09 |
+|  181 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  182 | Greg Adams                |  19.3 |        10 |              |               |
+|  183 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  184 | Jaime Perez               |  19.2 |        21 |        -0.14 |               |
 |  185 | John Corcoran             |  19.1 |        49 |              |               |
 |  186 | Kedar Shah                |  19.1 |         9 |              |               |
 |  187 | Narayan Sankaran          |  19.1 |        24 |              |               |
@@ -209,12 +209,12 @@ Generated 2017-01-20.
 |  205 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  206 | John Eng                  |  18.4 |        28 |              |               |
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
-|  208 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  209 | Eric Borden               |  18.3 |        38 |        +0.08 |         +3.13 |
-|  210 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
-|  211 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  212 | Bob Roller                |  18.2 |         6 |              |               |
-|  213 | Dror Matalon              |  18.1 |       358 |        -0.11 |         +0.06 |
+|  208 | Dror Matalon              |  18.4 |       359 |        +0.19 |         +0.37 |
+|  209 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  210 | Eric Borden               |  18.3 |        38 |        +0.08 |         +3.13 |
+|  211 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
+|  212 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  213 | Bob Roller                |  18.2 |         6 |              |               |
 |  214 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  215 | Troup Howard              |  18.0 |        44 |        +0.33 |         +0.39 |
 |  216 | James Chung               |  17.9 |         7 |              |               |

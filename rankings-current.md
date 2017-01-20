@@ -12,25 +12,25 @@ Generated 2017-01-20.
 |    8 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |
 |    9 | Sam McCormick      |  23.1 |        22 |        +0.44 |         +3.16 |
 |   10 | Dan Bohn           |  23.1 |        83 |              |         -0.65 |
-|   11 | Anibhav Singla     |  22.8 |         8 |        +0.55 |               |
-|   12 | Dan Meier          |  22.7 |        57 |        -0.06 |         +1.06 |
+|   11 | Dan Meier          |  22.7 |        57 |        -0.06 |         +1.06 |
+|   12 | Anibhav Singla     |  22.7 |         8 |        +0.42 |               |
 |   13 | Jonathan Hankar    |  22.3 |       190 |              |         +0.31 |
 |   14 | Reid Johnsen       |  21.9 |        41 |        -0.13 |         +7.40 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
-|   16 | Mark Modera        |  20.8 |       318 |        +0.04 |         -0.81 |
-|   17 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
+|   16 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
+|   17 | Mark Modera        |  20.8 |       318 |        +0.03 |         -0.83 |
 |   18 | Robert Isaac       |  20.8 |        17 |              |               |
 |   19 | Jeff Gordon        |  20.6 |        43 |        -0.12 |         +3.03 |
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
 |   21 | Mike Jensen-Akula  |  20.0 |       221 |        -0.58 |         -1.62 |
 |   22 | Jonathan Francis   |  19.9 |        73 |        +0.28 |         +0.51 |
 |   23 | Marc Schechter     |  19.8 |         4 |              |               |
-|   24 | Jaime Perez        |  19.6 |        20 |        +0.29 |               |
+|   24 | Jaime Perez        |  19.2 |        21 |        -0.14 |               |
 |   25 | Shaun Lim          |  18.8 |        49 |        +0.49 |         +0.79 |
 |   26 | Natalie Leung      |  18.4 |         1 |              |               |
-|   27 | Eric Borden        |  18.3 |        38 |        +0.08 |         +3.13 |
-|   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
-|   29 | Dror Matalon       |  18.1 |       358 |        -0.11 |         +0.06 |
+|   27 | Dror Matalon       |  18.4 |       359 |        +0.19 |         +0.37 |
+|   28 | Eric Borden        |  18.3 |        38 |        +0.08 |         +3.13 |
+|   29 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
 |   30 | Troup Howard       |  18.0 |        44 |        +0.33 |         +0.39 |
 |   31 | Wayne Heiser       |  17.8 |        39 |        +0.05 |               |
 |   32 | David Bratt        |  17.3 |        22 |        +0.71 |         +0.90 |
