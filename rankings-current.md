@@ -1,4 +1,4 @@
-Generated 2017-01-19.
+Generated 2017-01-20.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -26,7 +26,7 @@ Generated 2017-01-19.
 |   22 | Jonathan Francis   |  19.9 |        73 |        +0.28 |         +0.51 |
 |   23 | Marc Schechter     |  19.8 |         4 |              |               |
 |   24 | Jaime Perez        |  19.6 |        20 |        +0.29 |               |
-|   25 | Shaun Lim          |  18.8 |        48 |        +0.52 |         +0.83 |
+|   25 | Shaun Lim          |  18.8 |        49 |        +0.49 |         +0.79 |
 |   26 | Natalie Leung      |  18.4 |         1 |              |               |
 |   27 | Eric Borden        |  18.3 |        38 |        +0.08 |         +3.13 |
 |   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
@@ -41,7 +41,7 @@ Generated 2017-01-19.
 |   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
 |   38 | Kent Daniels       |  14.6 |        95 |        -0.16 |         -0.31 |
 |   39 | James Grant        |  14.4 |         5 |        +4.21 |               |
-|   40 | Nikhil Paranjape   |  13.3 |        30 |        +0.18 |         +8.55 |
+|   40 | Nikhil Paranjape   |  13.3 |        31 |        +0.26 |         +8.63 |
 |   41 | Meldan Heaslip     |  10.7 |        13 |        +0.35 |               |
 |   42 | Josh Lebowitz      |  10.7 |        33 |        -0.03 |               |
 |   43 | Nate Aden          |  10.3 |        28 |        -0.11 |               |

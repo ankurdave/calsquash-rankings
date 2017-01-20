@@ -1,4 +1,4 @@
-Generated 2017-01-19.
+Generated 2017-01-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -194,8 +194,8 @@ Generated 2017-01-19.
 |  190 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  191 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  192 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  193 | Shaun Lim                 |  18.8 |        48 |        +0.52 |         +0.83 |
-|  194 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  193 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  194 | Shaun Lim                 |  18.8 |        49 |        +0.49 |         +0.79 |
 |  195 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  196 | Peter Dering              |  18.7 |         9 |              |               |
 |  197 | Sushant Jain              |  18.7 |        12 |              |               |
@@ -311,8 +311,8 @@ Generated 2017-01-19.
 |  307 | Alex Rennet               |  13.5 |         2 |              |               |
 |  308 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  309 | Jake Toy                  |  13.4 |         5 |              |               |
-|  310 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  311 | Nikhil Paranjape          |  13.3 |        30 |        +0.18 |         +8.55 |
+|  310 | Nikhil Paranjape          |  13.3 |        31 |        +0.26 |         +8.63 |
+|  311 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  312 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  313 | Field Maloney             |  13.1 |        24 |              |               |
 |  314 | Saumil Chheda             |  13.0 |         1 |              |               |
