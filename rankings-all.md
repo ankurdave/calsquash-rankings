@@ -216,13 +216,13 @@ Generated 2017-01-21.
 |  212 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  213 | Bob Roller                |  18.2 |         6 |              |               |
 |  214 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  215 | Troup Howard              |  18.0 |        44 |        +0.33 |         +0.39 |
+|  215 | Troup Howard              |  18.1 |        44 |        +0.33 |         +0.40 |
 |  216 | James Chung               |  17.9 |         7 |              |               |
 |  217 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
 |  218 | Nick Paget                |  17.8 |        35 |              |               |
 |  219 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  220 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  221 | Wayne Heiser              |  17.8 |        39 |        +0.05 |               |
+|  221 | Wayne Heiser              |  17.7 |        40 |              |               |
 |  222 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  223 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  224 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
@@ -239,8 +239,8 @@ Generated 2017-01-21.
 |  235 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  236 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  237 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  238 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  239 | Josh Trauner              |  17.1 |        46 |        -0.60 |               |
+|  238 | Josh Trauner              |  17.2 |        47 |        -0.51 |               |
+|  239 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  240 | Neil Conway               |  17.0 |        55 |              |               |
 |  241 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  242 | Baxter Leman              |  16.9 |         6 |              |               |
@@ -262,8 +262,8 @@ Generated 2017-01-21.
 |  258 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  259 | Terry Chang               |  15.8 |        48 |              |         +2.14 |
 |  260 | Louis Russell             |  15.8 |        20 |              |               |
-|  261 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  262 | Ankur Dave                |  15.8 |        58 |        +0.22 |         +7.65 |
+|  261 | Ankur Dave                |  15.8 |        58 |        +0.22 |         +7.65 |
+|  262 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  263 | Jared Nunn                |  15.7 |         5 |              |               |
 |  264 | Akash Sharma              |  15.7 |         8 |              |               |
 |  265 | Angie Ng                  |  15.7 |        12 |              |               |
@@ -428,7 +428,7 @@ Generated 2017-01-21.
 |  424 | Ali Umar                  |   5.2 |        13 |              |               |
 |  425 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  426 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.49 |
-|  427 | Craig Hollow              |   4.9 |         7 |        +2.90 |               |
+|  427 | Craig Hollow              |   4.9 |         7 |        +2.91 |               |
 |  428 | Janeau Janssen            |   4.9 |         3 |              |               |
 |  429 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  430 | Zsolt Bartha              |   4.4 |        47 |              |         +2.51 |
