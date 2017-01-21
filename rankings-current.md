@@ -1,17 +1,17 @@
-Generated 2017-01-20.
+Generated 2017-01-21.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant        |  36.0 |        15 |        +0.81 |               |
-|    2 | Eric Katerman      |  31.8 |        34 |        -0.06 |               |
-|    3 | Sam Sternberg      |  29.9 |       136 |        -0.15 |         +0.70 |
+|    1 | Colin Grant        |  36.0 |        15 |        +0.82 |               |
+|    2 | Eric Katerman      |  31.7 |        34 |        -0.08 |               |
+|    3 | Sam Sternberg      |  29.7 |       137 |        -0.39 |         +0.46 |
 |    4 | Frank Kennamer     |  27.4 |       217 |        +0.15 |         -0.12 |
-|    5 | Jim Veitch         |  24.7 |       439 |        -0.12 |         -1.48 |
+|    5 | Jim Veitch         |  24.7 |       439 |        -0.14 |         -1.49 |
 |    6 | John Kunze         |  24.3 |       312 |        +0.02 |         -0.98 |
-|    7 | Matt Wong          |  23.6 |        80 |        -0.02 |         +2.43 |
-|    8 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |
-|    9 | Dan Bohn           |  23.3 |        84 |        +0.17 |         -0.47 |
-|   10 | Sam McCormick      |  23.1 |        22 |        +0.44 |         +3.16 |
+|    7 | Sam McCormick      |  23.6 |        23 |        +0.92 |         +3.64 |
+|    8 | Matt Wong          |  23.6 |        80 |        -0.02 |         +2.43 |
+|    9 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |
+|   10 | Dan Bohn           |  23.3 |        84 |        +0.17 |         -0.47 |
 |   11 | Dan Meier          |  22.7 |        57 |        -0.07 |         +1.05 |
 |   12 | Anibhav Singla     |  22.7 |         8 |        +0.42 |               |
 |   13 | Jonathan Hankar    |  22.3 |       190 |              |         +0.31 |

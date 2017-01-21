@@ -1,8 +1,8 @@
-Generated 2017-01-20.
+Generated 2017-01-21.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  36.0 |        15 |        +0.81 |               |
+|    1 | Colin Grant               |  36.0 |        15 |        +0.82 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |               |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -14,14 +14,14 @@ Generated 2017-01-20.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.31 |
-|   13 | Eric Katerman             |  31.8 |        34 |        -0.06 |               |
+|   13 | Eric Katerman             |  31.7 |        34 |        -0.08 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
-|   19 | Sam Sternberg             |  29.9 |       136 |        -0.15 |         +0.70 |
-|   20 | Ben Faber                 |  29.8 |        15 |              |               |
+|   19 | Ben Faber                 |  29.8 |        15 |              |               |
+|   20 | Sam Sternberg             |  29.7 |       137 |        -0.39 |         +0.46 |
 |   21 | David Wood                |  29.7 |        43 |              |               |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
@@ -65,7 +65,7 @@ Generated 2017-01-20.
 |   61 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   62 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   63 | Orion Hodson              |  24.8 |        31 |              |               |
-|   64 | Jim Veitch                |  24.7 |       439 |        -0.12 |         -1.48 |
+|   64 | Jim Veitch                |  24.7 |       439 |        -0.14 |         -1.49 |
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
 |   66 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
@@ -92,13 +92,13 @@ Generated 2017-01-20.
 |   88 | Matt Waid                 |  23.7 |        51 |              |               |
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   91 | Amy Lee                   |  23.6 |        56 |              |               |
-|   92 | Matt Wong                 |  23.6 |        80 |        -0.02 |         +2.43 |
-|   93 | Aditya Guntuboyina        |  23.5 |        79 |        +0.23 |         +1.22 |
-|   94 | Garvin Heath              |  23.4 |        28 |              |               |
-|   95 | Dan Bohn                  |  23.3 |        84 |        +0.17 |         -0.47 |
-|   96 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   97 | Sam McCormick             |  23.1 |        22 |        +0.44 |         +3.16 |
+|   91 | Sam McCormick             |  23.6 |        23 |        +0.92 |         +3.64 |
+|   92 | Amy Lee                   |  23.6 |        56 |              |               |
+|   93 | Matt Wong                 |  23.6 |        80 |        -0.02 |         +2.43 |
+|   94 | Aditya Guntuboyina        |  23.5 |        79 |        +0.23 |         +1.22 |
+|   95 | Garvin Heath              |  23.4 |        28 |              |               |
+|   96 | Dan Bohn                  |  23.3 |        84 |        +0.17 |         -0.47 |
+|   97 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   98 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   99 | Joe Farrell               |  23.0 |        30 |              |               |
 |  100 | Matt Wild                 |  23.0 |        25 |              |               |
