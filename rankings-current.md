@@ -10,9 +10,9 @@ Generated 2017-01-20.
 |    6 | John Kunze         |  24.3 |       312 |        +0.02 |         -0.98 |
 |    7 | Matt Wong          |  23.6 |        80 |        -0.02 |         +2.43 |
 |    8 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |
-|    9 | Sam McCormick      |  23.1 |        22 |        +0.44 |         +3.16 |
-|   10 | Dan Bohn           |  23.1 |        83 |              |         -0.65 |
-|   11 | Dan Meier          |  22.7 |        57 |        -0.06 |         +1.06 |
+|    9 | Dan Bohn           |  23.3 |        84 |        +0.17 |         -0.47 |
+|   10 | Sam McCormick      |  23.1 |        22 |        +0.44 |         +3.16 |
+|   11 | Dan Meier          |  22.7 |        57 |        -0.07 |         +1.05 |
 |   12 | Anibhav Singla     |  22.7 |         8 |        +0.42 |               |
 |   13 | Jonathan Hankar    |  22.3 |       190 |              |         +0.31 |
 |   14 | Reid Johnsen       |  21.9 |        41 |        -0.13 |         +7.40 |
@@ -20,7 +20,7 @@ Generated 2017-01-20.
 |   16 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
 |   17 | Mark Modera        |  20.8 |       318 |        +0.03 |         -0.83 |
 |   18 | Robert Isaac       |  20.8 |        17 |              |               |
-|   19 | Jeff Gordon        |  20.6 |        43 |        -0.12 |         +3.03 |
+|   19 | Jeff Gordon        |  20.4 |        44 |        -0.30 |         +2.85 |
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
 |   21 | Mike Jensen-Akula  |  20.0 |       221 |        -0.58 |         -1.62 |
 |   22 | Jonathan Francis   |  19.9 |        73 |        +0.28 |         +0.51 |

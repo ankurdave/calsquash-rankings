@@ -96,15 +96,15 @@ Generated 2017-01-20.
 |   92 | Matt Wong                 |  23.6 |        80 |        -0.02 |         +2.43 |
 |   93 | Aditya Guntuboyina        |  23.5 |        79 |        +0.23 |         +1.22 |
 |   94 | Garvin Heath              |  23.4 |        28 |              |               |
-|   95 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   96 | Sam McCormick             |  23.1 |        22 |        +0.44 |         +3.16 |
-|   97 | Dan Bohn                  |  23.1 |        83 |              |         -0.65 |
+|   95 | Dan Bohn                  |  23.3 |        84 |        +0.17 |         -0.47 |
+|   96 | Daniel Greengard          |  23.1 |        37 |              |               |
+|   97 | Sam McCormick             |  23.1 |        22 |        +0.44 |         +3.16 |
 |   98 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   99 | Joe Farrell               |  23.0 |        30 |              |               |
 |  100 | Matt Wild                 |  23.0 |        25 |              |               |
 |  101 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  102 | Andrew Pritchard          |  22.7 |        16 |              |         +0.40 |
-|  103 | Dan Meier                 |  22.7 |        57 |        -0.06 |         +1.06 |
+|  103 | Dan Meier                 |  22.7 |        57 |        -0.07 |         +1.05 |
 |  104 | Anibhav Singla            |  22.7 |         8 |        +0.42 |               |
 |  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  106 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -154,13 +154,13 @@ Generated 2017-01-20.
 |  150 | Jamie Funk                |  20.8 |        30 |              |               |
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
 |  152 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  153 | Jeff Gordon               |  20.6 |        43 |        -0.12 |         +3.03 |
-|  154 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
-|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  158 | Andrew Green              |  20.5 |        52 |              |               |
-|  159 | Steven Sloman             |  20.4 |        10 |              |               |
+|  153 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  155 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
+|  156 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  157 | Andrew Green              |  20.5 |        52 |              |               |
+|  158 | Steven Sloman             |  20.4 |        10 |              |               |
+|  159 | Jeff Gordon               |  20.4 |        44 |        -0.30 |         +2.85 |
 |  160 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
 |  161 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  162 | Carl Schreck              |  20.2 |         2 |              |               |
