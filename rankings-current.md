@@ -31,12 +31,12 @@ Generated 2017-01-21.
 |   27 | Dror Matalon       |  18.4 |       359 |        +0.19 |         +0.37 |
 |   28 | Eric Borden        |  18.3 |        38 |        +0.08 |         +3.13 |
 |   29 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
-|   30 | Troup Howard       |  18.1 |        44 |        +0.33 |         +0.40 |
+|   30 | Troup Howard       |  18.1 |        44 |        +0.34 |         +0.40 |
 |   31 | Wayne Heiser       |  17.7 |        40 |              |               |
 |   32 | David Bratt        |  17.3 |        22 |        +0.71 |         +0.90 |
-|   33 | Josh Trauner       |  17.2 |        47 |        -0.51 |               |
+|   33 | Josh Trauner       |  17.2 |        47 |        -0.48 |               |
 |   34 | Chris Flores       |  16.3 |       308 |        -0.28 |         -1.59 |
-|   35 | Ankur Dave         |  15.8 |        58 |        +0.22 |         +7.65 |
+|   35 | Ankur Dave         |  15.6 |        59 |        +0.11 |         +7.54 |
 |   36 | Sahar Sareminaeni  |  15.6 |        15 |        +0.09 |               |
 |   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
 |   38 | Kent Daniels       |  14.6 |        95 |        -0.16 |         -0.31 |
@@ -52,7 +52,7 @@ Generated 2017-01-21.
 |   48 | Brian Kempenich    |   8.2 |        42 |        -0.35 |         -0.99 |
 |   49 | Keaton Noon        |   7.2 |        23 |              |         +3.66 |
 |   50 | Alok Singh         |   6.5 |        18 |        +0.62 |               |
-|   51 | Craig Hollow       |   4.9 |         7 |        +2.91 |               |
+|   51 | Craig Hollow       |   6.3 |         8 |        +4.32 |               |
 |   52 | Janeau Janssen     |   4.9 |         3 |              |               |
 |   53 | Zsolt Bartha       |   4.4 |        47 |              |         +2.51 |
 |   54 | Anuj Dawar         |   4.2 |        15 |        +1.38 |               |

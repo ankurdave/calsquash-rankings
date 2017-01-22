@@ -216,7 +216,7 @@ Generated 2017-01-21.
 |  212 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  213 | Bob Roller                |  18.2 |         6 |              |               |
 |  214 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  215 | Troup Howard              |  18.1 |        44 |        +0.33 |         +0.40 |
+|  215 | Troup Howard              |  18.1 |        44 |        +0.34 |         +0.40 |
 |  216 | James Chung               |  17.9 |         7 |              |               |
 |  217 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
 |  218 | Nick Paget                |  17.8 |        35 |              |               |
@@ -239,7 +239,7 @@ Generated 2017-01-21.
 |  235 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  236 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  237 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  238 | Josh Trauner              |  17.2 |        47 |        -0.51 |               |
+|  238 | Josh Trauner              |  17.2 |        47 |        -0.48 |               |
 |  239 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  240 | Neil Conway               |  17.0 |        55 |              |               |
 |  241 | Michael Cianfrocco        |  17.0 |        18 |              |               |
@@ -262,11 +262,11 @@ Generated 2017-01-21.
 |  258 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  259 | Terry Chang               |  15.8 |        48 |              |         +2.14 |
 |  260 | Louis Russell             |  15.8 |        20 |              |               |
-|  261 | Ankur Dave                |  15.8 |        58 |        +0.22 |         +7.65 |
-|  262 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  263 | Jared Nunn                |  15.7 |         5 |              |               |
-|  264 | Akash Sharma              |  15.7 |         8 |              |               |
-|  265 | Angie Ng                  |  15.7 |        12 |              |               |
+|  261 | Rich Shapiro              |  15.8 |        82 |              |               |
+|  262 | Jared Nunn                |  15.7 |         5 |              |               |
+|  263 | Akash Sharma              |  15.7 |         8 |              |               |
+|  264 | Angie Ng                  |  15.7 |        12 |              |               |
+|  265 | Ankur Dave                |  15.6 |        59 |        +0.11 |         +7.54 |
 |  266 | Sahar Sareminaeni         |  15.6 |        15 |        +0.09 |               |
 |  267 | Tanit Follett             |  15.5 |         8 |              |               |
 |  268 | Toni Queck                |  15.5 |        20 |              |               |
@@ -415,20 +415,20 @@ Generated 2017-01-21.
 |  411 | Mikel Shybut              |   6.5 |         4 |              |               |
 |  412 | Markus Boese              |   6.5 |         1 |              |               |
 |  413 | Dav Clark                 |   6.4 |         6 |              |               |
-|  414 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  415 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  416 | Rohan Relan               |   6.0 |         4 |              |               |
-|  417 | David Zhu                 |   5.8 |         2 |              |               |
-|  418 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  419 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  420 | Manu Vaish                |   5.5 |         1 |              |               |
-|  421 | Emily Moylan              |   5.2 |        17 |              |               |
-|  422 | Mohammad Salama           |   5.2 |         5 |              |               |
-|  423 | Catherine Wang            |   5.2 |        10 |              |               |
-|  424 | Ali Umar                  |   5.2 |        13 |              |               |
-|  425 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  426 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.49 |
-|  427 | Craig Hollow              |   4.9 |         7 |        +2.91 |               |
+|  414 | Craig Hollow              |   6.3 |         8 |        +4.32 |               |
+|  415 | Nicolas Huber             |   6.2 |         4 |              |               |
+|  416 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  417 | Rohan Relan               |   6.0 |         4 |              |               |
+|  418 | David Zhu                 |   5.8 |         2 |              |               |
+|  419 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  420 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  421 | Manu Vaish                |   5.5 |         1 |              |               |
+|  422 | Emily Moylan              |   5.2 |        17 |              |               |
+|  423 | Mohammad Salama           |   5.2 |         5 |              |               |
+|  424 | Catherine Wang            |   5.2 |        10 |              |               |
+|  425 | Ali Umar                  |   5.2 |        13 |              |               |
+|  426 | Martin Rasmussen          |   5.2 |         6 |              |               |
+|  427 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.49 |
 |  428 | Janeau Janssen            |   4.9 |         3 |              |               |
 |  429 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  430 | Zsolt Bartha              |   4.4 |        47 |              |         +2.51 |
