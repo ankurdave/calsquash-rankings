@@ -1,4 +1,4 @@
-Generated 2017-01-21.
+Generated 2017-01-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -32,7 +32,7 @@ Generated 2017-01-21.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Frank Kennamer            |  27.4 |       217 |        +0.15 |         -0.12 |
+|   31 | Frank Kennamer            |  27.4 |       217 |        +0.16 |         -0.11 |
 |   32 | Stephen Dang              |  27.2 |        34 |              |               |
 |   33 | Samer Shehata             |  27.2 |        29 |              |               |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
@@ -67,15 +67,15 @@ Generated 2017-01-21.
 |   63 | Orion Hodson              |  24.8 |        31 |              |               |
 |   64 | Jim Veitch                |  24.7 |       439 |        -0.14 |         -1.49 |
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
-|   66 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   68 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   69 | Adam Pollak               |  24.5 |        31 |              |               |
-|   70 | Jon Shih                  |  24.4 |        47 |              |               |
-|   71 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   72 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   73 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   74 | John Kunze                |  24.3 |       312 |        +0.02 |         -0.98 |
+|   66 | John Kunze                |  24.6 |       314 |        +0.39 |         -0.62 |
+|   67 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   70 | Adam Pollak               |  24.5 |        31 |              |               |
+|   71 | Jon Shih                  |  24.4 |        47 |              |               |
+|   72 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   73 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   74 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   75 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   76 | Toby Reiner               |  24.2 |       159 |              |               |
 |   77 | Himanshu Jatia            |  24.2 |         4 |              |               |
@@ -92,9 +92,9 @@ Generated 2017-01-21.
 |   88 | Matt Waid                 |  23.7 |        51 |              |               |
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   91 | Sam McCormick             |  23.6 |        23 |        +0.92 |         +3.64 |
-|   92 | Amy Lee                   |  23.6 |        56 |              |               |
-|   93 | Matt Wong                 |  23.6 |        80 |        -0.02 |         +2.43 |
+|   91 | Matt Wong                 |  23.6 |        80 |              |         +2.45 |
+|   92 | Sam McCormick             |  23.6 |        23 |        +0.92 |         +3.64 |
+|   93 | Amy Lee                   |  23.6 |        56 |              |               |
 |   94 | Aditya Guntuboyina        |  23.5 |        79 |        +0.23 |         +1.22 |
 |   95 | Garvin Heath              |  23.4 |        28 |              |               |
 |   96 | Dan Bohn                  |  23.3 |        84 |        +0.17 |         -0.47 |
@@ -113,10 +113,10 @@ Generated 2017-01-21.
 |  109 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  110 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  111 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  112 | Jonathan Hankar           |  22.3 |       190 |              |         +0.31 |
-|  113 | Robert Geiger             |  22.2 |         8 |              |               |
-|  114 | Aaron Socha               |  22.2 |        24 |              |               |
-|  115 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  112 | Robert Geiger             |  22.2 |         8 |              |               |
+|  113 | Aaron Socha               |  22.2 |        24 |              |               |
+|  114 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  115 | Jonathan Hankar           |  22.1 |       191 |        -0.19 |         +0.11 |
 |  116 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
@@ -126,12 +126,12 @@ Generated 2017-01-21.
 |  122 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  123 | Andrew Lawrie             |  22.0 |        46 |              |         +0.16 |
 |  124 | Jan Beranek               |  21.9 |        46 |              |               |
-|  125 | Reid Johnsen              |  21.9 |        41 |        -0.13 |         +7.40 |
-|  126 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  129 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  130 | Omair Azam                |  21.7 |        18 |              |               |
+|  125 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  126 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  127 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  128 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  129 | Omair Azam                |  21.7 |        18 |              |               |
+|  130 | Reid Johnsen              |  21.7 |        42 |        -0.31 |         +7.21 |
 |  131 | Phin Lee                  |  21.7 |        16 |              |               |
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  133 | Dante Popple              |  21.5 |        17 |              |               |
