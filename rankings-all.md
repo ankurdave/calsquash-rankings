@@ -2,7 +2,7 @@ Generated 2017-01-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  36.0 |        15 |        +0.82 |               |
+|    1 | Colin Grant               |  36.3 |        16 |        +1.14 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |               |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -14,15 +14,15 @@ Generated 2017-01-22.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.31 |
-|   13 | Eric Katerman             |  31.7 |        34 |        -0.08 |               |
+|   13 | Eric Katerman             |  31.8 |        34 |        -0.07 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
-|   20 | Sam Sternberg             |  29.7 |       137 |        -0.39 |         +0.46 |
-|   21 | David Wood                |  29.7 |        43 |              |               |
+|   20 | David Wood                |  29.7 |        43 |              |               |
+|   21 | Sam Sternberg             |  29.6 |       138 |        -0.47 |         +0.38 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
