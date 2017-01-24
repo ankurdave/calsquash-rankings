@@ -17,18 +17,18 @@ Generated 2017-01-23.
 |   13 | Jonathan Hankar    |  22.4 |       192 |        +0.04 |         +0.35 |
 |   14 | Reid Johnsen       |  21.7 |        42 |        -0.31 |         +7.21 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
-|   16 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
+|   16 | Jared Bard         |  21.2 |        38 |        +0.70 |         +1.76 |
 |   17 | Mark Modera        |  20.8 |       318 |        +0.03 |         -0.83 |
 |   18 | Robert Isaac       |  20.8 |        17 |              |               |
 |   19 | Jeff Gordon        |  20.4 |        44 |        -0.30 |         +2.85 |
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
 |   21 | Mike Jensen-Akula  |  20.0 |       221 |        -0.58 |         -1.62 |
 |   22 | Jonathan Francis   |  19.9 |        73 |        +0.28 |         +0.51 |
-|   23 | Marc Schechter     |  19.8 |         4 |              |               |
-|   24 | Jaime Perez        |  19.2 |        21 |        -0.14 |               |
-|   25 | Shaun Lim          |  18.8 |        49 |        +0.49 |         +0.79 |
-|   26 | Natalie Leung      |  18.4 |         1 |              |               |
-|   27 | Dror Matalon       |  18.4 |       359 |        +0.19 |         +0.37 |
+|   23 | Jaime Perez        |  19.2 |        21 |        -0.14 |               |
+|   24 | Shaun Lim          |  18.8 |        49 |        +0.49 |         +0.79 |
+|   25 | Natalie Leung      |  18.4 |         1 |              |               |
+|   26 | Dror Matalon       |  18.4 |       359 |        +0.19 |         +0.37 |
+|   27 | Marc Schechter     |  18.3 |         5 |        -1.47 |               |
 |   28 | Eric Borden        |  18.3 |        38 |        +0.08 |         +3.13 |
 |   29 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
 |   30 | Troup Howard       |  18.1 |        44 |        +0.34 |         +0.40 |
