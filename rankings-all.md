@@ -431,7 +431,7 @@ Generated 2017-01-23.
 |  427 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.49 |
 |  428 | Janeau Janssen            |   4.9 |         3 |              |               |
 |  429 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  430 | Zsolt Bartha              |   4.4 |        47 |              |         +2.51 |
+|  430 | Zsolt Bartha              |   4.5 |        48 |        +0.09 |         +2.61 |
 |  431 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  432 | Anuj Dawar                |   4.2 |        15 |        +1.38 |               |
 |  433 | Jose Lara                 |   4.1 |        10 |        +0.32 |               |
@@ -448,7 +448,7 @@ Generated 2017-01-23.
 |  444 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  445 | Phil Lin                  |   2.1 |         1 |              |               |
 |  446 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  447 | Cristhian Daniel          |   2.0 |        19 |        -0.42 |               |
+|  447 | Cristhian Daniel          |   2.0 |        19 |        -0.46 |               |
 |  448 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  449 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  450 | Himanshu Chandra          |   1.8 |         4 |              |               |
@@ -502,7 +502,7 @@ Generated 2017-01-23.
 |  498 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  499 | Tin Do                    |  -4.0 |         1 |              |               |
 |  500 | Susan Grand               |  -4.3 |         3 |              |               |
-|  501 | Duncan MacRae             |  -4.4 |         9 |        +1.88 |               |
+|  501 | Duncan MacRae             |  -4.6 |        10 |        +1.66 |               |
 |  502 | Sara Green                |  -5.8 |         1 |              |               |
 |  503 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  504 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
