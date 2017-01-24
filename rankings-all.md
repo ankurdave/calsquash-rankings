@@ -1,4 +1,4 @@
-Generated 2017-01-22.
+Generated 2017-01-23.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -92,11 +92,11 @@ Generated 2017-01-22.
 |   88 | Matt Waid                 |  23.7 |        51 |              |               |
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   91 | Matt Wong                 |  23.6 |        80 |              |         +2.45 |
-|   92 | Sam McCormick             |  23.6 |        23 |        +0.92 |         +3.64 |
-|   93 | Amy Lee                   |  23.6 |        56 |              |               |
-|   94 | Aditya Guntuboyina        |  23.5 |        79 |        +0.23 |         +1.22 |
-|   95 | Garvin Heath              |  23.4 |        28 |              |               |
+|   91 | Sam McCormick             |  23.6 |        23 |        +0.92 |         +3.64 |
+|   92 | Amy Lee                   |  23.6 |        56 |              |               |
+|   93 | Aditya Guntuboyina        |  23.5 |        79 |        +0.23 |         +1.22 |
+|   94 | Garvin Heath              |  23.4 |        28 |              |               |
+|   95 | Matt Wong                 |  23.4 |        81 |        -0.23 |         +2.22 |
 |   96 | Dan Bohn                  |  23.3 |        84 |        +0.17 |         -0.47 |
 |   97 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   98 | Anubhav Gupta             |  23.0 |         8 |              |               |
@@ -112,11 +112,11 @@ Generated 2017-01-22.
 |  108 | Dev Millstein             |  22.6 |        92 |              |               |
 |  109 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  110 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  111 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  112 | Robert Geiger             |  22.2 |         8 |              |               |
-|  113 | Aaron Socha               |  22.2 |        24 |              |               |
-|  114 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  115 | Jonathan Hankar           |  22.1 |       191 |        -0.19 |         +0.11 |
+|  111 | Jonathan Hankar           |  22.4 |       192 |        +0.04 |         +0.35 |
+|  112 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  113 | Robert Geiger             |  22.2 |         8 |              |               |
+|  114 | Aaron Socha               |  22.2 |        24 |              |               |
+|  115 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  116 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
@@ -434,10 +434,10 @@ Generated 2017-01-22.
 |  430 | Zsolt Bartha              |   4.4 |        47 |              |         +2.51 |
 |  431 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  432 | Anuj Dawar                |   4.2 |        15 |        +1.38 |               |
-|  433 | Annie Wong                |   4.0 |         3 |              |               |
-|  434 | Ryan                      |   4.0 |         3 |              |               |
-|  435 | Mateo Aceves              |   3.8 |         4 |              |               |
-|  436 | Jose Lara                 |   3.8 |         9 |              |               |
+|  433 | Jose Lara                 |   4.1 |        10 |        +0.32 |               |
+|  434 | Annie Wong                |   4.0 |         3 |              |               |
+|  435 | Ryan                      |   4.0 |         3 |              |               |
+|  436 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  437 | Nakul Vakil               |   3.0 |         5 |              |               |
 |  438 | Maria Garzon              |   3.0 |         5 |              |               |
 |  439 | Nadir Shams               |   3.0 |         2 |              |               |
@@ -448,7 +448,7 @@ Generated 2017-01-22.
 |  444 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  445 | Phil Lin                  |   2.1 |         1 |              |               |
 |  446 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  447 | Cristhian Daniel          |   2.1 |        19 |        -0.38 |               |
+|  447 | Cristhian Daniel          |   2.0 |        19 |        -0.42 |               |
 |  448 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  449 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  450 | Himanshu Chandra          |   1.8 |         4 |              |               |
@@ -501,8 +501,8 @@ Generated 2017-01-22.
 |  497 | Jenny Cheng               |  -3.2 |         1 |              |               |
 |  498 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  499 | Tin Do                    |  -4.0 |         1 |              |               |
-|  500 | Duncan MacRae             |  -4.2 |         8 |        +2.05 |               |
-|  501 | Susan Grand               |  -4.3 |         3 |              |               |
+|  500 | Susan Grand               |  -4.3 |         3 |              |               |
+|  501 | Duncan MacRae             |  -4.4 |         9 |        +1.88 |               |
 |  502 | Sara Green                |  -5.8 |         1 |              |               |
 |  503 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  504 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |

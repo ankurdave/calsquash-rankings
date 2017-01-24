@@ -1,4 +1,4 @@
-Generated 2017-01-22.
+Generated 2017-01-23.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -8,13 +8,13 @@ Generated 2017-01-22.
 |    4 | Frank Kennamer     |  27.4 |       217 |        +0.16 |         -0.11 |
 |    5 | Jim Veitch         |  24.7 |       439 |        -0.14 |         -1.49 |
 |    6 | John Kunze         |  24.6 |       314 |        +0.39 |         -0.62 |
-|    7 | Matt Wong          |  23.6 |        80 |              |         +2.45 |
-|    8 | Sam McCormick      |  23.6 |        23 |        +0.92 |         +3.64 |
-|    9 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |
+|    7 | Sam McCormick      |  23.6 |        23 |        +0.92 |         +3.64 |
+|    8 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |
+|    9 | Matt Wong          |  23.4 |        81 |        -0.23 |         +2.22 |
 |   10 | Dan Bohn           |  23.3 |        84 |        +0.17 |         -0.47 |
 |   11 | Dan Meier          |  22.7 |        57 |        -0.07 |         +1.05 |
 |   12 | Anibhav Singla     |  22.7 |         8 |        +0.42 |               |
-|   13 | Jonathan Hankar    |  22.1 |       191 |        -0.19 |         +0.11 |
+|   13 | Jonathan Hankar    |  22.4 |       192 |        +0.04 |         +0.35 |
 |   14 | Reid Johnsen       |  21.7 |        42 |        -0.31 |         +7.21 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
 |   16 | Jared Bard         |  20.8 |        37 |        +0.34 |         +1.40 |
@@ -56,7 +56,7 @@ Generated 2017-01-22.
 |   52 | Janeau Janssen     |   4.9 |         3 |              |               |
 |   53 | Zsolt Bartha       |   4.4 |        47 |              |         +2.51 |
 |   54 | Anuj Dawar         |   4.2 |        15 |        +1.38 |               |
-|   55 | Jose Lara          |   3.8 |         9 |              |               |
-|   56 | Cristhian Daniel   |   2.1 |        19 |        -0.38 |               |
+|   55 | Jose Lara          |   4.1 |        10 |        +0.32 |               |
+|   56 | Cristhian Daniel   |   2.0 |        19 |        -0.42 |               |
 |   57 | Sergey Dobrinov    |  -0.8 |         1 |              |               |
-|   58 | Duncan MacRae      |  -4.2 |         8 |        +2.05 |               |
+|   58 | Duncan MacRae      |  -4.4 |         9 |        +1.88 |               |
