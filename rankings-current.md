@@ -1,4 +1,4 @@
-Generated 2017-01-23.
+Generated 2017-01-24.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -38,7 +38,7 @@ Generated 2017-01-23.
 |   34 | Chris Flores       |  16.3 |       308 |        -0.28 |         -1.59 |
 |   35 | Ankur Dave         |  15.6 |        59 |        +0.11 |         +7.54 |
 |   36 | Sahar Sareminaeni  |  15.6 |        15 |        +0.09 |               |
-|   37 | Diego Butrich      |  15.2 |         8 |        +0.59 |               |
+|   37 | Diego Butrich      |  15.5 |         8 |        +0.89 |               |
 |   38 | Kent Daniels       |  14.6 |        95 |        -0.16 |         -0.31 |
 |   39 | James Grant        |  14.4 |         5 |        +4.21 |               |
 |   40 | Nikhil Paranjape   |  13.3 |        31 |        +0.26 |         +8.63 |
@@ -47,16 +47,16 @@ Generated 2017-01-23.
 |   43 | Nate Aden          |  10.3 |        28 |        -0.11 |               |
 |   44 | Reto Sutter        |  10.0 |        52 |        -0.04 |         -0.62 |
 |   45 | Daniel Schwartz    |   9.8 |        22 |              |               |
-|   46 | Raphael Magarik    |   8.8 |        17 |              |               |
+|   46 | Raphael Magarik    |   8.8 |        18 |        -0.08 |               |
 |   47 | Duo Wang           |   8.5 |        65 |              |         +0.05 |
 |   48 | Brian Kempenich    |   8.2 |        42 |        -0.35 |         -0.99 |
 |   49 | Keaton Noon        |   7.2 |        23 |              |         +3.66 |
 |   50 | Alok Singh         |   6.5 |        18 |        +0.62 |               |
 |   51 | Craig Hollow       |   6.3 |         8 |        +4.32 |               |
 |   52 | Janeau Janssen     |   4.9 |         3 |              |               |
-|   53 | Zsolt Bartha       |   4.5 |        48 |        +0.09 |         +2.61 |
-|   54 | Anuj Dawar         |   4.2 |        15 |        +1.38 |               |
-|   55 | Jose Lara          |   4.1 |        10 |        +0.32 |               |
-|   56 | Cristhian Daniel   |   2.0 |        19 |        -0.46 |               |
-|   57 | Sergey Dobrinov    |  -0.8 |         1 |              |               |
+|   53 | Sergey Dobrinov    |   4.8 |         2 |              |               |
+|   54 | Zsolt Bartha       |   4.5 |        48 |        +0.09 |         +2.61 |
+|   55 | Anuj Dawar         |   4.2 |        15 |        +1.38 |               |
+|   56 | Jose Lara          |   4.1 |        10 |        +0.32 |               |
+|   57 | Cristhian Daniel   |   2.0 |        19 |        -0.46 |               |
 |   58 | Duncan MacRae      |  -4.6 |        10 |        +1.66 |               |
