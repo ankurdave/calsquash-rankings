@@ -1,4 +1,4 @@
-Generated 2017-01-24.
+Generated 2017-01-25.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -13,7 +13,7 @@ Generated 2017-01-24.
 |    9 | Matt Wong          |  23.4 |        81 |        -0.23 |         +2.22 |
 |   10 | Dan Bohn           |  23.3 |        84 |        +0.17 |         -0.47 |
 |   11 | Dan Meier          |  22.7 |        57 |        -0.07 |         +1.05 |
-|   12 | Anibhav Singla     |  22.7 |         8 |        +0.42 |               |
+|   12 | Anibhav Singla     |  22.6 |         8 |        +0.35 |               |
 |   13 | Jonathan Hankar    |  22.4 |       192 |        +0.04 |         +0.35 |
 |   14 | Reid Johnsen       |  21.7 |        42 |        -0.31 |         +7.21 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
@@ -24,27 +24,27 @@ Generated 2017-01-24.
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
 |   21 | Mike Jensen-Akula  |  20.0 |       221 |        -0.58 |         -1.62 |
 |   22 | Jonathan Francis   |  19.9 |        73 |        +0.28 |         +0.51 |
-|   23 | Jaime Perez        |  19.2 |        21 |        -0.14 |               |
-|   24 | Shaun Lim          |  18.8 |        49 |        +0.49 |         +0.79 |
-|   25 | Natalie Leung      |  18.4 |         1 |              |               |
-|   26 | Dror Matalon       |  18.4 |       359 |        +0.19 |         +0.37 |
-|   27 | Marc Schechter     |  18.3 |         5 |        -1.47 |               |
-|   28 | Eric Borden        |  18.3 |        38 |        +0.08 |         +3.13 |
+|   23 | Jaime Perez        |  19.0 |        22 |        -0.27 |               |
+|   24 | Shaun Lim          |  18.8 |        49 |        +0.50 |         +0.80 |
+|   25 | Eric Borden        |  18.5 |        39 |        +0.27 |         +3.32 |
+|   26 | Natalie Leung      |  18.4 |         1 |              |               |
+|   27 | Dror Matalon       |  18.4 |       359 |        +0.18 |         +0.36 |
+|   28 | Marc Schechter     |  18.3 |         5 |        -1.47 |               |
 |   29 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
 |   30 | Troup Howard       |  18.1 |        44 |        +0.34 |         +0.40 |
 |   31 | Wayne Heiser       |  17.7 |        40 |              |               |
 |   32 | David Bratt        |  17.3 |        22 |        +0.71 |         +0.90 |
 |   33 | Josh Trauner       |  17.2 |        47 |        -0.48 |               |
-|   34 | Chris Flores       |  16.3 |       308 |        -0.28 |         -1.59 |
-|   35 | Ankur Dave         |  15.6 |        59 |        +0.11 |         +7.54 |
-|   36 | Sahar Sareminaeni  |  15.6 |        15 |        +0.09 |               |
+|   34 | Chris Flores       |  16.1 |       309 |        -0.44 |         -1.75 |
+|   35 | Sahar Sareminaeni  |  15.9 |        16 |        +0.41 |               |
+|   36 | Ankur Dave         |  15.6 |        59 |        +0.11 |         +7.54 |
 |   37 | Diego Butrich      |  15.5 |         8 |        +0.89 |               |
-|   38 | Kent Daniels       |  14.6 |        95 |        -0.16 |         -0.31 |
+|   38 | Kent Daniels       |  14.6 |        95 |        -0.15 |         -0.30 |
 |   39 | James Grant        |  14.4 |         5 |        +4.21 |               |
-|   40 | Nikhil Paranjape   |  13.3 |        31 |        +0.26 |         +8.63 |
-|   41 | Meldan Heaslip     |  10.7 |        13 |        +0.35 |               |
+|   40 | Nikhil Paranjape   |  13.3 |        31 |        +0.27 |         +8.63 |
+|   41 | Meldan Heaslip     |  11.2 |        14 |        +0.87 |               |
 |   42 | Josh Lebowitz      |  10.7 |        33 |        -0.03 |               |
-|   43 | Nate Aden          |  10.3 |        28 |        -0.11 |               |
+|   43 | Nate Aden          |  10.2 |        29 |        -0.20 |               |
 |   44 | Reto Sutter        |  10.0 |        52 |        -0.04 |         -0.62 |
 |   45 | Daniel Schwartz    |   9.8 |        22 |              |               |
 |   46 | Raphael Magarik    |   8.8 |        18 |        -0.08 |               |
