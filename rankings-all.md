@@ -2,7 +2,7 @@ Generated 2017-01-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  36.3 |        16 |        +1.14 |               |
+|    1 | Colin Grant               |  36.3 |        16 |        +1.16 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |               |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.74 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -14,7 +14,7 @@ Generated 2017-01-26.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.31 |
-|   13 | Eric Katerman             |  31.8 |        34 |        -0.07 |               |
+|   13 | Eric Katerman             |  31.8 |        35 |              |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
@@ -22,7 +22,7 @@ Generated 2017-01-26.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.6 |       138 |        -0.47 |         +0.38 |
+|   21 | Sam Sternberg             |  29.6 |       138 |        -0.48 |         +0.37 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -65,7 +65,7 @@ Generated 2017-01-26.
 |   61 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   62 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   63 | Orion Hodson              |  24.8 |        31 |              |               |
-|   64 | Jim Veitch                |  24.7 |       439 |        -0.14 |         -1.49 |
+|   64 | Jim Veitch                |  24.7 |       439 |        -0.12 |         -1.48 |
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
 |   66 | John Kunze                |  24.6 |       314 |        +0.37 |         -0.63 |
 |   67 | Christian Fuentes         |  24.6 |         8 |              |               |
@@ -92,8 +92,8 @@ Generated 2017-01-26.
 |   88 | Matt Waid                 |  23.7 |        51 |              |               |
 |   89 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   91 | Sam McCormick             |  23.6 |        23 |        +0.92 |         +3.64 |
-|   92 | Amy Lee                   |  23.6 |        56 |              |               |
+|   91 | Amy Lee                   |  23.6 |        56 |              |               |
+|   92 | Sam McCormick             |  23.5 |        24 |        +0.83 |         +3.55 |
 |   93 | Aditya Guntuboyina        |  23.5 |        79 |        +0.23 |         +1.22 |
 |   94 | Matt Wong                 |  23.4 |        81 |        -0.21 |         +2.24 |
 |   95 | Garvin Heath              |  23.4 |        28 |              |               |
