@@ -5,17 +5,17 @@ Generated 2017-01-25.
 |    1 | Colin Grant        |  36.3 |        16 |        +1.14 |               |
 |    2 | Eric Katerman      |  31.8 |        34 |        -0.07 |               |
 |    3 | Sam Sternberg      |  29.6 |       138 |        -0.47 |         +0.38 |
-|    4 | Frank Kennamer     |  27.4 |       217 |        +0.16 |         -0.11 |
+|    4 | Frank Kennamer     |  27.1 |       218 |        -0.18 |         -0.45 |
 |    5 | Jim Veitch         |  24.7 |       439 |        -0.14 |         -1.49 |
-|    6 | John Kunze         |  24.6 |       314 |        +0.39 |         -0.62 |
+|    6 | John Kunze         |  24.6 |       314 |        +0.37 |         -0.63 |
 |    7 | Sam McCormick      |  23.6 |        23 |        +0.92 |         +3.64 |
 |    8 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |
-|    9 | Matt Wong          |  23.4 |        81 |        -0.23 |         +2.22 |
+|    9 | Matt Wong          |  23.4 |        81 |        -0.21 |         +2.24 |
 |   10 | Dan Bohn           |  23.3 |        84 |        +0.17 |         -0.47 |
 |   11 | Dan Meier          |  22.7 |        57 |        -0.07 |         +1.05 |
-|   12 | Anibhav Singla     |  22.6 |         8 |        +0.35 |               |
-|   13 | Jonathan Hankar    |  22.4 |       192 |        +0.04 |         +0.35 |
-|   14 | Reid Johnsen       |  21.7 |        42 |        -0.31 |         +7.21 |
+|   12 | Jonathan Hankar    |  22.7 |       193 |        +0.39 |         +0.70 |
+|   13 | Anibhav Singla     |  22.6 |         8 |        +0.35 |               |
+|   14 | Reid Johnsen       |  21.7 |        42 |        -0.32 |         +7.20 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
 |   16 | Jared Bard         |  21.2 |        38 |        +0.70 |         +1.76 |
 |   17 | Mark Modera        |  20.8 |       318 |        +0.03 |         -0.83 |

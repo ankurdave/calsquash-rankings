@@ -32,9 +32,9 @@ Generated 2017-01-25.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Frank Kennamer            |  27.4 |       217 |        +0.16 |         -0.11 |
-|   32 | Stephen Dang              |  27.2 |        34 |              |               |
-|   33 | Samer Shehata             |  27.2 |        29 |              |               |
+|   31 | Stephen Dang              |  27.2 |        34 |              |               |
+|   32 | Samer Shehata             |  27.2 |        29 |              |               |
+|   33 | Frank Kennamer            |  27.1 |       218 |        -0.18 |         -0.45 |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -67,7 +67,7 @@ Generated 2017-01-25.
 |   63 | Orion Hodson              |  24.8 |        31 |              |               |
 |   64 | Jim Veitch                |  24.7 |       439 |        -0.14 |         -1.49 |
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
-|   66 | John Kunze                |  24.6 |       314 |        +0.39 |         -0.62 |
+|   66 | John Kunze                |  24.6 |       314 |        +0.37 |         -0.63 |
 |   67 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
@@ -95,8 +95,8 @@ Generated 2017-01-25.
 |   91 | Sam McCormick             |  23.6 |        23 |        +0.92 |         +3.64 |
 |   92 | Amy Lee                   |  23.6 |        56 |              |               |
 |   93 | Aditya Guntuboyina        |  23.5 |        79 |        +0.23 |         +1.22 |
-|   94 | Garvin Heath              |  23.4 |        28 |              |               |
-|   95 | Matt Wong                 |  23.4 |        81 |        -0.23 |         +2.22 |
+|   94 | Matt Wong                 |  23.4 |        81 |        -0.21 |         +2.24 |
+|   95 | Garvin Heath              |  23.4 |        28 |              |               |
 |   96 | Dan Bohn                  |  23.3 |        84 |        +0.17 |         -0.47 |
 |   97 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   98 | Anubhav Gupta             |  23.0 |         8 |              |               |
@@ -105,14 +105,14 @@ Generated 2017-01-25.
 |  101 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  102 | Andrew Pritchard          |  22.7 |        16 |              |         +0.40 |
 |  103 | Dan Meier                 |  22.7 |        57 |        -0.07 |         +1.05 |
-|  104 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  105 | Julian Marshall           |  22.7 |        31 |              |               |
-|  106 | Anibhav Singla            |  22.6 |         8 |        +0.35 |               |
-|  107 | Gautam Tankha             |  22.6 |         7 |              |               |
-|  108 | Dev Millstein             |  22.6 |        92 |              |               |
-|  109 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  110 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  111 | Jonathan Hankar           |  22.4 |       192 |        +0.04 |         +0.35 |
+|  104 | Jonathan Hankar           |  22.7 |       193 |        +0.39 |         +0.70 |
+|  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  106 | Julian Marshall           |  22.7 |        31 |              |               |
+|  107 | Anibhav Singla            |  22.6 |         8 |        +0.35 |               |
+|  108 | Gautam Tankha             |  22.6 |         7 |              |               |
+|  109 | Dev Millstein             |  22.6 |        92 |              |               |
+|  110 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  111 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  112 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
@@ -131,7 +131,7 @@ Generated 2017-01-25.
 |  127 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  128 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  129 | Omair Azam                |  21.7 |        18 |              |               |
-|  130 | Reid Johnsen              |  21.7 |        42 |        -0.31 |         +7.21 |
+|  130 | Reid Johnsen              |  21.7 |        42 |        -0.32 |         +7.20 |
 |  131 | Phin Lee                  |  21.7 |        16 |              |               |
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  133 | Dante Popple              |  21.5 |        17 |              |               |
