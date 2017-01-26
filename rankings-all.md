@@ -429,10 +429,10 @@ Generated 2017-01-26.
 |  425 | Ali Umar                  |   5.2 |        13 |              |               |
 |  426 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  427 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.49 |
-|  428 | Zsolt Bartha              |   5.0 |        49 |        +0.54 |         +3.05 |
-|  429 | Janeau Janssen            |   4.9 |         3 |              |               |
-|  430 | Sergey Dobrinov           |   4.8 |         2 |              |               |
-|  431 | Tammy J Faridi            |   4.7 |        27 |              |               |
+|  428 | Janeau Janssen            |   4.9 |         3 |              |               |
+|  429 | Sergey Dobrinov           |   4.8 |         2 |              |               |
+|  430 | Tammy J Faridi            |   4.7 |        27 |              |               |
+|  431 | Zsolt Bartha              |   4.7 |        49 |        +0.26 |         +2.78 |
 |  432 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  433 | Anuj Dawar                |   4.2 |        15 |        +1.38 |               |
 |  434 | Jose Lara                 |   4.1 |        10 |        +0.32 |               |
@@ -446,10 +446,10 @@ Generated 2017-01-26.
 |  442 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  443 | David Vogel               |   2.6 |         7 |              |               |
 |  444 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  445 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  446 | Phil Lin                  |   2.1 |         1 |              |               |
-|  447 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  448 | Cristhian Daniel          |   2.0 |        19 |        -0.42 |               |
+|  445 | Cristhian Daniel          |   2.3 |        19 |        -0.20 |               |
+|  446 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  447 | Phil Lin                  |   2.1 |         1 |              |               |
+|  448 | Alexis Madrigal           |   2.1 |         2 |              |               |
 |  449 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  450 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  451 | Himanshu Chandra          |   1.8 |         4 |              |               |
@@ -495,15 +495,15 @@ Generated 2017-01-26.
 |  491 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
 |  492 | Judah Purcell             |  -2.2 |         1 |              |               |
 |  493 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
-|  494 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
-|  495 | James Redfield            |  -2.9 |         3 |              |               |
-|  496 | Seobin Jung               |  -2.9 |         5 |              |               |
-|  497 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  498 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  499 | Tin Do                    |  -4.0 |         1 |              |               |
-|  500 | Susan Grand               |  -4.3 |         3 |              |               |
-|  501 | Duncan MacRae             |  -4.6 |        10 |        +1.68 |               |
+|  494 | Duncan MacRae             |  -2.8 |        11 |        +3.44 |               |
+|  495 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
+|  496 | James Redfield            |  -2.9 |         3 |              |               |
+|  497 | Seobin Jung               |  -2.9 |         5 |              |               |
+|  498 | Jenny Cheng               |  -3.2 |         1 |              |               |
+|  499 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  500 | Tin Do                    |  -4.0 |         1 |              |               |
+|  501 | Susan Grand               |  -4.3 |         3 |              |               |
 |  502 | Sara Green                |  -5.8 |         1 |              |               |
 |  503 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  504 | Yifan Wu                  |  -7.0 |         1 |              |               |
-|  505 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  504 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  505 | Yifan Wu                  | -11.7 |         2 |              |               |
