@@ -53,10 +53,11 @@ Generated 2017-01-25.
 |   49 | Keaton Noon        |   7.2 |        23 |              |         +3.66 |
 |   50 | Alok Singh         |   6.5 |        18 |        +0.62 |               |
 |   51 | Craig Hollow       |   6.3 |         8 |        +4.32 |               |
-|   52 | Janeau Janssen     |   4.9 |         3 |              |               |
-|   53 | Sergey Dobrinov    |   4.8 |         2 |              |               |
-|   54 | Zsolt Bartha       |   4.5 |        48 |        +0.09 |         +2.61 |
+|   52 | Zsolt Bartha       |   5.0 |        49 |        +0.54 |         +3.05 |
+|   53 | Janeau Janssen     |   4.9 |         3 |              |               |
+|   54 | Sergey Dobrinov    |   4.8 |         2 |              |               |
 |   55 | Anuj Dawar         |   4.2 |        15 |        +1.38 |               |
 |   56 | Jose Lara          |   4.1 |        10 |        +0.32 |               |
-|   57 | Cristhian Daniel   |   2.0 |        19 |        -0.46 |               |
-|   58 | Duncan MacRae      |  -4.6 |        10 |        +1.66 |               |
+|   57 | Cristhian Daniel   |   2.0 |        19 |        -0.42 |               |
+|   58 | Duncan MacRae      |  -4.6 |        10 |        +1.68 |               |
+|   59 | Yifan Wu           |  -7.0 |         1 |              |               |

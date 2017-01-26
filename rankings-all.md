@@ -429,10 +429,10 @@ Generated 2017-01-25.
 |  425 | Ali Umar                  |   5.2 |        13 |              |               |
 |  426 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  427 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.49 |
-|  428 | Janeau Janssen            |   4.9 |         3 |              |               |
-|  429 | Sergey Dobrinov           |   4.8 |         2 |              |               |
-|  430 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  431 | Zsolt Bartha              |   4.5 |        48 |        +0.09 |         +2.61 |
+|  428 | Zsolt Bartha              |   5.0 |        49 |        +0.54 |         +3.05 |
+|  429 | Janeau Janssen            |   4.9 |         3 |              |               |
+|  430 | Sergey Dobrinov           |   4.8 |         2 |              |               |
+|  431 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  432 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  433 | Anuj Dawar                |   4.2 |        15 |        +1.38 |               |
 |  434 | Jose Lara                 |   4.1 |        10 |        +0.32 |               |
@@ -449,7 +449,7 @@ Generated 2017-01-25.
 |  445 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  446 | Phil Lin                  |   2.1 |         1 |              |               |
 |  447 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  448 | Cristhian Daniel          |   2.0 |        19 |        -0.46 |               |
+|  448 | Cristhian Daniel          |   2.0 |        19 |        -0.42 |               |
 |  449 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  450 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  451 | Himanshu Chandra          |   1.8 |         4 |              |               |
@@ -502,7 +502,8 @@ Generated 2017-01-25.
 |  498 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  499 | Tin Do                    |  -4.0 |         1 |              |               |
 |  500 | Susan Grand               |  -4.3 |         3 |              |               |
-|  501 | Duncan MacRae             |  -4.6 |        10 |        +1.66 |               |
+|  501 | Duncan MacRae             |  -4.6 |        10 |        +1.68 |               |
 |  502 | Sara Green                |  -5.8 |         1 |              |               |
 |  503 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  504 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  504 | Yifan Wu                  |  -7.0 |         1 |              |               |
+|  505 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
