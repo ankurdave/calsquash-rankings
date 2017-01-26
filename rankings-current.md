@@ -1,4 +1,4 @@
-Generated 2017-01-25.
+Generated 2017-01-26.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -22,15 +22,15 @@ Generated 2017-01-25.
 |   18 | Robert Isaac       |  20.8 |        17 |              |               |
 |   19 | Jeff Gordon        |  20.4 |        44 |        -0.30 |         +2.85 |
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
-|   21 | Mike Jensen-Akula  |  20.0 |       221 |        -0.58 |         -1.62 |
-|   22 | Jonathan Francis   |  19.9 |        73 |        +0.28 |         +0.51 |
+|   21 | Jonathan Francis   |  20.1 |        74 |        +0.45 |         +0.67 |
+|   22 | Mike Jensen-Akula  |  20.0 |       221 |        -0.57 |         -1.61 |
 |   23 | Jaime Perez        |  19.0 |        22 |        -0.27 |               |
 |   24 | Shaun Lim          |  18.8 |        49 |        +0.50 |         +0.80 |
 |   25 | Eric Borden        |  18.5 |        39 |        +0.27 |         +3.32 |
 |   26 | Natalie Leung      |  18.4 |         1 |              |               |
 |   27 | Dror Matalon       |  18.4 |       359 |        +0.18 |         +0.36 |
-|   28 | Marc Schechter     |  18.3 |         5 |        -1.47 |               |
-|   29 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
+|   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
+|   29 | Marc Schechter     |  18.1 |         6 |        -1.75 |               |
 |   30 | Troup Howard       |  18.1 |        44 |        +0.34 |         +0.40 |
 |   31 | Wayne Heiser       |  17.7 |        40 |              |               |
 |   32 | David Bratt        |  17.3 |        22 |        +0.71 |         +0.90 |

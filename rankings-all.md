@@ -1,4 +1,4 @@
-Generated 2017-01-25.
+Generated 2017-01-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -167,12 +167,12 @@ Generated 2017-01-25.
 |  163 | John Grim                 |  20.1 |        13 |              |               |
 |  164 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  165 | Frank Kennan              |  20.1 |        11 |              |               |
-|  166 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  167 | Wesley Huang              |  20.0 |         8 |              |               |
-|  168 | Mike Jensen-Akula         |  20.0 |       221 |        -0.58 |         -1.62 |
-|  169 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  170 | Liam King                 |  19.9 |         6 |              |               |
-|  171 | Jonathan Francis          |  19.9 |        73 |        +0.28 |         +0.51 |
+|  166 | Jonathan Francis          |  20.1 |        74 |        +0.45 |         +0.67 |
+|  167 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  168 | Wesley Huang              |  20.0 |         8 |              |               |
+|  169 | Mike Jensen-Akula         |  20.0 |       221 |        -0.57 |         -1.61 |
+|  170 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  171 | Liam King                 |  19.9 |         6 |              |               |
 |  172 | Lysander Jim              |  19.8 |         6 |              |               |
 |  173 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  174 | Suneesh Kaul              |  19.7 |         3 |              |               |
@@ -211,10 +211,10 @@ Generated 2017-01-25.
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
 |  208 | Dror Matalon              |  18.4 |       359 |        +0.18 |         +0.36 |
 |  209 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  210 | Marc Schechter            |  18.3 |         5 |        -1.47 |               |
-|  211 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
-|  212 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  213 | Bob Roller                |  18.2 |         6 |              |               |
+|  210 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
+|  211 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  212 | Bob Roller                |  18.2 |         6 |              |               |
+|  213 | Marc Schechter            |  18.1 |         6 |        -1.75 |               |
 |  214 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  215 | Troup Howard              |  18.1 |        44 |        +0.34 |         +0.40 |
 |  216 | James Chung               |  17.9 |         7 |              |               |
