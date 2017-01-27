@@ -32,12 +32,12 @@ Generated 2017-01-26.
 |   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
 |   29 | Marc Schechter     |  18.1 |         6 |        -1.75 |               |
 |   30 | Troup Howard       |  18.1 |        44 |        +0.34 |         +0.40 |
-|   31 | Wayne Heiser       |  17.7 |        40 |              |               |
+|   31 | Wayne Heiser       |  17.5 |        41 |        -0.19 |               |
 |   32 | David Bratt        |  17.3 |        22 |        +0.71 |         +0.90 |
 |   33 | Josh Trauner       |  17.2 |        47 |        -0.48 |               |
 |   34 | Chris Flores       |  16.1 |       309 |        -0.44 |         -1.75 |
 |   35 | Sahar Sareminaeni  |  15.9 |        16 |        +0.41 |               |
-|   36 | Ankur Dave         |  15.6 |        59 |        +0.11 |         +7.54 |
+|   36 | Ankur Dave         |  15.8 |        60 |        +0.30 |         +7.73 |
 |   37 | Diego Butrich      |  15.5 |         8 |        +0.89 |               |
 |   38 | Kent Daniels       |  14.6 |        95 |        -0.15 |         -0.30 |
 |   39 | James Grant        |  14.4 |         5 |        +4.21 |               |
@@ -52,7 +52,7 @@ Generated 2017-01-26.
 |   48 | Brian Kempenich    |   8.2 |        42 |        -0.35 |         -0.99 |
 |   49 | Keaton Noon        |   7.2 |        23 |              |         +3.66 |
 |   50 | Alok Singh         |   6.5 |        18 |        +0.62 |               |
-|   51 | Craig Hollow       |   6.3 |         8 |        +4.32 |               |
+|   51 | Craig Hollow       |   6.4 |         8 |        +4.34 |               |
 |   52 | Janeau Janssen     |   4.9 |         3 |              |               |
 |   53 | Sergey Dobrinov    |   4.8 |         2 |              |               |
 |   54 | Zsolt Bartha       |   4.7 |        49 |        +0.26 |         +2.78 |

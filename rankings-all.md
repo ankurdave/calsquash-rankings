@@ -222,11 +222,11 @@ Generated 2017-01-26.
 |  218 | Nick Paget                |  17.8 |        35 |              |               |
 |  219 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  220 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  221 | Wayne Heiser              |  17.7 |        40 |              |               |
-|  222 | George Roche              |  17.7 |        14 |              |         +0.37 |
-|  223 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  224 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
-|  225 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  221 | George Roche              |  17.7 |        14 |              |         +0.37 |
+|  222 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  223 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
+|  224 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  225 | Wayne Heiser              |  17.5 |        41 |        -0.19 |               |
 |  226 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  227 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  228 | Craig Riddell             |  17.4 |         8 |              |               |
@@ -261,13 +261,13 @@ Generated 2017-01-26.
 |  257 | Chris Flores              |  16.1 |       309 |        -0.44 |         -1.75 |
 |  258 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  259 | Sahar Sareminaeni         |  15.9 |        16 |        +0.41 |               |
-|  260 | Terry Chang               |  15.8 |        48 |              |         +2.14 |
-|  261 | Louis Russell             |  15.8 |        20 |              |               |
-|  262 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  263 | Jared Nunn                |  15.7 |         5 |              |               |
-|  264 | Akash Sharma              |  15.7 |         8 |              |               |
-|  265 | Angie Ng                  |  15.7 |        12 |              |               |
-|  266 | Ankur Dave                |  15.6 |        59 |        +0.11 |         +7.54 |
+|  260 | Ankur Dave                |  15.8 |        60 |        +0.30 |         +7.73 |
+|  261 | Terry Chang               |  15.8 |        48 |              |         +2.14 |
+|  262 | Louis Russell             |  15.8 |        20 |              |               |
+|  263 | Rich Shapiro              |  15.8 |        82 |              |               |
+|  264 | Jared Nunn                |  15.7 |         5 |              |               |
+|  265 | Akash Sharma              |  15.7 |         8 |              |               |
+|  266 | Angie Ng                  |  15.7 |        12 |              |               |
 |  267 | Tanit Follett             |  15.5 |         8 |              |               |
 |  268 | Toni Queck                |  15.5 |        20 |              |               |
 |  269 | Diego Butrich             |  15.5 |         8 |        +0.89 |               |
@@ -415,7 +415,7 @@ Generated 2017-01-26.
 |  411 | Mikel Shybut              |   6.5 |         4 |              |               |
 |  412 | Markus Boese              |   6.5 |         1 |              |               |
 |  413 | Dav Clark                 |   6.4 |         6 |              |               |
-|  414 | Craig Hollow              |   6.3 |         8 |        +4.32 |               |
+|  414 | Craig Hollow              |   6.4 |         8 |        +4.34 |               |
 |  415 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  416 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  417 | Rohan Relan               |   6.0 |         4 |              |               |
