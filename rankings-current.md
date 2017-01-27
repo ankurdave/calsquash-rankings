@@ -18,7 +18,7 @@ Generated 2017-01-26.
 |   14 | Reid Johnsen       |  21.7 |        42 |        -0.32 |         +7.20 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
 |   16 | Jared Bard         |  21.2 |        38 |        +0.70 |         +1.76 |
-|   17 | Mark Modera        |  20.8 |       318 |        +0.03 |         -0.83 |
+|   17 | Mark Modera        |  20.8 |       318 |        +0.04 |         -0.82 |
 |   18 | Robert Isaac       |  20.8 |        17 |              |               |
 |   19 | Jeff Gordon        |  20.4 |        44 |        -0.30 |         +2.85 |
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
@@ -26,9 +26,9 @@ Generated 2017-01-26.
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |        -0.57 |         -1.61 |
 |   23 | Jaime Perez        |  19.0 |        22 |        -0.27 |               |
 |   24 | Shaun Lim          |  18.8 |        49 |        +0.50 |         +0.80 |
-|   25 | Eric Borden        |  18.5 |        39 |        +0.27 |         +3.32 |
+|   25 | Dror Matalon       |  18.6 |       360 |        +0.35 |         +0.53 |
 |   26 | Natalie Leung      |  18.4 |         1 |              |               |
-|   27 | Dror Matalon       |  18.4 |       359 |        +0.18 |         +0.36 |
+|   27 | Eric Borden        |  18.4 |        40 |        +0.10 |         +3.15 |
 |   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
 |   29 | Marc Schechter     |  18.1 |         6 |        -1.75 |               |
 |   30 | Troup Howard       |  18.1 |        44 |        +0.34 |         +0.40 |

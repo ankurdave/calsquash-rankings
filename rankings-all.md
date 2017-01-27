@@ -149,7 +149,7 @@ Generated 2017-01-26.
 |  145 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  147 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  148 | Mark Modera               |  20.8 |       318 |        +0.03 |         -0.83 |
+|  148 | Mark Modera               |  20.8 |       318 |        +0.04 |         -0.82 |
 |  149 | Robert Isaac              |  20.8 |        17 |              |               |
 |  150 | Jamie Funk                |  20.8 |        30 |              |               |
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
@@ -201,16 +201,16 @@ Generated 2017-01-26.
 |  197 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  198 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  199 | Allan Sly                 |  18.6 |        29 |              |               |
-|  200 | Jason Facchin             |  18.5 |         3 |              |               |
-|  201 | Yan Liu                   |  18.5 |        10 |              |               |
-|  202 | Eric Borden               |  18.5 |        39 |        +0.27 |         +3.32 |
+|  200 | Dror Matalon              |  18.6 |       360 |        +0.35 |         +0.53 |
+|  201 | Jason Facchin             |  18.5 |         3 |              |               |
+|  202 | Yan Liu                   |  18.5 |        10 |              |               |
 |  203 | Akshay Dugar              |  18.5 |         6 |              |               |
 |  204 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
 |  205 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  206 | John Eng                  |  18.4 |        28 |              |               |
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
-|  208 | Dror Matalon              |  18.4 |       359 |        +0.18 |         +0.36 |
-|  209 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  208 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  209 | Eric Borden               |  18.4 |        40 |        +0.10 |         +3.15 |
 |  210 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
 |  211 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  212 | Bob Roller                |  18.2 |         6 |              |               |
