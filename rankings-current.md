@@ -17,12 +17,12 @@ Generated 2017-01-26.
 |   13 | Anibhav Singla     |  22.6 |         8 |        +0.35 |               |
 |   14 | Reid Johnsen       |  21.7 |        42 |        -0.32 |         +7.20 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
-|   16 | Jared Bard         |  21.2 |        38 |        +0.70 |         +1.76 |
+|   16 | Jared Bard         |  20.9 |        39 |        +0.45 |         +1.52 |
 |   17 | Mark Modera        |  20.8 |       318 |        +0.04 |         -0.82 |
 |   18 | Robert Isaac       |  20.8 |        17 |              |               |
 |   19 | Jeff Gordon        |  20.4 |        44 |        -0.30 |         +2.85 |
 |   20 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
-|   21 | Jonathan Francis   |  20.1 |        74 |        +0.45 |         +0.67 |
+|   21 | Jonathan Francis   |  20.3 |        75 |        +0.65 |         +0.88 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |        -0.57 |         -1.61 |
 |   23 | Jaime Perez        |  19.0 |        22 |        -0.27 |               |
 |   24 | Shaun Lim          |  18.8 |        49 |        +0.50 |         +0.80 |

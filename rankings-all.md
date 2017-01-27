@@ -140,12 +140,12 @@ Generated 2017-01-26.
 |  136 | Adam Jacob                |  21.3 |         3 |              |               |
 |  137 | Vishal Jain               |  21.3 |         6 |              |               |
 |  138 | Casey Harelson            |  21.2 |        20 |              |               |
-|  139 | Jared Bard                |  21.2 |        38 |        +0.70 |         +1.76 |
-|  140 | Philip Bildner            |  21.2 |        22 |              |               |
-|  141 | Darren Morgan             |  21.2 |        11 |              |               |
-|  142 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  143 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  144 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  139 | Philip Bildner            |  21.2 |        22 |              |               |
+|  140 | Darren Morgan             |  21.2 |        11 |              |               |
+|  141 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  142 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  143 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  144 | Jared Bard                |  20.9 |        39 |        +0.45 |         +1.52 |
 |  145 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  147 | Joseph Farrell            |  20.9 |         8 |              |               |
@@ -163,14 +163,14 @@ Generated 2017-01-26.
 |  159 | Jeff Gordon               |  20.4 |        44 |        -0.30 |         +2.85 |
 |  160 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
 |  161 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  162 | Carl Schreck              |  20.2 |         2 |              |               |
-|  163 | John Grim                 |  20.1 |        13 |              |               |
-|  164 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  165 | Frank Kennan              |  20.1 |        11 |              |               |
-|  166 | Jonathan Francis          |  20.1 |        74 |        +0.45 |         +0.67 |
+|  162 | Jonathan Francis          |  20.3 |        75 |        +0.65 |         +0.88 |
+|  163 | Carl Schreck              |  20.2 |         2 |              |               |
+|  164 | John Grim                 |  20.1 |        13 |              |               |
+|  165 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  166 | Frank Kennan              |  20.1 |        11 |              |               |
 |  167 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  168 | Wesley Huang              |  20.0 |         8 |              |               |
-|  169 | Mike Jensen-Akula         |  20.0 |       221 |        -0.57 |         -1.61 |
+|  168 | Mike Jensen-Akula         |  20.0 |       221 |        -0.57 |         -1.61 |
+|  169 | Wesley Huang              |  20.0 |         8 |              |               |
 |  170 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  171 | Liam King                 |  19.9 |         6 |              |               |
 |  172 | Lysander Jim              |  19.8 |         6 |              |               |
