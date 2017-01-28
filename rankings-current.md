@@ -1,4 +1,4 @@
-Generated 2017-01-26.
+Generated 2017-01-27.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -8,10 +8,10 @@ Generated 2017-01-26.
 |    4 | Frank Kennamer     |  27.1 |       218 |        -0.18 |         -0.45 |
 |    5 | Jim Veitch         |  24.7 |       439 |        -0.12 |         -1.48 |
 |    6 | John Kunze         |  24.6 |       314 |        +0.37 |         -0.63 |
-|    7 | Sam McCormick      |  23.5 |        24 |        +0.83 |         +3.55 |
-|    8 | Aditya Guntuboyina |  23.5 |        79 |        +0.23 |         +1.22 |
+|    7 | Aditya Guntuboyina |  23.8 |        80 |        +0.50 |         +1.48 |
+|    8 | Sam McCormick      |  23.5 |        24 |        +0.83 |         +3.55 |
 |    9 | Matt Wong          |  23.4 |        81 |        -0.21 |         +2.24 |
-|   10 | Dan Bohn           |  23.3 |        84 |        +0.17 |         -0.47 |
+|   10 | Dan Bohn           |  23.0 |        85 |        -0.07 |         -0.71 |
 |   11 | Dan Meier          |  22.7 |        57 |        -0.07 |         +1.05 |
 |   12 | Jonathan Hankar    |  22.7 |       193 |        +0.39 |         +0.70 |
 |   13 | Anibhav Singla     |  22.6 |         8 |        +0.35 |               |

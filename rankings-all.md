@@ -1,4 +1,4 @@
-Generated 2017-01-26.
+Generated 2017-01-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -89,16 +89,16 @@ Generated 2017-01-26.
 |   85 | Glenn Forrester           |  23.9 |       355 |              |         -0.33 |
 |   86 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   87 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   88 | Matt Waid                 |  23.7 |        51 |              |               |
-|   89 | Sonesh Surana             |  23.7 |        95 |              |               |
-|   90 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   91 | Amy Lee                   |  23.6 |        56 |              |               |
-|   92 | Sam McCormick             |  23.5 |        24 |        +0.83 |         +3.55 |
-|   93 | Aditya Guntuboyina        |  23.5 |        79 |        +0.23 |         +1.22 |
+|   88 | Aditya Guntuboyina        |  23.8 |        80 |        +0.50 |         +1.48 |
+|   89 | Matt Waid                 |  23.7 |        51 |              |               |
+|   90 | Sonesh Surana             |  23.7 |        95 |              |               |
+|   91 | Nader Shoaibi             |  23.7 |        64 |              |               |
+|   92 | Amy Lee                   |  23.6 |        56 |              |               |
+|   93 | Sam McCormick             |  23.5 |        24 |        +0.83 |         +3.55 |
 |   94 | Matt Wong                 |  23.4 |        81 |        -0.21 |         +2.24 |
 |   95 | Garvin Heath              |  23.4 |        28 |              |               |
-|   96 | Dan Bohn                  |  23.3 |        84 |        +0.17 |         -0.47 |
-|   97 | Daniel Greengard          |  23.1 |        37 |              |               |
+|   96 | Daniel Greengard          |  23.1 |        37 |              |               |
+|   97 | Dan Bohn                  |  23.0 |        85 |        -0.07 |         -0.71 |
 |   98 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |   99 | Joe Farrell               |  23.0 |        30 |              |               |
 |  100 | Matt Wild                 |  23.0 |        25 |              |               |
