@@ -1,4 +1,4 @@
-Generated 2017-01-27.
+Generated 2017-01-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -95,8 +95,8 @@ Generated 2017-01-27.
 |   91 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   92 | Amy Lee                   |  23.6 |        56 |              |               |
 |   93 | Sam McCormick             |  23.5 |        24 |        +0.83 |         +3.55 |
-|   94 | Matt Wong                 |  23.4 |        81 |        -0.21 |         +2.24 |
-|   95 | Garvin Heath              |  23.4 |        28 |              |               |
+|   94 | Garvin Heath              |  23.4 |        28 |              |               |
+|   95 | Matt Wong                 |  23.4 |        81 |        -0.22 |         +2.23 |
 |   96 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   97 | Dan Bohn                  |  23.0 |        85 |        -0.07 |         -0.71 |
 |   98 | Anubhav Gupta             |  23.0 |         8 |              |               |
@@ -105,9 +105,9 @@ Generated 2017-01-27.
 |  101 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  102 | Andrew Pritchard          |  22.7 |        16 |              |         +0.40 |
 |  103 | Dan Meier                 |  22.7 |        57 |        -0.07 |         +1.05 |
-|  104 | Jonathan Hankar           |  22.7 |       193 |        +0.39 |         +0.70 |
-|  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  106 | Julian Marshall           |  22.7 |        31 |              |               |
+|  104 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  105 | Julian Marshall           |  22.7 |        31 |              |               |
+|  106 | Jonathan Hankar           |  22.6 |       194 |        +0.30 |         +0.60 |
 |  107 | Anibhav Singla            |  22.6 |         8 |        +0.35 |               |
 |  108 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  109 | Dev Millstein             |  22.6 |        92 |              |               |
@@ -126,12 +126,12 @@ Generated 2017-01-27.
 |  122 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  123 | Andrew Lawrie             |  22.0 |        46 |              |         +0.16 |
 |  124 | Jan Beranek               |  21.9 |        46 |              |               |
-|  125 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  126 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  127 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  128 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  129 | Omair Azam                |  21.7 |        18 |              |               |
-|  130 | Reid Johnsen              |  21.7 |        42 |        -0.32 |         +7.20 |
+|  125 | Reid Johnsen              |  21.8 |        43 |        -0.19 |         +7.33 |
+|  126 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  129 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  130 | Omair Azam                |  21.7 |        18 |              |               |
 |  131 | Phin Lee                  |  21.7 |        16 |              |               |
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  133 | Dante Popple              |  21.5 |        17 |              |               |

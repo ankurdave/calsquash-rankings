@@ -1,4 +1,4 @@
-Generated 2017-01-27.
+Generated 2017-01-28.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -10,12 +10,12 @@ Generated 2017-01-27.
 |    6 | John Kunze         |  24.6 |       314 |        +0.37 |         -0.63 |
 |    7 | Aditya Guntuboyina |  23.8 |        80 |        +0.50 |         +1.48 |
 |    8 | Sam McCormick      |  23.5 |        24 |        +0.83 |         +3.55 |
-|    9 | Matt Wong          |  23.4 |        81 |        -0.21 |         +2.24 |
+|    9 | Matt Wong          |  23.4 |        81 |        -0.22 |         +2.23 |
 |   10 | Dan Bohn           |  23.0 |        85 |        -0.07 |         -0.71 |
 |   11 | Dan Meier          |  22.7 |        57 |        -0.07 |         +1.05 |
-|   12 | Jonathan Hankar    |  22.7 |       193 |        +0.39 |         +0.70 |
+|   12 | Jonathan Hankar    |  22.6 |       194 |        +0.30 |         +0.60 |
 |   13 | Anibhav Singla     |  22.6 |         8 |        +0.35 |               |
-|   14 | Reid Johnsen       |  21.7 |        42 |        -0.32 |         +7.20 |
+|   14 | Reid Johnsen       |  21.8 |        43 |        -0.19 |         +7.33 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
 |   16 | Jared Bard         |  20.9 |        39 |        +0.45 |         +1.52 |
 |   17 | Mark Modera        |  20.8 |       318 |        +0.04 |         -0.82 |
