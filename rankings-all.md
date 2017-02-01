@@ -1,4 +1,4 @@
-Generated 2017-01-28.
+Generated 2017-01-31.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -216,17 +216,17 @@ Generated 2017-01-28.
 |  212 | Bob Roller                |  18.2 |         6 |              |               |
 |  213 | Marc Schechter            |  18.1 |         6 |        -1.75 |               |
 |  214 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  215 | Troup Howard              |  18.1 |        44 |        +0.34 |         +0.40 |
-|  216 | James Chung               |  17.9 |         7 |              |               |
-|  217 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
-|  218 | Nick Paget                |  17.8 |        35 |              |               |
-|  219 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  215 | James Chung               |  17.9 |         7 |              |               |
+|  216 | Andres Rodriguez          |  17.9 |        55 |              |         +0.46 |
+|  217 | Nick Paget                |  17.8 |        35 |              |               |
+|  218 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  219 | Troup Howard              |  17.8 |        46 |        +0.07 |         +0.14 |
 |  220 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  221 | George Roche              |  17.7 |        14 |              |         +0.37 |
 |  222 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  223 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
 |  224 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  225 | Wayne Heiser              |  17.5 |        41 |        -0.19 |               |
+|  225 | Wayne Heiser              |  17.5 |        42 |        -0.24 |               |
 |  226 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  227 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  228 | Craig Riddell             |  17.4 |         8 |              |               |
@@ -256,12 +256,12 @@ Generated 2017-01-28.
 |  252 | Steven Hahm               |  16.3 |         5 |              |               |
 |  253 | Jules Bowie               |  16.3 |        12 |              |               |
 |  254 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  255 | Jan Strasky               |  16.2 |        12 |              |               |
-|  256 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  257 | Chris Flores              |  16.1 |       309 |        -0.44 |         -1.75 |
-|  258 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  259 | Sahar Sareminaeni         |  15.9 |        16 |        +0.41 |               |
-|  260 | Ankur Dave                |  15.8 |        60 |        +0.30 |         +7.73 |
+|  255 | Ankur Dave                |  16.2 |        61 |        +0.66 |         +8.09 |
+|  256 | Jan Strasky               |  16.2 |        12 |              |               |
+|  257 | Sarah Mcneil              |  16.2 |        24 |              |               |
+|  258 | Chris Flores              |  16.1 |       309 |        -0.44 |         -1.75 |
+|  259 | Marc Bensadoun            |  16.1 |         5 |              |               |
+|  260 | Sahar Sareminaeni         |  15.9 |        16 |        +0.41 |               |
 |  261 | Terry Chang               |  15.8 |        48 |              |         +2.14 |
 |  262 | Louis Russell             |  15.8 |        20 |              |               |
 |  263 | Rich Shapiro              |  15.8 |        82 |              |               |

@@ -1,4 +1,4 @@
-Generated 2017-01-28.
+Generated 2017-01-31.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -31,13 +31,13 @@ Generated 2017-01-28.
 |   27 | Eric Borden        |  18.4 |        40 |        +0.10 |         +3.15 |
 |   28 | Kenny Bell         |  18.2 |       124 |              |         +0.16 |
 |   29 | Marc Schechter     |  18.1 |         6 |        -1.75 |               |
-|   30 | Troup Howard       |  18.1 |        44 |        +0.34 |         +0.40 |
-|   31 | Wayne Heiser       |  17.5 |        41 |        -0.19 |               |
+|   30 | Troup Howard       |  17.8 |        46 |        +0.07 |         +0.14 |
+|   31 | Wayne Heiser       |  17.5 |        42 |        -0.24 |               |
 |   32 | David Bratt        |  17.3 |        22 |        +0.71 |         +0.90 |
 |   33 | Josh Trauner       |  17.2 |        47 |        -0.48 |               |
-|   34 | Chris Flores       |  16.1 |       309 |        -0.44 |         -1.75 |
-|   35 | Sahar Sareminaeni  |  15.9 |        16 |        +0.41 |               |
-|   36 | Ankur Dave         |  15.8 |        60 |        +0.30 |         +7.73 |
+|   34 | Ankur Dave         |  16.2 |        61 |        +0.66 |         +8.09 |
+|   35 | Chris Flores       |  16.1 |       309 |        -0.44 |         -1.75 |
+|   36 | Sahar Sareminaeni  |  15.9 |        16 |        +0.41 |               |
 |   37 | Diego Butrich      |  15.5 |         8 |        +0.89 |               |
 |   38 | Kent Daniels       |  14.6 |        95 |        -0.15 |         -0.30 |
 |   39 | James Grant        |  14.4 |         5 |        +4.21 |               |
