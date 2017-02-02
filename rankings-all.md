@@ -1,4 +1,4 @@
-Generated 2017-01-31.
+Generated 2017-02-02.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -261,7 +261,7 @@ Generated 2017-01-31.
 |  257 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  258 | Chris Flores              |  16.1 |       309 |        -0.44 |         -1.75 |
 |  259 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  260 | Sahar Sareminaeni         |  15.9 |        16 |        +0.41 |               |
+|  260 | Sahar Sareminaeni         |  15.9 |        16 |        +0.39 |               |
 |  261 | Terry Chang               |  15.8 |        48 |              |         +2.14 |
 |  262 | Louis Russell             |  15.8 |        20 |              |               |
 |  263 | Rich Shapiro              |  15.8 |        82 |              |               |
@@ -289,9 +289,9 @@ Generated 2017-01-31.
 |  285 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  286 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  287 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  288 | Kent Daniels              |  14.6 |        95 |        -0.15 |         -0.30 |
-|  289 | Shai Vardi                |  14.5 |         4 |              |               |
-|  290 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  288 | Shai Vardi                |  14.5 |         4 |              |               |
+|  289 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  290 | Kent Daniels              |  14.5 |        96 |        -0.27 |         -0.41 |
 |  291 | Max Woodworth             |  14.4 |         7 |              |               |
 |  292 | James Grant               |  14.4 |         5 |        +4.21 |               |
 |  293 | Juliet Shih               |  14.4 |        11 |              |               |
@@ -305,13 +305,13 @@ Generated 2017-01-31.
 |  301 | Gurj Johal                |  13.8 |         2 |              |               |
 |  302 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  303 | Josephine Lee             |  13.7 |         6 |              |               |
-|  304 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  305 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  306 | Lars Foleide              |  13.5 |        11 |              |               |
-|  307 | Alex Rennet               |  13.5 |         2 |              |               |
-|  308 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  309 | Jake Toy                  |  13.4 |         5 |              |               |
-|  310 | Nikhil Paranjape          |  13.3 |        31 |        +0.27 |         +8.63 |
+|  304 | Nikhil Paranjape          |  13.6 |        32 |        +0.50 |         +8.86 |
+|  305 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  306 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  307 | Lars Foleide              |  13.5 |        11 |              |               |
+|  308 | Alex Rennet               |  13.5 |         2 |              |               |
+|  309 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  310 | Jake Toy                  |  13.4 |         5 |              |               |
 |  311 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  312 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  313 | Field Maloney             |  13.1 |        24 |              |               |
