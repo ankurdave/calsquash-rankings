@@ -1,4 +1,4 @@
-Generated 2017-02-02.
+Generated 2017-02-03.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -34,7 +34,7 @@ Generated 2017-02-02.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.1 |       218 |        -0.18 |         -0.45 |
+|   33 | Frank Kennamer            |  27.1 |       218 |        -0.19 |         -0.46 |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -94,10 +94,10 @@ Generated 2017-02-02.
 |   90 | Matt Waid                 |  23.7 |        51 |              |               |
 |   91 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   92 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   93 | Amy Lee                   |  23.6 |        56 |              |               |
-|   94 | Sam McCormick             |  23.5 |        24 |        +0.83 |         +3.55 |
-|   95 | Garvin Heath              |  23.4 |        28 |              |               |
-|   96 | Matt Wong                 |  23.4 |        81 |        -0.22 |         +2.23 |
+|   93 | Matt Wong                 |  23.6 |        82 |              |         +2.45 |
+|   94 | Amy Lee                   |  23.6 |        56 |              |               |
+|   95 | Sam McCormick             |  23.5 |        24 |        +0.83 |         +3.55 |
+|   96 | Garvin Heath              |  23.4 |        28 |              |               |
 |   97 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   98 | Dan Bohn                  |  23.0 |        85 |        -0.07 |         -0.71 |
 |   99 | Anubhav Gupta             |  23.0 |         8 |              |               |
@@ -126,14 +126,14 @@ Generated 2017-02-02.
 |  122 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  123 | Andrew Lawrie             |  22.0 |        46 |              |         +0.16 |
 |  124 | Jan Beranek               |  21.9 |        46 |              |               |
-|  125 | Reid Johnsen              |  21.8 |        43 |        -0.19 |         +7.33 |
-|  126 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  129 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  130 | Omair Azam                |  21.7 |        18 |              |               |
-|  131 | Phin Lee                  |  21.7 |        16 |              |               |
-|  132 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  125 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  126 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  127 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  128 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  129 | Omair Azam                |  21.7 |        18 |              |               |
+|  130 | Phin Lee                  |  21.7 |        16 |              |               |
+|  131 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  132 | Reid Johnsen              |  21.6 |        44 |        -0.41 |         +7.11 |
 |  133 | Dante Popple              |  21.5 |        17 |              |               |
 |  134 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  135 | Thomas Krussig            |  21.3 |        16 |              |               |

@@ -1,21 +1,21 @@
-Generated 2017-02-02.
+Generated 2017-02-03.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant        |  36.3 |        16 |        +1.16 |               |
 |    2 | Eric Katerman      |  31.8 |        35 |              |               |
 |    3 | Sam Sternberg      |  29.6 |       138 |        -0.48 |         +0.37 |
-|    4 | Frank Kennamer     |  27.1 |       218 |        -0.18 |         -0.45 |
+|    4 | Frank Kennamer     |  27.1 |       218 |        -0.19 |         -0.46 |
 |    5 | Jim Veitch         |  24.7 |       439 |        -0.12 |         -1.48 |
 |    6 | John Kunze         |  24.6 |       314 |        +0.37 |         -0.63 |
 |    7 | Anibhav Singla     |  23.8 |         9 |        +1.51 |               |
 |    8 | Aditya Guntuboyina |  23.8 |        80 |        +0.50 |         +1.48 |
-|    9 | Sam McCormick      |  23.5 |        24 |        +0.83 |         +3.55 |
-|   10 | Matt Wong          |  23.4 |        81 |        -0.22 |         +2.23 |
+|    9 | Matt Wong          |  23.6 |        82 |              |         +2.45 |
+|   10 | Sam McCormick      |  23.5 |        24 |        +0.83 |         +3.55 |
 |   11 | Dan Bohn           |  23.0 |        85 |        -0.07 |         -0.71 |
 |   12 | Dan Meier          |  22.7 |        57 |        -0.07 |         +1.05 |
 |   13 | Jonathan Hankar    |  22.6 |       194 |        +0.30 |         +0.60 |
-|   14 | Reid Johnsen       |  21.8 |        43 |        -0.19 |         +7.33 |
+|   14 | Reid Johnsen       |  21.6 |        44 |        -0.41 |         +7.11 |
 |   15 | Vishal Jain        |  21.3 |         6 |              |               |
 |   16 | Jared Bard         |  20.9 |        39 |        +0.45 |         +1.52 |
 |   17 | Robert Isaac       |  20.8 |        17 |              |               |
