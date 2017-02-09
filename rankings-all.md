@@ -255,8 +255,8 @@ Generated 2017-02-08.
 |  251 | Paul Chang                |  16.3 |         7 |              |               |
 |  252 | Steven Hahm               |  16.3 |         5 |              |               |
 |  253 | Jules Bowie               |  16.3 |        12 |              |               |
-|  254 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  255 | Ankur Dave                |  16.2 |        61 |              |         +6.42 |
+|  254 | Ankur Dave                |  16.3 |        62 |        +0.08 |         +6.50 |
+|  255 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  256 | Jan Strasky               |  16.2 |        12 |              |               |
 |  257 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  258 | Chris Flores              |  16.1 |       309 |              |         -1.15 |
@@ -342,8 +342,8 @@ Generated 2017-02-08.
 |  338 | Karan Jain                |  11.3 |        19 |              |               |
 |  339 | Meldan Heaslip            |  11.2 |        14 |              |               |
 |  340 | Lucas Siow                |  11.0 |        10 |              |               |
-|  341 | Dominick Ng               |  10.9 |        25 |              |               |
-|  342 | Rodrigo Calmet            |  10.8 |         5 |              |               |
+|  341 | Rodrigo Calmet            |  11.0 |         6 |        +0.19 |               |
+|  342 | Dominick Ng               |  10.9 |        25 |              |               |
 |  343 | Josh Lebowitz             |  10.7 |        33 |              |               |
 |  344 | George Bentley            |  10.6 |         4 |              |               |
 |  345 | Sudeep Agarwal            |  10.5 |         3 |              |               |

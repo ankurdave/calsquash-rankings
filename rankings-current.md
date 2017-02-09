@@ -33,7 +33,7 @@ Generated 2017-02-08.
 |   29 | Wayne Heiser       |  17.5 |        42 |              |         +6.93 |
 |   30 | David Bratt        |  17.3 |        22 |              |         +0.90 |
 |   31 | Josh Trauner       |  17.2 |        47 |              |         +2.50 |
-|   32 | Ankur Dave         |  16.2 |        61 |              |         +6.42 |
+|   32 | Ankur Dave         |  16.3 |        62 |        +0.08 |         +6.50 |
 |   33 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
 |   34 | Sahar Sareminaeni  |  15.9 |        16 |              |               |
 |   35 | Diego Butrich      |  15.5 |         8 |              |               |
@@ -41,7 +41,7 @@ Generated 2017-02-08.
 |   37 | James Grant        |  14.4 |         5 |              |               |
 |   38 | Nikhil Paranjape   |  13.6 |        32 |              |         +4.17 |
 |   39 | Meldan Heaslip     |  11.2 |        14 |              |               |
-|   40 | Rodrigo Calmet     |  10.8 |         5 |              |               |
+|   40 | Rodrigo Calmet     |  11.0 |         6 |        +0.19 |               |
 |   41 | Josh Lebowitz      |  10.7 |        33 |              |               |
 |   42 | Nate Aden          |  10.2 |        29 |              |               |
 |   43 | Raphael Magarik    |   8.8 |        18 |              |               |
