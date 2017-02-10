@@ -1,4 +1,4 @@
-Generated 2017-02-08.
+Generated 2017-02-09.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -54,6 +54,7 @@ Generated 2017-02-08.
 |   50 | Zsolt Bartha       |   4.7 |        49 |              |         +2.73 |
 |   51 | Jose Lara          |   4.1 |        10 |              |               |
 |   52 | Cristhian Daniel   |   2.3 |        19 |              |               |
-|   53 | Duncan MacRae      |  -2.8 |        11 |              |               |
+|   53 | Duncan MacRae      |  -1.3 |        12 |        +1.49 |               |
 |   54 | Seobin Jung        |  -2.9 |         5 |              |               |
-|   55 | Yifan Wu           | -11.7 |         2 |              |               |
+|   55 | Navarun Jain       | -10.4 |         1 |              |               |
+|   56 | Yifan Wu           | -11.7 |         2 |              |               |

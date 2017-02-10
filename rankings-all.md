@@ -1,4 +1,4 @@
-Generated 2017-02-08.
+Generated 2017-02-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -490,12 +490,12 @@ Generated 2017-02-08.
 |  486 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  487 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  488 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  489 | Matthew Flairty           |  -1.4 |         2 |              |               |
-|  490 | Nick Firmani              |  -1.6 |         3 |              |               |
-|  491 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
-|  492 | Judah Purcell             |  -2.2 |         1 |              |               |
-|  493 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
-|  494 | Duncan MacRae             |  -2.8 |        11 |              |               |
+|  489 | Duncan MacRae             |  -1.3 |        12 |        +1.49 |               |
+|  490 | Matthew Flairty           |  -1.4 |         2 |              |               |
+|  491 | Nick Firmani              |  -1.6 |         3 |              |               |
+|  492 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
+|  493 | Judah Purcell             |  -2.2 |         1 |              |               |
+|  494 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
 |  495 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
 |  496 | James Redfield            |  -2.9 |         3 |              |               |
 |  497 | Seobin Jung               |  -2.9 |         5 |              |               |
@@ -506,4 +506,5 @@ Generated 2017-02-08.
 |  502 | Sara Green                |  -5.8 |         1 |              |               |
 |  503 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  504 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  505 | Yifan Wu                  | -11.7 |         2 |              |               |
+|  505 | Navarun Jain              | -10.4 |         1 |              |               |
+|  506 | Yifan Wu                  | -11.7 |         2 |              |               |
