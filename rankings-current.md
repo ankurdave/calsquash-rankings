@@ -1,4 +1,4 @@
-Generated 2017-02-09.
+Generated 2017-02-10.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -32,7 +32,7 @@ Generated 2017-02-09.
 |   28 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
 |   29 | Wayne Heiser       |  17.5 |        42 |              |         +6.93 |
 |   30 | David Bratt        |  17.3 |        22 |              |         +0.90 |
-|   31 | Josh Trauner       |  17.2 |        47 |              |         +2.50 |
+|   31 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
 |   32 | Ankur Dave         |  16.3 |        62 |        +0.08 |         +6.50 |
 |   33 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
 |   34 | Sahar Sareminaeni  |  15.9 |        16 |              |               |
@@ -48,7 +48,7 @@ Generated 2017-02-09.
 |   44 | Duo Wang           |   8.5 |        65 |              |         -0.43 |
 |   45 | Brian Kempenich    |   8.2 |        42 |              |         -0.99 |
 |   46 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   47 | Craig Hollow       |   6.4 |         8 |              |               |
+|   47 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
 |   48 | Janeau Janssen     |   4.9 |         3 |              |               |
 |   49 | Sergey Dobrinov    |   4.8 |         2 |              |               |
 |   50 | Zsolt Bartha       |   4.7 |        49 |              |         +2.73 |

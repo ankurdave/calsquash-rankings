@@ -1,4 +1,4 @@
-Generated 2017-02-09.
+Generated 2017-02-10.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -236,10 +236,10 @@ Generated 2017-02-09.
 |  232 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  233 | Zach Brown                |  17.3 |         3 |              |               |
 |  234 | William Seles             |  17.2 |        15 |              |               |
-|  235 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  236 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  237 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  238 | Josh Trauner              |  17.2 |        47 |              |         +2.50 |
+|  235 | Josh Trauner              |  17.2 |        48 |        +0.07 |         +2.56 |
+|  236 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  237 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  238 | Lucas Cheon               |  17.2 |        19 |              |               |
 |  239 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  240 | Neil Conway               |  17.0 |        55 |              |               |
 |  241 | Michael Cianfrocco        |  17.0 |        18 |              |               |
@@ -415,8 +415,8 @@ Generated 2017-02-09.
 |  411 | Mikel Shybut              |   6.5 |         4 |              |               |
 |  412 | Markus Boese              |   6.5 |         1 |              |               |
 |  413 | Dav Clark                 |   6.4 |         6 |              |               |
-|  414 | Craig Hollow              |   6.4 |         8 |              |               |
-|  415 | Nicolas Huber             |   6.2 |         4 |              |               |
+|  414 | Nicolas Huber             |   6.2 |         4 |              |               |
+|  415 | Craig Hollow              |   6.2 |         9 |        -0.17 |               |
 |  416 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  417 | Rohan Relan               |   6.0 |         4 |              |               |
 |  418 | David Zhu                 |   5.8 |         2 |              |               |
