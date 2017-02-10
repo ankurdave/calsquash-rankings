@@ -44,7 +44,7 @@ Generated 2017-02-10.
 |   40 | Rodrigo Calmet     |  11.0 |         6 |        +0.19 |               |
 |   41 | Josh Lebowitz      |  10.7 |        33 |              |               |
 |   42 | Nate Aden          |  10.2 |        29 |              |               |
-|   43 | Raphael Magarik    |   8.8 |        18 |              |               |
+|   43 | Raphael Magarik    |   9.3 |        19 |        +0.57 |               |
 |   44 | Duo Wang           |   8.5 |        65 |              |         -0.43 |
 |   45 | Brian Kempenich    |   8.2 |        42 |              |         -0.99 |
 |   46 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
@@ -56,5 +56,6 @@ Generated 2017-02-10.
 |   52 | Cristhian Daniel   |   2.3 |        19 |              |               |
 |   53 | Duncan MacRae      |  -1.3 |        12 |        +1.49 |               |
 |   54 | Seobin Jung        |  -2.9 |         5 |              |               |
-|   55 | Navarun Jain       | -10.4 |         1 |              |               |
-|   56 | Yifan Wu           | -11.7 |         2 |              |               |
+|   55 | Rodrigo Lasheras   |  -4.1 |         1 |              |               |
+|   56 | Navarun Jain       | -10.4 |         1 |              |               |
+|   57 | Yifan Wu           | -11.7 |         2 |              |               |
