@@ -16,11 +16,11 @@ Generated 2017-02-10.
 |   12 | Sam McCormick      |  23.5 |        24 |              |         +2.91 |
 |   13 | Dan Bohn           |  23.0 |        85 |              |         -0.71 |
 |   14 | Matt Wild          |  23.0 |        25 |              |               |
-|   15 | Dan Meier          |  22.7 |        57 |              |         +0.83 |
+|   15 | Dan Meier          |  22.7 |        58 |        -0.03 |         +0.80 |
 |   16 | Jonathan Hankar    |  22.6 |       194 |              |         +0.75 |
 |   17 | Reid Johnsen       |  21.6 |        44 |              |         +2.42 |
 |   18 | Jared Bard         |  20.9 |        39 |              |         +0.18 |
-|   19 | Mark Modera        |  20.7 |       319 |              |         -0.67 |
+|   19 | Mark Modera        |  20.8 |       320 |        +0.04 |         -0.62 |
 |   20 | Jeff Gordon        |  20.4 |        44 |              |         +2.70 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |

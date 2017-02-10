@@ -105,7 +105,7 @@ Generated 2017-02-10.
 |  101 | Matt Wild                 |  23.0 |        25 |              |               |
 |  102 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  103 | Andrew Pritchard          |  22.7 |        16 |              |         +0.86 |
-|  104 | Dan Meier                 |  22.7 |        57 |              |         +0.83 |
+|  104 | Dan Meier                 |  22.7 |        58 |        -0.03 |         +0.80 |
 |  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  106 | Julian Marshall           |  22.7 |        31 |              |               |
 |  107 | Jonathan Hankar           |  22.6 |       194 |              |         +0.75 |
@@ -151,8 +151,8 @@ Generated 2017-02-10.
 |  147 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  148 | Robert Isaac              |  20.8 |        17 |              |               |
 |  149 | Jamie Funk                |  20.8 |        30 |              |               |
-|  150 | Matthew Brett             |  20.7 |        20 |              |               |
-|  151 | Mark Modera               |  20.7 |       319 |              |         -0.67 |
+|  150 | Mark Modera               |  20.8 |       320 |        +0.04 |         -0.62 |
+|  151 | Matthew Brett             |  20.7 |        20 |              |               |
 |  152 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  153 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
