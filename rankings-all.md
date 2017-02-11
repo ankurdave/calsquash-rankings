@@ -194,13 +194,13 @@ Generated 2017-02-10.
 |  190 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  191 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  192 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  193 | Shaun Lim                 |  18.8 |        49 |              |         +0.80 |
-|  194 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  195 | Peter Dering              |  18.7 |         9 |              |               |
-|  196 | Sushant Jain              |  18.7 |        12 |              |               |
-|  197 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  198 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  199 | Allan Sly                 |  18.6 |        29 |              |               |
+|  193 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  194 | Peter Dering              |  18.7 |         9 |              |               |
+|  195 | Sushant Jain              |  18.7 |        12 |              |               |
+|  196 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  197 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  198 | Allan Sly                 |  18.6 |        29 |              |               |
+|  199 | Shaun Lim                 |  18.6 |        50 |        -0.16 |         +0.64 |
 |  200 | Dror Matalon              |  18.6 |       360 |              |         +0.36 |
 |  201 | Jason Facchin             |  18.5 |         3 |              |               |
 |  202 | Yan Liu                   |  18.5 |        10 |              |               |
@@ -343,8 +343,8 @@ Generated 2017-02-10.
 |  339 | Meldan Heaslip            |  11.2 |        14 |              |               |
 |  340 | Lucas Siow                |  11.0 |        10 |              |               |
 |  341 | Rodrigo Calmet            |  11.0 |         6 |        +0.19 |               |
-|  342 | Dominick Ng               |  10.9 |        25 |              |               |
-|  343 | Josh Lebowitz             |  10.7 |        33 |              |               |
+|  342 | Josh Lebowitz             |  10.9 |        34 |        +0.21 |               |
+|  343 | Dominick Ng               |  10.9 |        25 |              |               |
 |  344 | George Bentley            |  10.6 |         4 |              |               |
 |  345 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  346 | Brian Puglise             |  10.4 |         2 |              |               |
