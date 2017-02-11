@@ -42,8 +42,8 @@ Generated 2017-02-10.
 |   38 | Nick Cobbett              |  26.9 |        30 |              |         +3.89 |
 |   39 | Josh Taylor               |  26.8 |        40 |              |               |
 |   40 | David Hwang               |  26.8 |        44 |              |               |
-|   41 | Gary Golding              |  26.5 |         6 |              |               |
-|   42 | Ethan Kerr                |  26.4 |        12 |              |               |
+|   41 | Ethan Kerr                |  26.5 |        13 |        +0.12 |               |
+|   42 | Gary Golding              |  26.5 |         6 |              |               |
 |   43 | Amos Vernon               |  26.4 |        30 |              |               |
 |   44 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   45 | Mikey Zarem               |  26.1 |         8 |              |               |
@@ -94,7 +94,7 @@ Generated 2017-02-10.
 |   90 | Matt Waid                 |  23.7 |        51 |              |               |
 |   91 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   92 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   93 | Matt Wong                 |  23.6 |        82 |              |         +2.25 |
+|   93 | Matt Wong                 |  23.6 |        83 |              |         +2.25 |
 |   94 | Amy Lee                   |  23.6 |        56 |              |               |
 |   95 | Sam McCormick             |  23.5 |        24 |              |         +2.91 |
 |   96 | Garvin Heath              |  23.4 |        28 |              |               |

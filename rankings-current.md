@@ -6,13 +6,13 @@ Generated 2017-02-10.
 |    2 | Eric Katerman      |  31.8 |        35 |              |               |
 |    3 | Sam Sternberg      |  29.6 |       138 |              |         +0.37 |
 |    4 | Frank Kennamer     |  27.1 |       218 |              |         -0.46 |
-|    5 | Ethan Kerr         |  26.4 |        12 |              |               |
+|    5 | Ethan Kerr         |  26.5 |        13 |        +0.12 |               |
 |    6 | Arvind Muralimohan |  25.7 |        16 |              |         +0.69 |
 |    7 | Jim Veitch         |  24.7 |       439 |              |         -1.55 |
 |    8 | John Kunze         |  24.6 |       314 |              |         +0.16 |
 |    9 | Anibhav Singla     |  23.8 |         9 |              |               |
 |   10 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
-|   11 | Matt Wong          |  23.6 |        82 |              |         +2.25 |
+|   11 | Matt Wong          |  23.6 |        83 |              |         +2.25 |
 |   12 | Sam McCormick      |  23.5 |        24 |              |         +2.91 |
 |   13 | Dan Bohn           |  23.0 |        85 |              |         -0.71 |
 |   14 | Matt Wild          |  23.0 |        25 |              |               |
