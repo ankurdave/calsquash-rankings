@@ -1,4 +1,4 @@
-Generated 2017-02-11.
+Generated 2017-02-12.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -151,16 +151,16 @@ Generated 2017-02-11.
 |  147 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  148 | Robert Isaac              |  20.8 |        17 |              |               |
 |  149 | Jamie Funk                |  20.8 |        30 |              |               |
-|  150 | Mark Modera               |  20.8 |       320 |        +0.04 |         -0.62 |
-|  151 | Matthew Brett             |  20.7 |        20 |              |               |
-|  152 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  150 | Matthew Brett             |  20.7 |        20 |              |               |
+|  151 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  152 | Mark Modera               |  20.7 |       321 |        -0.04 |         -0.70 |
 |  153 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  155 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
-|  156 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  157 | Andrew Green              |  20.5 |        52 |              |               |
-|  158 | Steven Sloman             |  20.4 |        10 |              |               |
-|  159 | Jeff Gordon               |  20.4 |        44 |              |         +2.70 |
+|  155 | Jeff Gordon               |  20.5 |        45 |        +0.11 |         +2.81 |
+|  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
+|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  158 | Andrew Green              |  20.5 |        52 |              |               |
+|  159 | Steven Sloman             |  20.4 |        10 |              |               |
 |  160 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
 |  161 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  162 | Jonathan Francis          |  20.3 |        75 |              |         +0.94 |

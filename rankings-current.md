@@ -1,4 +1,4 @@
-Generated 2017-02-11.
+Generated 2017-02-12.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -20,8 +20,8 @@ Generated 2017-02-11.
 |   16 | Jonathan Hankar    |  22.6 |       194 |              |         +0.75 |
 |   17 | Reid Johnsen       |  21.6 |        44 |              |         +2.42 |
 |   18 | Jared Bard         |  20.9 |        39 |              |         +0.18 |
-|   19 | Mark Modera        |  20.8 |       320 |        +0.04 |         -0.62 |
-|   20 | Jeff Gordon        |  20.4 |        44 |              |         +2.70 |
+|   19 | Mark Modera        |  20.7 |       321 |        -0.04 |         -0.70 |
+|   20 | Jeff Gordon        |  20.5 |        45 |        +0.11 |         +2.81 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   23 | Jaime Perez        |  19.0 |        22 |              |         +2.76 |
