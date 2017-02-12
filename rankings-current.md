@@ -39,11 +39,11 @@ Generated 2017-02-12.
 |   35 | Diego Butrich      |  15.5 |         8 |              |               |
 |   36 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
 |   37 | James Grant        |  14.4 |         5 |              |               |
-|   38 | Nikhil Paranjape   |  13.6 |        32 |              |         +4.17 |
+|   38 | Nikhil Paranjape   |  13.7 |        33 |        +0.10 |         +4.26 |
 |   39 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   40 | Rodrigo Calmet     |  11.0 |         6 |        +0.19 |               |
-|   41 | Josh Lebowitz      |  10.9 |        34 |        +0.21 |               |
-|   42 | Shrinu Kushagra    |  10.9 |         1 |              |               |
+|   41 | Shrinu Kushagra    |  10.9 |         1 |              |               |
+|   42 | Josh Lebowitz      |  10.9 |        35 |        +0.18 |               |
 |   43 | Nate Aden          |  10.2 |        29 |              |               |
 |   44 | Raphael Magarik    |   9.3 |        19 |        +0.57 |               |
 |   45 | Duo Wang           |   8.5 |        65 |              |         -0.43 |

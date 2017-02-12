@@ -305,7 +305,7 @@ Generated 2017-02-12.
 |  301 | Gurj Johal                |  13.8 |         2 |              |               |
 |  302 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  303 | Josephine Lee             |  13.7 |         6 |              |               |
-|  304 | Nikhil Paranjape          |  13.6 |        32 |              |         +4.17 |
+|  304 | Nikhil Paranjape          |  13.7 |        33 |        +0.10 |         +4.26 |
 |  305 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  306 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  307 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -343,9 +343,9 @@ Generated 2017-02-12.
 |  339 | Meldan Heaslip            |  11.2 |        14 |              |               |
 |  340 | Lucas Siow                |  11.0 |        10 |              |               |
 |  341 | Rodrigo Calmet            |  11.0 |         6 |        +0.19 |               |
-|  342 | Josh Lebowitz             |  10.9 |        34 |        +0.21 |               |
-|  343 | Dominick Ng               |  10.9 |        25 |              |               |
-|  344 | Shrinu Kushagra           |  10.9 |         1 |              |               |
+|  342 | Dominick Ng               |  10.9 |        25 |              |               |
+|  343 | Shrinu Kushagra           |  10.9 |         1 |              |               |
+|  344 | Josh Lebowitz             |  10.9 |        35 |        +0.18 |               |
 |  345 | George Bentley            |  10.6 |         4 |              |               |
 |  346 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  347 | Brian Puglise             |  10.4 |         2 |              |               |
