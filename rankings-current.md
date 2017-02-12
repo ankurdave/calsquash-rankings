@@ -1,15 +1,15 @@
-Generated 2017-02-10.
+Generated 2017-02-11.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant        |  36.3 |        16 |              |               |
 |    2 | Eric Katerman      |  31.8 |        35 |              |               |
 |    3 | Sam Sternberg      |  29.6 |       138 |              |         +0.37 |
-|    4 | Frank Kennamer     |  27.1 |       218 |              |         -0.46 |
+|    4 | Frank Kennamer     |  27.3 |       219 |        +0.19 |         -0.27 |
 |    5 | Ethan Kerr         |  26.5 |        13 |        +0.12 |               |
 |    6 | Arvind Muralimohan |  25.7 |        16 |              |         +0.69 |
 |    7 | Jim Veitch         |  24.7 |       439 |              |         -1.55 |
-|    8 | John Kunze         |  24.6 |       314 |              |         +0.16 |
+|    8 | John Kunze         |  24.4 |       316 |        -0.27 |         -0.11 |
 |    9 | Anibhav Singla     |  23.8 |         9 |              |               |
 |   10 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   11 | Matt Wong          |  23.6 |        83 |              |         +2.25 |
@@ -43,19 +43,20 @@ Generated 2017-02-10.
 |   39 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   40 | Rodrigo Calmet     |  11.0 |         6 |        +0.19 |               |
 |   41 | Josh Lebowitz      |  10.9 |        34 |        +0.21 |               |
-|   42 | Nate Aden          |  10.2 |        29 |              |               |
-|   43 | Raphael Magarik    |   9.3 |        19 |        +0.57 |               |
-|   44 | Duo Wang           |   8.5 |        65 |              |         -0.43 |
-|   45 | Brian Kempenich    |   8.2 |        42 |              |         -0.99 |
-|   46 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   47 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
-|   48 | Janeau Janssen     |   4.9 |         3 |              |               |
-|   49 | Sergey Dobrinov    |   4.8 |         2 |              |               |
-|   50 | Zsolt Bartha       |   4.7 |        49 |              |         +2.73 |
-|   51 | Jose Lara          |   4.1 |        10 |              |               |
-|   52 | Cristhian Daniel   |   2.3 |        19 |              |               |
-|   53 | Duncan MacRae      |  -1.3 |        12 |        +1.49 |               |
-|   54 | Seobin Jung        |  -2.9 |         5 |              |               |
-|   55 | Rodrigo Lasheras   |  -4.1 |         1 |              |               |
-|   56 | Navarun Jain       | -10.4 |         1 |              |               |
-|   57 | Yifan Wu           | -11.7 |         2 |              |               |
+|   42 | Shrinu Kushagra    |  10.9 |         1 |              |               |
+|   43 | Nate Aden          |  10.2 |        29 |              |               |
+|   44 | Raphael Magarik    |   9.3 |        19 |        +0.57 |               |
+|   45 | Duo Wang           |   8.5 |        65 |              |         -0.43 |
+|   46 | Brian Kempenich    |   8.2 |        42 |              |         -0.99 |
+|   47 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
+|   48 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
+|   49 | Janeau Janssen     |   4.9 |         3 |              |               |
+|   50 | Sergey Dobrinov    |   4.8 |         2 |              |               |
+|   51 | Zsolt Bartha       |   4.7 |        49 |              |         +2.73 |
+|   52 | Jose Lara          |   4.1 |        10 |              |               |
+|   53 | Cristhian Daniel   |   2.3 |        19 |              |               |
+|   54 | Duncan MacRae      |  -1.3 |        12 |        +1.49 |               |
+|   55 | Seobin Jung        |  -2.9 |         5 |              |               |
+|   56 | Rodrigo Lasheras   |  -4.1 |         1 |              |               |
+|   57 | Navarun Jain       | -10.4 |         1 |              |               |
+|   58 | Yifan Wu           | -11.7 |         2 |              |               |
