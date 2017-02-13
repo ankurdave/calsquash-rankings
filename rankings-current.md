@@ -20,7 +20,7 @@ Generated 2017-02-12.
 |   16 | Jonathan Hankar    |  22.6 |       194 |              |         +0.75 |
 |   17 | Reid Johnsen       |  21.6 |        44 |              |         +2.42 |
 |   18 | Jared Bard         |  20.8 |        40 |        -0.12 |         +0.06 |
-|   19 | Mark Modera        |  20.7 |       321 |        -0.03 |         -0.70 |
+|   19 | Mark Modera        |  20.8 |       322 |        +0.07 |         -0.59 |
 |   20 | Jeff Gordon        |  20.5 |        45 |        +0.11 |         +2.81 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
@@ -55,8 +55,9 @@ Generated 2017-02-12.
 |   51 | Zsolt Bartha       |   4.7 |        49 |              |         +2.73 |
 |   52 | Jose Lara          |   4.1 |        10 |              |               |
 |   53 | Cristhian Daniel   |   2.3 |        19 |              |               |
-|   54 | Duncan MacRae      |  -2.1 |        12 |        +0.75 |               |
-|   55 | Seobin Jung        |  -2.9 |         5 |              |               |
-|   56 | Rodrigo Lasheras   |  -4.1 |         1 |              |               |
-|   57 | Yifan Wu           |  -5.0 |         3 |        +6.75 |               |
-|   58 | Navarun Jain       | -12.7 |         2 |              |               |
+|   54 | Tim Browning       |   0.9 |         1 |              |               |
+|   55 | Duncan MacRae      |  -2.1 |        12 |        +0.75 |               |
+|   56 | Seobin Jung        |  -2.9 |         5 |              |               |
+|   57 | Rodrigo Lasheras   |  -4.1 |         1 |              |               |
+|   58 | Yifan Wu           |  -5.0 |         3 |        +6.75 |               |
+|   59 | Navarun Jain       | -12.7 |         2 |              |               |
