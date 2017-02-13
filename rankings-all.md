@@ -145,10 +145,10 @@ Generated 2017-02-12.
 |  141 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  142 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  143 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  144 | Jared Bard                |  20.9 |        39 |              |         +0.18 |
-|  145 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  147 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  146 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  147 | Jared Bard                |  20.8 |        40 |        -0.12 |         +0.06 |
 |  148 | Robert Isaac              |  20.8 |        17 |              |               |
 |  149 | Jamie Funk                |  20.8 |        30 |              |               |
 |  150 | Matthew Brett             |  20.7 |        20 |              |               |
@@ -328,21 +328,21 @@ Generated 2017-02-12.
 |  324 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  325 | Reed Foster               |  12.1 |         8 |              |               |
 |  326 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  327 | Larry Dale                |  11.9 |        29 |              |               |
-|  328 | Aman Gupta                |  11.8 |         3 |              |               |
-|  329 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  330 | Julian Gill               |  11.8 |         1 |              |               |
-|  331 | James Shinn               |  11.7 |       120 |              |               |
-|  332 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  333 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  334 | David Appelfeld           |  11.6 |        26 |              |               |
-|  335 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  336 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  337 | Carlos Filho              |  11.4 |         7 |              |               |
-|  338 | Karan Jain                |  11.3 |        19 |              |               |
-|  339 | Meldan Heaslip            |  11.2 |        14 |              |               |
-|  340 | Lucas Siow                |  11.0 |        10 |              |               |
-|  341 | Rodrigo Calmet            |  11.0 |         6 |        +0.19 |               |
+|  327 | Rodrigo Calmet            |  11.9 |         7 |        +1.12 |               |
+|  328 | Larry Dale                |  11.9 |        29 |              |               |
+|  329 | Aman Gupta                |  11.8 |         3 |              |               |
+|  330 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  331 | Julian Gill               |  11.8 |         1 |              |               |
+|  332 | James Shinn               |  11.7 |       120 |              |               |
+|  333 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  334 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  335 | David Appelfeld           |  11.6 |        26 |              |               |
+|  336 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  337 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
+|  338 | Carlos Filho              |  11.4 |         7 |              |               |
+|  339 | Karan Jain                |  11.3 |        19 |              |               |
+|  340 | Meldan Heaslip            |  11.2 |        14 |              |               |
+|  341 | Lucas Siow                |  11.0 |        10 |              |               |
 |  342 | Dominick Ng               |  10.9 |        25 |              |               |
 |  343 | Shrinu Kushagra           |  10.9 |         1 |              |               |
 |  344 | Josh Lebowitz             |  10.9 |        35 |        +0.18 |               |

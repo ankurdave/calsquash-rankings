@@ -19,7 +19,7 @@ Generated 2017-02-12.
 |   15 | Dan Meier          |  22.7 |        58 |        -0.03 |         +0.80 |
 |   16 | Jonathan Hankar    |  22.6 |       194 |              |         +0.75 |
 |   17 | Reid Johnsen       |  21.6 |        44 |              |         +2.42 |
-|   18 | Jared Bard         |  20.9 |        39 |              |         +0.18 |
+|   18 | Jared Bard         |  20.8 |        40 |        -0.12 |         +0.06 |
 |   19 | Mark Modera        |  20.7 |       321 |        -0.04 |         -0.70 |
 |   20 | Jeff Gordon        |  20.5 |        45 |        +0.11 |         +2.81 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
@@ -40,8 +40,8 @@ Generated 2017-02-12.
 |   36 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
 |   37 | James Grant        |  14.4 |         5 |              |               |
 |   38 | Nikhil Paranjape   |  13.7 |        33 |        +0.10 |         +4.26 |
-|   39 | Meldan Heaslip     |  11.2 |        14 |              |               |
-|   40 | Rodrigo Calmet     |  11.0 |         6 |        +0.19 |               |
+|   39 | Rodrigo Calmet     |  11.9 |         7 |        +1.12 |               |
+|   40 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   41 | Shrinu Kushagra    |  10.9 |         1 |              |               |
 |   42 | Josh Lebowitz      |  10.9 |        35 |        +0.18 |               |
 |   43 | Nate Aden          |  10.2 |        29 |              |               |
