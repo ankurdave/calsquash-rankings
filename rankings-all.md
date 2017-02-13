@@ -491,10 +491,10 @@ Generated 2017-02-12.
 |  487 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  488 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  489 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  490 | Duncan MacRae             |  -1.3 |        12 |        +1.49 |               |
-|  491 | Matthew Flairty           |  -1.4 |         2 |              |               |
-|  492 | Nick Firmani              |  -1.6 |         3 |              |               |
-|  493 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
+|  490 | Matthew Flairty           |  -1.4 |         2 |              |               |
+|  491 | Nick Firmani              |  -1.6 |         3 |              |               |
+|  492 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
+|  493 | Duncan MacRae             |  -2.1 |        12 |        +0.75 |               |
 |  494 | Judah Purcell             |  -2.2 |         1 |              |               |
 |  495 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
 |  496 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
@@ -505,8 +505,8 @@ Generated 2017-02-12.
 |  501 | Tin Do                    |  -4.0 |         1 |              |               |
 |  502 | Rodrigo Lasheras          |  -4.1 |         1 |              |               |
 |  503 | Susan Grand               |  -4.3 |         3 |              |               |
-|  504 | Sara Green                |  -5.8 |         1 |              |               |
-|  505 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  506 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  507 | Navarun Jain              | -10.4 |         1 |              |               |
-|  508 | Yifan Wu                  | -11.7 |         2 |              |               |
+|  504 | Yifan Wu                  |  -5.0 |         3 |        +6.75 |               |
+|  505 | Sara Green                |  -5.8 |         1 |              |               |
+|  506 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  507 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  508 | Navarun Jain              | -12.7 |         2 |              |               |

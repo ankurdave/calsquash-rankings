@@ -55,8 +55,8 @@ Generated 2017-02-12.
 |   51 | Zsolt Bartha       |   4.7 |        49 |              |         +2.73 |
 |   52 | Jose Lara          |   4.1 |        10 |              |               |
 |   53 | Cristhian Daniel   |   2.3 |        19 |              |               |
-|   54 | Duncan MacRae      |  -1.3 |        12 |        +1.49 |               |
+|   54 | Duncan MacRae      |  -2.1 |        12 |        +0.75 |               |
 |   55 | Seobin Jung        |  -2.9 |         5 |              |               |
 |   56 | Rodrigo Lasheras   |  -4.1 |         1 |              |               |
-|   57 | Navarun Jain       | -10.4 |         1 |              |               |
-|   58 | Yifan Wu           | -11.7 |         2 |              |               |
+|   57 | Yifan Wu           |  -5.0 |         3 |        +6.75 |               |
+|   58 | Navarun Jain       | -12.7 |         2 |              |               |
