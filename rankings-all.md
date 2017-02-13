@@ -99,13 +99,13 @@ Generated 2017-02-12.
 |   95 | Sam McCormick             |  23.5 |        24 |              |         +2.91 |
 |   96 | Garvin Heath              |  23.4 |        28 |              |               |
 |   97 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   98 | Dan Bohn                  |  23.0 |        85 |              |         -0.71 |
-|   99 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|  100 | Joe Farrell               |  23.0 |        30 |              |               |
-|  101 | Matt Wild                 |  23.0 |        25 |              |               |
-|  102 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  103 | Andrew Pritchard          |  22.7 |        16 |              |         +0.86 |
-|  104 | Dan Meier                 |  22.7 |        58 |        -0.03 |         +0.80 |
+|   98 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|   99 | Joe Farrell               |  23.0 |        30 |              |               |
+|  100 | Matt Wild                 |  23.0 |        25 |              |               |
+|  101 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  102 | Dan Bohn                  |  23.0 |        86 |        -0.08 |         -0.80 |
+|  103 | Dan Meier                 |  22.8 |        59 |        +0.06 |         +0.90 |
+|  104 | Andrew Pritchard          |  22.7 |        16 |              |         +0.86 |
 |  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  106 | Julian Marshall           |  22.7 |        31 |              |               |
 |  107 | Jonathan Hankar           |  22.6 |       194 |              |         +0.75 |
@@ -153,7 +153,7 @@ Generated 2017-02-12.
 |  149 | Jamie Funk                |  20.8 |        30 |              |               |
 |  150 | Matthew Brett             |  20.7 |        20 |              |               |
 |  151 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  152 | Mark Modera               |  20.7 |       321 |        -0.04 |         -0.70 |
+|  152 | Mark Modera               |  20.7 |       321 |        -0.03 |         -0.70 |
 |  153 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  155 | Jeff Gordon               |  20.5 |        45 |        +0.11 |         +2.81 |
