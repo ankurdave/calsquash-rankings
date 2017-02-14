@@ -16,11 +16,11 @@ Generated 2017-02-14.
 |   12 | Sam McCormick      |  23.5 |        24 |              |         +2.91 |
 |   13 | Matt Wild          |  23.0 |        25 |              |               |
 |   14 | Dan Bohn           |  23.0 |        86 |        -0.08 |         -0.80 |
-|   15 | Dan Meier          |  22.8 |        59 |        +0.06 |         +0.90 |
+|   15 | Dan Meier          |  22.7 |        60 |              |         +0.84 |
 |   16 | Jonathan Hankar    |  22.6 |       194 |              |         +0.75 |
 |   17 | Reid Johnsen       |  21.6 |        44 |              |         +2.42 |
-|   18 | Jared Bard         |  20.8 |        40 |        -0.12 |         +0.06 |
-|   19 | Mark Modera        |  20.8 |       322 |        +0.07 |         -0.59 |
+|   18 | Mark Modera        |  20.8 |       322 |        +0.11 |         -0.55 |
+|   19 | Jared Bard         |  20.8 |        40 |        -0.12 |         +0.06 |
 |   20 | Jeff Gordon        |  20.5 |        45 |        +0.11 |         +2.81 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
@@ -46,16 +46,16 @@ Generated 2017-02-14.
 |   42 | Josh Lebowitz      |  10.9 |        35 |        +0.18 |               |
 |   43 | Nate Aden          |  10.2 |        29 |              |               |
 |   44 | Raphael Magarik    |   9.8 |        20 |        +1.07 |               |
-|   45 | Duo Wang           |   8.6 |        66 |        +0.17 |         -0.26 |
-|   46 | Brian Kempenich    |   7.9 |        43 |        -0.23 |         -1.22 |
-|   47 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   48 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
-|   49 | Janeau Janssen     |   4.9 |         3 |              |               |
-|   50 | Sergey Dobrinov    |   4.8 |         2 |              |               |
-|   51 | Zsolt Bartha       |   4.5 |        50 |        -0.19 |         +2.53 |
-|   52 | Jose Lara          |   4.1 |        10 |              |               |
-|   53 | Cristhian Daniel   |   2.3 |        19 |              |               |
-|   54 | Tim Browning       |   0.9 |         1 |              |               |
+|   45 | Tim Browning       |   8.9 |         2 |              |               |
+|   46 | Duo Wang           |   8.6 |        66 |        +0.17 |         -0.26 |
+|   47 | Brian Kempenich    |   7.9 |        43 |        -0.23 |         -1.22 |
+|   48 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
+|   49 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
+|   50 | Janeau Janssen     |   4.9 |         3 |              |               |
+|   51 | Sergey Dobrinov    |   4.8 |         2 |              |               |
+|   52 | Zsolt Bartha       |   4.5 |        50 |        -0.19 |         +2.53 |
+|   53 | Jose Lara          |   4.1 |        10 |              |               |
+|   54 | Cristhian Daniel   |   2.3 |        19 |              |               |
 |   55 | Duncan MacRae      |  -2.1 |        12 |        +0.75 |               |
 |   56 | Seobin Jung        |  -2.9 |         5 |              |               |
 |   57 | Rodrigo Lasheras   |  -3.8 |         1 |              |               |
