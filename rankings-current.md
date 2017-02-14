@@ -1,4 +1,4 @@
-Generated 2017-02-13.
+Generated 2017-02-14.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -46,13 +46,13 @@ Generated 2017-02-13.
 |   42 | Josh Lebowitz      |  10.9 |        35 |        +0.18 |               |
 |   43 | Nate Aden          |  10.2 |        29 |              |               |
 |   44 | Raphael Magarik    |   9.8 |        20 |        +1.07 |               |
-|   45 | Duo Wang           |   8.5 |        65 |              |         -0.43 |
+|   45 | Duo Wang           |   8.6 |        66 |        +0.17 |         -0.26 |
 |   46 | Brian Kempenich    |   7.9 |        43 |        -0.23 |         -1.22 |
 |   47 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
 |   48 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
 |   49 | Janeau Janssen     |   4.9 |         3 |              |               |
 |   50 | Sergey Dobrinov    |   4.8 |         2 |              |               |
-|   51 | Zsolt Bartha       |   4.7 |        49 |              |         +2.73 |
+|   51 | Zsolt Bartha       |   4.5 |        50 |        -0.19 |         +2.53 |
 |   52 | Jose Lara          |   4.1 |        10 |              |               |
 |   53 | Cristhian Daniel   |   2.3 |        19 |              |               |
 |   54 | Tim Browning       |   0.9 |         1 |              |               |

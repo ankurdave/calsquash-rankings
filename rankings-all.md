@@ -1,4 +1,4 @@
-Generated 2017-02-13.
+Generated 2017-02-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -382,10 +382,10 @@ Generated 2017-02-13.
 |  378 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  379 | Therese Jones             |   8.7 |         6 |              |               |
 |  380 | Steven Yee                |   8.7 |         9 |              |               |
-|  381 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  382 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  383 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  384 | Duo Wang                  |   8.5 |        65 |              |         -0.43 |
+|  381 | Duo Wang                  |   8.6 |        66 |        +0.17 |         -0.26 |
+|  382 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  383 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  384 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  385 | Reynold Xin               |   8.3 |         5 |              |               |
 |  386 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  387 | Fahad Riyadh              |   8.2 |         5 |              |               |
@@ -433,7 +433,7 @@ Generated 2017-02-13.
 |  429 | Janeau Janssen            |   4.9 |         3 |              |               |
 |  430 | Sergey Dobrinov           |   4.8 |         2 |              |               |
 |  431 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  432 | Zsolt Bartha              |   4.7 |        49 |              |         +2.73 |
+|  432 | Zsolt Bartha              |   4.5 |        50 |        -0.19 |         +2.53 |
 |  433 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  434 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  435 | Jose Lara                 |   4.1 |        10 |              |               |
