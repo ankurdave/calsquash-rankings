@@ -1,4 +1,4 @@
-Generated 2017-02-12.
+Generated 2017-02-13.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -45,9 +45,9 @@ Generated 2017-02-12.
 |   41 | Shrinu Kushagra    |  10.9 |         1 |              |               |
 |   42 | Josh Lebowitz      |  10.9 |        35 |        +0.18 |               |
 |   43 | Nate Aden          |  10.2 |        29 |              |               |
-|   44 | Raphael Magarik    |   9.3 |        19 |        +0.57 |               |
+|   44 | Raphael Magarik    |   9.8 |        20 |        +1.07 |               |
 |   45 | Duo Wang           |   8.5 |        65 |              |         -0.43 |
-|   46 | Brian Kempenich    |   8.2 |        42 |              |         -0.99 |
+|   46 | Brian Kempenich    |   7.9 |        43 |        -0.23 |         -1.22 |
 |   47 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
 |   48 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
 |   49 | Janeau Janssen     |   4.9 |         3 |              |               |
@@ -58,6 +58,6 @@ Generated 2017-02-12.
 |   54 | Tim Browning       |   0.9 |         1 |              |               |
 |   55 | Duncan MacRae      |  -2.1 |        12 |        +0.75 |               |
 |   56 | Seobin Jung        |  -2.9 |         5 |              |               |
-|   57 | Rodrigo Lasheras   |  -4.1 |         1 |              |               |
+|   57 | Rodrigo Lasheras   |  -3.8 |         1 |              |               |
 |   58 | Yifan Wu           |  -5.0 |         3 |        +6.75 |               |
 |   59 | Navarun Jain       | -12.7 |         2 |              |               |

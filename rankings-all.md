@@ -1,4 +1,4 @@
-Generated 2017-02-12.
+Generated 2017-02-13.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -360,18 +360,18 @@ Generated 2017-02-12.
 |  356 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  357 | Reto Sutter               |  10.0 |        52 |              |         -0.83 |
 |  358 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  359 | Daniel Schwartz           |   9.8 |        22 |              |               |
-|  360 | Myles Gordon              |   9.8 |        42 |              |         -0.60 |
-|  361 | Jacob Bank                |   9.7 |         1 |              |               |
-|  362 | Gene Zubovich             |   9.7 |        19 |              |         -0.13 |
-|  363 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  364 | Mark Shapero              |   9.4 |         7 |              |               |
-|  365 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  366 | Max Grass                 |   9.4 |         1 |              |               |
-|  367 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  368 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  369 | Robert Broesler           |   9.4 |         4 |              |               |
-|  370 | Raphael Magarik           |   9.3 |        19 |        +0.57 |               |
+|  359 | Raphael Magarik           |   9.8 |        20 |        +1.07 |               |
+|  360 | Daniel Schwartz           |   9.8 |        22 |              |               |
+|  361 | Myles Gordon              |   9.8 |        42 |              |         -0.60 |
+|  362 | Jacob Bank                |   9.7 |         1 |              |               |
+|  363 | Gene Zubovich             |   9.7 |        19 |              |         -0.13 |
+|  364 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  365 | Mark Shapero              |   9.4 |         7 |              |               |
+|  366 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  367 | Max Grass                 |   9.4 |         1 |              |               |
+|  368 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  369 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  370 | Robert Broesler           |   9.4 |         4 |              |               |
 |  371 | Raunak Bhinge             |   9.3 |         8 |              |               |
 |  372 | Greg Sperla               |   9.3 |         8 |              |               |
 |  373 | Anosha Siripala           |   9.2 |        10 |              |               |
@@ -390,13 +390,13 @@ Generated 2017-02-12.
 |  386 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  387 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  388 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  389 | Brian Kempenich           |   8.2 |        42 |              |         -0.99 |
-|  390 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  391 | John Coates               |   8.1 |         9 |              |               |
-|  392 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  393 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  394 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  395 | Zarina Khan               |   8.0 |         5 |              |               |
+|  389 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  390 | John Coates               |   8.1 |         9 |              |               |
+|  391 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  392 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  393 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  394 | Zarina Khan               |   8.0 |         5 |              |               |
+|  395 | Brian Kempenich           |   7.9 |        43 |        -0.23 |         -1.22 |
 |  396 | Chip Malt                 |   7.9 |         4 |              |               |
 |  397 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  398 | Minsoo Bae                |   7.9 |         2 |              |               |
@@ -503,8 +503,8 @@ Generated 2017-02-12.
 |  499 | Seobin Jung               |  -2.9 |         5 |              |               |
 |  500 | Jenny Cheng               |  -3.2 |         1 |              |               |
 |  501 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  502 | Tin Do                    |  -4.0 |         1 |              |               |
-|  503 | Rodrigo Lasheras          |  -4.1 |         1 |              |               |
+|  502 | Rodrigo Lasheras          |  -3.8 |         1 |              |               |
+|  503 | Tin Do                    |  -4.0 |         1 |              |               |
 |  504 | Susan Grand               |  -4.3 |         3 |              |               |
 |  505 | Yifan Wu                  |  -5.0 |         3 |        +6.75 |               |
 |  506 | Sara Green                |  -5.8 |         1 |              |               |
