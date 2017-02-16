@@ -1,4 +1,4 @@
-Generated 2017-02-15.
+Generated 2017-02-16.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -360,11 +360,11 @@ Generated 2017-02-15.
 |  356 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  357 | Reto Sutter               |  10.0 |        52 |              |         -0.83 |
 |  358 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  359 | Raphael Magarik           |   9.8 |        20 |        +1.07 |               |
-|  360 | Daniel Schwartz           |   9.8 |        22 |              |               |
-|  361 | Myles Gordon              |   9.8 |        42 |              |         -0.60 |
-|  362 | Jacob Bank                |   9.7 |         1 |              |               |
-|  363 | Gene Zubovich             |   9.7 |        19 |              |         -0.13 |
+|  359 | Daniel Schwartz           |   9.8 |        22 |              |               |
+|  360 | Myles Gordon              |   9.8 |        42 |              |         -0.60 |
+|  361 | Jacob Bank                |   9.7 |         1 |              |               |
+|  362 | Gene Zubovich             |   9.7 |        19 |              |         -0.13 |
+|  363 | Raphael Magarik           |   9.6 |        20 |        +0.89 |               |
 |  364 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  365 | Mark Shapero              |   9.4 |         7 |              |               |
 |  366 | Kevin Pollock             |   9.4 |        28 |              |               |
@@ -380,10 +380,10 @@ Generated 2017-02-15.
 |  376 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  377 | Tim Browning              |   8.9 |         2 |              |               |
 |  378 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  379 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  380 | Therese Jones             |   8.7 |         6 |              |               |
-|  381 | Steven Yee                |   8.7 |         9 |              |               |
-|  382 | Duo Wang                  |   8.6 |        66 |        +0.17 |         -0.26 |
+|  379 | Duo Wang                  |   8.8 |        67 |        +0.31 |         -0.12 |
+|  380 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  381 | Therese Jones             |   8.7 |         6 |              |               |
+|  382 | Steven Yee                |   8.7 |         9 |              |               |
 |  383 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  384 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  385 | Jonas Hansen              |   8.6 |        14 |              |               |
@@ -434,7 +434,7 @@ Generated 2017-02-15.
 |  430 | Janeau Janssen            |   4.9 |         3 |              |               |
 |  431 | Sergey Dobrinov           |   4.8 |         2 |              |               |
 |  432 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  433 | Zsolt Bartha              |   4.5 |        50 |        -0.19 |         +2.53 |
+|  433 | Zsolt Bartha              |   4.5 |        50 |        -0.19 |         +2.54 |
 |  434 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  435 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  436 | Jose Lara                 |   4.1 |        10 |              |               |
@@ -492,18 +492,18 @@ Generated 2017-02-15.
 |  488 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  489 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  490 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  491 | Matthew Flairty           |  -1.4 |         2 |              |               |
-|  492 | Nick Firmani              |  -1.6 |         3 |              |               |
-|  493 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
-|  494 | Duncan MacRae             |  -2.1 |        12 |        +0.75 |               |
-|  495 | Judah Purcell             |  -2.2 |         1 |              |               |
-|  496 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
-|  497 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
-|  498 | James Redfield            |  -2.9 |         3 |              |               |
-|  499 | Seobin Jung               |  -2.9 |         5 |              |               |
-|  500 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  501 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  502 | Rodrigo Lasheras          |  -3.8 |         1 |              |               |
+|  491 | Rodrigo Lasheras          |  -1.2 |         2 |              |               |
+|  492 | Matthew Flairty           |  -1.4 |         2 |              |               |
+|  493 | Nick Firmani              |  -1.6 |         3 |              |               |
+|  494 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
+|  495 | Duncan MacRae             |  -2.1 |        12 |        +0.75 |               |
+|  496 | Judah Purcell             |  -2.2 |         1 |              |               |
+|  497 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
+|  498 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
+|  499 | James Redfield            |  -2.9 |         3 |              |               |
+|  500 | Seobin Jung               |  -2.9 |         5 |              |               |
+|  501 | Jenny Cheng               |  -3.2 |         1 |              |               |
+|  502 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  503 | Tin Do                    |  -4.0 |         1 |              |               |
 |  504 | Susan Grand               |  -4.3 |         3 |              |               |
 |  505 | Yifan Wu                  |  -5.0 |         3 |        +6.75 |               |
