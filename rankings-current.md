@@ -1,4 +1,4 @@
-Generated 2017-02-14.
+Generated 2017-02-15.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -14,14 +14,14 @@ Generated 2017-02-14.
 |   10 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   11 | Matt Wong          |  23.6 |        83 |              |         +2.25 |
 |   12 | Sam McCormick      |  23.5 |        24 |              |         +2.91 |
-|   13 | Matt Wild          |  23.0 |        25 |              |               |
-|   14 | Dan Bohn           |  23.0 |        86 |        -0.08 |         -0.80 |
+|   13 | Dan Bohn           |  23.1 |        87 |        +0.09 |         -0.62 |
+|   14 | Matt Wild          |  23.0 |        25 |              |               |
 |   15 | Dan Meier          |  22.7 |        60 |              |         +0.84 |
 |   16 | Jonathan Hankar    |  22.6 |       194 |              |         +0.75 |
 |   17 | Reid Johnsen       |  21.6 |        44 |              |         +2.42 |
-|   18 | Mark Modera        |  20.8 |       322 |        +0.11 |         -0.55 |
+|   18 | Mark Modera        |  20.8 |       322 |        +0.10 |         -0.56 |
 |   19 | Jared Bard         |  20.8 |        40 |        -0.12 |         +0.06 |
-|   20 | Jeff Gordon        |  20.5 |        45 |        +0.11 |         +2.81 |
+|   20 | Jeff Gordon        |  20.4 |        46 |        -0.07 |         +2.63 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   23 | Jaime Perez        |  19.0 |        22 |              |         +2.76 |

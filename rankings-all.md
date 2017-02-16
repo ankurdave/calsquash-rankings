@@ -1,4 +1,4 @@
-Generated 2017-02-14.
+Generated 2017-02-15.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -99,11 +99,11 @@ Generated 2017-02-14.
 |   95 | Sam McCormick             |  23.5 |        24 |              |         +2.91 |
 |   96 | Garvin Heath              |  23.4 |        28 |              |               |
 |   97 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   98 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|   99 | Joe Farrell               |  23.0 |        30 |              |               |
-|  100 | Matt Wild                 |  23.0 |        25 |              |               |
-|  101 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  102 | Dan Bohn                  |  23.0 |        86 |        -0.08 |         -0.80 |
+|   98 | Dan Bohn                  |  23.1 |        87 |        +0.09 |         -0.62 |
+|   99 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|  100 | Joe Farrell               |  23.0 |        30 |              |               |
+|  101 | Matt Wild                 |  23.0 |        25 |              |               |
+|  102 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  103 | Andrew Pritchard          |  22.7 |        16 |              |         +0.86 |
 |  104 | Dan Meier                 |  22.7 |        60 |              |         +0.84 |
 |  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
@@ -148,7 +148,7 @@ Generated 2017-02-14.
 |  144 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  145 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  146 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  147 | Mark Modera               |  20.8 |       322 |        +0.11 |         -0.55 |
+|  147 | Mark Modera               |  20.8 |       322 |        +0.10 |         -0.56 |
 |  148 | Jared Bard                |  20.8 |        40 |        -0.12 |         +0.06 |
 |  149 | Robert Isaac              |  20.8 |        17 |              |               |
 |  150 | Jamie Funk                |  20.8 |        30 |              |               |
@@ -156,12 +156,12 @@ Generated 2017-02-14.
 |  152 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  153 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  155 | Jeff Gordon               |  20.5 |        45 |        +0.11 |         +2.81 |
-|  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
-|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  158 | Andrew Green              |  20.5 |        52 |              |               |
-|  159 | Steven Sloman             |  20.4 |        10 |              |               |
-|  160 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
+|  155 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
+|  156 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  157 | Andrew Green              |  20.5 |        52 |              |               |
+|  158 | Steven Sloman             |  20.4 |        10 |              |               |
+|  159 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
+|  160 | Jeff Gordon               |  20.4 |        46 |        -0.07 |         +2.63 |
 |  161 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  162 | Jonathan Francis          |  20.3 |        75 |              |         +0.94 |
 |  163 | Carl Schreck              |  20.2 |         2 |              |               |
