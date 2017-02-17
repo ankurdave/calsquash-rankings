@@ -8,16 +8,16 @@ Generated 2017-02-16.
 |    4 | Frank Kennamer     |  27.3 |       219 |        +0.19 |         -0.27 |
 |    5 | Ethan Kerr         |  26.5 |        13 |        +0.12 |               |
 |    6 | Arvind Muralimohan |  25.7 |        16 |              |         +0.69 |
-|    7 | Jim Veitch         |  24.7 |       439 |              |         -1.55 |
-|    8 | John Kunze         |  24.4 |       316 |        -0.27 |         -0.11 |
-|    9 | Anibhav Singla     |  23.8 |         9 |              |               |
+|    7 | Anibhav Singla     |  25.0 |        10 |        +1.20 |               |
+|    8 | Jim Veitch         |  24.7 |       439 |              |         -1.55 |
+|    9 | John Kunze         |  24.4 |       316 |        -0.27 |         -0.11 |
 |   10 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   11 | Matt Wong          |  23.6 |        83 |              |         +2.25 |
 |   12 | Sam McCormick      |  23.5 |        24 |              |         +2.91 |
 |   13 | Dan Bohn           |  23.1 |        87 |        +0.09 |         -0.62 |
 |   14 | Matt Wild          |  23.0 |        25 |              |               |
 |   15 | Dan Meier          |  22.7 |        60 |              |         +0.84 |
-|   16 | Jonathan Hankar    |  22.6 |       194 |              |         +0.75 |
+|   16 | Jonathan Hankar    |  22.5 |       195 |        -0.11 |         +0.63 |
 |   17 | Reid Johnsen       |  21.6 |        44 |              |         +2.42 |
 |   18 | Mark Modera        |  20.8 |       322 |        +0.10 |         -0.56 |
 |   19 | Jared Bard         |  20.8 |        40 |        -0.12 |         +0.06 |
