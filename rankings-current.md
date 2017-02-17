@@ -35,15 +35,15 @@ Generated 2017-02-16.
 |   31 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
 |   32 | Ankur Dave         |  16.3 |        62 |        +0.08 |         +6.50 |
 |   33 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
-|   34 | Sahar Sareminaeni  |  15.9 |        16 |              |               |
+|   34 | Sahar Sareminaeni  |  15.8 |        17 |        -0.08 |               |
 |   35 | Diego Butrich      |  15.5 |         8 |              |               |
 |   36 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
 |   37 | James Grant        |  14.4 |         5 |              |               |
-|   38 | Nikhil Paranjape   |  13.7 |        33 |        +0.10 |         +4.26 |
+|   38 | Nikhil Paranjape   |  13.9 |        34 |        +0.29 |         +4.45 |
 |   39 | Rodrigo Calmet     |  11.9 |         7 |        +1.12 |               |
 |   40 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   41 | Shrinu Kushagra    |  10.9 |         1 |              |               |
-|   42 | Josh Lebowitz      |  10.9 |        35 |        +0.18 |               |
+|   42 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
 |   43 | Nate Aden          |  10.2 |        29 |              |               |
 |   44 | Raphael Magarik    |   9.6 |        20 |        +0.89 |               |
 |   45 | Tim Browning       |   8.9 |         2 |              |               |

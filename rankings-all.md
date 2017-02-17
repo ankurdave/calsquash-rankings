@@ -261,7 +261,7 @@ Generated 2017-02-16.
 |  257 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  258 | Chris Flores              |  16.1 |       309 |              |         -1.15 |
 |  259 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  260 | Sahar Sareminaeni         |  15.9 |        16 |              |               |
+|  260 | Sahar Sareminaeni         |  15.8 |        17 |        -0.08 |               |
 |  261 | Terry Chang               |  15.8 |        48 |              |         +0.90 |
 |  262 | Louis Russell             |  15.8 |        20 |              |               |
 |  263 | Rich Shapiro              |  15.8 |        82 |              |               |
@@ -301,11 +301,11 @@ Generated 2017-02-16.
 |  297 | Neil Sachs                |  14.1 |        12 |              |               |
 |  298 | Rupert Myers              |  14.0 |        27 |              |         +1.10 |
 |  299 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  300 | Mekoce Walker             |  13.8 |        38 |              |               |
-|  301 | Gurj Johal                |  13.8 |         2 |              |               |
-|  302 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  303 | Josephine Lee             |  13.7 |         6 |              |               |
-|  304 | Nikhil Paranjape          |  13.7 |        33 |        +0.10 |         +4.26 |
+|  300 | Nikhil Paranjape          |  13.9 |        34 |        +0.29 |         +4.45 |
+|  301 | Mekoce Walker             |  13.8 |        38 |              |               |
+|  302 | Gurj Johal                |  13.8 |         2 |              |               |
+|  303 | Freeden Ouer              |  13.8 |         1 |              |               |
+|  304 | Josephine Lee             |  13.7 |         6 |              |               |
 |  305 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  306 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  307 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -345,7 +345,7 @@ Generated 2017-02-16.
 |  341 | Lucas Siow                |  11.0 |        10 |              |               |
 |  342 | Dominick Ng               |  10.9 |        25 |              |               |
 |  343 | Shrinu Kushagra           |  10.9 |         1 |              |               |
-|  344 | Josh Lebowitz             |  10.9 |        35 |        +0.18 |               |
+|  344 | Josh Lebowitz             |  10.9 |        35 |        +0.19 |               |
 |  345 | George Bentley            |  10.6 |         4 |              |               |
 |  346 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  347 | Brian Puglise             |  10.4 |         2 |              |               |
