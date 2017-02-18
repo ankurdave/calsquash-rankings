@@ -1,4 +1,4 @@
-Generated 2017-02-17.
+Generated 2017-02-18.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -9,7 +9,7 @@ Generated 2017-02-17.
 |    5 | Ethan Kerr         |  26.5 |        13 |        +0.12 |               |
 |    6 | Arvind Muralimohan |  25.7 |        16 |              |         +0.69 |
 |    7 | Anibhav Singla     |  25.0 |        10 |        +1.20 |               |
-|    8 | Jim Veitch         |  24.7 |       439 |              |         -1.55 |
+|    8 | Jim Veitch         |  24.8 |       440 |        +0.09 |         -1.46 |
 |    9 | John Kunze         |  24.4 |       316 |        -0.27 |         -0.11 |
 |   10 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   11 | Matt Wong          |  23.6 |        83 |              |         +2.25 |
@@ -31,34 +31,35 @@ Generated 2017-02-17.
 |   27 | Marc Schechter     |  18.1 |         6 |              |               |
 |   28 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
 |   29 | Wayne Heiser       |  17.5 |        42 |              |         +6.93 |
-|   30 | David Bratt        |  17.3 |        22 |              |         +0.90 |
-|   31 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
-|   32 | Ankur Dave         |  16.3 |        62 |        +0.08 |         +6.50 |
-|   33 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
-|   34 | Sahar Sareminaeni  |  15.8 |        17 |        -0.08 |               |
-|   35 | Diego Butrich      |  15.5 |         8 |              |               |
-|   36 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
-|   37 | James Grant        |  14.4 |         5 |              |               |
-|   38 | Nikhil Paranjape   |  13.9 |        34 |        +0.29 |         +4.45 |
-|   39 | Rodrigo Calmet     |  11.9 |         7 |        +1.12 |               |
-|   40 | Meldan Heaslip     |  11.2 |        14 |              |               |
-|   41 | Shrinu Kushagra    |  10.9 |         1 |              |               |
-|   42 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
-|   43 | Nate Aden          |  10.2 |        29 |              |               |
-|   44 | Sergey Dobrinov    |   9.7 |         3 |        +4.81 |               |
-|   45 | Raphael Magarik    |   9.6 |        20 |        +0.89 |               |
-|   46 | Tim Browning       |   8.9 |         2 |              |               |
-|   47 | Duo Wang           |   8.8 |        67 |        +0.31 |         -0.12 |
-|   48 | Brian Kempenich    |   7.9 |        43 |        -0.23 |         -1.22 |
-|   49 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   50 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
-|   51 | Janeau Janssen     |   4.9 |         3 |              |               |
-|   52 | Zsolt Bartha       |   4.5 |        50 |        -0.19 |         +2.54 |
-|   53 | Jose Lara          |   4.1 |        10 |              |               |
-|   54 | Cristhian Daniel   |   2.3 |        19 |              |               |
-|   55 | Rodrigo Lasheras   |  -1.2 |         2 |              |               |
-|   56 | Duncan MacRae      |  -2.1 |        12 |        +0.75 |               |
-|   57 | Daniel Wissmann    |  -2.3 |         1 |              |               |
-|   58 | Seobin Jung        |  -2.9 |         5 |              |               |
-|   59 | Yifan Wu           |  -5.0 |         3 |        +6.75 |               |
-|   60 | Navarun Jain       | -12.7 |         2 |              |               |
+|   30 | Thomas Littleton   |  17.4 |         1 |              |               |
+|   31 | David Bratt        |  17.3 |        22 |              |         +0.90 |
+|   32 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
+|   33 | Ankur Dave         |  16.3 |        62 |        +0.08 |         +6.50 |
+|   34 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
+|   35 | Sahar Sareminaeni  |  15.8 |        17 |        -0.08 |               |
+|   36 | Diego Butrich      |  15.5 |         8 |              |               |
+|   37 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
+|   38 | James Grant        |  14.4 |         5 |              |               |
+|   39 | Nikhil Paranjape   |  13.9 |        34 |        +0.29 |         +4.45 |
+|   40 | Rodrigo Calmet     |  11.9 |         7 |        +1.12 |               |
+|   41 | Meldan Heaslip     |  11.2 |        14 |              |               |
+|   42 | Shrinu Kushagra    |  10.9 |         1 |              |               |
+|   43 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
+|   44 | Nate Aden          |  10.2 |        29 |              |               |
+|   45 | Sergey Dobrinov    |   9.7 |         3 |        +4.81 |               |
+|   46 | Raphael Magarik    |   9.6 |        20 |        +0.89 |               |
+|   47 | Tim Browning       |   8.9 |         2 |              |               |
+|   48 | Duo Wang           |   8.8 |        67 |        +0.31 |         -0.12 |
+|   49 | Brian Kempenich    |   7.9 |        43 |        -0.23 |         -1.22 |
+|   50 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
+|   51 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
+|   52 | Janeau Janssen     |   4.9 |         3 |              |               |
+|   53 | Zsolt Bartha       |   4.5 |        50 |        -0.19 |         +2.54 |
+|   54 | Jose Lara          |   4.1 |        10 |              |               |
+|   55 | Cristhian Daniel   |   2.3 |        19 |              |               |
+|   56 | Rodrigo Lasheras   |  -1.2 |         2 |              |               |
+|   57 | Duncan MacRae      |  -2.1 |        12 |        +0.75 |               |
+|   58 | Daniel Wissmann    |  -2.3 |         1 |              |               |
+|   59 | Seobin Jung        |  -2.9 |         5 |              |               |
+|   60 | Yifan Wu           |  -5.0 |         3 |        +6.75 |               |
+|   61 | Navarun Jain       | -12.7 |         2 |              |               |
