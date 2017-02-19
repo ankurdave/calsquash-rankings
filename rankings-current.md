@@ -4,13 +4,13 @@ Generated 2017-02-19.
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant        |  36.3 |        16 |              |               |
 |    2 | Eric Katerman      |  31.8 |        35 |              |               |
-|    3 | Sam Sternberg      |  29.6 |       138 |              |         +0.37 |
-|    4 | Frank Kennamer     |  27.3 |       219 |        +0.19 |         -0.27 |
+|    3 | Sam Sternberg      |  29.8 |       139 |        +0.19 |         +0.56 |
+|    4 | Frank Kennamer     |  27.1 |       220 |              |         -0.46 |
 |    5 | Ethan Kerr         |  26.5 |        13 |        +0.12 |               |
 |    6 | Arvind Muralimohan |  25.7 |        16 |              |         +0.69 |
 |    7 | Anibhav Singla     |  25.0 |        10 |        +1.20 |               |
 |    8 | Jim Veitch         |  24.8 |       440 |        +0.09 |         -1.46 |
-|    9 | John Kunze         |  24.4 |       316 |        -0.27 |         -0.11 |
+|    9 | John Kunze         |  24.4 |       316 |        -0.27 |         -0.10 |
 |   10 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   11 | Matt Wong          |  23.6 |        83 |              |         +2.25 |
 |   12 | Sam McCormick      |  23.5 |        24 |              |         +2.91 |
@@ -43,8 +43,8 @@ Generated 2017-02-19.
 |   39 | Nikhil Paranjape   |  13.9 |        34 |        +0.29 |         +4.45 |
 |   40 | Rodrigo Calmet     |  11.9 |         7 |        +1.13 |               |
 |   41 | Meldan Heaslip     |  11.2 |        14 |              |               |
-|   42 | Shrinu Kushagra    |  10.9 |         1 |              |               |
-|   43 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
+|   42 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
+|   43 | Shrinu Kushagra    |  10.7 |         1 |              |               |
 |   44 | Sergey Dobrinov    |  10.6 |         4 |        +5.75 |               |
 |   45 | Nate Aden          |  10.4 |        30 |        +0.12 |               |
 |   46 | Raphael Magarik    |   9.6 |        20 |        +0.89 |               |

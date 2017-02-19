@@ -21,8 +21,8 @@ Generated 2017-02-19.
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
-|   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.6 |       138 |              |         +0.37 |
+|   20 | Sam Sternberg             |  29.8 |       139 |        +0.19 |         +0.56 |
+|   21 | David Wood                |  29.7 |        43 |              |               |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -32,9 +32,9 @@ Generated 2017-02-19.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Frank Kennamer            |  27.3 |       219 |        +0.19 |         -0.27 |
-|   32 | Stephen Dang              |  27.2 |        34 |              |               |
-|   33 | Samer Shehata             |  27.2 |        29 |              |               |
+|   31 | Stephen Dang              |  27.2 |        34 |              |               |
+|   32 | Samer Shehata             |  27.2 |        29 |              |               |
+|   33 | Frank Kennamer            |  27.1 |       220 |              |         -0.46 |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -74,7 +74,7 @@ Generated 2017-02-19.
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
 |   71 | Jon Shih                  |  24.4 |        47 |              |               |
 |   72 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   73 | John Kunze                |  24.4 |       316 |        -0.27 |         -0.11 |
+|   73 | John Kunze                |  24.4 |       316 |        -0.27 |         -0.10 |
 |   74 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   75 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   76 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -345,8 +345,8 @@ Generated 2017-02-19.
 |  341 | Meldan Heaslip            |  11.2 |        14 |              |               |
 |  342 | Lucas Siow                |  11.0 |        10 |              |               |
 |  343 | Dominick Ng               |  10.9 |        25 |              |               |
-|  344 | Shrinu Kushagra           |  10.9 |         1 |              |               |
-|  345 | Josh Lebowitz             |  10.9 |        35 |        +0.19 |               |
+|  344 | Josh Lebowitz             |  10.9 |        35 |        +0.19 |               |
+|  345 | Shrinu Kushagra           |  10.7 |         1 |              |               |
 |  346 | George Bentley            |  10.6 |         4 |              |               |
 |  347 | Sergey Dobrinov           |  10.6 |         4 |        +5.75 |               |
 |  348 | Sudeep Agarwal            |  10.5 |         3 |              |               |
