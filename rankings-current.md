@@ -25,7 +25,7 @@ Generated 2017-02-19.
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   23 | Jaime Perez        |  18.8 |        23 |        -0.26 |         +2.49 |
-|   24 | Shaun Lim          |  18.6 |        50 |        -0.16 |         +0.64 |
+|   24 | Shaun Lim          |  18.6 |        51 |        -0.19 |         +0.61 |
 |   25 | Dror Matalon       |  18.6 |       360 |              |         +0.36 |
 |   26 | Eric Borden        |  18.4 |        40 |              |         +3.05 |
 |   27 | Marc Schechter     |  18.1 |         6 |              |               |
@@ -40,7 +40,7 @@ Generated 2017-02-19.
 |   36 | Diego Butrich      |  15.5 |         8 |              |               |
 |   37 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
 |   38 | James Grant        |  14.4 |         5 |              |               |
-|   39 | Nikhil Paranjape   |  13.9 |        34 |        +0.29 |         +4.45 |
+|   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.35 |         +4.51 |
 |   40 | Rodrigo Calmet     |  11.9 |         7 |        +1.13 |               |
 |   41 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   42 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |

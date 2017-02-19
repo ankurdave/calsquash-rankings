@@ -200,7 +200,7 @@ Generated 2017-02-19.
 |  196 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  197 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  198 | Allan Sly                 |  18.6 |        29 |              |               |
-|  199 | Shaun Lim                 |  18.6 |        50 |        -0.16 |         +0.64 |
+|  199 | Shaun Lim                 |  18.6 |        51 |        -0.19 |         +0.61 |
 |  200 | Dror Matalon              |  18.6 |       360 |              |         +0.36 |
 |  201 | Jason Facchin             |  18.5 |         3 |              |               |
 |  202 | Yan Liu                   |  18.5 |        10 |              |               |
@@ -301,8 +301,8 @@ Generated 2017-02-19.
 |  297 | Charles Denby             |  14.2 |         5 |              |               |
 |  298 | Neil Sachs                |  14.1 |        12 |              |               |
 |  299 | Rupert Myers              |  14.0 |        27 |              |         +1.10 |
-|  300 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  301 | Nikhil Paranjape          |  13.9 |        34 |        +0.29 |         +4.45 |
+|  300 | Nikhil Paranjape          |  13.9 |        35 |        +0.35 |         +4.51 |
+|  301 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  302 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  303 | Gurj Johal                |  13.8 |         2 |              |               |
 |  304 | Freeden Ouer              |  13.8 |         1 |              |               |
