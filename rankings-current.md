@@ -1,4 +1,4 @@
-Generated 2017-02-18.
+Generated 2017-02-19.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -19,12 +19,12 @@ Generated 2017-02-18.
 |   15 | Dan Meier          |  22.7 |        60 |              |         +0.84 |
 |   16 | Jonathan Hankar    |  22.5 |       195 |        -0.11 |         +0.63 |
 |   17 | Reid Johnsen       |  21.6 |        44 |              |         +2.42 |
-|   18 | Mark Modera        |  20.8 |       322 |        +0.10 |         -0.56 |
-|   19 | Jared Bard         |  20.8 |        40 |        -0.12 |         +0.06 |
+|   18 | Jared Bard         |  21.1 |        41 |        +0.16 |         +0.34 |
+|   19 | Mark Modera        |  20.8 |       322 |        +0.10 |         -0.56 |
 |   20 | Jeff Gordon        |  20.4 |        46 |        -0.07 |         +2.63 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
-|   23 | Jaime Perez        |  19.0 |        22 |              |         +2.76 |
+|   23 | Jaime Perez        |  18.8 |        23 |        -0.26 |         +2.49 |
 |   24 | Shaun Lim          |  18.6 |        50 |        -0.16 |         +0.64 |
 |   25 | Dror Matalon       |  18.6 |       360 |              |         +0.36 |
 |   26 | Eric Borden        |  18.4 |        40 |              |         +3.05 |
@@ -34,19 +34,19 @@ Generated 2017-02-18.
 |   30 | Thomas Littleton   |  17.4 |         1 |              |               |
 |   31 | David Bratt        |  17.3 |        22 |              |         +0.90 |
 |   32 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
-|   33 | Ankur Dave         |  16.3 |        62 |        +0.08 |         +6.50 |
+|   33 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
 |   34 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
 |   35 | Sahar Sareminaeni  |  15.8 |        17 |        -0.08 |               |
 |   36 | Diego Butrich      |  15.5 |         8 |              |               |
 |   37 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
 |   38 | James Grant        |  14.4 |         5 |              |               |
 |   39 | Nikhil Paranjape   |  13.9 |        34 |        +0.29 |         +4.45 |
-|   40 | Rodrigo Calmet     |  11.9 |         7 |        +1.12 |               |
+|   40 | Rodrigo Calmet     |  11.9 |         7 |        +1.13 |               |
 |   41 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   42 | Shrinu Kushagra    |  10.9 |         1 |              |               |
 |   43 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
-|   44 | Nate Aden          |  10.2 |        29 |              |               |
-|   45 | Sergey Dobrinov    |   9.7 |         3 |        +4.81 |               |
+|   44 | Sergey Dobrinov    |  10.6 |         4 |        +5.75 |               |
+|   45 | Nate Aden          |  10.4 |        30 |        +0.12 |               |
 |   46 | Raphael Magarik    |   9.6 |        20 |        +0.89 |               |
 |   47 | Tim Browning       |   8.9 |         2 |              |               |
 |   48 | Duo Wang           |   8.8 |        67 |        +0.31 |         -0.12 |
