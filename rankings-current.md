@@ -1,4 +1,4 @@
-Generated 2017-02-19.
+Generated 2017-02-20.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -60,6 +60,6 @@ Generated 2017-02-19.
 |   56 | Duncan MacRae      |  -0.2 |        13 |        +2.64 |               |
 |   57 | Rodrigo Lasheras   |  -1.2 |         2 |              |               |
 |   58 | Daniel Wissmann    |  -2.3 |         1 |              |               |
-|   59 | Seobin Jung        |  -4.4 |         6 |        -1.48 |         -1.48 |
-|   60 | Yifan Wu           |  -6.9 |         3 |        +4.79 |               |
+|   59 | Yifan Wu           |  -3.3 |         4 |        +8.39 |               |
+|   60 | Seobin Jung        |  -5.4 |         7 |        -2.50 |         -2.50 |
 |   61 | Navarun Jain       | -12.1 |         2 |              |               |

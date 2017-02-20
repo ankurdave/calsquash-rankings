@@ -1,4 +1,4 @@
-Generated 2017-02-19.
+Generated 2017-02-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -504,12 +504,12 @@ Generated 2017-02-19.
 |  500 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
 |  501 | James Redfield            |  -2.9 |         3 |              |               |
 |  502 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  503 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  504 | Tin Do                    |  -4.0 |         1 |              |               |
-|  505 | Susan Grand               |  -4.3 |         3 |              |               |
-|  506 | Seobin Jung               |  -4.4 |         6 |        -1.48 |         -1.48 |
-|  507 | Sara Green                |  -5.8 |         1 |              |               |
-|  508 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  509 | Yifan Wu                  |  -6.9 |         3 |        +4.79 |               |
+|  503 | Yifan Wu                  |  -3.3 |         4 |        +8.39 |               |
+|  504 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  505 | Tin Do                    |  -4.0 |         1 |              |               |
+|  506 | Susan Grand               |  -4.3 |         3 |              |               |
+|  507 | Seobin Jung               |  -5.4 |         7 |        -2.50 |         -2.50 |
+|  508 | Sara Green                |  -5.8 |         1 |              |               |
+|  509 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  510 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
 |  511 | Navarun Jain              | -12.1 |         2 |              |               |
