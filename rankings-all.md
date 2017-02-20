@@ -2,7 +2,7 @@ Generated 2017-02-19.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  36.3 |        16 |              |               |
+|    1 | Colin Grant               |  36.4 |        17 |        +0.14 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |         +0.13 |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -34,7 +34,7 @@ Generated 2017-02-19.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.1 |       220 |              |         -0.46 |
+|   33 | Frank Kennamer            |  27.0 |       221 |        -0.05 |         -0.50 |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
