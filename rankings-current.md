@@ -24,7 +24,7 @@ Generated 2017-02-20.
 |   20 | Jeff Gordon        |  20.4 |        46 |        -0.07 |         +2.63 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
-|   23 | Jaime Perez        |  18.8 |        23 |        -0.26 |         +2.49 |
+|   23 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
 |   24 | Shaun Lim          |  18.6 |        51 |        -0.19 |         +0.61 |
 |   25 | Dror Matalon       |  18.6 |       360 |              |         +0.36 |
 |   26 | Eric Borden        |  18.4 |        40 |              |         +3.05 |
@@ -41,8 +41,8 @@ Generated 2017-02-20.
 |   37 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
 |   38 | James Grant        |  14.4 |         5 |              |               |
 |   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.35 |         +4.51 |
-|   40 | Sergey Dobrinov    |  12.2 |         5 |        +7.33 |               |
-|   41 | Rodrigo Calmet     |  11.9 |         7 |        +1.13 |               |
+|   40 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
+|   41 | Sergey Dobrinov    |  12.2 |         5 |        +7.33 |               |
 |   42 | Tim Browning       |  11.9 |         3 |              |               |
 |   43 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   44 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |

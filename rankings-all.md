@@ -192,7 +192,7 @@ Generated 2017-02-20.
 |  188 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  189 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  190 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  191 | Jaime Perez               |  18.8 |        23 |        -0.26 |         +2.49 |
+|  191 | Jaime Perez               |  18.8 |        24 |        -0.24 |         +2.52 |
 |  192 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  193 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  194 | Peter Dering              |  18.7 |         9 |              |               |
@@ -325,12 +325,12 @@ Generated 2017-02-20.
 |  321 | Huw Lester                |  12.5 |         1 |              |               |
 |  322 | Richard Fabini            |  12.4 |         3 |              |               |
 |  323 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  324 | John Givens               |  12.2 |        13 |              |               |
-|  325 | Sergey Dobrinov           |  12.2 |         5 |        +7.33 |               |
-|  326 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  327 | Reed Foster               |  12.1 |         8 |              |               |
-|  328 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  329 | Rodrigo Calmet            |  11.9 |         7 |        +1.13 |               |
+|  324 | Rodrigo Calmet            |  12.4 |         8 |        +1.61 |               |
+|  325 | John Givens               |  12.2 |        13 |              |               |
+|  326 | Sergey Dobrinov           |  12.2 |         5 |        +7.33 |               |
+|  327 | Sylvan Arevalo            |  12.2 |         3 |              |               |
+|  328 | Reed Foster               |  12.1 |         8 |              |               |
+|  329 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  330 | Larry Dale                |  11.9 |        29 |              |               |
 |  331 | Tim Browning              |  11.9 |         3 |              |               |
 |  332 | Aman Gupta                |  11.8 |         3 |              |               |
