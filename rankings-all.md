@@ -136,13 +136,13 @@ Generated 2017-02-21.
 |  132 | Dante Popple              |  21.5 |        17 |              |               |
 |  133 | Reid Johnsen              |  21.4 |        45 |        -0.24 |         +2.18 |
 |  134 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  135 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  136 | Adam Jacob                |  21.3 |         3 |              |               |
-|  137 | Vishal Jain               |  21.3 |         6 |              |               |
-|  138 | Casey Harelson            |  21.2 |        20 |              |               |
-|  139 | Philip Bildner            |  21.2 |        22 |              |               |
-|  140 | Darren Morgan             |  21.2 |        11 |              |               |
-|  141 | Jared Bard                |  21.1 |        41 |        +0.16 |         +0.34 |
+|  135 | Jared Bard                |  21.3 |        42 |        +0.37 |         +0.55 |
+|  136 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  137 | Adam Jacob                |  21.3 |         3 |              |               |
+|  138 | Vishal Jain               |  21.3 |         6 |              |               |
+|  139 | Casey Harelson            |  21.2 |        20 |              |               |
+|  140 | Philip Bildner            |  21.2 |        22 |              |               |
+|  141 | Darren Morgan             |  21.2 |        11 |              |               |
 |  142 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  143 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  144 | Paz Grimberg              |  21.0 |        17 |              |               |
@@ -210,9 +210,9 @@ Generated 2017-02-21.
 |  206 | John Eng                  |  18.4 |        28 |              |               |
 |  207 | Natalie Leung             |  18.4 |         1 |              |               |
 |  208 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  209 | Eric Borden               |  18.4 |        40 |              |         +3.05 |
-|  210 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
-|  211 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  209 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
+|  210 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  211 | Eric Borden               |  18.2 |        41 |        -0.18 |         +2.87 |
 |  212 | Bob Roller                |  18.2 |         6 |              |               |
 |  213 | Marc Schechter            |  18.1 |         6 |              |               |
 |  214 | Jamie Paterson            |  18.1 |         4 |              |               |
