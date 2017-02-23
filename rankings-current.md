@@ -14,7 +14,7 @@ Generated 2017-02-22.
 |   10 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   11 | Matt Wong          |  23.6 |        83 |              |         +2.25 |
 |   12 | Sam McCormick      |  23.5 |        24 |              |         +2.91 |
-|   13 | Dan Bohn           |  23.1 |        88 |        +0.05 |         -0.67 |
+|   13 | Dan Bohn           |  23.1 |        89 |        +0.02 |         -0.70 |
 |   14 | Matt Wild          |  23.0 |        25 |              |               |
 |   15 | Dan Meier          |  22.7 |        60 |              |         +0.84 |
 |   16 | Jonathan Hankar    |  22.7 |       196 |        +0.10 |         +0.85 |
@@ -25,8 +25,8 @@ Generated 2017-02-22.
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   23 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
-|   24 | Shaun Lim          |  18.6 |        51 |        -0.19 |         +0.61 |
-|   25 | Dror Matalon       |  18.6 |       360 |              |         +0.36 |
+|   24 | Dror Matalon       |  18.6 |       361 |        +0.02 |         +0.39 |
+|   25 | Shaun Lim          |  18.6 |        51 |        -0.19 |         +0.61 |
 |   26 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
 |   27 | Marc Schechter     |  18.1 |         6 |              |               |
 |   28 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
@@ -43,7 +43,7 @@ Generated 2017-02-22.
 |   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.35 |         +4.51 |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
 |   41 | Sergey Dobrinov    |  12.2 |         5 |        +7.33 |               |
-|   42 | Tim Browning       |  11.9 |         3 |              |               |
+|   42 | Tim Browning       |  11.8 |         3 |              |               |
 |   43 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   44 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
 |   45 | Shrinu Kushagra    |  10.7 |         1 |              |               |

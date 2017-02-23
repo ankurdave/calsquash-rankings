@@ -99,7 +99,7 @@ Generated 2017-02-22.
 |   95 | Sam McCormick             |  23.5 |        24 |              |         +2.91 |
 |   96 | Garvin Heath              |  23.4 |        28 |              |               |
 |   97 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   98 | Dan Bohn                  |  23.1 |        88 |        +0.05 |         -0.67 |
+|   98 | Dan Bohn                  |  23.1 |        89 |        +0.02 |         -0.70 |
 |   99 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  100 | Joe Farrell               |  23.0 |        30 |              |               |
 |  101 | Matt Wild                 |  23.0 |        25 |              |               |
@@ -200,8 +200,8 @@ Generated 2017-02-22.
 |  196 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  197 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  198 | Allan Sly                 |  18.6 |        29 |              |               |
-|  199 | Shaun Lim                 |  18.6 |        51 |        -0.19 |         +0.61 |
-|  200 | Dror Matalon              |  18.6 |       360 |              |         +0.36 |
+|  199 | Dror Matalon              |  18.6 |       361 |        +0.02 |         +0.39 |
+|  200 | Shaun Lim                 |  18.6 |        51 |        -0.19 |         +0.61 |
 |  201 | Jason Facchin             |  18.5 |         3 |              |               |
 |  202 | Yan Liu                   |  18.5 |        10 |              |               |
 |  203 | Akshay Dugar              |  18.5 |         6 |              |               |
@@ -332,7 +332,7 @@ Generated 2017-02-22.
 |  328 | Reed Foster               |  12.1 |         8 |              |               |
 |  329 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  330 | Larry Dale                |  11.9 |        29 |              |               |
-|  331 | Tim Browning              |  11.9 |         3 |              |               |
+|  331 | Tim Browning              |  11.8 |         3 |              |               |
 |  332 | Aman Gupta                |  11.8 |         3 |              |               |
 |  333 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  334 | Julian Gill               |  11.8 |         1 |              |               |
