@@ -1,10 +1,10 @@
-Generated 2017-02-22.
+Generated 2017-02-23.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant        |  36.4 |        17 |        +0.14 |               |
+|    1 | Colin Grant        |  36.7 |        18 |        +0.41 |               |
 |    2 | Eric Katerman      |  31.8 |        35 |              |               |
-|    3 | Sam Sternberg      |  29.8 |       139 |        +0.19 |         +0.56 |
+|    3 | Sam Sternberg      |  29.7 |       140 |        +0.13 |         +0.50 |
 |    4 | Frank Kennamer     |  27.0 |       221 |        -0.05 |         -0.50 |
 |    5 | Ethan Kerr         |  26.5 |        13 |        +0.12 |               |
 |    6 | Arvind Muralimohan |  25.7 |        16 |              |         +0.69 |

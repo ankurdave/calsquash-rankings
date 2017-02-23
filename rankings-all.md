@@ -1,8 +1,8 @@
-Generated 2017-02-22.
+Generated 2017-02-23.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  36.4 |        17 |        +0.14 |               |
+|    1 | Colin Grant               |  36.7 |        18 |        +0.41 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |         +0.13 |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -21,7 +21,7 @@ Generated 2017-02-22.
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
-|   20 | Sam Sternberg             |  29.8 |       139 |        +0.19 |         +0.56 |
+|   20 | Sam Sternberg             |  29.7 |       140 |        +0.13 |         +0.50 |
 |   21 | David Wood                |  29.7 |        43 |              |               |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
