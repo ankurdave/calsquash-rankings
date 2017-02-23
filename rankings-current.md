@@ -9,10 +9,10 @@ Generated 2017-02-22.
 |    5 | Ethan Kerr         |  26.5 |        13 |        +0.12 |               |
 |    6 | Arvind Muralimohan |  25.7 |        16 |              |         +0.69 |
 |    7 | Anibhav Singla     |  25.0 |        10 |        +1.24 |               |
-|    8 | Jim Veitch         |  24.8 |       440 |        +0.09 |         -1.46 |
+|    8 | Jim Veitch         |  24.5 |       441 |        -0.21 |         -1.77 |
 |    9 | John Kunze         |  24.4 |       316 |        -0.27 |         -0.10 |
-|   10 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
-|   11 | Matt Wong          |  23.6 |        83 |              |         +2.25 |
+|   10 | Matt Wong          |  23.9 |        84 |        +0.32 |         +2.57 |
+|   11 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   12 | Sam McCormick      |  23.5 |        24 |              |         +2.91 |
 |   13 | Dan Bohn           |  23.1 |        89 |        +0.02 |         -0.70 |
 |   14 | Matt Wild          |  23.0 |        25 |              |               |

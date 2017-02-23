@@ -63,13 +63,13 @@ Generated 2017-02-22.
 |   59 | Ben Seelig                |  25.0 |        69 |              |               |
 |   60 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   61 | Madhav Pai                |  24.9 |         5 |              |               |
-|   62 | Jim Veitch                |  24.8 |       440 |        +0.09 |         -1.46 |
-|   63 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   64 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   65 | Orion Hodson              |  24.8 |        31 |              |               |
-|   66 | Martin Stokes             |  24.7 |        12 |              |               |
-|   67 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   62 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   63 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   64 | Orion Hodson              |  24.8 |        31 |              |               |
+|   65 | Martin Stokes             |  24.7 |        12 |              |               |
+|   66 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   68 | Jim Veitch                |  24.5 |       441 |        -0.21 |         -1.77 |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
 |   71 | Jon Shih                  |  24.4 |        47 |              |               |
@@ -87,14 +87,14 @@ Generated 2017-02-22.
 |   83 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   84 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   85 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   86 | Glenn Forrester           |  23.9 |       355 |              |         -0.25 |
-|   87 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   88 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   89 | Aditya Guntuboyina        |  23.8 |        80 |              |         +1.24 |
-|   90 | Matt Waid                 |  23.7 |        51 |              |               |
-|   91 | Sonesh Surana             |  23.7 |        95 |              |               |
-|   92 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   93 | Matt Wong                 |  23.6 |        83 |              |         +2.25 |
+|   86 | Matt Wong                 |  23.9 |        84 |        +0.32 |         +2.57 |
+|   87 | Glenn Forrester           |  23.9 |       355 |              |         -0.25 |
+|   88 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   89 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   90 | Aditya Guntuboyina        |  23.8 |        80 |              |         +1.24 |
+|   91 | Matt Waid                 |  23.7 |        51 |              |               |
+|   92 | Sonesh Surana             |  23.7 |        95 |              |               |
+|   93 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   94 | Amy Lee                   |  23.6 |        56 |              |               |
 |   95 | Sam McCormick             |  23.5 |        24 |              |         +2.91 |
 |   96 | Garvin Heath              |  23.4 |        28 |              |               |
