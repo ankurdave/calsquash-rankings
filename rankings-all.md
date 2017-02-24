@@ -1,4 +1,4 @@
-Generated 2017-02-23.
+Generated 2017-02-24.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -86,8 +86,8 @@ Generated 2017-02-23.
 |   82 | Benjamin Vicuna           |  24.1 |        50 |              |         +0.78 |
 |   83 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   84 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   85 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   86 | Matt Wong                 |  23.9 |        84 |        +0.32 |         +2.57 |
+|   85 | Matt Wong                 |  24.0 |        85 |        +0.41 |         +2.66 |
+|   86 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   87 | Glenn Forrester           |  23.9 |       355 |              |         -0.25 |
 |   88 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   89 | Joseff Farrell            |  23.8 |         5 |              |               |
@@ -96,7 +96,7 @@ Generated 2017-02-23.
 |   92 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   93 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   94 | Amy Lee                   |  23.6 |        56 |              |               |
-|   95 | Sam McCormick             |  23.5 |        24 |              |         +2.91 |
+|   95 | Sam McCormick             |  23.5 |        25 |        -0.05 |         +2.86 |
 |   96 | Garvin Heath              |  23.4 |        28 |              |               |
 |   97 | Matt Wild                 |  23.3 |        26 |        +0.33 |         +0.33 |
 |   98 | Daniel Greengard          |  23.1 |        37 |              |               |
