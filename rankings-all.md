@@ -272,8 +272,8 @@ Generated 2017-02-23.
 |  268 | Tanit Follett             |  15.5 |         8 |              |               |
 |  269 | Toni Queck                |  15.5 |        20 |              |               |
 |  270 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  271 | Peter Duerr               |  15.4 |        24 |              |               |
-|  272 | Diego Butrich             |  15.3 |         9 |        -0.15 |               |
+|  271 | Diego Butrich             |  15.4 |         9 |        -0.10 |               |
+|  272 | Peter Duerr               |  15.4 |        24 |              |               |
 |  273 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  274 | Jim Evans                 |  15.1 |       216 |              |               |
 |  275 | Dennis Chan               |  15.1 |         1 |              |               |
@@ -325,9 +325,9 @@ Generated 2017-02-23.
 |  321 | Huw Lester                |  12.5 |         1 |              |               |
 |  322 | Richard Fabini            |  12.4 |         3 |              |               |
 |  323 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  324 | Rodrigo Calmet            |  12.4 |         8 |        +1.61 |               |
-|  325 | John Givens               |  12.2 |        13 |              |               |
-|  326 | Sergey Dobrinov           |  12.2 |         5 |        +7.33 |               |
+|  324 | Sergey Dobrinov           |  12.4 |         6 |        +7.58 |               |
+|  325 | Rodrigo Calmet            |  12.4 |         8 |        +1.61 |               |
+|  326 | John Givens               |  12.2 |        13 |              |               |
 |  327 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  328 | Reed Foster               |  12.1 |         8 |              |               |
 |  329 | Axel Eriksson             |  12.0 |         5 |              |               |
@@ -353,7 +353,7 @@ Generated 2017-02-23.
 |  349 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  350 | Brian Puglise             |  10.4 |         2 |              |               |
 |  351 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  352 | Nate Aden                 |  10.3 |        30 |        +0.05 |               |
+|  352 | Nate Aden                 |  10.3 |        30 |        +0.04 |               |
 |  353 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  354 | John Provine              |  10.2 |        16 |              |               |
 |  355 | Anthony Patterson         |  10.2 |         6 |              |               |
@@ -423,17 +423,17 @@ Generated 2017-02-23.
 |  419 | Craig Hollow              |   6.2 |         9 |        -0.17 |               |
 |  420 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  421 | Rohan Relan               |   6.0 |         4 |              |               |
-|  422 | David Zhu                 |   5.8 |         2 |              |               |
-|  423 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  424 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  425 | Manu Vaish                |   5.5 |         1 |              |               |
-|  426 | Emily Moylan              |   5.2 |        17 |              |               |
-|  427 | Mohammad Salama           |   5.2 |         5 |              |               |
-|  428 | Catherine Wang            |   5.2 |        10 |              |               |
-|  429 | Ali Umar                  |   5.2 |        13 |              |               |
-|  430 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  431 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.25 |
-|  432 | Janeau Janssen            |   4.9 |         3 |              |               |
+|  422 | Janeau Janssen            |   5.9 |         4 |        +1.03 |               |
+|  423 | David Zhu                 |   5.8 |         2 |              |               |
+|  424 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  425 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  426 | Manu Vaish                |   5.5 |         1 |              |               |
+|  427 | Emily Moylan              |   5.2 |        17 |              |               |
+|  428 | Mohammad Salama           |   5.2 |         5 |              |               |
+|  429 | Catherine Wang            |   5.2 |        10 |              |               |
+|  430 | Ali Umar                  |   5.2 |        13 |              |               |
+|  431 | Martin Rasmussen          |   5.2 |         6 |              |               |
+|  432 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.25 |
 |  433 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  434 | Zsolt Bartha              |   4.5 |        50 |        -0.19 |         +2.54 |
 |  435 | Sameer Bajaj              |   4.3 |         4 |              |               |

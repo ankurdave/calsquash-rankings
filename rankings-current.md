@@ -37,23 +37,23 @@ Generated 2017-02-23.
 |   33 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
 |   34 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
 |   35 | Sahar Sareminaeni  |  15.8 |        17 |        -0.08 |               |
-|   36 | Diego Butrich      |  15.3 |         9 |        -0.15 |               |
+|   36 | Diego Butrich      |  15.4 |         9 |        -0.10 |               |
 |   37 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
 |   38 | James Grant        |  14.4 |         5 |              |               |
 |   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.35 |         +4.51 |
-|   40 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
-|   41 | Sergey Dobrinov    |  12.2 |         5 |        +7.33 |               |
+|   40 | Sergey Dobrinov    |  12.4 |         6 |        +7.58 |               |
+|   41 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
 |   42 | Tim Browning       |  11.8 |         3 |              |               |
 |   43 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   44 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
 |   45 | Shrinu Kushagra    |  10.7 |         1 |              |               |
-|   46 | Nate Aden          |  10.3 |        30 |        +0.05 |               |
+|   46 | Nate Aden          |  10.3 |        30 |        +0.04 |               |
 |   47 | Raphael Magarik    |   9.6 |        20 |        +0.89 |               |
 |   48 | Duo Wang           |   8.8 |        67 |        +0.31 |         -0.12 |
 |   49 | Brian Kempenich    |   7.9 |        43 |        -0.23 |         -1.22 |
 |   50 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
 |   51 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
-|   52 | Janeau Janssen     |   4.9 |         3 |              |               |
+|   52 | Janeau Janssen     |   5.9 |         4 |        +1.03 |               |
 |   53 | Zsolt Bartha       |   4.5 |        50 |        -0.19 |         +2.54 |
 |   54 | Jose Lara          |   4.1 |        10 |              |               |
 |   55 | Cristhian Daniel   |   2.3 |        19 |              |               |
