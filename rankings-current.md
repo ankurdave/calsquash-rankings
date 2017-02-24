@@ -36,18 +36,18 @@ Generated 2017-02-24.
 |   32 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
 |   33 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
 |   34 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
-|   35 | Sahar Sareminaeni  |  15.4 |        18 |        -0.47 |               |
-|   36 | Diego Butrich      |  15.4 |         9 |        -0.10 |               |
-|   37 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
+|   35 | Diego Butrich      |  15.6 |         9 |        +0.14 |               |
+|   36 | Sahar Sareminaeni  |  15.4 |        18 |        -0.47 |               |
+|   37 | Kent Daniels       |  14.6 |        97 |        +0.14 |         -0.61 |
 |   38 | James Grant        |  14.4 |         5 |              |               |
 |   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.34 |         +4.50 |
-|   40 | Sergey Dobrinov    |  12.4 |         6 |        +7.58 |               |
-|   41 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
+|   40 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
+|   41 | Sergey Dobrinov    |  12.4 |         6 |        +7.53 |               |
 |   42 | Tim Browning       |  11.8 |         3 |              |               |
 |   43 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   44 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
 |   45 | Shrinu Kushagra    |  10.7 |         1 |              |               |
-|   46 | Nate Aden          |  10.3 |        30 |        +0.04 |               |
+|   46 | Nate Aden          |  10.2 |        31 |        -0.07 |               |
 |   47 | Raphael Magarik    |   9.6 |        20 |        +0.89 |               |
 |   48 | Duo Wang           |   8.8 |        67 |        +0.31 |         -0.12 |
 |   49 | Brian Kempenich    |   7.9 |        43 |        -0.23 |         -1.22 |
@@ -59,7 +59,7 @@ Generated 2017-02-24.
 |   55 | Cristhian Daniel   |   2.3 |        19 |              |               |
 |   56 | Duncan MacRae      |  -0.2 |        13 |        +2.64 |               |
 |   57 | Rodrigo Lasheras   |  -1.2 |         2 |              |               |
-|   58 | Daniel Wissmann    |  -1.7 |         1 |              |               |
+|   58 | Daniel Wissmann    |  -2.2 |         1 |              |               |
 |   59 | Yifan Wu           |  -3.3 |         4 |        +8.39 |               |
 |   60 | Seobin Jung        |  -5.4 |         7 |        -2.50 |         -2.50 |
 |   61 | Navarun Jain       | -12.1 |         2 |              |               |
