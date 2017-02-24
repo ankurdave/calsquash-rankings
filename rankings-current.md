@@ -24,9 +24,9 @@ Generated 2017-02-23.
 |   20 | Jeff Gordon        |  20.4 |        46 |        -0.07 |         +2.63 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
-|   23 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
-|   24 | Dror Matalon       |  18.6 |       361 |        +0.02 |         +0.39 |
-|   25 | Shaun Lim          |  18.6 |        51 |        -0.19 |         +0.61 |
+|   23 | Shaun Lim          |  18.8 |        52 |        +0.06 |         +0.86 |
+|   24 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
+|   25 | Dror Matalon       |  18.6 |       361 |        +0.02 |         +0.39 |
 |   26 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
 |   27 | Marc Schechter     |  18.1 |         6 |              |               |
 |   28 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
@@ -36,11 +36,11 @@ Generated 2017-02-23.
 |   32 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
 |   33 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
 |   34 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
-|   35 | Sahar Sareminaeni  |  15.8 |        17 |        -0.08 |               |
+|   35 | Sahar Sareminaeni  |  15.4 |        18 |        -0.47 |               |
 |   36 | Diego Butrich      |  15.4 |         9 |        -0.10 |               |
 |   37 | Kent Daniels       |  14.5 |        96 |              |         -0.75 |
 |   38 | James Grant        |  14.4 |         5 |              |               |
-|   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.35 |         +4.51 |
+|   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.34 |         +4.50 |
 |   40 | Sergey Dobrinov    |  12.4 |         6 |        +7.58 |               |
 |   41 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
 |   42 | Tim Browning       |  11.8 |         3 |              |               |
