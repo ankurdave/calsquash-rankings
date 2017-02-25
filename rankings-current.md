@@ -9,28 +9,28 @@ Generated 2017-02-25.
 |    5 | Ethan Kerr         |  26.5 |        13 |        +0.12 |               |
 |    6 | Arvind Muralimohan |  25.7 |        16 |              |         +0.69 |
 |    7 | Anibhav Singla     |  25.0 |        10 |        +1.20 |               |
-|    8 | Jim Veitch         |  24.5 |       441 |        -0.21 |         -1.77 |
+|    8 | Jim Veitch         |  24.6 |       442 |        -0.17 |         -1.73 |
 |    9 | John Kunze         |  24.4 |       316 |        -0.27 |         -0.10 |
-|   10 | Matt Wong          |  24.0 |        85 |        +0.41 |         +2.66 |
+|   10 | Matt Wong          |  24.0 |        86 |        +0.38 |         +2.62 |
 |   11 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
-|   12 | Sam McCormick      |  23.5 |        25 |        -0.05 |         +2.86 |
+|   12 | Sam McCormick      |  23.5 |        26 |        -0.01 |         +2.89 |
 |   13 | Matt Wild          |  23.3 |        26 |        +0.33 |         +0.33 |
 |   14 | Dan Bohn           |  23.1 |        89 |        +0.02 |         -0.70 |
 |   15 | Dan Meier          |  22.7 |        61 |              |         +0.83 |
 |   16 | Jonathan Hankar    |  22.5 |       197 |        -0.10 |         +0.65 |
 |   17 | Reid Johnsen       |  21.3 |        45 |        -0.25 |         +2.17 |
 |   18 | Jared Bard         |  21.3 |        42 |        +0.37 |         +0.55 |
-|   19 | Mark Modera        |  20.8 |       322 |        +0.12 |         -0.55 |
-|   20 | Jeff Gordon        |  20.4 |        46 |        -0.07 |         +2.63 |
-|   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
-|   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
-|   23 | Marc Schechter     |  19.1 |         7 |        +1.07 |               |
-|   24 | Shaun Lim          |  18.8 |        52 |        +0.06 |         +0.86 |
-|   25 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
-|   26 | Dror Matalon       |  18.6 |       362 |        +0.03 |         +0.40 |
-|   27 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
-|   28 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
-|   29 | Thomas Littleton   |  17.4 |         1 |              |               |
+|   19 | Thomas Littleton   |  20.9 |         2 |              |               |
+|   20 | Mark Modera        |  20.8 |       322 |        +0.12 |         -0.55 |
+|   21 | Jeff Gordon        |  20.4 |        46 |        -0.07 |         +2.63 |
+|   22 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
+|   23 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
+|   24 | Marc Schechter     |  19.1 |         7 |        +1.07 |               |
+|   25 | Shaun Lim          |  18.8 |        52 |        +0.06 |         +0.86 |
+|   26 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
+|   27 | Dror Matalon       |  18.6 |       362 |        +0.03 |         +0.40 |
+|   28 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
+|   29 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
 |   30 | Wayne Heiser       |  17.3 |        43 |        -0.15 |         +6.78 |
 |   31 | David Bratt        |  17.3 |        22 |              |         +0.90 |
 |   32 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
