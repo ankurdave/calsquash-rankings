@@ -14,7 +14,7 @@ Generated 2017-02-25.
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.07 |
-|   13 | Eric Katerman             |  31.8 |        35 |              |               |
+|   13 | Eric Katerman             |  31.9 |        36 |        +0.04 |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
@@ -74,7 +74,7 @@ Generated 2017-02-25.
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
 |   71 | Jon Shih                  |  24.4 |        47 |              |               |
 |   72 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   73 | John Kunze                |  24.4 |       316 |        -0.27 |         -0.10 |
+|   73 | John Kunze                |  24.3 |       316 |        -0.30 |         -0.13 |
 |   74 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   75 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   76 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -346,9 +346,9 @@ Generated 2017-02-25.
 |  342 | Karan Jain                |  11.3 |        19 |              |               |
 |  343 | Meldan Heaslip            |  11.2 |        14 |              |               |
 |  344 | Lucas Siow                |  11.0 |        10 |              |               |
-|  345 | Dominick Ng               |  10.9 |        25 |              |               |
-|  346 | Josh Lebowitz             |  10.9 |        35 |        +0.19 |               |
-|  347 | Shrinu Kushagra           |  10.7 |         1 |              |               |
+|  345 | Shrinu Kushagra           |  10.9 |         2 |              |               |
+|  346 | Dominick Ng               |  10.9 |        25 |              |               |
+|  347 | Josh Lebowitz             |  10.9 |        35 |        +0.19 |               |
 |  348 | George Bentley            |  10.6 |         4 |              |               |
 |  349 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  350 | Brian Puglise             |  10.4 |         2 |              |               |

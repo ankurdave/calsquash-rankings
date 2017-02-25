@@ -3,14 +3,14 @@ Generated 2017-02-25.
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant        |  36.7 |        18 |        +0.41 |               |
-|    2 | Eric Katerman      |  31.8 |        35 |              |               |
+|    2 | Eric Katerman      |  31.9 |        36 |        +0.04 |               |
 |    3 | Sam Sternberg      |  29.7 |       140 |        +0.13 |         +0.50 |
 |    4 | Frank Kennamer     |  27.0 |       221 |        -0.05 |         -0.50 |
 |    5 | Ethan Kerr         |  26.5 |        13 |        +0.12 |               |
 |    6 | Arvind Muralimohan |  25.7 |        16 |              |         +0.69 |
 |    7 | Anibhav Singla     |  25.0 |        10 |        +1.20 |               |
 |    8 | Jim Veitch         |  24.6 |       442 |        -0.17 |         -1.73 |
-|    9 | John Kunze         |  24.4 |       316 |        -0.27 |         -0.10 |
+|    9 | John Kunze         |  24.3 |       316 |        -0.30 |         -0.13 |
 |   10 | Matt Wong          |  24.0 |        86 |        +0.38 |         +2.62 |
 |   11 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   12 | Sam McCormick      |  23.5 |        26 |        -0.01 |         +2.89 |
@@ -45,8 +45,8 @@ Generated 2017-02-25.
 |   41 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
 |   42 | Tim Browning       |  11.8 |         3 |              |               |
 |   43 | Meldan Heaslip     |  11.2 |        14 |              |               |
-|   44 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
-|   45 | Shrinu Kushagra    |  10.7 |         1 |              |               |
+|   44 | Shrinu Kushagra    |  10.9 |         2 |              |               |
+|   45 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
 |   46 | Nate Aden          |  10.2 |        31 |        -0.07 |               |
 |   47 | Raphael Magarik    |   9.6 |        20 |        +0.89 |               |
 |   48 | Duo Wang           |   8.8 |        67 |        +0.31 |         -0.12 |
