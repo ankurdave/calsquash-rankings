@@ -1,4 +1,4 @@
-Generated 2017-02-24.
+Generated 2017-02-25.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -16,18 +16,18 @@ Generated 2017-02-24.
 |   12 | Sam McCormick      |  23.5 |        25 |        -0.05 |         +2.86 |
 |   13 | Matt Wild          |  23.3 |        26 |        +0.33 |         +0.33 |
 |   14 | Dan Bohn           |  23.1 |        89 |        +0.02 |         -0.70 |
-|   15 | Dan Meier          |  22.7 |        60 |              |         +0.84 |
+|   15 | Dan Meier          |  22.7 |        61 |              |         +0.83 |
 |   16 | Jonathan Hankar    |  22.5 |       197 |        -0.10 |         +0.65 |
 |   17 | Reid Johnsen       |  21.3 |        45 |        -0.25 |         +2.17 |
 |   18 | Jared Bard         |  21.3 |        42 |        +0.37 |         +0.55 |
-|   19 | Mark Modera        |  20.8 |       322 |        +0.12 |         -0.54 |
+|   19 | Mark Modera        |  20.8 |       322 |        +0.12 |         -0.55 |
 |   20 | Jeff Gordon        |  20.4 |        46 |        -0.07 |         +2.63 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   23 | Marc Schechter     |  19.1 |         7 |        +1.07 |               |
 |   24 | Shaun Lim          |  18.8 |        52 |        +0.06 |         +0.86 |
 |   25 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
-|   26 | Dror Matalon       |  18.6 |       361 |        +0.02 |         +0.39 |
+|   26 | Dror Matalon       |  18.6 |       362 |        +0.03 |         +0.40 |
 |   27 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
 |   28 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
 |   29 | Thomas Littleton   |  17.4 |         1 |              |               |

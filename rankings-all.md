@@ -1,4 +1,4 @@
-Generated 2017-02-24.
+Generated 2017-02-25.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -105,7 +105,7 @@ Generated 2017-02-24.
 |  101 | Joe Farrell               |  23.0 |        30 |              |               |
 |  102 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  103 | Andrew Pritchard          |  22.7 |        16 |              |         +0.86 |
-|  104 | Dan Meier                 |  22.7 |        60 |              |         +0.84 |
+|  104 | Dan Meier                 |  22.7 |        61 |              |         +0.83 |
 |  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  106 | Julian Marshall           |  22.7 |        31 |              |               |
 |  107 | Gautam Tankha             |  22.6 |         7 |              |               |
@@ -149,7 +149,7 @@ Generated 2017-02-24.
 |  145 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  146 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  147 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  148 | Mark Modera               |  20.8 |       322 |        +0.12 |         -0.54 |
+|  148 | Mark Modera               |  20.8 |       322 |        +0.12 |         -0.55 |
 |  149 | Robert Isaac              |  20.8 |        17 |              |               |
 |  150 | Jamie Funk                |  20.8 |        30 |              |               |
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
@@ -202,7 +202,7 @@ Generated 2017-02-24.
 |  198 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  199 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  200 | Allan Sly                 |  18.6 |        29 |              |               |
-|  201 | Dror Matalon              |  18.6 |       361 |        +0.02 |         +0.39 |
+|  201 | Dror Matalon              |  18.6 |       362 |        +0.03 |         +0.40 |
 |  202 | Jason Facchin             |  18.5 |         3 |              |               |
 |  203 | Yan Liu                   |  18.5 |        10 |              |               |
 |  204 | Akshay Dugar              |  18.5 |         6 |              |               |
