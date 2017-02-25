@@ -24,14 +24,14 @@ Generated 2017-02-24.
 |   20 | Jeff Gordon        |  20.4 |        46 |        -0.07 |         +2.63 |
 |   21 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
-|   23 | Shaun Lim          |  18.8 |        52 |        +0.06 |         +0.86 |
-|   24 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
-|   25 | Dror Matalon       |  18.6 |       361 |        +0.02 |         +0.39 |
-|   26 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
-|   27 | Marc Schechter     |  18.1 |         6 |              |               |
+|   23 | Marc Schechter     |  19.1 |         7 |        +1.07 |               |
+|   24 | Shaun Lim          |  18.8 |        52 |        +0.06 |         +0.86 |
+|   25 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
+|   26 | Dror Matalon       |  18.6 |       361 |        +0.02 |         +0.39 |
+|   27 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
 |   28 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
-|   29 | Wayne Heiser       |  17.5 |        42 |              |         +6.93 |
-|   30 | Thomas Littleton   |  17.4 |         1 |              |               |
+|   29 | Thomas Littleton   |  17.4 |         1 |              |               |
+|   30 | Wayne Heiser       |  17.3 |        43 |        -0.15 |         +6.78 |
 |   31 | David Bratt        |  17.3 |        22 |              |         +0.90 |
 |   32 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
 |   33 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |

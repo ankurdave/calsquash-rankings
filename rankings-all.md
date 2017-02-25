@@ -185,36 +185,36 @@ Generated 2017-02-24.
 |  181 | Greg Adams                |  19.3 |        10 |              |               |
 |  182 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  183 | John Corcoran             |  19.1 |        49 |              |               |
-|  184 | Kedar Shah                |  19.1 |         9 |              |               |
-|  185 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  186 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  187 | Yating Liu                |  19.0 |         7 |              |               |
-|  188 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
-|  189 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  190 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  191 | Shaun Lim                 |  18.8 |        52 |        +0.06 |         +0.86 |
-|  192 | Jaime Perez               |  18.8 |        24 |        -0.24 |         +2.52 |
-|  193 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  194 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  195 | Peter Dering              |  18.7 |         9 |              |               |
-|  196 | Sushant Jain              |  18.7 |        12 |              |               |
-|  197 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  198 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  199 | Allan Sly                 |  18.6 |        29 |              |               |
-|  200 | Dror Matalon              |  18.6 |       361 |        +0.02 |         +0.39 |
-|  201 | Jason Facchin             |  18.5 |         3 |              |               |
-|  202 | Yan Liu                   |  18.5 |        10 |              |               |
-|  203 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  204 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  205 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  206 | John Eng                  |  18.4 |        28 |              |               |
-|  207 | Natalie Leung             |  18.4 |         1 |              |               |
-|  208 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  209 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
-|  210 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  211 | Eric Borden               |  18.2 |        41 |        -0.18 |         +2.87 |
-|  212 | Bob Roller                |  18.2 |         6 |              |               |
-|  213 | Marc Schechter            |  18.1 |         6 |              |               |
+|  184 | Marc Schechter            |  19.1 |         7 |        +1.07 |               |
+|  185 | Kedar Shah                |  19.1 |         9 |              |               |
+|  186 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  187 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  188 | Yating Liu                |  19.0 |         7 |              |               |
+|  189 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
+|  190 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  191 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  192 | Shaun Lim                 |  18.8 |        52 |        +0.06 |         +0.86 |
+|  193 | Jaime Perez               |  18.8 |        24 |        -0.24 |         +2.52 |
+|  194 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  195 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  196 | Peter Dering              |  18.7 |         9 |              |               |
+|  197 | Sushant Jain              |  18.7 |        12 |              |               |
+|  198 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  199 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  200 | Allan Sly                 |  18.6 |        29 |              |               |
+|  201 | Dror Matalon              |  18.6 |       361 |        +0.02 |         +0.39 |
+|  202 | Jason Facchin             |  18.5 |         3 |              |               |
+|  203 | Yan Liu                   |  18.5 |        10 |              |               |
+|  204 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  205 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  206 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  207 | John Eng                  |  18.4 |        28 |              |               |
+|  208 | Natalie Leung             |  18.4 |         1 |              |               |
+|  209 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  210 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
+|  211 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  212 | Eric Borden               |  18.2 |        41 |        -0.18 |         +2.87 |
+|  213 | Bob Roller                |  18.2 |         6 |              |               |
 |  214 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  215 | James Chung               |  17.9 |         7 |              |               |
 |  216 | Andres Rodriguez          |  17.9 |        55 |              |               |
@@ -226,12 +226,12 @@ Generated 2017-02-24.
 |  222 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  223 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
 |  224 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  225 | Wayne Heiser              |  17.5 |        42 |              |         +6.93 |
-|  226 | Thomas Littleton          |  17.4 |         1 |              |               |
-|  227 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  228 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  229 | Craig Riddell             |  17.4 |         8 |              |               |
-|  230 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  225 | Thomas Littleton          |  17.4 |         1 |              |               |
+|  226 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  227 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  228 | Craig Riddell             |  17.4 |         8 |              |               |
+|  229 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  230 | Wayne Heiser              |  17.3 |        43 |        -0.15 |         +6.78 |
 |  231 | David Bratt               |  17.3 |        22 |              |         +0.90 |
 |  232 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  233 | Ariel Grostern            |  17.3 |        94 |              |               |
