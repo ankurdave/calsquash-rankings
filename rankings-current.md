@@ -36,13 +36,13 @@ Generated 2017-02-24.
 |   32 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
 |   33 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
 |   34 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
-|   35 | Diego Butrich      |  15.6 |         9 |        +0.14 |               |
+|   35 | Diego Butrich      |  15.7 |         9 |        +0.19 |               |
 |   36 | Sahar Sareminaeni  |  15.4 |        18 |        -0.47 |               |
-|   37 | Kent Daniels       |  14.6 |        97 |        +0.14 |         -0.61 |
+|   37 | Kent Daniels       |  14.6 |        98 |        +0.12 |         -0.63 |
 |   38 | James Grant        |  14.4 |         5 |              |               |
 |   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.34 |         +4.50 |
-|   40 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
-|   41 | Sergey Dobrinov    |  12.4 |         6 |        +7.53 |               |
+|   40 | Sergey Dobrinov    |  13.2 |         7 |        +8.33 |               |
+|   41 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
 |   42 | Tim Browning       |  11.8 |         3 |              |               |
 |   43 | Meldan Heaslip     |  11.2 |        14 |              |               |
 |   44 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
@@ -59,7 +59,7 @@ Generated 2017-02-24.
 |   55 | Cristhian Daniel   |   2.3 |        19 |              |               |
 |   56 | Duncan MacRae      |  -0.2 |        13 |        +2.64 |               |
 |   57 | Rodrigo Lasheras   |  -1.2 |         2 |              |               |
-|   58 | Daniel Wissmann    |  -2.2 |         1 |              |               |
+|   58 | Daniel Wissmann    |  -1.7 |         1 |              |               |
 |   59 | Yifan Wu           |  -3.3 |         4 |        +8.39 |               |
 |   60 | Seobin Jung        |  -5.4 |         7 |        -2.50 |         -2.50 |
 |   61 | Navarun Jain       | -12.1 |         2 |              |               |

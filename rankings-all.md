@@ -267,8 +267,8 @@ Generated 2017-02-24.
 |  263 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  264 | Jared Nunn                |  15.7 |         5 |              |               |
 |  265 | Akash Sharma              |  15.7 |         8 |              |               |
-|  266 | Angie Ng                  |  15.7 |        12 |              |               |
-|  267 | Diego Butrich             |  15.6 |         9 |        +0.14 |               |
+|  266 | Diego Butrich             |  15.7 |         9 |        +0.19 |               |
+|  267 | Angie Ng                  |  15.7 |        12 |              |               |
 |  268 | Tanit Follett             |  15.5 |         8 |              |               |
 |  269 | Toni Queck                |  15.5 |        20 |              |               |
 |  270 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
@@ -288,9 +288,9 @@ Generated 2017-02-24.
 |  284 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  285 | David Elfant              |  14.7 |         2 |              |               |
 |  286 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  287 | Kent Daniels              |  14.6 |        97 |        +0.14 |         -0.61 |
-|  288 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  289 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  287 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  288 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  289 | Kent Daniels              |  14.6 |        98 |        +0.12 |         -0.63 |
 |  290 | Shai Vardi                |  14.5 |         4 |              |               |
 |  291 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  292 | Max Woodworth             |  14.4 |         7 |              |               |
@@ -315,18 +315,18 @@ Generated 2017-02-24.
 |  311 | Jake Toy                  |  13.4 |         5 |              |               |
 |  312 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  313 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  314 | Field Maloney             |  13.1 |        24 |              |               |
-|  315 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  316 | Lewis Moore               |  13.0 |        69 |              |               |
-|  317 | David Isaksson            |  12.9 |        22 |              |               |
-|  318 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  319 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  320 | Josh Shiode               |  12.6 |        20 |              |               |
-|  321 | Huw Lester                |  12.5 |         1 |              |               |
-|  322 | Richard Fabini            |  12.4 |         3 |              |               |
-|  323 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  324 | Rodrigo Calmet            |  12.4 |         8 |        +1.61 |               |
-|  325 | Sergey Dobrinov           |  12.4 |         6 |        +7.53 |               |
+|  314 | Sergey Dobrinov           |  13.2 |         7 |        +8.33 |               |
+|  315 | Field Maloney             |  13.1 |        24 |              |               |
+|  316 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  317 | Lewis Moore               |  13.0 |        69 |              |               |
+|  318 | David Isaksson            |  12.9 |        22 |              |               |
+|  319 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  320 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  321 | Josh Shiode               |  12.6 |        20 |              |               |
+|  322 | Huw Lester                |  12.5 |         1 |              |               |
+|  323 | Richard Fabini            |  12.4 |         3 |              |               |
+|  324 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
+|  325 | Rodrigo Calmet            |  12.4 |         8 |        +1.61 |               |
 |  326 | John Givens               |  12.2 |        13 |              |               |
 |  327 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  328 | Reed Foster               |  12.1 |         8 |              |               |
@@ -497,8 +497,8 @@ Generated 2017-02-24.
 |  493 | Rodrigo Lasheras          |  -1.2 |         2 |              |               |
 |  494 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  495 | Nick Firmani              |  -1.6 |         3 |              |               |
-|  496 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
-|  497 | Daniel Wissmann           |  -2.2 |         1 |              |               |
+|  496 | Daniel Wissmann           |  -1.7 |         1 |              |               |
+|  497 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
 |  498 | Judah Purcell             |  -2.2 |         1 |              |               |
 |  499 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
 |  500 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
