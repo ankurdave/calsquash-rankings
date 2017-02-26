@@ -435,10 +435,10 @@ Generated 2017-02-25.
 |  431 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  432 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.25 |
 |  433 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  434 | Zsolt Bartha              |   4.5 |        50 |        -0.19 |         +2.54 |
-|  435 | Sameer Bajaj              |   4.3 |         4 |              |               |
-|  436 | Anuj Dawar                |   4.2 |        15 |              |               |
-|  437 | Jose Lara                 |   4.1 |        10 |              |               |
+|  434 | Jose Lara                 |   4.5 |        11 |        +0.44 |               |
+|  435 | Zsolt Bartha              |   4.5 |        50 |        -0.19 |         +2.54 |
+|  436 | Sameer Bajaj              |   4.3 |         4 |              |               |
+|  437 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  438 | Annie Wong                |   4.0 |         3 |              |               |
 |  439 | Ryan                      |   4.0 |         3 |              |               |
 |  440 | Mateo Aceves              |   3.8 |         4 |              |               |
@@ -481,13 +481,13 @@ Generated 2017-02-25.
 |  477 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  478 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  479 | Sandra Harpster           |  -0.1 |         5 |              |               |
-|  480 | Duncan MacRae             |  -0.2 |        13 |        +2.64 |               |
-|  481 | Stephen Garden            |  -0.2 |         2 |              |               |
-|  482 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
-|  483 | Wyss Roman                |  -0.3 |         2 |              |               |
-|  484 | Jane Pan                  |  -0.4 |         1 |              |               |
-|  485 | Enrico Moretti            |  -0.4 |         1 |              |               |
-|  486 | Greg Rybka                |  -0.4 |         4 |              |               |
+|  480 | Stephen Garden            |  -0.2 |         2 |              |               |
+|  481 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
+|  482 | Wyss Roman                |  -0.3 |         2 |              |               |
+|  483 | Jane Pan                  |  -0.4 |         1 |              |               |
+|  484 | Enrico Moretti            |  -0.4 |         1 |              |               |
+|  485 | Greg Rybka                |  -0.4 |         4 |              |               |
+|  486 | Duncan MacRae             |  -0.4 |        15 |        +2.38 |               |
 |  487 | Klim Efremenko            |  -0.5 |         4 |              |               |
 |  488 | Rabin Patra               |  -0.5 |         2 |              |               |
 |  489 | Mikolaj Oettingen         |  -0.5 |         3 |              |               |
@@ -504,12 +504,12 @@ Generated 2017-02-25.
 |  500 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
 |  501 | James Redfield            |  -2.9 |         3 |              |               |
 |  502 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  503 | Yifan Wu                  |  -3.3 |         4 |        +8.39 |               |
-|  504 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  503 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  504 | Yifan Wu                  |  -3.6 |         5 |        +8.07 |               |
 |  505 | Tin Do                    |  -4.0 |         1 |              |               |
 |  506 | Susan Grand               |  -4.3 |         3 |              |               |
-|  507 | Seobin Jung               |  -5.4 |         7 |        -2.50 |         -2.50 |
+|  507 | Seobin Jung               |  -5.7 |         7 |        -2.76 |         -2.76 |
 |  508 | Sara Green                |  -5.8 |         1 |              |               |
 |  509 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  510 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  511 | Navarun Jain              | -12.1 |         2 |              |               |
+|  511 | Navarun Jain              | -12.3 |         2 |              |               |

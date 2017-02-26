@@ -54,12 +54,12 @@ Generated 2017-02-25.
 |   50 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
 |   51 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
 |   52 | Janeau Janssen     |   5.9 |         4 |        +1.03 |               |
-|   53 | Zsolt Bartha       |   4.5 |        50 |        -0.19 |         +2.54 |
-|   54 | Jose Lara          |   4.1 |        10 |              |               |
+|   53 | Jose Lara          |   4.5 |        11 |        +0.44 |               |
+|   54 | Zsolt Bartha       |   4.5 |        50 |        -0.19 |         +2.54 |
 |   55 | Cristhian Daniel   |   2.3 |        19 |              |               |
-|   56 | Duncan MacRae      |  -0.2 |        13 |        +2.64 |               |
+|   56 | Duncan MacRae      |  -0.4 |        15 |        +2.38 |               |
 |   57 | Rodrigo Lasheras   |  -1.2 |         2 |              |               |
 |   58 | Daniel Wissmann    |  -1.7 |         1 |              |               |
-|   59 | Yifan Wu           |  -3.3 |         4 |        +8.39 |               |
-|   60 | Seobin Jung        |  -5.4 |         7 |        -2.50 |         -2.50 |
-|   61 | Navarun Jain       | -12.1 |         2 |              |               |
+|   59 | Yifan Wu           |  -3.6 |         5 |        +8.07 |               |
+|   60 | Seobin Jung        |  -5.7 |         7 |        -2.76 |         -2.76 |
+|   61 | Navarun Jain       | -12.3 |         2 |              |               |
