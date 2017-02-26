@@ -287,10 +287,10 @@ Generated 2017-02-25.
 |  283 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  284 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  285 | David Elfant              |  14.7 |         2 |              |               |
-|  286 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  287 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  288 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  289 | Kent Daniels              |  14.6 |        98 |        +0.12 |         -0.63 |
+|  286 | Kent Daniels              |  14.7 |        99 |        +0.24 |         -0.51 |
+|  287 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  288 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  289 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  290 | Shai Vardi                |  14.5 |         4 |              |               |
 |  291 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  292 | Max Woodworth             |  14.4 |         7 |              |               |
@@ -363,11 +363,11 @@ Generated 2017-02-25.
 |  359 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  360 | Reto Sutter               |  10.0 |        52 |              |         -0.83 |
 |  361 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  362 | Daniel Schwartz           |   9.8 |        22 |              |               |
-|  363 | Myles Gordon              |   9.8 |        42 |              |         -0.60 |
-|  364 | Jacob Bank                |   9.7 |         1 |              |               |
-|  365 | Gene Zubovich             |   9.7 |        19 |              |         -0.13 |
-|  366 | Raphael Magarik           |   9.6 |        20 |        +0.89 |               |
+|  362 | Raphael Magarik           |   9.9 |        21 |        +1.16 |               |
+|  363 | Daniel Schwartz           |   9.8 |        22 |              |               |
+|  364 | Myles Gordon              |   9.8 |        42 |              |         -0.60 |
+|  365 | Jacob Bank                |   9.7 |         1 |              |               |
+|  366 | Gene Zubovich             |   9.7 |        19 |              |         -0.13 |
 |  367 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  368 | Mark Shapero              |   9.4 |         7 |              |               |
 |  369 | Kevin Pollock             |   9.4 |        28 |              |               |
@@ -382,7 +382,7 @@ Generated 2017-02-25.
 |  378 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  379 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  380 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  381 | Duo Wang                  |   8.8 |        67 |        +0.31 |         -0.12 |
+|  381 | Duo Wang                  |   8.8 |        67 |        +0.30 |         -0.13 |
 |  382 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  383 | Therese Jones             |   8.7 |         6 |              |               |
 |  384 | Steven Yee                |   8.7 |         9 |              |               |
@@ -399,7 +399,7 @@ Generated 2017-02-25.
 |  395 | Fabrice Henrion           |   8.1 |         2 |              |               |
 |  396 | Alexander Zuern           |   8.0 |        25 |              |               |
 |  397 | Zarina Khan               |   8.0 |         5 |              |               |
-|  398 | Brian Kempenich           |   7.9 |        43 |        -0.23 |         -1.22 |
+|  398 | Brian Kempenich           |   8.0 |        43 |        -0.22 |         -1.21 |
 |  399 | Chip Malt                 |   7.9 |         4 |              |               |
 |  400 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  401 | Minsoo Bae                |   7.9 |         2 |              |               |
@@ -423,9 +423,9 @@ Generated 2017-02-25.
 |  419 | Craig Hollow              |   6.2 |         9 |        -0.17 |               |
 |  420 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  421 | Rohan Relan               |   6.0 |         4 |              |               |
-|  422 | Janeau Janssen            |   5.9 |         4 |        +1.03 |               |
-|  423 | David Zhu                 |   5.8 |         2 |              |               |
-|  424 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  422 | David Zhu                 |   5.8 |         2 |              |               |
+|  423 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  424 | Janeau Janssen            |   5.6 |         5 |        +0.65 |               |
 |  425 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  426 | Manu Vaish                |   5.5 |         1 |              |               |
 |  427 | Emily Moylan              |   5.2 |        17 |              |               |
@@ -436,7 +436,7 @@ Generated 2017-02-25.
 |  432 | Nikhil Srivastava         |   5.0 |        16 |              |         -0.25 |
 |  433 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  434 | Jose Lara                 |   4.5 |        11 |        +0.44 |               |
-|  435 | Zsolt Bartha              |   4.5 |        50 |        -0.19 |         +2.54 |
+|  435 | Zsolt Bartha              |   4.3 |        51 |        -0.33 |         +2.39 |
 |  436 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  437 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  438 | Annie Wong                |   4.0 |         3 |              |               |
@@ -494,7 +494,7 @@ Generated 2017-02-25.
 |  490 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  491 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  492 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  493 | Rodrigo Lasheras          |  -1.2 |         2 |              |               |
+|  493 | Rodrigo Lasheras          |  -1.1 |         2 |              |               |
 |  494 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  495 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  496 | Daniel Wissmann           |  -1.7 |         1 |              |               |
