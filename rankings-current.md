@@ -1,4 +1,4 @@
-Generated 2017-02-25.
+Generated 2017-02-26.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -6,12 +6,12 @@ Generated 2017-02-25.
 |    2 | Eric Katerman      |  31.9 |        36 |        +0.04 |               |
 |    3 | Sam Sternberg      |  29.7 |       140 |        +0.13 |         +0.50 |
 |    4 | Frank Kennamer     |  27.0 |       221 |        -0.05 |         -0.50 |
-|    5 | Ethan Kerr         |  26.5 |        13 |        +0.12 |               |
+|    5 | Ethan Kerr         |  26.7 |        14 |        +0.33 |               |
 |    6 | Arvind Muralimohan |  25.7 |        16 |              |         +0.69 |
 |    7 | Anibhav Singla     |  25.0 |        10 |        +1.20 |               |
-|    8 | Jim Veitch         |  24.6 |       442 |        -0.17 |         -1.73 |
+|    8 | Jim Veitch         |  24.5 |       443 |        -0.21 |         -1.76 |
 |    9 | John Kunze         |  24.3 |       316 |        -0.30 |         -0.13 |
-|   10 | Matt Wong          |  24.0 |        86 |        +0.38 |         +2.62 |
+|   10 | Matt Wong          |  24.0 |        86 |        +0.37 |         +2.62 |
 |   11 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   12 | Sam McCormick      |  23.5 |        26 |        -0.01 |         +2.89 |
 |   13 | Matt Wild          |  23.3 |        26 |        +0.33 |         +0.33 |

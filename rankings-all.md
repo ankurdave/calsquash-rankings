@@ -1,4 +1,4 @@
-Generated 2017-02-25.
+Generated 2017-02-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -42,7 +42,7 @@ Generated 2017-02-25.
 |   38 | Nick Cobbett              |  26.9 |        30 |              |         +3.89 |
 |   39 | Josh Taylor               |  26.8 |        40 |              |               |
 |   40 | David Hwang               |  26.8 |        44 |              |               |
-|   41 | Ethan Kerr                |  26.5 |        13 |        +0.12 |               |
+|   41 | Ethan Kerr                |  26.7 |        14 |        +0.33 |               |
 |   42 | Gary Golding              |  26.5 |         6 |              |               |
 |   43 | Amos Vernon               |  26.4 |        30 |              |               |
 |   44 | Andrew Moylan             |  26.3 |        95 |              |               |
@@ -68,8 +68,8 @@ Generated 2017-02-25.
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
 |   66 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   67 | Jim Veitch                |  24.6 |       442 |        -0.17 |         -1.73 |
-|   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   68 | Jim Veitch                |  24.5 |       443 |        -0.21 |         -1.76 |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
 |   71 | Jon Shih                  |  24.4 |        47 |              |               |
@@ -86,7 +86,7 @@ Generated 2017-02-25.
 |   82 | Benjamin Vicuna           |  24.1 |        50 |              |         +0.78 |
 |   83 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   84 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   85 | Matt Wong                 |  24.0 |        86 |        +0.38 |         +2.62 |
+|   85 | Matt Wong                 |  24.0 |        86 |        +0.37 |         +2.62 |
 |   86 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   87 | Glenn Forrester           |  23.9 |       355 |              |         -0.25 |
 |   88 | Christopher Tsang         |  23.9 |        76 |              |               |
