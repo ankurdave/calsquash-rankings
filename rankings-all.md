@@ -13,16 +13,16 @@ Generated 2017-02-27.
 |    9 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
-|   12 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.07 |
-|   13 | Eric Katerman             |  31.9 |        36 |        +0.04 |               |
+|   12 | Eric Katerman             |  32.1 |        37 |        +0.29 |               |
+|   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.07 |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
-|   20 | Sam Sternberg             |  29.7 |       140 |        +0.13 |         +0.50 |
-|   21 | David Wood                |  29.7 |        43 |              |               |
+|   20 | David Wood                |  29.7 |        43 |              |               |
+|   21 | Sam Sternberg             |  29.5 |       141 |        -0.05 |         +0.32 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -34,7 +34,7 @@ Generated 2017-02-27.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.0 |       221 |        -0.05 |         -0.50 |
+|   33 | Frank Kennamer            |  27.0 |       221 |        -0.05 |         -0.51 |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
