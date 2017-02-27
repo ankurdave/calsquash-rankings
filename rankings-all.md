@@ -1,4 +1,4 @@
-Generated 2017-02-26.
+Generated 2017-02-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -193,8 +193,8 @@ Generated 2017-02-26.
 |  189 | Yating Liu                |  19.0 |         7 |              |               |
 |  190 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  191 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  192 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  193 | Shaun Lim                 |  18.8 |        52 |        +0.06 |         +0.86 |
+|  192 | Shaun Lim                 |  18.9 |        53 |        +0.14 |         +0.93 |
+|  193 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  194 | Jaime Perez               |  18.8 |        24 |        -0.24 |         +2.52 |
 |  195 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  196 | Arbi Vartan               |  18.7 |        20 |              |               |
@@ -271,8 +271,8 @@ Generated 2017-02-26.
 |  267 | Angie Ng                  |  15.7 |        12 |              |               |
 |  268 | Tanit Follett             |  15.5 |         8 |              |               |
 |  269 | Toni Queck                |  15.5 |        20 |              |               |
-|  270 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  271 | Sahar Sareminaeni         |  15.4 |        18 |        -0.47 |               |
+|  270 | Sahar Sareminaeni         |  15.4 |        18 |        -0.47 |               |
+|  271 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  272 | Peter Duerr               |  15.4 |        24 |              |               |
 |  273 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  274 | Jim Evans                 |  15.1 |       216 |              |               |
@@ -301,8 +301,8 @@ Generated 2017-02-26.
 |  297 | Charles Denby             |  14.2 |         5 |              |               |
 |  298 | Neil Sachs                |  14.1 |        12 |              |               |
 |  299 | Rupert Myers              |  14.0 |        27 |              |         +1.10 |
-|  300 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  301 | Nikhil Paranjape          |  13.9 |        35 |        +0.34 |         +4.50 |
+|  300 | Nikhil Paranjape          |  13.9 |        35 |        +0.35 |         +4.52 |
+|  301 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  302 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  303 | Gurj Johal                |  13.8 |         2 |              |               |
 |  304 | Freeden Ouer              |  13.8 |         1 |              |               |
@@ -344,7 +344,7 @@ Generated 2017-02-26.
 |  340 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  341 | Carlos Filho              |  11.4 |         7 |              |               |
 |  342 | Karan Jain                |  11.3 |        19 |              |               |
-|  343 | Meldan Heaslip            |  11.2 |        14 |              |               |
+|  343 | Meldan Heaslip            |  11.1 |        15 |        -0.13 |               |
 |  344 | Lucas Siow                |  11.0 |        10 |              |               |
 |  345 | Shrinu Kushagra           |  10.9 |         2 |              |               |
 |  346 | Dominick Ng               |  10.9 |        25 |              |               |
