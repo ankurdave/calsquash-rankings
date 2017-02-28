@@ -193,7 +193,7 @@ Generated 2017-02-27.
 |  189 | Yating Liu                |  19.0 |         7 |              |               |
 |  190 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  191 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  192 | Shaun Lim                 |  18.9 |        53 |        +0.14 |         +0.93 |
+|  192 | Shaun Lim                 |  18.9 |        53 |        +0.13 |         +0.93 |
 |  193 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  194 | Jaime Perez               |  18.8 |        24 |        -0.24 |         +2.52 |
 |  195 | Viraj Paropkari           |  18.8 |        16 |              |               |
@@ -271,8 +271,8 @@ Generated 2017-02-27.
 |  267 | Angie Ng                  |  15.7 |        12 |              |               |
 |  268 | Tanit Follett             |  15.5 |         8 |              |               |
 |  269 | Toni Queck                |  15.5 |        20 |              |               |
-|  270 | Sahar Sareminaeni         |  15.4 |        18 |        -0.47 |               |
-|  271 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  270 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  271 | Sahar Sareminaeni         |  15.4 |        19 |        -0.50 |               |
 |  272 | Peter Duerr               |  15.4 |        24 |              |               |
 |  273 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  274 | Jim Evans                 |  15.1 |       216 |              |               |
@@ -301,7 +301,7 @@ Generated 2017-02-27.
 |  297 | Charles Denby             |  14.2 |         5 |              |               |
 |  298 | Neil Sachs                |  14.1 |        12 |              |               |
 |  299 | Rupert Myers              |  14.0 |        27 |              |         +1.10 |
-|  300 | Nikhil Paranjape          |  13.9 |        35 |        +0.35 |         +4.52 |
+|  300 | Nikhil Paranjape          |  13.9 |        35 |        +0.35 |         +4.51 |
 |  301 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  302 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  303 | Gurj Johal                |  13.8 |         2 |              |               |
@@ -345,10 +345,10 @@ Generated 2017-02-27.
 |  341 | Carlos Filho              |  11.4 |         7 |              |               |
 |  342 | Karan Jain                |  11.3 |        19 |              |               |
 |  343 | Meldan Heaslip            |  11.1 |        15 |        -0.13 |               |
-|  344 | Lucas Siow                |  11.0 |        10 |              |               |
-|  345 | Shrinu Kushagra           |  10.9 |         2 |              |               |
-|  346 | Dominick Ng               |  10.9 |        25 |              |               |
-|  347 | Josh Lebowitz             |  10.9 |        35 |        +0.19 |               |
+|  344 | Josh Lebowitz             |  11.0 |        36 |        +0.33 |               |
+|  345 | Lucas Siow                |  11.0 |        10 |              |               |
+|  346 | Shrinu Kushagra           |  10.9 |         2 |              |               |
+|  347 | Dominick Ng               |  10.9 |        25 |              |               |
 |  348 | George Bentley            |  10.6 |         4 |              |               |
 |  349 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  350 | Brian Puglise             |  10.4 |         2 |              |               |

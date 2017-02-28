@@ -26,7 +26,7 @@ Generated 2017-02-27.
 |   22 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   23 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   24 | Marc Schechter     |  19.1 |         7 |        +1.07 |               |
-|   25 | Shaun Lim          |  18.9 |        53 |        +0.14 |         +0.93 |
+|   25 | Shaun Lim          |  18.9 |        53 |        +0.13 |         +0.93 |
 |   26 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
 |   27 | Dror Matalon       |  18.6 |       362 |        +0.03 |         +0.40 |
 |   28 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
@@ -37,16 +37,16 @@ Generated 2017-02-27.
 |   33 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
 |   34 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
 |   35 | Diego Butrich      |  15.7 |         9 |        +0.19 |               |
-|   36 | Sahar Sareminaeni  |  15.4 |        18 |        -0.47 |               |
+|   36 | Sahar Sareminaeni  |  15.4 |        19 |        -0.50 |               |
 |   37 | Kent Daniels       |  14.7 |        99 |        +0.24 |         -0.51 |
 |   38 | James Grant        |  14.4 |         5 |              |               |
-|   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.35 |         +4.52 |
+|   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.35 |         +4.51 |
 |   40 | Sergey Dobrinov    |  13.2 |         7 |        +8.33 |               |
 |   41 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
 |   42 | Tim Browning       |  11.8 |         3 |              |               |
 |   43 | Meldan Heaslip     |  11.1 |        15 |        -0.13 |               |
-|   44 | Shrinu Kushagra    |  10.9 |         2 |              |               |
-|   45 | Josh Lebowitz      |  10.9 |        35 |        +0.19 |               |
+|   44 | Josh Lebowitz      |  11.0 |        36 |        +0.33 |               |
+|   45 | Shrinu Kushagra    |  10.9 |         2 |              |               |
 |   46 | Nate Aden          |  10.2 |        31 |        -0.07 |               |
 |   47 | Raphael Magarik    |   9.9 |        21 |        +1.16 |               |
 |   48 | Duo Wang           |   8.8 |        67 |        +0.30 |         -0.13 |
