@@ -227,7 +227,7 @@ Generated 2017-02-28.
 |  223 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  224 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
 |  225 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  226 | Josh Trauner              |  17.5 |        49 |        +0.34 |         +2.84 |
+|  226 | Josh Trauner              |  17.5 |        49 |        +0.33 |         +2.82 |
 |  227 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  228 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  229 | Craig Riddell             |  17.4 |         8 |              |               |
@@ -253,11 +253,11 @@ Generated 2017-02-28.
 |  249 | William Coleman           |  16.5 |        48 |              |               |
 |  250 | Mike Troxell              |  16.5 |         8 |              |               |
 |  251 | Danish Mir                |  16.4 |         1 |              |               |
-|  252 | Paul Chang                |  16.3 |         7 |              |               |
-|  253 | Steven Hahm               |  16.3 |         5 |              |               |
-|  254 | Ankur Dave                |  16.3 |        62 |        +0.11 |         +6.53 |
-|  255 | Jules Bowie               |  16.3 |        12 |              |               |
-|  256 | Chris Flores              |  16.3 |       310 |        +0.17 |         -0.98 |
+|  252 | Chris Flores              |  16.4 |       311 |        +0.25 |         -0.89 |
+|  253 | Paul Chang                |  16.3 |         7 |              |               |
+|  254 | Steven Hahm               |  16.3 |         5 |              |               |
+|  255 | Ankur Dave                |  16.3 |        62 |        +0.11 |         +6.53 |
+|  256 | Jules Bowie               |  16.3 |        12 |              |               |
 |  257 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  258 | Jan Strasky               |  16.2 |        12 |              |               |
 |  259 | Sarah Mcneil              |  16.2 |        24 |              |               |
@@ -292,8 +292,8 @@ Generated 2017-02-28.
 |  288 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  289 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  290 | Shai Vardi                |  14.5 |         4 |              |               |
-|  291 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  292 | James Grant               |  14.5 |         7 |        +0.09 |               |
+|  291 | James Grant               |  14.5 |         7 |        +0.14 |               |
+|  292 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  293 | Max Woodworth             |  14.4 |         7 |              |               |
 |  294 | Juliet Shih               |  14.4 |        11 |              |               |
 |  295 | Khurram Mahmood           |  14.3 |         3 |              |               |
@@ -420,8 +420,8 @@ Generated 2017-02-28.
 |  416 | Markus Boese              |   6.5 |         1 |              |               |
 |  417 | Dav Clark                 |   6.4 |         6 |              |               |
 |  418 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  419 | Craig Hollow              |   6.2 |         9 |        -0.15 |               |
-|  420 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  419 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  420 | Craig Hollow              |   6.0 |        10 |        -0.37 |               |
 |  421 | Rohan Relan               |   6.0 |         4 |              |               |
 |  422 | David Zhu                 |   5.8 |         2 |              |               |
 |  423 | Ivan Rothman              |   5.7 |         5 |              |               |
