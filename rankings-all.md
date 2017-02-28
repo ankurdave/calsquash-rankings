@@ -227,17 +227,17 @@ Generated 2017-02-27.
 |  223 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  224 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
 |  225 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  226 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  227 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  228 | Craig Riddell             |  17.4 |         8 |              |               |
-|  229 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  230 | Wayne Heiser              |  17.3 |        43 |        -0.15 |         +6.78 |
-|  231 | David Bratt               |  17.3 |        22 |              |         +0.90 |
-|  232 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  233 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  234 | Zach Brown                |  17.3 |         3 |              |               |
-|  235 | William Seles             |  17.2 |        15 |              |               |
-|  236 | Josh Trauner              |  17.2 |        48 |        +0.07 |         +2.56 |
+|  226 | Josh Trauner              |  17.5 |        49 |        +0.34 |         +2.84 |
+|  227 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  228 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  229 | Craig Riddell             |  17.4 |         8 |              |               |
+|  230 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  231 | Wayne Heiser              |  17.3 |        43 |        -0.15 |         +6.78 |
+|  232 | David Bratt               |  17.3 |        22 |              |         +0.90 |
+|  233 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  234 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  235 | Zach Brown                |  17.3 |         3 |              |               |
+|  236 | William Seles             |  17.2 |        15 |              |               |
 |  237 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  238 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  239 | Lucas Cheon               |  17.2 |        19 |              |               |
@@ -257,10 +257,10 @@ Generated 2017-02-27.
 |  253 | Steven Hahm               |  16.3 |         5 |              |               |
 |  254 | Ankur Dave                |  16.3 |        62 |        +0.11 |         +6.53 |
 |  255 | Jules Bowie               |  16.3 |        12 |              |               |
-|  256 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  257 | Jan Strasky               |  16.2 |        12 |              |               |
-|  258 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  259 | Chris Flores              |  16.1 |       309 |              |         -1.15 |
+|  256 | Chris Flores              |  16.3 |       310 |        +0.17 |         -0.98 |
+|  257 | Wladislaw Ellis           |  16.2 |        29 |              |               |
+|  258 | Jan Strasky               |  16.2 |        12 |              |               |
+|  259 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  260 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  261 | Terry Chang               |  15.8 |        48 |              |         +0.90 |
 |  262 | Louis Russell             |  15.8 |        20 |              |               |
@@ -293,8 +293,8 @@ Generated 2017-02-27.
 |  289 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  290 | Shai Vardi                |  14.5 |         4 |              |               |
 |  291 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  292 | Max Woodworth             |  14.4 |         7 |              |               |
-|  293 | James Grant               |  14.4 |         5 |              |               |
+|  292 | James Grant               |  14.5 |         7 |        +0.09 |               |
+|  293 | Max Woodworth             |  14.4 |         7 |              |               |
 |  294 | Juliet Shih               |  14.4 |        11 |              |               |
 |  295 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  296 | Adam Soliman              |  14.2 |        32 |              |               |
@@ -420,7 +420,7 @@ Generated 2017-02-27.
 |  416 | Markus Boese              |   6.5 |         1 |              |               |
 |  417 | Dav Clark                 |   6.4 |         6 |              |               |
 |  418 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  419 | Craig Hollow              |   6.2 |         9 |        -0.17 |               |
+|  419 | Craig Hollow              |   6.2 |         9 |        -0.15 |               |
 |  420 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  421 | Rohan Relan               |   6.0 |         4 |              |               |
 |  422 | David Zhu                 |   5.8 |         2 |              |               |

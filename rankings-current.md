@@ -31,15 +31,15 @@ Generated 2017-02-27.
 |   27 | Dror Matalon       |  18.6 |       362 |        +0.03 |         +0.40 |
 |   28 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
 |   29 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
-|   30 | Wayne Heiser       |  17.3 |        43 |        -0.15 |         +6.78 |
-|   31 | David Bratt        |  17.3 |        22 |              |         +0.90 |
-|   32 | Josh Trauner       |  17.2 |        48 |        +0.07 |         +2.56 |
+|   30 | Josh Trauner       |  17.5 |        49 |        +0.34 |         +2.84 |
+|   31 | Wayne Heiser       |  17.3 |        43 |        -0.15 |         +6.78 |
+|   32 | David Bratt        |  17.3 |        22 |              |         +0.90 |
 |   33 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
-|   34 | Chris Flores       |  16.1 |       309 |              |         -1.15 |
+|   34 | Chris Flores       |  16.3 |       310 |        +0.17 |         -0.98 |
 |   35 | Diego Butrich      |  15.7 |         9 |        +0.19 |               |
 |   36 | Sahar Sareminaeni  |  15.4 |        19 |        -0.50 |               |
 |   37 | Kent Daniels       |  14.7 |        99 |        +0.24 |         -0.51 |
-|   38 | James Grant        |  14.4 |         5 |              |               |
+|   38 | James Grant        |  14.5 |         7 |        +0.09 |               |
 |   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.35 |         +4.51 |
 |   40 | Sergey Dobrinov    |  13.2 |         7 |        +8.33 |               |
 |   41 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
@@ -52,7 +52,7 @@ Generated 2017-02-27.
 |   48 | Duo Wang           |   8.8 |        67 |        +0.30 |         -0.13 |
 |   49 | Brian Kempenich    |   8.0 |        43 |        -0.22 |         -1.21 |
 |   50 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   51 | Craig Hollow       |   6.2 |         9 |        -0.17 |               |
+|   51 | Craig Hollow       |   6.2 |         9 |        -0.15 |               |
 |   52 | Janeau Janssen     |   5.6 |         5 |        +0.65 |               |
 |   53 | Jose Lara          |   4.5 |        11 |        +0.44 |               |
 |   54 | Zsolt Bartha       |   4.3 |        51 |        -0.33 |         +2.39 |
