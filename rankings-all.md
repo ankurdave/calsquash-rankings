@@ -48,9 +48,9 @@ Generated 2017-02-27.
 |   44 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   45 | Mikey Zarem               |  26.1 |         8 |              |               |
 |   46 | Vishi                     |  26.0 |        41 |              |         -0.14 |
-|   47 | Peter McDermott           |  25.8 |        10 |              |               |
-|   48 | Andrew Hsu                |  25.8 |        15 |              |               |
-|   49 | Arvind Muralimohan        |  25.7 |        16 |              |         +0.69 |
+|   47 | Arvind Muralimohan        |  26.0 |        17 |        +0.31 |         +1.00 |
+|   48 | Peter McDermott           |  25.8 |        10 |              |               |
+|   49 | Andrew Hsu                |  25.8 |        15 |              |               |
 |   50 | Richard Chan              |  25.5 |         9 |              |               |
 |   51 | Joe Schneider             |  25.5 |         8 |              |               |
 |   52 | Adam Angsten              |  25.4 |         3 |              |               |
@@ -59,8 +59,8 @@ Generated 2017-02-27.
 |   55 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   56 | Paul Greene               |  25.2 |         8 |              |               |
 |   57 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   58 | Anibhav Singla            |  25.0 |        10 |        +1.20 |               |
-|   59 | Ben Seelig                |  25.0 |        69 |              |               |
+|   58 | Ben Seelig                |  25.0 |        69 |              |               |
+|   59 | Anibhav Singla            |  24.9 |        10 |        +1.17 |               |
 |   60 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   61 | Madhav Pai                |  24.9 |         5 |              |               |
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
@@ -98,7 +98,7 @@ Generated 2017-02-27.
 |   94 | Sam McCormick             |  23.7 |        27 |        +0.15 |         +3.05 |
 |   95 | Amy Lee                   |  23.6 |        56 |              |               |
 |   96 | Garvin Heath              |  23.4 |        28 |              |               |
-|   97 | Matt Wild                 |  23.3 |        26 |        +0.33 |         +0.33 |
+|   97 | Matt Wild                 |  23.3 |        26 |        +0.34 |         +0.34 |
 |   98 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   99 | Dan Bohn                  |  23.1 |        89 |        +0.03 |         -0.68 |
 |  100 | Anubhav Gupta             |  23.0 |         8 |              |               |
@@ -110,8 +110,8 @@ Generated 2017-02-27.
 |  106 | Julian Marshall           |  22.7 |        31 |              |               |
 |  107 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  108 | Dev Millstein             |  22.6 |        92 |              |               |
-|  109 | Jonathan Hankar           |  22.5 |       197 |        -0.10 |         +0.65 |
-|  110 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  109 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  110 | Jonathan Hankar           |  22.4 |       198 |        -0.25 |         +0.50 |
 |  111 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  112 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
@@ -135,7 +135,7 @@ Generated 2017-02-27.
 |  131 | Phin Lee                  |  21.7 |        16 |              |               |
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  133 | Dante Popple              |  21.5 |        17 |              |               |
-|  134 | Reid Johnsen              |  21.3 |        45 |        -0.25 |         +2.17 |
+|  134 | Reid Johnsen              |  21.4 |        45 |        -0.24 |         +2.17 |
 |  135 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  136 | Jared Bard                |  21.3 |        42 |        +0.37 |         +0.55 |
 |  137 | Thomas Krussig            |  21.3 |        16 |              |               |
