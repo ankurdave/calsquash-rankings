@@ -1,10 +1,10 @@
-Generated 2017-02-27.
+Generated 2017-02-28.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant        |  36.7 |        18 |        +0.41 |               |
-|    2 | Eric Katerman      |  32.1 |        37 |        +0.29 |               |
-|    3 | Sam Sternberg      |  29.5 |       141 |        -0.05 |         +0.32 |
+|    1 | Colin Grant        |  37.2 |        19 |        +0.85 |               |
+|    2 | Eric Katerman      |  32.0 |        38 |        +0.18 |               |
+|    3 | Sam Sternberg      |  29.5 |       141 |        -0.04 |         +0.32 |
 |    4 | Frank Kennamer     |  27.0 |       221 |        -0.05 |         -0.51 |
 |    5 | Ethan Kerr         |  26.7 |        14 |        +0.33 |               |
 |    6 | Arvind Muralimohan |  26.0 |        17 |        +0.31 |         +1.00 |
@@ -26,7 +26,7 @@ Generated 2017-02-27.
 |   22 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   23 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   24 | Marc Schechter     |  19.1 |         7 |        +1.07 |               |
-|   25 | Shaun Lim          |  18.9 |        53 |        +0.13 |         +0.93 |
+|   25 | Shaun Lim          |  18.9 |        53 |        +0.14 |         +0.94 |
 |   26 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
 |   27 | Dror Matalon       |  18.8 |       363 |        +0.21 |         +0.58 |
 |   28 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
@@ -36,24 +36,24 @@ Generated 2017-02-27.
 |   32 | David Bratt        |  17.3 |        22 |              |         +0.90 |
 |   33 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
 |   34 | Chris Flores       |  16.3 |       310 |        +0.17 |         -0.98 |
-|   35 | Diego Butrich      |  15.7 |         9 |        +0.19 |               |
-|   36 | Sahar Sareminaeni  |  15.4 |        19 |        -0.50 |               |
-|   37 | Kent Daniels       |  14.7 |        99 |        +0.24 |         -0.51 |
+|   35 | Sahar Sareminaeni  |  15.7 |        20 |        -0.17 |               |
+|   36 | Kent Daniels       |  15.1 |       100 |        +0.59 |         -0.16 |
+|   37 | Diego Butrich      |  15.0 |        10 |        -0.49 |               |
 |   38 | James Grant        |  14.5 |         7 |        +0.09 |               |
-|   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.35 |         +4.51 |
-|   40 | Sergey Dobrinov    |  13.2 |         7 |        +8.33 |               |
+|   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.36 |         +4.53 |
+|   40 | Sergey Dobrinov    |  13.0 |         7 |        +8.13 |               |
 |   41 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
 |   42 | Tim Browning       |  11.8 |         3 |              |               |
-|   43 | Meldan Heaslip     |  11.1 |        15 |        -0.13 |               |
-|   44 | Josh Lebowitz      |  11.0 |        36 |        +0.33 |               |
-|   45 | Shrinu Kushagra    |  10.9 |         2 |              |               |
+|   43 | Josh Lebowitz      |  11.0 |        36 |        +0.33 |               |
+|   44 | Shrinu Kushagra    |  10.9 |         2 |              |               |
+|   45 | Meldan Heaslip     |  10.9 |        16 |        -0.30 |               |
 |   46 | Nate Aden          |  10.2 |        31 |        -0.07 |               |
 |   47 | Raphael Magarik    |   9.9 |        21 |        +1.16 |               |
 |   48 | Duo Wang           |   8.8 |        67 |        +0.30 |         -0.13 |
 |   49 | Brian Kempenich    |   8.0 |        43 |        -0.22 |         -1.21 |
 |   50 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
 |   51 | Craig Hollow       |   6.2 |         9 |        -0.15 |               |
-|   52 | Janeau Janssen     |   5.6 |         5 |        +0.65 |               |
+|   52 | Janeau Janssen     |   5.6 |         5 |        +0.68 |               |
 |   53 | Jose Lara          |   4.5 |        11 |        +0.44 |               |
 |   54 | Zsolt Bartha       |   4.3 |        51 |        -0.33 |         +2.39 |
 |   55 | Cristhian Daniel   |   2.3 |        19 |              |               |
