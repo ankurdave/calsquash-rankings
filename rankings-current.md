@@ -11,16 +11,16 @@ Generated 2017-02-27.
 |    7 | Anibhav Singla     |  25.0 |        10 |        +1.20 |               |
 |    8 | Jim Veitch         |  24.5 |       443 |        -0.21 |         -1.76 |
 |    9 | John Kunze         |  24.3 |       316 |        -0.30 |         -0.13 |
-|   10 | Matt Wong          |  24.0 |        86 |        +0.37 |         +2.62 |
+|   10 | Matt Wong          |  24.0 |        86 |        +0.38 |         +2.63 |
 |   11 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
-|   12 | Sam McCormick      |  23.5 |        26 |        -0.01 |         +2.89 |
+|   12 | Sam McCormick      |  23.7 |        27 |        +0.15 |         +3.05 |
 |   13 | Matt Wild          |  23.3 |        26 |        +0.33 |         +0.33 |
 |   14 | Dan Bohn           |  23.1 |        89 |        +0.02 |         -0.70 |
 |   15 | Dan Meier          |  22.7 |        61 |              |         +0.83 |
 |   16 | Jonathan Hankar    |  22.5 |       197 |        -0.10 |         +0.65 |
-|   17 | Reid Johnsen       |  21.3 |        45 |        -0.25 |         +2.17 |
-|   18 | Jared Bard         |  21.3 |        42 |        +0.37 |         +0.55 |
-|   19 | Thomas Littleton   |  20.9 |         2 |              |               |
+|   17 | Thomas Littleton   |  22.1 |         3 |              |               |
+|   18 | Reid Johnsen       |  21.3 |        45 |        -0.25 |         +2.17 |
+|   19 | Jared Bard         |  21.3 |        42 |        +0.37 |         +0.55 |
 |   20 | Mark Modera        |  20.8 |       322 |        +0.12 |         -0.55 |
 |   21 | Jeff Gordon        |  20.4 |        46 |        -0.07 |         +2.63 |
 |   22 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
