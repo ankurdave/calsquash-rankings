@@ -15,20 +15,20 @@ Generated 2017-02-27.
 |   11 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   12 | Sam McCormick      |  23.7 |        27 |        +0.15 |         +3.05 |
 |   13 | Matt Wild          |  23.3 |        26 |        +0.33 |         +0.33 |
-|   14 | Dan Bohn           |  23.1 |        89 |        +0.02 |         -0.70 |
-|   15 | Dan Meier          |  22.7 |        61 |              |         +0.83 |
+|   14 | Dan Bohn           |  23.1 |        89 |        +0.03 |         -0.68 |
+|   15 | Dan Meier          |  22.7 |        61 |              |         +0.84 |
 |   16 | Jonathan Hankar    |  22.5 |       197 |        -0.10 |         +0.65 |
 |   17 | Thomas Littleton   |  22.1 |         3 |              |               |
 |   18 | Reid Johnsen       |  21.3 |        45 |        -0.25 |         +2.17 |
 |   19 | Jared Bard         |  21.3 |        42 |        +0.37 |         +0.55 |
-|   20 | Mark Modera        |  20.8 |       322 |        +0.12 |         -0.55 |
-|   21 | Jeff Gordon        |  20.4 |        46 |        -0.07 |         +2.63 |
+|   20 | Mark Modera        |  20.7 |       323 |        -0.04 |         -0.71 |
+|   21 | Jeff Gordon        |  20.3 |        46 |        -0.09 |         +2.61 |
 |   22 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   23 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   24 | Marc Schechter     |  19.1 |         7 |        +1.07 |               |
 |   25 | Shaun Lim          |  18.9 |        53 |        +0.13 |         +0.93 |
 |   26 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
-|   27 | Dror Matalon       |  18.6 |       362 |        +0.03 |         +0.40 |
+|   27 | Dror Matalon       |  18.8 |       363 |        +0.21 |         +0.58 |
 |   28 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
 |   29 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
 |   30 | Josh Trauner       |  17.5 |        49 |        +0.34 |         +2.84 |

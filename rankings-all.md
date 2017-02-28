@@ -100,12 +100,12 @@ Generated 2017-02-27.
 |   96 | Garvin Heath              |  23.4 |        28 |              |               |
 |   97 | Matt Wild                 |  23.3 |        26 |        +0.33 |         +0.33 |
 |   98 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   99 | Dan Bohn                  |  23.1 |        89 |        +0.02 |         -0.70 |
+|   99 | Dan Bohn                  |  23.1 |        89 |        +0.03 |         -0.68 |
 |  100 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  101 | Joe Farrell               |  23.0 |        30 |              |               |
 |  102 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  103 | Andrew Pritchard          |  22.7 |        16 |              |         +0.86 |
-|  104 | Dan Meier                 |  22.7 |        61 |              |         +0.83 |
+|  104 | Dan Meier                 |  22.7 |        61 |              |         +0.84 |
 |  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  106 | Julian Marshall           |  22.7 |        31 |              |               |
 |  107 | Gautam Tankha             |  22.6 |         7 |              |               |
@@ -150,11 +150,11 @@ Generated 2017-02-27.
 |  146 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  147 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  148 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  149 | Mark Modera               |  20.8 |       322 |        +0.12 |         -0.55 |
-|  150 | Robert Isaac              |  20.8 |        17 |              |               |
-|  151 | Jamie Funk                |  20.8 |        30 |              |               |
-|  152 | Matthew Brett             |  20.7 |        20 |              |               |
-|  153 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  149 | Robert Isaac              |  20.8 |        17 |              |               |
+|  150 | Jamie Funk                |  20.8 |        30 |              |               |
+|  151 | Matthew Brett             |  20.7 |        20 |              |               |
+|  152 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  153 | Mark Modera               |  20.7 |       323 |        -0.04 |         -0.71 |
 |  154 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
@@ -162,7 +162,7 @@ Generated 2017-02-27.
 |  158 | Andrew Green              |  20.5 |        52 |              |               |
 |  159 | Steven Sloman             |  20.4 |        10 |              |               |
 |  160 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
-|  161 | Jeff Gordon               |  20.4 |        46 |        -0.07 |         +2.63 |
+|  161 | Jeff Gordon               |  20.3 |        46 |        -0.09 |         +2.61 |
 |  162 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  163 | Jonathan Francis          |  20.3 |        75 |              |         +0.94 |
 |  164 | Carl Schreck              |  20.2 |         2 |              |               |
@@ -197,13 +197,13 @@ Generated 2017-02-27.
 |  193 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  194 | Jaime Perez               |  18.8 |        24 |        -0.24 |         +2.52 |
 |  195 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  196 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  197 | Peter Dering              |  18.7 |         9 |              |               |
-|  198 | Sushant Jain              |  18.7 |        12 |              |               |
-|  199 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  200 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  201 | Allan Sly                 |  18.6 |        29 |              |               |
-|  202 | Dror Matalon              |  18.6 |       362 |        +0.03 |         +0.40 |
+|  196 | Dror Matalon              |  18.8 |       363 |        +0.21 |         +0.58 |
+|  197 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  198 | Peter Dering              |  18.7 |         9 |              |               |
+|  199 | Sushant Jain              |  18.7 |        12 |              |               |
+|  200 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  201 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  202 | Allan Sly                 |  18.6 |        29 |              |               |
 |  203 | Jason Facchin             |  18.5 |         3 |              |               |
 |  204 | Yan Liu                   |  18.5 |        10 |              |               |
 |  205 | Akshay Dugar              |  18.5 |         6 |              |               |
@@ -332,9 +332,9 @@ Generated 2017-02-27.
 |  328 | Reed Foster               |  12.1 |         8 |              |               |
 |  329 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  330 | Larry Dale                |  11.9 |        29 |              |               |
-|  331 | Tim Browning              |  11.8 |         3 |              |               |
-|  332 | Aman Gupta                |  11.8 |         3 |              |               |
-|  333 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  331 | Aman Gupta                |  11.8 |         3 |              |               |
+|  332 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  333 | Tim Browning              |  11.8 |         3 |              |               |
 |  334 | Julian Gill               |  11.8 |         1 |              |               |
 |  335 | James Shinn               |  11.7 |       120 |              |               |
 |  336 | Tim O'Connell             |  11.7 |         3 |              |               |
