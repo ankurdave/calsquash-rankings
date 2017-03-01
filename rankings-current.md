@@ -30,7 +30,7 @@ Generated 2017-02-28.
 |   26 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
 |   27 | Dror Matalon       |  18.8 |       363 |        +0.21 |         +0.58 |
 |   28 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
-|   29 | Troup Howard       |  17.8 |        46 |              |         +0.14 |
+|   29 | Troup Howard       |  17.9 |        47 |        +0.14 |         +0.28 |
 |   30 | Josh Trauner       |  17.5 |        49 |        +0.33 |         +2.82 |
 |   31 | Wayne Heiser       |  17.3 |        43 |        -0.15 |         +6.78 |
 |   32 | David Bratt        |  17.3 |        22 |              |         +0.90 |
@@ -57,9 +57,10 @@ Generated 2017-02-28.
 |   53 | Jose Lara          |   4.5 |        11 |        +0.44 |               |
 |   54 | Zsolt Bartha       |   4.3 |        51 |        -0.33 |         +2.39 |
 |   55 | Cristhian Daniel   |   2.3 |        19 |              |               |
-|   56 | Duncan MacRae      |  -0.4 |        15 |        +2.38 |               |
-|   57 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
-|   58 | Daniel Wissmann    |  -1.7 |         1 |              |               |
-|   59 | Yifan Wu           |  -3.6 |         5 |        +8.07 |               |
-|   60 | Seobin Jung        |  -5.7 |         7 |        -2.76 |         -2.76 |
-|   61 | Navarun Jain       | -12.3 |         2 |              |               |
+|   56 | Karan Goyal        |  -0.2 |         1 |              |               |
+|   57 | Duncan MacRae      |  -0.4 |        15 |        +2.38 |               |
+|   58 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
+|   59 | Daniel Wissmann    |  -1.7 |         1 |              |               |
+|   60 | Yifan Wu           |  -3.6 |         5 |        +8.07 |               |
+|   61 | Seobin Jung        |  -5.7 |         7 |        -2.76 |         -2.76 |
+|   62 | Navarun Jain       | -12.3 |         2 |              |               |
