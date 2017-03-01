@@ -1,4 +1,4 @@
-Generated 2017-02-28.
+Generated 2017-03-01.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -164,13 +164,13 @@ Generated 2017-02-28.
 |  160 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
 |  161 | Jeff Gordon               |  20.3 |        46 |        -0.09 |         +2.61 |
 |  162 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  163 | Jonathan Francis          |  20.3 |        75 |              |         +0.94 |
-|  164 | Carl Schreck              |  20.2 |         2 |              |               |
-|  165 | John Grim                 |  20.1 |        13 |              |               |
-|  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  167 | Frank Kennan              |  20.1 |        11 |              |               |
-|  168 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  169 | Mike Jensen-Akula         |  20.0 |       221 |              |         -1.53 |
+|  163 | Carl Schreck              |  20.2 |         2 |              |               |
+|  164 | John Grim                 |  20.1 |        13 |              |               |
+|  165 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  166 | Frank Kennan              |  20.1 |        11 |              |               |
+|  167 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  168 | Mike Jensen-Akula         |  20.0 |       221 |              |         -1.53 |
+|  169 | Jonathan Francis          |  20.0 |        76 |        -0.28 |         +0.67 |
 |  170 | Wesley Huang              |  20.0 |         8 |              |               |
 |  171 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  172 | Liam King                 |  19.9 |         6 |              |               |
@@ -184,18 +184,18 @@ Generated 2017-02-28.
 |  180 | Jacob Kersey              |  19.6 |        15 |              |         +1.62 |
 |  181 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  182 | Greg Adams                |  19.3 |        10 |              |               |
-|  183 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  184 | John Corcoran             |  19.1 |        49 |              |               |
-|  185 | Marc Schechter            |  19.1 |         7 |        +1.07 |               |
-|  186 | Kedar Shah                |  19.1 |         9 |              |               |
-|  187 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  188 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  189 | Yating Liu                |  19.0 |         7 |              |               |
-|  190 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
-|  191 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  192 | Shaun Lim                 |  18.9 |        53 |        +0.15 |         +0.95 |
-|  193 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  194 | Jaime Perez               |  18.8 |        24 |        -0.24 |         +2.52 |
+|  183 | Jaime Perez               |  19.2 |        25 |        +0.20 |         +2.95 |
+|  184 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  185 | John Corcoran             |  19.1 |        49 |              |               |
+|  186 | Marc Schechter            |  19.1 |         7 |        +1.07 |               |
+|  187 | Kedar Shah                |  19.1 |         9 |              |               |
+|  188 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  189 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  190 | Yating Liu                |  19.0 |         7 |              |               |
+|  191 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
+|  192 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  193 | Shaun Lim                 |  18.9 |        53 |        +0.15 |         +0.95 |
+|  194 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  195 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  196 | Dror Matalon              |  18.8 |       363 |        +0.21 |         +0.58 |
 |  197 | Arbi Vartan               |  18.7 |        20 |              |               |
