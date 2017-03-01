@@ -193,7 +193,7 @@ Generated 2017-02-28.
 |  189 | Yating Liu                |  19.0 |         7 |              |               |
 |  190 | Ronald Dahl               |  18.9 |        51 |              |         -0.67 |
 |  191 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  192 | Shaun Lim                 |  18.9 |        53 |        +0.14 |         +0.94 |
+|  192 | Shaun Lim                 |  18.9 |        53 |        +0.15 |         +0.95 |
 |  193 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  194 | Jaime Perez               |  18.8 |        24 |        -0.24 |         +2.52 |
 |  195 | Viraj Paropkari           |  18.8 |        16 |              |               |
@@ -264,8 +264,8 @@ Generated 2017-02-28.
 |  260 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  261 | Terry Chang               |  15.8 |        48 |              |         +0.90 |
 |  262 | Louis Russell             |  15.8 |        20 |              |               |
-|  263 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  264 | Sahar Sareminaeni         |  15.7 |        20 |        -0.17 |               |
+|  263 | Sahar Sareminaeni         |  15.8 |        20 |        -0.14 |               |
+|  264 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  265 | Jared Nunn                |  15.7 |         5 |              |               |
 |  266 | Akash Sharma              |  15.7 |         8 |              |               |
 |  267 | Angie Ng                  |  15.7 |        12 |              |               |
@@ -299,9 +299,9 @@ Generated 2017-02-28.
 |  295 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  296 | Adam Soliman              |  14.2 |        32 |              |               |
 |  297 | Charles Denby             |  14.2 |         5 |              |               |
-|  298 | Neil Sachs                |  14.1 |        12 |              |               |
-|  299 | Rupert Myers              |  14.0 |        27 |              |         +1.10 |
-|  300 | Nikhil Paranjape          |  13.9 |        35 |        +0.36 |         +4.53 |
+|  298 | Nikhil Paranjape          |  14.1 |        36 |        +0.59 |         +4.75 |
+|  299 | Neil Sachs                |  14.1 |        12 |              |               |
+|  300 | Rupert Myers              |  14.0 |        27 |              |         +1.10 |
 |  301 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  302 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  303 | Gurj Johal                |  13.8 |         2 |              |               |
@@ -344,12 +344,12 @@ Generated 2017-02-28.
 |  340 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  341 | Carlos Filho              |  11.4 |         7 |              |               |
 |  342 | Karan Jain                |  11.3 |        19 |              |               |
-|  343 | Josh Lebowitz             |  11.0 |        36 |        +0.33 |               |
+|  343 | Josh Lebowitz             |  11.0 |        36 |        +0.34 |               |
 |  344 | Lucas Siow                |  11.0 |        10 |              |               |
 |  345 | Shrinu Kushagra           |  10.9 |         2 |              |               |
-|  346 | Meldan Heaslip            |  10.9 |        16 |        -0.30 |               |
-|  347 | Dominick Ng               |  10.9 |        25 |              |               |
-|  348 | George Bentley            |  10.6 |         4 |              |               |
+|  346 | Dominick Ng               |  10.9 |        25 |              |               |
+|  347 | George Bentley            |  10.6 |         4 |              |               |
+|  348 | Meldan Heaslip            |  10.6 |        17 |        -0.61 |               |
 |  349 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  350 | Brian Puglise             |  10.4 |         2 |              |               |
 |  351 | Lewis H. Moore            |  10.3 |         8 |              |               |

@@ -26,7 +26,7 @@ Generated 2017-02-28.
 |   22 | Jonathan Francis   |  20.3 |        75 |              |         +0.94 |
 |   23 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   24 | Marc Schechter     |  19.1 |         7 |        +1.07 |               |
-|   25 | Shaun Lim          |  18.9 |        53 |        +0.14 |         +0.94 |
+|   25 | Shaun Lim          |  18.9 |        53 |        +0.15 |         +0.95 |
 |   26 | Jaime Perez        |  18.8 |        24 |        -0.24 |         +2.52 |
 |   27 | Dror Matalon       |  18.8 |       363 |        +0.21 |         +0.58 |
 |   28 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
@@ -36,17 +36,17 @@ Generated 2017-02-28.
 |   32 | David Bratt        |  17.3 |        22 |              |         +0.90 |
 |   33 | Chris Flores       |  16.4 |       311 |        +0.25 |         -0.89 |
 |   34 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
-|   35 | Sahar Sareminaeni  |  15.7 |        20 |        -0.17 |               |
+|   35 | Sahar Sareminaeni  |  15.8 |        20 |        -0.14 |               |
 |   36 | Kent Daniels       |  15.1 |       100 |        +0.59 |         -0.16 |
 |   37 | Diego Butrich      |  15.0 |        10 |        -0.49 |               |
 |   38 | James Grant        |  14.5 |         7 |        +0.14 |               |
-|   39 | Nikhil Paranjape   |  13.9 |        35 |        +0.36 |         +4.53 |
+|   39 | Nikhil Paranjape   |  14.1 |        36 |        +0.59 |         +4.75 |
 |   40 | Sergey Dobrinov    |  13.0 |         7 |        +8.13 |               |
 |   41 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
 |   42 | Tim Browning       |  11.8 |         3 |              |               |
-|   43 | Josh Lebowitz      |  11.0 |        36 |        +0.33 |               |
+|   43 | Josh Lebowitz      |  11.0 |        36 |        +0.34 |               |
 |   44 | Shrinu Kushagra    |  10.9 |         2 |              |               |
-|   45 | Meldan Heaslip     |  10.9 |        16 |        -0.30 |               |
+|   45 | Meldan Heaslip     |  10.6 |        17 |        -0.61 |               |
 |   46 | Nate Aden          |  10.2 |        31 |        -0.07 |               |
 |   47 | Raphael Magarik    |   9.9 |        21 |        +1.16 |               |
 |   48 | Duo Wang           |   8.8 |        67 |        +0.30 |         -0.13 |
