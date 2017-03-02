@@ -48,9 +48,9 @@ Generated 2017-03-01.
 |   44 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   45 | Mikey Zarem               |  26.1 |         8 |              |               |
 |   46 | Vishi                     |  26.0 |        41 |              |         -0.14 |
-|   47 | Arvind Muralimohan        |  26.0 |        17 |        +0.31 |         +1.00 |
-|   48 | Peter McDermott           |  25.8 |        10 |              |               |
-|   49 | Andrew Hsu                |  25.8 |        15 |              |               |
+|   47 | Peter McDermott           |  25.8 |        10 |              |               |
+|   48 | Andrew Hsu                |  25.8 |        15 |              |               |
+|   49 | Arvind Muralimohan        |  25.7 |        18 |              |         +0.69 |
 |   50 | Richard Chan              |  25.5 |         9 |              |               |
 |   51 | Joe Schneider             |  25.5 |         8 |              |               |
 |   52 | Adam Angsten              |  25.4 |         3 |              |               |
@@ -60,9 +60,9 @@ Generated 2017-03-01.
 |   56 | Paul Greene               |  25.2 |         8 |              |               |
 |   57 | Mukul Sud                 |  25.0 |         3 |              |               |
 |   58 | Ben Seelig                |  25.0 |        69 |              |               |
-|   59 | Anibhav Singla            |  24.9 |        10 |        +1.17 |               |
-|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   61 | Madhav Pai                |  24.9 |         5 |              |               |
+|   59 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   60 | Madhav Pai                |  24.9 |         5 |              |               |
+|   61 | Anibhav Singla            |  24.9 |        10 |        +1.13 |               |
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
@@ -88,17 +88,17 @@ Generated 2017-03-01.
 |   84 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   85 | Matt Wong                 |  24.0 |        86 |        +0.38 |         +2.63 |
 |   86 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   87 | Glenn Forrester           |  23.9 |       355 |              |         -0.25 |
-|   88 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   89 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   90 | Aditya Guntuboyina        |  23.8 |        80 |              |         +1.24 |
-|   91 | Matt Waid                 |  23.7 |        51 |              |               |
-|   92 | Sonesh Surana             |  23.7 |        95 |              |               |
-|   93 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   94 | Sam McCormick             |  23.7 |        27 |        +0.15 |         +3.05 |
-|   95 | Amy Lee                   |  23.6 |        56 |              |               |
-|   96 | Garvin Heath              |  23.4 |        28 |              |               |
-|   97 | Matt Wild                 |  23.3 |        26 |        +0.34 |         +0.34 |
+|   87 | Matt Wild                 |  23.9 |        28 |        +0.93 |         +0.93 |
+|   88 | Glenn Forrester           |  23.9 |       355 |              |         -0.25 |
+|   89 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   90 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   91 | Aditya Guntuboyina        |  23.8 |        80 |              |         +1.24 |
+|   92 | Matt Waid                 |  23.7 |        51 |              |               |
+|   93 | Sonesh Surana             |  23.7 |        95 |              |               |
+|   94 | Nader Shoaibi             |  23.7 |        64 |              |               |
+|   95 | Sam McCormick             |  23.7 |        27 |        +0.15 |         +3.05 |
+|   96 | Amy Lee                   |  23.6 |        56 |              |               |
+|   97 | Garvin Heath              |  23.4 |        28 |              |               |
 |   98 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   99 | Dan Bohn                  |  23.1 |        89 |        +0.03 |         -0.68 |
 |  100 | Anubhav Gupta             |  23.0 |         8 |              |               |
@@ -111,7 +111,7 @@ Generated 2017-03-01.
 |  107 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  108 | Dev Millstein             |  22.6 |        92 |              |               |
 |  109 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  110 | Jonathan Hankar           |  22.4 |       198 |        -0.25 |         +0.50 |
+|  110 | Jonathan Hankar           |  22.4 |       198 |        -0.23 |         +0.52 |
 |  111 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  112 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
@@ -135,14 +135,14 @@ Generated 2017-03-01.
 |  131 | Phin Lee                  |  21.7 |        16 |              |               |
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  133 | Dante Popple              |  21.5 |        17 |              |               |
-|  134 | Reid Johnsen              |  21.4 |        45 |        -0.24 |         +2.17 |
-|  135 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  136 | Jared Bard                |  21.3 |        42 |        +0.37 |         +0.55 |
-|  137 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  138 | Adam Jacob                |  21.3 |         3 |              |               |
-|  139 | Vishal Jain               |  21.3 |         6 |              |               |
-|  140 | Casey Harelson            |  21.2 |        20 |              |               |
-|  141 | Philip Bildner            |  21.2 |        22 |              |               |
+|  134 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  135 | Jared Bard                |  21.3 |        42 |        +0.37 |         +0.55 |
+|  136 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  137 | Adam Jacob                |  21.3 |         3 |              |               |
+|  138 | Vishal Jain               |  21.3 |         6 |              |               |
+|  139 | Casey Harelson            |  21.2 |        20 |              |               |
+|  140 | Philip Bildner            |  21.2 |        22 |              |               |
+|  141 | Reid Johnsen              |  21.2 |        46 |        -0.44 |         +1.98 |
 |  142 | Darren Morgan             |  21.2 |        11 |              |               |
 |  143 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  144 | Jeff Diamond              |  21.1 |        44 |              |               |

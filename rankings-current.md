@@ -7,20 +7,20 @@ Generated 2017-03-01.
 |    3 | Sam Sternberg      |  29.5 |       141 |        -0.04 |         +0.32 |
 |    4 | Frank Kennamer     |  27.0 |       221 |        -0.05 |         -0.51 |
 |    5 | Ethan Kerr         |  26.7 |        14 |        +0.33 |               |
-|    6 | Arvind Muralimohan |  26.0 |        17 |        +0.31 |         +1.00 |
-|    7 | Anibhav Singla     |  24.9 |        10 |        +1.17 |               |
+|    6 | Arvind Muralimohan |  25.7 |        18 |              |         +0.69 |
+|    7 | Anibhav Singla     |  24.9 |        10 |        +1.13 |               |
 |    8 | Jim Veitch         |  24.5 |       443 |        -0.21 |         -1.76 |
 |    9 | John Kunze         |  24.3 |       316 |        -0.30 |         -0.13 |
 |   10 | Matt Wong          |  24.0 |        86 |        +0.38 |         +2.63 |
-|   11 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
-|   12 | Sam McCormick      |  23.7 |        27 |        +0.15 |         +3.05 |
-|   13 | Matt Wild          |  23.3 |        26 |        +0.34 |         +0.34 |
+|   11 | Matt Wild          |  23.9 |        28 |        +0.93 |         +0.93 |
+|   12 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
+|   13 | Sam McCormick      |  23.7 |        27 |        +0.15 |         +3.05 |
 |   14 | Dan Bohn           |  23.1 |        89 |        +0.03 |         -0.68 |
 |   15 | Dan Meier          |  22.7 |        61 |              |         +0.84 |
-|   16 | Jonathan Hankar    |  22.4 |       198 |        -0.25 |         +0.50 |
+|   16 | Jonathan Hankar    |  22.4 |       198 |        -0.23 |         +0.52 |
 |   17 | Thomas Littleton   |  22.1 |         3 |              |               |
-|   18 | Reid Johnsen       |  21.4 |        45 |        -0.24 |         +2.17 |
-|   19 | Jared Bard         |  21.3 |        42 |        +0.37 |         +0.55 |
+|   18 | Jared Bard         |  21.3 |        42 |        +0.37 |         +0.55 |
+|   19 | Reid Johnsen       |  21.2 |        46 |        -0.44 |         +1.98 |
 |   20 | Mark Modera        |  20.7 |       323 |        -0.04 |         -0.71 |
 |   21 | Jeff Gordon        |  20.3 |        46 |        -0.09 |         +2.61 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
