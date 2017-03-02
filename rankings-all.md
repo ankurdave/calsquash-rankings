@@ -1,4 +1,4 @@
-Generated 2017-03-01.
+Generated 2017-03-02.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -186,8 +186,8 @@ Generated 2017-03-01.
 |  182 | Greg Adams                |  19.3 |        10 |              |               |
 |  183 | Jaime Perez               |  19.2 |        25 |        +0.20 |         +2.95 |
 |  184 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  185 | John Corcoran             |  19.1 |        49 |              |               |
-|  186 | Marc Schechter            |  19.1 |         7 |        +1.07 |               |
+|  185 | Marc Schechter            |  19.2 |         7 |        +1.10 |               |
+|  186 | John Corcoran             |  19.1 |        49 |              |               |
 |  187 | Kedar Shah                |  19.1 |         9 |              |               |
 |  188 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  189 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -217,9 +217,9 @@ Generated 2017-03-01.
 |  213 | Eric Borden               |  18.2 |        41 |        -0.18 |         +2.87 |
 |  214 | Bob Roller                |  18.2 |         6 |              |               |
 |  215 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  216 | Troup Howard              |  17.9 |        47 |        +0.14 |         +0.28 |
-|  217 | James Chung               |  17.9 |         7 |              |               |
-|  218 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  216 | James Chung               |  17.9 |         7 |              |               |
+|  217 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  218 | Troup Howard              |  17.8 |        47 |        +0.06 |         +0.19 |
 |  219 | Nick Paget                |  17.8 |        35 |              |               |
 |  220 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  221 | Ranjit Jhala              |  17.8 |         6 |              |               |
@@ -228,11 +228,11 @@ Generated 2017-03-01.
 |  224 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
 |  225 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  226 | Josh Trauner              |  17.5 |        49 |        +0.33 |         +2.82 |
-|  227 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  228 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  229 | Craig Riddell             |  17.4 |         8 |              |               |
-|  230 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  231 | Wayne Heiser              |  17.3 |        43 |        -0.15 |         +6.78 |
+|  227 | Wayne Heiser              |  17.5 |        44 |              |         +6.93 |
+|  228 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  229 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  230 | Craig Riddell             |  17.4 |         8 |              |               |
+|  231 | Charity Caruthers         |  17.3 |         4 |              |               |
 |  232 | David Bratt               |  17.3 |        22 |              |         +0.90 |
 |  233 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  234 | Ariel Grostern            |  17.3 |        94 |              |               |
@@ -480,8 +480,8 @@ Generated 2017-03-01.
 |  476 | Stuart Fox                |   0.2 |         1 |              |               |
 |  477 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  478 | Rachel Chiu               |   0.1 |         2 |              |               |
-|  479 | Sandra Harpster           |  -0.1 |         5 |              |               |
-|  480 | Karan Goyal               |  -0.2 |         1 |              |               |
+|  479 | Karan Goyal               |   0.1 |         2 |              |               |
+|  480 | Sandra Harpster           |  -0.1 |         5 |              |               |
 |  481 | Stephen Garden            |  -0.2 |         2 |              |               |
 |  482 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
 |  483 | Wyss Roman                |  -0.3 |         2 |              |               |

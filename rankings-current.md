@@ -1,4 +1,4 @@
-Generated 2017-03-01.
+Generated 2017-03-02.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -26,13 +26,13 @@ Generated 2017-03-01.
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   23 | Jonathan Francis   |  20.0 |        76 |        -0.28 |         +0.67 |
 |   24 | Jaime Perez        |  19.2 |        25 |        +0.20 |         +2.95 |
-|   25 | Marc Schechter     |  19.1 |         7 |        +1.07 |               |
+|   25 | Marc Schechter     |  19.2 |         7 |        +1.10 |               |
 |   26 | Shaun Lim          |  18.9 |        53 |        +0.15 |         +0.95 |
 |   27 | Dror Matalon       |  18.8 |       363 |        +0.21 |         +0.58 |
 |   28 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
-|   29 | Troup Howard       |  17.9 |        47 |        +0.14 |         +0.28 |
+|   29 | Troup Howard       |  17.8 |        47 |        +0.06 |         +0.19 |
 |   30 | Josh Trauner       |  17.5 |        49 |        +0.33 |         +2.82 |
-|   31 | Wayne Heiser       |  17.3 |        43 |        -0.15 |         +6.78 |
+|   31 | Wayne Heiser       |  17.5 |        44 |              |         +6.93 |
 |   32 | David Bratt        |  17.3 |        22 |              |         +0.90 |
 |   33 | Chris Flores       |  16.4 |       311 |        +0.25 |         -0.89 |
 |   34 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
@@ -57,7 +57,7 @@ Generated 2017-03-01.
 |   53 | Jose Lara          |   4.5 |        11 |        +0.44 |               |
 |   54 | Zsolt Bartha       |   4.3 |        51 |        -0.33 |         +2.39 |
 |   55 | Cristhian Daniel   |   2.3 |        19 |              |               |
-|   56 | Karan Goyal        |  -0.2 |         1 |              |               |
+|   56 | Karan Goyal        |   0.1 |         2 |              |               |
 |   57 | Duncan MacRae      |  -0.4 |        15 |        +2.38 |               |
 |   58 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
 |   59 | Daniel Wissmann    |  -1.7 |         1 |              |               |
