@@ -2,7 +2,7 @@ Generated 2017-03-02.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  37.2 |        19 |        +0.85 |               |
+|    1 | Colin Grant               |  37.2 |        20 |        +0.86 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |         +0.13 |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -13,7 +13,7 @@ Generated 2017-03-02.
 |    9 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
-|   12 | Eric Katerman             |  32.0 |        38 |        +0.18 |               |
+|   12 | Eric Katerman             |  32.0 |        38 |        +0.19 |               |
 |   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         +0.07 |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
@@ -22,7 +22,7 @@ Generated 2017-03-02.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.5 |       141 |        -0.04 |         +0.32 |
+|   21 | Sam Sternberg             |  29.5 |       141 |        -0.05 |         +0.32 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -74,7 +74,7 @@ Generated 2017-03-02.
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
 |   71 | Jon Shih                  |  24.4 |        47 |              |               |
 |   72 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   73 | John Kunze                |  24.3 |       316 |        -0.30 |         -0.13 |
+|   73 | John Kunze                |  24.3 |       316 |        -0.30 |         -0.14 |
 |   74 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   75 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   76 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -274,25 +274,25 @@ Generated 2017-03-02.
 |  270 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  271 | Peter Duerr               |  15.4 |        24 |              |               |
 |  272 | Kevin Fox                 |  15.3 |         7 |              |               |
-|  273 | Jim Evans                 |  15.1 |       216 |              |               |
-|  274 | Dennis Chan               |  15.1 |         1 |              |               |
-|  275 | Kent Daniels              |  15.1 |       100 |        +0.59 |         -0.16 |
-|  276 | Allie Giovanelli          |  15.0 |         4 |              |               |
-|  277 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  278 | Diego Butrich             |  15.0 |        10 |        -0.49 |               |
-|  279 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
-|  280 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  281 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  282 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  283 | Paul Norberg              |  14.8 |         8 |              |               |
-|  284 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  285 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  286 | David Elfant              |  14.7 |         2 |              |               |
-|  287 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  288 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  289 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  290 | Shai Vardi                |  14.5 |         4 |              |               |
-|  291 | James Grant               |  14.5 |         7 |        +0.14 |               |
+|  273 | James Grant               |  15.2 |         8 |        +0.76 |               |
+|  274 | Jim Evans                 |  15.1 |       216 |              |               |
+|  275 | Dennis Chan               |  15.1 |         1 |              |               |
+|  276 | Kent Daniels              |  15.1 |       100 |        +0.59 |         -0.16 |
+|  277 | Allie Giovanelli          |  15.0 |         4 |              |               |
+|  278 | Patrick Baylis            |  15.0 |        12 |              |               |
+|  279 | Diego Butrich             |  15.0 |        10 |        -0.49 |               |
+|  280 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  281 | Mimi Zhang                |  14.9 |         6 |              |               |
+|  282 | Jeff Dorman               |  14.9 |        14 |              |               |
+|  283 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  284 | Paul Norberg              |  14.8 |         8 |              |               |
+|  285 | Frederick Bayles          |  14.8 |         8 |              |               |
+|  286 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  287 | David Elfant              |  14.7 |         2 |              |               |
+|  288 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  289 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  290 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  291 | Shai Vardi                |  14.5 |         4 |              |               |
 |  292 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  293 | Max Woodworth             |  14.4 |         7 |              |               |
 |  294 | Juliet Shih               |  14.4 |        11 |              |               |
@@ -346,7 +346,7 @@ Generated 2017-03-02.
 |  342 | Karan Jain                |  11.3 |        19 |              |               |
 |  343 | Josh Lebowitz             |  11.0 |        36 |        +0.34 |               |
 |  344 | Lucas Siow                |  11.0 |        10 |              |               |
-|  345 | Shrinu Kushagra           |  10.9 |         2 |              |               |
+|  345 | Shrinu Kushagra           |  11.0 |         3 |              |               |
 |  346 | Dominick Ng               |  10.9 |        25 |              |               |
 |  347 | George Bentley            |  10.6 |         4 |              |               |
 |  348 | Meldan Heaslip            |  10.6 |        17 |        -0.61 |               |
@@ -421,8 +421,8 @@ Generated 2017-03-02.
 |  417 | Dav Clark                 |   6.4 |         6 |              |               |
 |  418 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  419 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  420 | Craig Hollow              |   6.0 |        10 |        -0.37 |               |
-|  421 | Rohan Relan               |   6.0 |         4 |              |               |
+|  420 | Rohan Relan               |   6.0 |         4 |              |               |
+|  421 | Craig Hollow              |   5.9 |        11 |        -0.44 |               |
 |  422 | David Zhu                 |   5.8 |         2 |              |               |
 |  423 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  424 | Janeau Janssen            |   5.6 |         5 |        +0.68 |               |
