@@ -16,7 +16,7 @@ Generated 2017-03-02.
 |   12 | Aditya Guntuboyina |  23.8 |        80 |              |         +1.24 |
 |   13 | Sam McCormick      |  23.7 |        27 |        +0.15 |         +3.05 |
 |   14 | Dan Bohn           |  23.1 |        89 |        +0.03 |         -0.68 |
-|   15 | Dan Meier          |  22.7 |        61 |              |         +0.84 |
+|   15 | Dan Meier          |  22.7 |        61 |              |         +0.83 |
 |   16 | Jonathan Hankar    |  22.4 |       198 |        -0.23 |         +0.52 |
 |   17 | Thomas Littleton   |  22.1 |         3 |              |               |
 |   18 | Jared Bard         |  21.3 |        42 |        +0.37 |         +0.55 |
@@ -28,7 +28,7 @@ Generated 2017-03-02.
 |   24 | Jaime Perez        |  19.2 |        25 |        +0.20 |         +2.95 |
 |   25 | Marc Schechter     |  19.2 |         7 |        +1.10 |               |
 |   26 | Shaun Lim          |  18.9 |        53 |        +0.15 |         +0.95 |
-|   27 | Dror Matalon       |  18.8 |       363 |        +0.21 |         +0.58 |
+|   27 | Dror Matalon       |  18.7 |       364 |        +0.12 |         +0.49 |
 |   28 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
 |   29 | Troup Howard       |  17.8 |        47 |        +0.06 |         +0.19 |
 |   30 | Josh Trauner       |  17.5 |        49 |        +0.33 |         +2.82 |
@@ -40,10 +40,10 @@ Generated 2017-03-02.
 |   36 | James Grant        |  15.2 |         8 |        +0.76 |               |
 |   37 | Kent Daniels       |  15.1 |       100 |        +0.59 |         -0.16 |
 |   38 | Diego Butrich      |  15.0 |        10 |        -0.49 |               |
-|   39 | Nikhil Paranjape   |  14.1 |        36 |        +0.59 |         +4.75 |
-|   40 | Sergey Dobrinov    |  13.0 |         7 |        +8.13 |               |
-|   41 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
-|   42 | Tim Browning       |  11.8 |         3 |              |               |
+|   39 | Tim Browning       |  14.4 |         4 |              |               |
+|   40 | Nikhil Paranjape   |  14.1 |        36 |        +0.59 |         +4.75 |
+|   41 | Sergey Dobrinov    |  13.0 |         7 |        +8.13 |               |
+|   42 | Rodrigo Calmet     |  12.4 |         8 |        +1.61 |               |
 |   43 | Josh Lebowitz      |  11.0 |        36 |        +0.34 |               |
 |   44 | Shrinu Kushagra    |  11.0 |         3 |              |               |
 |   45 | Meldan Heaslip     |  10.6 |        17 |        -0.61 |               |
