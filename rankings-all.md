@@ -174,19 +174,19 @@ Generated 2017-03-03.
 |  170 | Wesley Huang              |  20.0 |         8 |              |               |
 |  171 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  172 | Liam King                 |  19.9 |         6 |              |               |
-|  173 | Lysander Jim              |  19.8 |         6 |              |               |
-|  174 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  175 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  176 | Mike Delanty              |  19.7 |        12 |              |               |
-|  177 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  178 | Andrew Proudfoot          |  19.6 |        26 |              |               |
-|  179 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  180 | Jacob Kersey              |  19.6 |        15 |              |         +1.62 |
-|  181 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  182 | Greg Adams                |  19.3 |        10 |              |               |
-|  183 | Jaime Perez               |  19.2 |        25 |        +0.20 |         +2.95 |
-|  184 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  185 | Marc Schechter            |  19.2 |         7 |        +1.10 |               |
+|  173 | Marc Schechter            |  19.8 |         8 |        +1.74 |               |
+|  174 | Lysander Jim              |  19.8 |         6 |              |               |
+|  175 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  176 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  177 | Mike Delanty              |  19.7 |        12 |              |               |
+|  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  179 | Andrew Proudfoot          |  19.6 |        26 |              |               |
+|  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  181 | Jacob Kersey              |  19.6 |        15 |              |         +1.62 |
+|  182 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  183 | Greg Adams                |  19.3 |        10 |              |               |
+|  184 | Jaime Perez               |  19.2 |        25 |        +0.20 |         +2.95 |
+|  185 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  186 | John Corcoran             |  19.1 |        49 |              |               |
 |  187 | Kedar Shah                |  19.1 |         9 |              |               |
 |  188 | Narayan Sankaran          |  19.1 |        24 |              |               |
@@ -220,7 +220,7 @@ Generated 2017-03-03.
 |  216 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  217 | James Chung               |  17.9 |         7 |              |               |
 |  218 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  219 | Troup Howard              |  17.8 |        47 |        +0.06 |         +0.19 |
+|  219 | Troup Howard              |  17.8 |        47 |        +0.05 |         +0.19 |
 |  220 | Nick Paget                |  17.8 |        35 |              |               |
 |  221 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  222 | Ranjit Jhala              |  17.8 |         6 |              |               |
@@ -229,7 +229,7 @@ Generated 2017-03-03.
 |  225 | Subrato Dey               |  17.5 |        26 |              |         +3.61 |
 |  226 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  227 | Josh Trauner              |  17.5 |        49 |        +0.33 |         +2.82 |
-|  228 | Wayne Heiser              |  17.5 |        44 |              |         +6.93 |
+|  228 | Wayne Heiser              |  17.4 |        44 |        -0.05 |         +6.89 |
 |  229 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  230 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  231 | Craig Riddell             |  17.4 |         8 |              |               |
@@ -465,22 +465,22 @@ Generated 2017-03-03.
 |  461 | Hobson Brown              |   1.3 |         1 |              |               |
 |  462 | Milind Sanghavi           |   1.3 |         1 |              |               |
 |  463 | Tom Joseph                |   1.3 |         2 |              |               |
-|  464 | Alexandra Harmon          |   1.3 |         3 |              |               |
-|  465 | Michael Mann              |   1.1 |         4 |              |               |
-|  466 | Marco Eres                |   1.0 |         5 |              |               |
-|  467 | Alex Kaplan               |   0.8 |         8 |              |               |
-|  468 | Alfonso Rojas             |   0.6 |         8 |              |               |
-|  469 | Ben Geller                |   0.6 |         4 |              |               |
-|  470 | Seth Garz                 |   0.6 |         1 |              |               |
-|  471 | James Aylott              |   0.6 |         3 |              |               |
-|  472 | Ashley Mercer             |   0.5 |         5 |              |               |
-|  473 | Laurie Choi               |   0.5 |         2 |              |               |
-|  474 | Anne Iversen              |   0.4 |         3 |              |               |
-|  475 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  476 | Stuart Fox                |   0.2 |         1 |              |               |
-|  477 | Hannah Hagen              |   0.2 |         4 |              |               |
-|  478 | Rachel Chiu               |   0.1 |         2 |              |               |
-|  479 | Karan Goyal               |   0.1 |         2 |              |               |
+|  464 | Karan Goyal               |   1.3 |         3 |              |               |
+|  465 | Alexandra Harmon          |   1.3 |         3 |              |               |
+|  466 | Michael Mann              |   1.1 |         4 |              |               |
+|  467 | Marco Eres                |   1.0 |         5 |              |               |
+|  468 | Alex Kaplan               |   0.8 |         8 |              |               |
+|  469 | Alfonso Rojas             |   0.6 |         8 |              |               |
+|  470 | Ben Geller                |   0.6 |         4 |              |               |
+|  471 | Seth Garz                 |   0.6 |         1 |              |               |
+|  472 | James Aylott              |   0.6 |         3 |              |               |
+|  473 | Ashley Mercer             |   0.5 |         5 |              |               |
+|  474 | Laurie Choi               |   0.5 |         2 |              |               |
+|  475 | Anne Iversen              |   0.4 |         3 |              |               |
+|  476 | Nathaniel Rice            |   0.4 |         3 |              |               |
+|  477 | Stuart Fox                |   0.2 |         1 |              |               |
+|  478 | Hannah Hagen              |   0.2 |         4 |              |               |
+|  479 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  480 | Sandra Harpster           |  -0.1 |         5 |              |               |
 |  481 | Stephen Garden            |  -0.2 |         2 |              |               |
 |  482 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |

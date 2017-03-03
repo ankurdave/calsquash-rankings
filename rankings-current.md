@@ -25,15 +25,15 @@ Generated 2017-03-03.
 |   21 | Jeff Gordon        |  20.3 |        46 |        -0.09 |         +2.61 |
 |   22 | Mike Jensen-Akula  |  20.0 |       221 |              |         -1.53 |
 |   23 | Jonathan Francis   |  20.0 |        76 |        -0.28 |         +0.67 |
-|   24 | Jaime Perez        |  19.2 |        25 |        +0.20 |         +2.95 |
-|   25 | Marc Schechter     |  19.2 |         7 |        +1.10 |               |
+|   24 | Marc Schechter     |  19.8 |         8 |        +1.74 |               |
+|   25 | Jaime Perez        |  19.2 |        25 |        +0.20 |         +2.95 |
 |   26 | Shaun Lim          |  18.9 |        53 |        +0.14 |         +0.94 |
 |   27 | Dror Matalon       |  18.7 |       364 |        +0.12 |         +0.49 |
 |   28 | Shrinu Kushagra    |  18.4 |         4 |              |               |
 |   29 | Eric Borden        |  18.2 |        41 |        -0.18 |         +2.87 |
-|   30 | Troup Howard       |  17.8 |        47 |        +0.06 |         +0.19 |
+|   30 | Troup Howard       |  17.8 |        47 |        +0.05 |         +0.19 |
 |   31 | Josh Trauner       |  17.5 |        49 |        +0.33 |         +2.82 |
-|   32 | Wayne Heiser       |  17.5 |        44 |              |         +6.93 |
+|   32 | Wayne Heiser       |  17.4 |        44 |        -0.05 |         +6.89 |
 |   33 | David Bratt        |  17.3 |        22 |              |         +0.90 |
 |   34 | Chris Flores       |  16.4 |       311 |        +0.25 |         -0.89 |
 |   35 | Ankur Dave         |  16.3 |        62 |        +0.11 |         +6.53 |
@@ -57,7 +57,7 @@ Generated 2017-03-03.
 |   53 | Jose Lara          |   4.5 |        11 |        +0.44 |               |
 |   54 | Zsolt Bartha       |   4.3 |        51 |        -0.33 |         +2.39 |
 |   55 | Cristhian Daniel   |   2.3 |        19 |              |               |
-|   56 | Karan Goyal        |   0.1 |         2 |              |               |
+|   56 | Karan Goyal        |   1.3 |         3 |              |               |
 |   57 | Duncan MacRae      |  -0.4 |        15 |        +2.38 |               |
 |   58 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
 |   59 | Daniel Wissmann    |  -1.7 |         1 |              |               |
