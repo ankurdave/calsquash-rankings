@@ -1,4 +1,4 @@
-Generated 2017-03-03.
+Generated 2017-03-04.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -48,14 +48,15 @@ Generated 2017-03-03.
 |   44 | Raphael Magarik    |   9.9 |        21 |              |               |
 |   45 | Duo Wang           |   8.8 |        67 |              |         -0.13 |
 |   46 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
-|   47 | Craig Hollow       |   5.9 |        11 |              |               |
-|   48 | Janeau Janssen     |   5.6 |         5 |              |               |
-|   49 | Jose Lara          |   4.5 |        11 |              |               |
-|   50 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |
-|   51 | Karan Goyal        |   1.3 |         3 |              |               |
-|   52 | Duncan MacRae      |  -0.4 |        15 |              |               |
-|   53 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
-|   54 | Daniel Wissmann    |  -1.7 |         1 |              |               |
-|   55 | Yifan Wu           |  -3.6 |         5 |              |               |
-|   56 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
-|   57 | Navarun Jain       | -12.3 |         2 |              |               |
+|   47 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
+|   48 | Craig Hollow       |   5.9 |        11 |              |               |
+|   49 | Janeau Janssen     |   5.6 |         5 |              |               |
+|   50 | Jose Lara          |   4.5 |        11 |              |               |
+|   51 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |
+|   52 | Karan Goyal        |   1.3 |         3 |              |               |
+|   53 | Duncan MacRae      |  -0.4 |        15 |              |               |
+|   54 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
+|   55 | Daniel Wissmann    |  -1.7 |         1 |              |               |
+|   56 | Yifan Wu           |  -3.6 |         5 |              |               |
+|   57 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
+|   58 | Navarun Jain       | -12.3 |         2 |              |               |
