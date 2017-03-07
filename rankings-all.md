@@ -155,26 +155,26 @@ Generated 2017-03-07.
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
 |  152 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  153 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  155 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
-|  156 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  157 | Andrew Green              |  20.5 |        52 |              |               |
-|  158 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.74 |
-|  159 | Steven Sloman             |  20.4 |        10 |              |               |
-|  160 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
-|  161 | Jeff Gordon               |  20.3 |        46 |              |         +2.50 |
-|  162 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  163 | Carl Schreck              |  20.2 |         2 |              |               |
-|  164 | John Grim                 |  20.1 |        13 |              |               |
-|  165 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  166 | Frank Kennan              |  20.1 |        11 |              |               |
-|  167 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  168 | Mike Jensen-Akula         |  20.0 |       221 |              |         -1.63 |
-|  169 | Jonathan Francis          |  20.0 |        76 |              |         +0.45 |
-|  170 | Wesley Huang              |  20.0 |         8 |              |               |
-|  171 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  172 | Liam King                 |  19.9 |         6 |              |               |
-|  173 | Marc Schechter            |  19.8 |         8 |              |               |
+|  154 | Marc Schechter            |  20.6 |         9 |        +0.75 |               |
+|  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
+|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  158 | Andrew Green              |  20.5 |        52 |              |               |
+|  159 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.74 |
+|  160 | Steven Sloman             |  20.4 |        10 |              |               |
+|  161 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
+|  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.50 |
+|  163 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  164 | Carl Schreck              |  20.2 |         2 |              |               |
+|  165 | John Grim                 |  20.1 |        13 |              |               |
+|  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  167 | Frank Kennan              |  20.1 |        11 |              |               |
+|  168 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  169 | Mike Jensen-Akula         |  20.0 |       221 |              |         -1.63 |
+|  170 | Jonathan Francis          |  20.0 |        76 |              |         +0.45 |
+|  171 | Wesley Huang              |  20.0 |         8 |              |               |
+|  172 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  173 | Liam King                 |  19.9 |         6 |              |               |
 |  174 | Lysander Jim              |  19.8 |         6 |              |               |
 |  175 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  176 | Suneesh Kaul              |  19.7 |         3 |              |               |
@@ -295,13 +295,13 @@ Generated 2017-03-07.
 |  291 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  292 | Shai Vardi                |  14.5 |         4 |              |               |
 |  293 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  294 | Tim Browning              |  14.4 |         4 |              |               |
-|  295 | Max Woodworth             |  14.4 |         7 |              |               |
-|  296 | Juliet Shih               |  14.4 |        11 |              |               |
-|  297 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  298 | Nikhil Paranjape          |  14.3 |        37 |        +0.16 |         +5.48 |
-|  299 | Adam Soliman              |  14.2 |        32 |              |               |
-|  300 | Charles Denby             |  14.2 |         5 |              |               |
+|  294 | Max Woodworth             |  14.4 |         7 |              |               |
+|  295 | Juliet Shih               |  14.4 |        11 |              |               |
+|  296 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  297 | Nikhil Paranjape          |  14.3 |        37 |        +0.16 |         +5.48 |
+|  298 | Adam Soliman              |  14.2 |        32 |              |               |
+|  299 | Charles Denby             |  14.2 |         5 |              |               |
+|  300 | Tim Browning              |  14.1 |         5 |        -0.34 |               |
 |  301 | Neil Sachs                |  14.1 |        12 |              |               |
 |  302 | Rupert Myers              |  14.0 |        27 |              |         +0.63 |
 |  303 | Tuong-Vi Faber            |  13.9 |        32 |              |               |

@@ -18,11 +18,11 @@ Generated 2017-03-07.
 |   14 | Jonathan Hankar    |  22.4 |       198 |              |         +0.76 |
 |   15 | Jared Bard         |  21.3 |        42 |              |         +0.01 |
 |   16 | Reid Johnsen       |  21.2 |        46 |              |         -0.61 |
-|   17 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.74 |
-|   18 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
-|   19 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
-|   20 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
-|   21 | Marc Schechter     |  19.8 |         8 |              |               |
+|   17 | Marc Schechter     |  20.6 |         9 |        +0.75 |               |
+|   18 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.74 |
+|   19 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
+|   20 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
+|   21 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
 |   22 | Jaime Perez        |  19.6 |        26 |        +0.32 |         +1.02 |
 |   23 | Shaun Lim          |  18.9 |        53 |              |         +0.35 |
 |   24 | Dror Matalon       |  18.7 |       364 |              |         +0.49 |
@@ -38,8 +38,8 @@ Generated 2017-03-07.
 |   34 | James Grant        |  15.2 |         8 |              |               |
 |   35 | Kent Daniels       |  15.1 |       100 |              |         -0.16 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
-|   37 | Tim Browning       |  14.4 |         4 |              |               |
-|   38 | Nikhil Paranjape   |  14.3 |        37 |        +0.16 |         +5.48 |
+|   37 | Nikhil Paranjape   |  14.3 |        37 |        +0.16 |         +5.48 |
+|   38 | Tim Browning       |  14.1 |         5 |        -0.34 |               |
 |   39 | Sergey Dobrinov    |  12.6 |         9 |        -0.34 |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Meldan Heaslip     |  11.0 |        18 |              |               |
