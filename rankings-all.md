@@ -1,4 +1,4 @@
-Generated 2017-03-05.
+Generated 2017-03-06.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -299,9 +299,9 @@ Generated 2017-03-05.
 |  295 | Max Woodworth             |  14.4 |         7 |              |               |
 |  296 | Juliet Shih               |  14.4 |        11 |              |               |
 |  297 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  298 | Adam Soliman              |  14.2 |        32 |              |               |
-|  299 | Charles Denby             |  14.2 |         5 |              |               |
-|  300 | Nikhil Paranjape          |  14.2 |        36 |              |         +5.32 |
+|  298 | Nikhil Paranjape          |  14.3 |        37 |        +0.16 |         +5.48 |
+|  299 | Adam Soliman              |  14.2 |        32 |              |               |
+|  300 | Charles Denby             |  14.2 |         5 |              |               |
 |  301 | Neil Sachs                |  14.1 |        12 |              |               |
 |  302 | Rupert Myers              |  14.0 |        27 |              |         +0.63 |
 |  303 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
@@ -319,7 +319,7 @@ Generated 2017-03-05.
 |  315 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  316 | Field Maloney             |  13.1 |        24 |              |               |
 |  317 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  318 | Sergey Dobrinov           |  13.0 |         7 |              |               |
+|  318 | Sergey Dobrinov           |  13.0 |         8 |              |               |
 |  319 | Lewis Moore               |  13.0 |        69 |              |               |
 |  320 | David Isaksson            |  12.9 |        22 |              |               |
 |  321 | Suluck Chaturabul         |  12.7 |         2 |              |               |

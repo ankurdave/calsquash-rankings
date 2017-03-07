@@ -1,4 +1,4 @@
-Generated 2017-03-05.
+Generated 2017-03-06.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -39,8 +39,8 @@ Generated 2017-03-05.
 |   35 | Kent Daniels       |  15.1 |       100 |              |         -0.16 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
 |   37 | Tim Browning       |  14.4 |         4 |              |               |
-|   38 | Nikhil Paranjape   |  14.2 |        36 |              |         +5.32 |
-|   39 | Sergey Dobrinov    |  13.0 |         7 |              |               |
+|   38 | Nikhil Paranjape   |  14.3 |        37 |        +0.16 |         +5.48 |
+|   39 | Sergey Dobrinov    |  13.0 |         8 |              |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Meldan Heaslip     |  11.0 |        18 |              |               |
 |   42 | Josh Lebowitz      |  10.9 |        37 |              |        +11.59 |
