@@ -1,4 +1,4 @@
-Generated 2017-03-06.
+Generated 2017-03-07.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -18,20 +18,20 @@ Generated 2017-03-06.
 |   14 | Jonathan Hankar    |  22.4 |       198 |              |         +0.76 |
 |   15 | Jared Bard         |  21.3 |        42 |              |         +0.01 |
 |   16 | Reid Johnsen       |  21.2 |        46 |              |         -0.61 |
-|   17 | Mark Modera        |  20.7 |       323 |              |         -0.54 |
+|   17 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.74 |
 |   18 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
 |   19 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
 |   20 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
 |   21 | Marc Schechter     |  19.8 |         8 |              |               |
-|   22 | Jaime Perez        |  19.2 |        25 |              |         +0.70 |
+|   22 | Jaime Perez        |  19.6 |        26 |        +0.32 |         +1.02 |
 |   23 | Shaun Lim          |  18.9 |        53 |              |         +0.35 |
 |   24 | Dror Matalon       |  18.7 |       364 |              |         +0.49 |
 |   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
 |   27 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
-|   28 | Josh Trauner       |  17.5 |        49 |              |         +0.42 |
-|   29 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
-|   30 | David Bratt        |  17.3 |        22 |              |         +0.90 |
+|   28 | David Bratt        |  17.6 |        23 |        +0.33 |         +1.23 |
+|   29 | Josh Trauner       |  17.5 |        49 |              |         +0.42 |
+|   30 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
 |   31 | Chris Flores       |  16.4 |       311 |              |         -0.97 |
 |   32 | Ankur Dave         |  16.3 |        62 |              |         +6.78 |
 |   33 | Sahar Sareminaeni  |  15.7 |        20 |              |               |
@@ -40,7 +40,7 @@ Generated 2017-03-06.
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
 |   37 | Tim Browning       |  14.4 |         4 |              |               |
 |   38 | Nikhil Paranjape   |  14.3 |        37 |        +0.16 |         +5.48 |
-|   39 | Sergey Dobrinov    |  13.0 |         8 |              |               |
+|   39 | Sergey Dobrinov    |  12.6 |         9 |        -0.34 |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Meldan Heaslip     |  11.0 |        18 |              |               |
 |   42 | Josh Lebowitz      |  10.9 |        37 |              |        +11.59 |

@@ -1,4 +1,4 @@
-Generated 2017-03-06.
+Generated 2017-03-07.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -154,12 +154,12 @@ Generated 2017-03-06.
 |  150 | Jamie Funk                |  20.8 |        30 |              |               |
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
 |  152 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  153 | Mark Modera               |  20.7 |       323 |              |         -0.54 |
-|  154 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
-|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  158 | Andrew Green              |  20.5 |        52 |              |               |
+|  153 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  155 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
+|  156 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  157 | Andrew Green              |  20.5 |        52 |              |               |
+|  158 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.74 |
 |  159 | Steven Sloman             |  20.4 |        10 |              |               |
 |  160 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
 |  161 | Jeff Gordon               |  20.3 |        46 |              |         +2.50 |
@@ -182,10 +182,10 @@ Generated 2017-03-06.
 |  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  179 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  181 | Jacob Kersey              |  19.6 |        15 |              |         +0.77 |
-|  182 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  183 | Greg Adams                |  19.3 |        10 |              |               |
-|  184 | Jaime Perez               |  19.2 |        25 |              |         +0.70 |
+|  181 | Jaime Perez               |  19.6 |        26 |        +0.32 |         +1.02 |
+|  182 | Jacob Kersey              |  19.6 |        15 |              |         +0.77 |
+|  183 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  184 | Greg Adams                |  19.3 |        10 |              |               |
 |  185 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  186 | John Corcoran             |  19.1 |        49 |              |               |
 |  187 | Kedar Shah                |  19.1 |         9 |              |               |
@@ -225,16 +225,16 @@ Generated 2017-03-06.
 |  221 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  222 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  223 | George Roche              |  17.7 |        14 |              |               |
-|  224 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  225 | Subrato Dey               |  17.5 |        26 |              |         +2.32 |
-|  226 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  227 | Josh Trauner              |  17.5 |        49 |              |         +0.42 |
-|  228 | Wayne Heiser              |  17.4 |        44 |              |         +4.60 |
-|  229 | Sam Trachtman             |  17.4 |         5 |              |         +3.91 |
-|  230 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  231 | Craig Riddell             |  17.4 |         8 |              |               |
-|  232 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  233 | David Bratt               |  17.3 |        22 |              |         +0.90 |
+|  224 | David Bratt               |  17.6 |        23 |        +0.33 |         +1.23 |
+|  225 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  226 | Subrato Dey               |  17.5 |        26 |              |         +2.32 |
+|  227 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  228 | Josh Trauner              |  17.5 |        49 |              |         +0.42 |
+|  229 | Wayne Heiser              |  17.4 |        44 |              |         +4.60 |
+|  230 | Sam Trachtman             |  17.4 |         5 |              |         +3.91 |
+|  231 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  232 | Craig Riddell             |  17.4 |         8 |              |               |
+|  233 | Charity Caruthers         |  17.3 |         4 |              |               |
 |  234 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  235 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  236 | Zach Brown                |  17.3 |         3 |              |               |
@@ -319,11 +319,11 @@ Generated 2017-03-06.
 |  315 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  316 | Field Maloney             |  13.1 |        24 |              |               |
 |  317 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  318 | Sergey Dobrinov           |  13.0 |         8 |              |               |
-|  319 | Lewis Moore               |  13.0 |        69 |              |               |
-|  320 | David Isaksson            |  12.9 |        22 |              |               |
-|  321 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  322 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  318 | Lewis Moore               |  13.0 |        69 |              |               |
+|  319 | David Isaksson            |  12.9 |        22 |              |               |
+|  320 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  321 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  322 | Sergey Dobrinov           |  12.6 |         9 |        -0.34 |               |
 |  323 | Josh Shiode               |  12.6 |        20 |              |               |
 |  324 | Huw Lester                |  12.5 |         1 |              |               |
 |  325 | Richard Fabini            |  12.4 |         3 |              |               |
