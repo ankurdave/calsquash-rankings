@@ -1,4 +1,4 @@
-Generated 2017-03-07.
+Generated 2017-03-08.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -50,19 +50,19 @@ Generated 2017-03-07.
 |   46 | Vishi                     |  26.0 |        41 |              |         -0.14 |
 |   47 | Peter McDermott           |  25.8 |        10 |              |               |
 |   48 | Andrew Hsu                |  25.8 |        15 |              |               |
-|   49 | Arvind Muralimohan        |  25.7 |        18 |              |         +1.44 |
-|   50 | Richard Chan              |  25.5 |         9 |              |               |
-|   51 | Joe Schneider             |  25.5 |         8 |              |               |
-|   52 | Adam Angsten              |  25.4 |         3 |              |               |
-|   53 | Matt Nelson-Teutsch       |  25.4 |        10 |              |               |
-|   54 | Sean O'Nuallain           |  25.4 |        43 |              |               |
-|   55 | Rahul Gupta               |  25.3 |         7 |              |               |
-|   56 | Paul Greene               |  25.2 |         8 |              |               |
-|   57 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   58 | Ben Seelig                |  25.0 |        69 |              |               |
-|   59 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   60 | Madhav Pai                |  24.9 |         5 |              |               |
-|   61 | Anibhav Singla            |  24.9 |        10 |              |               |
+|   49 | Anibhav Singla            |  25.8 |        11 |        +0.89 |               |
+|   50 | Arvind Muralimohan        |  25.7 |        18 |              |         +1.44 |
+|   51 | Richard Chan              |  25.5 |         9 |              |               |
+|   52 | Joe Schneider             |  25.5 |         8 |              |               |
+|   53 | Adam Angsten              |  25.4 |         3 |              |               |
+|   54 | Matt Nelson-Teutsch       |  25.4 |        10 |              |               |
+|   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
+|   56 | Rahul Gupta               |  25.3 |         7 |              |               |
+|   57 | Paul Greene               |  25.2 |         8 |              |               |
+|   58 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   59 | Ben Seelig                |  25.0 |        69 |              |               |
+|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   61 | Madhav Pai                |  24.9 |         5 |              |               |
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
@@ -111,9 +111,9 @@ Generated 2017-03-07.
 |  107 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  108 | Dev Millstein             |  22.6 |        92 |              |               |
 |  109 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  110 | Jonathan Hankar           |  22.4 |       198 |              |         +0.76 |
-|  111 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  112 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  110 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  111 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  112 | Jonathan Hankar           |  22.3 |       199 |        -0.10 |         +0.66 |
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
