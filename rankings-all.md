@@ -141,8 +141,8 @@ Generated 2017-03-08.
 |  137 | Adam Jacob                |  21.3 |         3 |              |               |
 |  138 | Vishal Jain               |  21.3 |         6 |              |               |
 |  139 | Casey Harelson            |  21.2 |        20 |              |               |
-|  140 | Philip Bildner            |  21.2 |        22 |              |               |
-|  141 | Reid Johnsen              |  21.2 |        46 |              |         -0.61 |
+|  140 | Reid Johnsen              |  21.2 |        47 |        +0.01 |         -0.59 |
+|  141 | Philip Bildner            |  21.2 |        22 |              |               |
 |  142 | Darren Morgan             |  21.2 |        11 |              |               |
 |  143 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  144 | Jeff Diamond              |  21.1 |        44 |              |               |
@@ -182,7 +182,7 @@ Generated 2017-03-08.
 |  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  179 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  181 | Jaime Perez               |  19.6 |        26 |        +0.32 |         +1.02 |
+|  181 | Jaime Perez               |  19.6 |        27 |        +0.37 |         +1.06 |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |         +0.77 |
 |  183 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  184 | Greg Adams                |  19.3 |        10 |              |               |

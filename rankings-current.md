@@ -17,13 +17,13 @@ Generated 2017-03-08.
 |   13 | Dan Meier          |  22.7 |        61 |              |         +0.61 |
 |   14 | Jonathan Hankar    |  22.3 |       199 |        -0.10 |         +0.66 |
 |   15 | Jared Bard         |  21.3 |        42 |              |         +0.01 |
-|   16 | Reid Johnsen       |  21.2 |        46 |              |         -0.61 |
+|   16 | Reid Johnsen       |  21.2 |        47 |        +0.01 |         -0.59 |
 |   17 | Marc Schechter     |  20.6 |         9 |        +0.75 |               |
 |   18 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.74 |
 |   19 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
 |   20 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
 |   21 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
-|   22 | Jaime Perez        |  19.6 |        26 |        +0.32 |         +1.02 |
+|   22 | Jaime Perez        |  19.6 |        27 |        +0.37 |         +1.06 |
 |   23 | Shaun Lim          |  18.9 |        53 |              |         +0.35 |
 |   24 | Dror Matalon       |  18.7 |       364 |              |         +0.49 |
 |   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
