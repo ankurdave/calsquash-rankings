@@ -38,9 +38,9 @@ Generated 2017-03-07.
 |   34 | James Grant        |  15.2 |         8 |              |               |
 |   35 | Kent Daniels       |  15.1 |       100 |              |         -0.16 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
-|   37 | Nikhil Paranjape   |  14.3 |        37 |        +0.16 |         +5.48 |
+|   37 | Nikhil Paranjape   |  14.4 |        38 |        +0.28 |         +5.60 |
 |   38 | Tim Browning       |  14.1 |         5 |        -0.34 |               |
-|   39 | Sergey Dobrinov    |  12.6 |         9 |        -0.34 |               |
+|   39 | Sergey Dobrinov    |  12.7 |         9 |        -0.32 |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Meldan Heaslip     |  11.0 |        18 |              |               |
 |   42 | Josh Lebowitz      |  10.9 |        37 |              |        +11.59 |
@@ -49,7 +49,7 @@ Generated 2017-03-07.
 |   45 | Duo Wang           |   8.8 |        67 |              |         -0.13 |
 |   46 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
 |   47 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   48 | Craig Hollow       |   5.9 |        11 |              |               |
+|   48 | Craig Hollow       |   5.7 |        12 |        -0.26 |               |
 |   49 | Janeau Janssen     |   5.6 |         5 |              |               |
 |   50 | Jose Lara          |   4.5 |        11 |              |               |
 |   51 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |

@@ -295,10 +295,10 @@ Generated 2017-03-07.
 |  291 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  292 | Shai Vardi                |  14.5 |         4 |              |               |
 |  293 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  294 | Max Woodworth             |  14.4 |         7 |              |               |
-|  295 | Juliet Shih               |  14.4 |        11 |              |               |
-|  296 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  297 | Nikhil Paranjape          |  14.3 |        37 |        +0.16 |         +5.48 |
+|  294 | Nikhil Paranjape          |  14.4 |        38 |        +0.28 |         +5.60 |
+|  295 | Max Woodworth             |  14.4 |         7 |              |               |
+|  296 | Juliet Shih               |  14.4 |        11 |              |               |
+|  297 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  298 | Adam Soliman              |  14.2 |        32 |              |               |
 |  299 | Charles Denby             |  14.2 |         5 |              |               |
 |  300 | Tim Browning              |  14.1 |         5 |        -0.34 |               |
@@ -323,7 +323,7 @@ Generated 2017-03-07.
 |  319 | David Isaksson            |  12.9 |        22 |              |               |
 |  320 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  321 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  322 | Sergey Dobrinov           |  12.6 |         9 |        -0.34 |               |
+|  322 | Sergey Dobrinov           |  12.7 |         9 |        -0.32 |               |
 |  323 | Josh Shiode               |  12.6 |        20 |              |               |
 |  324 | Huw Lester                |  12.5 |         1 |              |               |
 |  325 | Richard Fabini            |  12.4 |         3 |              |               |
@@ -422,9 +422,9 @@ Generated 2017-03-07.
 |  418 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  419 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  420 | Rohan Relan               |   6.0 |         4 |              |               |
-|  421 | Craig Hollow              |   5.9 |        11 |              |               |
-|  422 | David Zhu                 |   5.8 |         2 |              |               |
-|  423 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  421 | David Zhu                 |   5.8 |         2 |              |               |
+|  422 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  423 | Craig Hollow              |   5.7 |        12 |        -0.26 |               |
 |  424 | Janeau Janssen            |   5.6 |         5 |              |               |
 |  425 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  426 | Manu Vaish                |   5.5 |         1 |              |               |
