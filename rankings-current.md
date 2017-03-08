@@ -30,8 +30,8 @@ Generated 2017-03-08.
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
 |   27 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
 |   28 | David Bratt        |  17.6 |        23 |        +0.33 |         +1.23 |
-|   29 | Josh Trauner       |  17.5 |        49 |              |         +0.42 |
-|   30 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
+|   29 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
+|   30 | Josh Trauner       |  17.2 |        50 |        -0.33 |         +0.09 |
 |   31 | Chris Flores       |  16.4 |       311 |              |         -0.97 |
 |   32 | Ankur Dave         |  16.3 |        62 |              |         +6.78 |
 |   33 | Sahar Sareminaeni  |  15.7 |        20 |              |               |
@@ -48,12 +48,12 @@ Generated 2017-03-08.
 |   44 | Raphael Magarik    |   9.9 |        21 |              |               |
 |   45 | Duo Wang           |   8.8 |        67 |              |         -0.13 |
 |   46 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
-|   47 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   48 | Craig Hollow       |   5.7 |        12 |        -0.26 |               |
-|   49 | Janeau Janssen     |   5.6 |         5 |              |               |
-|   50 | Jose Lara          |   4.5 |        11 |              |               |
-|   51 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |
-|   52 | Karan Goyal        |   1.3 |         3 |              |               |
+|   47 | Karan Goyal        |   7.2 |         4 |        +5.90 |               |
+|   48 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
+|   49 | Craig Hollow       |   5.7 |        12 |        -0.26 |               |
+|   50 | Janeau Janssen     |   5.6 |         5 |              |               |
+|   51 | Jose Lara          |   4.5 |        11 |              |               |
+|   52 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |
 |   53 | Duncan MacRae      |  -0.4 |        15 |              |               |
 |   54 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
 |   55 | Daniel Wissmann    |  -1.7 |         1 |              |               |
