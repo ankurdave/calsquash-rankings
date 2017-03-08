@@ -2,7 +2,7 @@ Generated 2017-03-07.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  37.2 |        20 |              |               |
+|    1 | Colin Grant               |  37.4 |        21 |        +0.19 |               |
 |    2 | Ashley Kayler             |  35.0 |       212 |              |         +0.12 |
 |    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -24,8 +24,8 @@ Generated 2017-03-07.
 |   20 | David Wood                |  29.7 |        43 |              |               |
 |   21 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   22 | Tiko Shah                 |  29.3 |       198 |              |               |
-|   23 | Sam Sternberg             |  29.2 |       142 |              |         +0.01 |
-|   24 | Jehan Engineer            |  29.2 |         9 |              |               |
+|   23 | Jehan Engineer            |  29.2 |         9 |              |               |
+|   24 | Sam Sternberg             |  29.2 |       143 |        -0.06 |         -0.05 |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
 |   27 | Ali Rahim                 |  28.4 |        24 |              |               |
