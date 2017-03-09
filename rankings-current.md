@@ -44,7 +44,7 @@ Generated 2017-03-09.
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Meldan Heaslip     |  11.0 |        18 |              |               |
 |   42 | Josh Lebowitz      |  10.9 |        37 |              |        +11.59 |
-|   43 | Nate Aden          |  10.2 |        31 |              |        +10.67 |
+|   43 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
 |   44 | Raphael Magarik    |   9.9 |        21 |              |               |
 |   45 | Duo Wang           |   8.8 |        67 |              |         -0.13 |
 |   46 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
@@ -54,7 +54,7 @@ Generated 2017-03-09.
 |   50 | Craig Hollow       |   5.7 |        12 |        -0.26 |               |
 |   51 | Jose Lara          |   4.5 |        11 |              |               |
 |   52 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |
-|   53 | Duncan MacRae      |  -0.5 |        16 |        -0.11 |               |
+|   53 | Duncan MacRae      |  -0.6 |        17 |        -0.18 |               |
 |   54 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
 |   55 | Daniel Wissmann    |  -1.7 |         1 |              |               |
 |   56 | Yifan Wu           |  -3.6 |         5 |              |               |

@@ -356,8 +356,8 @@ Generated 2017-03-09.
 |  352 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  353 | John Provine              |  10.2 |        16 |              |               |
 |  354 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  355 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  356 | Nate Aden                 |  10.2 |        31 |              |        +10.67 |
+|  355 | Nate Aden                 |  10.2 |        32 |        +0.04 |        +10.71 |
+|  356 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  357 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  358 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  359 | Ed Rubin                  |  10.0 |        14 |              |               |
@@ -492,9 +492,9 @@ Generated 2017-03-09.
 |  488 | Rabin Patra               |  -0.5 |         2 |              |               |
 |  489 | Mikolaj Oettingen         |  -0.5 |         3 |              |               |
 |  490 | Aubrey Shick              |  -0.5 |        30 |              |               |
-|  491 | Duncan MacRae             |  -0.5 |        16 |        -0.11 |               |
-|  492 | Lev Marquis               |  -0.6 |         5 |              |               |
-|  493 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
+|  491 | Lev Marquis               |  -0.6 |         5 |              |               |
+|  492 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
+|  493 | Duncan MacRae             |  -0.6 |        17 |        -0.18 |               |
 |  494 | Rodrigo Lasheras          |  -1.1 |         2 |              |               |
 |  495 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  496 | Nick Firmani              |  -1.6 |         3 |              |               |
