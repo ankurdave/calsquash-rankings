@@ -1,4 +1,4 @@
-Generated 2017-03-08.
+Generated 2017-03-09.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -29,18 +29,18 @@ Generated 2017-03-08.
 |   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
 |   27 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
-|   28 | David Bratt        |  17.6 |        23 |        +0.33 |         +1.23 |
+|   28 | David Bratt        |  17.7 |        23 |        +0.35 |         +1.24 |
 |   29 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
 |   30 | Josh Trauner       |  17.2 |        50 |        -0.33 |         +0.09 |
 |   31 | Chris Flores       |  16.4 |       311 |              |         -0.97 |
 |   32 | Ankur Dave         |  16.3 |        62 |              |         +6.78 |
 |   33 | Sahar Sareminaeni  |  15.7 |        20 |              |               |
 |   34 | James Grant        |  15.2 |         8 |              |               |
-|   35 | Kent Daniels       |  15.1 |       100 |              |         -0.16 |
+|   35 | Kent Daniels       |  15.0 |       101 |        -0.02 |         -0.18 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
-|   37 | Nikhil Paranjape   |  14.4 |        38 |        +0.28 |         +5.60 |
+|   37 | Nikhil Paranjape   |  14.5 |        38 |        +0.30 |         +5.62 |
 |   38 | Tim Browning       |  14.1 |         5 |        -0.34 |               |
-|   39 | Sergey Dobrinov    |  12.7 |         9 |        -0.32 |               |
+|   39 | Sergey Dobrinov    |  13.3 |        10 |        +0.30 |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Meldan Heaslip     |  11.0 |        18 |              |               |
 |   42 | Josh Lebowitz      |  10.9 |        37 |              |        +11.59 |

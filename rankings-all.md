@@ -1,4 +1,4 @@
-Generated 2017-03-08.
+Generated 2017-03-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -225,7 +225,7 @@ Generated 2017-03-08.
 |  221 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  222 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  223 | George Roche              |  17.7 |        14 |              |               |
-|  224 | David Bratt               |  17.6 |        23 |        +0.33 |         +1.23 |
+|  224 | David Bratt               |  17.7 |        23 |        +0.35 |         +1.24 |
 |  225 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  226 | Subrato Dey               |  17.5 |        26 |              |         +2.32 |
 |  227 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -278,8 +278,8 @@ Generated 2017-03-08.
 |  274 | James Grant               |  15.2 |         8 |              |               |
 |  275 | Jim Evans                 |  15.1 |       216 |              |               |
 |  276 | Dennis Chan               |  15.1 |         1 |              |               |
-|  277 | Kent Daniels              |  15.1 |       100 |              |         -0.16 |
-|  278 | Allie Giovanelli          |  15.0 |         4 |              |               |
+|  277 | Allie Giovanelli          |  15.0 |         4 |              |               |
+|  278 | Kent Daniels              |  15.0 |       101 |        -0.02 |         -0.18 |
 |  279 | Patrick Baylis            |  15.0 |        12 |              |               |
 |  280 | Diego Butrich             |  15.0 |        10 |              |               |
 |  281 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
@@ -295,7 +295,7 @@ Generated 2017-03-08.
 |  291 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  292 | Shai Vardi                |  14.5 |         4 |              |               |
 |  293 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  294 | Nikhil Paranjape          |  14.4 |        38 |        +0.28 |         +5.60 |
+|  294 | Nikhil Paranjape          |  14.5 |        38 |        +0.30 |         +5.62 |
 |  295 | Max Woodworth             |  14.4 |         7 |              |               |
 |  296 | Juliet Shih               |  14.4 |        11 |              |               |
 |  297 | Khurram Mahmood           |  14.3 |         3 |              |               |
@@ -315,15 +315,15 @@ Generated 2017-03-08.
 |  311 | Alex Rennet               |  13.5 |         2 |              |               |
 |  312 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  313 | Jake Toy                  |  13.4 |         5 |              |               |
-|  314 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  315 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  316 | Field Maloney             |  13.1 |        24 |              |               |
-|  317 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  318 | Lewis Moore               |  13.0 |        69 |              |               |
-|  319 | David Isaksson            |  12.9 |        22 |              |               |
-|  320 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  321 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  322 | Sergey Dobrinov           |  12.7 |         9 |        -0.32 |               |
+|  314 | Sergey Dobrinov           |  13.3 |        10 |        +0.30 |               |
+|  315 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  316 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  317 | Field Maloney             |  13.1 |        24 |              |               |
+|  318 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  319 | Lewis Moore               |  13.0 |        69 |              |               |
+|  320 | David Isaksson            |  12.9 |        22 |              |               |
+|  321 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  322 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  323 | Josh Shiode               |  12.6 |        20 |              |               |
 |  324 | Huw Lester                |  12.5 |         1 |              |               |
 |  325 | Richard Fabini            |  12.4 |         3 |              |               |
