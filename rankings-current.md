@@ -50,11 +50,11 @@ Generated 2017-03-08.
 |   46 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
 |   47 | Karan Goyal        |   7.2 |         4 |        +5.90 |               |
 |   48 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   49 | Craig Hollow       |   5.7 |        12 |        -0.26 |               |
-|   50 | Janeau Janssen     |   5.6 |         5 |              |               |
+|   49 | Janeau Janssen     |   6.2 |         6 |        +0.64 |               |
+|   50 | Craig Hollow       |   5.7 |        12 |        -0.26 |               |
 |   51 | Jose Lara          |   4.5 |        11 |              |               |
 |   52 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |
-|   53 | Duncan MacRae      |  -0.4 |        15 |              |               |
+|   53 | Duncan MacRae      |  -0.5 |        16 |        -0.11 |               |
 |   54 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
 |   55 | Daniel Wissmann    |  -1.7 |         1 |              |               |
 |   56 | Yifan Wu           |  -3.6 |         5 |              |               |

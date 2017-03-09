@@ -420,13 +420,13 @@ Generated 2017-03-08.
 |  416 | Mikel Shybut              |   6.5 |         4 |              |               |
 |  417 | Markus Boese              |   6.5 |         1 |              |               |
 |  418 | Dav Clark                 |   6.4 |         6 |              |               |
-|  419 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  420 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  421 | Rohan Relan               |   6.0 |         4 |              |               |
-|  422 | David Zhu                 |   5.8 |         2 |              |               |
-|  423 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  424 | Craig Hollow              |   5.7 |        12 |        -0.26 |               |
-|  425 | Janeau Janssen            |   5.6 |         5 |              |               |
+|  419 | Janeau Janssen            |   6.2 |         6 |        +0.64 |               |
+|  420 | Nicolas Huber             |   6.2 |         4 |              |               |
+|  421 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  422 | Rohan Relan               |   6.0 |         4 |              |               |
+|  423 | David Zhu                 |   5.8 |         2 |              |               |
+|  424 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  425 | Craig Hollow              |   5.7 |        12 |        -0.26 |               |
 |  426 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  427 | Manu Vaish                |   5.5 |         1 |              |               |
 |  428 | Emily Moylan              |   5.2 |        17 |              |               |
@@ -488,11 +488,11 @@ Generated 2017-03-08.
 |  484 | Jane Pan                  |  -0.4 |         1 |              |               |
 |  485 | Enrico Moretti            |  -0.4 |         1 |              |               |
 |  486 | Greg Rybka                |  -0.4 |         4 |              |               |
-|  487 | Duncan MacRae             |  -0.4 |        15 |              |               |
-|  488 | Klim Efremenko            |  -0.5 |         4 |              |               |
-|  489 | Rabin Patra               |  -0.5 |         2 |              |               |
-|  490 | Mikolaj Oettingen         |  -0.5 |         3 |              |               |
-|  491 | Aubrey Shick              |  -0.5 |        30 |              |               |
+|  487 | Klim Efremenko            |  -0.5 |         4 |              |               |
+|  488 | Rabin Patra               |  -0.5 |         2 |              |               |
+|  489 | Mikolaj Oettingen         |  -0.5 |         3 |              |               |
+|  490 | Aubrey Shick              |  -0.5 |        30 |              |               |
+|  491 | Duncan MacRae             |  -0.5 |        16 |        -0.11 |               |
 |  492 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  493 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
 |  494 | Rodrigo Lasheras          |  -1.1 |         2 |              |               |
