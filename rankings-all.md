@@ -224,8 +224,8 @@ Generated 2017-03-09.
 |  220 | Nick Paget                |  17.8 |        35 |              |               |
 |  221 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  222 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  223 | George Roche              |  17.7 |        14 |              |               |
-|  224 | David Bratt               |  17.7 |        23 |        +0.35 |         +1.24 |
+|  223 | David Bratt               |  17.7 |        24 |        +0.43 |         +1.32 |
+|  224 | George Roche              |  17.7 |        14 |              |               |
 |  225 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  226 | Subrato Dey               |  17.5 |        26 |              |         +2.32 |
 |  227 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -263,10 +263,10 @@ Generated 2017-03-09.
 |  259 | Jan Strasky               |  16.2 |        12 |              |               |
 |  260 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  261 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  262 | Terry Chang               |  15.8 |        48 |              |         +0.05 |
-|  263 | Louis Russell             |  15.8 |        20 |              |               |
-|  264 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  265 | Sahar Sareminaeni         |  15.7 |        20 |              |               |
+|  262 | Sahar Sareminaeni         |  15.9 |        21 |        +0.19 |               |
+|  263 | Terry Chang               |  15.8 |        48 |              |         +0.05 |
+|  264 | Louis Russell             |  15.8 |        20 |              |               |
+|  265 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  266 | Jared Nunn                |  15.7 |         5 |              |               |
 |  267 | Akash Sharma              |  15.7 |         8 |              |               |
 |  268 | Angie Ng                  |  15.7 |        12 |              |               |
