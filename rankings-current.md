@@ -1,4 +1,4 @@
-Generated 2017-03-09.
+Generated 2017-03-11.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -6,16 +6,16 @@ Generated 2017-03-09.
 |    2 | Eric Katerman      |  32.0 |        38 |              |               |
 |    3 | Sam Sternberg      |  29.2 |       143 |        -0.06 |         -0.05 |
 |    4 | Ethan Kerr         |  26.7 |        14 |              |         +1.41 |
-|    5 | Anibhav Singla     |  25.8 |        11 |        +0.89 |               |
+|    5 | Anibhav Singla     |  26.6 |        12 |        +1.69 |               |
 |    6 | Arvind Muralimohan |  25.7 |        18 |              |         +1.44 |
 |    7 | John Kunze         |  24.6 |       316 |              |         -0.16 |
 |    8 | Jim Veitch         |  24.5 |       443 |              |         -2.13 |
 |    9 | Matt Wong          |  24.0 |        86 |              |         +2.35 |
 |   10 | Matt Wild          |  23.9 |        28 |              |         +0.93 |
 |   11 | Sam McCormick      |  23.7 |        27 |              |         +3.05 |
-|   12 | Dan Bohn           |  23.1 |        89 |              |         -0.68 |
+|   12 | Dan Bohn           |  23.0 |        90 |        -0.11 |         -0.80 |
 |   13 | Dan Meier          |  22.7 |        61 |              |         +0.61 |
-|   14 | Jonathan Hankar    |  22.3 |       199 |        -0.10 |         +0.66 |
+|   14 | Jonathan Hankar    |  22.3 |       199 |        -0.09 |         +0.67 |
 |   15 | Jared Bard         |  21.3 |        42 |              |         +0.01 |
 |   16 | Reid Johnsen       |  21.2 |        47 |        +0.01 |         -0.59 |
 |   17 | Marc Schechter     |  20.6 |         9 |        +0.75 |               |

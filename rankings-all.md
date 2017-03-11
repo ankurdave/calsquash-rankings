@@ -1,4 +1,4 @@
-Generated 2017-03-09.
+Generated 2017-03-11.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -43,14 +43,14 @@ Generated 2017-03-09.
 |   39 | Josh Taylor               |  26.8 |        40 |              |               |
 |   40 | David Hwang               |  26.8 |        44 |              |               |
 |   41 | Ethan Kerr                |  26.7 |        14 |              |         +1.41 |
-|   42 | Gary Golding              |  26.5 |         6 |              |               |
-|   43 | Amos Vernon               |  26.4 |        30 |              |               |
-|   44 | Andrew Moylan             |  26.3 |        95 |              |               |
-|   45 | Mikey Zarem               |  26.1 |         8 |              |               |
-|   46 | Vishi                     |  26.0 |        41 |              |         -0.14 |
-|   47 | Peter McDermott           |  25.8 |        10 |              |               |
-|   48 | Andrew Hsu                |  25.8 |        15 |              |               |
-|   49 | Anibhav Singla            |  25.8 |        11 |        +0.89 |               |
+|   42 | Anibhav Singla            |  26.6 |        12 |        +1.69 |               |
+|   43 | Gary Golding              |  26.5 |         6 |              |               |
+|   44 | Amos Vernon               |  26.4 |        30 |              |               |
+|   45 | Andrew Moylan             |  26.3 |        95 |              |               |
+|   46 | Mikey Zarem               |  26.1 |         8 |              |               |
+|   47 | Vishi                     |  26.0 |        41 |              |         -0.14 |
+|   48 | Peter McDermott           |  25.8 |        10 |              |               |
+|   49 | Andrew Hsu                |  25.8 |        15 |              |               |
 |   50 | Arvind Muralimohan        |  25.7 |        18 |              |         +1.44 |
 |   51 | Richard Chan              |  25.5 |         9 |              |               |
 |   52 | Joe Schneider             |  25.5 |         8 |              |               |
@@ -100,10 +100,10 @@ Generated 2017-03-09.
 |   96 | Amy Lee                   |  23.6 |        56 |              |               |
 |   97 | Garvin Heath              |  23.4 |        28 |              |               |
 |   98 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   99 | Dan Bohn                  |  23.1 |        89 |              |         -0.68 |
-|  100 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|  101 | Joe Farrell               |  23.0 |        30 |              |               |
-|  102 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|   99 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|  100 | Joe Farrell               |  23.0 |        30 |              |               |
+|  101 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  102 | Dan Bohn                  |  23.0 |        90 |        -0.11 |         -0.80 |
 |  103 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  104 | Dan Meier                 |  22.7 |        61 |              |         +0.61 |
 |  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
@@ -113,7 +113,7 @@ Generated 2017-03-09.
 |  109 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  110 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  111 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  112 | Jonathan Hankar           |  22.3 |       199 |        -0.10 |         +0.66 |
+|  112 | Jonathan Hankar           |  22.3 |       199 |        -0.09 |         +0.67 |
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
