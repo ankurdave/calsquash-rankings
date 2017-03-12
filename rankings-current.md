@@ -20,11 +20,11 @@ Generated 2017-03-11.
 |   16 | Reid Johnsen       |  21.2 |        47 |        +0.01 |         -0.59 |
 |   17 | Marc Schechter     |  20.6 |         9 |        +0.75 |               |
 |   18 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.74 |
-|   19 | Robert Schwartz    |  20.4 |        82 |              |         -0.81 |
+|   19 | Robert Schwartz    |  20.4 |        83 |              |         -0.81 |
 |   20 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
 |   21 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
 |   22 | Jaime Perez        |  19.6 |        27 |        +0.37 |         +1.06 |
-|   23 | Shaun Lim          |  18.9 |        53 |              |         +0.35 |
+|   23 | Shaun Lim          |  18.9 |        54 |        +0.03 |         +0.38 |
 |   24 | Dror Matalon       |  18.7 |       364 |              |         +0.49 |
 |   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |

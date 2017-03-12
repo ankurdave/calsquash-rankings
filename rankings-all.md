@@ -162,7 +162,7 @@ Generated 2017-03-11.
 |  158 | Andrew Green              |  20.5 |        52 |              |               |
 |  159 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.74 |
 |  160 | Steven Sloman             |  20.4 |        10 |              |               |
-|  161 | Robert Schwartz           |  20.4 |        82 |              |         -0.81 |
+|  161 | Robert Schwartz           |  20.4 |        83 |              |         -0.81 |
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.50 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  164 | Carl Schreck              |  20.2 |         2 |              |               |
@@ -192,9 +192,9 @@ Generated 2017-03-11.
 |  188 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  189 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  190 | Yating Liu                |  19.0 |         7 |              |               |
-|  191 | Ronald Dahl               |  18.9 |        51 |              |         -0.26 |
-|  192 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  193 | Shaun Lim                 |  18.9 |        53 |              |         +0.35 |
+|  191 | Shaun Lim                 |  18.9 |        54 |        +0.03 |         +0.38 |
+|  192 | Ronald Dahl               |  18.9 |        51 |              |         -0.26 |
+|  193 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  194 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  195 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  196 | Arbi Vartan               |  18.7 |        20 |              |               |
