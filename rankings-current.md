@@ -42,8 +42,8 @@ Generated 2017-03-12.
 |   38 | Tim Browning       |  14.1 |         5 |        -0.34 |               |
 |   39 | Sergey Dobrinov    |  13.3 |        10 |        +0.30 |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
-|   41 | Meldan Heaslip     |  11.0 |        18 |              |               |
-|   42 | Josh Lebowitz      |  10.9 |        37 |              |        +11.59 |
+|   41 | Josh Lebowitz      |  11.2 |        38 |        +0.28 |        +11.87 |
+|   42 | Meldan Heaslip     |  11.0 |        18 |              |               |
 |   43 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
 |   44 | Raphael Magarik    |   9.9 |        21 |              |               |
 |   45 | Duo Wang           |   8.8 |        68 |        +0.05 |         -0.08 |
@@ -57,6 +57,7 @@ Generated 2017-03-12.
 |   53 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
 |   54 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
 |   55 | Daniel Wissmann    |  -1.7 |         1 |              |               |
-|   56 | Yifan Wu           |  -3.6 |         5 |              |               |
-|   57 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
-|   58 | Navarun Jain       | -12.3 |         2 |              |               |
+|   56 | Vipul Gupta        |  -3.4 |         1 |              |               |
+|   57 | Yifan Wu           |  -3.6 |         5 |              |               |
+|   58 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
+|   59 | Navarun Jain       | -12.3 |         2 |              |               |

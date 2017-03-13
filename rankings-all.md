@@ -345,10 +345,10 @@ Generated 2017-03-12.
 |  341 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  342 | Carlos Filho              |  11.4 |         7 |              |               |
 |  343 | Karan Jain                |  11.3 |        19 |              |               |
-|  344 | Lucas Siow                |  11.0 |        10 |              |               |
-|  345 | Meldan Heaslip            |  11.0 |        18 |              |               |
-|  346 | Dominick Ng               |  10.9 |        25 |              |               |
-|  347 | Josh Lebowitz             |  10.9 |        37 |              |        +11.59 |
+|  344 | Josh Lebowitz             |  11.2 |        38 |        +0.28 |        +11.87 |
+|  345 | Lucas Siow                |  11.0 |        10 |              |               |
+|  346 | Meldan Heaslip            |  11.0 |        18 |              |               |
+|  347 | Dominick Ng               |  10.9 |        25 |              |               |
 |  348 | George Bentley            |  10.6 |         4 |              |               |
 |  349 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  350 | Brian Puglise             |  10.4 |         2 |              |               |
@@ -505,12 +505,13 @@ Generated 2017-03-12.
 |  501 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
 |  502 | James Redfield            |  -2.9 |         3 |              |               |
 |  503 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  504 | Padma Maitland            |  -3.5 |         4 |              |         +2.67 |
-|  505 | Yifan Wu                  |  -3.6 |         5 |              |               |
-|  506 | Tin Do                    |  -4.0 |         1 |              |               |
-|  507 | Susan Grand               |  -4.3 |         3 |              |               |
-|  508 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
-|  509 | Sara Green                |  -5.8 |         1 |              |               |
-|  510 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  511 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  512 | Navarun Jain              | -12.3 |         2 |              |               |
+|  504 | Vipul Gupta               |  -3.4 |         1 |              |               |
+|  505 | Padma Maitland            |  -3.5 |         4 |              |         +2.67 |
+|  506 | Yifan Wu                  |  -3.6 |         5 |              |               |
+|  507 | Tin Do                    |  -4.0 |         1 |              |               |
+|  508 | Susan Grand               |  -4.3 |         3 |              |               |
+|  509 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
+|  510 | Sara Green                |  -5.8 |         1 |              |               |
+|  511 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  512 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  513 | Navarun Jain              | -12.3 |         2 |              |               |
