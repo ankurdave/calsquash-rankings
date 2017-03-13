@@ -46,7 +46,7 @@ Generated 2017-03-12.
 |   42 | Josh Lebowitz      |  10.9 |        37 |              |        +11.59 |
 |   43 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
 |   44 | Raphael Magarik    |   9.9 |        21 |              |               |
-|   45 | Duo Wang           |   8.8 |        67 |              |         -0.13 |
+|   45 | Duo Wang           |   8.8 |        68 |        +0.05 |         -0.08 |
 |   46 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
 |   47 | Karan Goyal        |   7.2 |         4 |        +5.90 |               |
 |   48 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
@@ -54,7 +54,7 @@ Generated 2017-03-12.
 |   50 | Craig Hollow       |   5.7 |        12 |        -0.26 |               |
 |   51 | Jose Lara          |   4.5 |        11 |              |               |
 |   52 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |
-|   53 | Duncan MacRae      |  -0.6 |        17 |        -0.18 |               |
+|   53 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
 |   54 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
 |   55 | Daniel Wissmann    |  -1.7 |         1 |              |               |
 |   56 | Yifan Wu           |  -3.6 |         5 |              |               |

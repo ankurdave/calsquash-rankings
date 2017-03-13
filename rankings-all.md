@@ -381,8 +381,8 @@ Generated 2017-03-12.
 |  377 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  378 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  379 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  380 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  381 | Duo Wang                  |   8.8 |        67 |              |         -0.13 |
+|  380 | Duo Wang                  |   8.8 |        68 |        +0.05 |         -0.08 |
+|  381 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  382 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  383 | Therese Jones             |   8.7 |         6 |              |               |
 |  384 | Steven Yee                |   8.7 |         9 |              |               |
@@ -494,7 +494,7 @@ Generated 2017-03-12.
 |  490 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  491 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  492 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  493 | Duncan MacRae             |  -0.6 |        17 |        -0.18 |               |
+|  493 | Duncan MacRae             |  -0.7 |        18 |        -0.29 |               |
 |  494 | Rodrigo Lasheras          |  -1.1 |         2 |              |               |
 |  495 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  496 | Nick Firmani              |  -1.6 |         3 |              |               |
