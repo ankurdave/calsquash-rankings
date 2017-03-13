@@ -1,4 +1,4 @@
-Generated 2017-03-12.
+Generated 2017-03-13.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -29,18 +29,18 @@ Generated 2017-03-12.
 |   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
 |   27 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
-|   28 | David Bratt        |  17.7 |        24 |        +0.43 |         +1.32 |
+|   28 | David Bratt        |  17.8 |        24 |        +0.44 |         +1.34 |
 |   29 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
 |   30 | Josh Trauner       |  17.2 |        50 |        -0.33 |         +0.09 |
-|   31 | Chris Flores       |  16.4 |       311 |              |         -0.97 |
-|   32 | Ankur Dave         |  16.3 |        62 |              |         +6.78 |
-|   33 | Sahar Sareminaeni  |  15.9 |        21 |        +0.19 |               |
+|   31 | Sahar Sareminaeni  |  16.4 |        22 |        +0.67 |               |
+|   32 | Chris Flores       |  16.4 |       311 |              |         -0.97 |
+|   33 | Ankur Dave         |  16.3 |        62 |              |         +6.78 |
 |   34 | James Grant        |  15.2 |         8 |              |               |
 |   35 | Kent Daniels       |  15.0 |       101 |        -0.02 |         -0.18 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
-|   37 | Nikhil Paranjape   |  14.5 |        38 |        +0.30 |         +5.62 |
+|   37 | Nikhil Paranjape   |  14.4 |        38 |        +0.26 |         +5.58 |
 |   38 | Tim Browning       |  14.1 |         5 |        -0.34 |               |
-|   39 | Sergey Dobrinov    |  13.3 |        10 |        +0.30 |               |
+|   39 | Sergey Dobrinov    |  12.9 |        11 |        -0.06 |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Josh Lebowitz      |  11.2 |        38 |        +0.28 |        +11.87 |
 |   42 | Meldan Heaslip     |  11.0 |        18 |              |               |

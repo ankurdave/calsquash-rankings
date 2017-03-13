@@ -1,4 +1,4 @@
-Generated 2017-03-12.
+Generated 2017-03-13.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -224,7 +224,7 @@ Generated 2017-03-12.
 |  220 | Nick Paget                |  17.8 |        35 |              |               |
 |  221 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  222 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  223 | David Bratt               |  17.7 |        24 |        +0.43 |         +1.32 |
+|  223 | David Bratt               |  17.8 |        24 |        +0.44 |         +1.34 |
 |  224 | George Roche              |  17.7 |        14 |              |               |
 |  225 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  226 | Subrato Dey               |  17.5 |        26 |              |         +2.32 |
@@ -253,17 +253,17 @@ Generated 2017-03-12.
 |  249 | Mark Priven               |  16.6 |        72 |              |               |
 |  250 | William Coleman           |  16.5 |        48 |              |               |
 |  251 | Mike Troxell              |  16.5 |         8 |              |               |
-|  252 | Danish Mir                |  16.4 |         1 |              |               |
-|  253 | Chris Flores              |  16.4 |       311 |              |         -0.97 |
-|  254 | Paul Chang                |  16.3 |         7 |              |               |
-|  255 | Steven Hahm               |  16.3 |         5 |              |               |
-|  256 | Ankur Dave                |  16.3 |        62 |              |         +6.78 |
-|  257 | Jules Bowie               |  16.3 |        12 |              |               |
-|  258 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  259 | Jan Strasky               |  16.2 |        12 |              |               |
-|  260 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  261 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  262 | Sahar Sareminaeni         |  15.9 |        21 |        +0.19 |               |
+|  252 | Sahar Sareminaeni         |  16.4 |        22 |        +0.67 |               |
+|  253 | Danish Mir                |  16.4 |         1 |              |               |
+|  254 | Chris Flores              |  16.4 |       311 |              |         -0.97 |
+|  255 | Paul Chang                |  16.3 |         7 |              |               |
+|  256 | Steven Hahm               |  16.3 |         5 |              |               |
+|  257 | Ankur Dave                |  16.3 |        62 |              |         +6.78 |
+|  258 | Jules Bowie               |  16.3 |        12 |              |               |
+|  259 | Wladislaw Ellis           |  16.2 |        29 |              |               |
+|  260 | Jan Strasky               |  16.2 |        12 |              |               |
+|  261 | Sarah Mcneil              |  16.2 |        24 |              |               |
+|  262 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  263 | Terry Chang               |  15.8 |        48 |              |         +0.05 |
 |  264 | Louis Russell             |  15.8 |        20 |              |               |
 |  265 | Rich Shapiro              |  15.8 |        82 |              |               |
@@ -295,7 +295,7 @@ Generated 2017-03-12.
 |  291 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  292 | Shai Vardi                |  14.5 |         4 |              |               |
 |  293 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  294 | Nikhil Paranjape          |  14.5 |        38 |        +0.30 |         +5.62 |
+|  294 | Nikhil Paranjape          |  14.4 |        38 |        +0.26 |         +5.58 |
 |  295 | Max Woodworth             |  14.4 |         7 |              |               |
 |  296 | Juliet Shih               |  14.4 |        11 |              |               |
 |  297 | Khurram Mahmood           |  14.3 |         3 |              |               |
@@ -315,13 +315,13 @@ Generated 2017-03-12.
 |  311 | Alex Rennet               |  13.5 |         2 |              |               |
 |  312 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  313 | Jake Toy                  |  13.4 |         5 |              |               |
-|  314 | Sergey Dobrinov           |  13.3 |        10 |        +0.30 |               |
-|  315 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  316 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  317 | Field Maloney             |  13.1 |        24 |              |               |
-|  318 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  319 | Lewis Moore               |  13.0 |        69 |              |               |
-|  320 | David Isaksson            |  12.9 |        22 |              |               |
+|  314 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  315 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  316 | Field Maloney             |  13.1 |        24 |              |               |
+|  317 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  318 | Lewis Moore               |  13.0 |        69 |              |               |
+|  319 | David Isaksson            |  12.9 |        22 |              |               |
+|  320 | Sergey Dobrinov           |  12.9 |        11 |        -0.06 |               |
 |  321 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  322 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  323 | Josh Shiode               |  12.6 |        20 |              |               |
