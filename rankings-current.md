@@ -1,4 +1,4 @@
-Generated 2017-03-13.
+Generated 2017-03-14.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -32,8 +32,8 @@ Generated 2017-03-13.
 |   28 | David Bratt        |  17.8 |        24 |        +0.44 |         +1.34 |
 |   29 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
 |   30 | Josh Trauner       |  17.2 |        50 |        -0.33 |         +0.09 |
-|   31 | Sahar Sareminaeni  |  16.4 |        22 |        +0.67 |               |
-|   32 | Chris Flores       |  16.4 |       311 |              |         -0.97 |
+|   31 | Chris Flores       |  16.5 |       312 |        +0.12 |         -0.85 |
+|   32 | Sahar Sareminaeni  |  16.4 |        22 |        +0.67 |               |
 |   33 | Ankur Dave         |  16.3 |        62 |              |         +6.78 |
 |   34 | James Grant        |  15.2 |         8 |              |               |
 |   35 | Kent Daniels       |  15.0 |       101 |        -0.02 |         -0.18 |
@@ -48,7 +48,7 @@ Generated 2017-03-13.
 |   44 | Raphael Magarik    |   9.9 |        21 |              |               |
 |   45 | Duo Wang           |   8.8 |        68 |        +0.05 |         -0.08 |
 |   46 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
-|   47 | Karan Goyal        |   7.2 |         4 |        +5.90 |               |
+|   47 | Karan Goyal        |   6.8 |         5 |        +5.47 |               |
 |   48 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
 |   49 | Janeau Janssen     |   6.2 |         6 |        +0.64 |               |
 |   50 | Craig Hollow       |   5.7 |        12 |        -0.26 |               |

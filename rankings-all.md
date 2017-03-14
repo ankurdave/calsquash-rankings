@@ -1,4 +1,4 @@
-Generated 2017-03-13.
+Generated 2017-03-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -253,9 +253,9 @@ Generated 2017-03-13.
 |  249 | Mark Priven               |  16.6 |        72 |              |               |
 |  250 | William Coleman           |  16.5 |        48 |              |               |
 |  251 | Mike Troxell              |  16.5 |         8 |              |               |
-|  252 | Sahar Sareminaeni         |  16.4 |        22 |        +0.67 |               |
-|  253 | Danish Mir                |  16.4 |         1 |              |               |
-|  254 | Chris Flores              |  16.4 |       311 |              |         -0.97 |
+|  252 | Chris Flores              |  16.5 |       312 |        +0.12 |         -0.85 |
+|  253 | Sahar Sareminaeni         |  16.4 |        22 |        +0.67 |               |
+|  254 | Danish Mir                |  16.4 |         1 |              |               |
 |  255 | Paul Chang                |  16.3 |         7 |              |               |
 |  256 | Steven Hahm               |  16.3 |         5 |              |               |
 |  257 | Ankur Dave                |  16.3 |        62 |              |         +6.78 |
@@ -412,8 +412,8 @@ Generated 2017-03-13.
 |  408 | Alex Walters              |   7.4 |         3 |              |               |
 |  409 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
 |  410 | Keaton Noon               |   7.2 |        23 |              |         +2.46 |
-|  411 | Karan Goyal               |   7.2 |         4 |        +5.90 |               |
-|  412 | Brookes Degen             |   6.8 |         6 |              |               |
+|  411 | Brookes Degen             |   6.8 |         6 |              |               |
+|  412 | Karan Goyal               |   6.8 |         5 |        +5.47 |               |
 |  413 | Joshua Braver             |   6.5 |         1 |              |               |
 |  414 | Alok Singh                |   6.5 |        18 |              |         +7.28 |
 |  415 | Pablo Paredes             |   6.5 |         1 |              |               |
