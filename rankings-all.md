@@ -234,14 +234,14 @@ Generated 2017-03-14.
 |  230 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  231 | Craig Riddell             |  17.4 |         8 |              |               |
 |  232 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  233 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  234 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  235 | Zach Brown                |  17.3 |         3 |              |               |
-|  236 | William Seles             |  17.2 |        15 |              |               |
-|  237 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  238 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  239 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  240 | Josh Trauner              |  17.2 |        50 |        -0.33 |         +0.09 |
+|  233 | Josh Trauner              |  17.3 |        51 |        -0.18 |         +0.25 |
+|  234 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  235 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  236 | Zach Brown                |  17.3 |         3 |              |               |
+|  237 | William Seles             |  17.2 |        15 |              |               |
+|  238 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  239 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  240 | Lucas Cheon               |  17.2 |        19 |              |               |
 |  241 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  242 | Neil Conway               |  17.0 |        55 |              |               |
 |  243 | Michael Cianfrocco        |  17.0 |        18 |              |               |
@@ -253,9 +253,9 @@ Generated 2017-03-14.
 |  249 | Mark Priven               |  16.6 |        72 |              |               |
 |  250 | William Coleman           |  16.5 |        48 |              |               |
 |  251 | Mike Troxell              |  16.5 |         8 |              |               |
-|  252 | Chris Flores              |  16.5 |       312 |        +0.12 |         -0.85 |
-|  253 | Sahar Sareminaeni         |  16.4 |        22 |        +0.67 |               |
-|  254 | Danish Mir                |  16.4 |         1 |              |               |
+|  252 | Sahar Sareminaeni         |  16.4 |        22 |        +0.67 |               |
+|  253 | Danish Mir                |  16.4 |         1 |              |               |
+|  254 | Chris Flores              |  16.4 |       313 |              |         -0.97 |
 |  255 | Paul Chang                |  16.3 |         7 |              |               |
 |  256 | Steven Hahm               |  16.3 |         5 |              |               |
 |  257 | Ankur Dave                |  16.3 |        62 |              |         +6.78 |

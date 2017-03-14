@@ -31,9 +31,9 @@ Generated 2017-03-14.
 |   27 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
 |   28 | David Bratt        |  17.8 |        24 |        +0.44 |         +1.34 |
 |   29 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
-|   30 | Josh Trauner       |  17.2 |        50 |        -0.33 |         +0.09 |
-|   31 | Chris Flores       |  16.5 |       312 |        +0.12 |         -0.85 |
-|   32 | Sahar Sareminaeni  |  16.4 |        22 |        +0.67 |               |
+|   30 | Josh Trauner       |  17.3 |        51 |        -0.18 |         +0.25 |
+|   31 | Sahar Sareminaeni  |  16.4 |        22 |        +0.67 |               |
+|   32 | Chris Flores       |  16.4 |       313 |              |         -0.97 |
 |   33 | Ankur Dave         |  16.3 |        62 |              |         +6.78 |
 |   34 | James Grant        |  15.2 |         8 |              |               |
 |   35 | Kent Daniels       |  15.0 |       101 |        -0.02 |         -0.18 |
