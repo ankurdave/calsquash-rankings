@@ -13,7 +13,7 @@ Generated 2017-03-14.
 |    9 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   11 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
-|   12 | Eric Katerman             |  32.0 |        38 |              |               |
+|   12 | Eric Katerman             |  32.1 |        39 |        +0.06 |               |
 |   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
@@ -86,10 +86,10 @@ Generated 2017-03-14.
 |   82 | Benjamin Vicuna           |  24.1 |        50 |              |         +0.57 |
 |   83 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   84 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   85 | Matt Wong                 |  24.0 |        86 |              |         +2.35 |
-|   86 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   87 | Matt Wild                 |  23.9 |        28 |              |         +0.93 |
-|   88 | Glenn Forrester           |  23.9 |       355 |              |         -0.12 |
+|   85 | Ignacio Canals            |  24.0 |        21 |              |               |
+|   86 | Matt Wild                 |  23.9 |        28 |              |         +0.93 |
+|   87 | Glenn Forrester           |  23.9 |       355 |              |         -0.12 |
+|   88 | Matt Wong                 |  23.9 |        87 |        -0.08 |         +2.27 |
 |   89 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   90 | Joseff Farrell            |  23.8 |         5 |              |               |
 |   91 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |

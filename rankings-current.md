@@ -3,15 +3,15 @@ Generated 2017-03-14.
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant        |  37.4 |        21 |        +0.19 |               |
-|    2 | Eric Katerman      |  32.0 |        38 |              |               |
+|    2 | Eric Katerman      |  32.1 |        39 |        +0.06 |               |
 |    3 | Sam Sternberg      |  29.2 |       143 |        -0.06 |         -0.05 |
 |    4 | Ethan Kerr         |  26.7 |        14 |              |         +1.41 |
 |    5 | Anibhav Singla     |  26.6 |        12 |        +1.69 |               |
 |    6 | Arvind Muralimohan |  25.7 |        18 |              |         +1.44 |
 |    7 | John Kunze         |  24.6 |       316 |              |         -0.16 |
 |    8 | Jim Veitch         |  24.5 |       443 |              |         -2.13 |
-|    9 | Matt Wong          |  24.0 |        86 |              |         +2.35 |
-|   10 | Matt Wild          |  23.9 |        28 |              |         +0.93 |
+|    9 | Matt Wild          |  23.9 |        28 |              |         +0.93 |
+|   10 | Matt Wong          |  23.9 |        87 |        -0.08 |         +2.27 |
 |   11 | Sam McCormick      |  23.7 |        27 |              |         +3.05 |
 |   12 | Dan Bohn           |  23.0 |        90 |        -0.11 |         -0.80 |
 |   13 | Dan Meier          |  22.7 |        61 |              |         +0.61 |
