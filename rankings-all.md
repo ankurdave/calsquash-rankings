@@ -1,4 +1,4 @@
-Generated 2017-03-14.
+Generated 2017-03-15.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -321,15 +321,15 @@ Generated 2017-03-14.
 |  317 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  318 | Lewis Moore               |  13.0 |        69 |              |               |
 |  319 | David Isaksson            |  12.9 |        22 |              |               |
-|  320 | Sergey Dobrinov           |  12.9 |        11 |        -0.06 |               |
-|  321 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  322 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  323 | Josh Shiode               |  12.6 |        20 |              |               |
-|  324 | Huw Lester                |  12.5 |         1 |              |               |
-|  325 | Richard Fabini            |  12.4 |         3 |              |               |
-|  326 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  327 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
-|  328 | John Givens               |  12.2 |        13 |              |               |
+|  320 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  321 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  322 | Josh Shiode               |  12.6 |        20 |              |               |
+|  323 | Huw Lester                |  12.5 |         1 |              |               |
+|  324 | Richard Fabini            |  12.4 |         3 |              |               |
+|  325 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
+|  326 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
+|  327 | John Givens               |  12.2 |        13 |              |               |
+|  328 | Sergey Dobrinov           |  12.2 |        12 |        -0.78 |               |
 |  329 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  330 | Reed Foster               |  12.1 |         8 |              |               |
 |  331 | Axel Eriksson             |  12.0 |         5 |              |               |
@@ -402,31 +402,31 @@ Generated 2017-03-14.
 |  398 | Brian Kempenich           |   8.0 |        43 |              |         -1.21 |
 |  399 | Chip Malt                 |   7.9 |         4 |              |               |
 |  400 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  401 | Minsoo Bae                |   7.9 |         2 |              |               |
-|  402 | Akira Chiwaki             |   7.8 |         3 |              |               |
-|  403 | Felipe Gomez              |   7.7 |         4 |              |               |
-|  404 | Jeremy Brown              |   7.7 |         4 |              |               |
-|  405 | Ryan Akers                |   7.7 |         2 |              |               |
-|  406 | Yashraj Khaitain          |   7.6 |         2 |              |               |
-|  407 | Arno Ferguson             |   7.4 |         1 |              |               |
-|  408 | Alex Walters              |   7.4 |         3 |              |               |
-|  409 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  410 | Keaton Noon               |   7.2 |        23 |              |         +2.46 |
-|  411 | Brookes Degen             |   6.8 |         6 |              |               |
-|  412 | Karan Goyal               |   6.8 |         5 |        +5.47 |               |
-|  413 | Joshua Braver             |   6.5 |         1 |              |               |
-|  414 | Alok Singh                |   6.5 |        18 |              |         +7.28 |
-|  415 | Pablo Paredes             |   6.5 |         1 |              |               |
-|  416 | Mikel Shybut              |   6.5 |         4 |              |               |
-|  417 | Markus Boese              |   6.5 |         1 |              |               |
-|  418 | Dav Clark                 |   6.4 |         6 |              |               |
-|  419 | Janeau Janssen            |   6.2 |         6 |        +0.64 |               |
-|  420 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  421 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  422 | Rohan Relan               |   6.0 |         4 |              |               |
-|  423 | David Zhu                 |   5.8 |         2 |              |               |
-|  424 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  425 | Craig Hollow              |   5.7 |        12 |        -0.26 |               |
+|  401 | Craig Hollow              |   7.9 |        13 |        +1.95 |               |
+|  402 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  403 | Akira Chiwaki             |   7.8 |         3 |              |               |
+|  404 | Felipe Gomez              |   7.7 |         4 |              |               |
+|  405 | Jeremy Brown              |   7.7 |         4 |              |               |
+|  406 | Ryan Akers                |   7.7 |         2 |              |               |
+|  407 | Yashraj Khaitain          |   7.6 |         2 |              |               |
+|  408 | Arno Ferguson             |   7.4 |         1 |              |               |
+|  409 | Alex Walters              |   7.4 |         3 |              |               |
+|  410 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
+|  411 | Keaton Noon               |   7.2 |        23 |              |         +2.46 |
+|  412 | Brookes Degen             |   6.8 |         6 |              |               |
+|  413 | Karan Goyal               |   6.8 |         5 |        +5.47 |               |
+|  414 | Joshua Braver             |   6.5 |         1 |              |               |
+|  415 | Alok Singh                |   6.5 |        18 |              |         +7.28 |
+|  416 | Pablo Paredes             |   6.5 |         1 |              |               |
+|  417 | Mikel Shybut              |   6.5 |         4 |              |               |
+|  418 | Markus Boese              |   6.5 |         1 |              |               |
+|  419 | Dav Clark                 |   6.4 |         6 |              |               |
+|  420 | Janeau Janssen            |   6.2 |         6 |        +0.64 |               |
+|  421 | Nicolas Huber             |   6.2 |         4 |              |               |
+|  422 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  423 | Rohan Relan               |   6.0 |         4 |              |               |
+|  424 | David Zhu                 |   5.8 |         2 |              |               |
+|  425 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  426 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  427 | Manu Vaish                |   5.5 |         1 |              |               |
 |  428 | Emily Moylan              |   5.2 |        17 |              |               |

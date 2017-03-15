@@ -1,4 +1,4 @@
-Generated 2017-03-14.
+Generated 2017-03-15.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -40,18 +40,18 @@ Generated 2017-03-14.
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
 |   37 | Nikhil Paranjape   |  14.4 |        38 |        +0.26 |         +5.58 |
 |   38 | Tim Browning       |  14.1 |         5 |        -0.34 |               |
-|   39 | Sergey Dobrinov    |  12.9 |        11 |        -0.06 |               |
-|   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
+|   39 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
+|   40 | Sergey Dobrinov    |  12.2 |        12 |        -0.78 |               |
 |   41 | Josh Lebowitz      |  11.2 |        38 |        +0.28 |        +11.87 |
 |   42 | Meldan Heaslip     |  11.0 |        18 |              |               |
 |   43 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
 |   44 | Raphael Magarik    |   9.9 |        21 |              |               |
 |   45 | Duo Wang           |   8.8 |        68 |        +0.05 |         -0.08 |
 |   46 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
-|   47 | Karan Goyal        |   6.8 |         5 |        +5.47 |               |
-|   48 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   49 | Janeau Janssen     |   6.2 |         6 |        +0.64 |               |
-|   50 | Craig Hollow       |   5.7 |        12 |        -0.26 |               |
+|   47 | Craig Hollow       |   7.9 |        13 |        +1.95 |               |
+|   48 | Karan Goyal        |   6.8 |         5 |        +5.47 |               |
+|   49 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
+|   50 | Janeau Janssen     |   6.2 |         6 |        +0.64 |               |
 |   51 | Jose Lara          |   4.5 |        11 |              |               |
 |   52 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |
 |   53 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
