@@ -25,7 +25,7 @@ Generated 2017-03-16.
 |   21 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
 |   22 | Jaime Perez        |  19.6 |        27 |        +0.37 |         +1.06 |
 |   23 | Shaun Lim          |  18.9 |        54 |              |         +0.35 |
-|   24 | Dror Matalon       |  18.7 |       364 |              |         +0.49 |
+|   24 | Dror Matalon       |  18.9 |       365 |        +0.20 |         +0.69 |
 |   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
 |   27 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
@@ -39,7 +39,7 @@ Generated 2017-03-16.
 |   35 | Kent Daniels       |  15.0 |       101 |        -0.02 |         -0.18 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
 |   37 | Nikhil Paranjape   |  14.4 |        38 |        +0.26 |         +5.58 |
-|   38 | Tim Browning       |  14.1 |         5 |        -0.34 |               |
+|   38 | Tim Browning       |  13.5 |         6 |        -0.97 |               |
 |   39 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   40 | Sergey Dobrinov    |  12.2 |        12 |        -0.78 |               |
 |   41 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |

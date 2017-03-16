@@ -195,11 +195,11 @@ Generated 2017-03-16.
 |  191 | Ronald Dahl               |  18.9 |        51 |              |         -0.26 |
 |  192 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  193 | Shaun Lim                 |  18.9 |        54 |              |         +0.35 |
-|  194 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  195 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  196 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  197 | Peter Dering              |  18.7 |         9 |              |               |
-|  198 | Dror Matalon              |  18.7 |       364 |              |         +0.49 |
+|  194 | Dror Matalon              |  18.9 |       365 |        +0.20 |         +0.69 |
+|  195 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  196 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  197 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  198 | Peter Dering              |  18.7 |         9 |              |               |
 |  199 | Sushant Jain              |  18.7 |        12 |              |               |
 |  200 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  201 | Kedar Viswanathan         |  18.6 |        16 |              |               |
@@ -301,18 +301,18 @@ Generated 2017-03-16.
 |  297 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  298 | Adam Soliman              |  14.2 |        32 |              |               |
 |  299 | Charles Denby             |  14.2 |         5 |              |               |
-|  300 | Tim Browning              |  14.1 |         5 |        -0.34 |               |
-|  301 | Neil Sachs                |  14.1 |        12 |              |               |
-|  302 | Rupert Myers              |  14.0 |        27 |              |         +0.63 |
-|  303 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  304 | Mekoce Walker             |  13.8 |        38 |              |               |
-|  305 | Gurj Johal                |  13.8 |         2 |              |               |
-|  306 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  307 | Josephine Lee             |  13.7 |         6 |              |               |
-|  308 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  309 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  310 | Lars Foleide              |  13.5 |        11 |              |               |
-|  311 | Alex Rennet               |  13.5 |         2 |              |               |
+|  300 | Neil Sachs                |  14.1 |        12 |              |               |
+|  301 | Rupert Myers              |  14.0 |        27 |              |         +0.63 |
+|  302 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
+|  303 | Mekoce Walker             |  13.8 |        38 |              |               |
+|  304 | Gurj Johal                |  13.8 |         2 |              |               |
+|  305 | Freeden Ouer              |  13.8 |         1 |              |               |
+|  306 | Josephine Lee             |  13.7 |         6 |              |               |
+|  307 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  308 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  309 | Lars Foleide              |  13.5 |        11 |              |               |
+|  310 | Alex Rennet               |  13.5 |         2 |              |               |
+|  311 | Tim Browning              |  13.5 |         6 |        -0.97 |               |
 |  312 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  313 | Jake Toy                  |  13.4 |         5 |              |               |
 |  314 | Ulf Baumann               |  13.3 |         4 |              |               |
