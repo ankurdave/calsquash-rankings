@@ -1,4 +1,4 @@
-Generated 2017-03-15.
+Generated 2017-03-16.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -345,10 +345,10 @@ Generated 2017-03-15.
 |  341 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  342 | Karan Goyal               |  11.4 |         6 |       +10.10 |               |
 |  343 | Carlos Filho              |  11.4 |         7 |              |               |
-|  344 | Karan Jain                |  11.3 |        19 |              |               |
-|  345 | Josh Lebowitz             |  11.2 |        38 |        +0.28 |        +11.87 |
-|  346 | Lucas Siow                |  11.0 |        10 |              |               |
-|  347 | Meldan Heaslip            |  11.0 |        18 |              |               |
+|  344 | Meldan Heaslip            |  11.4 |        19 |        +0.35 |               |
+|  345 | Karan Jain                |  11.3 |        19 |              |               |
+|  346 | Josh Lebowitz             |  11.0 |        39 |        +0.14 |        +11.72 |
+|  347 | Lucas Siow                |  11.0 |        10 |              |               |
 |  348 | Dominick Ng               |  10.9 |        25 |              |               |
 |  349 | George Bentley            |  10.6 |         4 |              |               |
 |  350 | Sudeep Agarwal            |  10.5 |         3 |              |               |

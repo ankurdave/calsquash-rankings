@@ -1,4 +1,4 @@
-Generated 2017-03-15.
+Generated 2017-03-16.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -43,8 +43,8 @@ Generated 2017-03-15.
 |   39 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   40 | Sergey Dobrinov    |  12.2 |        12 |        -0.78 |               |
 |   41 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |
-|   42 | Josh Lebowitz      |  11.2 |        38 |        +0.28 |        +11.87 |
-|   43 | Meldan Heaslip     |  11.0 |        18 |              |               |
+|   42 | Meldan Heaslip     |  11.4 |        19 |        +0.35 |               |
+|   43 | Josh Lebowitz      |  11.0 |        39 |        +0.14 |        +11.72 |
 |   44 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
 |   45 | Raphael Magarik    |   9.9 |        21 |              |               |
 |   46 | Duo Wang           |   8.8 |        68 |        +0.05 |         -0.08 |
