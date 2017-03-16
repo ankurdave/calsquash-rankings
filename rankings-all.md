@@ -155,13 +155,13 @@ Generated 2017-03-16.
 |  151 | Matthew Brett             |  20.7 |        20 |              |               |
 |  152 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  153 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  154 | Marc Schechter            |  20.6 |         9 |        +0.75 |               |
-|  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
-|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  158 | Andrew Green              |  20.5 |        52 |              |               |
-|  159 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.74 |
-|  160 | Steven Sloman             |  20.4 |        10 |              |               |
+|  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  155 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
+|  156 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  157 | Andrew Green              |  20.5 |        52 |              |               |
+|  158 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.74 |
+|  159 | Steven Sloman             |  20.4 |        10 |              |               |
+|  160 | Marc Schechter            |  20.4 |         9 |        +0.63 |               |
 |  161 | Jeff Gordon               |  20.3 |        46 |              |         +2.50 |
 |  162 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  163 | Carl Schreck              |  20.2 |         2 |              |               |
@@ -195,7 +195,7 @@ Generated 2017-03-16.
 |  191 | Ronald Dahl               |  18.9 |        51 |              |         -0.26 |
 |  192 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  193 | Shaun Lim                 |  18.9 |        54 |              |         +0.35 |
-|  194 | Dror Matalon              |  18.9 |       365 |        +0.20 |         +0.69 |
+|  194 | Dror Matalon              |  18.9 |       365 |        +0.21 |         +0.70 |
 |  195 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  196 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  197 | Arbi Vartan               |  18.7 |        20 |              |               |
@@ -312,7 +312,7 @@ Generated 2017-03-16.
 |  308 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  309 | Lars Foleide              |  13.5 |        11 |              |               |
 |  310 | Alex Rennet               |  13.5 |         2 |              |               |
-|  311 | Tim Browning              |  13.5 |         6 |        -0.97 |               |
+|  311 | Tim Browning              |  13.4 |         6 |        -1.00 |               |
 |  312 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  313 | Jake Toy                  |  13.4 |         5 |              |               |
 |  314 | Ulf Baumann               |  13.3 |         4 |              |               |

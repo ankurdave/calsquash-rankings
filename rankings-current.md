@@ -18,14 +18,14 @@ Generated 2017-03-16.
 |   14 | Jonathan Hankar    |  22.3 |       199 |        -0.09 |         +0.67 |
 |   15 | Jared Bard         |  21.3 |        42 |              |         +0.01 |
 |   16 | Reid Johnsen       |  21.2 |        47 |        +0.01 |         -0.59 |
-|   17 | Marc Schechter     |  20.6 |         9 |        +0.75 |               |
-|   18 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.74 |
+|   17 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.74 |
+|   18 | Marc Schechter     |  20.4 |         9 |        +0.63 |               |
 |   19 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
 |   20 | Robert Schwartz    |  20.0 |        84 |        -0.39 |         -1.20 |
 |   21 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
 |   22 | Jaime Perez        |  19.6 |        27 |        +0.37 |         +1.06 |
 |   23 | Shaun Lim          |  18.9 |        54 |              |         +0.35 |
-|   24 | Dror Matalon       |  18.9 |       365 |        +0.20 |         +0.69 |
+|   24 | Dror Matalon       |  18.9 |       365 |        +0.21 |         +0.70 |
 |   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
 |   27 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
@@ -39,7 +39,7 @@ Generated 2017-03-16.
 |   35 | Kent Daniels       |  15.0 |       101 |        -0.02 |         -0.18 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
 |   37 | Nikhil Paranjape   |  14.4 |        38 |        +0.26 |         +5.58 |
-|   38 | Tim Browning       |  13.5 |         6 |        -0.97 |               |
+|   38 | Tim Browning       |  13.4 |         6 |        -1.00 |               |
 |   39 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   40 | Sergey Dobrinov    |  12.2 |        12 |        -0.78 |               |
 |   41 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |
