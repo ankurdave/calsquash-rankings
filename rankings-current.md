@@ -9,10 +9,10 @@ Generated 2017-03-16.
 |    5 | Anibhav Singla     |  26.6 |        12 |        +1.69 |               |
 |    6 | Arvind Muralimohan |  25.7 |        18 |              |         +1.44 |
 |    7 | John Kunze         |  24.6 |       316 |              |         -0.16 |
-|    8 | Jim Veitch         |  24.5 |       443 |              |         -2.13 |
-|    9 | Matt Wild          |  23.9 |        28 |              |         +0.93 |
-|   10 | Matt Wong          |  23.9 |        87 |        -0.08 |         +2.27 |
-|   11 | Sam McCormick      |  23.7 |        27 |              |         +3.05 |
+|    8 | Jim Veitch         |  24.2 |       444 |        -0.27 |         -2.40 |
+|    9 | Sam McCormick      |  24.1 |        28 |        +0.41 |         +3.46 |
+|   10 | Matt Wild          |  23.9 |        28 |              |         +0.93 |
+|   11 | Matt Wong          |  23.9 |        87 |        -0.08 |         +2.27 |
 |   12 | Dan Bohn           |  23.0 |        90 |        -0.11 |         -0.80 |
 |   13 | Dan Meier          |  22.7 |        61 |              |         +0.61 |
 |   14 | Jonathan Hankar    |  22.3 |       199 |        -0.09 |         +0.67 |
@@ -28,20 +28,20 @@ Generated 2017-03-16.
 |   24 | Dror Matalon       |  18.9 |       365 |        +0.21 |         +0.70 |
 |   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
-|   27 | David Bratt        |  17.9 |        25 |        +0.54 |         +1.44 |
+|   27 | David Bratt        |  17.9 |        25 |        +0.57 |         +1.47 |
 |   28 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
 |   29 | Josh Trauner       |  17.6 |        51 |        +0.07 |         +0.49 |
 |   30 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
-|   31 | Chris Flores       |  16.5 |       313 |        +0.10 |         -0.87 |
-|   32 | Sahar Sareminaeni  |  16.4 |        22 |        +0.67 |               |
+|   31 | Sahar Sareminaeni  |  16.8 |        23 |        +1.04 |               |
+|   32 | Chris Flores       |  16.5 |       313 |        +0.10 |         -0.87 |
 |   33 | Ankur Dave         |  16.3 |        62 |              |         +6.78 |
 |   34 | James Grant        |  15.2 |         8 |              |               |
-|   35 | Kent Daniels       |  15.0 |       102 |        -0.03 |         -0.20 |
+|   35 | Kent Daniels       |  15.0 |       102 |        -0.03 |         -0.19 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
-|   37 | Nikhil Paranjape   |  14.4 |        38 |        +0.26 |         +5.58 |
+|   37 | Nikhil Paranjape   |  14.2 |        39 |        +0.08 |         +5.40 |
 |   38 | Tim Browning       |  13.4 |         6 |        -1.00 |               |
 |   39 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
-|   40 | Sergey Dobrinov    |  12.2 |        12 |        -0.78 |               |
+|   40 | Sergey Dobrinov    |  12.2 |        12 |        -0.79 |               |
 |   41 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |
 |   42 | Meldan Heaslip     |  11.4 |        19 |        +0.35 |               |
 |   43 | Josh Lebowitz      |  11.0 |        39 |        +0.14 |        +11.72 |
@@ -49,7 +49,7 @@ Generated 2017-03-16.
 |   45 | Raphael Magarik    |   9.9 |        21 |              |               |
 |   46 | Duo Wang           |   8.8 |        68 |        +0.05 |         -0.08 |
 |   47 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
-|   48 | Craig Hollow       |   7.9 |        13 |        +1.95 |               |
+|   48 | Craig Hollow       |   7.8 |        13 |        +1.93 |               |
 |   49 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
 |   50 | Janeau Janssen     |   6.2 |         6 |        +0.64 |               |
 |   51 | Jose Lara          |   4.5 |        11 |              |               |
