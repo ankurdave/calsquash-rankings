@@ -220,11 +220,11 @@ Generated 2017-03-16.
 |  216 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  217 | James Chung               |  17.9 |         7 |              |               |
 |  218 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  219 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
-|  220 | Nick Paget                |  17.8 |        35 |              |               |
-|  221 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  222 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  223 | David Bratt               |  17.8 |        24 |        +0.44 |         +1.34 |
+|  219 | David Bratt               |  17.9 |        25 |        +0.54 |         +1.44 |
+|  220 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
+|  221 | Nick Paget                |  17.8 |        35 |              |               |
+|  222 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  223 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  224 | George Roche              |  17.7 |        14 |              |               |
 |  225 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  226 | Josh Trauner              |  17.6 |        51 |        +0.07 |         +0.49 |
@@ -279,7 +279,7 @@ Generated 2017-03-16.
 |  275 | Jim Evans                 |  15.1 |       216 |              |               |
 |  276 | Dennis Chan               |  15.1 |         1 |              |               |
 |  277 | Allie Giovanelli          |  15.0 |         4 |              |               |
-|  278 | Kent Daniels              |  15.0 |       101 |        -0.02 |         -0.18 |
+|  278 | Kent Daniels              |  15.0 |       102 |        -0.03 |         -0.20 |
 |  279 | Patrick Baylis            |  15.0 |        12 |              |               |
 |  280 | Diego Butrich             |  15.0 |        10 |              |               |
 |  281 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |

@@ -28,15 +28,15 @@ Generated 2017-03-16.
 |   24 | Dror Matalon       |  18.9 |       365 |        +0.21 |         +0.70 |
 |   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
-|   27 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
-|   28 | David Bratt        |  17.8 |        24 |        +0.44 |         +1.34 |
+|   27 | David Bratt        |  17.9 |        25 |        +0.54 |         +1.44 |
+|   28 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
 |   29 | Josh Trauner       |  17.6 |        51 |        +0.07 |         +0.49 |
 |   30 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
 |   31 | Chris Flores       |  16.5 |       313 |        +0.10 |         -0.87 |
 |   32 | Sahar Sareminaeni  |  16.4 |        22 |        +0.67 |               |
 |   33 | Ankur Dave         |  16.3 |        62 |              |         +6.78 |
 |   34 | James Grant        |  15.2 |         8 |              |               |
-|   35 | Kent Daniels       |  15.0 |       101 |        -0.02 |         -0.18 |
+|   35 | Kent Daniels       |  15.0 |       102 |        -0.03 |         -0.20 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
 |   37 | Nikhil Paranjape   |  14.4 |        38 |        +0.26 |         +5.58 |
 |   38 | Tim Browning       |  13.4 |         6 |        -1.00 |               |
