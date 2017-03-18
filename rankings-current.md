@@ -1,4 +1,4 @@
-Generated 2017-03-16.
+Generated 2017-03-17.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -25,7 +25,7 @@ Generated 2017-03-16.
 |   21 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
 |   22 | Jaime Perez        |  19.6 |        27 |        +0.37 |         +1.06 |
 |   23 | Shaun Lim          |  18.9 |        54 |              |         +0.35 |
-|   24 | Dror Matalon       |  18.9 |       365 |        +0.21 |         +0.70 |
+|   24 | Dror Matalon       |  18.7 |       366 |              |         +0.50 |
 |   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
 |   27 | David Bratt        |  17.9 |        25 |        +0.57 |         +1.47 |
@@ -33,8 +33,8 @@ Generated 2017-03-16.
 |   29 | Josh Trauner       |  17.6 |        51 |        +0.07 |         +0.49 |
 |   30 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
 |   31 | Sahar Sareminaeni  |  16.8 |        23 |        +1.04 |               |
-|   32 | Chris Flores       |  16.5 |       313 |        +0.10 |         -0.87 |
-|   33 | Ankur Dave         |  16.3 |        62 |              |         +6.78 |
+|   32 | Ankur Dave         |  16.5 |        63 |        +0.23 |         +7.01 |
+|   33 | Chris Flores       |  16.5 |       313 |        +0.10 |         -0.87 |
 |   34 | James Grant        |  15.2 |         8 |              |               |
 |   35 | Kent Daniels       |  15.0 |       102 |        -0.03 |         -0.19 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |

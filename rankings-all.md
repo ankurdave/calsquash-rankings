@@ -1,4 +1,4 @@
-Generated 2017-03-16.
+Generated 2017-03-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -195,11 +195,11 @@ Generated 2017-03-16.
 |  191 | Ronald Dahl               |  18.9 |        51 |              |         -0.26 |
 |  192 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  193 | Shaun Lim                 |  18.9 |        54 |              |         +0.35 |
-|  194 | Dror Matalon              |  18.9 |       365 |        +0.21 |         +0.70 |
-|  195 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  196 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  197 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  198 | Peter Dering              |  18.7 |         9 |              |               |
+|  194 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  195 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  196 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  197 | Peter Dering              |  18.7 |         9 |              |               |
+|  198 | Dror Matalon              |  18.7 |       366 |              |         +0.50 |
 |  199 | Sushant Jain              |  18.7 |        12 |              |               |
 |  200 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  201 | Kedar Viswanathan         |  18.6 |        16 |              |               |
@@ -252,13 +252,13 @@ Generated 2017-03-16.
 |  248 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  249 | David Shabelman           |  16.7 |        30 |              |               |
 |  250 | Mark Priven               |  16.6 |        72 |              |               |
-|  251 | William Coleman           |  16.5 |        48 |              |               |
-|  252 | Mike Troxell              |  16.5 |         8 |              |               |
-|  253 | Chris Flores              |  16.5 |       313 |        +0.10 |         -0.87 |
-|  254 | Danish Mir                |  16.4 |         1 |              |               |
-|  255 | Paul Chang                |  16.3 |         7 |              |               |
-|  256 | Steven Hahm               |  16.3 |         5 |              |               |
-|  257 | Ankur Dave                |  16.3 |        62 |              |         +6.78 |
+|  251 | Ankur Dave                |  16.5 |        63 |        +0.23 |         +7.01 |
+|  252 | William Coleman           |  16.5 |        48 |              |               |
+|  253 | Mike Troxell              |  16.5 |         8 |              |               |
+|  254 | Chris Flores              |  16.5 |       313 |        +0.10 |         -0.87 |
+|  255 | Danish Mir                |  16.4 |         1 |              |               |
+|  256 | Paul Chang                |  16.3 |         7 |              |               |
+|  257 | Steven Hahm               |  16.3 |         5 |              |               |
 |  258 | Jules Bowie               |  16.3 |        12 |              |               |
 |  259 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  260 | Jan Strasky               |  16.2 |        12 |              |               |
