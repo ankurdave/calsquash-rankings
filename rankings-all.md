@@ -1,4 +1,4 @@
-Generated 2017-03-17.
+Generated 2017-03-18.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -70,13 +70,13 @@ Generated 2017-03-17.
 |   66 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   67 | John Kunze                |  24.6 |       316 |              |         -0.16 |
 |   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   70 | Adam Pollak               |  24.5 |        31 |              |               |
-|   71 | Jon Shih                  |  24.4 |        47 |              |               |
-|   72 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   73 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   74 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   75 | Jim Veitch                |  24.2 |       444 |        -0.27 |         -2.40 |
+|   69 | Jim Veitch                |  24.5 |       445 |              |         -2.13 |
+|   70 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   71 | Adam Pollak               |  24.5 |        31 |              |               |
+|   72 | Jon Shih                  |  24.4 |        47 |              |               |
+|   73 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   74 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   75 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   76 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   77 | Toby Reiner               |  24.2 |       159 |              |               |
 |   78 | Himanshu Jatia            |  24.2 |         4 |              |               |
@@ -88,15 +88,15 @@ Generated 2017-03-17.
 |   84 | Sam McCormick             |  24.1 |        28 |        +0.41 |         +3.46 |
 |   85 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   86 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   87 | Matt Wild                 |  23.9 |        28 |              |         +0.93 |
-|   88 | Glenn Forrester           |  23.9 |       355 |              |         -0.12 |
-|   89 | Matt Wong                 |  23.9 |        87 |        -0.08 |         +2.27 |
-|   90 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   91 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   92 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
-|   93 | Matt Waid                 |  23.7 |        51 |              |               |
-|   94 | Sonesh Surana             |  23.7 |        95 |              |               |
-|   95 | Nader Shoaibi             |  23.7 |        64 |              |               |
+|   87 | Glenn Forrester           |  23.9 |       355 |              |         -0.12 |
+|   88 | Matt Wong                 |  23.9 |        87 |        -0.08 |         +2.27 |
+|   89 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   90 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   91 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
+|   92 | Matt Waid                 |  23.7 |        51 |              |               |
+|   93 | Sonesh Surana             |  23.7 |        95 |              |               |
+|   94 | Nader Shoaibi             |  23.7 |        64 |              |               |
+|   95 | Matt Wild                 |  23.6 |        29 |        -0.30 |         +0.64 |
 |   96 | Amy Lee                   |  23.6 |        56 |              |               |
 |   97 | Garvin Heath              |  23.4 |        28 |              |               |
 |   98 | Daniel Greengard          |  23.1 |        37 |              |               |
