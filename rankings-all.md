@@ -1,4 +1,4 @@
-Generated 2017-03-18.
+Generated 2017-03-19.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -150,18 +150,18 @@ Generated 2017-03-18.
 |  146 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  147 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  148 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  149 | Robert Isaac              |  20.8 |        17 |              |               |
-|  150 | Jamie Funk                |  20.8 |        30 |              |               |
-|  151 | Matthew Brett             |  20.7 |        20 |              |               |
-|  152 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  153 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  154 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  155 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
-|  156 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  157 | Andrew Green              |  20.5 |        52 |              |               |
-|  158 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.74 |
-|  159 | Steven Sloman             |  20.4 |        10 |              |               |
-|  160 | Marc Schechter            |  20.4 |         9 |        +0.63 |               |
+|  149 | Marc Schechter            |  20.8 |        10 |        +1.02 |               |
+|  150 | Robert Isaac              |  20.8 |        17 |              |               |
+|  151 | Jamie Funk                |  20.8 |        30 |              |               |
+|  152 | Matthew Brett             |  20.7 |        20 |              |               |
+|  153 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  154 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
+|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  158 | Andrew Green              |  20.5 |        52 |              |               |
+|  159 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.74 |
+|  160 | Steven Sloman             |  20.4 |        10 |              |               |
 |  161 | Jeff Gordon               |  20.3 |        46 |              |         +2.50 |
 |  162 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  163 | Carl Schreck              |  20.2 |         2 |              |               |
@@ -199,7 +199,7 @@ Generated 2017-03-18.
 |  195 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  196 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  197 | Peter Dering              |  18.7 |         9 |              |               |
-|  198 | Dror Matalon              |  18.7 |       366 |              |         +0.50 |
+|  198 | Dror Matalon              |  18.7 |       367 |        +0.01 |         +0.50 |
 |  199 | Sushant Jain              |  18.7 |        12 |              |               |
 |  200 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  201 | Kedar Viswanathan         |  18.6 |        16 |              |               |
@@ -312,7 +312,7 @@ Generated 2017-03-18.
 |  308 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  309 | Lars Foleide              |  13.5 |        11 |              |               |
 |  310 | Alex Rennet               |  13.5 |         2 |              |               |
-|  311 | Tim Browning              |  13.4 |         6 |        -1.00 |               |
+|  311 | Tim Browning              |  13.5 |         6 |        -0.97 |               |
 |  312 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  313 | Jake Toy                  |  13.4 |         5 |              |               |
 |  314 | Ulf Baumann               |  13.3 |         4 |              |               |
