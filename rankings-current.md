@@ -47,16 +47,16 @@ Generated 2017-03-19.
 |   43 | Josh Lebowitz      |  11.0 |        39 |        +0.14 |        +11.72 |
 |   44 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
 |   45 | Raphael Magarik    |   9.9 |        21 |              |               |
-|   46 | Duo Wang           |   8.8 |        68 |        +0.05 |         -0.08 |
+|   46 | Duo Wang           |   8.9 |        69 |        +0.07 |         -0.05 |
 |   47 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
 |   48 | Craig Hollow       |   7.8 |        13 |        +1.93 |               |
-|   49 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   50 | Janeau Janssen     |   6.2 |         6 |        +0.64 |               |
+|   49 | Janeau Janssen     |   7.7 |         8 |        +2.08 |               |
+|   50 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
 |   51 | Jose Lara          |   4.5 |        11 |              |               |
 |   52 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |
-|   53 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
-|   54 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
-|   55 | Daniel Wissmann    |  -1.7 |         1 |              |               |
+|   53 | Daniel Wissmann    |   0.7 |         2 |        +2.41 |               |
+|   54 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
+|   55 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
 |   56 | Vipul Gupta        |  -3.4 |         1 |              |               |
 |   57 | Yifan Wu           |  -3.6 |         5 |              |               |
 |   58 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
