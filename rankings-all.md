@@ -136,12 +136,12 @@ Generated 2017-03-19.
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  133 | Dante Popple              |  21.5 |        17 |              |               |
 |  134 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  135 | Jared Bard                |  21.3 |        42 |              |         +0.01 |
-|  136 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  137 | Adam Jacob                |  21.3 |         3 |              |               |
-|  138 | Vishal Jain               |  21.3 |         6 |              |               |
-|  139 | Casey Harelson            |  21.2 |        20 |              |               |
-|  140 | Reid Johnsen              |  21.2 |        47 |        +0.01 |         -0.59 |
+|  135 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  136 | Adam Jacob                |  21.3 |         3 |              |               |
+|  137 | Vishal Jain               |  21.3 |         6 |              |               |
+|  138 | Reid Johnsen              |  21.3 |        48 |        +0.10 |         -0.51 |
+|  139 | Jared Bard                |  21.2 |        43 |        -0.07 |         -0.06 |
+|  140 | Casey Harelson            |  21.2 |        20 |              |               |
 |  141 | Philip Bildner            |  21.2 |        22 |              |               |
 |  142 | Darren Morgan             |  21.2 |        11 |              |               |
 |  143 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
@@ -182,7 +182,7 @@ Generated 2017-03-19.
 |  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  179 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  181 | Jaime Perez               |  19.6 |        27 |        +0.37 |         +1.06 |
+|  181 | Jaime Perez               |  19.6 |        27 |        +0.38 |         +1.07 |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |         +0.77 |
 |  183 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  184 | Greg Adams                |  19.3 |        10 |              |               |
