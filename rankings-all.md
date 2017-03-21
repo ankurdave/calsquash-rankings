@@ -33,17 +33,17 @@ Generated 2017-03-21.
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
-|   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.0 |       221 |              |         -0.22 |
-|   34 | Hussain Raza              |  27.0 |        50 |              |               |
-|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   36 | Alan Jose                 |  26.9 |       182 |              |               |
-|   37 | Michael Best              |  26.9 |        21 |              |               |
-|   38 | Nick Cobbett              |  26.9 |        30 |              |         +3.43 |
-|   39 | Josh Taylor               |  26.8 |        40 |              |               |
-|   40 | David Hwang               |  26.8 |        44 |              |               |
-|   41 | Ethan Kerr                |  26.7 |        14 |              |         +1.41 |
-|   42 | Anibhav Singla            |  26.6 |        12 |        +1.69 |               |
+|   32 | Anibhav Singla            |  27.2 |        13 |        +2.31 |               |
+|   33 | Samer Shehata             |  27.2 |        29 |              |               |
+|   34 | Frank Kennamer            |  27.0 |       221 |              |         -0.22 |
+|   35 | Hussain Raza              |  27.0 |        50 |              |               |
+|   36 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   37 | Alan Jose                 |  26.9 |       182 |              |               |
+|   38 | Michael Best              |  26.9 |        21 |              |               |
+|   39 | Nick Cobbett              |  26.9 |        30 |              |         +3.43 |
+|   40 | Josh Taylor               |  26.8 |        40 |              |               |
+|   41 | David Hwang               |  26.8 |        44 |              |               |
+|   42 | Ethan Kerr                |  26.7 |        14 |              |         +1.41 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
 |   45 | Andrew Moylan             |  26.3 |        95 |              |               |
@@ -102,18 +102,18 @@ Generated 2017-03-21.
 |   98 | Daniel Greengard          |  23.1 |        37 |              |               |
 |   99 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  100 | Joe Farrell               |  23.0 |        30 |              |               |
-|  101 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  102 | Dan Bohn                  |  23.0 |        90 |        -0.11 |         -0.80 |
+|  101 | Dan Bohn                  |  23.0 |        90 |        -0.10 |         -0.79 |
+|  102 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  103 | Andrew Pritchard          |  22.7 |        16 |              |               |
-|  104 | Dan Meier                 |  22.7 |        61 |              |         +0.61 |
-|  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  106 | Julian Marshall           |  22.7 |        31 |              |               |
+|  104 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  105 | Julian Marshall           |  22.7 |        31 |              |               |
+|  106 | Dan Meier                 |  22.6 |        62 |        -0.09 |         +0.52 |
 |  107 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  108 | Dev Millstein             |  22.6 |        92 |              |               |
 |  109 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  110 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  111 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  112 | Jonathan Hankar           |  22.3 |       199 |        -0.09 |         +0.67 |
+|  112 | Jonathan Hankar           |  22.3 |       199 |        -0.10 |         +0.66 |
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
