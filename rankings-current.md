@@ -1,4 +1,4 @@
-Generated 2017-03-19.
+Generated 2017-03-20.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -8,25 +8,25 @@ Generated 2017-03-19.
 |    4 | Ethan Kerr         |  26.7 |        14 |              |         +1.41 |
 |    5 | Anibhav Singla     |  26.6 |        12 |        +1.69 |               |
 |    6 | Arvind Muralimohan |  25.7 |        18 |              |         +1.44 |
-|    7 | John Kunze         |  24.6 |       316 |              |         -0.16 |
-|    8 | Jim Veitch         |  24.5 |       445 |              |         -2.13 |
-|    9 | Sam McCormick      |  24.1 |        28 |        +0.41 |         +3.46 |
+|    7 | John Kunze         |  24.7 |       317 |        +0.09 |         -0.07 |
+|    8 | Jim Veitch         |  24.3 |       447 |        -0.19 |         -2.32 |
+|    9 | Sam McCormick      |  24.1 |        28 |        +0.40 |         +3.45 |
 |   10 | Matt Wong          |  23.9 |        87 |        -0.08 |         +2.27 |
-|   11 | Matt Wild          |  23.6 |        29 |        -0.30 |         +0.64 |
+|   11 | Matt Wild          |  23.6 |        29 |        -0.30 |         +0.63 |
 |   12 | Dan Bohn           |  23.0 |        90 |        -0.11 |         -0.80 |
 |   13 | Dan Meier          |  22.7 |        61 |              |         +0.61 |
 |   14 | Jonathan Hankar    |  22.3 |       199 |        -0.09 |         +0.67 |
 |   15 | Reid Johnsen       |  21.3 |        48 |        +0.10 |         -0.51 |
 |   16 | Jared Bard         |  21.2 |        43 |        -0.07 |         -0.06 |
-|   17 | Marc Schechter     |  20.8 |        10 |        +1.02 |               |
-|   18 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.74 |
-|   19 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
-|   20 | Robert Schwartz    |  20.0 |        84 |        -0.39 |         -1.20 |
-|   21 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
-|   22 | Jaime Perez        |  19.6 |        27 |        +0.38 |         +1.07 |
-|   23 | Shaun Lim          |  18.9 |        54 |              |         +0.35 |
-|   24 | Dror Matalon       |  18.7 |       367 |        +0.01 |         +0.50 |
-|   25 | Shrinu Kushagra    |  18.4 |         4 |              |               |
+|   17 | Shrinu Kushagra    |  21.2 |         5 |        +2.75 |               |
+|   18 | Marc Schechter     |  20.8 |        10 |        +1.02 |               |
+|   19 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.74 |
+|   20 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
+|   21 | Robert Schwartz    |  20.0 |        84 |        -0.39 |         -1.20 |
+|   22 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
+|   23 | Jaime Perez        |  19.6 |        27 |        +0.38 |         +1.07 |
+|   24 | Shaun Lim          |  18.9 |        54 |              |         +0.35 |
+|   25 | Dror Matalon       |  18.7 |       367 |        +0.01 |         +0.50 |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
 |   27 | David Bratt        |  17.9 |        25 |        +0.57 |         +1.47 |
 |   28 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
