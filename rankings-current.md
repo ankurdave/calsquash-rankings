@@ -1,4 +1,4 @@
-Generated 2017-03-20.
+Generated 2017-03-21.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -52,12 +52,13 @@ Generated 2017-03-20.
 |   48 | Craig Hollow       |   7.8 |        13 |        +1.93 |               |
 |   49 | Janeau Janssen     |   7.7 |         8 |        +2.08 |               |
 |   50 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   51 | Jose Lara          |   4.5 |        11 |              |               |
-|   52 | Zsolt Bartha       |   4.3 |        51 |              |         +0.55 |
-|   53 | Daniel Wissmann    |   0.7 |         2 |        +2.41 |               |
-|   54 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
-|   55 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
-|   56 | Vipul Gupta        |  -3.4 |         1 |              |               |
-|   57 | Yifan Wu           |  -3.6 |         5 |              |               |
-|   58 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
-|   59 | Navarun Jain       | -12.3 |         2 |              |               |
+|   51 | Avi Flamholz       |   4.7 |         1 |              |               |
+|   52 | Jose Lara          |   4.5 |        11 |              |               |
+|   53 | Zsolt Bartha       |   4.3 |        52 |        -0.05 |         +0.50 |
+|   54 | Daniel Wissmann    |   0.7 |         2 |        +2.41 |               |
+|   55 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
+|   56 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
+|   57 | Vipul Gupta        |  -3.4 |         1 |              |               |
+|   58 | Yifan Wu           |  -3.6 |         5 |              |               |
+|   59 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
+|   60 | Navarun Jain       | -12.3 |         2 |              |               |
