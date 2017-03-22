@@ -1,4 +1,4 @@
-Generated 2017-03-21.
+Generated 2017-03-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -337,18 +337,18 @@ Generated 2017-03-21.
 |  333 | Aman Gupta                |  11.8 |         3 |              |               |
 |  334 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  335 | Julian Gill               |  11.8 |         1 |              |               |
-|  336 | James Shinn               |  11.7 |       120 |              |               |
-|  337 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  338 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  339 | David Appelfeld           |  11.6 |        26 |              |               |
-|  340 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  341 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  342 | Karan Goyal               |  11.4 |         6 |       +10.10 |               |
-|  343 | Carlos Filho              |  11.4 |         7 |              |               |
-|  344 | Meldan Heaslip            |  11.4 |        19 |        +0.35 |               |
+|  336 | Meldan Heaslip            |  11.7 |        20 |        +0.70 |               |
+|  337 | James Shinn               |  11.7 |       120 |              |               |
+|  338 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  339 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  340 | David Appelfeld           |  11.6 |        26 |              |               |
+|  341 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  342 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
+|  343 | Karan Goyal               |  11.4 |         6 |       +10.10 |               |
+|  344 | Carlos Filho              |  11.4 |         7 |              |               |
 |  345 | Karan Jain                |  11.3 |        19 |              |               |
-|  346 | Josh Lebowitz             |  11.0 |        39 |        +0.14 |        +11.72 |
-|  347 | Lucas Siow                |  11.0 |        10 |              |               |
+|  346 | Lucas Siow                |  11.0 |        10 |              |               |
+|  347 | Josh Lebowitz             |  10.9 |        39 |        +0.03 |        +11.62 |
 |  348 | Dominick Ng               |  10.9 |        25 |              |               |
 |  349 | George Bentley            |  10.6 |         4 |              |               |
 |  350 | Sudeep Agarwal            |  10.5 |         3 |              |               |
@@ -506,7 +506,7 @@ Generated 2017-03-21.
 |  502 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
 |  503 | James Redfield            |  -2.9 |         3 |              |               |
 |  504 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  505 | Vipul Gupta               |  -3.4 |         1 |              |               |
+|  505 | Vipul Gupta               |  -3.2 |         2 |              |               |
 |  506 | Padma Maitland            |  -3.5 |         4 |              |         +2.67 |
 |  507 | Yifan Wu                  |  -3.6 |         5 |              |               |
 |  508 | Tin Do                    |  -4.0 |         1 |              |               |

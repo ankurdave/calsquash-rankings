@@ -1,4 +1,4 @@
-Generated 2017-03-21.
+Generated 2017-03-22.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -42,9 +42,9 @@ Generated 2017-03-21.
 |   38 | Tim Browning       |  13.5 |         6 |        -0.97 |               |
 |   39 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   40 | Sergey Dobrinov    |  12.2 |        12 |        -0.79 |               |
-|   41 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |
-|   42 | Meldan Heaslip     |  11.4 |        19 |        +0.35 |               |
-|   43 | Josh Lebowitz      |  11.0 |        39 |        +0.14 |        +11.72 |
+|   41 | Meldan Heaslip     |  11.7 |        20 |        +0.70 |               |
+|   42 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |
+|   43 | Josh Lebowitz      |  10.9 |        39 |        +0.03 |        +11.62 |
 |   44 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
 |   45 | Raphael Magarik    |   9.9 |        21 |              |               |
 |   46 | Duo Wang           |   8.9 |        69 |        +0.07 |         -0.05 |
@@ -58,7 +58,7 @@ Generated 2017-03-21.
 |   54 | Daniel Wissmann    |   0.7 |         2 |        +2.41 |               |
 |   55 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
 |   56 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
-|   57 | Vipul Gupta        |  -3.4 |         1 |              |               |
+|   57 | Vipul Gupta        |  -3.2 |         2 |              |               |
 |   58 | Yifan Wu           |  -3.6 |         5 |              |               |
 |   59 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
 |   60 | Navarun Jain       | -12.3 |         2 |              |               |
