@@ -140,18 +140,18 @@ Generated 2017-03-21.
 |  136 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  137 | Adam Jacob                |  21.3 |         3 |              |               |
 |  138 | Vishal Jain               |  21.3 |         6 |              |               |
-|  139 | Reid Johnsen              |  21.3 |        48 |        +0.10 |         -0.50 |
-|  140 | Casey Harelson            |  21.2 |        20 |              |               |
-|  141 | Shrinu Kushagra           |  21.2 |         5 |        +2.75 |               |
-|  142 | Philip Bildner            |  21.2 |        22 |              |               |
-|  143 | Darren Morgan             |  21.2 |        11 |              |               |
-|  144 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  145 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  146 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  147 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  148 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  149 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  150 | Marc Schechter            |  20.8 |        10 |        +1.02 |               |
+|  139 | Marc Schechter            |  21.3 |        11 |        +1.46 |               |
+|  140 | Reid Johnsen              |  21.3 |        48 |        +0.10 |         -0.50 |
+|  141 | Casey Harelson            |  21.2 |        20 |              |               |
+|  142 | Shrinu Kushagra           |  21.2 |         5 |        +2.75 |               |
+|  143 | Philip Bildner            |  21.2 |        22 |              |               |
+|  144 | Darren Morgan             |  21.2 |        11 |              |               |
+|  145 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  146 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  147 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  148 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  149 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  150 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  151 | Robert Isaac              |  20.8 |        17 |              |               |
 |  152 | Jamie Funk                |  20.8 |        30 |              |               |
 |  153 | Matthew Brett             |  20.7 |        20 |              |               |
@@ -200,7 +200,7 @@ Generated 2017-03-21.
 |  196 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  197 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  198 | Peter Dering              |  18.7 |         9 |              |               |
-|  199 | Dror Matalon              |  18.7 |       367 |        +0.01 |         +0.50 |
+|  199 | Dror Matalon              |  18.7 |       367 |              |         +0.50 |
 |  200 | Sushant Jain              |  18.7 |        12 |              |               |
 |  201 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  202 | Kedar Viswanathan         |  18.6 |        16 |              |               |
@@ -252,9 +252,9 @@ Generated 2017-03-21.
 |  248 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  249 | David Shabelman           |  16.7 |        30 |              |               |
 |  250 | Mark Priven               |  16.6 |        72 |              |               |
-|  251 | Ankur Dave                |  16.5 |        63 |        +0.23 |         +7.01 |
-|  252 | William Coleman           |  16.5 |        48 |              |               |
-|  253 | Mike Troxell              |  16.5 |         8 |              |               |
+|  251 | William Coleman           |  16.5 |        48 |              |               |
+|  252 | Mike Troxell              |  16.5 |         8 |              |               |
+|  253 | Ankur Dave                |  16.5 |        64 |        +0.15 |         +6.93 |
 |  254 | Chris Flores              |  16.5 |       313 |        +0.10 |         -0.87 |
 |  255 | Danish Mir                |  16.4 |         1 |              |               |
 |  256 | Paul Chang                |  16.3 |         7 |              |               |
