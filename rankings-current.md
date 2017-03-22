@@ -16,15 +16,15 @@ Generated 2017-03-21.
 |   12 | Dan Bohn           |  23.0 |        90 |        -0.10 |         -0.79 |
 |   13 | Dan Meier          |  22.6 |        62 |        -0.09 |         +0.52 |
 |   14 | Jonathan Hankar    |  22.3 |       199 |        -0.10 |         +0.66 |
-|   15 | Reid Johnsen       |  21.3 |        48 |        +0.10 |         -0.51 |
-|   16 | Jared Bard         |  21.2 |        43 |        -0.07 |         -0.06 |
+|   15 | Jared Bard         |  21.3 |        44 |        +0.03 |         +0.05 |
+|   16 | Reid Johnsen       |  21.3 |        48 |        +0.10 |         -0.50 |
 |   17 | Shrinu Kushagra    |  21.2 |         5 |        +2.75 |               |
 |   18 | Marc Schechter     |  20.8 |        10 |        +1.02 |               |
-|   19 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.74 |
+|   19 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.75 |
 |   20 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
 |   21 | Robert Schwartz    |  20.0 |        84 |        -0.39 |         -1.20 |
 |   22 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
-|   23 | Jaime Perez        |  19.6 |        27 |        +0.38 |         +1.07 |
+|   23 | Jaime Perez        |  19.5 |        28 |        +0.30 |         +1.00 |
 |   24 | Shaun Lim          |  18.9 |        54 |              |         +0.35 |
 |   25 | Dror Matalon       |  18.7 |       367 |        +0.01 |         +0.50 |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |

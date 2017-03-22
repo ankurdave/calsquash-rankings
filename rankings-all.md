@@ -135,12 +135,12 @@ Generated 2017-03-21.
 |  131 | Phin Lee                  |  21.7 |        16 |              |               |
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  133 | Dante Popple              |  21.5 |        17 |              |               |
-|  134 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  135 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  136 | Adam Jacob                |  21.3 |         3 |              |               |
-|  137 | Vishal Jain               |  21.3 |         6 |              |               |
-|  138 | Reid Johnsen              |  21.3 |        48 |        +0.10 |         -0.51 |
-|  139 | Jared Bard                |  21.2 |        43 |        -0.07 |         -0.06 |
+|  134 | Jared Bard                |  21.3 |        44 |        +0.03 |         +0.05 |
+|  135 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  136 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  137 | Adam Jacob                |  21.3 |         3 |              |               |
+|  138 | Vishal Jain               |  21.3 |         6 |              |               |
+|  139 | Reid Johnsen              |  21.3 |        48 |        +0.10 |         -0.50 |
 |  140 | Casey Harelson            |  21.2 |        20 |              |               |
 |  141 | Shrinu Kushagra           |  21.2 |         5 |        +2.75 |               |
 |  142 | Philip Bildner            |  21.2 |        22 |              |               |
@@ -161,7 +161,7 @@ Generated 2017-03-21.
 |  157 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
 |  158 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  159 | Andrew Green              |  20.5 |        52 |              |               |
-|  160 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.74 |
+|  160 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.75 |
 |  161 | Steven Sloman             |  20.4 |        10 |              |               |
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.50 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
@@ -183,8 +183,8 @@ Generated 2017-03-21.
 |  179 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  180 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  181 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  182 | Jaime Perez               |  19.6 |        27 |        +0.38 |         +1.07 |
-|  183 | Jacob Kersey              |  19.6 |        15 |              |         +0.77 |
+|  182 | Jacob Kersey              |  19.6 |        15 |              |         +0.77 |
+|  183 | Jaime Perez               |  19.5 |        28 |        +0.30 |         +1.00 |
 |  184 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  185 | Greg Adams                |  19.3 |        10 |              |               |
 |  186 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
