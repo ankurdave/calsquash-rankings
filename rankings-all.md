@@ -332,13 +332,13 @@ Generated 2017-03-23.
 |  328 | Sergey Dobrinov           |  12.4 |        12 |        -0.59 |               |
 |  329 | John Givens               |  12.2 |        13 |              |               |
 |  330 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  331 | Reed Foster               |  12.1 |         8 |              |               |
-|  332 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  333 | Larry Dale                |  11.9 |        29 |              |               |
-|  334 | Aman Gupta                |  11.8 |         3 |              |               |
-|  335 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  336 | Julian Gill               |  11.8 |         1 |              |               |
-|  337 | Meldan Heaslip            |  11.7 |        20 |        +0.70 |               |
+|  331 | Meldan Heaslip            |  12.1 |        21 |        +1.10 |               |
+|  332 | Reed Foster               |  12.1 |         8 |              |               |
+|  333 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  334 | Larry Dale                |  11.9 |        29 |              |               |
+|  335 | Aman Gupta                |  11.8 |         3 |              |               |
+|  336 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  337 | Julian Gill               |  11.8 |         1 |              |               |
 |  338 | James Shinn               |  11.7 |       120 |              |               |
 |  339 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  340 | Min Joon Seo              |  11.6 |         3 |              |               |
@@ -366,11 +366,11 @@ Generated 2017-03-23.
 |  362 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  363 | Reto Sutter               |  10.0 |        52 |              |         -1.24 |
 |  364 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  365 | Raphael Magarik           |   9.9 |        21 |              |               |
-|  366 | Daniel Schwartz           |   9.8 |        22 |              |         -3.38 |
-|  367 | Myles Gordon              |   9.8 |        42 |              |         -0.61 |
-|  368 | Jacob Bank                |   9.7 |         1 |              |               |
-|  369 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  365 | Daniel Schwartz           |   9.8 |        22 |              |         -3.38 |
+|  366 | Myles Gordon              |   9.8 |        42 |              |         -0.61 |
+|  367 | Jacob Bank                |   9.7 |         1 |              |               |
+|  368 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  369 | Raphael Magarik           |   9.6 |        22 |        -0.33 |               |
 |  370 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  371 | Mark Shapero              |   9.4 |         7 |              |               |
 |  372 | Kevin Pollock             |   9.4 |        28 |              |               |

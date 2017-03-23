@@ -43,12 +43,12 @@ Generated 2017-03-23.
 |   39 | Tim Browning       |  13.8 |         7 |        -0.66 |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Sergey Dobrinov    |  12.4 |        12 |        -0.59 |               |
-|   42 | Meldan Heaslip     |  11.7 |        20 |        +0.70 |               |
+|   42 | Meldan Heaslip     |  12.1 |        21 |        +1.10 |               |
 |   43 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |
 |   44 | Josh Lebowitz      |  10.9 |        39 |        +0.03 |        +11.62 |
 |   45 | Craig Hollow       |  10.5 |        15 |        +4.63 |               |
 |   46 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
-|   47 | Raphael Magarik    |   9.9 |        21 |              |               |
+|   47 | Raphael Magarik    |   9.6 |        22 |        -0.33 |               |
 |   48 | Duo Wang           |   8.9 |        69 |        +0.07 |         -0.05 |
 |   49 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
 |   50 | Janeau Janssen     |   7.7 |         8 |        +2.08 |               |
