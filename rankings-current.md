@@ -1,4 +1,4 @@
-Generated 2017-03-22.
+Generated 2017-03-23.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -33,14 +33,14 @@ Generated 2017-03-22.
 |   29 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
 |   30 | David Bratt        |  17.1 |        26 |        -0.23 |         +0.67 |
 |   31 | Sahar Sareminaeni  |  16.6 |        24 |        +0.86 |               |
-|   32 | Ankur Dave         |  16.5 |        64 |        +0.15 |         +6.93 |
+|   32 | Ankur Dave         |  16.5 |        65 |        +0.19 |         +6.97 |
 |   33 | Chris Flores       |  16.5 |       313 |        +0.10 |         -0.87 |
 |   34 | James Grant        |  15.2 |         8 |              |               |
 |   35 | Diego Butrich      |  15.0 |        10 |              |               |
 |   36 | Kent Daniels       |  14.9 |       102 |        -0.15 |         -0.31 |
 |   37 | Nikhil Paranjape   |  14.2 |        39 |        +0.06 |         +5.38 |
-|   38 | Roberto Gonzalez   |  13.6 |         1 |              |               |
-|   39 | Tim Browning       |  13.5 |         6 |        -0.97 |               |
+|   38 | Tim Browning       |  13.8 |         7 |        -0.66 |               |
+|   39 | Roberto Gonzalez   |  13.6 |         1 |              |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Sergey Dobrinov    |  12.4 |        12 |        -0.59 |               |
 |   42 | Meldan Heaslip     |  11.7 |        20 |        +0.70 |               |

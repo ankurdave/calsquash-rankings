@@ -1,4 +1,4 @@
-Generated 2017-03-22.
+Generated 2017-03-23.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -254,7 +254,7 @@ Generated 2017-03-22.
 |  250 | Mark Priven               |  16.6 |        72 |              |               |
 |  251 | William Coleman           |  16.5 |        48 |              |               |
 |  252 | Mike Troxell              |  16.5 |         8 |              |               |
-|  253 | Ankur Dave                |  16.5 |        64 |        +0.15 |         +6.93 |
+|  253 | Ankur Dave                |  16.5 |        65 |        +0.19 |         +6.97 |
 |  254 | Chris Flores              |  16.5 |       313 |        +0.10 |         -0.87 |
 |  255 | Danish Mir                |  16.4 |         1 |              |               |
 |  256 | Paul Chang                |  16.3 |         7 |              |               |
@@ -307,13 +307,13 @@ Generated 2017-03-22.
 |  303 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  304 | Gurj Johal                |  13.8 |         2 |              |               |
 |  305 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  306 | Josephine Lee             |  13.7 |         6 |              |               |
-|  307 | Roberto Gonzalez          |  13.6 |         1 |              |               |
-|  308 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  309 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  310 | Lars Foleide              |  13.5 |        11 |              |               |
-|  311 | Alex Rennet               |  13.5 |         2 |              |               |
-|  312 | Tim Browning              |  13.5 |         6 |        -0.97 |               |
+|  306 | Tim Browning              |  13.8 |         7 |        -0.66 |               |
+|  307 | Josephine Lee             |  13.7 |         6 |              |               |
+|  308 | Roberto Gonzalez          |  13.6 |         1 |              |               |
+|  309 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  310 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  311 | Lars Foleide              |  13.5 |        11 |              |               |
+|  312 | Alex Rennet               |  13.5 |         2 |              |               |
 |  313 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  314 | Jake Toy                  |  13.4 |         5 |              |               |
 |  315 | Ulf Baumann               |  13.3 |         4 |              |               |
