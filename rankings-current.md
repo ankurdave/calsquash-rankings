@@ -28,29 +28,29 @@ Generated 2017-03-22.
 |   24 | Shaun Lim          |  18.9 |        54 |              |         +0.35 |
 |   25 | Dror Matalon       |  18.7 |       367 |              |         +0.50 |
 |   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
-|   27 | David Bratt        |  17.9 |        25 |        +0.57 |         +1.47 |
-|   28 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
-|   29 | Josh Trauner       |  17.6 |        51 |        +0.07 |         +0.49 |
-|   30 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
-|   31 | Sahar Sareminaeni  |  16.8 |        23 |        +1.04 |               |
+|   27 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
+|   28 | Josh Trauner       |  17.6 |        51 |        +0.07 |         +0.49 |
+|   29 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
+|   30 | David Bratt        |  17.1 |        26 |        -0.23 |         +0.67 |
+|   31 | Sahar Sareminaeni  |  16.6 |        24 |        +0.86 |               |
 |   32 | Ankur Dave         |  16.5 |        64 |        +0.15 |         +6.93 |
 |   33 | Chris Flores       |  16.5 |       313 |        +0.10 |         -0.87 |
 |   34 | James Grant        |  15.2 |         8 |              |               |
-|   35 | Kent Daniels       |  15.0 |       102 |        -0.03 |         -0.19 |
-|   36 | Diego Butrich      |  15.0 |        10 |              |               |
-|   37 | Nikhil Paranjape   |  14.2 |        39 |        +0.08 |         +5.40 |
+|   35 | Diego Butrich      |  15.0 |        10 |              |               |
+|   36 | Kent Daniels       |  14.9 |       102 |        -0.15 |         -0.31 |
+|   37 | Nikhil Paranjape   |  14.2 |        39 |        +0.06 |         +5.38 |
 |   38 | Roberto Gonzalez   |  13.6 |         1 |              |               |
 |   39 | Tim Browning       |  13.5 |         6 |        -0.97 |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
-|   41 | Sergey Dobrinov    |  12.2 |        12 |        -0.79 |               |
+|   41 | Sergey Dobrinov    |  12.4 |        12 |        -0.59 |               |
 |   42 | Meldan Heaslip     |  11.7 |        20 |        +0.70 |               |
 |   43 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |
 |   44 | Josh Lebowitz      |  10.9 |        39 |        +0.03 |        +11.62 |
-|   45 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
-|   46 | Raphael Magarik    |   9.9 |        21 |              |               |
-|   47 | Duo Wang           |   8.9 |        69 |        +0.07 |         -0.05 |
-|   48 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
-|   49 | Craig Hollow       |   7.8 |        13 |        +1.93 |               |
+|   45 | Craig Hollow       |  10.5 |        15 |        +4.63 |               |
+|   46 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
+|   47 | Raphael Magarik    |   9.9 |        21 |              |               |
+|   48 | Duo Wang           |   8.9 |        69 |        +0.07 |         -0.05 |
+|   49 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
 |   50 | Janeau Janssen     |   7.7 |         8 |        +2.08 |               |
 |   51 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
 |   52 | Avi Flamholz       |   4.7 |         1 |              |               |
