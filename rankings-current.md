@@ -25,22 +25,22 @@ Generated 2017-03-23.
 |   21 | Robert Schwartz    |  20.0 |        84 |        -0.39 |         -1.20 |
 |   22 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
 |   23 | Jaime Perez        |  19.5 |        28 |        +0.30 |         +1.00 |
-|   24 | Shaun Lim          |  18.9 |        54 |              |         +0.35 |
-|   25 | Dror Matalon       |  18.7 |       367 |              |         +0.50 |
-|   26 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
-|   27 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
-|   28 | Josh Trauner       |  17.6 |        51 |        +0.07 |         +0.49 |
-|   29 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
-|   30 | David Bratt        |  17.1 |        26 |        -0.23 |         +0.67 |
-|   31 | Sahar Sareminaeni  |  16.6 |        24 |        +0.86 |               |
-|   32 | Ankur Dave         |  16.5 |        65 |        +0.19 |         +6.97 |
-|   33 | Chris Flores       |  16.5 |       313 |        +0.10 |         -0.87 |
-|   34 | James Grant        |  15.2 |         8 |              |               |
-|   35 | Diego Butrich      |  15.0 |        10 |              |               |
-|   36 | Kent Daniels       |  14.9 |       102 |        -0.15 |         -0.31 |
-|   37 | Nikhil Paranjape   |  14.2 |        39 |        +0.06 |         +5.38 |
-|   38 | Tim Browning       |  13.8 |         7 |        -0.66 |               |
-|   39 | Roberto Gonzalez   |  13.6 |         1 |              |               |
+|   24 | Roberto Gonzalez   |  19.2 |         2 |              |               |
+|   25 | Shaun Lim          |  18.9 |        54 |              |         +0.35 |
+|   26 | Dror Matalon       |  18.7 |       367 |              |         +0.50 |
+|   27 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
+|   28 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
+|   29 | Josh Trauner       |  17.6 |        51 |        +0.07 |         +0.49 |
+|   30 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
+|   31 | David Bratt        |  17.1 |        26 |        -0.23 |         +0.67 |
+|   32 | Sahar Sareminaeni  |  16.6 |        24 |        +0.86 |               |
+|   33 | Ankur Dave         |  16.5 |        65 |        +0.19 |         +6.97 |
+|   34 | Chris Flores       |  16.5 |       313 |        +0.10 |         -0.87 |
+|   35 | James Grant        |  15.2 |         8 |              |               |
+|   36 | Diego Butrich      |  15.0 |        10 |              |               |
+|   37 | Kent Daniels       |  14.9 |       102 |        -0.15 |         -0.31 |
+|   38 | Nikhil Paranjape   |  14.2 |        39 |        +0.06 |         +5.38 |
+|   39 | Tim Browning       |  13.8 |         7 |        -0.66 |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Sergey Dobrinov    |  12.4 |        12 |        -0.59 |               |
 |   42 | Meldan Heaslip     |  11.7 |        20 |        +0.70 |               |
@@ -56,11 +56,12 @@ Generated 2017-03-23.
 |   52 | Avi Flamholz       |   4.7 |         1 |              |               |
 |   53 | Jose Lara          |   4.5 |        11 |              |               |
 |   54 | Zsolt Bartha       |   4.3 |        52 |        -0.05 |         +0.50 |
-|   55 | Daniel Wissmann    |   0.7 |         2 |        +2.41 |               |
-|   56 | Sumit Gupta        |  -0.4 |         1 |              |               |
-|   57 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
-|   58 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
-|   59 | Vipul Gupta        |  -3.2 |         2 |              |               |
-|   60 | Yifan Wu           |  -3.6 |         5 |              |               |
-|   61 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
-|   62 | Navarun Jain       | -12.3 |         2 |              |               |
+|   55 | Sumit Gupta        |   1.3 |         1 |              |               |
+|   56 | Daniel Wissmann    |   0.7 |         2 |        +2.41 |               |
+|   57 | Norman Bonney      |  -0.4 |         1 |              |               |
+|   58 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
+|   59 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
+|   60 | Vipul Gupta        |  -3.2 |         2 |              |               |
+|   61 | Yifan Wu           |  -3.6 |         5 |              |               |
+|   62 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
+|   63 | Navarun Jain       | -12.3 |         2 |              |               |

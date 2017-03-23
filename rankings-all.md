@@ -187,129 +187,129 @@ Generated 2017-03-23.
 |  183 | Jaime Perez               |  19.5 |        28 |        +0.30 |         +1.00 |
 |  184 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  185 | Greg Adams                |  19.3 |        10 |              |               |
-|  186 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  187 | John Corcoran             |  19.1 |        49 |              |               |
-|  188 | Kedar Shah                |  19.1 |         9 |              |               |
-|  189 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  190 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  191 | Yating Liu                |  19.0 |         7 |              |               |
-|  192 | Ronald Dahl               |  18.9 |        51 |              |         -0.26 |
-|  193 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  194 | Shaun Lim                 |  18.9 |        54 |              |         +0.35 |
-|  195 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  196 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  197 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  198 | Peter Dering              |  18.7 |         9 |              |               |
-|  199 | Dror Matalon              |  18.7 |       367 |              |         +0.50 |
-|  200 | Sushant Jain              |  18.7 |        12 |              |               |
-|  201 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  202 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  203 | Allan Sly                 |  18.6 |        29 |              |               |
-|  204 | Jason Facchin             |  18.5 |         3 |              |               |
-|  205 | Yan Liu                   |  18.5 |        10 |              |               |
-|  206 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  207 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  208 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  209 | John Eng                  |  18.4 |        28 |              |               |
-|  210 | Natalie Leung             |  18.4 |         1 |              |               |
-|  211 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  212 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
-|  213 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  214 | Eric Borden               |  18.2 |        41 |              |         +2.08 |
-|  215 | Bob Roller                |  18.2 |         6 |              |               |
-|  216 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  217 | James Chung               |  17.9 |         7 |              |               |
-|  218 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  219 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
-|  220 | Nick Paget                |  17.8 |        35 |              |               |
-|  221 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  222 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  223 | George Roche              |  17.7 |        14 |              |               |
-|  224 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  225 | Josh Trauner              |  17.6 |        51 |        +0.07 |         +0.49 |
-|  226 | Subrato Dey               |  17.5 |        26 |              |         +2.32 |
-|  227 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  228 | Wayne Heiser              |  17.4 |        44 |              |         +4.60 |
-|  229 | Sam Trachtman             |  17.4 |         5 |              |         +3.91 |
-|  230 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  231 | Craig Riddell             |  17.4 |         8 |              |               |
-|  232 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  233 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  234 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  235 | Zach Brown                |  17.3 |         3 |              |               |
-|  236 | William Seles             |  17.2 |        15 |              |               |
-|  237 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  238 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  239 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  240 | David Bratt               |  17.1 |        26 |        -0.23 |         +0.67 |
-|  241 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  242 | Neil Conway               |  17.0 |        55 |              |               |
-|  243 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  244 | Baxter Leman              |  16.9 |         6 |              |               |
-|  245 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  246 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  247 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  248 | David Shabelman           |  16.7 |        30 |              |               |
-|  249 | Sahar Sareminaeni         |  16.6 |        24 |        +0.86 |               |
-|  250 | Mark Priven               |  16.6 |        72 |              |               |
-|  251 | William Coleman           |  16.5 |        48 |              |               |
-|  252 | Mike Troxell              |  16.5 |         8 |              |               |
-|  253 | Ankur Dave                |  16.5 |        65 |        +0.19 |         +6.97 |
-|  254 | Chris Flores              |  16.5 |       313 |        +0.10 |         -0.87 |
-|  255 | Danish Mir                |  16.4 |         1 |              |               |
-|  256 | Paul Chang                |  16.3 |         7 |              |               |
-|  257 | Steven Hahm               |  16.3 |         5 |              |               |
-|  258 | Jules Bowie               |  16.3 |        12 |              |               |
-|  259 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  260 | Jan Strasky               |  16.2 |        12 |              |               |
-|  261 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  262 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  263 | Terry Chang               |  15.8 |        48 |              |         +0.05 |
-|  264 | Louis Russell             |  15.8 |        20 |              |               |
-|  265 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  266 | Jared Nunn                |  15.7 |         5 |              |               |
-|  267 | Akash Sharma              |  15.7 |         8 |              |               |
-|  268 | Angie Ng                  |  15.7 |        12 |              |               |
-|  269 | Tanit Follett             |  15.5 |         8 |              |               |
-|  270 | Toni Queck                |  15.5 |        20 |              |               |
-|  271 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  272 | Peter Duerr               |  15.4 |        24 |              |               |
-|  273 | Kevin Fox                 |  15.3 |         7 |              |               |
-|  274 | James Grant               |  15.2 |         8 |              |               |
-|  275 | Jim Evans                 |  15.1 |       216 |              |               |
-|  276 | Dennis Chan               |  15.1 |         1 |              |               |
-|  277 | Allie Giovanelli          |  15.0 |         4 |              |               |
-|  278 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  279 | Diego Butrich             |  15.0 |        10 |              |               |
-|  280 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
-|  281 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  282 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  283 | Kent Daniels              |  14.9 |       102 |        -0.15 |         -0.31 |
-|  284 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  285 | Paul Norberg              |  14.8 |         8 |              |               |
-|  286 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  287 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  288 | David Elfant              |  14.7 |         2 |              |               |
-|  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  290 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  291 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  292 | Shai Vardi                |  14.5 |         4 |              |               |
-|  293 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  294 | Max Woodworth             |  14.4 |         7 |              |               |
-|  295 | Juliet Shih               |  14.4 |        11 |              |               |
-|  296 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  297 | Adam Soliman              |  14.2 |        32 |              |               |
-|  298 | Nikhil Paranjape          |  14.2 |        39 |        +0.06 |         +5.38 |
-|  299 | Charles Denby             |  14.2 |         5 |              |               |
-|  300 | Neil Sachs                |  14.1 |        12 |              |               |
-|  301 | Rupert Myers              |  14.0 |        27 |              |         +0.63 |
-|  302 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  303 | Mekoce Walker             |  13.8 |        38 |              |               |
-|  304 | Gurj Johal                |  13.8 |         2 |              |               |
-|  305 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  306 | Tim Browning              |  13.8 |         7 |        -0.66 |               |
-|  307 | Josephine Lee             |  13.7 |         6 |              |               |
-|  308 | Roberto Gonzalez          |  13.6 |         1 |              |               |
+|  186 | Roberto Gonzalez          |  19.2 |         2 |              |               |
+|  187 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  188 | John Corcoran             |  19.1 |        49 |              |               |
+|  189 | Kedar Shah                |  19.1 |         9 |              |               |
+|  190 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  191 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  192 | Yating Liu                |  19.0 |         7 |              |               |
+|  193 | Ronald Dahl               |  18.9 |        51 |              |         -0.26 |
+|  194 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  195 | Shaun Lim                 |  18.9 |        54 |              |         +0.35 |
+|  196 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  197 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  198 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  199 | Peter Dering              |  18.7 |         9 |              |               |
+|  200 | Dror Matalon              |  18.7 |       367 |              |         +0.50 |
+|  201 | Sushant Jain              |  18.7 |        12 |              |               |
+|  202 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  203 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  204 | Allan Sly                 |  18.6 |        29 |              |               |
+|  205 | Jason Facchin             |  18.5 |         3 |              |               |
+|  206 | Yan Liu                   |  18.5 |        10 |              |               |
+|  207 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  208 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  209 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  210 | John Eng                  |  18.4 |        28 |              |               |
+|  211 | Natalie Leung             |  18.4 |         1 |              |               |
+|  212 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  213 | Kenny Bell                |  18.2 |       124 |              |         +0.16 |
+|  214 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  215 | Eric Borden               |  18.2 |        41 |              |         +2.08 |
+|  216 | Bob Roller                |  18.2 |         6 |              |               |
+|  217 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  218 | James Chung               |  17.9 |         7 |              |               |
+|  219 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  220 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
+|  221 | Nick Paget                |  17.8 |        35 |              |               |
+|  222 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  223 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  224 | George Roche              |  17.7 |        14 |              |               |
+|  225 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  226 | Josh Trauner              |  17.6 |        51 |        +0.07 |         +0.49 |
+|  227 | Subrato Dey               |  17.5 |        26 |              |         +2.32 |
+|  228 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  229 | Wayne Heiser              |  17.4 |        44 |              |         +4.60 |
+|  230 | Sam Trachtman             |  17.4 |         5 |              |         +3.91 |
+|  231 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  232 | Craig Riddell             |  17.4 |         8 |              |               |
+|  233 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  234 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  235 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  236 | Zach Brown                |  17.3 |         3 |              |               |
+|  237 | William Seles             |  17.2 |        15 |              |               |
+|  238 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  239 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  240 | Lucas Cheon               |  17.2 |        19 |              |               |
+|  241 | David Bratt               |  17.1 |        26 |        -0.23 |         +0.67 |
+|  242 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  243 | Neil Conway               |  17.0 |        55 |              |               |
+|  244 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  245 | Baxter Leman              |  16.9 |         6 |              |               |
+|  246 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  247 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  248 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  249 | David Shabelman           |  16.7 |        30 |              |               |
+|  250 | Sahar Sareminaeni         |  16.6 |        24 |        +0.86 |               |
+|  251 | Mark Priven               |  16.6 |        72 |              |               |
+|  252 | William Coleman           |  16.5 |        48 |              |               |
+|  253 | Mike Troxell              |  16.5 |         8 |              |               |
+|  254 | Ankur Dave                |  16.5 |        65 |        +0.19 |         +6.97 |
+|  255 | Chris Flores              |  16.5 |       313 |        +0.10 |         -0.87 |
+|  256 | Danish Mir                |  16.4 |         1 |              |               |
+|  257 | Paul Chang                |  16.3 |         7 |              |               |
+|  258 | Steven Hahm               |  16.3 |         5 |              |               |
+|  259 | Jules Bowie               |  16.3 |        12 |              |               |
+|  260 | Wladislaw Ellis           |  16.2 |        29 |              |               |
+|  261 | Jan Strasky               |  16.2 |        12 |              |               |
+|  262 | Sarah Mcneil              |  16.2 |        24 |              |               |
+|  263 | Marc Bensadoun            |  16.1 |         5 |              |               |
+|  264 | Terry Chang               |  15.8 |        48 |              |         +0.05 |
+|  265 | Louis Russell             |  15.8 |        20 |              |               |
+|  266 | Rich Shapiro              |  15.8 |        82 |              |               |
+|  267 | Jared Nunn                |  15.7 |         5 |              |               |
+|  268 | Akash Sharma              |  15.7 |         8 |              |               |
+|  269 | Angie Ng                  |  15.7 |        12 |              |               |
+|  270 | Tanit Follett             |  15.5 |         8 |              |               |
+|  271 | Toni Queck                |  15.5 |        20 |              |               |
+|  272 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  273 | Peter Duerr               |  15.4 |        24 |              |               |
+|  274 | Kevin Fox                 |  15.3 |         7 |              |               |
+|  275 | James Grant               |  15.2 |         8 |              |               |
+|  276 | Jim Evans                 |  15.1 |       216 |              |               |
+|  277 | Dennis Chan               |  15.1 |         1 |              |               |
+|  278 | Allie Giovanelli          |  15.0 |         4 |              |               |
+|  279 | Patrick Baylis            |  15.0 |        12 |              |               |
+|  280 | Diego Butrich             |  15.0 |        10 |              |               |
+|  281 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  282 | Mimi Zhang                |  14.9 |         6 |              |               |
+|  283 | Jeff Dorman               |  14.9 |        14 |              |               |
+|  284 | Kent Daniels              |  14.9 |       102 |        -0.15 |         -0.31 |
+|  285 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  286 | Paul Norberg              |  14.8 |         8 |              |               |
+|  287 | Frederick Bayles          |  14.8 |         8 |              |               |
+|  288 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  289 | David Elfant              |  14.7 |         2 |              |               |
+|  290 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  291 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  292 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  293 | Shai Vardi                |  14.5 |         4 |              |               |
+|  294 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  295 | Max Woodworth             |  14.4 |         7 |              |               |
+|  296 | Juliet Shih               |  14.4 |        11 |              |               |
+|  297 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  298 | Adam Soliman              |  14.2 |        32 |              |               |
+|  299 | Nikhil Paranjape          |  14.2 |        39 |        +0.06 |         +5.38 |
+|  300 | Charles Denby             |  14.2 |         5 |              |               |
+|  301 | Neil Sachs                |  14.1 |        12 |              |               |
+|  302 | Rupert Myers              |  14.0 |        27 |              |         +0.63 |
+|  303 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
+|  304 | Mekoce Walker             |  13.8 |        38 |              |               |
+|  305 | Gurj Johal                |  13.8 |         2 |              |               |
+|  306 | Freeden Ouer              |  13.8 |         1 |              |               |
+|  307 | Tim Browning              |  13.8 |         7 |        -0.66 |               |
+|  308 | Josephine Lee             |  13.7 |         6 |              |               |
 |  309 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  310 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  311 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -467,54 +467,55 @@ Generated 2017-03-23.
 |  463 | Jonathan Vogel            |   1.3 |         7 |              |               |
 |  464 | Hobson Brown              |   1.3 |         1 |              |               |
 |  465 | Milind Sanghavi           |   1.3 |         1 |              |               |
-|  466 | Tom Joseph                |   1.3 |         2 |              |               |
-|  467 | Alexandra Harmon          |   1.3 |         3 |              |               |
-|  468 | Michael Mann              |   1.1 |         4 |              |               |
-|  469 | Marco Eres                |   1.0 |         5 |              |         +5.34 |
-|  470 | Alex Kaplan               |   0.8 |         8 |              |               |
-|  471 | Daniel Wissmann           |   0.7 |         2 |        +2.41 |               |
-|  472 | Alfonso Rojas             |   0.6 |         8 |              |               |
-|  473 | Ben Geller                |   0.6 |         4 |              |               |
-|  474 | Seth Garz                 |   0.6 |         1 |              |               |
-|  475 | James Aylott              |   0.6 |         3 |              |               |
-|  476 | Ashley Mercer             |   0.5 |         5 |              |               |
-|  477 | Laurie Choi               |   0.5 |         2 |              |               |
-|  478 | Anne Iversen              |   0.4 |         3 |              |               |
-|  479 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  480 | Stuart Fox                |   0.2 |         1 |              |               |
-|  481 | Hannah Hagen              |   0.2 |         4 |              |               |
-|  482 | Rachel Chiu               |   0.1 |         2 |              |               |
-|  483 | Sandra Harpster           |  -0.1 |         5 |              |         -0.12 |
-|  484 | Stephen Garden            |  -0.2 |         2 |              |               |
-|  485 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
-|  486 | Wyss Roman                |  -0.3 |         2 |              |               |
-|  487 | Jane Pan                  |  -0.4 |         1 |              |               |
-|  488 | Enrico Moretti            |  -0.4 |         1 |              |               |
-|  489 | Sumit Gupta               |  -0.4 |         1 |              |               |
-|  490 | Greg Rybka                |  -0.4 |         4 |              |               |
-|  491 | Klim Efremenko            |  -0.5 |         4 |              |               |
-|  492 | Rabin Patra               |  -0.5 |         2 |              |               |
-|  493 | Mikolaj Oettingen         |  -0.5 |         3 |              |               |
-|  494 | Aubrey Shick              |  -0.5 |        30 |              |               |
-|  495 | Lev Marquis               |  -0.6 |         5 |              |               |
-|  496 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  497 | Duncan MacRae             |  -0.7 |        18 |        -0.29 |               |
-|  498 | Rodrigo Lasheras          |  -1.1 |         2 |              |               |
-|  499 | Matthew Flairty           |  -1.4 |         2 |              |               |
-|  500 | Nick Firmani              |  -1.6 |         3 |              |               |
-|  501 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
-|  502 | Judah Purcell             |  -2.2 |         1 |              |               |
-|  503 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
-|  504 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
-|  505 | James Redfield            |  -2.9 |         3 |              |               |
-|  506 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  507 | Vipul Gupta               |  -3.2 |         2 |              |               |
-|  508 | Padma Maitland            |  -3.5 |         4 |              |         +2.67 |
-|  509 | Yifan Wu                  |  -3.6 |         5 |              |               |
-|  510 | Tin Do                    |  -4.0 |         1 |              |               |
-|  511 | Susan Grand               |  -4.3 |         3 |              |               |
-|  512 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
-|  513 | Sara Green                |  -5.8 |         1 |              |               |
-|  514 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  515 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  516 | Navarun Jain              | -12.3 |         2 |              |               |
+|  466 | Sumit Gupta               |   1.3 |         1 |              |               |
+|  467 | Tom Joseph                |   1.3 |         2 |              |               |
+|  468 | Alexandra Harmon          |   1.3 |         3 |              |               |
+|  469 | Michael Mann              |   1.1 |         4 |              |               |
+|  470 | Marco Eres                |   1.0 |         5 |              |         +5.34 |
+|  471 | Alex Kaplan               |   0.8 |         8 |              |               |
+|  472 | Daniel Wissmann           |   0.7 |         2 |        +2.41 |               |
+|  473 | Alfonso Rojas             |   0.6 |         8 |              |               |
+|  474 | Ben Geller                |   0.6 |         4 |              |               |
+|  475 | Seth Garz                 |   0.6 |         1 |              |               |
+|  476 | James Aylott              |   0.6 |         3 |              |               |
+|  477 | Ashley Mercer             |   0.5 |         5 |              |               |
+|  478 | Laurie Choi               |   0.5 |         2 |              |               |
+|  479 | Anne Iversen              |   0.4 |         3 |              |               |
+|  480 | Nathaniel Rice            |   0.4 |         3 |              |               |
+|  481 | Stuart Fox                |   0.2 |         1 |              |               |
+|  482 | Hannah Hagen              |   0.2 |         4 |              |               |
+|  483 | Rachel Chiu               |   0.1 |         2 |              |               |
+|  484 | Sandra Harpster           |  -0.1 |         5 |              |         -0.12 |
+|  485 | Stephen Garden            |  -0.2 |         2 |              |               |
+|  486 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
+|  487 | Wyss Roman                |  -0.3 |         2 |              |               |
+|  488 | Jane Pan                  |  -0.4 |         1 |              |               |
+|  489 | Norman Bonney             |  -0.4 |         1 |              |               |
+|  490 | Enrico Moretti            |  -0.4 |         1 |              |               |
+|  491 | Greg Rybka                |  -0.4 |         4 |              |               |
+|  492 | Klim Efremenko            |  -0.5 |         4 |              |               |
+|  493 | Rabin Patra               |  -0.5 |         2 |              |               |
+|  494 | Mikolaj Oettingen         |  -0.5 |         3 |              |               |
+|  495 | Aubrey Shick              |  -0.5 |        30 |              |               |
+|  496 | Lev Marquis               |  -0.6 |         5 |              |               |
+|  497 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
+|  498 | Duncan MacRae             |  -0.7 |        18 |        -0.29 |               |
+|  499 | Rodrigo Lasheras          |  -1.1 |         2 |              |               |
+|  500 | Matthew Flairty           |  -1.4 |         2 |              |               |
+|  501 | Nick Firmani              |  -1.6 |         3 |              |               |
+|  502 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |
+|  503 | Judah Purcell             |  -2.2 |         1 |              |               |
+|  504 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
+|  505 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
+|  506 | James Redfield            |  -2.9 |         3 |              |               |
+|  507 | Jenny Cheng               |  -3.2 |         1 |              |               |
+|  508 | Vipul Gupta               |  -3.2 |         2 |              |               |
+|  509 | Padma Maitland            |  -3.5 |         4 |              |         +2.67 |
+|  510 | Yifan Wu                  |  -3.6 |         5 |              |               |
+|  511 | Tin Do                    |  -4.0 |         1 |              |               |
+|  512 | Susan Grand               |  -4.3 |         3 |              |               |
+|  513 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
+|  514 | Sara Green                |  -5.8 |         1 |              |               |
+|  515 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  516 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  517 | Navarun Jain              | -12.3 |         2 |              |               |
