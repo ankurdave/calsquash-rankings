@@ -39,26 +39,28 @@ Generated 2017-03-22.
 |   35 | Kent Daniels       |  15.0 |       102 |        -0.03 |         -0.19 |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
 |   37 | Nikhil Paranjape   |  14.2 |        39 |        +0.08 |         +5.40 |
-|   38 | Tim Browning       |  13.5 |         6 |        -0.97 |               |
-|   39 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
-|   40 | Sergey Dobrinov    |  12.2 |        12 |        -0.79 |               |
-|   41 | Meldan Heaslip     |  11.7 |        20 |        +0.70 |               |
-|   42 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |
-|   43 | Josh Lebowitz      |  10.9 |        39 |        +0.03 |        +11.62 |
-|   44 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
-|   45 | Raphael Magarik    |   9.9 |        21 |              |               |
-|   46 | Duo Wang           |   8.9 |        69 |        +0.07 |         -0.05 |
-|   47 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
-|   48 | Craig Hollow       |   7.8 |        13 |        +1.93 |               |
-|   49 | Janeau Janssen     |   7.7 |         8 |        +2.08 |               |
-|   50 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   51 | Avi Flamholz       |   4.7 |         1 |              |               |
-|   52 | Jose Lara          |   4.5 |        11 |              |               |
-|   53 | Zsolt Bartha       |   4.3 |        52 |        -0.05 |         +0.50 |
-|   54 | Daniel Wissmann    |   0.7 |         2 |        +2.41 |               |
-|   55 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
-|   56 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
-|   57 | Vipul Gupta        |  -3.2 |         2 |              |               |
-|   58 | Yifan Wu           |  -3.6 |         5 |              |               |
-|   59 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
-|   60 | Navarun Jain       | -12.3 |         2 |              |               |
+|   38 | Roberto Gonzalez   |  13.6 |         1 |              |               |
+|   39 | Tim Browning       |  13.5 |         6 |        -0.97 |               |
+|   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
+|   41 | Sergey Dobrinov    |  12.2 |        12 |        -0.79 |               |
+|   42 | Meldan Heaslip     |  11.7 |        20 |        +0.70 |               |
+|   43 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |
+|   44 | Josh Lebowitz      |  10.9 |        39 |        +0.03 |        +11.62 |
+|   45 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
+|   46 | Raphael Magarik    |   9.9 |        21 |              |               |
+|   47 | Duo Wang           |   8.9 |        69 |        +0.07 |         -0.05 |
+|   48 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
+|   49 | Craig Hollow       |   7.8 |        13 |        +1.93 |               |
+|   50 | Janeau Janssen     |   7.7 |         8 |        +2.08 |               |
+|   51 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
+|   52 | Avi Flamholz       |   4.7 |         1 |              |               |
+|   53 | Jose Lara          |   4.5 |        11 |              |               |
+|   54 | Zsolt Bartha       |   4.3 |        52 |        -0.05 |         +0.50 |
+|   55 | Daniel Wissmann    |   0.7 |         2 |        +2.41 |               |
+|   56 | Sumit Gupta        |  -0.4 |         1 |              |               |
+|   57 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
+|   58 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
+|   59 | Vipul Gupta        |  -3.2 |         2 |              |               |
+|   60 | Yifan Wu           |  -3.6 |         5 |              |               |
+|   61 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
+|   62 | Navarun Jain       | -12.3 |         2 |              |               |
