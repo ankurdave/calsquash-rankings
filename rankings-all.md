@@ -135,7 +135,7 @@ Generated 2017-03-22.
 |  131 | Phin Lee                  |  21.7 |        16 |              |               |
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  133 | Dante Popple              |  21.5 |        17 |              |               |
-|  134 | Jared Bard                |  21.3 |        44 |        +0.03 |         +0.05 |
+|  134 | Jared Bard                |  21.5 |        45 |        +0.18 |         +0.19 |
 |  135 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  136 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  137 | Adam Jacob                |  21.3 |         3 |              |               |
@@ -161,8 +161,8 @@ Generated 2017-03-22.
 |  157 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
 |  158 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  159 | Andrew Green              |  20.5 |        52 |              |               |
-|  160 | Mark Modera               |  20.5 |       324 |        -0.20 |         -0.75 |
-|  161 | Steven Sloman             |  20.4 |        10 |              |               |
+|  160 | Steven Sloman             |  20.4 |        10 |              |               |
+|  161 | Mark Modera               |  20.4 |       325 |        -0.32 |         -0.86 |
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.50 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  164 | Carl Schreck              |  20.2 |         2 |              |               |

@@ -16,11 +16,11 @@ Generated 2017-03-22.
 |   12 | Dan Bohn           |  23.0 |        90 |        -0.10 |         -0.79 |
 |   13 | Dan Meier          |  22.6 |        62 |        -0.09 |         +0.52 |
 |   14 | Jonathan Hankar    |  22.3 |       199 |        -0.10 |         +0.66 |
-|   15 | Jared Bard         |  21.3 |        44 |        +0.03 |         +0.05 |
+|   15 | Jared Bard         |  21.5 |        45 |        +0.18 |         +0.19 |
 |   16 | Marc Schechter     |  21.3 |        11 |        +1.46 |               |
 |   17 | Reid Johnsen       |  21.3 |        48 |        +0.10 |         -0.50 |
 |   18 | Shrinu Kushagra    |  21.2 |         5 |        +2.75 |               |
-|   19 | Mark Modera        |  20.5 |       324 |        -0.20 |         -0.75 |
+|   19 | Mark Modera        |  20.4 |       325 |        -0.32 |         -0.86 |
 |   20 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
 |   21 | Robert Schwartz    |  20.0 |        84 |        -0.39 |         -1.20 |
 |   22 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
