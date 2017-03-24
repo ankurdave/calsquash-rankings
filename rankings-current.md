@@ -33,16 +33,16 @@ Generated 2017-03-23.
 |   29 | Josh Trauner       |  17.6 |        51 |        +0.07 |         +0.49 |
 |   30 | Wayne Heiser       |  17.4 |        44 |              |         +4.60 |
 |   31 | David Bratt        |  17.1 |        26 |        -0.23 |         +0.67 |
-|   32 | Sahar Sareminaeni  |  16.6 |        24 |        +0.86 |               |
+|   32 | Sahar Sareminaeni  |  16.8 |        25 |        +1.05 |               |
 |   33 | Ankur Dave         |  16.5 |        65 |        +0.19 |         +6.97 |
 |   34 | Chris Flores       |  16.5 |       313 |        +0.10 |         -0.87 |
 |   35 | James Grant        |  15.2 |         8 |              |               |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
-|   37 | Kent Daniels       |  14.9 |       102 |        -0.15 |         -0.31 |
-|   38 | Nikhil Paranjape   |  14.2 |        39 |        +0.06 |         +5.38 |
+|   37 | Kent Daniels       |  14.8 |       103 |        -0.22 |         -0.39 |
+|   38 | Nikhil Paranjape   |  14.2 |        39 |        +0.07 |         +5.39 |
 |   39 | Tim Browning       |  13.8 |         7 |        -0.66 |               |
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
-|   41 | Sergey Dobrinov    |  12.4 |        12 |        -0.59 |               |
+|   41 | Sergey Dobrinov    |  12.4 |        12 |        -0.58 |               |
 |   42 | Meldan Heaslip     |  12.1 |        21 |        +1.10 |               |
 |   43 | Karan Goyal        |  11.4 |         6 |       +10.10 |               |
 |   44 | Josh Lebowitz      |  10.9 |        39 |        +0.03 |        +11.62 |

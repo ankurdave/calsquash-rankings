@@ -248,10 +248,10 @@ Generated 2017-03-23.
 |  244 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  245 | Baxter Leman              |  16.9 |         6 |              |               |
 |  246 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  247 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  248 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  249 | David Shabelman           |  16.7 |        30 |              |               |
-|  250 | Sahar Sareminaeni         |  16.6 |        24 |        +0.86 |               |
+|  247 | Sahar Sareminaeni         |  16.8 |        25 |        +1.05 |               |
+|  248 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  249 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  250 | David Shabelman           |  16.7 |        30 |              |               |
 |  251 | Mark Priven               |  16.6 |        72 |              |               |
 |  252 | William Coleman           |  16.5 |        48 |              |               |
 |  253 | Mike Troxell              |  16.5 |         8 |              |               |
@@ -285,8 +285,8 @@ Generated 2017-03-23.
 |  281 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
 |  282 | Mimi Zhang                |  14.9 |         6 |              |               |
 |  283 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  284 | Kent Daniels              |  14.9 |       102 |        -0.15 |         -0.31 |
-|  285 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  284 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  285 | Kent Daniels              |  14.8 |       103 |        -0.22 |         -0.39 |
 |  286 | Paul Norberg              |  14.8 |         8 |              |               |
 |  287 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  288 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
@@ -300,7 +300,7 @@ Generated 2017-03-23.
 |  296 | Juliet Shih               |  14.4 |        11 |              |               |
 |  297 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  298 | Adam Soliman              |  14.2 |        32 |              |               |
-|  299 | Nikhil Paranjape          |  14.2 |        39 |        +0.06 |         +5.38 |
+|  299 | Nikhil Paranjape          |  14.2 |        39 |        +0.07 |         +5.39 |
 |  300 | Charles Denby             |  14.2 |         5 |              |               |
 |  301 | Neil Sachs                |  14.1 |        12 |              |               |
 |  302 | Rupert Myers              |  14.0 |        27 |              |         +0.63 |
@@ -329,7 +329,7 @@ Generated 2017-03-23.
 |  325 | Richard Fabini            |  12.4 |         3 |              |               |
 |  326 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
 |  327 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
-|  328 | Sergey Dobrinov           |  12.4 |        12 |        -0.59 |               |
+|  328 | Sergey Dobrinov           |  12.4 |        12 |        -0.58 |               |
 |  329 | John Givens               |  12.2 |        13 |              |               |
 |  330 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  331 | Meldan Heaslip            |  12.1 |        21 |        +1.10 |               |
