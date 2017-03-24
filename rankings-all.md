@@ -165,11 +165,11 @@ Generated 2017-03-23.
 |  161 | Mark Modera               |  20.4 |       325 |        -0.32 |         -0.86 |
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.50 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  164 | Carl Schreck              |  20.2 |         2 |              |               |
-|  165 | John Grim                 |  20.1 |        13 |              |               |
-|  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  167 | Frank Kennan              |  20.1 |        11 |              |               |
-|  168 | Robert Schwartz           |  20.0 |        84 |        -0.39 |         -1.20 |
+|  164 | Robert Schwartz           |  20.2 |        85 |        -0.23 |         -1.04 |
+|  165 | Carl Schreck              |  20.2 |         2 |              |               |
+|  166 | John Grim                 |  20.1 |        13 |              |               |
+|  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  168 | Frank Kennan              |  20.1 |        11 |              |               |
 |  169 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  170 | Mike Jensen-Akula         |  20.0 |       221 |              |         -1.63 |
 |  171 | Jonathan Francis          |  20.0 |        76 |              |         +0.45 |
@@ -196,7 +196,7 @@ Generated 2017-03-23.
 |  192 | Yating Liu                |  19.0 |         7 |              |               |
 |  193 | Ronald Dahl               |  18.9 |        51 |              |         -0.26 |
 |  194 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  195 | Shaun Lim                 |  18.9 |        54 |              |         +0.35 |
+|  195 | Shaun Lim                 |  18.9 |        54 |        +0.01 |         +0.36 |
 |  196 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  197 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  198 | Arbi Vartan               |  18.7 |        20 |              |               |
@@ -227,10 +227,10 @@ Generated 2017-03-23.
 |  223 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  224 | George Roche              |  17.7 |        14 |              |               |
 |  225 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  226 | Josh Trauner              |  17.6 |        51 |        +0.07 |         +0.49 |
-|  227 | Subrato Dey               |  17.5 |        26 |              |         +2.32 |
-|  228 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  229 | Wayne Heiser              |  17.4 |        44 |              |         +4.60 |
+|  226 | Subrato Dey               |  17.5 |        26 |              |         +2.32 |
+|  227 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  228 | Wayne Heiser              |  17.4 |        44 |              |         +4.60 |
+|  229 | Josh Trauner              |  17.4 |        52 |        -0.11 |         +0.31 |
 |  230 | Sam Trachtman             |  17.4 |         5 |              |         +3.91 |
 |  231 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  232 | Craig Riddell             |  17.4 |         8 |              |               |
@@ -256,7 +256,7 @@ Generated 2017-03-23.
 |  252 | William Coleman           |  16.5 |        48 |              |               |
 |  253 | Mike Troxell              |  16.5 |         8 |              |               |
 |  254 | Ankur Dave                |  16.5 |        65 |        +0.19 |         +6.97 |
-|  255 | Chris Flores              |  16.5 |       313 |        +0.10 |         -0.87 |
+|  255 | Chris Flores              |  16.5 |       313 |        +0.09 |         -0.88 |
 |  256 | Danish Mir                |  16.4 |         1 |              |               |
 |  257 | Paul Chang                |  16.3 |         7 |              |               |
 |  258 | Steven Hahm               |  16.3 |         5 |              |               |
