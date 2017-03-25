@@ -1,4 +1,4 @@
-Generated 2017-03-24.
+Generated 2017-03-25.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -26,7 +26,7 @@ Generated 2017-03-24.
 |   22 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
 |   23 | Jaime Perez        |  19.5 |        28 |        +0.30 |         +1.00 |
 |   24 | Roberto Gonzalez   |  19.2 |         2 |              |               |
-|   25 | Shaun Lim          |  18.9 |        54 |        +0.01 |         +0.36 |
+|   25 | Shaun Lim          |  19.1 |        55 |        +0.22 |         +0.57 |
 |   26 | Dror Matalon       |  18.7 |       367 |              |         +0.50 |
 |   27 | Eric Borden        |  18.2 |        41 |              |         +2.08 |
 |   28 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
@@ -35,7 +35,7 @@ Generated 2017-03-24.
 |   31 | David Bratt        |  17.1 |        26 |        -0.23 |         +0.67 |
 |   32 | Sahar Sareminaeni  |  16.8 |        25 |        +1.05 |               |
 |   33 | Ankur Dave         |  16.5 |        65 |        +0.19 |         +6.97 |
-|   34 | Chris Flores       |  16.5 |       313 |        +0.09 |         -0.88 |
+|   34 | Chris Flores       |  16.3 |       314 |        -0.09 |         -1.06 |
 |   35 | James Grant        |  15.2 |         8 |              |               |
 |   36 | Diego Butrich      |  15.0 |        10 |              |               |
 |   37 | Kent Daniels       |  14.8 |       103 |        -0.22 |         -0.39 |
@@ -53,15 +53,15 @@ Generated 2017-03-24.
 |   49 | Brian Kempenich    |   8.0 |        43 |              |         -1.21 |
 |   50 | Janeau Janssen     |   7.7 |         8 |        +2.08 |               |
 |   51 | Alok Singh         |   6.5 |        18 |              |         +7.28 |
-|   52 | Avi Flamholz       |   4.7 |         1 |              |               |
-|   53 | Jose Lara          |   4.5 |        11 |              |               |
+|   52 | Jose Lara          |   5.8 |        12 |        +1.25 |               |
+|   53 | Avi Flamholz       |   4.7 |         1 |              |               |
 |   54 | Zsolt Bartha       |   4.3 |        52 |        -0.05 |         +0.50 |
-|   55 | Sumit Gupta        |   1.3 |         1 |              |               |
-|   56 | Daniel Wissmann    |   0.7 |         2 |        +2.41 |               |
-|   57 | Norman Bonney      |  -0.4 |         1 |              |               |
-|   58 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
-|   59 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
-|   60 | Vipul Gupta        |  -3.2 |         2 |              |               |
+|   55 | Daniel Wissmann    |   0.7 |         2 |        +2.41 |               |
+|   56 | Norman Bonney      |  -0.4 |         1 |              |               |
+|   57 | Duncan MacRae      |  -0.7 |        18 |        -0.29 |               |
+|   58 | Rodrigo Lasheras   |  -1.1 |         2 |              |               |
+|   59 | Vipul Gupta        |  -3.2 |         2 |              |               |
+|   60 | Sumit Gupta        |  -3.2 |         2 |              |               |
 |   61 | Yifan Wu           |  -3.6 |         5 |              |               |
 |   62 | Seobin Jung        |  -5.7 |         7 |              |         -2.76 |
 |   63 | Navarun Jain       | -12.3 |         2 |              |               |
