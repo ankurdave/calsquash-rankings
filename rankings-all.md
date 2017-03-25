@@ -1,4 +1,4 @@
-Generated 2017-03-23.
+Generated 2017-03-24.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -100,9 +100,9 @@ Generated 2017-03-23.
 |   96 | Amy Lee                   |  23.6 |        56 |              |               |
 |   97 | Garvin Heath              |  23.4 |        28 |              |               |
 |   98 | Daniel Greengard          |  23.1 |        37 |              |               |
-|   99 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|  100 | Joe Farrell               |  23.0 |        30 |              |               |
-|  101 | Dan Bohn                  |  23.0 |        90 |        -0.10 |         -0.79 |
+|   99 | Dan Bohn                  |  23.1 |        91 |        +0.03 |         -0.65 |
+|  100 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|  101 | Joe Farrell               |  23.0 |        30 |              |               |
 |  102 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  103 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  104 | Bhuvan Jain               |  22.7 |        18 |              |               |
@@ -113,9 +113,9 @@ Generated 2017-03-23.
 |  109 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  110 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  111 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  112 | Jonathan Hankar           |  22.3 |       199 |        -0.10 |         +0.66 |
-|  113 | Robert Geiger             |  22.2 |         8 |              |               |
-|  114 | Aaron Socha               |  22.2 |        24 |              |               |
+|  112 | Robert Geiger             |  22.2 |         8 |              |               |
+|  113 | Aaron Socha               |  22.2 |        24 |              |               |
+|  114 | Jonathan Hankar           |  22.2 |       200 |        -0.23 |         +0.54 |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  116 | Thomas Littleton          |  22.1 |         3 |              |               |
 |  117 | Dennis Dornan             |  22.1 |        12 |              |               |
