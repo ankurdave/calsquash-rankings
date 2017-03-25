@@ -66,26 +66,26 @@ Generated 2017-03-25.
 |   62 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   63 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   64 | Orion Hodson              |  24.8 |        31 |              |               |
-|   65 | John Kunze                |  24.7 |       317 |        +0.09 |         -0.07 |
-|   66 | Martin Stokes             |  24.7 |        12 |              |               |
-|   67 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   65 | Martin Stokes             |  24.7 |        12 |              |               |
+|   66 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   68 | John Kunze                |  24.5 |       318 |        -0.08 |         -0.24 |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
 |   71 | Jon Shih                  |  24.4 |        47 |              |               |
 |   72 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   73 | Jim Veitch                |  24.3 |       447 |        -0.19 |         -2.32 |
-|   74 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   75 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   76 | Lakshya Rustagi           |  24.2 |         2 |              |               |
-|   77 | Toby Reiner               |  24.2 |       159 |              |               |
-|   78 | Himanshu Jatia            |  24.2 |         4 |              |               |
-|   79 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   80 | Robert Jeng               |  24.1 |        26 |              |               |
-|   81 | Vyas Sekar                |  24.1 |        17 |              |               |
-|   82 | Benjamin Vicuna           |  24.1 |        50 |              |         +0.57 |
-|   83 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   84 | Sam McCormick             |  24.1 |        28 |        +0.40 |         +3.45 |
+|   73 | Sam McCormick             |  24.3 |        29 |        +0.68 |         +3.73 |
+|   74 | Jim Veitch                |  24.3 |       447 |        -0.19 |         -2.32 |
+|   75 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   76 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   77 | Lakshya Rustagi           |  24.2 |         2 |              |               |
+|   78 | Toby Reiner               |  24.2 |       159 |              |               |
+|   79 | Himanshu Jatia            |  24.2 |         4 |              |               |
+|   80 | Matthew Elliott           |  24.2 |         7 |              |               |
+|   81 | Robert Jeng               |  24.1 |        26 |              |               |
+|   82 | Vyas Sekar                |  24.1 |        17 |              |               |
+|   83 | Benjamin Vicuna           |  24.1 |        50 |              |         +0.57 |
+|   84 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   85 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   86 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   87 | Glenn Forrester           |  23.9 |       355 |              |         -0.12 |
