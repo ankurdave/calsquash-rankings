@@ -24,8 +24,8 @@ Generated 2017-03-25.
 |   20 | David Wood                |  29.7 |        43 |              |               |
 |   21 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   22 | Tiko Shah                 |  29.3 |       198 |              |               |
-|   23 | Jehan Engineer            |  29.2 |         9 |              |               |
-|   24 | Sam Sternberg             |  29.2 |       143 |        -0.06 |         -0.05 |
+|   23 | Sam Sternberg             |  29.3 |       144 |        +0.05 |         +0.07 |
+|   24 | Jehan Engineer            |  29.2 |         9 |              |               |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
 |   27 | Ali Rahim                 |  28.4 |        24 |              |               |
@@ -89,9 +89,9 @@ Generated 2017-03-25.
 |   85 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   86 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   87 | Glenn Forrester           |  23.9 |       355 |              |         -0.12 |
-|   88 | Matt Wong                 |  23.9 |        87 |        -0.08 |         +2.27 |
-|   89 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   90 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   88 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   89 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   90 | Matt Wong                 |  23.8 |        88 |        -0.20 |         +2.15 |
 |   91 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
 |   92 | Matt Waid                 |  23.7 |        51 |              |               |
 |   93 | Sonesh Surana             |  23.7 |        95 |              |               |
