@@ -1,4 +1,4 @@
-Generated 2017-03-25.
+Generated 2017-03-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -69,13 +69,13 @@ Generated 2017-03-25.
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
 |   66 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   68 | John Kunze                |  24.5 |       318 |        -0.08 |         -0.24 |
+|   68 | John Kunze                |  24.5 |       319 |        -0.05 |         -0.21 |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
 |   71 | Jon Shih                  |  24.4 |        47 |              |               |
 |   72 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   73 | Sam McCormick             |  24.3 |        29 |        +0.68 |         +3.73 |
-|   74 | Jim Veitch                |  24.3 |       447 |        -0.19 |         -2.32 |
+|   73 | Jim Veitch                |  24.3 |       447 |        -0.17 |         -2.30 |
+|   74 | Sam McCormick             |  24.3 |        29 |        +0.69 |         +3.74 |
 |   75 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   76 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   77 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -96,7 +96,7 @@ Generated 2017-03-25.
 |   92 | Matt Waid                 |  23.7 |        51 |              |               |
 |   93 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   94 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   95 | Matt Wild                 |  23.6 |        29 |        -0.30 |         +0.63 |
+|   95 | Matt Wild                 |  23.6 |        30 |        -0.32 |         +0.62 |
 |   96 | Amy Lee                   |  23.6 |        56 |              |               |
 |   97 | Garvin Heath              |  23.4 |        28 |              |               |
 |   98 | Daniel Greengard          |  23.1 |        37 |              |               |
@@ -143,9 +143,9 @@ Generated 2017-03-25.
 |  139 | Marc Schechter            |  21.3 |        11 |        +1.46 |               |
 |  140 | Reid Johnsen              |  21.3 |        48 |        +0.10 |         -0.50 |
 |  141 | Casey Harelson            |  21.2 |        20 |              |               |
-|  142 | Shrinu Kushagra           |  21.2 |         5 |        +2.75 |               |
-|  143 | Philip Bildner            |  21.2 |        22 |              |               |
-|  144 | Darren Morgan             |  21.2 |        11 |              |               |
+|  142 | Philip Bildner            |  21.2 |        22 |              |               |
+|  143 | Darren Morgan             |  21.2 |        11 |              |               |
+|  144 | Shrinu Kushagra           |  21.1 |         5 |        +2.68 |               |
 |  145 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  146 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  147 | Paz Grimberg              |  21.0 |        17 |              |               |

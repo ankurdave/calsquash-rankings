@@ -1,4 +1,4 @@
-Generated 2017-03-25.
+Generated 2017-03-26.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -8,18 +8,18 @@ Generated 2017-03-25.
 |    4 | Anibhav Singla     |  27.2 |        13 |        +2.31 |               |
 |    5 | Ethan Kerr         |  26.7 |        14 |              |         +1.41 |
 |    6 | Arvind Muralimohan |  25.7 |        18 |              |         +1.44 |
-|    7 | John Kunze         |  24.5 |       318 |        -0.08 |         -0.24 |
-|    8 | Sam McCormick      |  24.3 |        29 |        +0.68 |         +3.73 |
-|    9 | Jim Veitch         |  24.3 |       447 |        -0.19 |         -2.32 |
+|    7 | John Kunze         |  24.5 |       319 |        -0.05 |         -0.21 |
+|    8 | Jim Veitch         |  24.3 |       447 |        -0.17 |         -2.30 |
+|    9 | Sam McCormick      |  24.3 |        29 |        +0.69 |         +3.74 |
 |   10 | Matt Wong          |  23.8 |        88 |        -0.20 |         +2.15 |
-|   11 | Matt Wild          |  23.6 |        29 |        -0.30 |         +0.63 |
+|   11 | Matt Wild          |  23.6 |        30 |        -0.32 |         +0.62 |
 |   12 | Dan Bohn           |  23.1 |        91 |        +0.03 |         -0.65 |
 |   13 | Dan Meier          |  22.6 |        62 |        -0.09 |         +0.52 |
 |   14 | Jonathan Hankar    |  22.2 |       200 |        -0.23 |         +0.54 |
 |   15 | Jared Bard         |  21.5 |        45 |        +0.18 |         +0.19 |
 |   16 | Marc Schechter     |  21.3 |        11 |        +1.46 |               |
 |   17 | Reid Johnsen       |  21.3 |        48 |        +0.10 |         -0.50 |
-|   18 | Shrinu Kushagra    |  21.2 |         5 |        +2.75 |               |
+|   18 | Shrinu Kushagra    |  21.1 |         5 |        +2.68 |               |
 |   19 | Mark Modera        |  20.4 |       325 |        -0.32 |         -0.86 |
 |   20 | Jeff Gordon        |  20.3 |        46 |              |         +2.50 |
 |   21 | Robert Schwartz    |  20.2 |        85 |        -0.23 |         -1.04 |
