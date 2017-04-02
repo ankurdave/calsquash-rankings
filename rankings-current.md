@@ -1,4 +1,4 @@
-Generated 2017-04-01.
+Generated 2017-04-02.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -25,13 +25,13 @@ Generated 2017-04-01.
 |   21 | Robert Schwartz    |  20.2 |        86 |        -0.22 |         -1.03 |
 |   22 | Jonathan Francis   |  20.0 |        76 |              |         +0.45 |
 |   23 | Jaime Perez        |  19.5 |        28 |        +0.30 |         +1.00 |
-|   24 | Shaun Lim          |  19.1 |        56 |        +0.23 |         +0.58 |
+|   24 | Shaun Lim          |  19.2 |        57 |        +0.34 |         +0.69 |
 |   25 | Roberto Gonzalez   |  19.0 |         2 |              |               |
 |   26 | Dror Matalon       |  18.7 |       367 |              |         +0.50 |
 |   27 | Eric Borden        |  18.0 |        42 |        -0.19 |         +1.88 |
 |   28 | Troup Howard       |  17.8 |        47 |              |         +0.19 |
 |   29 | Wayne Heiser       |  17.7 |        45 |        +0.23 |         +4.84 |
-|   30 | Josh Trauner       |  17.3 |        53 |        -0.15 |         +0.27 |
+|   30 | Josh Trauner       |  17.4 |        53 |        -0.14 |         +0.28 |
 |   31 | David Bratt        |  17.2 |        27 |        -0.12 |         +0.77 |
 |   32 | Sahar Sareminaeni  |  16.8 |        25 |        +1.04 |               |
 |   33 | Ankur Dave         |  16.5 |        65 |        +0.19 |         +6.97 |
@@ -44,8 +44,8 @@ Generated 2017-04-01.
 |   40 | Rodrigo Calmet     |  12.4 |         8 |              |         +3.57 |
 |   41 | Sergey Dobrinov    |  12.4 |        12 |        -0.59 |               |
 |   42 | Meldan Heaslip     |  12.1 |        21 |        +1.09 |               |
-|   43 | Karan Goyal        |  11.4 |         6 |       +10.07 |               |
-|   44 | Josh Lebowitz      |  11.1 |        40 |        +0.23 |        +11.82 |
+|   43 | Josh Lebowitz      |  11.1 |        40 |        +0.23 |        +11.82 |
+|   44 | Karan Goyal        |  11.0 |         7 |        +9.72 |               |
 |   45 | Craig Hollow       |  10.5 |        15 |        +4.63 |               |
 |   46 | Nate Aden          |  10.2 |        32 |        +0.04 |        +10.71 |
 |   47 | Raphael Magarik    |   9.4 |        23 |        -0.47 |               |

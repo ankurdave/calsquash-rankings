@@ -1,4 +1,4 @@
-Generated 2017-04-01.
+Generated 2017-04-02.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -187,9 +187,9 @@ Generated 2017-04-01.
 |  183 | Jaime Perez               |  19.5 |        28 |        +0.30 |         +1.00 |
 |  184 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  185 | Greg Adams                |  19.3 |        10 |              |               |
-|  186 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  187 | John Corcoran             |  19.1 |        49 |              |               |
-|  188 | Shaun Lim                 |  19.1 |        56 |        +0.23 |         +0.58 |
+|  186 | Shaun Lim                 |  19.2 |        57 |        +0.34 |         +0.69 |
+|  187 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  188 | John Corcoran             |  19.1 |        49 |              |               |
 |  189 | Kedar Shah                |  19.1 |         9 |              |               |
 |  190 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  191 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -232,9 +232,9 @@ Generated 2017-04-01.
 |  228 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  229 | Sam Trachtman             |  17.4 |         5 |              |         +3.91 |
 |  230 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  231 | Craig Riddell             |  17.4 |         8 |              |               |
-|  232 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  233 | Josh Trauner              |  17.3 |        53 |        -0.15 |         +0.27 |
+|  231 | Josh Trauner              |  17.4 |        53 |        -0.14 |         +0.28 |
+|  232 | Craig Riddell             |  17.4 |         8 |              |               |
+|  233 | Charity Caruthers         |  17.3 |         4 |              |               |
 |  234 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  235 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  236 | Zach Brown                |  17.3 |         3 |              |               |
@@ -345,10 +345,10 @@ Generated 2017-04-01.
 |  341 | David Appelfeld           |  11.6 |        26 |              |               |
 |  342 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  343 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  344 | Karan Goyal               |  11.4 |         6 |       +10.07 |               |
-|  345 | Carlos Filho              |  11.4 |         7 |              |               |
-|  346 | Karan Jain                |  11.3 |        19 |              |               |
-|  347 | Josh Lebowitz             |  11.1 |        40 |        +0.23 |        +11.82 |
+|  344 | Carlos Filho              |  11.4 |         7 |              |               |
+|  345 | Karan Jain                |  11.3 |        19 |              |               |
+|  346 | Josh Lebowitz             |  11.1 |        40 |        +0.23 |        +11.82 |
+|  347 | Karan Goyal               |  11.0 |         7 |        +9.72 |               |
 |  348 | Lucas Siow                |  11.0 |        10 |              |               |
 |  349 | Dominick Ng               |  10.9 |        25 |              |               |
 |  350 | George Bentley            |  10.6 |         4 |              |               |
