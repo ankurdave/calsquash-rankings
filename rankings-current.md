@@ -1,4 +1,4 @@
-Generated 2017-04-02.
+Generated 2017-04-03.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -21,36 +21,37 @@ Generated 2017-04-02.
 |   17 | Reid Johnsen      |  21.3 |        48 |              |         -0.11 |
 |   18 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
 |   19 | Robert Schwartz   |  20.2 |        86 |              |         -1.03 |
-|   20 | Shaun Lim         |  19.2 |        57 |              |         +0.77 |
-|   21 | Roberto Gonzalez  |  19.0 |         2 |              |               |
-|   22 | Dror Matalon      |  18.7 |       367 |              |         +0.50 |
-|   23 | Eric Borden       |  18.0 |        42 |              |         +0.37 |
-|   24 | Wayne Heiser      |  17.7 |        45 |              |         +3.75 |
-|   25 | Josh Trauner      |  17.4 |        53 |              |         +1.03 |
-|   26 | David Bratt       |  17.2 |        27 |              |         +0.77 |
-|   27 | Sahar Sareminaeni |  16.8 |        25 |              |               |
-|   28 | Ankur Dave        |  16.5 |        65 |              |         +5.75 |
-|   29 | Chris Flores      |  16.2 |       315 |              |         -1.11 |
-|   30 | Kent Daniels      |  14.8 |       103 |              |         +0.10 |
-|   31 | Nikhil Paranjape  |  14.2 |        40 |              |         +5.36 |
-|   32 | Sergey Dobrinov   |  12.4 |        12 |              |               |
-|   33 | Meldan Heaslip    |  12.1 |        21 |              |               |
-|   34 | Josh Lebowitz     |  11.1 |        40 |              |         +8.58 |
-|   35 | Karan Goyal       |  11.0 |         7 |              |               |
-|   36 | Craig Hollow      |  10.5 |        15 |              |               |
-|   37 | Nate Aden         |  10.2 |        32 |              |         +3.52 |
-|   38 | Raphael Magarik   |   9.4 |        23 |              |         +7.21 |
-|   39 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
-|   40 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
-|   41 | Janeau Janssen    |   7.7 |         8 |              |               |
-|   42 | Norman Bonney     |   6.6 |         2 |              |               |
-|   43 | Alok Singh        |   6.5 |        18 |              |         +3.31 |
-|   44 | Avi Flamholz      |   6.4 |         3 |              |               |
-|   45 | Jose Lara         |   6.2 |        12 |              |         +0.04 |
-|   46 | Zsolt Bartha      |   4.4 |        53 |              |         -0.17 |
-|   47 | Sumit Gupta       |   2.0 |         3 |              |               |
-|   48 | Daniel Wissmann   |   0.7 |         2 |              |               |
-|   49 | Duncan MacRae     |  -0.7 |        18 |              |               |
-|   50 | Rodrigo Lasheras  |  -1.1 |         2 |              |               |
-|   51 | Vipul Gupta       |  -3.2 |         2 |              |               |
-|   52 | Yifan Wu          |  -4.0 |         7 |              |               |
+|   20 | Mike Jensen-Akula |  20.0 |       221 |              |         -1.70 |
+|   21 | Shaun Lim         |  19.2 |        57 |              |         +0.77 |
+|   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
+|   23 | Dror Matalon      |  18.7 |       367 |              |         +0.50 |
+|   24 | Eric Borden       |  18.0 |        42 |              |         +0.37 |
+|   25 | Wayne Heiser      |  17.7 |        45 |              |         +3.75 |
+|   26 | Josh Trauner      |  17.4 |        53 |              |         +1.03 |
+|   27 | David Bratt       |  17.2 |        27 |              |         +0.77 |
+|   28 | Sahar Sareminaeni |  16.8 |        25 |              |               |
+|   29 | Ankur Dave        |  16.5 |        65 |              |         +5.75 |
+|   30 | Chris Flores      |  16.2 |       315 |              |         -1.11 |
+|   31 | Kent Daniels      |  14.8 |       103 |              |         +0.10 |
+|   32 | Nikhil Paranjape  |  14.2 |        40 |              |         +5.36 |
+|   33 | Sergey Dobrinov   |  12.4 |        12 |              |               |
+|   34 | Meldan Heaslip    |  12.1 |        21 |              |               |
+|   35 | Josh Lebowitz     |  11.1 |        40 |              |         +8.58 |
+|   36 | Karan Goyal       |  11.0 |         7 |              |               |
+|   37 | Craig Hollow      |  10.5 |        15 |              |               |
+|   38 | Nate Aden         |  10.2 |        32 |              |         +3.52 |
+|   39 | Raphael Magarik   |   9.4 |        23 |              |         +7.21 |
+|   40 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
+|   41 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
+|   42 | Janeau Janssen    |   7.7 |         8 |              |               |
+|   43 | Norman Bonney     |   6.6 |         2 |              |               |
+|   44 | Alok Singh        |   6.5 |        18 |              |         +3.31 |
+|   45 | Avi Flamholz      |   6.4 |         3 |              |               |
+|   46 | Jose Lara         |   6.2 |        12 |              |         +0.04 |
+|   47 | Zsolt Bartha      |   4.4 |        53 |              |         -0.17 |
+|   48 | Sumit Gupta       |   2.0 |         3 |              |               |
+|   49 | Daniel Wissmann   |   0.7 |         2 |              |               |
+|   50 | Duncan MacRae     |  -0.7 |        18 |              |               |
+|   51 | Rodrigo Lasheras  |  -1.1 |         2 |              |               |
+|   52 | Vipul Gupta       |  -3.2 |         2 |              |               |
+|   53 | Yifan Wu          |  -4.0 |         7 |              |               |
