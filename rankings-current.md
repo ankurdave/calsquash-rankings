@@ -17,10 +17,10 @@ Generated 2017-04-03.
 |   13 | Dan Meier         |  22.4 |        63 |              |         +0.14 |
 |   14 | Jonathan Hankar   |  22.2 |       200 |              |         +0.18 |
 |   15 | Jared Bard        |  21.5 |        45 |              |         -0.06 |
-|   16 | Marc Schechter    |  21.3 |        11 |              |               |
-|   17 | Reid Johnsen      |  21.3 |        48 |              |         -0.11 |
-|   18 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
-|   19 | Robert Schwartz   |  20.2 |        86 |              |         -1.03 |
+|   16 | Reid Johnsen      |  21.3 |        48 |              |         -0.11 |
+|   17 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
+|   18 | Robert Schwartz   |  20.2 |        86 |              |         -1.03 |
+|   19 | Marc Schechter    |  20.1 |        12 |        -1.18 |               |
 |   20 | Mike Jensen-Akula |  20.0 |       221 |              |         -1.70 |
 |   21 | Shaun Lim         |  19.2 |        57 |              |         +0.77 |
 |   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
@@ -29,8 +29,8 @@ Generated 2017-04-03.
 |   25 | Wayne Heiser      |  17.7 |        45 |              |         +3.75 |
 |   26 | Josh Trauner      |  17.4 |        53 |              |         +1.03 |
 |   27 | David Bratt       |  17.2 |        27 |              |         +0.77 |
-|   28 | Sahar Sareminaeni |  16.8 |        25 |              |               |
-|   29 | Ankur Dave        |  16.5 |        65 |              |         +5.75 |
+|   28 | Ankur Dave        |  17.0 |        66 |        +0.47 |         +6.22 |
+|   29 | Sahar Sareminaeni |  16.8 |        25 |              |               |
 |   30 | Chris Flores      |  16.2 |       315 |              |         -1.11 |
 |   31 | Kent Daniels      |  14.8 |       103 |              |         +0.10 |
 |   32 | Nikhil Paranjape  |  14.2 |        40 |              |         +5.36 |
