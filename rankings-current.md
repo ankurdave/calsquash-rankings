@@ -40,7 +40,7 @@ Generated 2017-04-03.
 |   36 | Karan Goyal       |  11.0 |         7 |              |               |
 |   37 | Craig Hollow      |  10.5 |        15 |              |               |
 |   38 | Nate Aden         |  10.2 |        32 |              |         +3.52 |
-|   39 | Raphael Magarik   |   9.4 |        23 |              |         +7.21 |
+|   39 | Raphael Magarik   |   9.6 |        24 |        +0.19 |         +7.40 |
 |   40 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
 |   41 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
 |   42 | Janeau Janssen    |   7.7 |         8 |              |               |
@@ -53,5 +53,5 @@ Generated 2017-04-03.
 |   49 | Daniel Wissmann   |   0.7 |         2 |              |               |
 |   50 | Duncan MacRae     |  -0.7 |        18 |              |               |
 |   51 | Rodrigo Lasheras  |  -1.1 |         2 |              |               |
-|   52 | Vipul Gupta       |  -3.2 |         2 |              |               |
+|   52 | Vipul Gupta       |  -3.3 |         3 |        -0.15 |               |
 |   53 | Yifan Wu          |  -4.0 |         7 |              |               |

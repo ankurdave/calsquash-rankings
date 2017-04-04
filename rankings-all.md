@@ -370,8 +370,8 @@ Generated 2017-04-03.
 |  366 | Myles Gordon              |   9.8 |        42 |              |               |
 |  367 | Jacob Bank                |   9.7 |         1 |              |               |
 |  368 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  369 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  370 | Raphael Magarik           |   9.4 |        23 |              |         +7.21 |
+|  369 | Raphael Magarik           |   9.6 |        24 |        +0.19 |         +7.40 |
+|  370 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  371 | Mark Shapero              |   9.4 |         7 |              |               |
 |  372 | Kevin Pollock             |   9.4 |        28 |              |               |
 |  373 | Max Grass                 |   9.4 |         1 |              |               |
@@ -509,7 +509,7 @@ Generated 2017-04-03.
 |  505 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
 |  506 | James Redfield            |  -2.9 |         3 |              |               |
 |  507 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  508 | Vipul Gupta               |  -3.2 |         2 |              |               |
+|  508 | Vipul Gupta               |  -3.3 |         3 |        -0.15 |               |
 |  509 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  510 | Tin Do                    |  -4.0 |         1 |              |               |
 |  511 | Yifan Wu                  |  -4.0 |         7 |              |               |
