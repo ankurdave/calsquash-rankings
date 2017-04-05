@@ -1,4 +1,4 @@
-Generated 2017-04-03.
+Generated 2017-04-05.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -347,7 +347,7 @@ Generated 2017-04-03.
 |  343 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  344 | Carlos Filho              |  11.4 |         7 |              |               |
 |  345 | Karan Jain                |  11.3 |        19 |              |               |
-|  346 | Josh Lebowitz             |  11.1 |        40 |              |         +8.58 |
+|  346 | Josh Lebowitz             |  11.3 |        41 |        +0.14 |         +8.72 |
 |  347 | Karan Goyal               |  11.0 |         7 |              |               |
 |  348 | Lucas Siow                |  11.0 |        10 |              |               |
 |  349 | Dominick Ng               |  10.9 |        25 |              |               |
@@ -409,8 +409,8 @@ Generated 2017-04-03.
 |  405 | Akira Chiwaki             |   7.8 |         3 |              |               |
 |  406 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  407 | Jeremy Brown              |   7.7 |         4 |              |               |
-|  408 | Janeau Janssen            |   7.7 |         8 |              |               |
-|  409 | Ryan Akers                |   7.7 |         2 |              |               |
+|  408 | Ryan Akers                |   7.7 |         2 |              |               |
+|  409 | Janeau Janssen            |   7.6 |         9 |        -0.03 |               |
 |  410 | Yashraj Khaitain          |   7.6 |         2 |              |               |
 |  411 | Arno Ferguson             |   7.4 |         1 |              |               |
 |  412 | Alex Walters              |   7.4 |         3 |              |               |

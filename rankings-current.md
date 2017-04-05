@@ -1,4 +1,4 @@
-Generated 2017-04-03.
+Generated 2017-04-05.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -36,14 +36,14 @@ Generated 2017-04-03.
 |   32 | Nikhil Paranjape  |  14.2 |        40 |              |         +5.36 |
 |   33 | Sergey Dobrinov   |  12.4 |        12 |              |               |
 |   34 | Meldan Heaslip    |  12.1 |        21 |              |               |
-|   35 | Josh Lebowitz     |  11.1 |        40 |              |         +8.58 |
+|   35 | Josh Lebowitz     |  11.3 |        41 |        +0.14 |         +8.72 |
 |   36 | Karan Goyal       |  11.0 |         7 |              |               |
 |   37 | Craig Hollow      |  10.5 |        15 |              |               |
 |   38 | Nate Aden         |  10.2 |        32 |              |         +3.52 |
 |   39 | Raphael Magarik   |   9.6 |        24 |        +0.19 |         +7.40 |
 |   40 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
 |   41 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
-|   42 | Janeau Janssen    |   7.7 |         8 |              |               |
+|   42 | Janeau Janssen    |   7.6 |         9 |        -0.03 |               |
 |   43 | Norman Bonney     |   6.6 |         2 |              |               |
 |   44 | Alok Singh        |   6.5 |        18 |              |         +3.31 |
 |   45 | Avi Flamholz      |   6.4 |         3 |              |               |
