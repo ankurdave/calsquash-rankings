@@ -286,11 +286,11 @@ Generated 2017-04-06.
 |  282 | Mimi Zhang                |  14.9 |         6 |              |               |
 |  283 | Jeff Dorman               |  14.9 |        14 |              |               |
 |  284 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  285 | Kent Daniels              |  14.8 |       103 |              |         +0.10 |
-|  286 | Paul Norberg              |  14.8 |         8 |              |               |
-|  287 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  288 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  289 | David Elfant              |  14.7 |         2 |              |               |
+|  285 | Paul Norberg              |  14.8 |         8 |              |               |
+|  286 | Frederick Bayles          |  14.8 |         8 |              |               |
+|  287 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  288 | David Elfant              |  14.7 |         2 |              |               |
+|  289 | Kent Daniels              |  14.7 |       104 |        -0.12 |         -0.02 |
 |  290 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  291 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  292 | Jee Hwan Kim              |  14.6 |         7 |              |               |
@@ -322,14 +322,14 @@ Generated 2017-04-06.
 |  318 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  319 | Lewis Moore               |  13.0 |        69 |              |               |
 |  320 | David Isaksson            |  12.9 |        22 |              |               |
-|  321 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  322 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  323 | Josh Shiode               |  12.6 |        20 |              |               |
-|  324 | Huw Lester                |  12.5 |         1 |              |               |
-|  325 | Richard Fabini            |  12.4 |         3 |              |               |
-|  326 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  327 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
-|  328 | Sergey Dobrinov           |  12.4 |        12 |              |               |
+|  321 | Sergey Dobrinov           |  12.9 |        13 |        +0.50 |               |
+|  322 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  323 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  324 | Josh Shiode               |  12.6 |        20 |              |               |
+|  325 | Huw Lester                |  12.5 |         1 |              |               |
+|  326 | Richard Fabini            |  12.4 |         3 |              |               |
+|  327 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
+|  328 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
 |  329 | John Givens               |  12.2 |        13 |              |               |
 |  330 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  331 | Meldan Heaslip            |  12.1 |        21 |              |               |

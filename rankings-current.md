@@ -32,9 +32,9 @@ Generated 2017-04-06.
 |   28 | Ankur Dave        |  17.0 |        66 |        +0.47 |         +6.22 |
 |   29 | Sahar Sareminaeni |  16.8 |        25 |              |               |
 |   30 | Chris Flores      |  16.2 |       315 |              |         -1.11 |
-|   31 | Kent Daniels      |  14.8 |       103 |              |         +0.10 |
+|   31 | Kent Daniels      |  14.7 |       104 |        -0.12 |         -0.02 |
 |   32 | Nikhil Paranjape  |  14.2 |        40 |              |         +5.36 |
-|   33 | Sergey Dobrinov   |  12.4 |        12 |              |               |
+|   33 | Sergey Dobrinov   |  12.9 |        13 |        +0.50 |               |
 |   34 | Meldan Heaslip    |  12.1 |        21 |              |               |
 |   35 | Josh Lebowitz     |  11.3 |        41 |        +0.14 |         +8.72 |
 |   36 | Karan Goyal       |  11.0 |         7 |              |               |
