@@ -3,16 +3,16 @@ Generated 2017-04-06.
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant               |  37.7 |        23 |              |               |
-|    2 | Ashley Kayler             |  35.0 |       212 |              |         -0.04 |
-|    3 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
+|    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
+|    3 | Ashley Kayler             |  34.6 |       213 |        -0.41 |         -0.45 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    8 | Louis Morrill             |  32.7 |        10 |              |               |
-|    9 | Tanu Sankalia             |  32.6 |        94 |              |               |
-|   10 | Kim Ben Khoo              |  32.4 |       187 |              |               |
-|   11 | Eric Katerman             |  32.2 |        41 |              |               |
+|    9 | Eric Katerman             |  32.7 |        42 |        +0.50 |               |
+|   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
+|   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   12 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         -0.44 |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
