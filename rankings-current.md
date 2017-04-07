@@ -1,4 +1,4 @@
-Generated 2017-04-05.
+Generated 2017-04-06.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -44,14 +44,15 @@ Generated 2017-04-05.
 |   40 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
 |   41 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
 |   42 | Janeau Janssen    |   7.6 |         9 |        -0.03 |               |
-|   43 | Norman Bonney     |   6.6 |         2 |              |               |
-|   44 | Alok Singh        |   6.5 |        18 |              |         +3.31 |
-|   45 | Avi Flamholz      |   6.4 |         3 |              |               |
-|   46 | Jose Lara         |   6.2 |        12 |              |         +0.04 |
-|   47 | Zsolt Bartha      |   4.4 |        53 |              |         -0.17 |
-|   48 | Sumit Gupta       |   2.0 |         3 |              |               |
-|   49 | Daniel Wissmann   |   0.7 |         2 |              |               |
-|   50 | Duncan MacRae     |  -0.7 |        18 |              |               |
-|   51 | Rodrigo Lasheras  |  -1.1 |         2 |              |               |
-|   52 | Vipul Gupta       |  -3.3 |         3 |        -0.15 |               |
-|   53 | Yifan Wu          |  -4.0 |         7 |              |               |
+|   43 | Grant Buckingham  |   7.4 |         1 |              |               |
+|   44 | Norman Bonney     |   6.6 |         2 |              |               |
+|   45 | Alok Singh        |   6.5 |        18 |              |         +3.31 |
+|   46 | Avi Flamholz      |   6.4 |         3 |              |               |
+|   47 | Jose Lara         |   6.2 |        12 |              |         +0.04 |
+|   48 | Zsolt Bartha      |   4.4 |        53 |              |         -0.17 |
+|   49 | Sumit Gupta       |   1.9 |         4 |        -0.12 |               |
+|   50 | Daniel Wissmann   |   0.7 |         2 |              |               |
+|   51 | Duncan MacRae     |  -0.7 |        18 |              |               |
+|   52 | Rodrigo Lasheras  |  -1.1 |         2 |              |               |
+|   53 | Vipul Gupta       |  -3.3 |         3 |        -0.15 |               |
+|   54 | Yifan Wu          |  -4.0 |         7 |              |               |
