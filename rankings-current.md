@@ -1,4 +1,4 @@
-Generated 2017-04-06.
+Generated 2017-04-07.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -24,12 +24,12 @@ Generated 2017-04-06.
 |   20 | Mike Jensen-Akula |  20.0 |       221 |              |         -1.70 |
 |   21 | Shaun Lim         |  19.2 |        57 |              |         +0.77 |
 |   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
-|   23 | Dror Matalon      |  18.7 |       367 |              |         +0.50 |
+|   23 | Dror Matalon      |  18.5 |       368 |        -0.23 |         +0.26 |
 |   24 | Eric Borden       |  18.0 |        42 |              |         +0.37 |
 |   25 | Wayne Heiser      |  17.7 |        45 |              |         +3.75 |
 |   26 | Josh Trauner      |  17.4 |        53 |              |         +1.03 |
-|   27 | David Bratt       |  17.2 |        27 |              |         +0.77 |
-|   28 | Ankur Dave        |  17.0 |        66 |        +0.47 |         +6.22 |
+|   27 | Ankur Dave        |  17.2 |        67 |        +0.72 |         +6.48 |
+|   28 | David Bratt       |  17.2 |        27 |              |         +0.77 |
 |   29 | Sahar Sareminaeni |  16.8 |        25 |              |               |
 |   30 | Chris Flores      |  16.2 |       315 |              |         -1.11 |
 |   31 | Kent Daniels      |  14.7 |       104 |        -0.12 |         -0.02 |

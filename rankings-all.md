@@ -1,4 +1,4 @@
-Generated 2017-04-06.
+Generated 2017-04-07.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -201,16 +201,16 @@ Generated 2017-04-06.
 |  197 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  198 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  199 | Peter Dering              |  18.7 |         9 |              |               |
-|  200 | Dror Matalon              |  18.7 |       367 |              |         +0.50 |
-|  201 | Sushant Jain              |  18.7 |        12 |              |               |
-|  202 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  203 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  204 | Allan Sly                 |  18.6 |        29 |              |               |
-|  205 | Jason Facchin             |  18.5 |         3 |              |               |
-|  206 | Yan Liu                   |  18.5 |        10 |              |               |
-|  207 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  208 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  209 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  200 | Sushant Jain              |  18.7 |        12 |              |               |
+|  201 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  202 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  203 | Allan Sly                 |  18.6 |        29 |              |               |
+|  204 | Jason Facchin             |  18.5 |         3 |              |               |
+|  205 | Yan Liu                   |  18.5 |        10 |              |               |
+|  206 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  207 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  208 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  209 | Dror Matalon              |  18.5 |       368 |        -0.23 |         +0.26 |
 |  210 | John Eng                  |  18.4 |        28 |              |               |
 |  211 | Natalie Leung             |  18.4 |         1 |              |               |
 |  212 | Jayanth Kannan            |  18.4 |        20 |              |               |
@@ -239,14 +239,14 @@ Generated 2017-04-06.
 |  235 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  236 | Zach Brown                |  17.3 |         3 |              |               |
 |  237 | William Seles             |  17.2 |        15 |              |               |
-|  238 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  239 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  240 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  241 | David Bratt               |  17.2 |        27 |              |         +0.77 |
-|  242 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  243 | Neil Conway               |  17.0 |        55 |              |               |
-|  244 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  245 | Ankur Dave                |  17.0 |        66 |        +0.47 |         +6.22 |
+|  238 | Ankur Dave                |  17.2 |        67 |        +0.72 |         +6.48 |
+|  239 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  240 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  241 | Lucas Cheon               |  17.2 |        19 |              |               |
+|  242 | David Bratt               |  17.2 |        27 |              |         +0.77 |
+|  243 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  244 | Neil Conway               |  17.0 |        55 |              |               |
+|  245 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  246 | Baxter Leman              |  16.9 |         6 |              |               |
 |  247 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  248 | Sahar Sareminaeni         |  16.8 |        25 |              |               |
