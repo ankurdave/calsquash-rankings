@@ -1,4 +1,4 @@
-Generated 2017-04-08.
+Generated 2017-04-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -164,11 +164,11 @@ Generated 2017-04-08.
 |  160 | Mark Modera               |  20.4 |       325 |              |         -0.46 |
 |  161 | Jeff Gordon               |  20.3 |        46 |              |         +2.17 |
 |  162 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  163 | Robert Schwartz           |  20.2 |        86 |              |         -1.03 |
-|  164 | Carl Schreck              |  20.2 |         2 |              |               |
-|  165 | John Grim                 |  20.1 |        13 |              |               |
-|  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  167 | Frank Kennan              |  20.1 |        11 |              |               |
+|  163 | Carl Schreck              |  20.2 |         2 |              |               |
+|  164 | John Grim                 |  20.1 |        13 |              |               |
+|  165 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  166 | Frank Kennan              |  20.1 |        11 |              |               |
+|  167 | Robert Schwartz           |  20.1 |        87 |        -0.11 |         -1.14 |
 |  168 | Marc Schechter            |  20.1 |        12 |        -1.18 |               |
 |  169 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  170 | Mike Jensen-Akula         |  20.0 |       221 |              |         -1.70 |
@@ -185,9 +185,9 @@ Generated 2017-04-08.
 |  181 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
 |  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  184 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  185 | Greg Adams                |  19.3 |        10 |              |               |
-|  186 | Shaun Lim                 |  19.2 |        57 |              |         +0.77 |
+|  184 | Shaun Lim                 |  19.4 |        58 |        +0.15 |         +0.92 |
+|  185 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  186 | Greg Adams                |  19.3 |        10 |              |               |
 |  187 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  188 | John Corcoran             |  19.1 |        49 |              |               |
 |  189 | Kedar Shah                |  19.1 |         9 |              |               |

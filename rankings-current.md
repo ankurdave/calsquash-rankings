@@ -1,4 +1,4 @@
-Generated 2017-04-08.
+Generated 2017-04-09.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -19,10 +19,10 @@ Generated 2017-04-08.
 |   15 | Jared Bard        |  21.5 |        45 |              |         -0.06 |
 |   16 | Reid Johnsen      |  21.3 |        48 |              |         -0.11 |
 |   17 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
-|   18 | Robert Schwartz   |  20.2 |        86 |              |         -1.03 |
+|   18 | Robert Schwartz   |  20.1 |        87 |        -0.11 |         -1.14 |
 |   19 | Marc Schechter    |  20.1 |        12 |        -1.18 |               |
 |   20 | Mike Jensen-Akula |  20.0 |       221 |              |         -1.70 |
-|   21 | Shaun Lim         |  19.2 |        57 |              |         +0.77 |
+|   21 | Shaun Lim         |  19.4 |        58 |        +0.15 |         +0.92 |
 |   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
 |   23 | Dror Matalon      |  18.5 |       368 |        -0.23 |         +0.26 |
 |   24 | Eric Borden       |  18.0 |        42 |              |         +0.37 |
