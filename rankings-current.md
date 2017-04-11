@@ -1,10 +1,10 @@
-Generated 2017-04-10.
+Generated 2017-04-11.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant       |  37.9 |        24 |        +0.18 |               |
-|    2 | Ashley Kayler     |  34.7 |       214 |        -0.37 |         -0.42 |
-|    3 | Eric Katerman     |  32.4 |        43 |        +0.21 |               |
+|    1 | Colin Grant       |  37.7 |        25 |        -0.01 |               |
+|    2 | Ashley Kayler     |  34.7 |       214 |        -0.37 |         -0.41 |
+|    3 | Eric Katerman     |  32.6 |        44 |        +0.37 |               |
 |    4 | Sam Sternberg     |  29.4 |       146 |        +0.30 |         +0.20 |
 |    5 | Anibhav Singla    |  27.2 |        13 |              |               |
 |    6 | Frank Kennamer    |  27.0 |       221 |              |         +0.62 |
