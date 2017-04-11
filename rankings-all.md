@@ -1,10 +1,10 @@
-Generated 2017-04-09.
+Generated 2017-04-10.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  37.7 |        23 |              |               |
+|    1 | Colin Grant               |  37.9 |        24 |        +0.18 |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
-|    3 | Ashley Kayler             |  34.6 |       213 |        -0.42 |         -0.47 |
+|    3 | Ashley Kayler             |  34.7 |       214 |        -0.37 |         -0.42 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
