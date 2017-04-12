@@ -29,11 +29,11 @@ Generated 2017-04-11.
 |   25 | Wayne Heiser      |  17.7 |        45 |              |         +3.75 |
 |   26 | Josh Trauner      |  17.4 |        53 |              |         +1.03 |
 |   27 | Ankur Dave        |  17.2 |        67 |        +0.72 |         +6.48 |
-|   28 | David Bratt       |  17.2 |        27 |              |         +0.77 |
+|   28 | David Bratt       |  16.9 |        28 |        -0.28 |         +0.49 |
 |   29 | Sahar Sareminaeni |  16.8 |        25 |              |               |
 |   30 | Chris Flores      |  16.2 |       315 |              |         -1.11 |
-|   31 | Kent Daniels      |  14.7 |       104 |        -0.12 |         -0.02 |
-|   32 | Nikhil Paranjape  |  14.4 |        41 |        +0.22 |         +5.58 |
+|   31 | Nikhil Paranjape  |  14.7 |        42 |        +0.52 |         +5.89 |
+|   32 | Kent Daniels      |  14.7 |       104 |        -0.12 |         -0.02 |
 |   33 | Sergey Dobrinov   |  12.9 |        13 |        +0.50 |               |
 |   34 | Meldan Heaslip    |  12.1 |        21 |              |               |
 |   35 | Josh Lebowitz     |  11.3 |        41 |        +0.14 |         +8.72 |

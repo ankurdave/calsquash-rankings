@@ -243,11 +243,11 @@ Generated 2017-04-11.
 |  239 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  240 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  241 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  242 | David Bratt               |  17.2 |        27 |              |         +0.77 |
-|  243 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  244 | Neil Conway               |  17.0 |        55 |              |               |
-|  245 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  246 | Baxter Leman              |  16.9 |         6 |              |               |
+|  242 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  243 | Neil Conway               |  17.0 |        55 |              |               |
+|  244 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  245 | Baxter Leman              |  16.9 |         6 |              |               |
+|  246 | David Bratt               |  16.9 |        28 |        -0.28 |         +0.49 |
 |  247 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  248 | Sahar Sareminaeni         |  16.8 |        25 |              |               |
 |  249 | Allan Dafoe               |  16.8 |        43 |              |               |
@@ -289,14 +289,14 @@ Generated 2017-04-11.
 |  285 | Paul Norberg              |  14.8 |         8 |              |               |
 |  286 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  287 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  288 | David Elfant              |  14.7 |         2 |              |               |
-|  289 | Kent Daniels              |  14.7 |       104 |        -0.12 |         -0.02 |
-|  290 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  291 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  292 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  293 | Shai Vardi                |  14.5 |         4 |              |               |
-|  294 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  295 | Nikhil Paranjape          |  14.4 |        41 |        +0.22 |         +5.58 |
+|  288 | Nikhil Paranjape          |  14.7 |        42 |        +0.52 |         +5.89 |
+|  289 | David Elfant              |  14.7 |         2 |              |               |
+|  290 | Kent Daniels              |  14.7 |       104 |        -0.12 |         -0.02 |
+|  291 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  292 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  293 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  294 | Shai Vardi                |  14.5 |         4 |              |               |
+|  295 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  296 | Max Woodworth             |  14.4 |         7 |              |               |
 |  297 | Juliet Shih               |  14.4 |        11 |              |               |
 |  298 | Khurram Mahmood           |  14.3 |         3 |              |               |
