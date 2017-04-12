@@ -2,7 +2,7 @@ Generated 2017-04-11.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  37.7 |        25 |        -0.01 |               |
+|    1 | Colin Grant               |  37.8 |        26 |              |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
 |    3 | Ashley Kayler             |  34.7 |       214 |        -0.37 |         -0.41 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -69,7 +69,7 @@ Generated 2017-04-11.
 |   65 | Martin Stokes             |  24.7 |        12 |              |               |
 |   66 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   68 | Sam McCormick             |  24.5 |        30 |              |         +3.90 |
+|   68 | Sam McCormick             |  24.5 |        31 |        -0.04 |         +3.87 |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
 |   71 | Jon Shih                  |  24.4 |        47 |              |               |
