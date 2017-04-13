@@ -166,10 +166,10 @@ Generated 2017-04-12.
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.17 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  164 | Carl Schreck              |  20.2 |         2 |              |               |
-|  165 | John Grim                 |  20.1 |        13 |              |               |
-|  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  167 | Frank Kennan              |  20.1 |        11 |              |               |
-|  168 | Robert Schwartz           |  20.1 |        87 |        -0.11 |         -1.14 |
+|  165 | Robert Schwartz           |  20.1 |        88 |        -0.06 |         -1.09 |
+|  166 | John Grim                 |  20.1 |        13 |              |               |
+|  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  168 | Frank Kennan              |  20.1 |        11 |              |               |
 |  169 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  170 | Jonathan Francis          |  20.0 |        76 |              |         +0.53 |
 |  171 | Wesley Huang              |  20.0 |         8 |              |               |
@@ -249,8 +249,8 @@ Generated 2017-04-12.
 |  245 | Baxter Leman              |  16.9 |         6 |              |               |
 |  246 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  247 | David Bratt               |  16.9 |        28 |        -0.30 |         +0.47 |
-|  248 | Sahar Sareminaeni         |  16.8 |        25 |              |               |
-|  249 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  248 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  249 | Sahar Sareminaeni         |  16.8 |        26 |        -0.02 |               |
 |  250 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  251 | David Shabelman           |  16.7 |        30 |              |               |
 |  252 | Mark Priven               |  16.6 |        72 |              |               |
