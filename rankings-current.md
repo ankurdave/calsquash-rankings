@@ -18,17 +18,17 @@ Generated 2017-04-12.
 |   14 | Jonathan Hankar   |  22.2 |       200 |              |         +0.18 |
 |   15 | Jared Bard        |  21.5 |        45 |              |         -0.06 |
 |   16 | Reid Johnsen      |  21.3 |        48 |              |         -0.11 |
-|   17 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
-|   18 | Marc Schechter    |  20.2 |        12 |        -1.10 |               |
+|   17 | Marc Schechter    |  20.6 |        13 |        -0.65 |               |
+|   18 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
 |   19 | Robert Schwartz   |  20.1 |        87 |        -0.11 |         -1.14 |
 |   20 | Mike Jensen-Akula |  19.5 |       222 |        -0.46 |         -2.16 |
 |   21 | Shaun Lim         |  19.4 |        58 |        +0.15 |         +0.92 |
 |   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
 |   23 | Dror Matalon      |  18.4 |       368 |        -0.24 |         +0.26 |
 |   24 | Eric Borden       |  18.0 |        42 |              |         +0.37 |
-|   25 | Ankur Dave        |  17.5 |        68 |        +1.01 |         +6.77 |
+|   25 | Ankur Dave        |  17.5 |        68 |        +1.03 |         +6.78 |
 |   26 | Josh Trauner      |  17.4 |        53 |              |         +1.03 |
-|   27 | Wayne Heiser      |  17.3 |        46 |        -0.31 |         +3.44 |
+|   27 | Wayne Heiser      |  17.2 |        47 |        -0.42 |         +3.33 |
 |   28 | David Bratt       |  16.9 |        28 |        -0.30 |         +0.47 |
 |   29 | Sahar Sareminaeni |  16.8 |        25 |              |               |
 |   30 | Chris Flores      |  16.4 |       316 |        +0.17 |         -0.94 |

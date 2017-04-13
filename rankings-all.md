@@ -155,17 +155,17 @@ Generated 2017-04-12.
 |  151 | Jamie Funk                |  20.8 |        30 |              |               |
 |  152 | Matthew Brett             |  20.7 |        20 |              |               |
 |  153 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  154 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
-|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  158 | Andrew Green              |  20.5 |        52 |              |               |
-|  159 | Steven Sloman             |  20.4 |        10 |              |               |
-|  160 | Mark Modera               |  20.4 |       325 |              |         -0.46 |
-|  161 | Jeff Gordon               |  20.3 |        46 |              |         +2.17 |
-|  162 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  163 | Carl Schreck              |  20.2 |         2 |              |               |
-|  164 | Marc Schechter            |  20.2 |        12 |        -1.10 |               |
+|  154 | Marc Schechter            |  20.6 |        13 |        -0.65 |               |
+|  155 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  156 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  157 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
+|  158 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  159 | Andrew Green              |  20.5 |        52 |              |               |
+|  160 | Steven Sloman             |  20.4 |        10 |              |               |
+|  161 | Mark Modera               |  20.4 |       325 |              |         -0.46 |
+|  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.17 |
+|  163 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  164 | Carl Schreck              |  20.2 |         2 |              |               |
 |  165 | John Grim                 |  20.1 |        13 |              |               |
 |  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  167 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -229,17 +229,17 @@ Generated 2017-04-12.
 |  225 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  226 | Subrato Dey               |  17.5 |        26 |              |         +1.33 |
 |  227 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  228 | Ankur Dave                |  17.5 |        68 |        +1.01 |         +6.77 |
+|  228 | Ankur Dave                |  17.5 |        68 |        +1.03 |         +6.78 |
 |  229 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  230 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  231 | Josh Trauner              |  17.4 |        53 |              |         +1.03 |
 |  232 | Craig Riddell             |  17.4 |         8 |              |               |
 |  233 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  234 | Wayne Heiser              |  17.3 |        46 |        -0.31 |         +3.44 |
-|  235 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  236 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  237 | Zach Brown                |  17.3 |         3 |              |               |
-|  238 | William Seles             |  17.2 |        15 |              |               |
+|  234 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  235 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  236 | Zach Brown                |  17.3 |         3 |              |               |
+|  237 | William Seles             |  17.2 |        15 |              |               |
+|  238 | Wayne Heiser              |  17.2 |        47 |        -0.42 |         +3.33 |
 |  239 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  240 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  241 | Lucas Cheon               |  17.2 |        19 |              |               |
