@@ -2,16 +2,16 @@ Generated 2017-04-12.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  37.8 |        26 |              |               |
+|    1 | Colin Grant               |  37.8 |        26 |        +0.01 |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
-|    3 | Ashley Kayler             |  34.7 |       214 |        -0.37 |         -0.41 |
+|    3 | Ashley Kayler             |  34.7 |       214 |        -0.36 |         -0.40 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    8 | Louis Morrill             |  32.7 |        10 |              |               |
-|    9 | Tanu Sankalia             |  32.6 |        94 |              |               |
-|   10 | Eric Katerman             |  32.6 |        44 |        +0.37 |               |
+|    9 | Eric Katerman             |  32.7 |        45 |        +0.45 |               |
+|   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   12 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         -0.44 |
@@ -22,7 +22,7 @@ Generated 2017-04-12.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.4 |       146 |        +0.30 |         +0.20 |
+|   21 | Sam Sternberg             |  29.4 |       146 |        +0.31 |         +0.21 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -97,8 +97,8 @@ Generated 2017-04-12.
 |   93 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   94 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   95 | Amy Lee                   |  23.6 |        56 |              |               |
-|   96 | Shrinu Kushagra           |  23.6 |         8 |              |               |
-|   97 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
+|   96 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
+|   97 | Shrinu Kushagra           |  23.4 |         9 |        -0.15 |               |
 |   98 | Garvin Heath              |  23.4 |        28 |              |               |
 |   99 | Dan Bohn                  |  23.3 |        92 |              |         -0.41 |
 |  100 | Daniel Greengard          |  23.1 |        37 |              |               |
