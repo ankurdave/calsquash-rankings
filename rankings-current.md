@@ -1,4 +1,4 @@
-Generated 2017-04-12.
+Generated 2017-04-13.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -29,27 +29,27 @@ Generated 2017-04-12.
 |   25 | Ankur Dave        |  17.5 |        68 |        +1.03 |         +6.78 |
 |   26 | Josh Trauner      |  17.4 |        53 |              |         +1.03 |
 |   27 | Wayne Heiser      |  17.2 |        47 |        -0.42 |         +3.33 |
-|   28 | David Bratt       |  16.9 |        28 |        -0.30 |         +0.47 |
+|   28 | David Bratt       |  16.9 |        28 |        -0.31 |         +0.47 |
 |   29 | Sahar Sareminaeni |  16.8 |        26 |        -0.02 |               |
-|   30 | Chris Flores      |  16.4 |       316 |        +0.17 |         -0.94 |
-|   31 | Nikhil Paranjape  |  14.7 |        42 |        +0.52 |         +5.89 |
-|   32 | Kent Daniels      |  14.7 |       104 |        -0.12 |         -0.02 |
+|   30 | Chris Flores      |  16.4 |       316 |        +0.19 |         -0.92 |
+|   31 | Kent Daniels      |  14.7 |       104 |        -0.12 |         -0.02 |
+|   32 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
 |   33 | Sergey Dobrinov   |  13.9 |        14 |        +1.54 |               |
 |   34 | Meldan Heaslip    |  12.1 |        21 |              |               |
-|   35 | Josh Lebowitz     |  11.3 |        41 |        +0.14 |         +8.72 |
-|   36 | Karan Goyal       |  10.6 |         8 |        -0.46 |               |
-|   37 | Nate Aden         |  10.2 |        32 |              |         +3.52 |
-|   38 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
-|   39 | Raphael Magarik   |   9.6 |        24 |        +0.19 |         +7.40 |
-|   40 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
-|   41 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
-|   42 | Grant Buckingham  |   7.7 |         1 |              |               |
+|   35 | Karan Goyal       |  11.5 |         9 |        +0.52 |               |
+|   36 | Josh Lebowitz     |  11.3 |        41 |        +0.14 |         +8.72 |
+|   37 | Grant Buckingham  |  10.6 |         2 |              |               |
+|   38 | Nate Aden         |  10.2 |        32 |              |         +3.52 |
+|   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
+|   40 | Raphael Magarik   |   9.6 |        24 |        +0.19 |         +7.40 |
+|   41 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
+|   42 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
 |   43 | Janeau Janssen    |   7.6 |         9 |        -0.03 |               |
-|   44 | Jose Lara         |   6.6 |        13 |        +0.35 |         +0.38 |
-|   45 | Norman Bonney     |   6.6 |         2 |              |               |
-|   46 | Alok Singh        |   6.5 |        18 |              |         +3.31 |
+|   44 | Norman Bonney     |   6.6 |         2 |              |               |
+|   45 | Alok Singh        |   6.5 |        18 |              |         +3.31 |
+|   46 | Jose Lara         |   6.5 |        14 |        +0.28 |         +0.32 |
 |   47 | Avi Flamholz      |   6.4 |         3 |              |               |
-|   48 | Sumit Gupta       |   4.5 |         5 |        +2.47 |               |
+|   48 | Sumit Gupta       |   4.5 |         5 |        +2.49 |               |
 |   49 | Zsolt Bartha      |   4.4 |        53 |              |         -0.17 |
 |   50 | Daniel Wissmann   |   0.7 |         2 |              |               |
 |   51 | Duncan MacRae     |  -0.7 |        18 |              |               |
