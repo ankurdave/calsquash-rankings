@@ -1,4 +1,4 @@
-Generated 2017-04-13.
+Generated 2017-04-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -290,8 +290,8 @@ Generated 2017-04-13.
 |  286 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  287 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  288 | David Elfant              |  14.7 |         2 |              |               |
-|  289 | Kent Daniels              |  14.7 |       104 |        -0.12 |         -0.02 |
-|  290 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  290 | Kent Daniels              |  14.7 |       105 |        -0.15 |         -0.05 |
 |  291 | Nikhil Paranjape          |  14.7 |        43 |        +0.46 |         +5.82 |
 |  292 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  293 | Jee Hwan Kim              |  14.6 |         7 |              |               |
@@ -330,9 +330,9 @@ Generated 2017-04-13.
 |  326 | Richard Fabini            |  12.4 |         3 |              |               |
 |  327 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
 |  328 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
-|  329 | John Givens               |  12.2 |        13 |              |               |
-|  330 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  331 | Meldan Heaslip            |  12.1 |        21 |              |               |
+|  329 | Meldan Heaslip            |  12.2 |        22 |        +0.14 |               |
+|  330 | John Givens               |  12.2 |        13 |              |               |
+|  331 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  332 | Reed Foster               |  12.1 |         8 |              |               |
 |  333 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  334 | Larry Dale                |  11.9 |        29 |              |               |
