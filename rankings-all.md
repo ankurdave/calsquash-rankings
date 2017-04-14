@@ -182,10 +182,10 @@ Generated 2017-04-13.
 |  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  179 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  181 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
-|  182 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  183 | Mike Jensen-Akula         |  19.5 |       222 |        -0.46 |         -2.16 |
-|  184 | Shaun Lim                 |  19.4 |        58 |        +0.15 |         +0.92 |
+|  181 | Shaun Lim                 |  19.6 |        59 |        +0.37 |         +1.13 |
+|  182 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
+|  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
+|  184 | Mike Jensen-Akula         |  19.5 |       222 |        -0.46 |         -2.16 |
 |  185 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  186 | Greg Adams                |  19.3 |        10 |              |               |
 |  187 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
@@ -250,12 +250,12 @@ Generated 2017-04-13.
 |  246 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  247 | David Bratt               |  16.9 |        28 |        -0.31 |         +0.47 |
 |  248 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  249 | Sahar Sareminaeni         |  16.8 |        26 |        -0.02 |               |
-|  250 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  251 | David Shabelman           |  16.7 |        30 |              |               |
-|  252 | Mark Priven               |  16.6 |        72 |              |               |
-|  253 | William Coleman           |  16.5 |        48 |              |               |
-|  254 | Mike Troxell              |  16.5 |         8 |              |               |
+|  249 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  250 | David Shabelman           |  16.7 |        30 |              |               |
+|  251 | Mark Priven               |  16.6 |        72 |              |               |
+|  252 | William Coleman           |  16.5 |        48 |              |               |
+|  253 | Mike Troxell              |  16.5 |         8 |              |               |
+|  254 | Sahar Sareminaeni         |  16.5 |        27 |        -0.28 |               |
 |  255 | Chris Flores              |  16.4 |       316 |        +0.19 |         -0.92 |
 |  256 | Danish Mir                |  16.4 |         1 |              |               |
 |  257 | Paul Chang                |  16.3 |         7 |              |               |

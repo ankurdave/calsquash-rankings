@@ -21,8 +21,8 @@ Generated 2017-04-13.
 |   17 | Marc Schechter    |  20.6 |        13 |        -0.65 |               |
 |   18 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
 |   19 | Robert Schwartz   |  20.1 |        88 |        -0.06 |         -1.09 |
-|   20 | Mike Jensen-Akula |  19.5 |       222 |        -0.46 |         -2.16 |
-|   21 | Shaun Lim         |  19.4 |        58 |        +0.15 |         +0.92 |
+|   20 | Shaun Lim         |  19.6 |        59 |        +0.37 |         +1.13 |
+|   21 | Mike Jensen-Akula |  19.5 |       222 |        -0.46 |         -2.16 |
 |   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
 |   23 | Dror Matalon      |  18.4 |       368 |        -0.24 |         +0.26 |
 |   24 | Eric Borden       |  18.0 |        42 |              |         +0.37 |
@@ -30,7 +30,7 @@ Generated 2017-04-13.
 |   26 | Josh Trauner      |  17.4 |        53 |              |         +1.03 |
 |   27 | Wayne Heiser      |  17.2 |        47 |        -0.42 |         +3.33 |
 |   28 | David Bratt       |  16.9 |        28 |        -0.31 |         +0.47 |
-|   29 | Sahar Sareminaeni |  16.8 |        26 |        -0.02 |               |
+|   29 | Sahar Sareminaeni |  16.5 |        27 |        -0.28 |               |
 |   30 | Chris Flores      |  16.4 |       316 |        +0.19 |         -0.92 |
 |   31 | Kent Daniels      |  14.7 |       104 |        -0.12 |         -0.02 |
 |   32 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
