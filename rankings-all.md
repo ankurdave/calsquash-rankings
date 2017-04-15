@@ -1,4 +1,4 @@
-Generated 2017-04-14.
+Generated 2017-04-15.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -166,10 +166,10 @@ Generated 2017-04-14.
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.17 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  164 | Carl Schreck              |  20.2 |         2 |              |               |
-|  165 | Robert Schwartz           |  20.1 |        88 |        -0.06 |         -1.09 |
-|  166 | John Grim                 |  20.1 |        13 |              |               |
-|  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  168 | Frank Kennan              |  20.1 |        11 |              |               |
+|  165 | John Grim                 |  20.1 |        13 |              |               |
+|  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  167 | Frank Kennan              |  20.1 |        11 |              |               |
+|  168 | Robert Schwartz           |  20.1 |        88 |        -0.07 |         -1.10 |
 |  169 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  170 | Jonathan Francis          |  20.0 |        76 |              |         +0.53 |
 |  171 | Wesley Huang              |  20.0 |         8 |              |               |
@@ -182,7 +182,7 @@ Generated 2017-04-14.
 |  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  179 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  181 | Shaun Lim                 |  19.6 |        59 |        +0.37 |         +1.13 |
+|  181 | Shaun Lim                 |  19.6 |        59 |        +0.36 |         +1.13 |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
 |  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
 |  184 | Mike Jensen-Akula         |  19.5 |       222 |        -0.46 |         -2.16 |
@@ -218,7 +218,7 @@ Generated 2017-04-14.
 |  214 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  215 | Bob Roller                |  18.2 |         6 |              |               |
 |  216 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  217 | Eric Borden               |  18.0 |        42 |              |         +0.37 |
+|  217 | Eric Borden               |  18.0 |        43 |        +0.05 |         +0.42 |
 |  218 | James Chung               |  17.9 |         7 |              |               |
 |  219 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  220 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
@@ -230,9 +230,9 @@ Generated 2017-04-14.
 |  226 | Subrato Dey               |  17.5 |        26 |              |         +1.33 |
 |  227 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  228 | Ankur Dave                |  17.5 |        68 |        +1.03 |         +6.78 |
-|  229 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  230 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  231 | Josh Trauner              |  17.4 |        53 |              |         +1.03 |
+|  229 | Josh Trauner              |  17.5 |        55 |        +0.16 |         +1.19 |
+|  230 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  231 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  232 | Craig Riddell             |  17.4 |         8 |              |               |
 |  233 | Charity Caruthers         |  17.3 |         4 |              |               |
 |  234 | Ben Ailes                 |  17.3 |        48 |              |               |
@@ -255,9 +255,9 @@ Generated 2017-04-14.
 |  251 | Mark Priven               |  16.6 |        72 |              |               |
 |  252 | William Coleman           |  16.5 |        48 |              |               |
 |  253 | Mike Troxell              |  16.5 |         8 |              |               |
-|  254 | Sahar Sareminaeni         |  16.5 |        27 |        -0.28 |               |
-|  255 | Chris Flores              |  16.4 |       316 |        +0.19 |         -0.92 |
-|  256 | Danish Mir                |  16.4 |         1 |              |               |
+|  254 | Chris Flores              |  16.4 |       316 |        +0.19 |         -0.92 |
+|  255 | Danish Mir                |  16.4 |         1 |              |               |
+|  256 | Sahar Sareminaeni         |  16.3 |        28 |        -0.45 |               |
 |  257 | Paul Chang                |  16.3 |         7 |              |               |
 |  258 | Steven Hahm               |  16.3 |         5 |              |               |
 |  259 | Jules Bowie               |  16.3 |        12 |              |               |
