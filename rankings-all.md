@@ -2,15 +2,15 @@ Generated 2017-04-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  37.9 |        27 |        +0.14 |               |
+|    1 | Colin Grant               |  36.8 |        28 |        -0.99 |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
-|    3 | Ashley Kayler             |  34.7 |       214 |        -0.36 |         -0.40 |
+|    3 | Ashley Kayler             |  34.6 |       214 |        -0.43 |         -0.47 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    8 | Louis Morrill             |  32.7 |        10 |              |               |
-|    9 | Eric Katerman             |  32.7 |        45 |        +0.45 |               |
+|    9 | Eric Katerman             |  32.6 |        45 |        +0.40 |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   12 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
@@ -22,7 +22,7 @@ Generated 2017-04-14.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.4 |       147 |        +0.25 |         +0.15 |
+|   21 | Sam Sternberg             |  29.4 |       147 |        +0.24 |         +0.13 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -57,48 +57,48 @@ Generated 2017-04-14.
 |   53 | Adam Angsten              |  25.4 |         3 |              |               |
 |   54 | Matt Nelson-Teutsch       |  25.4 |        10 |              |               |
 |   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
-|   56 | Rahul Gupta               |  25.3 |         7 |              |               |
-|   57 | Paul Greene               |  25.2 |         8 |              |               |
-|   58 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   59 | Ben Seelig                |  25.0 |        69 |              |               |
-|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   61 | Madhav Pai                |  24.9 |         5 |              |               |
-|   62 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   63 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   64 | Orion Hodson              |  24.8 |        31 |              |               |
-|   65 | Martin Stokes             |  24.7 |        12 |              |               |
-|   66 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   67 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   68 | Sam McCormick             |  24.5 |        31 |        -0.04 |         +3.87 |
-|   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   70 | Adam Pollak               |  24.5 |        31 |              |               |
-|   71 | Jon Shih                  |  24.4 |        47 |              |               |
-|   72 | John Kunze                |  24.4 |       320 |              |         -0.51 |
-|   73 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   74 | Jim Veitch                |  24.4 |       447 |              |         -2.01 |
-|   75 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   76 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   77 | Lakshya Rustagi           |  24.2 |         2 |              |               |
-|   78 | Toby Reiner               |  24.2 |       159 |              |               |
-|   79 | Himanshu Jatia            |  24.2 |         4 |              |               |
-|   80 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   81 | Robert Jeng               |  24.1 |        26 |              |               |
-|   82 | Vyas Sekar                |  24.1 |        17 |              |               |
-|   83 | Benjamin Vicuna           |  24.1 |        50 |              |         +0.39 |
-|   84 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   85 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   86 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   87 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   88 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   89 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   90 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
-|   91 | Matt Wong                 |  23.7 |        89 |              |         +2.61 |
-|   92 | Matt Waid                 |  23.7 |        51 |              |               |
-|   93 | Sonesh Surana             |  23.7 |        95 |              |               |
-|   94 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   95 | Amy Lee                   |  23.6 |        56 |              |               |
-|   96 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
-|   97 | Shrinu Kushagra           |  23.4 |         9 |        -0.15 |               |
+|   56 | Shrinu Kushagra           |  25.3 |        10 |        +1.76 |               |
+|   57 | Rahul Gupta               |  25.3 |         7 |              |               |
+|   58 | Paul Greene               |  25.2 |         8 |              |               |
+|   59 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   60 | Ben Seelig                |  25.0 |        69 |              |               |
+|   61 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   62 | Madhav Pai                |  24.9 |         5 |              |               |
+|   63 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   64 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   65 | Orion Hodson              |  24.8 |        31 |              |               |
+|   66 | Martin Stokes             |  24.7 |        12 |              |               |
+|   67 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   69 | Sam McCormick             |  24.5 |        31 |        -0.04 |         +3.86 |
+|   70 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   71 | Adam Pollak               |  24.5 |        31 |              |               |
+|   72 | Jon Shih                  |  24.4 |        47 |              |               |
+|   73 | John Kunze                |  24.4 |       320 |              |         -0.51 |
+|   74 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   75 | Jim Veitch                |  24.4 |       447 |              |         -2.01 |
+|   76 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   77 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   78 | Lakshya Rustagi           |  24.2 |         2 |              |               |
+|   79 | Toby Reiner               |  24.2 |       159 |              |               |
+|   80 | Himanshu Jatia            |  24.2 |         4 |              |               |
+|   81 | Matthew Elliott           |  24.2 |         7 |              |               |
+|   82 | Robert Jeng               |  24.1 |        26 |              |               |
+|   83 | Vyas Sekar                |  24.1 |        17 |              |               |
+|   84 | Benjamin Vicuna           |  24.1 |        50 |              |         +0.39 |
+|   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
+|   86 | Whit Eldredge             |  24.0 |         2 |              |               |
+|   87 | Ignacio Canals            |  24.0 |        21 |              |               |
+|   88 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   89 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   90 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   91 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
+|   92 | Matt Wong                 |  23.7 |        89 |              |         +2.61 |
+|   93 | Matt Waid                 |  23.7 |        51 |              |               |
+|   94 | Sonesh Surana             |  23.7 |        95 |              |               |
+|   95 | Nader Shoaibi             |  23.7 |        64 |              |               |
+|   96 | Amy Lee                   |  23.6 |        56 |              |               |
+|   97 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |   98 | Garvin Heath              |  23.4 |        28 |              |               |
 |   99 | Dan Bohn                  |  23.3 |        92 |              |         -0.41 |
 |  100 | Daniel Greengard          |  23.1 |        37 |              |               |
