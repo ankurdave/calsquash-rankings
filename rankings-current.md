@@ -39,7 +39,7 @@ Generated 2017-04-15.
 |   35 | Karan Goyal       |  11.5 |         9 |        +0.52 |               |
 |   36 | Josh Lebowitz     |  11.1 |        42 |        -0.04 |         +8.54 |
 |   37 | Grant Buckingham  |  10.6 |         2 |              |               |
-|   38 | Nate Aden         |  10.2 |        32 |              |         +3.52 |
+|   38 | Nate Aden         |  10.3 |        33 |        +0.14 |         +3.66 |
 |   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
 |   40 | Raphael Magarik   |   9.6 |        24 |        +0.19 |         +7.40 |
 |   41 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
@@ -50,7 +50,7 @@ Generated 2017-04-15.
 |   46 | Jose Lara         |   6.5 |        14 |        +0.28 |         +0.32 |
 |   47 | Avi Flamholz      |   6.4 |         3 |              |               |
 |   48 | Sumit Gupta       |   4.5 |         5 |        +2.49 |               |
-|   49 | Zsolt Bartha      |   4.4 |        53 |              |         -0.17 |
+|   49 | Zsolt Bartha      |   4.3 |        54 |        -0.13 |         -0.30 |
 |   50 | Daniel Wissmann   |   0.7 |         2 |              |               |
 |   51 | Duncan MacRae     |  -0.7 |        18 |              |               |
 |   52 | Rodrigo Lasheras  |  -1.1 |         2 |              |               |

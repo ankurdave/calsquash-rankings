@@ -356,10 +356,10 @@ Generated 2017-04-15.
 |  352 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  353 | Brian Puglise             |  10.4 |         2 |              |               |
 |  354 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  355 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  356 | John Provine              |  10.2 |        16 |              |               |
-|  357 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  358 | Nate Aden                 |  10.2 |        32 |              |         +3.52 |
+|  355 | Nate Aden                 |  10.3 |        33 |        +0.14 |         +3.66 |
+|  356 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  357 | John Provine              |  10.2 |        16 |              |               |
+|  358 | Anthony Patterson         |  10.2 |         6 |              |               |
 |  359 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  360 | Craig Hollow              |  10.2 |        16 |        -0.37 |               |
 |  361 | Max Oltersdorf            |  10.2 |         8 |              |               |
@@ -442,7 +442,7 @@ Generated 2017-04-15.
 |  438 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  439 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  440 | Sumit Gupta               |   4.5 |         5 |        +2.49 |               |
-|  441 | Zsolt Bartha              |   4.4 |        53 |              |         -0.17 |
+|  441 | Zsolt Bartha              |   4.3 |        54 |        -0.13 |         -0.30 |
 |  442 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  443 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  444 | Annie Wong                |   4.0 |         3 |              |               |
