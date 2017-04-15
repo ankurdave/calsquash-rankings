@@ -2,10 +2,10 @@ Generated 2017-04-14.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant       |  37.8 |        26 |        +0.01 |               |
+|    1 | Colin Grant       |  37.9 |        27 |        +0.14 |               |
 |    2 | Ashley Kayler     |  34.7 |       214 |        -0.36 |         -0.40 |
 |    3 | Eric Katerman     |  32.7 |        45 |        +0.45 |               |
-|    4 | Sam Sternberg     |  29.4 |       146 |        +0.31 |         +0.21 |
+|    4 | Sam Sternberg     |  29.4 |       147 |        +0.25 |         +0.15 |
 |    5 | Anibhav Singla    |  27.2 |        13 |              |               |
 |    6 | Frank Kennamer    |  27.0 |       221 |              |         +0.62 |
 |    7 | Sam McCormick     |  24.5 |        31 |        -0.04 |         +3.87 |
@@ -34,10 +34,10 @@ Generated 2017-04-14.
 |   30 | Chris Flores      |  16.4 |       316 |        +0.19 |         -0.92 |
 |   31 | Kent Daniels      |  14.7 |       105 |        -0.15 |         -0.05 |
 |   32 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
-|   33 | Sergey Dobrinov   |  13.9 |        14 |        +1.54 |               |
+|   33 | Sergey Dobrinov   |  14.3 |        15 |        +1.89 |               |
 |   34 | Meldan Heaslip    |  12.2 |        22 |        +0.14 |               |
 |   35 | Karan Goyal       |  11.5 |         9 |        +0.52 |               |
-|   36 | Josh Lebowitz     |  11.3 |        41 |        +0.14 |         +8.72 |
+|   36 | Josh Lebowitz     |  11.1 |        42 |        -0.04 |         +8.54 |
 |   37 | Grant Buckingham  |  10.6 |         2 |              |               |
 |   38 | Nate Aden         |  10.2 |        32 |              |         +3.52 |
 |   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |

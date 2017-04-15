@@ -2,7 +2,7 @@ Generated 2017-04-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  37.8 |        26 |        +0.01 |               |
+|    1 | Colin Grant               |  37.9 |        27 |        +0.14 |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
 |    3 | Ashley Kayler             |  34.7 |       214 |        -0.36 |         -0.40 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -22,7 +22,7 @@ Generated 2017-04-14.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.4 |       146 |        +0.31 |         +0.21 |
+|   21 | Sam Sternberg             |  29.4 |       147 |        +0.25 |         +0.15 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -300,11 +300,11 @@ Generated 2017-04-14.
 |  296 | Max Woodworth             |  14.4 |         7 |              |               |
 |  297 | Juliet Shih               |  14.4 |        11 |              |               |
 |  298 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  299 | Adam Soliman              |  14.2 |        32 |              |               |
-|  300 | Charles Denby             |  14.2 |         5 |              |               |
-|  301 | Neil Sachs                |  14.1 |        12 |              |               |
-|  302 | Rupert Myers              |  14.0 |        27 |              |         +0.74 |
-|  303 | Sergey Dobrinov           |  13.9 |        14 |        +1.54 |               |
+|  299 | Sergey Dobrinov           |  14.3 |        15 |        +1.89 |               |
+|  300 | Adam Soliman              |  14.2 |        32 |              |               |
+|  301 | Charles Denby             |  14.2 |         5 |              |               |
+|  302 | Neil Sachs                |  14.1 |        12 |              |               |
+|  303 | Rupert Myers              |  14.0 |        27 |              |         +0.74 |
 |  304 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  305 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  306 | Gurj Johal                |  13.8 |         2 |              |               |
@@ -348,7 +348,7 @@ Generated 2017-04-14.
 |  344 | Karan Goyal               |  11.5 |         9 |        +0.52 |               |
 |  345 | Carlos Filho              |  11.4 |         7 |              |               |
 |  346 | Karan Jain                |  11.3 |        19 |              |               |
-|  347 | Josh Lebowitz             |  11.3 |        41 |        +0.14 |         +8.72 |
+|  347 | Josh Lebowitz             |  11.1 |        42 |        -0.04 |         +8.54 |
 |  348 | Lucas Siow                |  11.0 |        10 |              |               |
 |  349 | Dominick Ng               |  10.9 |        25 |              |               |
 |  350 | George Bentley            |  10.6 |         4 |              |               |
