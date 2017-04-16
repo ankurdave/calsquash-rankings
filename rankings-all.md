@@ -185,7 +185,7 @@ Generated 2017-04-15.
 |  181 | Shaun Lim                 |  19.6 |        59 |        +0.36 |         +1.13 |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
 |  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  184 | Mike Jensen-Akula         |  19.5 |       222 |        -0.46 |         -2.16 |
+|  184 | Mike Jensen-Akula         |  19.5 |       222 |        -0.45 |         -2.15 |
 |  185 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  186 | Greg Adams                |  19.3 |        10 |              |               |
 |  187 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
@@ -300,7 +300,7 @@ Generated 2017-04-15.
 |  296 | Max Woodworth             |  14.4 |         7 |              |               |
 |  297 | Juliet Shih               |  14.4 |        11 |              |               |
 |  298 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  299 | Sergey Dobrinov           |  14.3 |        15 |        +1.89 |               |
+|  299 | Sergey Dobrinov           |  14.3 |        16 |        +1.92 |               |
 |  300 | Adam Soliman              |  14.2 |        32 |              |               |
 |  301 | Charles Denby             |  14.2 |         5 |              |               |
 |  302 | Neil Sachs                |  14.1 |        12 |              |               |
@@ -348,7 +348,7 @@ Generated 2017-04-15.
 |  344 | Karan Goyal               |  11.5 |         9 |        +0.52 |               |
 |  345 | Carlos Filho              |  11.4 |         7 |              |               |
 |  346 | Karan Jain                |  11.3 |        19 |              |               |
-|  347 | Josh Lebowitz             |  11.1 |        42 |        -0.04 |         +8.54 |
+|  347 | Josh Lebowitz             |  11.1 |        42 |        -0.06 |         +8.52 |
 |  348 | Lucas Siow                |  11.0 |        10 |              |               |
 |  349 | Dominick Ng               |  10.9 |        25 |              |               |
 |  350 | George Bentley            |  10.6 |         4 |              |               |
@@ -406,12 +406,12 @@ Generated 2017-04-15.
 |  402 | Zarina Khan               |   8.0 |         5 |              |               |
 |  403 | Chip Malt                 |   7.9 |         4 |              |               |
 |  404 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  405 | Minsoo Bae                |   7.9 |         2 |              |               |
-|  406 | Akira Chiwaki             |   7.8 |         3 |              |               |
-|  407 | Felipe Gomez              |   7.7 |         4 |              |               |
-|  408 | Jeremy Brown              |   7.7 |         4 |              |               |
-|  409 | Ryan Akers                |   7.7 |         2 |              |               |
-|  410 | Janeau Janssen            |   7.6 |         9 |        -0.03 |               |
+|  405 | Janeau Janssen            |   7.9 |        10 |        +0.22 |               |
+|  406 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  407 | Akira Chiwaki             |   7.8 |         3 |              |               |
+|  408 | Felipe Gomez              |   7.7 |         4 |              |               |
+|  409 | Jeremy Brown              |   7.7 |         4 |              |               |
+|  410 | Ryan Akers                |   7.7 |         2 |              |               |
 |  411 | Yashraj Khaitain          |   7.6 |         2 |              |               |
 |  412 | Arno Ferguson             |   7.4 |         1 |              |               |
 |  413 | Alex Walters              |   7.4 |         3 |              |               |

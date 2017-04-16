@@ -22,7 +22,7 @@ Generated 2017-04-15.
 |   18 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
 |   19 | Robert Schwartz   |  20.1 |        88 |        -0.07 |         -1.10 |
 |   20 | Shaun Lim         |  19.6 |        59 |        +0.36 |         +1.13 |
-|   21 | Mike Jensen-Akula |  19.5 |       222 |        -0.46 |         -2.16 |
+|   21 | Mike Jensen-Akula |  19.5 |       222 |        -0.45 |         -2.15 |
 |   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
 |   23 | Dror Matalon      |  18.4 |       368 |        -0.24 |         +0.26 |
 |   24 | Eric Borden       |  18.0 |        43 |        +0.05 |         +0.42 |
@@ -34,17 +34,17 @@ Generated 2017-04-15.
 |   30 | Sahar Sareminaeni |  16.3 |        28 |        -0.45 |               |
 |   31 | Kent Daniels      |  14.7 |       105 |        -0.15 |         -0.05 |
 |   32 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
-|   33 | Sergey Dobrinov   |  14.3 |        15 |        +1.89 |               |
+|   33 | Sergey Dobrinov   |  14.3 |        16 |        +1.92 |               |
 |   34 | Meldan Heaslip    |  12.2 |        22 |        +0.14 |               |
 |   35 | Karan Goyal       |  11.5 |         9 |        +0.52 |               |
-|   36 | Josh Lebowitz     |  11.1 |        42 |        -0.04 |         +8.54 |
+|   36 | Josh Lebowitz     |  11.1 |        42 |        -0.06 |         +8.52 |
 |   37 | Grant Buckingham  |  10.6 |         2 |              |               |
 |   38 | Nate Aden         |  10.3 |        33 |        +0.14 |         +3.66 |
 |   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
 |   40 | Raphael Magarik   |   9.6 |        24 |        +0.19 |         +7.40 |
 |   41 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
 |   42 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
-|   43 | Janeau Janssen    |   7.6 |         9 |        -0.03 |               |
+|   43 | Janeau Janssen    |   7.9 |        10 |        +0.22 |               |
 |   44 | Norman Bonney     |   6.6 |         2 |              |               |
 |   45 | Alok Singh        |   6.5 |        18 |              |         +3.31 |
 |   46 | Jose Lara         |   6.5 |        14 |        +0.28 |         +0.32 |
