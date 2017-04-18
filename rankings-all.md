@@ -1,4 +1,4 @@
-Generated 2017-04-16.
+Generated 2017-04-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -169,11 +169,11 @@ Generated 2017-04-16.
 |  165 | John Grim                 |  20.1 |        13 |              |               |
 |  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  167 | Frank Kennan              |  20.1 |        11 |              |               |
-|  168 | Robert Schwartz           |  20.1 |        88 |        -0.07 |         -1.10 |
-|  169 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  170 | Jonathan Francis          |  20.0 |        76 |              |         +0.53 |
-|  171 | Wesley Huang              |  20.0 |         8 |              |               |
-|  172 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  168 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  169 | Jonathan Francis          |  20.0 |        76 |              |         +0.53 |
+|  170 | Wesley Huang              |  20.0 |         8 |              |               |
+|  171 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  172 | Robert Schwartz           |  19.9 |        89 |        -0.28 |         -1.31 |
 |  173 | Liam King                 |  19.9 |         6 |              |               |
 |  174 | Lysander Jim              |  19.8 |         6 |              |               |
 |  175 | Sebastien Biraud          |  19.7 |        60 |              |               |
@@ -218,19 +218,19 @@ Generated 2017-04-16.
 |  214 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  215 | Bob Roller                |  18.2 |         6 |              |               |
 |  216 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  217 | Eric Borden               |  18.0 |        43 |        +0.05 |         +0.42 |
+|  217 | Eric Borden               |  18.1 |        43 |        +0.07 |         +0.43 |
 |  218 | James Chung               |  17.9 |         7 |              |               |
 |  219 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  220 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
 |  221 | Nick Paget                |  17.8 |        35 |              |               |
 |  222 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  223 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  224 | George Roche              |  17.7 |        14 |              |               |
-|  225 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  226 | Subrato Dey               |  17.5 |        26 |              |         +1.33 |
-|  227 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  228 | Ankur Dave                |  17.5 |        68 |        +1.03 |         +6.78 |
-|  229 | Josh Trauner              |  17.5 |        55 |        +0.16 |         +1.19 |
+|  224 | Josh Trauner              |  17.7 |        56 |        +0.38 |         +1.41 |
+|  225 | George Roche              |  17.7 |        14 |              |               |
+|  226 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  227 | Subrato Dey               |  17.5 |        26 |              |         +1.33 |
+|  228 | Antonio Garcia            |  17.5 |        20 |              |               |
+|  229 | Ankur Dave                |  17.5 |        68 |        +1.03 |         +6.78 |
 |  230 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  231 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  232 | Craig Riddell             |  17.4 |         8 |              |               |
@@ -257,7 +257,7 @@ Generated 2017-04-16.
 |  253 | Mike Troxell              |  16.5 |         8 |              |               |
 |  254 | Chris Flores              |  16.4 |       316 |        +0.19 |         -0.92 |
 |  255 | Danish Mir                |  16.4 |         1 |              |               |
-|  256 | Sahar Sareminaeni         |  16.3 |        28 |        -0.45 |               |
+|  256 | Sahar Sareminaeni         |  16.3 |        28 |        -0.44 |               |
 |  257 | Paul Chang                |  16.3 |         7 |              |               |
 |  258 | Steven Hahm               |  16.3 |         5 |              |               |
 |  259 | Jules Bowie               |  16.3 |        12 |              |               |

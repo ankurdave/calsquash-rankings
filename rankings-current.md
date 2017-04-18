@@ -1,4 +1,4 @@
-Generated 2017-04-16.
+Generated 2017-04-17.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -20,18 +20,18 @@ Generated 2017-04-16.
 |   16 | Reid Johnsen      |  21.3 |        48 |              |         -0.11 |
 |   17 | Marc Schechter    |  20.6 |        13 |        -0.65 |               |
 |   18 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
-|   19 | Robert Schwartz   |  20.1 |        88 |        -0.07 |         -1.10 |
+|   19 | Robert Schwartz   |  19.9 |        89 |        -0.28 |         -1.31 |
 |   20 | Shaun Lim         |  19.6 |        59 |        +0.36 |         +1.13 |
 |   21 | Mike Jensen-Akula |  19.5 |       222 |        -0.45 |         -2.15 |
 |   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
 |   23 | Dror Matalon      |  18.4 |       368 |        -0.24 |         +0.26 |
-|   24 | Eric Borden       |  18.0 |        43 |        +0.05 |         +0.42 |
-|   25 | Ankur Dave        |  17.5 |        68 |        +1.03 |         +6.78 |
-|   26 | Josh Trauner      |  17.5 |        55 |        +0.16 |         +1.19 |
+|   24 | Eric Borden       |  18.1 |        43 |        +0.07 |         +0.43 |
+|   25 | Josh Trauner      |  17.7 |        56 |        +0.38 |         +1.41 |
+|   26 | Ankur Dave        |  17.5 |        68 |        +1.03 |         +6.78 |
 |   27 | Wayne Heiser      |  17.2 |        47 |        -0.42 |         +3.33 |
 |   28 | David Bratt       |  16.9 |        28 |        -0.31 |         +0.47 |
 |   29 | Chris Flores      |  16.4 |       316 |        +0.19 |         -0.92 |
-|   30 | Sahar Sareminaeni |  16.3 |        28 |        -0.45 |               |
+|   30 | Sahar Sareminaeni |  16.3 |        28 |        -0.44 |               |
 |   31 | Kent Daniels      |  14.7 |       105 |        -0.15 |         -0.05 |
 |   32 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
 |   33 | Sergey Dobrinov   |  14.3 |        16 |        +1.92 |               |
