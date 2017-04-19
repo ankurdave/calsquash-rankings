@@ -1,4 +1,4 @@
-Generated 2017-04-17.
+Generated 2017-04-18.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -33,17 +33,17 @@ Generated 2017-04-17.
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
-|   32 | Anibhav Singla            |  27.2 |        13 |              |               |
-|   33 | Samer Shehata             |  27.2 |        29 |              |               |
-|   34 | Frank Kennamer            |  27.0 |       221 |              |         +0.62 |
-|   35 | Hussain Raza              |  27.0 |        50 |              |               |
-|   36 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   37 | Alan Jose                 |  26.9 |       182 |              |               |
-|   38 | Michael Best              |  26.9 |        21 |              |               |
-|   39 | Nick Cobbett              |  26.9 |        30 |              |         +1.61 |
-|   40 | Josh Taylor               |  26.8 |        40 |              |               |
-|   41 | David Hwang               |  26.8 |        44 |              |               |
-|   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
+|   32 | Samer Shehata             |  27.2 |        29 |              |               |
+|   33 | Frank Kennamer            |  27.0 |       221 |              |         +0.62 |
+|   34 | Hussain Raza              |  27.0 |        50 |              |               |
+|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   36 | Alan Jose                 |  26.9 |       182 |              |               |
+|   37 | Michael Best              |  26.9 |        21 |              |               |
+|   38 | Nick Cobbett              |  26.9 |        30 |              |         +1.61 |
+|   39 | Josh Taylor               |  26.8 |        40 |              |               |
+|   40 | David Hwang               |  26.8 |        44 |              |               |
+|   41 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
+|   42 | Anibhav Singla            |  26.7 |        14 |        -0.54 |               |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
 |   45 | Andrew Moylan             |  26.3 |        95 |              |               |
@@ -88,12 +88,12 @@ Generated 2017-04-17.
 |   84 | Benjamin Vicuna           |  24.1 |        50 |              |         +0.39 |
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   86 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   87 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   88 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   89 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   90 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   91 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
-|   92 | Matt Wong                 |  23.7 |        89 |              |         +2.61 |
+|   87 | Matt Wong                 |  24.0 |        90 |        +0.26 |         +2.87 |
+|   88 | Ignacio Canals            |  24.0 |        21 |              |               |
+|   89 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   90 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   91 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   92 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
 |   93 | Matt Waid                 |  23.7 |        51 |              |               |
 |   94 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   95 | Nader Shoaibi             |  23.7 |        64 |              |               |
