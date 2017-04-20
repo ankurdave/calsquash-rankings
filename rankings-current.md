@@ -1,4 +1,4 @@
-Generated 2017-04-18.
+Generated 2017-04-19.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -6,14 +6,14 @@ Generated 2017-04-18.
 |    2 | Ashley Kayler     |  34.6 |       214 |        -0.43 |         -0.47 |
 |    3 | Eric Katerman     |  32.6 |        45 |        +0.40 |               |
 |    4 | Sam Sternberg     |  29.4 |       147 |        +0.24 |         +0.13 |
-|    5 | Frank Kennamer    |  27.0 |       221 |              |         +0.62 |
-|    6 | Anibhav Singla    |  26.7 |        14 |        -0.54 |               |
+|    5 | Anibhav Singla    |  27.2 |        15 |        +0.02 |               |
+|    6 | Frank Kennamer    |  27.0 |       221 |              |         +0.62 |
 |    7 | Shrinu Kushagra   |  25.3 |        10 |        +1.76 |               |
 |    8 | Sam McCormick     |  24.5 |        31 |        -0.04 |         +3.86 |
 |    9 | John Kunze        |  24.4 |       320 |              |         -0.51 |
 |   10 | Matt Wong         |  24.0 |        90 |        +0.26 |         +2.87 |
 |   11 | Matt Wild         |  23.5 |        31 |              |         +0.52 |
-|   12 | Dan Bohn          |  23.3 |        92 |              |         -0.41 |
+|   12 | Dan Bohn          |  23.2 |        93 |        -0.11 |         -0.52 |
 |   13 | Dan Meier         |  22.4 |        63 |              |         +0.14 |
 |   14 | Jonathan Hankar   |  22.2 |       200 |              |         +0.18 |
 |   15 | Jared Bard        |  21.5 |        45 |              |         -0.06 |

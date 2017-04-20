@@ -1,4 +1,4 @@
-Generated 2017-04-18.
+Generated 2017-04-19.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -32,18 +32,18 @@ Generated 2017-04-18.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Stephen Dang              |  27.2 |        34 |              |               |
-|   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.0 |       221 |              |         +0.62 |
-|   34 | Hussain Raza              |  27.0 |        50 |              |               |
-|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   36 | Alan Jose                 |  26.9 |       182 |              |               |
-|   37 | Michael Best              |  26.9 |        21 |              |               |
-|   38 | Nick Cobbett              |  26.9 |        30 |              |         +1.61 |
-|   39 | Josh Taylor               |  26.8 |        40 |              |               |
-|   40 | David Hwang               |  26.8 |        44 |              |               |
-|   41 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
-|   42 | Anibhav Singla            |  26.7 |        14 |        -0.54 |               |
+|   31 | Anibhav Singla            |  27.2 |        15 |        +0.02 |               |
+|   32 | Stephen Dang              |  27.2 |        34 |              |               |
+|   33 | Samer Shehata             |  27.2 |        29 |              |               |
+|   34 | Frank Kennamer            |  27.0 |       221 |              |         +0.62 |
+|   35 | Hussain Raza              |  27.0 |        50 |              |               |
+|   36 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   37 | Alan Jose                 |  26.9 |       182 |              |               |
+|   38 | Michael Best              |  26.9 |        21 |              |               |
+|   39 | Nick Cobbett              |  26.9 |        30 |              |         +1.61 |
+|   40 | Josh Taylor               |  26.8 |        40 |              |               |
+|   41 | David Hwang               |  26.8 |        44 |              |               |
+|   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
 |   45 | Andrew Moylan             |  26.3 |        95 |              |               |
@@ -100,7 +100,7 @@ Generated 2017-04-18.
 |   96 | Amy Lee                   |  23.6 |        56 |              |               |
 |   97 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |   98 | Garvin Heath              |  23.4 |        28 |              |               |
-|   99 | Dan Bohn                  |  23.3 |        92 |              |         -0.41 |
+|   99 | Dan Bohn                  |  23.2 |        93 |        -0.11 |         -0.52 |
 |  100 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  101 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  102 | Joe Farrell               |  23.0 |        30 |              |               |
