@@ -1,4 +1,4 @@
-Generated 2017-04-19.
+Generated 2017-04-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -185,7 +185,7 @@ Generated 2017-04-19.
 |  181 | Shaun Lim                 |  19.6 |        59 |        +0.36 |         +1.13 |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
 |  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  184 | Mike Jensen-Akula         |  19.5 |       222 |        -0.45 |         -2.15 |
+|  184 | Mike Jensen-Akula         |  19.5 |       222 |        -0.46 |         -2.16 |
 |  185 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  186 | Greg Adams                |  19.3 |        10 |              |               |
 |  187 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
@@ -292,15 +292,15 @@ Generated 2017-04-19.
 |  288 | David Elfant              |  14.7 |         2 |              |               |
 |  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  290 | Kent Daniels              |  14.7 |       105 |        -0.15 |         -0.05 |
-|  291 | Nikhil Paranjape          |  14.7 |        43 |        +0.46 |         +5.82 |
-|  292 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  293 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  294 | Shai Vardi                |  14.5 |         4 |              |               |
-|  295 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  296 | Max Woodworth             |  14.4 |         7 |              |               |
-|  297 | Juliet Shih               |  14.4 |        11 |              |               |
-|  298 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  299 | Sergey Dobrinov           |  14.3 |        16 |        +1.92 |               |
+|  291 | Sergey Dobrinov           |  14.7 |        17 |        +2.28 |               |
+|  292 | Nikhil Paranjape          |  14.7 |        43 |        +0.46 |         +5.82 |
+|  293 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  294 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  295 | Shai Vardi                |  14.5 |         4 |              |               |
+|  296 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  297 | Max Woodworth             |  14.4 |         7 |              |               |
+|  298 | Juliet Shih               |  14.4 |        11 |              |               |
+|  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  300 | Adam Soliman              |  14.2 |        32 |              |               |
 |  301 | Charles Denby             |  14.2 |         5 |              |               |
 |  302 | Neil Sachs                |  14.1 |        12 |              |               |
@@ -330,10 +330,10 @@ Generated 2017-04-19.
 |  326 | Richard Fabini            |  12.4 |         3 |              |               |
 |  327 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
 |  328 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
-|  329 | Meldan Heaslip            |  12.2 |        22 |        +0.14 |               |
-|  330 | John Givens               |  12.2 |        13 |              |               |
-|  331 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  332 | Reed Foster               |  12.1 |         8 |              |               |
+|  329 | John Givens               |  12.2 |        13 |              |               |
+|  330 | Sylvan Arevalo            |  12.2 |         3 |              |               |
+|  331 | Reed Foster               |  12.1 |         8 |              |               |
+|  332 | Meldan Heaslip            |  12.0 |        23 |        -0.11 |               |
 |  333 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  334 | Larry Dale                |  11.9 |        29 |              |               |
 |  335 | Aman Gupta                |  11.8 |         3 |              |               |
@@ -348,7 +348,7 @@ Generated 2017-04-19.
 |  344 | Karan Goyal               |  11.5 |         9 |        +0.52 |               |
 |  345 | Carlos Filho              |  11.4 |         7 |              |               |
 |  346 | Karan Jain                |  11.3 |        19 |              |               |
-|  347 | Josh Lebowitz             |  11.1 |        42 |        -0.06 |         +8.52 |
+|  347 | Josh Lebowitz             |  11.1 |        42 |        -0.03 |         +8.55 |
 |  348 | Lucas Siow                |  11.0 |        10 |              |               |
 |  349 | Dominick Ng               |  10.9 |        25 |              |               |
 |  350 | George Bentley            |  10.6 |         4 |              |               |

@@ -1,4 +1,4 @@
-Generated 2017-04-19.
+Generated 2017-04-20.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -22,7 +22,7 @@ Generated 2017-04-19.
 |   18 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
 |   19 | Robert Schwartz   |  19.9 |        89 |        -0.28 |         -1.31 |
 |   20 | Shaun Lim         |  19.6 |        59 |        +0.36 |         +1.13 |
-|   21 | Mike Jensen-Akula |  19.5 |       222 |        -0.45 |         -2.15 |
+|   21 | Mike Jensen-Akula |  19.5 |       222 |        -0.46 |         -2.16 |
 |   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
 |   23 | Dror Matalon      |  18.4 |       368 |        -0.24 |         +0.26 |
 |   24 | Eric Borden       |  18.1 |        43 |        +0.07 |         +0.43 |
@@ -33,11 +33,11 @@ Generated 2017-04-19.
 |   29 | Chris Flores      |  16.4 |       316 |        +0.19 |         -0.92 |
 |   30 | Sahar Sareminaeni |  16.3 |        28 |        -0.44 |               |
 |   31 | Kent Daniels      |  14.7 |       105 |        -0.15 |         -0.05 |
-|   32 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
-|   33 | Sergey Dobrinov   |  14.3 |        16 |        +1.92 |               |
-|   34 | Meldan Heaslip    |  12.2 |        22 |        +0.14 |               |
+|   32 | Sergey Dobrinov   |  14.7 |        17 |        +2.28 |               |
+|   33 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
+|   34 | Meldan Heaslip    |  12.0 |        23 |        -0.11 |               |
 |   35 | Karan Goyal       |  11.5 |         9 |        +0.52 |               |
-|   36 | Josh Lebowitz     |  11.1 |        42 |        -0.06 |         +8.52 |
+|   36 | Josh Lebowitz     |  11.1 |        42 |        -0.03 |         +8.55 |
 |   37 | Grant Buckingham  |  10.6 |         2 |              |               |
 |   38 | Nate Aden         |  10.3 |        33 |        +0.14 |         +3.66 |
 |   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
