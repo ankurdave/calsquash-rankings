@@ -1,4 +1,4 @@
-Generated 2017-04-20.
+Generated 2017-04-21.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -291,13 +291,13 @@ Generated 2017-04-20.
 |  287 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  288 | David Elfant              |  14.7 |         2 |              |               |
 |  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  290 | Kent Daniels              |  14.7 |       105 |        -0.15 |         -0.05 |
-|  291 | Sergey Dobrinov           |  14.7 |        17 |        +2.28 |               |
-|  292 | Nikhil Paranjape          |  14.7 |        43 |        +0.46 |         +5.82 |
-|  293 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  294 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  295 | Shai Vardi                |  14.5 |         4 |              |               |
-|  296 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  290 | Sergey Dobrinov           |  14.7 |        17 |        +2.30 |               |
+|  291 | Nikhil Paranjape          |  14.7 |        43 |        +0.46 |         +5.82 |
+|  292 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  293 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  294 | Shai Vardi                |  14.5 |         4 |              |               |
+|  295 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  296 | Kent Daniels              |  14.4 |       106 |        -0.39 |         -0.30 |
 |  297 | Max Woodworth             |  14.4 |         7 |              |               |
 |  298 | Juliet Shih               |  14.4 |        11 |              |               |
 |  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
@@ -346,9 +346,9 @@ Generated 2017-04-20.
 |  342 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  343 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  344 | Karan Goyal               |  11.5 |         9 |        +0.52 |               |
-|  345 | Carlos Filho              |  11.4 |         7 |              |               |
-|  346 | Karan Jain                |  11.3 |        19 |              |               |
-|  347 | Josh Lebowitz             |  11.1 |        42 |        -0.03 |         +8.55 |
+|  345 | Josh Lebowitz             |  11.4 |        43 |        +0.31 |         +8.89 |
+|  346 | Carlos Filho              |  11.4 |         7 |              |               |
+|  347 | Karan Jain                |  11.3 |        19 |              |               |
 |  348 | Lucas Siow                |  11.0 |        10 |              |               |
 |  349 | Dominick Ng               |  10.9 |        25 |              |               |
 |  350 | George Bentley            |  10.6 |         4 |              |               |

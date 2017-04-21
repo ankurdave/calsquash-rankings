@@ -1,4 +1,4 @@
-Generated 2017-04-20.
+Generated 2017-04-21.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -32,12 +32,12 @@ Generated 2017-04-20.
 |   28 | David Bratt       |  16.9 |        28 |        -0.31 |         +0.47 |
 |   29 | Chris Flores      |  16.4 |       316 |        +0.19 |         -0.92 |
 |   30 | Sahar Sareminaeni |  16.3 |        28 |        -0.44 |               |
-|   31 | Kent Daniels      |  14.7 |       105 |        -0.15 |         -0.05 |
-|   32 | Sergey Dobrinov   |  14.7 |        17 |        +2.28 |               |
-|   33 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
+|   31 | Sergey Dobrinov   |  14.7 |        17 |        +2.30 |               |
+|   32 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
+|   33 | Kent Daniels      |  14.4 |       106 |        -0.39 |         -0.30 |
 |   34 | Meldan Heaslip    |  12.0 |        23 |        -0.11 |               |
 |   35 | Karan Goyal       |  11.5 |         9 |        +0.52 |               |
-|   36 | Josh Lebowitz     |  11.1 |        42 |        -0.03 |         +8.55 |
+|   36 | Josh Lebowitz     |  11.4 |        43 |        +0.31 |         +8.89 |
 |   37 | Grant Buckingham  |  10.6 |         2 |              |               |
 |   38 | Nate Aden         |  10.3 |        33 |        +0.14 |         +3.66 |
 |   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
