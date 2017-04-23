@@ -1,4 +1,4 @@
-Generated 2017-04-21.
+Generated 2017-04-22.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -32,10 +32,10 @@ Generated 2017-04-21.
 |   28 | David Bratt       |  16.9 |        28 |        -0.31 |         +0.47 |
 |   29 | Chris Flores      |  16.4 |       316 |        +0.19 |         -0.92 |
 |   30 | Sahar Sareminaeni |  16.3 |        28 |        -0.44 |               |
-|   31 | Sergey Dobrinov   |  14.7 |        17 |        +2.30 |               |
+|   31 | Sergey Dobrinov   |  14.7 |        17 |        +2.29 |               |
 |   32 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
 |   33 | Kent Daniels      |  14.4 |       106 |        -0.39 |         -0.30 |
-|   34 | Meldan Heaslip    |  12.0 |        23 |        -0.11 |               |
+|   34 | Meldan Heaslip    |  11.9 |        24 |        -0.18 |               |
 |   35 | Karan Goyal       |  11.5 |         9 |        +0.52 |               |
 |   36 | Josh Lebowitz     |  11.4 |        43 |        +0.31 |         +8.89 |
 |   37 | Grant Buckingham  |  10.6 |         2 |              |               |
@@ -43,8 +43,8 @@ Generated 2017-04-21.
 |   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
 |   40 | Raphael Magarik   |   9.6 |        24 |        +0.19 |         +7.40 |
 |   41 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
-|   42 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
-|   43 | Janeau Janssen    |   7.9 |        10 |        +0.22 |               |
+|   42 | Janeau Janssen    |   8.4 |        11 |        +0.77 |               |
+|   43 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
 |   44 | Norman Bonney     |   6.6 |         2 |              |               |
 |   45 | Alok Singh        |   6.5 |        18 |              |         +3.31 |
 |   46 | Jose Lara         |   6.5 |        14 |        +0.28 |         +0.32 |

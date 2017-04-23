@@ -1,4 +1,4 @@
-Generated 2017-04-21.
+Generated 2017-04-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -291,7 +291,7 @@ Generated 2017-04-21.
 |  287 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  288 | David Elfant              |  14.7 |         2 |              |               |
 |  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  290 | Sergey Dobrinov           |  14.7 |        17 |        +2.30 |               |
+|  290 | Sergey Dobrinov           |  14.7 |        17 |        +2.29 |               |
 |  291 | Nikhil Paranjape          |  14.7 |        43 |        +0.46 |         +5.82 |
 |  292 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  293 | Jee Hwan Kim              |  14.6 |         7 |              |               |
@@ -333,8 +333,8 @@ Generated 2017-04-21.
 |  329 | John Givens               |  12.2 |        13 |              |               |
 |  330 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  331 | Reed Foster               |  12.1 |         8 |              |               |
-|  332 | Meldan Heaslip            |  12.0 |        23 |        -0.11 |               |
-|  333 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  332 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  333 | Meldan Heaslip            |  11.9 |        24 |        -0.18 |               |
 |  334 | Larry Dale                |  11.9 |        29 |              |               |
 |  335 | Aman Gupta                |  11.8 |         3 |              |               |
 |  336 | Mitchell O'Connell        |  11.8 |        32 |              |               |
@@ -393,20 +393,20 @@ Generated 2017-04-21.
 |  389 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  390 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  391 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  392 | Reynold Xin               |   8.3 |         5 |              |               |
-|  393 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  394 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  395 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  396 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  397 | John Coates               |   8.1 |         9 |              |               |
-|  398 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  399 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  400 | Brian Kempenich           |   8.1 |        44 |              |         -1.07 |
-|  401 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  402 | Zarina Khan               |   8.0 |         5 |              |               |
-|  403 | Chip Malt                 |   7.9 |         4 |              |               |
-|  404 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  405 | Janeau Janssen            |   7.9 |        10 |        +0.22 |               |
+|  392 | Janeau Janssen            |   8.4 |        11 |        +0.77 |               |
+|  393 | Reynold Xin               |   8.3 |         5 |              |               |
+|  394 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  395 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  396 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  397 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  398 | John Coates               |   8.1 |         9 |              |               |
+|  399 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  400 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  401 | Brian Kempenich           |   8.1 |        44 |              |         -1.07 |
+|  402 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  403 | Zarina Khan               |   8.0 |         5 |              |               |
+|  404 | Chip Malt                 |   7.9 |         4 |              |               |
+|  405 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  406 | Minsoo Bae                |   7.9 |         2 |              |               |
 |  407 | Akira Chiwaki             |   7.8 |         3 |              |               |
 |  408 | Felipe Gomez              |   7.7 |         4 |              |               |
