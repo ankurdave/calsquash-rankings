@@ -32,9 +32,9 @@ Generated 2017-04-24.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Anibhav Singla            |  27.2 |        15 |        +0.02 |               |
-|   32 | Stephen Dang              |  27.2 |        34 |              |               |
-|   33 | Samer Shehata             |  27.2 |        29 |              |               |
+|   31 | Stephen Dang              |  27.2 |        34 |              |               |
+|   32 | Samer Shehata             |  27.2 |        29 |              |               |
+|   33 | Anibhav Singla            |  27.2 |        15 |        -0.06 |               |
 |   34 | Frank Kennamer            |  27.0 |       221 |              |         +0.62 |
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
@@ -69,12 +69,12 @@ Generated 2017-04-24.
 |   65 | Orion Hodson              |  24.8 |        31 |              |               |
 |   66 | Martin Stokes             |  24.7 |        12 |              |               |
 |   67 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   69 | Sam McCormick             |  24.5 |        31 |        -0.04 |         +3.86 |
-|   70 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   71 | Adam Pollak               |  24.5 |        31 |              |               |
-|   72 | Jon Shih                  |  24.4 |        47 |              |               |
-|   73 | John Kunze                |  24.4 |       320 |              |         -0.51 |
+|   68 | John Kunze                |  24.6 |       321 |        +0.15 |         -0.36 |
+|   69 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   70 | Sam McCormick             |  24.5 |        31 |        -0.04 |         +3.86 |
+|   71 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   72 | Adam Pollak               |  24.5 |        31 |              |               |
+|   73 | Jon Shih                  |  24.4 |        47 |              |               |
 |   74 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   75 | Jim Veitch                |  24.4 |       447 |              |         -2.01 |
 |   76 | Todd Wirsching            |  24.3 |         8 |              |               |
@@ -88,9 +88,9 @@ Generated 2017-04-24.
 |   84 | Benjamin Vicuna           |  24.1 |        50 |              |         +0.39 |
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   86 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   87 | Matt Wong                 |  24.0 |        90 |        +0.26 |         +2.87 |
-|   88 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   89 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   87 | Ignacio Canals            |  24.0 |        21 |              |               |
+|   88 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   89 | Matt Wong                 |  23.9 |        91 |        +0.15 |         +2.76 |
 |   90 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   91 | Joseff Farrell            |  23.8 |         5 |              |               |
 |   92 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
@@ -100,7 +100,7 @@ Generated 2017-04-24.
 |   96 | Amy Lee                   |  23.6 |        56 |              |               |
 |   97 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |   98 | Garvin Heath              |  23.4 |        28 |              |               |
-|   99 | Dan Bohn                  |  23.2 |        93 |        -0.11 |         -0.52 |
+|   99 | Dan Bohn                  |  23.2 |        93 |        -0.09 |         -0.51 |
 |  100 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  101 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  102 | Joe Farrell               |  23.0 |        30 |              |               |

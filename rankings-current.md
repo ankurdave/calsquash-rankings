@@ -6,14 +6,14 @@ Generated 2017-04-24.
 |    2 | Ashley Kayler     |  34.6 |       214 |        -0.43 |         -0.47 |
 |    3 | Eric Katerman     |  32.6 |        45 |        +0.40 |               |
 |    4 | Sam Sternberg     |  29.4 |       147 |        +0.24 |         +0.13 |
-|    5 | Anibhav Singla    |  27.2 |        15 |        +0.02 |               |
+|    5 | Anibhav Singla    |  27.2 |        15 |        -0.06 |               |
 |    6 | Frank Kennamer    |  27.0 |       221 |              |         +0.62 |
 |    7 | Shrinu Kushagra   |  25.3 |        10 |        +1.76 |               |
-|    8 | Sam McCormick     |  24.5 |        31 |        -0.04 |         +3.86 |
-|    9 | John Kunze        |  24.4 |       320 |              |         -0.51 |
-|   10 | Matt Wong         |  24.0 |        90 |        +0.26 |         +2.87 |
+|    8 | John Kunze        |  24.6 |       321 |        +0.15 |         -0.36 |
+|    9 | Sam McCormick     |  24.5 |        31 |        -0.04 |         +3.86 |
+|   10 | Matt Wong         |  23.9 |        91 |        +0.15 |         +2.76 |
 |   11 | Matt Wild         |  23.5 |        31 |              |         +0.52 |
-|   12 | Dan Bohn          |  23.2 |        93 |        -0.11 |         -0.52 |
+|   12 | Dan Bohn          |  23.2 |        93 |        -0.09 |         -0.51 |
 |   13 | Jonathan Hankar   |  22.3 |       201 |        +0.18 |         +0.36 |
 |   14 | Dan Meier         |  22.2 |        64 |        -0.17 |         -0.03 |
 |   15 | Jared Bard        |  21.5 |        45 |              |         -0.06 |
