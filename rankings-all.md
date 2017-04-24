@@ -1,4 +1,4 @@
-Generated 2017-04-22.
+Generated 2017-04-24.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -111,12 +111,12 @@ Generated 2017-04-22.
 |  107 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  108 | Dev Millstein             |  22.6 |        92 |              |               |
 |  109 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  110 | Dan Meier                 |  22.4 |        63 |              |         +0.14 |
-|  111 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  110 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  111 | Jonathan Hankar           |  22.3 |       201 |        +0.18 |         +0.36 |
 |  112 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
-|  115 | Jonathan Hankar           |  22.2 |       200 |              |         +0.18 |
+|  115 | Dan Meier                 |  22.2 |        64 |        -0.17 |         -0.03 |
 |  116 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  117 | Thomas Littleton          |  22.1 |         3 |              |               |
 |  118 | Dennis Dornan             |  22.1 |        12 |              |               |
