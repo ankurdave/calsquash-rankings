@@ -246,16 +246,16 @@ Generated 2017-04-24.
 |  242 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  243 | Neil Conway               |  17.0 |        55 |              |               |
 |  244 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  245 | Baxter Leman              |  16.9 |         6 |              |               |
-|  246 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  247 | David Bratt               |  16.9 |        28 |        -0.31 |         +0.47 |
+|  245 | David Bratt               |  17.0 |        29 |        -0.21 |         +0.56 |
+|  246 | Baxter Leman              |  16.9 |         6 |              |               |
+|  247 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  248 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  249 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  250 | David Shabelman           |  16.7 |        30 |              |               |
 |  251 | Mark Priven               |  16.6 |        72 |              |               |
 |  252 | William Coleman           |  16.5 |        48 |              |               |
 |  253 | Mike Troxell              |  16.5 |         8 |              |               |
-|  254 | Chris Flores              |  16.4 |       316 |        +0.19 |         -0.92 |
+|  254 | Chris Flores              |  16.4 |       317 |        +0.17 |         -0.94 |
 |  255 | Danish Mir                |  16.4 |         1 |              |               |
 |  256 | Sahar Sareminaeni         |  16.3 |        28 |        -0.44 |               |
 |  257 | Paul Chang                |  16.3 |         7 |              |               |

@@ -29,8 +29,8 @@ Generated 2017-04-24.
 |   25 | Josh Trauner      |  18.0 |        57 |        +0.64 |         +1.66 |
 |   26 | Ankur Dave        |  17.5 |        68 |        +1.03 |         +6.78 |
 |   27 | Wayne Heiser      |  17.2 |        47 |        -0.42 |         +3.33 |
-|   28 | David Bratt       |  16.9 |        28 |        -0.31 |         +0.47 |
-|   29 | Chris Flores      |  16.4 |       316 |        +0.19 |         -0.92 |
+|   28 | David Bratt       |  17.0 |        29 |        -0.21 |         +0.56 |
+|   29 | Chris Flores      |  16.4 |       317 |        +0.17 |         -0.94 |
 |   30 | Sahar Sareminaeni |  16.3 |        28 |        -0.44 |               |
 |   31 | Sergey Dobrinov   |  14.7 |        17 |        +2.29 |               |
 |   32 | Nikhil Paranjape  |  14.7 |        43 |        +0.46 |         +5.82 |
