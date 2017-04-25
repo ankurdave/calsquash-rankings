@@ -1,16 +1,16 @@
-Generated 2017-04-24.
+Generated 2017-04-25.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant       |  36.8 |        28 |        -0.96 |               |
-|    2 | Ashley Kayler     |  34.7 |       214 |        -0.37 |         -0.42 |
-|    3 | Eric Katerman     |  32.6 |        45 |        +0.43 |               |
-|    4 | Sam Sternberg     |  29.4 |       147 |        +0.23 |         +0.13 |
+|    1 | Colin Grant       |  36.8 |        28 |        -0.95 |               |
+|    2 | Ashley Kayler     |  34.7 |       214 |        -0.37 |         -0.41 |
+|    3 | Eric Katerman     |  32.7 |        46 |        +0.50 |               |
+|    4 | Sam Sternberg     |  29.4 |       147 |        +0.24 |         +0.13 |
 |    5 | Anibhav Singla    |  27.2 |        15 |        -0.05 |               |
 |    6 | Frank Kennamer    |  27.0 |       221 |              |         +0.62 |
-|    7 | Shrinu Kushagra   |  25.3 |        10 |        +1.77 |               |
-|    8 | Sam McCormick     |  24.5 |        31 |        -0.04 |         +3.86 |
-|    9 | John Kunze        |  24.4 |       322 |        +0.02 |         -0.48 |
+|    7 | Shrinu Kushagra   |  25.3 |        10 |        +1.78 |               |
+|    8 | John Kunze        |  24.4 |       322 |        +0.02 |         -0.48 |
+|    9 | Sam McCormick     |  24.4 |        32 |        -0.13 |         +3.78 |
 |   10 | Matt Wong         |  23.9 |        91 |        +0.15 |         +2.76 |
 |   11 | Matt Wild         |  23.5 |        31 |              |         +0.52 |
 |   12 | Dan Bohn          |  23.4 |        94 |        +0.05 |         -0.37 |

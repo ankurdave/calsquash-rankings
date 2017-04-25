@@ -1,16 +1,16 @@
-Generated 2017-04-24.
+Generated 2017-04-25.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  36.8 |        28 |        -0.96 |               |
+|    1 | Colin Grant               |  36.8 |        28 |        -0.95 |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
-|    3 | Ashley Kayler             |  34.7 |       214 |        -0.37 |         -0.42 |
+|    3 | Ashley Kayler             |  34.7 |       214 |        -0.37 |         -0.41 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    8 | Louis Morrill             |  32.7 |        10 |              |               |
-|    9 | Eric Katerman             |  32.6 |        45 |        +0.43 |               |
+|    9 | Eric Katerman             |  32.7 |        46 |        +0.50 |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   12 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
@@ -22,7 +22,7 @@ Generated 2017-04-24.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.4 |       147 |        +0.23 |         +0.13 |
+|   21 | Sam Sternberg             |  29.4 |       147 |        +0.24 |         +0.13 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -57,7 +57,7 @@ Generated 2017-04-24.
 |   53 | Adam Angsten              |  25.4 |         3 |              |               |
 |   54 | Matt Nelson-Teutsch       |  25.4 |        10 |              |               |
 |   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
-|   56 | Shrinu Kushagra           |  25.3 |        10 |        +1.77 |               |
+|   56 | Shrinu Kushagra           |  25.3 |        10 |        +1.78 |               |
 |   57 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   58 | Paul Greene               |  25.2 |         8 |              |               |
 |   59 | Mukul Sud                 |  25.0 |         3 |              |               |
@@ -70,12 +70,12 @@ Generated 2017-04-24.
 |   66 | Martin Stokes             |  24.7 |        12 |              |               |
 |   67 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   69 | Sam McCormick             |  24.5 |        31 |        -0.04 |         +3.86 |
-|   70 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   71 | Adam Pollak               |  24.5 |        31 |              |               |
-|   72 | John Kunze                |  24.4 |       322 |        +0.02 |         -0.48 |
-|   73 | Jon Shih                  |  24.4 |        47 |              |               |
-|   74 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   70 | Adam Pollak               |  24.5 |        31 |              |               |
+|   71 | John Kunze                |  24.4 |       322 |        +0.02 |         -0.48 |
+|   72 | Jon Shih                  |  24.4 |        47 |              |               |
+|   73 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   74 | Sam McCormick             |  24.4 |        32 |        -0.13 |         +3.78 |
 |   75 | Jim Veitch                |  24.4 |       447 |              |         -2.01 |
 |   76 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   77 | Harlan Yu                 |  24.3 |        19 |              |               |
