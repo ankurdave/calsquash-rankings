@@ -173,7 +173,7 @@ Generated 2017-04-24.
 |  169 | Jonathan Francis          |  20.0 |        76 |              |         +0.53 |
 |  170 | Wesley Huang              |  20.0 |         8 |              |               |
 |  171 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  172 | Robert Schwartz           |  19.9 |        89 |        -0.28 |         -1.31 |
+|  172 | Robert Schwartz           |  19.9 |        89 |        -0.27 |         -1.30 |
 |  173 | Liam King                 |  19.9 |         6 |              |               |
 |  174 | Lysander Jim              |  19.8 |         6 |              |               |
 |  175 | Sebastien Biraud          |  19.7 |        60 |              |               |
@@ -182,10 +182,10 @@ Generated 2017-04-24.
 |  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  179 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  181 | Shaun Lim                 |  19.6 |        59 |        +0.36 |         +1.13 |
-|  182 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
-|  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  184 | Mike Jensen-Akula         |  19.5 |       222 |        -0.46 |         -2.16 |
+|  181 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
+|  182 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
+|  183 | Mike Jensen-Akula         |  19.5 |       222 |        -0.46 |         -2.16 |
+|  184 | Shaun Lim                 |  19.3 |        60 |        +0.11 |         +0.88 |
 |  185 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  186 | Greg Adams                |  19.3 |        10 |              |               |
 |  187 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
@@ -219,13 +219,13 @@ Generated 2017-04-24.
 |  215 | Bob Roller                |  18.2 |         6 |              |               |
 |  216 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  217 | Eric Borden               |  18.1 |        43 |        +0.07 |         +0.43 |
-|  218 | James Chung               |  17.9 |         7 |              |               |
-|  219 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  220 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
-|  221 | Nick Paget                |  17.8 |        35 |              |               |
-|  222 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  223 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  224 | Josh Trauner              |  17.7 |        56 |        +0.38 |         +1.41 |
+|  218 | Josh Trauner              |  18.0 |        57 |        +0.64 |         +1.66 |
+|  219 | James Chung               |  17.9 |         7 |              |               |
+|  220 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  221 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
+|  222 | Nick Paget                |  17.8 |        35 |              |               |
+|  223 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  224 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  225 | George Roche              |  17.7 |        14 |              |               |
 |  226 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  227 | Subrato Dey               |  17.5 |        26 |              |         +1.33 |
