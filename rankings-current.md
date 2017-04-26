@@ -21,7 +21,7 @@ Generated 2017-04-25.
 |   17 | Marc Schechter    |  20.6 |        13 |        -0.65 |               |
 |   18 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
 |   19 | Robert Schwartz   |  19.9 |        89 |        -0.27 |         -1.30 |
-|   20 | Mike Jensen-Akula |  19.5 |       222 |        -0.46 |         -2.16 |
+|   20 | Mike Jensen-Akula |  19.5 |       223 |        -0.45 |         -2.15 |
 |   21 | Shaun Lim         |  19.3 |        60 |        +0.11 |         +0.88 |
 |   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
 |   23 | Dror Matalon      |  18.4 |       368 |        -0.24 |         +0.26 |
@@ -36,14 +36,14 @@ Generated 2017-04-25.
 |   32 | Nikhil Paranjape  |  14.6 |        43 |        +0.43 |         +5.80 |
 |   33 | Kent Daniels      |  14.4 |       106 |        -0.39 |         -0.30 |
 |   34 | Meldan Heaslip    |  11.9 |        24 |        -0.18 |               |
-|   35 | Josh Lebowitz     |  11.4 |        43 |        +0.31 |         +8.89 |
+|   35 | Josh Lebowitz     |  11.4 |        43 |        +0.30 |         +8.88 |
 |   36 | Karan Goyal       |  11.3 |        10 |        +0.25 |               |
 |   37 | Grant Buckingham  |  10.6 |         2 |              |               |
 |   38 | Nate Aden         |  10.3 |        33 |        +0.14 |         +3.66 |
 |   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
 |   40 | Raphael Magarik   |   9.6 |        24 |        +0.19 |         +7.40 |
 |   41 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
-|   42 | Janeau Janssen    |   8.4 |        11 |        +0.77 |               |
+|   42 | Janeau Janssen    |   8.4 |        12 |        +0.71 |               |
 |   43 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
 |   44 | Norman Bonney     |   6.6 |         2 |              |               |
 |   45 | Alok Singh        |   6.5 |        18 |              |         +3.31 |

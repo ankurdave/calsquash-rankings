@@ -184,7 +184,7 @@ Generated 2017-04-25.
 |  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  181 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
 |  182 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  183 | Mike Jensen-Akula         |  19.5 |       222 |        -0.46 |         -2.16 |
+|  183 | Mike Jensen-Akula         |  19.5 |       223 |        -0.45 |         -2.15 |
 |  184 | Shaun Lim                 |  19.3 |        60 |        +0.11 |         +0.88 |
 |  185 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  186 | Greg Adams                |  19.3 |        10 |              |               |
@@ -345,7 +345,7 @@ Generated 2017-04-25.
 |  341 | David Appelfeld           |  11.6 |        26 |              |               |
 |  342 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  343 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  344 | Josh Lebowitz             |  11.4 |        43 |        +0.31 |         +8.89 |
+|  344 | Josh Lebowitz             |  11.4 |        43 |        +0.30 |         +8.88 |
 |  345 | Carlos Filho              |  11.4 |         7 |              |               |
 |  346 | Karan Jain                |  11.3 |        19 |              |               |
 |  347 | Karan Goyal               |  11.3 |        10 |        +0.25 |               |
@@ -393,7 +393,7 @@ Generated 2017-04-25.
 |  389 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  390 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  391 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  392 | Janeau Janssen            |   8.4 |        11 |        +0.77 |               |
+|  392 | Janeau Janssen            |   8.4 |        12 |        +0.71 |               |
 |  393 | Reynold Xin               |   8.3 |         5 |              |               |
 |  394 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  395 | Fahad Riyadh              |   8.2 |         5 |              |               |
