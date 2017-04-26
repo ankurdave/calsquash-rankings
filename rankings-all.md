@@ -243,10 +243,10 @@ Generated 2017-04-25.
 |  239 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  240 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  241 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  242 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  243 | Neil Conway               |  17.0 |        55 |              |               |
-|  244 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  245 | David Bratt               |  17.0 |        29 |        -0.21 |         +0.56 |
+|  242 | David Bratt               |  17.2 |        30 |        -0.03 |         +0.74 |
+|  243 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  244 | Neil Conway               |  17.0 |        55 |              |               |
+|  245 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  246 | Baxter Leman              |  16.9 |         6 |              |               |
 |  247 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  248 | Allan Dafoe               |  16.8 |        43 |              |               |
@@ -292,7 +292,7 @@ Generated 2017-04-25.
 |  288 | David Elfant              |  14.7 |         2 |              |               |
 |  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  290 | Sergey Dobrinov           |  14.7 |        17 |        +2.29 |               |
-|  291 | Nikhil Paranjape          |  14.7 |        43 |        +0.46 |         +5.82 |
+|  291 | Nikhil Paranjape          |  14.6 |        43 |        +0.43 |         +5.80 |
 |  292 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  293 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  294 | Shai Vardi                |  14.5 |         4 |              |               |
@@ -345,10 +345,10 @@ Generated 2017-04-25.
 |  341 | David Appelfeld           |  11.6 |        26 |              |               |
 |  342 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  343 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  344 | Karan Goyal               |  11.5 |         9 |        +0.52 |               |
-|  345 | Josh Lebowitz             |  11.4 |        43 |        +0.31 |         +8.89 |
-|  346 | Carlos Filho              |  11.4 |         7 |              |               |
-|  347 | Karan Jain                |  11.3 |        19 |              |               |
+|  344 | Josh Lebowitz             |  11.4 |        43 |        +0.31 |         +8.89 |
+|  345 | Carlos Filho              |  11.4 |         7 |              |               |
+|  346 | Karan Jain                |  11.3 |        19 |              |               |
+|  347 | Karan Goyal               |  11.3 |        10 |        +0.25 |               |
 |  348 | Lucas Siow                |  11.0 |        10 |              |               |
 |  349 | Dominick Ng               |  10.9 |        25 |              |               |
 |  350 | George Bentley            |  10.6 |         4 |              |               |
