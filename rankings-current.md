@@ -42,7 +42,7 @@ Generated 2017-04-25.
 |   38 | Nate Aden         |  10.3 |        33 |        +0.14 |         +3.66 |
 |   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
 |   40 | Raphael Magarik   |   9.6 |        24 |        +0.19 |         +7.40 |
-|   41 | Duo Wang          |   8.9 |        69 |              |         +0.06 |
+|   41 | Duo Wang          |   8.9 |        70 |              |         +0.05 |
 |   42 | Janeau Janssen    |   8.4 |        12 |        +0.71 |               |
 |   43 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
 |   44 | Norman Bonney     |   6.6 |         2 |              |               |
@@ -50,7 +50,7 @@ Generated 2017-04-25.
 |   46 | Jose Lara         |   6.5 |        14 |        +0.28 |         +0.32 |
 |   47 | Avi Flamholz      |   6.4 |         3 |              |               |
 |   48 | Sumit Gupta       |   4.5 |         5 |        +2.49 |               |
-|   49 | Zsolt Bartha      |   4.3 |        54 |        -0.13 |         -0.30 |
+|   49 | Zsolt Bartha      |   4.4 |        55 |        -0.08 |         -0.25 |
 |   50 | Daniel Wissmann   |   0.7 |         2 |              |               |
 |   51 | Duncan MacRae     |  -0.7 |        18 |              |               |
 |   52 | Rodrigo Lasheras  |  -1.1 |         2 |              |               |

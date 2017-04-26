@@ -385,7 +385,7 @@ Generated 2017-04-25.
 |  381 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  382 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  383 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  384 | Duo Wang                  |   8.9 |        69 |              |         +0.06 |
+|  384 | Duo Wang                  |   8.9 |        70 |              |         +0.05 |
 |  385 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  386 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  387 | Therese Jones             |   8.7 |         6 |              |               |
@@ -442,7 +442,7 @@ Generated 2017-04-25.
 |  438 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  439 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  440 | Sumit Gupta               |   4.5 |         5 |        +2.49 |               |
-|  441 | Zsolt Bartha              |   4.3 |        54 |        -0.13 |         -0.30 |
+|  441 | Zsolt Bartha              |   4.4 |        55 |        -0.08 |         -0.25 |
 |  442 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  443 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  444 | Annie Wong                |   4.0 |         3 |              |               |
