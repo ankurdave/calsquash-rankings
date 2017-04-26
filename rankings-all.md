@@ -1,4 +1,4 @@
-Generated 2017-04-25.
+Generated 2017-04-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -182,9 +182,9 @@ Generated 2017-04-25.
 |  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  179 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  181 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
-|  182 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  183 | Mike Jensen-Akula         |  19.5 |       223 |        -0.45 |         -2.15 |
+|  181 | Mike Jensen-Akula         |  19.6 |       223 |        -0.41 |         -2.11 |
+|  182 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
+|  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
 |  184 | Shaun Lim                 |  19.3 |        60 |        +0.11 |         +0.88 |
 |  185 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  186 | Greg Adams                |  19.3 |        10 |              |               |
@@ -291,8 +291,8 @@ Generated 2017-04-25.
 |  287 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  288 | David Elfant              |  14.7 |         2 |              |               |
 |  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  290 | Sergey Dobrinov           |  14.7 |        17 |        +2.29 |               |
-|  291 | Nikhil Paranjape          |  14.6 |        43 |        +0.43 |         +5.80 |
+|  290 | Nikhil Paranjape          |  14.6 |        43 |        +0.43 |         +5.80 |
+|  291 | Sergey Dobrinov           |  14.6 |        17 |        +2.24 |               |
 |  292 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  293 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  294 | Shai Vardi                |  14.5 |         4 |              |               |
@@ -334,18 +334,18 @@ Generated 2017-04-25.
 |  330 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  331 | Reed Foster               |  12.1 |         8 |              |               |
 |  332 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  333 | Meldan Heaslip            |  11.9 |        24 |        -0.18 |               |
-|  334 | Larry Dale                |  11.9 |        29 |              |               |
+|  333 | Larry Dale                |  11.9 |        29 |              |               |
+|  334 | Meldan Heaslip            |  11.8 |        25 |        -0.28 |               |
 |  335 | Aman Gupta                |  11.8 |         3 |              |               |
 |  336 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  337 | Julian Gill               |  11.8 |         1 |              |               |
 |  338 | James Shinn               |  11.7 |       120 |              |               |
 |  339 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  340 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  341 | David Appelfeld           |  11.6 |        26 |              |               |
-|  342 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  343 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  344 | Josh Lebowitz             |  11.4 |        43 |        +0.30 |         +8.88 |
+|  341 | Josh Lebowitz             |  11.6 |        44 |        +0.48 |         +9.05 |
+|  342 | David Appelfeld           |  11.6 |        26 |              |               |
+|  343 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  344 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  345 | Carlos Filho              |  11.4 |         7 |              |               |
 |  346 | Karan Jain                |  11.3 |        19 |              |               |
 |  347 | Karan Goyal               |  11.3 |        10 |        +0.25 |               |
@@ -393,7 +393,7 @@ Generated 2017-04-25.
 |  389 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  390 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  391 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  392 | Janeau Janssen            |   8.4 |        12 |        +0.71 |               |
+|  392 | Janeau Janssen            |   8.6 |        12 |        +0.89 |               |
 |  393 | Reynold Xin               |   8.3 |         5 |              |               |
 |  394 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  395 | Fahad Riyadh              |   8.2 |         5 |              |               |
