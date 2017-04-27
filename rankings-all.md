@@ -31,10 +31,10 @@ Generated 2017-04-27.
 |   27 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Stephen Dang              |  27.2 |        34 |              |               |
-|   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Anibhav Singla            |  27.2 |        15 |        -0.05 |               |
+|   30 | Anibhav Singla            |  27.7 |        16 |        +0.50 |               |
+|   31 | Grant French              |  27.5 |       125 |              |               |
+|   32 | Stephen Dang              |  27.2 |        34 |              |               |
+|   33 | Samer Shehata             |  27.2 |        29 |              |               |
 |   34 | Frank Kennamer            |  27.0 |       222 |        +0.01 |         +0.63 |
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
@@ -72,11 +72,11 @@ Generated 2017-04-27.
 |   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   70 | Adam Pollak               |  24.5 |        31 |              |               |
-|   71 | John Kunze                |  24.4 |       322 |        +0.02 |         -0.48 |
-|   72 | Jon Shih                  |  24.4 |        47 |              |               |
-|   73 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   74 | Sam McCormick             |  24.4 |        32 |        -0.13 |         +3.78 |
-|   75 | Jim Veitch                |  24.4 |       447 |              |         -2.01 |
+|   71 | Jon Shih                  |  24.4 |        47 |              |               |
+|   72 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   73 | Sam McCormick             |  24.4 |        32 |        -0.13 |         +3.78 |
+|   74 | Jim Veitch                |  24.4 |       447 |              |         -2.01 |
+|   75 | John Kunze                |  24.3 |       323 |        -0.08 |         -0.59 |
 |   76 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   77 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   78 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -90,7 +90,7 @@ Generated 2017-04-27.
 |   86 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   87 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   88 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   89 | Matt Wong                 |  23.9 |        91 |        +0.15 |         +2.76 |
+|   89 | Matt Wong                 |  23.9 |        91 |        +0.16 |         +2.77 |
 |   90 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   91 | Joseff Farrell            |  23.8 |         5 |              |               |
 |   92 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
