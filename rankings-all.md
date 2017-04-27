@@ -1,4 +1,4 @@
-Generated 2017-04-26.
+Generated 2017-04-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -185,7 +185,7 @@ Generated 2017-04-26.
 |  181 | Mike Jensen-Akula         |  19.6 |       223 |        -0.41 |         -2.11 |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
 |  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  184 | Roberto Gonzalez          |  19.4 |         3 |        +0.32 |               |
+|  184 | Roberto Gonzalez          |  19.4 |         3 |        +0.34 |               |
 |  185 | Shaun Lim                 |  19.3 |        60 |        +0.11 |         +0.88 |
 |  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  187 | Greg Adams                |  19.3 |        10 |              |               |
@@ -356,7 +356,7 @@ Generated 2017-04-26.
 |  352 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  353 | Brian Puglise             |  10.4 |         2 |              |               |
 |  354 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  355 | Nate Aden                 |  10.3 |        33 |        +0.14 |         +3.66 |
+|  355 | Nate Aden                 |  10.3 |        33 |        +0.13 |         +3.65 |
 |  356 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  357 | John Provine              |  10.2 |        16 |              |               |
 |  358 | Anthony Patterson         |  10.2 |         6 |              |               |
@@ -367,11 +367,11 @@ Generated 2017-04-26.
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.24 |
 |  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  366 | Daniel Schwartz           |   9.8 |        22 |              |         -0.21 |
-|  367 | Myles Gordon              |   9.8 |        42 |              |               |
-|  368 | Jacob Bank                |   9.7 |         1 |              |               |
-|  369 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  370 | Raphael Magarik           |   9.6 |        25 |        +0.16 |         +7.37 |
+|  366 | Raphael Magarik           |   9.8 |        26 |        +0.37 |         +7.58 |
+|  367 | Daniel Schwartz           |   9.8 |        22 |              |         -0.21 |
+|  368 | Myles Gordon              |   9.8 |        42 |              |               |
+|  369 | Jacob Bank                |   9.7 |         1 |              |               |
+|  370 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  371 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  372 | Mark Shapero              |   9.4 |         7 |              |               |
 |  373 | Kevin Pollock             |   9.4 |        28 |              |               |
@@ -385,7 +385,7 @@ Generated 2017-04-26.
 |  381 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  382 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  383 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  384 | Duo Wang                  |   8.9 |        70 |              |         +0.05 |
+|  384 | Duo Wang                  |   8.8 |        70 |              |         +0.05 |
 |  385 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  386 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  387 | Therese Jones             |   8.7 |         6 |              |               |
@@ -442,8 +442,8 @@ Generated 2017-04-26.
 |  438 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  439 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  440 | Sumit Gupta               |   4.5 |         5 |        +2.49 |               |
-|  441 | Zsolt Bartha              |   4.4 |        55 |        -0.08 |         -0.25 |
-|  442 | Sameer Bajaj              |   4.3 |         4 |              |               |
+|  441 | Sameer Bajaj              |   4.3 |         4 |              |               |
+|  442 | Zsolt Bartha              |   4.2 |        56 |        -0.21 |         -0.38 |
 |  443 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  444 | Annie Wong                |   4.0 |         3 |              |               |
 |  445 | Ryan                      |   4.0 |         3 |              |               |
@@ -510,7 +510,7 @@ Generated 2017-04-26.
 |  506 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
 |  507 | James Redfield            |  -2.9 |         3 |              |               |
 |  508 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  509 | Vipul Gupta               |  -3.3 |         3 |        -0.15 |               |
+|  509 | Vipul Gupta               |  -3.3 |         3 |        -0.13 |               |
 |  510 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  511 | Tin Do                    |  -4.0 |         1 |              |               |
 |  512 | Yifan Wu                  |  -4.0 |         7 |              |               |

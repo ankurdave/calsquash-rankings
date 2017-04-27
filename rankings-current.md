@@ -1,4 +1,4 @@
-Generated 2017-04-26.
+Generated 2017-04-27.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -22,7 +22,7 @@ Generated 2017-04-26.
 |   18 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
 |   19 | Robert Schwartz   |  19.9 |        89 |        -0.27 |         -1.30 |
 |   20 | Mike Jensen-Akula |  19.6 |       223 |        -0.41 |         -2.11 |
-|   21 | Roberto Gonzalez  |  19.4 |         3 |        +0.32 |               |
+|   21 | Roberto Gonzalez  |  19.4 |         3 |        +0.34 |               |
 |   22 | Shaun Lim         |  19.3 |        60 |        +0.11 |         +0.88 |
 |   23 | Dror Matalon      |  18.4 |       368 |        -0.24 |         +0.26 |
 |   24 | Eric Borden       |  18.1 |        43 |        +0.07 |         +0.43 |
@@ -39,10 +39,10 @@ Generated 2017-04-26.
 |   35 | Josh Lebowitz     |  11.6 |        44 |        +0.48 |         +9.05 |
 |   36 | Karan Goyal       |  11.3 |        10 |        +0.25 |               |
 |   37 | Grant Buckingham  |  10.6 |         2 |              |               |
-|   38 | Nate Aden         |  10.3 |        33 |        +0.14 |         +3.66 |
+|   38 | Nate Aden         |  10.3 |        33 |        +0.13 |         +3.65 |
 |   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
-|   40 | Raphael Magarik   |   9.6 |        25 |        +0.16 |         +7.37 |
-|   41 | Duo Wang          |   8.9 |        70 |              |         +0.05 |
+|   40 | Raphael Magarik   |   9.8 |        26 |        +0.37 |         +7.58 |
+|   41 | Duo Wang          |   8.8 |        70 |              |         +0.05 |
 |   42 | Janeau Janssen    |   8.6 |        12 |        +0.89 |               |
 |   43 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
 |   44 | Norman Bonney     |   6.6 |         2 |              |               |
@@ -50,9 +50,9 @@ Generated 2017-04-26.
 |   46 | Jose Lara         |   6.5 |        14 |        +0.28 |         +0.32 |
 |   47 | Avi Flamholz      |   6.4 |         3 |              |               |
 |   48 | Sumit Gupta       |   4.5 |         5 |        +2.49 |               |
-|   49 | Zsolt Bartha      |   4.4 |        55 |        -0.08 |         -0.25 |
+|   49 | Zsolt Bartha      |   4.2 |        56 |        -0.21 |         -0.38 |
 |   50 | Daniel Wissmann   |   0.7 |         2 |              |               |
 |   51 | Duncan MacRae     |  -0.7 |        18 |              |               |
 |   52 | Rodrigo Lasheras  |  -1.1 |         2 |              |               |
-|   53 | Vipul Gupta       |  -3.3 |         3 |        -0.15 |               |
+|   53 | Vipul Gupta       |  -3.3 |         3 |        -0.13 |               |
 |   54 | Yifan Wu          |  -4.0 |         7 |              |               |
