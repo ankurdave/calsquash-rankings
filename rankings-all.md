@@ -209,8 +209,8 @@ Generated 2017-04-27.
 |  205 | Yan Liu                   |  18.5 |        10 |              |               |
 |  206 | Akshay Dugar              |  18.5 |         6 |              |               |
 |  207 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  208 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  209 | Dror Matalon              |  18.4 |       368 |        -0.24 |         +0.26 |
+|  208 | Dror Matalon              |  18.5 |       369 |        -0.23 |         +0.27 |
+|  209 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  210 | John Eng                  |  18.4 |        28 |              |               |
 |  211 | Natalie Leung             |  18.4 |         1 |              |               |
 |  212 | Jayanth Kannan            |  18.4 |        20 |              |               |
@@ -239,7 +239,7 @@ Generated 2017-04-27.
 |  235 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  236 | Zach Brown                |  17.3 |         3 |              |               |
 |  237 | William Seles             |  17.2 |        15 |              |               |
-|  238 | Wayne Heiser              |  17.2 |        47 |        -0.42 |         +3.33 |
+|  238 | Wayne Heiser              |  17.2 |        48 |        -0.42 |         +3.33 |
 |  239 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  240 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  241 | Lucas Cheon               |  17.2 |        19 |              |               |

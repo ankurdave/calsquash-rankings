@@ -24,11 +24,11 @@ Generated 2017-04-27.
 |   20 | Mike Jensen-Akula |  19.6 |       223 |        -0.41 |         -2.11 |
 |   21 | Roberto Gonzalez  |  19.4 |         3 |        +0.34 |               |
 |   22 | Shaun Lim         |  19.3 |        60 |        +0.11 |         +0.88 |
-|   23 | Dror Matalon      |  18.4 |       368 |        -0.24 |         +0.26 |
+|   23 | Dror Matalon      |  18.5 |       369 |        -0.23 |         +0.27 |
 |   24 | Eric Borden       |  18.1 |        43 |        +0.07 |         +0.43 |
 |   25 | Josh Trauner      |  18.0 |        57 |        +0.64 |         +1.66 |
 |   26 | Ankur Dave        |  17.5 |        68 |        +1.03 |         +6.78 |
-|   27 | Wayne Heiser      |  17.2 |        47 |        -0.42 |         +3.33 |
+|   27 | Wayne Heiser      |  17.2 |        48 |        -0.42 |         +3.33 |
 |   28 | David Bratt       |  17.2 |        30 |        -0.03 |         +0.74 |
 |   29 | Chris Flores      |  16.4 |       317 |        +0.17 |         -0.94 |
 |   30 | Sahar Sareminaeni |  16.3 |        28 |        -0.44 |               |
