@@ -35,7 +35,7 @@ Generated 2017-04-26.
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
 |   33 | Anibhav Singla            |  27.2 |        15 |        -0.05 |               |
-|   34 | Frank Kennamer            |  27.0 |       221 |              |         +0.62 |
+|   34 | Frank Kennamer            |  27.0 |       222 |        +0.01 |         +0.63 |
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   37 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -100,7 +100,7 @@ Generated 2017-04-26.
 |   96 | Amy Lee                   |  23.6 |        56 |              |               |
 |   97 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |   98 | Garvin Heath              |  23.4 |        28 |              |               |
-|   99 | Dan Bohn                  |  23.4 |        94 |        +0.05 |         -0.37 |
+|   99 | Dan Bohn                  |  23.4 |        95 |        +0.04 |         -0.38 |
 |  100 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  101 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  102 | Joe Farrell               |  23.0 |        30 |              |               |

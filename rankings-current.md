@@ -7,13 +7,13 @@ Generated 2017-04-26.
 |    3 | Eric Katerman     |  32.7 |        46 |        +0.50 |               |
 |    4 | Sam Sternberg     |  29.4 |       147 |        +0.24 |         +0.13 |
 |    5 | Anibhav Singla    |  27.2 |        15 |        -0.05 |               |
-|    6 | Frank Kennamer    |  27.0 |       221 |              |         +0.62 |
+|    6 | Frank Kennamer    |  27.0 |       222 |        +0.01 |         +0.63 |
 |    7 | Shrinu Kushagra   |  25.3 |        10 |        +1.78 |               |
 |    8 | John Kunze        |  24.4 |       322 |        +0.02 |         -0.48 |
 |    9 | Sam McCormick     |  24.4 |        32 |        -0.13 |         +3.78 |
 |   10 | Matt Wong         |  23.9 |        91 |        +0.15 |         +2.76 |
 |   11 | Matt Wild         |  23.5 |        31 |              |         +0.52 |
-|   12 | Dan Bohn          |  23.4 |        94 |        +0.05 |         -0.37 |
+|   12 | Dan Bohn          |  23.4 |        95 |        +0.04 |         -0.38 |
 |   13 | Jonathan Hankar   |  22.3 |       201 |        +0.18 |         +0.36 |
 |   14 | Dan Meier         |  22.2 |        64 |        -0.17 |         -0.03 |
 |   15 | Jared Bard        |  21.5 |        45 |              |         -0.06 |
