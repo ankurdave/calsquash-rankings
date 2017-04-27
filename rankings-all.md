@@ -185,15 +185,15 @@ Generated 2017-04-26.
 |  181 | Mike Jensen-Akula         |  19.6 |       223 |        -0.41 |         -2.11 |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |         -0.61 |
 |  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  184 | Shaun Lim                 |  19.3 |        60 |        +0.11 |         +0.88 |
-|  185 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  186 | Greg Adams                |  19.3 |        10 |              |               |
-|  187 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  188 | John Corcoran             |  19.1 |        49 |              |               |
-|  189 | Kedar Shah                |  19.1 |         9 |              |               |
-|  190 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  191 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  192 | Roberto Gonzalez          |  19.0 |         2 |              |               |
+|  184 | Roberto Gonzalez          |  19.4 |         3 |        +0.32 |               |
+|  185 | Shaun Lim                 |  19.3 |        60 |        +0.11 |         +0.88 |
+|  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  187 | Greg Adams                |  19.3 |        10 |              |               |
+|  188 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  189 | John Corcoran             |  19.1 |        49 |              |               |
+|  190 | Kedar Shah                |  19.1 |         9 |              |               |
+|  191 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  192 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  193 | Yating Liu                |  19.0 |         7 |              |               |
 |  194 | Ronald Dahl               |  18.9 |        51 |              |         -0.09 |
 |  195 | Hari Dhavala              |  18.9 |        27 |              |               |
@@ -371,7 +371,7 @@ Generated 2017-04-26.
 |  367 | Myles Gordon              |   9.8 |        42 |              |               |
 |  368 | Jacob Bank                |   9.7 |         1 |              |               |
 |  369 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  370 | Raphael Magarik           |   9.6 |        24 |        +0.19 |         +7.40 |
+|  370 | Raphael Magarik           |   9.6 |        25 |        +0.16 |         +7.37 |
 |  371 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  372 | Mark Shapero              |   9.4 |         7 |              |               |
 |  373 | Kevin Pollock             |   9.4 |        28 |              |               |

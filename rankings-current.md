@@ -22,8 +22,8 @@ Generated 2017-04-26.
 |   18 | Mark Modera       |  20.4 |       325 |              |         -0.46 |
 |   19 | Robert Schwartz   |  19.9 |        89 |        -0.27 |         -1.30 |
 |   20 | Mike Jensen-Akula |  19.6 |       223 |        -0.41 |         -2.11 |
-|   21 | Shaun Lim         |  19.3 |        60 |        +0.11 |         +0.88 |
-|   22 | Roberto Gonzalez  |  19.0 |         2 |              |               |
+|   21 | Roberto Gonzalez  |  19.4 |         3 |        +0.32 |               |
+|   22 | Shaun Lim         |  19.3 |        60 |        +0.11 |         +0.88 |
 |   23 | Dror Matalon      |  18.4 |       368 |        -0.24 |         +0.26 |
 |   24 | Eric Borden       |  18.1 |        43 |        +0.07 |         +0.43 |
 |   25 | Josh Trauner      |  18.0 |        57 |        +0.64 |         +1.66 |
@@ -41,7 +41,7 @@ Generated 2017-04-26.
 |   37 | Grant Buckingham  |  10.6 |         2 |              |               |
 |   38 | Nate Aden         |  10.3 |        33 |        +0.14 |         +3.66 |
 |   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
-|   40 | Raphael Magarik   |   9.6 |        24 |        +0.19 |         +7.40 |
+|   40 | Raphael Magarik   |   9.6 |        25 |        +0.16 |         +7.37 |
 |   41 | Duo Wang          |   8.9 |        70 |              |         +0.05 |
 |   42 | Janeau Janssen    |   8.6 |        12 |        +0.89 |               |
 |   43 | Brian Kempenich   |   8.1 |        44 |              |         -1.07 |
