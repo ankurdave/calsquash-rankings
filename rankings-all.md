@@ -10,7 +10,7 @@ Generated 2017-04-27.
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    8 | Louis Morrill             |  32.7 |        10 |              |               |
-|    9 | Eric Katerman             |  32.7 |        46 |        +0.50 |               |
+|    9 | Eric Katerman             |  32.7 |        46 |        +0.48 |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   12 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
@@ -57,9 +57,9 @@ Generated 2017-04-27.
 |   53 | Adam Angsten              |  25.4 |         3 |              |               |
 |   54 | Matt Nelson-Teutsch       |  25.4 |        10 |              |               |
 |   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
-|   56 | Shrinu Kushagra           |  25.3 |        10 |        +1.78 |               |
-|   57 | Rahul Gupta               |  25.3 |         7 |              |               |
-|   58 | Paul Greene               |  25.2 |         8 |              |               |
+|   56 | Rahul Gupta               |  25.3 |         7 |              |               |
+|   57 | Paul Greene               |  25.2 |         8 |              |               |
+|   58 | Shrinu Kushagra           |  25.1 |        11 |        +1.51 |               |
 |   59 | Mukul Sud                 |  25.0 |         3 |              |               |
 |   60 | Ben Seelig                |  25.0 |        69 |              |               |
 |   61 | Jaime Paterson            |  24.9 |         1 |              |               |
@@ -67,14 +67,14 @@ Generated 2017-04-27.
 |   63 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   64 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   65 | Orion Hodson              |  24.8 |        31 |              |               |
-|   66 | Martin Stokes             |  24.7 |        12 |              |               |
-|   67 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   68 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   69 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   70 | Adam Pollak               |  24.5 |        31 |              |               |
-|   71 | Jon Shih                  |  24.4 |        47 |              |               |
-|   72 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   73 | Sam McCormick             |  24.4 |        32 |        -0.13 |         +3.78 |
+|   66 | Sam McCormick             |  24.7 |        33 |        +0.17 |         +4.08 |
+|   67 | Martin Stokes             |  24.7 |        12 |              |               |
+|   68 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   69 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   70 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   71 | Adam Pollak               |  24.5 |        31 |              |               |
+|   72 | Jon Shih                  |  24.4 |        47 |              |               |
+|   73 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   74 | Jim Veitch                |  24.4 |       447 |              |         -2.01 |
 |   75 | John Kunze                |  24.3 |       323 |        -0.08 |         -0.59 |
 |   76 | Todd Wirsching            |  24.3 |         8 |              |               |
