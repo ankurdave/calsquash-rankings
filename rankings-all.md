@@ -1,4 +1,4 @@
-Generated 2017-04-28.
+Generated 2017-04-29.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -488,20 +488,20 @@ Generated 2017-04-28.
 |  484 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  485 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  486 | Sandra Harpster           |  -0.1 |         5 |              |         +2.29 |
-|  487 | Stephen Garden            |  -0.2 |         2 |              |               |
-|  488 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
-|  489 | Wyss Roman                |  -0.3 |         2 |              |               |
-|  490 | Jane Pan                  |  -0.4 |         1 |              |               |
-|  491 | Enrico Moretti            |  -0.4 |         1 |              |               |
-|  492 | Greg Rybka                |  -0.4 |         4 |              |               |
-|  493 | Klim Efremenko            |  -0.5 |         4 |              |               |
-|  494 | Rabin Patra               |  -0.5 |         2 |              |               |
-|  495 | Mikolaj Oettingen         |  -0.5 |         3 |              |               |
-|  496 | Aubrey Shick              |  -0.5 |        30 |              |               |
-|  497 | Lev Marquis               |  -0.6 |         5 |              |               |
-|  498 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  499 | Duncan MacRae             |  -0.7 |        18 |              |               |
-|  500 | Rodrigo Lasheras          |  -1.1 |         2 |              |               |
+|  487 | Duncan MacRae             |  -0.1 |        19 |        +0.59 |               |
+|  488 | Stephen Garden            |  -0.2 |         2 |              |               |
+|  489 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
+|  490 | Wyss Roman                |  -0.3 |         2 |              |               |
+|  491 | Jane Pan                  |  -0.4 |         1 |              |               |
+|  492 | Enrico Moretti            |  -0.4 |         1 |              |               |
+|  493 | Greg Rybka                |  -0.4 |         4 |              |               |
+|  494 | Klim Efremenko            |  -0.5 |         4 |              |               |
+|  495 | Rodrigo Lasheras          |  -0.5 |         3 |        +0.63 |               |
+|  496 | Rabin Patra               |  -0.5 |         2 |              |               |
+|  497 | Mikolaj Oettingen         |  -0.5 |         3 |              |               |
+|  498 | Aubrey Shick              |  -0.5 |        30 |              |               |
+|  499 | Lev Marquis               |  -0.6 |         5 |              |               |
+|  500 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
 |  501 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  502 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  503 | Ann Connolly              |  -1.9 |         4 |              |         +0.23 |

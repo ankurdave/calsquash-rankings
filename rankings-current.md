@@ -1,4 +1,4 @@
-Generated 2017-04-28.
+Generated 2017-04-29.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -52,7 +52,7 @@ Generated 2017-04-28.
 |   48 | Sumit Gupta       |   4.6 |         5 |        +2.56 |               |
 |   49 | Zsolt Bartha      |   4.2 |        56 |        -0.21 |         -0.38 |
 |   50 | Daniel Wissmann   |   0.7 |         2 |              |               |
-|   51 | Duncan MacRae     |  -0.7 |        18 |              |               |
-|   52 | Rodrigo Lasheras  |  -1.1 |         2 |              |               |
+|   51 | Duncan MacRae     |  -0.1 |        19 |        +0.59 |               |
+|   52 | Rodrigo Lasheras  |  -0.5 |         3 |        +0.63 |               |
 |   53 | Vipul Gupta       |  -3.3 |         3 |        -0.13 |               |
 |   54 | Yifan Wu          |  -4.0 |         7 |              |               |
