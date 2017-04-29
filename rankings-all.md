@@ -2,9 +2,9 @@ Generated 2017-04-29.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  36.8 |        28 |        -0.94 |               |
+|    1 | Colin Grant               |  36.8 |        28 |        -0.91 |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
-|    3 | Ashley Kayler             |  34.7 |       214 |        -0.37 |         -0.41 |
+|    3 | Ashley Kayler             |  34.6 |       214 |        -0.44 |         -0.48 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -22,7 +22,7 @@ Generated 2017-04-29.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.6 |       148 |        +0.44 |         +0.34 |
+|   21 | Sam Sternberg             |  29.4 |       149 |        +0.26 |         +0.15 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -63,12 +63,12 @@ Generated 2017-04-29.
 |   59 | Ben Seelig                |  25.0 |        69 |              |               |
 |   60 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   61 | Madhav Pai                |  24.9 |         5 |              |               |
-|   62 | Shrinu Kushagra           |  24.8 |        12 |        +1.22 |               |
-|   63 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   64 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   65 | Orion Hodson              |  24.8 |        31 |              |               |
-|   66 | Martin Stokes             |  24.7 |        12 |              |               |
-|   67 | Sam McCormick             |  24.6 |        33 |        +0.14 |         +4.04 |
+|   62 | Sam McCormick             |  24.9 |        34 |        +0.37 |         +4.28 |
+|   63 | Shrinu Kushagra           |  24.8 |        12 |        +1.23 |               |
+|   64 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   65 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   66 | Orion Hodson              |  24.8 |        31 |              |               |
+|   67 | Martin Stokes             |  24.7 |        12 |              |               |
 |   68 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   69 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   70 | Greg Jizmagian            |  24.5 |        22 |              |               |
