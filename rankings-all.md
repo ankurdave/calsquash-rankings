@@ -2,7 +2,7 @@ Generated 2017-04-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
-|    1 | Colin Grant               |  36.8 |        28 |        -0.95 |               |
+|    1 | Colin Grant               |  36.8 |        28 |        -0.94 |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +3.04 |
 |    3 | Ashley Kayler             |  34.7 |       214 |        -0.37 |         -0.41 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
@@ -10,7 +10,7 @@ Generated 2017-04-28.
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    8 | Louis Morrill             |  32.7 |        10 |              |               |
-|    9 | Eric Katerman             |  32.7 |        46 |        +0.48 |               |
+|    9 | Eric Katerman             |  32.7 |        46 |        +0.47 |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   12 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
@@ -22,7 +22,7 @@ Generated 2017-04-28.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.4 |       147 |        +0.24 |         +0.13 |
+|   21 | Sam Sternberg             |  29.6 |       148 |        +0.44 |         +0.34 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -59,16 +59,16 @@ Generated 2017-04-28.
 |   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   56 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   57 | Paul Greene               |  25.2 |         8 |              |               |
-|   58 | Shrinu Kushagra           |  25.1 |        11 |        +1.51 |               |
-|   59 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   60 | Ben Seelig                |  25.0 |        69 |              |               |
-|   61 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   62 | Madhav Pai                |  24.9 |         5 |              |               |
+|   58 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   59 | Ben Seelig                |  25.0 |        69 |              |               |
+|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   61 | Madhav Pai                |  24.9 |         5 |              |               |
+|   62 | Shrinu Kushagra           |  24.8 |        12 |        +1.22 |               |
 |   63 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   64 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   65 | Orion Hodson              |  24.8 |        31 |              |               |
-|   66 | Sam McCormick             |  24.7 |        33 |        +0.17 |         +4.08 |
-|   67 | Martin Stokes             |  24.7 |        12 |              |               |
+|   66 | Martin Stokes             |  24.7 |        12 |              |               |
+|   67 | Sam McCormick             |  24.6 |        33 |        +0.14 |         +4.04 |
 |   68 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   69 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   70 | Greg Jizmagian            |  24.5 |        22 |              |               |
