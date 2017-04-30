@@ -1,4 +1,4 @@
-Generated 2017-04-29.
+Generated 2017-04-30.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -243,7 +243,7 @@ Generated 2017-04-29.
 |  239 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  240 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  241 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  242 | David Bratt               |  17.2 |        30 |        -0.03 |         +0.74 |
+|  242 | David Bratt               |  17.1 |        30 |        -0.04 |         +0.73 |
 |  243 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  244 | Neil Conway               |  17.0 |        55 |              |               |
 |  245 | Michael Cianfrocco        |  17.0 |        18 |              |               |
@@ -255,12 +255,12 @@ Generated 2017-04-29.
 |  251 | Mark Priven               |  16.6 |        72 |              |               |
 |  252 | William Coleman           |  16.5 |        48 |              |               |
 |  253 | Mike Troxell              |  16.5 |         8 |              |               |
-|  254 | Chris Flores              |  16.4 |       317 |        +0.17 |         -0.94 |
-|  255 | Danish Mir                |  16.4 |         1 |              |               |
-|  256 | Sahar Sareminaeni         |  16.3 |        28 |        -0.44 |               |
-|  257 | Paul Chang                |  16.3 |         7 |              |               |
-|  258 | Steven Hahm               |  16.3 |         5 |              |               |
-|  259 | Jules Bowie               |  16.3 |        12 |              |               |
+|  254 | Danish Mir                |  16.4 |         1 |              |               |
+|  255 | Sahar Sareminaeni         |  16.3 |        28 |        -0.44 |               |
+|  256 | Paul Chang                |  16.3 |         7 |              |               |
+|  257 | Steven Hahm               |  16.3 |         5 |              |               |
+|  258 | Jules Bowie               |  16.3 |        12 |              |               |
+|  259 | Chris Flores              |  16.3 |       318 |        +0.04 |         -1.07 |
 |  260 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  261 | Jan Strasky               |  16.2 |        12 |              |               |
 |  262 | Sarah Mcneil              |  16.2 |        24 |              |               |
@@ -292,7 +292,7 @@ Generated 2017-04-29.
 |  288 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  289 | David Elfant              |  14.7 |         2 |              |               |
 |  290 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  291 | Nikhil Paranjape          |  14.6 |        43 |        +0.43 |         +5.80 |
+|  291 | Nikhil Paranjape          |  14.6 |        43 |        +0.45 |         +5.81 |
 |  292 | Sergey Dobrinov           |  14.6 |        17 |        +2.24 |               |
 |  293 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  294 | Jee Hwan Kim              |  14.6 |         7 |              |               |
@@ -349,19 +349,19 @@ Generated 2017-04-29.
 |  345 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  346 | Carlos Filho              |  11.4 |         7 |              |               |
 |  347 | Karan Jain                |  11.3 |        19 |              |               |
-|  348 | Karan Goyal               |  11.3 |        10 |        +0.25 |               |
+|  348 | Karan Goyal               |  11.3 |        10 |        +0.24 |               |
 |  349 | Lucas Siow                |  11.0 |        10 |              |               |
 |  350 | Dominick Ng               |  10.9 |        25 |              |               |
-|  351 | George Bentley            |  10.6 |         4 |              |               |
-|  352 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  353 | Brian Puglise             |  10.4 |         2 |              |               |
-|  354 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  355 | Nate Aden                 |  10.3 |        33 |        +0.13 |         +3.65 |
-|  356 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  357 | John Provine              |  10.2 |        16 |              |               |
-|  358 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  359 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  360 | Craig Hollow              |  10.2 |        16 |        -0.37 |               |
+|  351 | Craig Hollow              |  10.8 |        17 |        +0.26 |               |
+|  352 | George Bentley            |  10.6 |         4 |              |               |
+|  353 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  354 | Brian Puglise             |  10.4 |         2 |              |               |
+|  355 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  356 | Nate Aden                 |  10.3 |        33 |        +0.13 |         +3.65 |
+|  357 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  358 | John Provine              |  10.2 |        16 |              |               |
+|  359 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  360 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  361 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  362 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |

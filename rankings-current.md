@@ -1,4 +1,4 @@
-Generated 2017-04-29.
+Generated 2017-04-30.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -29,18 +29,18 @@ Generated 2017-04-29.
 |   25 | Eric Borden       |  17.8 |        44 |        -0.14 |         +0.23 |
 |   26 | Ankur Dave        |  17.5 |        68 |        +1.03 |         +6.78 |
 |   27 | Wayne Heiser      |  17.2 |        48 |        -0.42 |         +3.33 |
-|   28 | David Bratt       |  17.2 |        30 |        -0.03 |         +0.74 |
-|   29 | Chris Flores      |  16.4 |       317 |        +0.17 |         -0.94 |
-|   30 | Sahar Sareminaeni |  16.3 |        28 |        -0.44 |               |
+|   28 | David Bratt       |  17.1 |        30 |        -0.04 |         +0.73 |
+|   29 | Sahar Sareminaeni |  16.3 |        28 |        -0.44 |               |
+|   30 | Chris Flores      |  16.3 |       318 |        +0.04 |         -1.07 |
 |   31 | Grant Buckingham  |  15.2 |         3 |              |               |
-|   32 | Nikhil Paranjape  |  14.6 |        43 |        +0.43 |         +5.80 |
+|   32 | Nikhil Paranjape  |  14.6 |        43 |        +0.45 |         +5.81 |
 |   33 | Sergey Dobrinov   |  14.6 |        17 |        +2.24 |               |
 |   34 | Kent Daniels      |  14.4 |       106 |        -0.39 |         -0.30 |
 |   35 | Meldan Heaslip    |  11.8 |        25 |        -0.28 |               |
 |   36 | Josh Lebowitz     |  11.6 |        44 |        +0.48 |         +9.05 |
-|   37 | Karan Goyal       |  11.3 |        10 |        +0.25 |               |
-|   38 | Nate Aden         |  10.3 |        33 |        +0.13 |         +3.65 |
-|   39 | Craig Hollow      |  10.2 |        16 |        -0.37 |               |
+|   37 | Karan Goyal       |  11.3 |        10 |        +0.24 |               |
+|   38 | Craig Hollow      |  10.8 |        17 |        +0.26 |               |
+|   39 | Nate Aden         |  10.3 |        33 |        +0.13 |         +3.65 |
 |   40 | Raphael Magarik   |   9.8 |        26 |        +0.37 |         +7.58 |
 |   41 | Duo Wang          |   8.8 |        70 |              |         +0.05 |
 |   42 | Janeau Janssen    |   8.6 |        12 |        +0.89 |               |
