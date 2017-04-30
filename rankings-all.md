@@ -31,19 +31,19 @@ Generated 2017-04-30.
 |   27 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   30 | Anibhav Singla            |  27.7 |        16 |        +0.50 |               |
+|   30 | Anibhav Singla            |  27.7 |        16 |        +0.54 |               |
 |   31 | Grant French              |  27.5 |       125 |              |               |
 |   32 | Stephen Dang              |  27.2 |        34 |              |               |
 |   33 | Samer Shehata             |  27.2 |        29 |              |               |
-|   34 | Frank Kennamer            |  27.0 |       222 |        +0.01 |         +0.63 |
-|   35 | Hussain Raza              |  27.0 |        50 |              |               |
-|   36 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   37 | Alan Jose                 |  26.9 |       182 |              |               |
-|   38 | Michael Best              |  26.9 |        21 |              |               |
-|   39 | Nick Cobbett              |  26.9 |        30 |              |         +1.61 |
-|   40 | Josh Taylor               |  26.8 |        40 |              |               |
-|   41 | David Hwang               |  26.8 |        44 |              |               |
-|   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
+|   34 | Hussain Raza              |  27.0 |        50 |              |               |
+|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   36 | Alan Jose                 |  26.9 |       182 |              |               |
+|   37 | Michael Best              |  26.9 |        21 |              |               |
+|   38 | Nick Cobbett              |  26.9 |        30 |              |         +1.61 |
+|   39 | Josh Taylor               |  26.8 |        40 |              |               |
+|   40 | David Hwang               |  26.8 |        44 |              |               |
+|   41 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
+|   42 | Frank Kennamer            |  26.7 |       223 |        -0.33 |         +0.29 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
 |   45 | Andrew Moylan             |  26.3 |        95 |              |               |
@@ -69,14 +69,14 @@ Generated 2017-04-30.
 |   65 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   66 | Orion Hodson              |  24.8 |        31 |              |               |
 |   67 | Martin Stokes             |  24.7 |        12 |              |               |
-|   68 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   69 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   70 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   71 | Adam Pollak               |  24.5 |        31 |              |               |
-|   72 | Jon Shih                  |  24.4 |        47 |              |               |
-|   73 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   74 | Jim Veitch                |  24.4 |       447 |              |         -2.01 |
-|   75 | John Kunze                |  24.3 |       323 |        -0.08 |         -0.59 |
+|   68 | John Kunze                |  24.7 |       324 |        +0.25 |         -0.26 |
+|   69 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   70 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   71 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   72 | Adam Pollak               |  24.5 |        31 |              |               |
+|   73 | Jon Shih                  |  24.4 |        47 |              |               |
+|   74 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   75 | Jim Veitch                |  24.4 |       447 |              |         -2.01 |
 |   76 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   77 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   78 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -89,8 +89,8 @@ Generated 2017-04-30.
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   86 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   87 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   88 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   89 | Matt Wong                 |  23.9 |        91 |        +0.16 |         +2.77 |
+|   88 | Matt Wong                 |  23.9 |        91 |        +0.18 |         +2.79 |
+|   89 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   90 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   91 | Joseff Farrell            |  23.8 |         5 |              |               |
 |   92 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
@@ -100,7 +100,7 @@ Generated 2017-04-30.
 |   96 | Amy Lee                   |  23.6 |        56 |              |               |
 |   97 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |   98 | Garvin Heath              |  23.4 |        28 |              |               |
-|   99 | Dan Bohn                  |  23.4 |        95 |        +0.04 |         -0.38 |
+|   99 | Dan Bohn                  |  23.4 |        95 |        +0.04 |         -0.37 |
 |  100 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  101 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  102 | Joe Farrell               |  23.0 |        30 |              |               |
