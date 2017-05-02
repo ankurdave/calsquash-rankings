@@ -1,4 +1,4 @@
-Generated 2017-04-30.
+Generated 2017-05-02.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -110,9 +110,9 @@ Generated 2017-04-30.
 |  106 | Julian Marshall           |  22.7 |        31 |              |               |
 |  107 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  108 | Dev Millstein             |  22.6 |        92 |              |               |
-|  109 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  110 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  111 | Jonathan Hankar           |  22.3 |       201 |        +0.18 |         +0.36 |
+|  109 | Jonathan Hankar           |  22.5 |       202 |        +0.32 |         +0.49 |
+|  110 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  111 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  112 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
@@ -136,7 +136,7 @@ Generated 2017-04-30.
 |  132 | Phin Lee                  |  21.7 |        16 |              |               |
 |  133 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  134 | Dante Popple              |  21.5 |        17 |              |               |
-|  135 | Jared Bard                |  21.5 |        45 |              |         -0.06 |
+|  135 | Jared Bard                |  21.3 |        46 |        -0.14 |         -0.20 |
 |  136 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  137 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  138 | Adam Jacob                |  21.3 |         3 |              |               |
