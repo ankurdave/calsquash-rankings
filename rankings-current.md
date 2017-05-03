@@ -29,17 +29,17 @@ Generated 2017-05-02.
 |   25 | Eric Borden       |  17.8 |        44 |        -0.14 |         +0.23 |
 |   26 | Ankur Dave        |  17.5 |        68 |        +1.03 |         +6.78 |
 |   27 | Wayne Heiser      |  17.2 |        48 |        -0.42 |         +3.33 |
-|   28 | David Bratt       |  17.1 |        30 |        -0.04 |         +0.73 |
+|   28 | David Bratt       |  16.7 |        31 |        -0.52 |         +0.26 |
 |   29 | Sahar Sareminaeni |  16.3 |        28 |        -0.44 |               |
-|   30 | Chris Flores      |  16.3 |       318 |        +0.04 |         -1.07 |
+|   30 | Chris Flores      |  16.2 |       318 |              |         -1.10 |
 |   31 | Grant Buckingham  |  15.2 |         3 |              |               |
-|   32 | Nikhil Paranjape  |  14.6 |        43 |        +0.45 |         +5.81 |
+|   32 | Nikhil Paranjape  |  14.7 |        43 |        +0.45 |         +5.81 |
 |   33 | Sergey Dobrinov   |  14.6 |        17 |        +2.24 |               |
 |   34 | Kent Daniels      |  14.4 |       106 |        -0.39 |         -0.30 |
-|   35 | Meldan Heaslip    |  11.8 |        25 |        -0.28 |               |
-|   36 | Josh Lebowitz     |  11.6 |        44 |        +0.48 |         +9.05 |
-|   37 | Karan Goyal       |  11.3 |        10 |        +0.24 |               |
-|   38 | Craig Hollow      |  10.8 |        17 |        +0.26 |               |
+|   35 | Craig Hollow      |  12.0 |        18 |        +1.49 |               |
+|   36 | Meldan Heaslip    |  11.8 |        25 |        -0.28 |               |
+|   37 | Josh Lebowitz     |  11.6 |        44 |        +0.48 |         +9.05 |
+|   38 | Karan Goyal       |  11.3 |        10 |        +0.24 |               |
 |   39 | Nate Aden         |  10.3 |        33 |        +0.13 |         +3.65 |
 |   40 | Raphael Magarik   |   9.8 |        26 |        +0.37 |         +7.58 |
 |   41 | Duo Wang          |   8.8 |        70 |              |         +0.05 |
