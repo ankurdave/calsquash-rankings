@@ -1,4 +1,4 @@
-Generated 2017-05-10.
+Generated 2017-05-11.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -9,8 +9,8 @@ Generated 2017-05-10.
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
-|    8 | Louis Morrill             |  32.7 |        10 |              |               |
-|    9 | Eric Katerman             |  32.7 |        46 |              |         +4.98 |
+|    8 | Eric Katerman             |  32.8 |        47 |        +0.12 |         +5.11 |
+|    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
 |   12 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
@@ -39,9 +39,9 @@ Generated 2017-05-10.
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
 |   37 | Michael Best              |  26.9 |        21 |              |               |
-|   38 | Nick Cobbett              |  26.9 |        30 |              |         +1.52 |
-|   39 | Josh Taylor               |  26.8 |        40 |              |               |
-|   40 | David Hwang               |  26.8 |        44 |              |               |
+|   38 | Josh Taylor               |  26.8 |        40 |              |               |
+|   39 | David Hwang               |  26.8 |        44 |              |               |
+|   40 | Nick Cobbett              |  26.7 |        31 |        -0.13 |         +1.39 |
 |   41 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
 |   42 | Frank Kennamer            |  26.7 |       223 |              |         +0.37 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
