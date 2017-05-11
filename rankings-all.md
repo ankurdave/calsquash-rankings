@@ -355,9 +355,9 @@ Generated 2017-05-10.
 |  351 | Dominick Ng               |  10.9 |        25 |              |               |
 |  352 | George Bentley            |  10.6 |         4 |              |               |
 |  353 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  354 | Brian Puglise             |  10.4 |         2 |              |               |
-|  355 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  356 | Nate Aden                 |  10.3 |        33 |              |         +3.56 |
+|  354 | Nate Aden                 |  10.5 |        34 |        +0.13 |         +3.69 |
+|  355 | Brian Puglise             |  10.4 |         2 |              |               |
+|  356 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  357 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  358 | John Provine              |  10.2 |        16 |              |               |
 |  359 | Anthony Patterson         |  10.2 |         6 |              |               |
@@ -367,7 +367,7 @@ Generated 2017-05-10.
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.37 |
 |  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  366 | Raphael Magarik           |   9.8 |        26 |              |         +2.24 |
+|  366 | Raphael Magarik           |   9.8 |        27 |              |         +2.23 |
 |  367 | Daniel Schwartz           |   9.8 |        22 |              |         +1.99 |
 |  368 | Myles Gordon              |   9.8 |        42 |              |               |
 |  369 | Jacob Bank                |   9.7 |         1 |              |               |
