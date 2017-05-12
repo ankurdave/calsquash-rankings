@@ -100,25 +100,25 @@ Generated 2017-05-11.
 |   96 | Amy Lee                   |  23.6 |        56 |              |               |
 |   97 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |   98 | Garvin Heath              |  23.4 |        28 |              |               |
-|   99 | Dan Bohn                  |  23.4 |        95 |              |         -0.37 |
-|  100 | Daniel Greengard          |  23.1 |        37 |              |               |
-|  101 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|  102 | Joe Farrell               |  23.0 |        30 |              |               |
-|  103 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  104 | Andrew Pritchard          |  22.7 |        16 |              |               |
-|  105 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  106 | Julian Marshall           |  22.7 |        31 |              |               |
-|  107 | Gautam Tankha             |  22.6 |         7 |              |               |
-|  108 | Dev Millstein             |  22.6 |        92 |              |               |
-|  109 | Jonathan Hankar           |  22.5 |       202 |              |         +0.71 |
-|  110 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  111 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  112 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  113 | Robert Geiger             |  22.2 |         8 |              |               |
-|  114 | Aaron Socha               |  22.2 |        24 |              |               |
-|  115 | Dan Meier                 |  22.2 |        64 |              |         -0.73 |
-|  116 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  117 | Thomas Littleton          |  22.1 |         3 |              |               |
+|   99 | Dan Bohn                  |  23.3 |        96 |        -0.03 |         -0.40 |
+|  100 | Thomas Littleton          |  23.2 |         4 |        +1.01 |               |
+|  101 | Daniel Greengard          |  23.1 |        37 |              |               |
+|  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|  103 | Joe Farrell               |  23.0 |        30 |              |               |
+|  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  105 | Andrew Pritchard          |  22.7 |        16 |              |               |
+|  106 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  107 | Julian Marshall           |  22.7 |        31 |              |               |
+|  108 | Gautam Tankha             |  22.6 |         7 |              |               |
+|  109 | Dev Millstein             |  22.6 |        92 |              |               |
+|  110 | Jonathan Hankar           |  22.5 |       202 |              |         +0.71 |
+|  111 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  112 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  113 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  114 | Robert Geiger             |  22.2 |         8 |              |               |
+|  115 | Aaron Socha               |  22.2 |        24 |              |               |
+|  116 | Dan Meier                 |  22.2 |        64 |              |         -0.73 |
+|  117 | Robert Ashmore            |  22.2 |       104 |              |               |
 |  118 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  119 | Britta Gardner            |  22.1 |        16 |              |               |
 |  120 | Niklas Linde              |  22.1 |        23 |              |               |
