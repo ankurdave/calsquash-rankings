@@ -1,4 +1,4 @@
-Generated 2017-05-11.
+Generated 2017-05-12.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -162,7 +162,7 @@ Generated 2017-05-11.
 |  158 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  159 | Andrew Green              |  20.5 |        52 |              |               |
 |  160 | Steven Sloman             |  20.4 |        10 |              |               |
-|  161 | Mark Modera               |  20.4 |       325 |              |         -0.59 |
+|  161 | Mark Modera               |  20.4 |       326 |        +0.06 |         -0.52 |
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.26 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  164 | Carl Schreck              |  20.2 |         2 |              |               |
@@ -218,7 +218,7 @@ Generated 2017-05-11.
 |  214 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  215 | Bob Roller                |  18.2 |         6 |              |               |
 |  216 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  217 | Josh Trauner              |  18.0 |        57 |              |         +0.30 |
+|  217 | Josh Trauner              |  17.9 |        58 |        -0.06 |         +0.24 |
 |  218 | James Chung               |  17.9 |         7 |              |               |
 |  219 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  220 | Eric Borden               |  17.8 |        44 |              |         +0.13 |
