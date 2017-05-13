@@ -1,4 +1,4 @@
-Generated 2017-05-12.
+Generated 2017-05-13.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -182,7 +182,7 @@ Generated 2017-05-12.
 |  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  179 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  181 | Mike Jensen-Akula         |  19.6 |       223 |              |         -2.10 |
+|  181 | Mike Jensen-Akula         |  19.6 |       224 |        +0.03 |         -2.07 |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
 |  184 | Roberto Gonzalez          |  19.4 |         3 |              |               |
@@ -355,7 +355,7 @@ Generated 2017-05-12.
 |  351 | Dominick Ng               |  10.9 |        25 |              |               |
 |  352 | George Bentley            |  10.6 |         4 |              |               |
 |  353 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  354 | Nate Aden                 |  10.5 |        34 |        +0.13 |         +3.69 |
+|  354 | Nate Aden                 |  10.5 |        34 |        +0.12 |         +3.68 |
 |  355 | Brian Puglise             |  10.4 |         2 |              |               |
 |  356 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  357 | Prasad Santhanam          |  10.3 |         7 |              |               |
@@ -367,9 +367,9 @@ Generated 2017-05-12.
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.37 |
 |  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  366 | Raphael Magarik           |   9.8 |        27 |              |         +2.23 |
-|  367 | Daniel Schwartz           |   9.8 |        22 |              |         +1.99 |
-|  368 | Myles Gordon              |   9.8 |        42 |              |               |
+|  366 | Daniel Schwartz           |   9.8 |        22 |              |         +1.99 |
+|  367 | Myles Gordon              |   9.8 |        42 |              |               |
+|  368 | Raphael Magarik           |   9.7 |        28 |        -0.07 |         +2.16 |
 |  369 | Jacob Bank                |   9.7 |         1 |              |               |
 |  370 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  371 | Peter Ledochowitsch       |   9.5 |        27 |              |               |

@@ -1,4 +1,4 @@
-Generated 2017-05-12.
+Generated 2017-05-13.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -18,7 +18,7 @@ Generated 2017-05-12.
 |   14 | Marc Schechter    |  20.6 |        13 |              |               |
 |   15 | Mark Modera       |  20.4 |       326 |        +0.06 |         -0.52 |
 |   16 | Robert Schwartz   |  20.1 |        90 |              |         -1.11 |
-|   17 | Mike Jensen-Akula |  19.6 |       223 |              |         -2.10 |
+|   17 | Mike Jensen-Akula |  19.6 |       224 |        +0.03 |         -2.07 |
 |   18 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   19 | Shaun Lim         |  19.3 |        60 |              |         +1.02 |
 |   20 | Dror Matalon      |  18.5 |       369 |              |         +0.27 |
@@ -36,8 +36,8 @@ Generated 2017-05-12.
 |   32 | Meldan Heaslip    |  11.8 |        25 |              |               |
 |   33 | Josh Lebowitz     |  11.6 |        44 |              |         +9.06 |
 |   34 | Karan Goyal       |  11.3 |        10 |              |               |
-|   35 | Nate Aden         |  10.5 |        34 |        +0.13 |         +3.69 |
-|   36 | Raphael Magarik   |   9.8 |        27 |              |         +2.23 |
+|   35 | Nate Aden         |  10.5 |        34 |        +0.12 |         +3.68 |
+|   36 | Raphael Magarik   |   9.7 |        28 |        -0.07 |         +2.16 |
 |   37 | Duo Wang          |   8.8 |        70 |              |         +0.41 |
 |   38 | Janeau Janssen    |   8.6 |        12 |              |               |
 |   39 | Jose Lara         |   6.6 |        14 |              |         +0.60 |
