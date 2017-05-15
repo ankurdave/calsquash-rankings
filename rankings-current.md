@@ -1,4 +1,4 @@
-Generated 2017-05-13.
+Generated 2017-05-14.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -14,15 +14,15 @@ Generated 2017-05-13.
 |   10 | Thomas Littleton  |  23.2 |         4 |        +1.01 |               |
 |   11 | Jonathan Hankar   |  22.5 |       202 |              |         +0.71 |
 |   12 | Dan Meier         |  22.2 |        64 |              |         -0.73 |
-|   13 | Reid Johnsen      |  21.3 |        48 |              |         -0.33 |
+|   13 | Reid Johnsen      |  21.4 |        49 |        +0.13 |         -0.19 |
 |   14 | Marc Schechter    |  20.6 |        13 |              |               |
-|   15 | Mark Modera       |  20.4 |       326 |        +0.06 |         -0.52 |
+|   15 | Mark Modera       |  20.3 |       327 |        -0.05 |         -0.64 |
 |   16 | Robert Schwartz   |  20.1 |        90 |              |         -1.11 |
 |   17 | Mike Jensen-Akula |  19.6 |       224 |        +0.03 |         -2.07 |
 |   18 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   19 | Shaun Lim         |  19.3 |        60 |              |         +1.02 |
 |   20 | Dror Matalon      |  18.5 |       369 |              |         +0.27 |
-|   21 | Josh Trauner      |  17.9 |        58 |        -0.06 |         +0.24 |
+|   21 | Josh Trauner      |  17.9 |        58 |        -0.07 |         +0.23 |
 |   22 | Eric Borden       |  17.8 |        44 |              |         +0.13 |
 |   23 | Ankur Dave        |  17.5 |        68 |              |         +5.69 |
 |   24 | Wayne Heiser      |  17.2 |        48 |              |         +2.73 |

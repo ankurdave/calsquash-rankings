@@ -1,4 +1,4 @@
-Generated 2017-05-13.
+Generated 2017-05-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -136,12 +136,12 @@ Generated 2017-05-13.
 |  132 | Phin Lee                  |  21.7 |        16 |              |               |
 |  133 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  134 | Dante Popple              |  21.5 |        17 |              |               |
-|  135 | Jared Bard                |  21.3 |        46 |              |         -0.51 |
-|  136 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  137 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  138 | Adam Jacob                |  21.3 |         3 |              |               |
-|  139 | Vishal Jain               |  21.3 |         6 |              |               |
-|  140 | Reid Johnsen              |  21.3 |        48 |              |         -0.33 |
+|  135 | Reid Johnsen              |  21.4 |        49 |        +0.13 |         -0.19 |
+|  136 | Jared Bard                |  21.3 |        46 |              |         -0.51 |
+|  137 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  138 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  139 | Adam Jacob                |  21.3 |         3 |              |               |
+|  140 | Vishal Jain               |  21.3 |         6 |              |               |
 |  141 | Casey Harelson            |  21.2 |        20 |              |               |
 |  142 | Philip Bildner            |  21.2 |        22 |              |               |
 |  143 | Darren Morgan             |  21.2 |        11 |              |               |
@@ -162,9 +162,9 @@ Generated 2017-05-13.
 |  158 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  159 | Andrew Green              |  20.5 |        52 |              |               |
 |  160 | Steven Sloman             |  20.4 |        10 |              |               |
-|  161 | Mark Modera               |  20.4 |       326 |        +0.06 |         -0.52 |
-|  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.26 |
-|  163 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  161 | Jeff Gordon               |  20.3 |        46 |              |         +2.26 |
+|  162 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  163 | Mark Modera               |  20.3 |       327 |        -0.05 |         -0.64 |
 |  164 | Carl Schreck              |  20.2 |         2 |              |               |
 |  165 | John Grim                 |  20.1 |        13 |              |               |
 |  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
@@ -218,7 +218,7 @@ Generated 2017-05-13.
 |  214 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  215 | Bob Roller                |  18.2 |         6 |              |               |
 |  216 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  217 | Josh Trauner              |  17.9 |        58 |        -0.06 |         +0.24 |
+|  217 | Josh Trauner              |  17.9 |        58 |        -0.07 |         +0.23 |
 |  218 | James Chung               |  17.9 |         7 |              |               |
 |  219 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  220 | Eric Borden               |  17.8 |        44 |              |         +0.13 |
