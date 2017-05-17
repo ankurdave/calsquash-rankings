@@ -388,12 +388,12 @@ Generated 2017-05-16.
 |  384 | Duo Wang                  |   8.8 |        70 |              |         +0.41 |
 |  385 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  386 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  387 | Therese Jones             |   8.7 |         6 |              |               |
-|  388 | Steven Yee                |   8.7 |         9 |              |               |
-|  389 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  390 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  391 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  392 | Janeau Janssen            |   8.6 |        12 |              |               |
+|  387 | Janeau Janssen            |   8.7 |        13 |        +0.17 |               |
+|  388 | Therese Jones             |   8.7 |         6 |              |               |
+|  389 | Steven Yee                |   8.7 |         9 |              |               |
+|  390 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  391 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  392 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  393 | Reynold Xin               |   8.3 |         5 |              |               |
 |  394 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  395 | Fahad Riyadh              |   8.2 |         5 |              |               |
@@ -488,7 +488,7 @@ Generated 2017-05-16.
 |  484 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  485 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  486 | Sandra Harpster           |  -0.1 |         5 |              |               |
-|  487 | Duncan MacRae             |  -0.1 |        19 |              |               |
+|  487 | Duncan MacRae             |  -0.2 |        20 |        -0.08 |               |
 |  488 | Stephen Garden            |  -0.2 |         2 |              |               |
 |  489 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
 |  490 | Wyss Roman                |  -0.3 |         2 |              |               |
