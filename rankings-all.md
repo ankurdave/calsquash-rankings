@@ -384,8 +384,8 @@ Generated 2017-05-17.
 |  380 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  381 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  382 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  383 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  384 | Duo Wang                  |   8.8 |        70 |              |         +0.41 |
+|  383 | Duo Wang                  |   9.0 |        71 |        +0.14 |         +0.55 |
+|  384 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  385 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  386 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  387 | Janeau Janssen            |   8.7 |        13 |        +0.17 |               |
@@ -443,8 +443,8 @@ Generated 2017-05-17.
 |  439 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  440 | Sumit Gupta               |   4.6 |         5 |              |               |
 |  441 | Sameer Bajaj              |   4.3 |         4 |              |               |
-|  442 | Zsolt Bartha              |   4.2 |        56 |              |         -0.49 |
-|  443 | Anuj Dawar                |   4.2 |        15 |              |               |
+|  442 | Anuj Dawar                |   4.2 |        15 |              |               |
+|  443 | Zsolt Bartha              |   4.1 |        57 |        -0.16 |         -0.65 |
 |  444 | Annie Wong                |   4.0 |         3 |              |               |
 |  445 | Ryan                      |   4.0 |         3 |              |               |
 |  446 | Mateo Aceves              |   3.8 |         4 |              |               |

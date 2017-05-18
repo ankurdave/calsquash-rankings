@@ -38,12 +38,12 @@ Generated 2017-05-17.
 |   34 | Karan Goyal       |  11.3 |        10 |              |               |
 |   35 | Nate Aden         |  10.5 |        34 |        +0.12 |         +3.68 |
 |   36 | Raphael Magarik   |   9.7 |        28 |        -0.07 |         +2.16 |
-|   37 | Duo Wang          |   8.8 |        70 |              |         +0.41 |
+|   37 | Duo Wang          |   9.0 |        71 |        +0.14 |         +0.55 |
 |   38 | Janeau Janssen    |   8.7 |        13 |        +0.17 |               |
 |   39 | Jose Lara         |   6.6 |        14 |              |         +0.60 |
 |   40 | Norman Bonney     |   6.0 |         3 |              |               |
 |   41 | Sumit Gupta       |   4.6 |         5 |              |               |
-|   42 | Zsolt Bartha      |   4.2 |        56 |              |         -0.49 |
+|   42 | Zsolt Bartha      |   4.1 |        57 |        -0.16 |         -0.65 |
 |   43 | Duncan MacRae     |  -0.2 |        20 |        -0.08 |               |
 |   44 | Rodrigo Lasheras  |  -0.5 |         3 |              |               |
 |   45 | Vipul Gupta       |  -3.3 |         3 |              |               |
