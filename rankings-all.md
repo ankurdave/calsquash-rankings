@@ -1,4 +1,4 @@
-Generated 2017-05-16.
+Generated 2017-05-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -76,17 +76,17 @@ Generated 2017-05-16.
 |   72 | Adam Pollak               |  24.5 |        31 |              |               |
 |   73 | Jon Shih                  |  24.4 |        47 |              |               |
 |   74 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   75 | Jim Veitch                |  24.4 |       447 |              |         -1.98 |
-|   76 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   77 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   78 | Lakshya Rustagi           |  24.2 |         2 |              |               |
-|   79 | Toby Reiner               |  24.2 |       159 |              |               |
-|   80 | Himanshu Jatia            |  24.2 |         4 |              |               |
-|   81 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   82 | Robert Jeng               |  24.1 |        26 |              |               |
-|   83 | Vyas Sekar                |  24.1 |        17 |              |               |
-|   84 | Benjamin Vicuna           |  24.1 |        50 |              |               |
-|   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
+|   75 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   76 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   77 | Lakshya Rustagi           |  24.2 |         2 |              |               |
+|   78 | Toby Reiner               |  24.2 |       159 |              |               |
+|   79 | Himanshu Jatia            |  24.2 |         4 |              |               |
+|   80 | Matthew Elliott           |  24.2 |         7 |              |               |
+|   81 | Robert Jeng               |  24.1 |        26 |              |               |
+|   82 | Vyas Sekar                |  24.1 |        17 |              |               |
+|   83 | Benjamin Vicuna           |  24.1 |        50 |              |               |
+|   84 | Ivo Plsek                 |  24.1 |        60 |              |               |
+|   85 | Jim Veitch                |  24.1 |       448 |        -0.29 |         -2.27 |
 |   86 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   87 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   88 | Matt Wong                 |  23.9 |        91 |              |         +3.18 |
@@ -97,11 +97,11 @@ Generated 2017-05-16.
 |   93 | Matt Waid                 |  23.7 |        51 |              |               |
 |   94 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   95 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   96 | Amy Lee                   |  23.6 |        56 |              |               |
-|   97 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
-|   98 | Garvin Heath              |  23.4 |        28 |              |               |
-|   99 | Dan Bohn                  |  23.3 |        96 |        -0.03 |         -0.40 |
-|  100 | Thomas Littleton          |  23.2 |         4 |        +1.01 |               |
+|   96 | Dan Bohn                  |  23.6 |        97 |        +0.26 |         -0.11 |
+|   97 | Amy Lee                   |  23.6 |        56 |              |               |
+|   98 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
+|   99 | Garvin Heath              |  23.4 |        28 |              |               |
+|  100 | Thomas Littleton          |  23.2 |         4 |        +1.08 |               |
 |  101 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |

@@ -1,4 +1,4 @@
-Generated 2017-05-16.
+Generated 2017-05-17.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -9,9 +9,9 @@ Generated 2017-05-16.
 |    5 | Frank Kennamer    |  26.7 |       223 |              |         +0.37 |
 |    6 | Sam McCormick     |  24.9 |        34 |              |         +4.28 |
 |    7 | John Kunze        |  24.7 |       324 |              |         -0.02 |
-|    8 | Jim Veitch        |  24.4 |       447 |              |         -1.98 |
-|    9 | Dan Bohn          |  23.3 |        96 |        -0.03 |         -0.40 |
-|   10 | Thomas Littleton  |  23.2 |         4 |        +1.01 |               |
+|    8 | Jim Veitch        |  24.1 |       448 |        -0.29 |         -2.27 |
+|    9 | Dan Bohn          |  23.6 |        97 |        +0.26 |         -0.11 |
+|   10 | Thomas Littleton  |  23.2 |         4 |        +1.08 |               |
 |   11 | Jonathan Hankar   |  22.5 |       202 |              |         +0.71 |
 |   12 | Dan Meier         |  22.2 |        64 |              |         -0.73 |
 |   13 | Reid Johnsen      |  21.4 |        49 |        +0.13 |         -0.19 |
