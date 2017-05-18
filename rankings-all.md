@@ -1,4 +1,4 @@
-Generated 2017-05-17.
+Generated 2017-05-18.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -9,7 +9,7 @@ Generated 2017-05-17.
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
-|    8 | Eric Katerman             |  32.8 |        47 |        +0.12 |         +5.11 |
+|    8 | Eric Katerman             |  32.9 |        48 |        +0.19 |         +5.17 |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
@@ -31,7 +31,7 @@ Generated 2017-05-17.
 |   27 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   30 | Anibhav Singla            |  27.7 |        16 |              |               |
+|   30 | Anibhav Singla            |  27.5 |        17 |        -0.23 |               |
 |   31 | Grant French              |  27.5 |       125 |              |               |
 |   32 | Stephen Dang              |  27.2 |        34 |              |               |
 |   33 | Samer Shehata             |  27.2 |        29 |              |               |
@@ -59,11 +59,11 @@ Generated 2017-05-17.
 |   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   56 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   57 | Paul Greene               |  25.2 |         8 |              |               |
-|   58 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   59 | Ben Seelig                |  25.0 |        69 |              |               |
-|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   61 | Madhav Pai                |  24.9 |         5 |              |               |
-|   62 | Sam McCormick             |  24.9 |        34 |              |         +4.28 |
+|   58 | Sam McCormick             |  25.0 |        36 |        +0.16 |         +4.44 |
+|   59 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   60 | Ben Seelig                |  25.0 |        69 |              |               |
+|   61 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   62 | Madhav Pai                |  24.9 |         5 |              |               |
 |   63 | Shrinu Kushagra           |  24.8 |        12 |              |               |
 |   64 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   65 | Sushil Shetty             |  24.8 |        23 |              |               |
@@ -80,13 +80,13 @@ Generated 2017-05-17.
 |   76 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   77 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   78 | Toby Reiner               |  24.2 |       159 |              |               |
-|   79 | Himanshu Jatia            |  24.2 |         4 |              |               |
-|   80 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   81 | Robert Jeng               |  24.1 |        26 |              |               |
-|   82 | Vyas Sekar                |  24.1 |        17 |              |               |
-|   83 | Benjamin Vicuna           |  24.1 |        50 |              |               |
-|   84 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   85 | Jim Veitch                |  24.1 |       448 |        -0.29 |         -2.27 |
+|   79 | Jim Veitch                |  24.2 |       449 |        -0.19 |         -2.17 |
+|   80 | Himanshu Jatia            |  24.2 |         4 |              |               |
+|   81 | Matthew Elliott           |  24.2 |         7 |              |               |
+|   82 | Robert Jeng               |  24.1 |        26 |              |               |
+|   83 | Vyas Sekar                |  24.1 |        17 |              |               |
+|   84 | Benjamin Vicuna           |  24.1 |        50 |              |               |
+|   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   86 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   87 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   88 | Matt Wong                 |  23.9 |        91 |              |         +3.18 |
@@ -111,8 +111,8 @@ Generated 2017-05-17.
 |  107 | Julian Marshall           |  22.7 |        31 |              |               |
 |  108 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  109 | Dev Millstein             |  22.6 |        92 |              |               |
-|  110 | Jonathan Hankar           |  22.5 |       202 |              |         +0.71 |
-|  111 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  110 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  111 | Jonathan Hankar           |  22.4 |       203 |        -0.09 |         +0.62 |
 |  112 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  113 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  114 | Robert Geiger             |  22.2 |         8 |              |               |
