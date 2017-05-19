@@ -43,7 +43,7 @@ Generated 2017-05-18.
 |   39 | David Hwang               |  26.8 |        44 |              |               |
 |   40 | Nick Cobbett              |  26.7 |        31 |        -0.13 |         +1.39 |
 |   41 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
-|   42 | Frank Kennamer            |  26.7 |       223 |              |         +0.37 |
+|   42 | Frank Kennamer            |  26.7 |       224 |        +0.04 |         +0.41 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
 |   45 | Andrew Moylan             |  26.3 |        95 |              |               |
@@ -209,10 +209,10 @@ Generated 2017-05-18.
 |  205 | Yan Liu                   |  18.5 |        10 |              |               |
 |  206 | Akshay Dugar              |  18.5 |         6 |              |               |
 |  207 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  208 | Dror Matalon              |  18.5 |       369 |              |         +0.27 |
-|  209 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  210 | John Eng                  |  18.4 |        28 |              |               |
-|  211 | Natalie Leung             |  18.4 |         1 |              |               |
+|  208 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  209 | John Eng                  |  18.4 |        28 |              |               |
+|  210 | Natalie Leung             |  18.4 |         1 |              |               |
+|  211 | Dror Matalon              |  18.4 |       370 |        -0.08 |         +0.20 |
 |  212 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  213 | Kenny Bell                |  18.2 |       124 |              |               |
 |  214 | Pierre Darancet           |  18.2 |        94 |              |               |

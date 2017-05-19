@@ -6,7 +6,7 @@ Generated 2017-05-18.
 |    2 | Sam Sternberg     |  29.4 |       149 |              |         +0.15 |
 |    3 | Anibhav Singla    |  27.5 |        17 |        -0.23 |               |
 |    4 | Nick Cobbett      |  26.7 |        31 |        -0.13 |         +1.39 |
-|    5 | Frank Kennamer    |  26.7 |       223 |              |         +0.37 |
+|    5 | Frank Kennamer    |  26.7 |       224 |        +0.04 |         +0.41 |
 |    6 | Sam McCormick     |  25.0 |        36 |        +0.16 |         +4.44 |
 |    7 | John Kunze        |  24.7 |       324 |              |         -0.02 |
 |    8 | Jim Veitch        |  24.2 |       449 |        -0.19 |         -2.17 |
@@ -21,7 +21,7 @@ Generated 2017-05-18.
 |   17 | Mike Jensen-Akula |  19.6 |       224 |        +0.03 |         -2.07 |
 |   18 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   19 | Shaun Lim         |  19.3 |        60 |              |         +1.02 |
-|   20 | Dror Matalon      |  18.5 |       369 |              |         +0.27 |
+|   20 | Dror Matalon      |  18.4 |       370 |        -0.08 |         +0.20 |
 |   21 | Josh Trauner      |  17.9 |        58 |        -0.07 |         +0.23 |
 |   22 | Eric Borden       |  17.8 |        44 |              |         +0.13 |
 |   23 | Ankur Dave        |  17.5 |        68 |              |         +5.69 |
