@@ -1,4 +1,4 @@
-Generated 2017-05-18.
+Generated 2017-05-19.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -13,7 +13,7 @@ Generated 2017-05-18.
 |    9 | Dan Bohn          |  23.6 |        97 |        +0.26 |         -0.11 |
 |   10 | Thomas Littleton  |  23.2 |         4 |        +1.08 |               |
 |   11 | Jonathan Hankar   |  22.4 |       203 |        -0.09 |         +0.62 |
-|   12 | Dan Meier         |  22.2 |        64 |              |         -0.73 |
+|   12 | Dan Meier         |  22.0 |        65 |        -0.18 |         -0.92 |
 |   13 | Reid Johnsen      |  21.4 |        49 |        +0.13 |         -0.19 |
 |   14 | Marc Schechter    |  20.6 |        13 |              |               |
 |   15 | Mark Modera       |  20.3 |       327 |        -0.05 |         -0.64 |
@@ -24,7 +24,7 @@ Generated 2017-05-18.
 |   20 | Dror Matalon      |  18.4 |       370 |        -0.08 |         +0.20 |
 |   21 | Josh Trauner      |  17.9 |        58 |        -0.07 |         +0.23 |
 |   22 | Eric Borden       |  17.8 |        44 |              |         +0.13 |
-|   23 | Ankur Dave        |  17.5 |        68 |              |         +5.69 |
+|   23 | Ankur Dave        |  17.7 |        69 |        +0.18 |         +5.87 |
 |   24 | Wayne Heiser      |  17.2 |        48 |              |         +2.73 |
 |   25 | David Bratt       |  16.7 |        31 |              |         +0.26 |
 |   26 | Sahar Sareminaeni |  16.3 |        28 |              |               |
