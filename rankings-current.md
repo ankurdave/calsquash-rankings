@@ -1,4 +1,4 @@
-Generated 2017-05-19.
+Generated 2017-05-20.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -16,16 +16,16 @@ Generated 2017-05-19.
 |   12 | Dan Meier         |  22.0 |        65 |        -0.18 |         -0.92 |
 |   13 | Reid Johnsen      |  21.4 |        49 |        +0.13 |         -0.19 |
 |   14 | Marc Schechter    |  20.6 |        13 |              |               |
-|   15 | Mark Modera       |  20.3 |       327 |        -0.05 |         -0.64 |
+|   15 | Mark Modera       |  20.3 |       327 |        -0.04 |         -0.62 |
 |   16 | Robert Schwartz   |  20.1 |        90 |              |         -1.11 |
 |   17 | Mike Jensen-Akula |  19.6 |       224 |        +0.03 |         -2.07 |
 |   18 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   19 | Shaun Lim         |  19.3 |        60 |              |         +1.02 |
 |   20 | Dror Matalon      |  18.4 |       370 |        -0.08 |         +0.20 |
-|   21 | Josh Trauner      |  17.9 |        58 |        -0.07 |         +0.23 |
+|   21 | Josh Trauner      |  18.2 |        59 |        +0.17 |         +0.47 |
 |   22 | Eric Borden       |  17.8 |        44 |              |         +0.13 |
 |   23 | Ankur Dave        |  17.7 |        69 |        +0.18 |         +5.87 |
-|   24 | Wayne Heiser      |  17.2 |        48 |              |         +2.73 |
+|   24 | Wayne Heiser      |  17.0 |        49 |        -0.24 |         +2.49 |
 |   25 | David Bratt       |  16.7 |        31 |              |         +0.26 |
 |   26 | Sahar Sareminaeni |  16.3 |        28 |              |               |
 |   27 | Chris Flores      |  16.2 |       318 |              |         -1.49 |

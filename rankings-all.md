@@ -1,4 +1,4 @@
-Generated 2017-05-19.
+Generated 2017-05-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -163,8 +163,8 @@ Generated 2017-05-19.
 |  159 | Andrew Green              |  20.5 |        52 |              |               |
 |  160 | Steven Sloman             |  20.4 |        10 |              |               |
 |  161 | Jeff Gordon               |  20.3 |        46 |              |         +2.26 |
-|  162 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  163 | Mark Modera               |  20.3 |       327 |        -0.05 |         -0.64 |
+|  162 | Mark Modera               |  20.3 |       327 |        -0.04 |         -0.62 |
+|  163 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  164 | Carl Schreck              |  20.2 |         2 |              |               |
 |  165 | John Grim                 |  20.1 |        13 |              |               |
 |  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
@@ -216,9 +216,9 @@ Generated 2017-05-19.
 |  212 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  213 | Kenny Bell                |  18.2 |       124 |              |               |
 |  214 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  215 | Bob Roller                |  18.2 |         6 |              |               |
-|  216 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  217 | Josh Trauner              |  17.9 |        58 |        -0.07 |         +0.23 |
+|  215 | Josh Trauner              |  18.2 |        59 |        +0.17 |         +0.47 |
+|  216 | Bob Roller                |  18.2 |         6 |              |               |
+|  217 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  218 | James Chung               |  17.9 |         7 |              |               |
 |  219 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  220 | Eric Borden               |  17.8 |        44 |              |         +0.13 |
@@ -239,13 +239,13 @@ Generated 2017-05-19.
 |  235 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  236 | Zach Brown                |  17.3 |         3 |              |               |
 |  237 | William Seles             |  17.2 |        15 |              |               |
-|  238 | Wayne Heiser              |  17.2 |        48 |              |         +2.73 |
-|  239 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  240 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  241 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  242 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  243 | Neil Conway               |  17.0 |        55 |              |               |
-|  244 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  238 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  239 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  240 | Lucas Cheon               |  17.2 |        19 |              |               |
+|  241 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  242 | Neil Conway               |  17.0 |        55 |              |               |
+|  243 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  244 | Wayne Heiser              |  17.0 |        49 |        -0.24 |         +2.49 |
 |  245 | Baxter Leman              |  16.9 |         6 |              |               |
 |  246 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  247 | Allan Dafoe               |  16.8 |        43 |              |               |
