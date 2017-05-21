@@ -1,4 +1,4 @@
-Generated 2017-05-20.
+Generated 2017-05-21.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -212,7 +212,7 @@ Generated 2017-05-20.
 |  208 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  209 | John Eng                  |  18.4 |        28 |              |               |
 |  210 | Natalie Leung             |  18.4 |         1 |              |               |
-|  211 | Dror Matalon              |  18.4 |       370 |        -0.08 |         +0.20 |
+|  211 | Dror Matalon              |  18.4 |       371 |        -0.05 |         +0.22 |
 |  212 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  213 | Kenny Bell                |  18.2 |       124 |              |               |
 |  214 | Pierre Darancet           |  18.2 |        94 |              |               |
@@ -226,7 +226,7 @@ Generated 2017-05-20.
 |  222 | Nick Paget                |  17.8 |        35 |              |               |
 |  223 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  224 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  225 | Ankur Dave                |  17.7 |        69 |        +0.18 |         +5.87 |
+|  225 | Ankur Dave                |  17.7 |        70 |        +0.16 |         +5.85 |
 |  226 | George Roche              |  17.7 |        14 |              |               |
 |  227 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  228 | Subrato Dey               |  17.5 |        26 |              |         +1.48 |
