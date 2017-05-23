@@ -1,4 +1,4 @@
-Generated 2017-05-22.
+Generated 2017-05-23.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -40,10 +40,11 @@ Generated 2017-05-22.
 |   36 | Raphael Magarik   |   9.7 |        28 |        -0.07 |         +2.16 |
 |   37 | Duo Wang          |   9.0 |        71 |        +0.14 |         +0.55 |
 |   38 | Janeau Janssen    |   8.7 |        13 |        +0.17 |               |
-|   39 | Jose Lara         |   6.6 |        14 |              |         +0.60 |
-|   40 | Norman Bonney     |   6.0 |         3 |              |               |
-|   41 | Sumit Gupta       |   4.6 |         5 |              |               |
-|   42 | Zsolt Bartha      |   4.1 |        57 |        -0.16 |         -0.65 |
-|   43 | Duncan MacRae     |  -0.2 |        20 |        -0.08 |               |
-|   44 | Rodrigo Lasheras  |  -0.5 |         3 |              |               |
-|   45 | Vipul Gupta       |  -3.3 |         3 |              |               |
+|   39 | Jose Lara         |   7.1 |        15 |        +0.52 |         +1.13 |
+|   40 | Sumit Gupta       |   6.8 |         6 |        +2.21 |               |
+|   41 | Norman Bonney     |   6.0 |         3 |              |               |
+|   42 | Terence Stotz     |   4.3 |         2 |              |               |
+|   43 | Zsolt Bartha      |   4.1 |        57 |        -0.16 |         -0.65 |
+|   44 | Duncan MacRae     |  -0.2 |        20 |        -0.08 |               |
+|   45 | Rodrigo Lasheras  |  -0.5 |         3 |              |               |
+|   46 | Vipul Gupta       |  -3.3 |         3 |              |               |
