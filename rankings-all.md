@@ -1,4 +1,4 @@
-Generated 2017-05-21.
+Generated 2017-05-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -9,7 +9,7 @@ Generated 2017-05-21.
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
-|    8 | Eric Katerman             |  32.9 |        48 |        +0.19 |         +5.17 |
+|    8 | Eric Katerman             |  32.9 |        49 |        +0.23 |         +5.21 |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
@@ -22,7 +22,7 @@ Generated 2017-05-21.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.4 |       149 |              |         +0.15 |
+|   21 | Sam Sternberg             |  29.4 |       150 |              |         +0.15 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |

@@ -1,9 +1,9 @@
-Generated 2017-05-21.
+Generated 2017-05-22.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
-|    1 | Eric Katerman     |  32.9 |        48 |        +0.19 |         +5.17 |
-|    2 | Sam Sternberg     |  29.4 |       149 |              |         +0.15 |
+|    1 | Eric Katerman     |  32.9 |        49 |        +0.23 |         +5.21 |
+|    2 | Sam Sternberg     |  29.4 |       150 |              |         +0.15 |
 |    3 | Anibhav Singla    |  27.5 |        17 |        -0.23 |               |
 |    4 | Nick Cobbett      |  26.7 |        31 |        -0.13 |         +1.39 |
 |    5 | Frank Kennamer    |  26.7 |       224 |        +0.04 |         +0.41 |
