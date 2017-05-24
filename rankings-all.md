@@ -22,7 +22,7 @@ Generated 2017-05-24.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.5 |       151 |        +0.13 |         +0.28 |
+|   21 | Sam Sternberg             |  29.6 |       152 |        +0.20 |         +0.36 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -41,9 +41,9 @@ Generated 2017-05-24.
 |   37 | Michael Best              |  26.9 |        21 |              |               |
 |   38 | Josh Taylor               |  26.8 |        40 |              |               |
 |   39 | David Hwang               |  26.8 |        44 |              |               |
-|   40 | Nick Cobbett              |  26.7 |        31 |        -0.13 |         +1.39 |
-|   41 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
-|   42 | Frank Kennamer            |  26.7 |       224 |        +0.04 |         +0.41 |
+|   40 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
+|   41 | Frank Kennamer            |  26.7 |       224 |        +0.04 |         +0.41 |
+|   42 | Nick Cobbett              |  26.7 |        32 |        -0.18 |         +1.34 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
 |   45 | Andrew Moylan             |  26.3 |        95 |              |               |
