@@ -1,4 +1,4 @@
-Generated 2017-05-24.
+Generated 2017-05-25.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -32,7 +32,7 @@ Generated 2017-05-24.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Anibhav Singla            |  27.5 |        17 |        -0.26 |               |
+|   31 | Anibhav Singla            |  27.5 |        17 |        -0.25 |               |
 |   32 | Stephen Dang              |  27.2 |        34 |              |               |
 |   33 | Samer Shehata             |  27.2 |        29 |              |               |
 |   34 | Hussain Raza              |  27.0 |        50 |              |               |
@@ -43,7 +43,7 @@ Generated 2017-05-24.
 |   39 | David Hwang               |  26.8 |        44 |              |               |
 |   40 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
 |   41 | Frank Kennamer            |  26.7 |       224 |        +0.04 |         +0.41 |
-|   42 | Nick Cobbett              |  26.7 |        32 |        -0.18 |         +1.34 |
+|   42 | Nick Cobbett              |  26.7 |        33 |        -0.18 |         +1.34 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
 |   45 | Andrew Moylan             |  26.3 |        95 |              |               |
@@ -60,10 +60,10 @@ Generated 2017-05-24.
 |   56 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   57 | Paul Greene               |  25.2 |         8 |              |               |
 |   58 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   59 | Ben Seelig                |  25.0 |        69 |              |               |
-|   60 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   61 | Madhav Pai                |  24.9 |         5 |              |               |
-|   62 | Sam McCormick             |  24.9 |        37 |        +0.02 |         +4.30 |
+|   59 | Sam McCormick             |  25.0 |        38 |        +0.09 |         +4.37 |
+|   60 | Ben Seelig                |  25.0 |        69 |              |               |
+|   61 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   62 | Madhav Pai                |  24.9 |         5 |              |               |
 |   63 | Shrinu Kushagra           |  24.8 |        12 |              |               |
 |   64 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   65 | Sushil Shetty             |  24.8 |        23 |              |               |
