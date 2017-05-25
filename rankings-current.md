@@ -9,9 +9,9 @@ Generated 2017-05-24.
 |    5 | Nick Cobbett      |  26.7 |        32 |        -0.18 |         +1.34 |
 |    6 | Sam McCormick     |  24.9 |        37 |        +0.02 |         +4.30 |
 |    7 | John Kunze        |  24.7 |       324 |              |         -0.02 |
-|    8 | Jim Veitch        |  24.2 |       449 |        -0.19 |         -2.17 |
-|    9 | Dan Bohn          |  23.6 |        97 |        +0.26 |         -0.11 |
-|   10 | Thomas Littleton  |  23.2 |         4 |        +1.08 |               |
+|    8 | Jim Veitch        |  24.2 |       450 |        -0.14 |         -2.12 |
+|    9 | Thomas Littleton  |  23.7 |         5 |        +1.56 |               |
+|   10 | Dan Bohn          |  23.6 |        97 |        +0.25 |         -0.12 |
 |   11 | Jonathan Hankar   |  22.4 |       203 |        -0.09 |         +0.62 |
 |   12 | Dan Meier         |  22.0 |        65 |        -0.18 |         -0.92 |
 |   13 | Reid Johnsen      |  21.4 |        49 |        +0.13 |         -0.19 |

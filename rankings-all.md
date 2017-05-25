@@ -78,9 +78,9 @@ Generated 2017-05-24.
 |   74 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   75 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   76 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   77 | Lakshya Rustagi           |  24.2 |         2 |              |               |
-|   78 | Toby Reiner               |  24.2 |       159 |              |               |
-|   79 | Jim Veitch                |  24.2 |       449 |        -0.19 |         -2.17 |
+|   77 | Jim Veitch                |  24.2 |       450 |        -0.14 |         -2.12 |
+|   78 | Lakshya Rustagi           |  24.2 |         2 |              |               |
+|   79 | Toby Reiner               |  24.2 |       159 |              |               |
 |   80 | Himanshu Jatia            |  24.2 |         4 |              |               |
 |   81 | Matthew Elliott           |  24.2 |         7 |              |               |
 |   82 | Robert Jeng               |  24.1 |        26 |              |               |
@@ -96,12 +96,12 @@ Generated 2017-05-24.
 |   92 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
 |   93 | Matt Waid                 |  23.7 |        51 |              |               |
 |   94 | Sonesh Surana             |  23.7 |        95 |              |               |
-|   95 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   96 | Dan Bohn                  |  23.6 |        97 |        +0.26 |         -0.11 |
-|   97 | Amy Lee                   |  23.6 |        56 |              |               |
-|   98 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
-|   99 | Garvin Heath              |  23.4 |        28 |              |               |
-|  100 | Thomas Littleton          |  23.2 |         4 |        +1.08 |               |
+|   95 | Thomas Littleton          |  23.7 |         5 |        +1.56 |               |
+|   96 | Nader Shoaibi             |  23.7 |        64 |              |               |
+|   97 | Dan Bohn                  |  23.6 |        97 |        +0.25 |         -0.12 |
+|   98 | Amy Lee                   |  23.6 |        56 |              |               |
+|   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
+|  100 | Garvin Heath              |  23.4 |        28 |              |               |
 |  101 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
