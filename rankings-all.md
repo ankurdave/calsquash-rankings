@@ -1,4 +1,4 @@
-Generated 2017-05-25.
+Generated 2017-05-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -41,8 +41,8 @@ Generated 2017-05-25.
 |   37 | Michael Best              |  26.9 |        21 |              |               |
 |   38 | Josh Taylor               |  26.8 |        40 |              |               |
 |   39 | David Hwang               |  26.8 |        44 |              |               |
-|   40 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
-|   41 | Frank Kennamer            |  26.7 |       224 |        +0.04 |         +0.41 |
+|   40 | Frank Kennamer            |  26.7 |       225 |        +0.06 |         +0.44 |
+|   41 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
 |   42 | Nick Cobbett              |  26.7 |        33 |        -0.18 |         +1.34 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
@@ -122,7 +122,7 @@ Generated 2017-05-25.
 |  118 | Britta Gardner            |  22.1 |        16 |              |               |
 |  119 | Niklas Linde              |  22.1 |        23 |              |               |
 |  120 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  121 | Dan Meier                 |  22.0 |        65 |        -0.18 |         -0.92 |
+|  121 | Dan Meier                 |  22.0 |        65 |        -0.19 |         -0.92 |
 |  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
 |  123 | Blake Woodard             |  22.0 |        10 |              |               |
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
@@ -226,8 +226,8 @@ Generated 2017-05-25.
 |  222 | Nick Paget                |  17.8 |        35 |              |               |
 |  223 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  224 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  225 | Ankur Dave                |  17.7 |        70 |        +0.16 |         +5.85 |
-|  226 | George Roche              |  17.7 |        14 |              |               |
+|  225 | George Roche              |  17.7 |        14 |              |               |
+|  226 | Ankur Dave                |  17.6 |        71 |        +0.11 |         +5.79 |
 |  227 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  228 | Subrato Dey               |  17.5 |        26 |              |         +1.48 |
 |  229 | Antonio Garcia            |  17.5 |        20 |              |               |
