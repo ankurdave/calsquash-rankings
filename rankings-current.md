@@ -5,7 +5,7 @@ Generated 2017-05-26.
 |    1 | Eric Katerman     |  32.9 |        49 |        +0.23 |         +5.22 |
 |    2 | Sam Sternberg     |  29.6 |       152 |        +0.20 |         +0.36 |
 |    3 | Anibhav Singla    |  27.5 |        17 |        -0.25 |               |
-|    4 | Frank Kennamer    |  26.7 |       225 |        +0.06 |         +0.44 |
+|    4 | Frank Kennamer    |  26.7 |       225 |        +0.07 |         +0.44 |
 |    5 | Nick Cobbett      |  26.7 |        33 |        -0.18 |         +1.34 |
 |    6 | Sam McCormick     |  25.0 |        38 |        +0.09 |         +4.37 |
 |    7 | John Kunze        |  24.7 |       324 |              |         -0.02 |
@@ -13,7 +13,7 @@ Generated 2017-05-26.
 |    9 | Thomas Littleton  |  23.7 |         5 |        +1.56 |               |
 |   10 | Dan Bohn          |  23.6 |        97 |        +0.25 |         -0.12 |
 |   11 | Jonathan Hankar   |  22.4 |       203 |        -0.09 |         +0.62 |
-|   12 | Dan Meier         |  22.0 |        65 |        -0.19 |         -0.92 |
+|   12 | Dan Meier         |  22.2 |        66 |        -0.04 |         -0.77 |
 |   13 | Reid Johnsen      |  21.4 |        49 |        +0.13 |         -0.19 |
 |   14 | Marc Schechter    |  20.6 |        13 |              |               |
 |   15 | Mark Modera       |  20.3 |       327 |        -0.04 |         -0.62 |
@@ -21,10 +21,10 @@ Generated 2017-05-26.
 |   17 | Mike Jensen-Akula |  19.6 |       224 |        +0.03 |         -2.07 |
 |   18 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   19 | Shaun Lim         |  19.3 |        60 |              |         +1.02 |
-|   20 | Dror Matalon      |  18.4 |       371 |        -0.05 |         +0.22 |
+|   20 | Dror Matalon      |  18.3 |       372 |        -0.21 |         +0.07 |
 |   21 | Josh Trauner      |  18.2 |        59 |        +0.17 |         +0.47 |
 |   22 | Eric Borden       |  17.8 |        44 |              |         +0.13 |
-|   23 | Ankur Dave        |  17.6 |        71 |        +0.11 |         +5.79 |
+|   23 | Ankur Dave        |  17.6 |        71 |        +0.10 |         +5.78 |
 |   24 | Wayne Heiser      |  17.0 |        49 |        -0.24 |         +2.49 |
 |   25 | David Bratt       |  16.7 |        31 |              |         +0.26 |
 |   26 | Sahar Sareminaeni |  16.3 |        28 |              |               |
