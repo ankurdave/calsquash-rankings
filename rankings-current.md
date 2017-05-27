@@ -9,10 +9,10 @@ Generated 2017-05-27.
 |    5 | Frank Kennamer    |  26.9 |       226 |        +0.19 |         +0.57 |
 |    6 | Sam McCormick     |  25.0 |        38 |        +0.09 |         +4.37 |
 |    7 | John Kunze        |  24.7 |       324 |              |         -0.02 |
-|    8 | Jim Veitch        |  24.2 |       450 |        -0.14 |         -2.12 |
-|    9 | Thomas Littleton  |  23.7 |         5 |        +1.56 |               |
+|    8 | Thomas Littleton  |  24.5 |         6 |        +2.34 |               |
+|    9 | Jim Veitch        |  24.2 |       450 |        -0.14 |         -2.12 |
 |   10 | Dan Bohn          |  23.6 |        97 |        +0.25 |         -0.12 |
-|   11 | Jonathan Hankar   |  22.4 |       203 |        -0.09 |         +0.62 |
+|   11 | Jonathan Hankar   |  22.2 |       204 |        -0.23 |         +0.48 |
 |   12 | Dan Meier         |  22.2 |        66 |        -0.04 |         -0.77 |
 |   13 | Reid Johnsen      |  21.4 |        49 |        +0.13 |         -0.19 |
 |   14 | Mark Modera       |  20.5 |       328 |        +0.11 |         -0.48 |

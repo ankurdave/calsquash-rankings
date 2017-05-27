@@ -72,31 +72,31 @@ Generated 2017-05-27.
 |   68 | John Kunze                |  24.7 |       324 |              |         -0.02 |
 |   69 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   70 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   71 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   72 | Adam Pollak               |  24.5 |        31 |              |               |
-|   73 | Jon Shih                  |  24.4 |        47 |              |               |
-|   74 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   75 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   76 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   77 | Jim Veitch                |  24.2 |       450 |        -0.14 |         -2.12 |
-|   78 | Lakshya Rustagi           |  24.2 |         2 |              |               |
-|   79 | Toby Reiner               |  24.2 |       159 |              |               |
-|   80 | Himanshu Jatia            |  24.2 |         4 |              |               |
-|   81 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   82 | Robert Jeng               |  24.1 |        26 |              |               |
-|   83 | Vyas Sekar                |  24.1 |        17 |              |               |
-|   84 | Benjamin Vicuna           |  24.1 |        50 |              |               |
-|   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   86 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   87 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   88 | Matt Wong                 |  23.9 |        91 |              |         +3.18 |
-|   89 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   90 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   91 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   92 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
-|   93 | Matt Waid                 |  23.7 |        51 |              |               |
-|   94 | Sonesh Surana             |  23.7 |        95 |              |               |
-|   95 | Thomas Littleton          |  23.7 |         5 |        +1.56 |               |
+|   71 | Thomas Littleton          |  24.5 |         6 |        +2.34 |               |
+|   72 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   73 | Adam Pollak               |  24.5 |        31 |              |               |
+|   74 | Jon Shih                  |  24.4 |        47 |              |               |
+|   75 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   76 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   77 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   78 | Jim Veitch                |  24.2 |       450 |        -0.14 |         -2.12 |
+|   79 | Lakshya Rustagi           |  24.2 |         2 |              |               |
+|   80 | Toby Reiner               |  24.2 |       159 |              |               |
+|   81 | Himanshu Jatia            |  24.2 |         4 |              |               |
+|   82 | Matthew Elliott           |  24.2 |         7 |              |               |
+|   83 | Robert Jeng               |  24.1 |        26 |              |               |
+|   84 | Vyas Sekar                |  24.1 |        17 |              |               |
+|   85 | Benjamin Vicuna           |  24.1 |        50 |              |               |
+|   86 | Ivo Plsek                 |  24.1 |        60 |              |               |
+|   87 | Whit Eldredge             |  24.0 |         2 |              |               |
+|   88 | Ignacio Canals            |  24.0 |        21 |              |               |
+|   89 | Matt Wong                 |  23.9 |        91 |              |         +3.18 |
+|   90 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   91 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   92 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   93 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
+|   94 | Matt Waid                 |  23.7 |        51 |              |               |
+|   95 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   96 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   97 | Dan Bohn                  |  23.6 |        97 |        +0.25 |         -0.12 |
 |   98 | Amy Lee                   |  23.6 |        56 |              |               |
@@ -112,9 +112,9 @@ Generated 2017-05-27.
 |  108 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  109 | Dev Millstein             |  22.6 |        92 |              |               |
 |  110 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  111 | Jonathan Hankar           |  22.4 |       203 |        -0.09 |         +0.62 |
-|  112 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  113 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  111 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  112 | Sunil Bhave               |  22.3 |        26 |              |               |
+|  113 | Jonathan Hankar           |  22.2 |       204 |        -0.23 |         +0.48 |
 |  114 | Robert Geiger             |  22.2 |         8 |              |               |
 |  115 | Aaron Socha               |  22.2 |        24 |              |               |
 |  116 | Dan Meier                 |  22.2 |        66 |        -0.04 |         -0.77 |
