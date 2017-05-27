@@ -8,8 +8,8 @@ Generated 2017-05-27.
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Tom Bilyard               |  33.0 |         5 |              |               |
-|    8 | Eric Katerman             |  32.9 |        49 |        +0.24 |         +5.22 |
+|    7 | Eric Katerman             |  33.1 |        50 |        +0.42 |         +5.41 |
+|    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
@@ -22,7 +22,7 @@ Generated 2017-05-27.
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
 |   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.6 |       152 |        +0.20 |         +0.36 |
+|   21 | Sam Sternberg             |  29.6 |       152 |        +0.21 |         +0.36 |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -34,14 +34,14 @@ Generated 2017-05-27.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Nick Cobbett              |  27.0 |        34 |        +0.17 |         +1.69 |
-|   34 | Anibhav Singla            |  27.0 |        18 |        -0.72 |               |
-|   35 | Hussain Raza              |  27.0 |        50 |              |               |
-|   36 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   37 | Alan Jose                 |  26.9 |       182 |              |               |
-|   38 | Michael Best              |  26.9 |        21 |              |               |
-|   39 | Frank Kennamer            |  26.9 |       226 |        +0.19 |         +0.57 |
-|   40 | Josh Taylor               |  26.8 |        40 |              |               |
+|   33 | Nick Cobbett              |  27.0 |        34 |        +0.14 |         +1.66 |
+|   34 | Hussain Raza              |  27.0 |        50 |              |               |
+|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   36 | Alan Jose                 |  26.9 |       182 |              |               |
+|   37 | Michael Best              |  26.9 |        21 |              |               |
+|   38 | Frank Kennamer            |  26.9 |       226 |        +0.19 |         +0.57 |
+|   39 | Josh Taylor               |  26.8 |        40 |              |               |
+|   40 | Anibhav Singla            |  26.8 |        19 |        -0.93 |               |
 |   41 | David Hwang               |  26.8 |        44 |              |               |
 |   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
