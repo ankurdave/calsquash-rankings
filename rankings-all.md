@@ -9,7 +9,7 @@ Generated 2017-05-27.
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Tom Bilyard               |  33.0 |         5 |              |               |
-|    8 | Eric Katerman             |  32.9 |        49 |        +0.23 |         +5.22 |
+|    8 | Eric Katerman             |  32.9 |        49 |        +0.24 |         +5.22 |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
 |   11 | Kim Ben Khoo              |  32.4 |       187 |              |               |
@@ -32,18 +32,18 @@ Generated 2017-05-27.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Anibhav Singla            |  27.5 |        17 |        -0.25 |               |
-|   32 | Stephen Dang              |  27.2 |        34 |              |               |
-|   33 | Samer Shehata             |  27.2 |        29 |              |               |
-|   34 | Hussain Raza              |  27.0 |        50 |              |               |
-|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   36 | Alan Jose                 |  26.9 |       182 |              |               |
-|   37 | Michael Best              |  26.9 |        21 |              |               |
-|   38 | Frank Kennamer            |  26.9 |       226 |        +0.19 |         +0.57 |
-|   39 | Josh Taylor               |  26.8 |        40 |              |               |
-|   40 | David Hwang               |  26.8 |        44 |              |               |
-|   41 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
-|   42 | Nick Cobbett              |  26.7 |        33 |        -0.18 |         +1.34 |
+|   31 | Stephen Dang              |  27.2 |        34 |              |               |
+|   32 | Samer Shehata             |  27.2 |        29 |              |               |
+|   33 | Nick Cobbett              |  27.0 |        34 |        +0.17 |         +1.69 |
+|   34 | Anibhav Singla            |  27.0 |        18 |        -0.72 |               |
+|   35 | Hussain Raza              |  27.0 |        50 |              |               |
+|   36 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   37 | Alan Jose                 |  26.9 |       182 |              |               |
+|   38 | Michael Best              |  26.9 |        21 |              |               |
+|   39 | Frank Kennamer            |  26.9 |       226 |        +0.19 |         +0.57 |
+|   40 | Josh Taylor               |  26.8 |        40 |              |               |
+|   41 | David Hwang               |  26.8 |        44 |              |               |
+|   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
 |   45 | Andrew Moylan             |  26.3 |        95 |              |               |
