@@ -39,9 +39,9 @@ Generated 2017-05-27.
 |   35 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   36 | Alan Jose                 |  26.9 |       182 |              |               |
 |   37 | Michael Best              |  26.9 |        21 |              |               |
-|   38 | Josh Taylor               |  26.8 |        40 |              |               |
-|   39 | David Hwang               |  26.8 |        44 |              |               |
-|   40 | Frank Kennamer            |  26.7 |       225 |        +0.07 |         +0.44 |
+|   38 | Frank Kennamer            |  26.9 |       226 |        +0.19 |         +0.57 |
+|   39 | Josh Taylor               |  26.8 |        40 |              |               |
+|   40 | David Hwang               |  26.8 |        44 |              |               |
 |   41 | Ethan Kerr                |  26.7 |        14 |              |         +0.47 |
 |   42 | Nick Cobbett              |  26.7 |        33 |        -0.18 |         +1.34 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
@@ -155,14 +155,14 @@ Generated 2017-05-27.
 |  151 | Jamie Funk                |  20.8 |        30 |              |               |
 |  152 | Matthew Brett             |  20.7 |        20 |              |               |
 |  153 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  154 | Marc Schechter            |  20.6 |        13 |              |               |
-|  155 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  156 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  157 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
-|  158 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  159 | Andrew Green              |  20.5 |        52 |              |               |
-|  160 | Mark Modera               |  20.5 |       328 |        +0.11 |         -0.48 |
-|  161 | Steven Sloman             |  20.4 |        10 |              |               |
+|  154 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
+|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  158 | Andrew Green              |  20.5 |        52 |              |               |
+|  159 | Mark Modera               |  20.5 |       328 |        +0.11 |         -0.48 |
+|  160 | Steven Sloman             |  20.4 |        10 |              |               |
+|  161 | Marc Schechter            |  20.4 |        14 |        -0.24 |               |
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.26 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  164 | Carl Schreck              |  20.2 |         2 |              |               |

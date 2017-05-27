@@ -5,7 +5,7 @@ Generated 2017-05-27.
 |    1 | Eric Katerman     |  32.9 |        49 |        +0.23 |         +5.22 |
 |    2 | Sam Sternberg     |  29.6 |       152 |        +0.20 |         +0.36 |
 |    3 | Anibhav Singla    |  27.5 |        17 |        -0.25 |               |
-|    4 | Frank Kennamer    |  26.7 |       225 |        +0.07 |         +0.44 |
+|    4 | Frank Kennamer    |  26.9 |       226 |        +0.19 |         +0.57 |
 |    5 | Nick Cobbett      |  26.7 |        33 |        -0.18 |         +1.34 |
 |    6 | Sam McCormick     |  25.0 |        38 |        +0.09 |         +4.37 |
 |    7 | John Kunze        |  24.7 |       324 |              |         -0.02 |
@@ -15,8 +15,8 @@ Generated 2017-05-27.
 |   11 | Jonathan Hankar   |  22.4 |       203 |        -0.09 |         +0.62 |
 |   12 | Dan Meier         |  22.2 |        66 |        -0.04 |         -0.77 |
 |   13 | Reid Johnsen      |  21.4 |        49 |        +0.13 |         -0.19 |
-|   14 | Marc Schechter    |  20.6 |        13 |              |               |
-|   15 | Mark Modera       |  20.5 |       328 |        +0.11 |         -0.48 |
+|   14 | Mark Modera       |  20.5 |       328 |        +0.11 |         -0.48 |
+|   15 | Marc Schechter    |  20.4 |        14 |        -0.24 |               |
 |   16 | Robert Schwartz   |  20.1 |        90 |              |         -1.11 |
 |   17 | Mike Jensen-Akula |  19.6 |       224 |        +0.03 |         -2.07 |
 |   18 | Roberto Gonzalez  |  19.4 |         3 |              |               |
