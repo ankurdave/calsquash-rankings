@@ -1,4 +1,4 @@
-Generated 2017-05-26.
+Generated 2017-05-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -161,9 +161,9 @@ Generated 2017-05-26.
 |  157 | Prakash Bathini           |  20.5 |       123 |              |         -0.47 |
 |  158 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  159 | Andrew Green              |  20.5 |        52 |              |               |
-|  160 | Steven Sloman             |  20.4 |        10 |              |               |
-|  161 | Jeff Gordon               |  20.3 |        46 |              |         +2.26 |
-|  162 | Mark Modera               |  20.3 |       327 |        -0.04 |         -0.62 |
+|  160 | Mark Modera               |  20.5 |       328 |        +0.11 |         -0.48 |
+|  161 | Steven Sloman             |  20.4 |        10 |              |               |
+|  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.26 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  164 | Carl Schreck              |  20.2 |         2 |              |               |
 |  165 | John Grim                 |  20.1 |        13 |              |               |
@@ -245,9 +245,9 @@ Generated 2017-05-26.
 |  241 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  242 | Neil Conway               |  17.0 |        55 |              |               |
 |  243 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  244 | Wayne Heiser              |  17.0 |        49 |        -0.24 |         +2.49 |
-|  245 | Baxter Leman              |  16.9 |         6 |              |               |
-|  246 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  244 | Baxter Leman              |  16.9 |         6 |              |               |
+|  245 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  246 | Wayne Heiser              |  16.8 |        50 |        -0.41 |         +2.32 |
 |  247 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  248 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  249 | David Shabelman           |  16.7 |        30 |              |               |

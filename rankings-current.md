@@ -1,4 +1,4 @@
-Generated 2017-05-26.
+Generated 2017-05-27.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -16,7 +16,7 @@ Generated 2017-05-26.
 |   12 | Dan Meier         |  22.2 |        66 |        -0.04 |         -0.77 |
 |   13 | Reid Johnsen      |  21.4 |        49 |        +0.13 |         -0.19 |
 |   14 | Marc Schechter    |  20.6 |        13 |              |               |
-|   15 | Mark Modera       |  20.3 |       327 |        -0.04 |         -0.62 |
+|   15 | Mark Modera       |  20.5 |       328 |        +0.11 |         -0.48 |
 |   16 | Robert Schwartz   |  20.1 |        90 |              |         -1.11 |
 |   17 | Mike Jensen-Akula |  19.6 |       224 |        +0.03 |         -2.07 |
 |   18 | Roberto Gonzalez  |  19.4 |         3 |              |               |
@@ -25,7 +25,7 @@ Generated 2017-05-26.
 |   21 | Josh Trauner      |  18.2 |        59 |        +0.17 |         +0.47 |
 |   22 | Eric Borden       |  17.8 |        44 |              |         +0.13 |
 |   23 | Ankur Dave        |  17.6 |        71 |        +0.10 |         +5.78 |
-|   24 | Wayne Heiser      |  17.0 |        49 |        -0.24 |         +2.49 |
+|   24 | Wayne Heiser      |  16.8 |        50 |        -0.41 |         +2.32 |
 |   25 | David Bratt       |  16.7 |        31 |              |         +0.26 |
 |   26 | Sahar Sareminaeni |  16.3 |        28 |              |               |
 |   27 | Chris Flores      |  16.2 |       318 |              |         -1.49 |
