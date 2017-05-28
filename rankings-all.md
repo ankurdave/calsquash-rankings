@@ -383,12 +383,12 @@ Generated 2017-05-27.
 |  379 | Greg Sperla               |   9.3 |         8 |              |               |
 |  380 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  381 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  382 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  383 | Duo Wang                  |   9.0 |        71 |        +0.14 |         +0.55 |
-|  384 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  385 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  386 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  387 | Janeau Janssen            |   8.7 |        13 |        +0.17 |               |
+|  382 | Janeau Janssen            |   9.1 |        14 |        +0.50 |               |
+|  383 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  384 | Duo Wang                  |   9.0 |        71 |        +0.14 |         +0.55 |
+|  385 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  386 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  387 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  388 | Therese Jones             |   8.7 |         6 |              |               |
 |  389 | Steven Yee                |   8.7 |         9 |              |               |
 |  390 | Nikolai Schnittke         |   8.6 |         4 |              |               |
@@ -445,9 +445,9 @@ Generated 2017-05-27.
 |  441 | Terence Stotz             |   4.3 |         2 |              |               |
 |  442 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  443 | Anuj Dawar                |   4.2 |        15 |              |               |
-|  444 | Zsolt Bartha              |   4.1 |        57 |        -0.16 |         -0.65 |
-|  445 | Annie Wong                |   4.0 |         3 |              |               |
-|  446 | Ryan                      |   4.0 |         3 |              |               |
+|  444 | Annie Wong                |   4.0 |         3 |              |               |
+|  445 | Ryan                      |   4.0 |         3 |              |               |
+|  446 | Zsolt Bartha              |   3.9 |        58 |        -0.28 |         -0.78 |
 |  447 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  448 | Nakul Vakil               |   3.0 |         5 |              |               |
 |  449 | Maria Garzon              |   3.0 |         5 |              |               |
