@@ -1,4 +1,4 @@
-Generated 2017-05-27.
+Generated 2017-05-28.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -33,8 +33,8 @@ Generated 2017-05-27.
 |   29 | Sergey Dobrinov   |  14.6 |        17 |              |               |
 |   30 | Kent Daniels      |  14.4 |       106 |              |         -0.35 |
 |   31 | Craig Hollow      |  12.0 |        18 |              |               |
-|   32 | Meldan Heaslip    |  11.8 |        25 |              |               |
-|   33 | Josh Lebowitz     |  11.6 |        44 |              |         +9.06 |
+|   32 | Meldan Heaslip    |  11.9 |        26 |        +0.12 |               |
+|   33 | Josh Lebowitz     |  11.6 |        45 |        -0.02 |         +9.03 |
 |   34 | Karan Goyal       |  11.3 |        10 |              |               |
 |   35 | Nate Aden         |  10.5 |        34 |        +0.12 |         +3.68 |
 |   36 | Raphael Magarik   |   9.7 |        28 |        -0.07 |         +2.16 |

@@ -1,4 +1,4 @@
-Generated 2017-05-27.
+Generated 2017-05-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -336,17 +336,17 @@ Generated 2017-05-27.
 |  332 | Reed Foster               |  12.1 |         8 |              |               |
 |  333 | Craig Hollow              |  12.0 |        18 |              |               |
 |  334 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  335 | Larry Dale                |  11.9 |        29 |              |               |
-|  336 | Meldan Heaslip            |  11.8 |        25 |              |               |
+|  335 | Meldan Heaslip            |  11.9 |        26 |        +0.12 |               |
+|  336 | Larry Dale                |  11.9 |        29 |              |               |
 |  337 | Aman Gupta                |  11.8 |         3 |              |               |
 |  338 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  339 | Julian Gill               |  11.8 |         1 |              |               |
 |  340 | James Shinn               |  11.7 |       120 |              |               |
 |  341 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  342 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  343 | Josh Lebowitz             |  11.6 |        44 |              |         +9.06 |
-|  344 | David Appelfeld           |  11.6 |        26 |              |               |
-|  345 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  343 | David Appelfeld           |  11.6 |        26 |              |               |
+|  344 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  345 | Josh Lebowitz             |  11.6 |        45 |        -0.02 |         +9.03 |
 |  346 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  347 | Carlos Filho              |  11.4 |         7 |              |               |
 |  348 | Karan Jain                |  11.3 |        19 |              |               |
