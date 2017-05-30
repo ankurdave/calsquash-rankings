@@ -1,4 +1,4 @@
-Generated 2017-05-28.
+Generated 2017-05-29.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -9,11 +9,11 @@ Generated 2017-05-28.
 |    5 | Anibhav Singla    |  26.8 |        19 |        -0.93 |               |
 |    6 | Sam McCormick     |  25.0 |        38 |        +0.09 |         +4.37 |
 |    7 | John Kunze        |  24.7 |       324 |              |         -0.02 |
-|    8 | Thomas Littleton  |  24.5 |         6 |        +2.34 |               |
+|    8 | Thomas Littleton  |  24.5 |         6 |        +2.35 |               |
 |    9 | Jim Veitch        |  24.2 |       450 |        -0.14 |         -2.12 |
-|   10 | Dan Bohn          |  23.6 |        97 |        +0.25 |         -0.12 |
-|   11 | Jonathan Hankar   |  22.2 |       204 |        -0.23 |         +0.48 |
-|   12 | Dan Meier         |  22.2 |        66 |        -0.04 |         -0.77 |
+|   10 | Dan Bohn          |  23.8 |        98 |        +0.46 |         +0.09 |
+|   11 | Dan Meier         |  22.2 |        66 |        -0.04 |         -0.77 |
+|   12 | Jonathan Hankar   |  22.0 |       205 |        -0.44 |         +0.27 |
 |   13 | Reid Johnsen      |  21.4 |        49 |        +0.13 |         -0.19 |
 |   14 | Mark Modera       |  20.5 |       328 |        +0.11 |         -0.48 |
 |   15 | Marc Schechter    |  20.4 |        14 |        -0.24 |               |

@@ -1,4 +1,4 @@
-Generated 2017-05-28.
+Generated 2017-05-29.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -72,7 +72,7 @@ Generated 2017-05-28.
 |   68 | John Kunze                |  24.7 |       324 |              |         -0.02 |
 |   69 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   70 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   71 | Thomas Littleton          |  24.5 |         6 |        +2.34 |               |
+|   71 | Thomas Littleton          |  24.5 |         6 |        +2.35 |               |
 |   72 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   73 | Adam Pollak               |  24.5 |        31 |              |               |
 |   74 | Jon Shih                  |  24.4 |        47 |              |               |
@@ -93,12 +93,12 @@ Generated 2017-05-28.
 |   89 | Matt Wong                 |  23.9 |        91 |              |         +3.18 |
 |   90 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   91 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   92 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   93 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
-|   94 | Matt Waid                 |  23.7 |        51 |              |               |
-|   95 | Sonesh Surana             |  23.7 |        95 |              |               |
-|   96 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   97 | Dan Bohn                  |  23.6 |        97 |        +0.25 |         -0.12 |
+|   92 | Dan Bohn                  |  23.8 |        98 |        +0.46 |         +0.09 |
+|   93 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   94 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
+|   95 | Matt Waid                 |  23.7 |        51 |              |               |
+|   96 | Sonesh Surana             |  23.7 |        95 |              |               |
+|   97 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   98 | Amy Lee                   |  23.6 |        56 |              |               |
 |   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |  100 | Garvin Heath              |  23.4 |        28 |              |               |
@@ -114,15 +114,15 @@ Generated 2017-05-28.
 |  110 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  111 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  112 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  113 | Jonathan Hankar           |  22.2 |       204 |        -0.23 |         +0.48 |
-|  114 | Robert Geiger             |  22.2 |         8 |              |               |
-|  115 | Aaron Socha               |  22.2 |        24 |              |               |
-|  116 | Dan Meier                 |  22.2 |        66 |        -0.04 |         -0.77 |
-|  117 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  118 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  119 | Britta Gardner            |  22.1 |        16 |              |               |
-|  120 | Niklas Linde              |  22.1 |        23 |              |               |
-|  121 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  113 | Robert Geiger             |  22.2 |         8 |              |               |
+|  114 | Aaron Socha               |  22.2 |        24 |              |               |
+|  115 | Dan Meier                 |  22.2 |        66 |        -0.04 |         -0.77 |
+|  116 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  117 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  118 | Britta Gardner            |  22.1 |        16 |              |               |
+|  119 | Niklas Linde              |  22.1 |        23 |              |               |
+|  120 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  121 | Jonathan Hankar           |  22.0 |       205 |        -0.44 |         +0.27 |
 |  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
 |  123 | Blake Woodard             |  22.0 |        10 |              |               |
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
