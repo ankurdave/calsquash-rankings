@@ -1,4 +1,4 @@
-Generated 2017-05-29.
+Generated 2017-05-31.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -255,8 +255,8 @@ Generated 2017-05-29.
 |  251 | Mark Priven               |  16.6 |        72 |              |               |
 |  252 | William Coleman           |  16.5 |        48 |              |               |
 |  253 | Mike Troxell              |  16.5 |         8 |              |               |
-|  254 | Danish Mir                |  16.4 |         1 |              |               |
-|  255 | Sahar Sareminaeni         |  16.3 |        28 |              |               |
+|  254 | Sahar Sareminaeni         |  16.4 |        29 |        +0.05 |               |
+|  255 | Danish Mir                |  16.4 |         1 |              |               |
 |  256 | Paul Chang                |  16.3 |         7 |              |               |
 |  257 | Steven Hahm               |  16.3 |         5 |              |               |
 |  258 | Jules Bowie               |  16.3 |        12 |              |               |
@@ -290,10 +290,10 @@ Generated 2017-05-29.
 |  286 | Paul Norberg              |  14.8 |         8 |              |               |
 |  287 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  288 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  289 | David Elfant              |  14.7 |         2 |              |               |
-|  290 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  291 | Nikhil Paranjape          |  14.7 |        43 |              |         +5.81 |
-|  292 | Sergey Dobrinov           |  14.6 |        17 |              |               |
+|  289 | Sergey Dobrinov           |  14.7 |        18 |        +0.12 |               |
+|  290 | David Elfant              |  14.7 |         2 |              |               |
+|  291 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  292 | Nikhil Paranjape          |  14.7 |        43 |              |         +5.81 |
 |  293 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  294 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  295 | Shai Vardi                |  14.5 |         4 |              |               |
