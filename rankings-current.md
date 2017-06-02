@@ -1,4 +1,4 @@
-Generated 2017-05-31.
+Generated 2017-06-01.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -26,15 +26,15 @@ Generated 2017-05-31.
 |   22 | Eric Borden       |  17.8 |        44 |              |         +0.13 |
 |   23 | Ankur Dave        |  17.6 |        71 |        +0.10 |         +5.78 |
 |   24 | Wayne Heiser      |  16.8 |        50 |        -0.41 |         +2.32 |
-|   25 | David Bratt       |  16.7 |        31 |              |         +0.26 |
-|   26 | Sahar Sareminaeni |  16.6 |        30 |        +0.24 |               |
+|   25 | Sahar Sareminaeni |  16.7 |        31 |        +0.40 |               |
+|   26 | David Bratt       |  16.7 |        31 |              |         +0.26 |
 |   27 | Chris Flores      |  16.2 |       318 |              |         -1.49 |
 |   28 | Grant Buckingham  |  15.2 |         3 |              |               |
-|   29 | Sergey Dobrinov   |  14.8 |        18 |        +0.13 |               |
+|   29 | Sergey Dobrinov   |  14.8 |        18 |        +0.15 |               |
 |   30 | Kent Daniels      |  14.4 |       106 |              |         -0.35 |
 |   31 | Craig Hollow      |  12.0 |        18 |              |               |
-|   32 | Meldan Heaslip    |  11.8 |        27 |        -0.02 |               |
-|   33 | Josh Lebowitz     |  11.6 |        45 |        -0.03 |         +9.02 |
+|   32 | Meldan Heaslip    |  11.8 |        27 |        -0.03 |               |
+|   33 | Josh Lebowitz     |  11.4 |        46 |        -0.16 |         +8.90 |
 |   34 | Karan Goyal       |  11.3 |        10 |              |               |
 |   35 | Nate Aden         |  10.5 |        34 |        +0.12 |         +3.68 |
 |   36 | Raphael Magarik   |   9.7 |        28 |        -0.07 |         +2.16 |

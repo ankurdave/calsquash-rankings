@@ -1,4 +1,4 @@
-Generated 2017-05-31.
+Generated 2017-06-01.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -249,10 +249,10 @@ Generated 2017-05-31.
 |  245 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  246 | Wayne Heiser              |  16.8 |        50 |        -0.41 |         +2.32 |
 |  247 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  248 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  249 | David Shabelman           |  16.7 |        30 |              |               |
-|  250 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  251 | Sahar Sareminaeni         |  16.6 |        30 |        +0.24 |               |
+|  248 | Sahar Sareminaeni         |  16.7 |        31 |        +0.40 |               |
+|  249 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  250 | David Shabelman           |  16.7 |        30 |              |               |
+|  251 | David Bratt               |  16.7 |        31 |              |         +0.26 |
 |  252 | Mark Priven               |  16.6 |        72 |              |               |
 |  253 | William Coleman           |  16.5 |        48 |              |               |
 |  254 | Mike Troxell              |  16.5 |         8 |              |               |
@@ -289,7 +289,7 @@ Generated 2017-05-31.
 |  285 | Alex Marqusee             |  14.9 |        28 |              |               |
 |  286 | Paul Norberg              |  14.8 |         8 |              |               |
 |  287 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  288 | Sergey Dobrinov           |  14.8 |        18 |        +0.13 |               |
+|  288 | Sergey Dobrinov           |  14.8 |        18 |        +0.15 |               |
 |  289 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  290 | David Elfant              |  14.7 |         2 |              |               |
 |  291 | Ansul Rajgha              |  14.7 |        15 |              |               |
@@ -338,7 +338,7 @@ Generated 2017-05-31.
 |  334 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  335 | Larry Dale                |  11.9 |        29 |              |               |
 |  336 | Aman Gupta                |  11.8 |         3 |              |               |
-|  337 | Meldan Heaslip            |  11.8 |        27 |        -0.02 |               |
+|  337 | Meldan Heaslip            |  11.8 |        27 |        -0.03 |               |
 |  338 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  339 | Julian Gill               |  11.8 |         1 |              |               |
 |  340 | James Shinn               |  11.7 |       120 |              |               |
@@ -347,7 +347,7 @@ Generated 2017-05-31.
 |  343 | David Appelfeld           |  11.6 |        26 |              |               |
 |  344 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  345 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  346 | Josh Lebowitz             |  11.6 |        45 |        -0.03 |         +9.02 |
+|  346 | Josh Lebowitz             |  11.4 |        46 |        -0.16 |         +8.90 |
 |  347 | Carlos Filho              |  11.4 |         7 |              |               |
 |  348 | Karan Jain                |  11.3 |        19 |              |               |
 |  349 | Karan Goyal               |  11.3 |        10 |              |               |
