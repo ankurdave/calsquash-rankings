@@ -28,8 +28,9 @@ Generated 2017-06-03.
 |   24 | Raphael Magarik   |   9.7 |        28 |              |         +0.95 |
 |   25 | Janeau Janssen    |   9.1 |        14 |              |               |
 |   26 | Duo Wang          |   9.0 |        71 |              |         +0.50 |
-|   27 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
-|   28 | Sumit Gupta       |   6.8 |         6 |              |               |
-|   29 | Terence Stotz     |   4.3 |         2 |              |               |
-|   30 | Duncan MacRae     |  -0.2 |        20 |              |               |
-|   31 | Seobin Jung       |  -5.7 |         7 |              |         -2.76 |
+|   27 | Brian Kempenich   |   8.1 |        44 |              |         -0.92 |
+|   28 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
+|   29 | Sumit Gupta       |   6.8 |         6 |              |               |
+|   30 | Terence Stotz     |   4.3 |         2 |              |               |
+|   31 | Duncan MacRae     |  -0.2 |        20 |              |               |
+|   32 | Seobin Jung       |  -5.7 |         7 |              |         -2.76 |
