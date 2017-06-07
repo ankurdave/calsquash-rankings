@@ -1,4 +1,4 @@
-Generated 2017-06-03.
+Generated 2017-06-06.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -15,22 +15,24 @@ Generated 2017-06-03.
 |   11 | Mark Modera       |  20.5 |       328 |              |         -0.76 |
 |   12 | Mike Jensen-Akula |  19.6 |       224 |              |         -1.24 |
 |   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |
-|   14 | Ankur Dave        |  17.6 |        71 |              |         +5.48 |
-|   15 | Wayne Heiser      |  16.8 |        50 |              |         +0.49 |
-|   16 | Sahar Sareminaeni |  16.7 |        31 |              |               |
-|   17 | Chris Flores      |  16.2 |       318 |              |         -1.21 |
-|   18 | Grant Buckingham  |  15.2 |         3 |              |               |
-|   19 | Sergey Dobrinov   |  14.8 |        18 |              |               |
-|   20 | Nikhil Paranjape  |  14.7 |        43 |              |         +3.73 |
-|   21 | Meldan Heaslip    |  11.8 |        27 |              |               |
-|   22 | Josh Lebowitz     |  11.4 |        46 |              |         +9.29 |
-|   23 | Nate Aden         |  10.5 |        34 |              |         +3.05 |
-|   24 | Raphael Magarik   |   9.7 |        28 |              |         +0.95 |
-|   25 | Janeau Janssen    |   9.1 |        14 |              |               |
-|   26 | Duo Wang          |   9.0 |        71 |              |         +0.50 |
-|   27 | Brian Kempenich   |   8.1 |        44 |              |         -0.92 |
-|   28 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
-|   29 | Sumit Gupta       |   6.8 |         6 |              |               |
-|   30 | Terence Stotz     |   4.3 |         2 |              |               |
-|   31 | Duncan MacRae     |  -0.2 |        20 |              |               |
-|   32 | Seobin Jung       |  -5.7 |         7 |              |         -2.76 |
+|   14 | Shaun Lim         |  19.3 |        60 |              |         +1.23 |
+|   15 | Ankur Dave        |  17.6 |        71 |              |         +5.48 |
+|   16 | Wayne Heiser      |  16.8 |        50 |              |         +0.49 |
+|   17 | Sahar Sareminaeni |  16.7 |        31 |              |               |
+|   18 | Chris Flores      |  16.2 |       318 |              |         -1.21 |
+|   19 | Grant Buckingham  |  15.2 |         3 |              |               |
+|   20 | Sergey Dobrinov   |  14.8 |        18 |              |               |
+|   21 | Nikhil Paranjape  |  14.7 |        43 |              |         +3.73 |
+|   22 | Craig Hollow      |  12.0 |        18 |              |               |
+|   23 | Meldan Heaslip    |  11.8 |        27 |              |               |
+|   24 | Josh Lebowitz     |  11.4 |        46 |              |         +9.29 |
+|   25 | Nate Aden         |  10.5 |        34 |              |         +3.05 |
+|   26 | Raphael Magarik   |   9.7 |        28 |              |         +0.95 |
+|   27 | Janeau Janssen    |   9.1 |        14 |              |               |
+|   28 | Duo Wang          |   9.0 |        71 |              |         +0.50 |
+|   29 | Brian Kempenich   |   8.1 |        44 |              |         -0.92 |
+|   30 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
+|   31 | Sumit Gupta       |   6.8 |         6 |              |               |
+|   32 | Terence Stotz     |   4.3 |         2 |              |               |
+|   33 | Duncan MacRae     |  -0.2 |        20 |              |               |
+|   34 | Seobin Jung       |  -5.7 |         7 |              |         -2.76 |
