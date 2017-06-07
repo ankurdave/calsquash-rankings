@@ -1,4 +1,4 @@
-Generated 2017-06-06.
+Generated 2017-06-07.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -367,9 +367,9 @@ Generated 2017-06-06.
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.85 |
 |  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  366 | Daniel Schwartz           |   9.8 |        22 |              |         +2.12 |
-|  367 | Myles Gordon              |   9.8 |        42 |              |               |
-|  368 | Raphael Magarik           |   9.7 |        28 |              |         +0.95 |
+|  366 | Raphael Magarik           |   9.8 |        29 |        +0.08 |         +1.04 |
+|  367 | Daniel Schwartz           |   9.8 |        22 |              |         +2.12 |
+|  368 | Myles Gordon              |   9.8 |        42 |              |               |
 |  369 | Jacob Bank                |   9.7 |         1 |              |               |
 |  370 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  371 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
@@ -433,16 +433,16 @@ Generated 2017-06-06.
 |  429 | Rohan Relan               |   6.0 |         4 |              |               |
 |  430 | David Zhu                 |   5.8 |         2 |              |               |
 |  431 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  432 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  433 | Manu Vaish                |   5.5 |         1 |              |               |
-|  434 | Emily Moylan              |   5.2 |        17 |              |               |
-|  435 | Mohammad Salama           |   5.2 |         5 |              |               |
-|  436 | Catherine Wang            |   5.2 |        10 |              |               |
-|  437 | Ali Umar                  |   5.2 |        13 |              |               |
-|  438 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  439 | Nikhil Srivastava         |   5.0 |        16 |              |               |
-|  440 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  441 | Terence Stotz             |   4.3 |         2 |              |               |
+|  432 | Terence Stotz             |   5.7 |         3 |        +1.36 |               |
+|  433 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  434 | Manu Vaish                |   5.5 |         1 |              |               |
+|  435 | Emily Moylan              |   5.2 |        17 |              |               |
+|  436 | Mohammad Salama           |   5.2 |         5 |              |               |
+|  437 | Catherine Wang            |   5.2 |        10 |              |               |
+|  438 | Ali Umar                  |   5.2 |        13 |              |               |
+|  439 | Martin Rasmussen          |   5.2 |         6 |              |               |
+|  440 | Nikhil Srivastava         |   5.0 |        16 |              |               |
+|  441 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  442 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  443 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  444 | Annie Wong                |   4.0 |         3 |              |               |

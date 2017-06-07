@@ -1,4 +1,4 @@
-Generated 2017-06-06.
+Generated 2017-06-07.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -27,12 +27,12 @@ Generated 2017-06-06.
 |   23 | Meldan Heaslip    |  11.8 |        27 |              |               |
 |   24 | Josh Lebowitz     |  11.4 |        46 |              |         +9.29 |
 |   25 | Nate Aden         |  10.5 |        34 |              |         +3.05 |
-|   26 | Raphael Magarik   |   9.7 |        28 |              |         +0.95 |
+|   26 | Raphael Magarik   |   9.8 |        29 |        +0.08 |         +1.04 |
 |   27 | Janeau Janssen    |   9.1 |        14 |              |               |
 |   28 | Duo Wang          |   9.0 |        71 |              |         +0.50 |
 |   29 | Brian Kempenich   |   8.1 |        44 |              |         -0.92 |
 |   30 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
 |   31 | Sumit Gupta       |   6.8 |         6 |              |               |
-|   32 | Terence Stotz     |   4.3 |         2 |              |               |
+|   32 | Terence Stotz     |   5.7 |         3 |        +1.36 |               |
 |   33 | Duncan MacRae     |  -0.2 |        20 |              |               |
 |   34 | Seobin Jung       |  -5.7 |         7 |              |         -2.76 |
