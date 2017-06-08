@@ -1,4 +1,4 @@
-Generated 2017-06-07.
+Generated 2017-06-08.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -8,7 +8,7 @@ Generated 2017-06-07.
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Eric Katerman             |  33.1 |        50 |              |         +4.57 |
+|    7 | Eric Katerman             |  33.2 |        51 |        +0.11 |         +4.68 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -34,10 +34,10 @@ Generated 2017-06-07.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Nick Cobbett              |  27.0 |        34 |              |         +1.44 |
-|   34 | Hussain Raza              |  27.0 |        50 |              |               |
-|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   36 | Alan Jose                 |  26.9 |       182 |              |               |
+|   33 | Hussain Raza              |  27.0 |        50 |              |               |
+|   34 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   35 | Alan Jose                 |  26.9 |       182 |              |               |
+|   36 | Nick Cobbett              |  26.9 |        35 |        -0.12 |         +1.32 |
 |   37 | Michael Best              |  26.9 |        21 |              |               |
 |   38 | Frank Kennamer            |  26.9 |       226 |              |         +0.27 |
 |   39 | Josh Taylor               |  26.8 |        40 |              |               |
