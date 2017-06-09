@@ -1,4 +1,4 @@
-Generated 2017-06-08.
+Generated 2017-06-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -338,16 +338,16 @@ Generated 2017-06-08.
 |  334 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  335 | Larry Dale                |  11.9 |        29 |              |               |
 |  336 | Aman Gupta                |  11.8 |         3 |              |               |
-|  337 | Meldan Heaslip            |  11.8 |        27 |              |               |
-|  338 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  339 | Julian Gill               |  11.8 |         1 |              |               |
-|  340 | James Shinn               |  11.7 |       120 |              |               |
-|  341 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  337 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  338 | Julian Gill               |  11.8 |         1 |              |               |
+|  339 | James Shinn               |  11.7 |       120 |              |               |
+|  340 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  341 | Josh Lebowitz             |  11.7 |        47 |        +0.23 |         +9.52 |
 |  342 | Min Joon Seo              |  11.6 |         3 |              |               |
 |  343 | David Appelfeld           |  11.6 |        26 |              |               |
-|  344 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  345 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  346 | Josh Lebowitz             |  11.4 |        46 |              |         +9.29 |
+|  344 | Meldan Heaslip            |  11.6 |        28 |        -0.20 |               |
+|  345 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  346 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  347 | Carlos Filho              |  11.4 |         7 |              |               |
 |  348 | Karan Jain                |  11.3 |        19 |              |               |
 |  349 | Karan Goyal               |  11.3 |        10 |              |               |
