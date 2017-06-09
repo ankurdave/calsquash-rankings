@@ -226,8 +226,8 @@ Generated 2017-06-08.
 |  222 | Nick Paget                |  17.8 |        35 |              |               |
 |  223 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  224 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  225 | George Roche              |  17.7 |        14 |              |               |
-|  226 | Ankur Dave                |  17.6 |        71 |              |         +5.48 |
+|  225 | Ankur Dave                |  17.7 |        72 |        +0.05 |         +5.53 |
+|  226 | George Roche              |  17.7 |        14 |              |               |
 |  227 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  228 | Subrato Dey               |  17.5 |        26 |              |         +0.17 |
 |  229 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -249,7 +249,7 @@ Generated 2017-06-08.
 |  245 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  246 | Wayne Heiser              |  16.8 |        50 |              |         +0.49 |
 |  247 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  248 | Sahar Sareminaeni         |  16.7 |        31 |              |               |
+|  248 | Sahar Sareminaeni         |  16.7 |        32 |              |               |
 |  249 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  250 | David Shabelman           |  16.7 |        30 |              |               |
 |  251 | David Bratt               |  16.7 |        31 |              |         +0.26 |
