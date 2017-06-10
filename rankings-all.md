@@ -1,4 +1,4 @@
-Generated 2017-06-09.
+Generated 2017-06-10.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -34,14 +34,14 @@ Generated 2017-06-09.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Hussain Raza              |  27.0 |        50 |              |               |
-|   34 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   35 | Alan Jose                 |  26.9 |       182 |              |               |
-|   36 | Nick Cobbett              |  26.9 |        35 |        -0.12 |         +1.32 |
-|   37 | Michael Best              |  26.9 |        21 |              |               |
-|   38 | Frank Kennamer            |  26.9 |       226 |              |         +0.27 |
-|   39 | Josh Taylor               |  26.8 |        40 |              |               |
-|   40 | Anibhav Singla            |  26.8 |        19 |              |               |
+|   33 | Anibhav Singla            |  27.0 |        20 |        +0.23 |               |
+|   34 | Hussain Raza              |  27.0 |        50 |              |               |
+|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   36 | Alan Jose                 |  26.9 |       182 |              |               |
+|   37 | Nick Cobbett              |  26.9 |        35 |        -0.12 |         +1.32 |
+|   38 | Frank Kennamer            |  26.9 |       227 |        +0.02 |         +0.29 |
+|   39 | Michael Best              |  26.9 |        21 |              |               |
+|   40 | Josh Taylor               |  26.8 |        40 |              |               |
 |   41 | David Hwang               |  26.8 |        44 |              |               |
 |   42 | Ethan Kerr                |  26.7 |        14 |              |         -0.35 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
