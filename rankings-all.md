@@ -1,4 +1,4 @@
-Generated 2017-06-10.
+Generated 2017-06-11.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -336,16 +336,16 @@ Generated 2017-06-10.
 |  332 | Reed Foster               |  12.1 |         8 |              |               |
 |  333 | Craig Hollow              |  12.0 |        18 |              |               |
 |  334 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  335 | Larry Dale                |  11.9 |        29 |              |               |
-|  336 | Aman Gupta                |  11.8 |         3 |              |               |
-|  337 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  338 | Julian Gill               |  11.8 |         1 |              |               |
-|  339 | James Shinn               |  11.7 |       120 |              |               |
-|  340 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  341 | Josh Lebowitz             |  11.7 |        47 |        +0.23 |         +9.52 |
+|  335 | Josh Lebowitz             |  11.9 |        48 |        +0.48 |         +9.77 |
+|  336 | Larry Dale                |  11.9 |        29 |              |               |
+|  337 | Aman Gupta                |  11.8 |         3 |              |               |
+|  338 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  339 | Julian Gill               |  11.8 |         1 |              |               |
+|  340 | James Shinn               |  11.7 |       120 |              |               |
+|  341 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  342 | Min Joon Seo              |  11.6 |         3 |              |               |
 |  343 | David Appelfeld           |  11.6 |        26 |              |               |
-|  344 | Meldan Heaslip            |  11.6 |        28 |        -0.20 |               |
+|  344 | Meldan Heaslip            |  11.6 |        28 |        -0.19 |               |
 |  345 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  346 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  347 | Carlos Filho              |  11.4 |         7 |              |               |
@@ -355,12 +355,12 @@ Generated 2017-06-10.
 |  351 | Dominick Ng               |  10.9 |        25 |              |               |
 |  352 | George Bentley            |  10.6 |         4 |              |               |
 |  353 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  354 | Nate Aden                 |  10.5 |        34 |              |         +3.05 |
-|  355 | Brian Puglise             |  10.4 |         2 |              |               |
-|  356 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  357 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  358 | John Provine              |  10.2 |        16 |              |               |
-|  359 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  354 | Brian Puglise             |  10.4 |         2 |              |               |
+|  355 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  356 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  357 | John Provine              |  10.2 |        16 |              |               |
+|  358 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  359 | Nate Aden                 |  10.2 |        35 |        -0.27 |         +2.78 |
 |  360 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  361 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  362 | Sung-Jin Oh               |  10.1 |         6 |              |               |

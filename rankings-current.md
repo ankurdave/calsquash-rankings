@@ -1,4 +1,4 @@
-Generated 2017-06-10.
+Generated 2017-06-11.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -24,9 +24,9 @@ Generated 2017-06-10.
 |   20 | Sergey Dobrinov   |  14.8 |        18 |              |               |
 |   21 | Nikhil Paranjape  |  14.7 |        43 |              |         +3.73 |
 |   22 | Craig Hollow      |  12.0 |        18 |              |               |
-|   23 | Josh Lebowitz     |  11.7 |        47 |        +0.23 |         +9.52 |
-|   24 | Meldan Heaslip    |  11.6 |        28 |        -0.20 |               |
-|   25 | Nate Aden         |  10.5 |        34 |              |         +3.05 |
+|   23 | Josh Lebowitz     |  11.9 |        48 |        +0.48 |         +9.77 |
+|   24 | Meldan Heaslip    |  11.6 |        28 |        -0.19 |               |
+|   25 | Nate Aden         |  10.2 |        35 |        -0.27 |         +2.78 |
 |   26 | Raphael Magarik   |   9.8 |        29 |        +0.08 |         +1.04 |
 |   27 | Janeau Janssen    |   9.1 |        14 |              |               |
 |   28 | Duo Wang          |   9.0 |        71 |              |         +0.50 |
