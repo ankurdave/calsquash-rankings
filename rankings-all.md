@@ -78,8 +78,8 @@ Generated 2017-06-11.
 |   74 | Jon Shih                  |  24.4 |        47 |              |               |
 |   75 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   76 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   77 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   78 | Jim Veitch                |  24.2 |       450 |              |         -1.59 |
+|   77 | Jim Veitch                |  24.3 |       451 |        +0.08 |         -1.51 |
+|   78 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   79 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   80 | Toby Reiner               |  24.2 |       159 |              |               |
 |   81 | Himanshu Jatia            |  24.2 |         4 |              |               |
@@ -116,8 +116,8 @@ Generated 2017-06-11.
 |  112 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
-|  115 | Dan Meier                 |  22.2 |        66 |              |         -0.74 |
-|  116 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  115 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  116 | Dan Meier                 |  22.1 |        67 |        -0.07 |         -0.81 |
 |  117 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  118 | Britta Gardner            |  22.1 |        16 |              |               |
 |  119 | Niklas Linde              |  22.1 |        23 |              |               |

@@ -9,9 +9,9 @@ Generated 2017-06-11.
 |    5 | Nick Cobbett      |  26.9 |        35 |        -0.12 |         +1.32 |
 |    6 | Frank Kennamer    |  26.9 |       227 |        +0.02 |         +0.29 |
 |    7 | Thomas Littleton  |  24.5 |         6 |              |               |
-|    8 | Jim Veitch        |  24.2 |       450 |              |         -1.59 |
+|    8 | Jim Veitch        |  24.3 |       451 |        +0.08 |         -1.51 |
 |    9 | Dan Bohn          |  23.8 |        98 |              |         +0.09 |
-|   10 | Dan Meier         |  22.2 |        66 |              |         -0.74 |
+|   10 | Dan Meier         |  22.1 |        67 |        -0.07 |         -0.81 |
 |   11 | Mark Modera       |  20.5 |       328 |              |         -0.76 |
 |   12 | Mike Jensen-Akula |  19.6 |       224 |              |         -1.24 |
 |   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |
