@@ -249,18 +249,18 @@ Generated 2017-06-13.
 |  245 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  246 | Wayne Heiser              |  16.8 |        50 |              |         +0.49 |
 |  247 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  248 | Sahar Sareminaeni         |  16.7 |        32 |              |               |
-|  249 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  250 | David Shabelman           |  16.7 |        30 |              |               |
-|  251 | David Bratt               |  16.7 |        31 |              |         +0.26 |
+|  248 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  249 | David Shabelman           |  16.7 |        30 |              |               |
+|  250 | David Bratt               |  16.7 |        31 |              |         +0.26 |
+|  251 | Sahar Sareminaeni         |  16.6 |        33 |        -0.11 |               |
 |  252 | Mark Priven               |  16.6 |        72 |              |               |
 |  253 | William Coleman           |  16.5 |        48 |              |               |
 |  254 | Mike Troxell              |  16.5 |         8 |              |               |
 |  255 | Danish Mir                |  16.4 |         1 |              |               |
-|  256 | Paul Chang                |  16.3 |         7 |              |               |
-|  257 | Steven Hahm               |  16.3 |         5 |              |               |
-|  258 | Jules Bowie               |  16.3 |        12 |              |               |
-|  259 | Chris Flores              |  16.2 |       318 |              |         -1.21 |
+|  256 | Chris Flores              |  16.4 |       319 |        +0.13 |         -1.08 |
+|  257 | Paul Chang                |  16.3 |         7 |              |               |
+|  258 | Steven Hahm               |  16.3 |         5 |              |               |
+|  259 | Jules Bowie               |  16.3 |        12 |              |               |
 |  260 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  261 | Jan Strasky               |  16.2 |        12 |              |               |
 |  262 | Sarah Mcneil              |  16.2 |        24 |              |               |

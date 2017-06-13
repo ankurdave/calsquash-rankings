@@ -18,8 +18,8 @@ Generated 2017-06-13.
 |   14 | Shaun Lim         |  19.3 |        60 |              |         +1.23 |
 |   15 | Ankur Dave        |  17.7 |        72 |        +0.05 |         +5.53 |
 |   16 | Wayne Heiser      |  16.8 |        50 |              |         +0.49 |
-|   17 | Sahar Sareminaeni |  16.7 |        32 |              |               |
-|   18 | Chris Flores      |  16.2 |       318 |              |         -1.21 |
+|   17 | Sahar Sareminaeni |  16.6 |        33 |        -0.11 |               |
+|   18 | Chris Flores      |  16.4 |       319 |        +0.13 |         -1.08 |
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
 |   20 | Sergey Dobrinov   |  14.8 |        18 |              |               |
 |   21 | Nikhil Paranjape  |  14.7 |        43 |              |         +3.73 |
