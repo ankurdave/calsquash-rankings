@@ -1,4 +1,4 @@
-Generated 2017-06-12.
+Generated 2017-06-13.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -23,16 +23,16 @@ Generated 2017-06-12.
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
 |   20 | Sergey Dobrinov   |  14.8 |        18 |              |               |
 |   21 | Nikhil Paranjape  |  14.7 |        43 |              |         +3.73 |
-|   22 | Craig Hollow      |  12.0 |        18 |              |               |
+|   22 | Craig Hollow      |  12.5 |        19 |        +0.45 |               |
 |   23 | Josh Lebowitz     |  11.9 |        48 |        +0.48 |         +9.77 |
 |   24 | Meldan Heaslip    |  11.6 |        28 |        -0.19 |               |
 |   25 | Nate Aden         |  10.2 |        35 |        -0.27 |         +2.78 |
-|   26 | Raphael Magarik   |   9.8 |        29 |        +0.08 |         +1.04 |
+|   26 | Raphael Magarik   |   9.6 |        30 |        -0.14 |         +0.81 |
 |   27 | Janeau Janssen    |   9.1 |        14 |              |               |
 |   28 | Duo Wang          |   9.0 |        71 |              |         +0.50 |
 |   29 | Brian Kempenich   |   8.1 |        44 |              |         -0.92 |
 |   30 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
 |   31 | Sumit Gupta       |   6.8 |         6 |              |               |
-|   32 | Terence Stotz     |   5.7 |         3 |        +1.36 |               |
+|   32 | Terence Stotz     |   5.6 |         3 |        +1.25 |               |
 |   33 | Duncan MacRae     |  -0.2 |        20 |              |               |
 |   34 | Seobin Jung       |  -5.7 |         7 |              |         -2.76 |

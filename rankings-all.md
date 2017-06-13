@@ -1,4 +1,4 @@
-Generated 2017-06-12.
+Generated 2017-06-13.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -328,13 +328,13 @@ Generated 2017-06-12.
 |  324 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  325 | Josh Shiode               |  12.6 |        20 |              |               |
 |  326 | Huw Lester                |  12.5 |         1 |              |               |
-|  327 | Richard Fabini            |  12.4 |         3 |              |               |
-|  328 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  329 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
-|  330 | John Givens               |  12.2 |        13 |              |               |
-|  331 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  332 | Reed Foster               |  12.1 |         8 |              |               |
-|  333 | Craig Hollow              |  12.0 |        18 |              |               |
+|  327 | Craig Hollow              |  12.5 |        19 |        +0.45 |               |
+|  328 | Richard Fabini            |  12.4 |         3 |              |               |
+|  329 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
+|  330 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
+|  331 | John Givens               |  12.2 |        13 |              |               |
+|  332 | Sylvan Arevalo            |  12.2 |         3 |              |               |
+|  333 | Reed Foster               |  12.1 |         8 |              |               |
 |  334 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  335 | Josh Lebowitz             |  11.9 |        48 |        +0.48 |         +9.77 |
 |  336 | Larry Dale                |  11.9 |        29 |              |               |
@@ -367,11 +367,11 @@ Generated 2017-06-12.
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.85 |
 |  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  366 | Raphael Magarik           |   9.8 |        29 |        +0.08 |         +1.04 |
-|  367 | Daniel Schwartz           |   9.8 |        22 |              |         +2.12 |
-|  368 | Myles Gordon              |   9.8 |        42 |              |               |
-|  369 | Jacob Bank                |   9.7 |         1 |              |               |
-|  370 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  366 | Daniel Schwartz           |   9.8 |        22 |              |         +2.12 |
+|  367 | Myles Gordon              |   9.8 |        42 |              |               |
+|  368 | Jacob Bank                |   9.7 |         1 |              |               |
+|  369 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  370 | Raphael Magarik           |   9.6 |        30 |        -0.14 |         +0.81 |
 |  371 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  372 | Mark Shapero              |   9.4 |         7 |              |               |
 |  373 | Kevin Pollock             |   9.4 |        28 |              |               |
@@ -433,7 +433,7 @@ Generated 2017-06-12.
 |  429 | Rohan Relan               |   6.0 |         4 |              |               |
 |  430 | David Zhu                 |   5.8 |         2 |              |               |
 |  431 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  432 | Terence Stotz             |   5.7 |         3 |        +1.36 |               |
+|  432 | Terence Stotz             |   5.6 |         3 |        +1.25 |               |
 |  433 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  434 | Manu Vaish                |   5.5 |         1 |              |               |
 |  435 | Emily Moylan              |   5.2 |        17 |              |               |
