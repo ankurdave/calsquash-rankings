@@ -1,4 +1,4 @@
-Generated 2017-06-13.
+Generated 2017-06-14.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -13,7 +13,7 @@ Generated 2017-06-13.
 |    9 | Dan Bohn          |  23.8 |        98 |              |         +0.09 |
 |   10 | Dan Meier         |  22.1 |        67 |        -0.07 |         -0.81 |
 |   11 | Mark Modera       |  20.5 |       328 |              |         -0.76 |
-|   12 | Mike Jensen-Akula |  19.6 |       224 |              |         -1.24 |
+|   12 | Mike Jensen-Akula |  19.6 |       225 |        +0.03 |         -1.21 |
 |   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   14 | Shaun Lim         |  19.3 |        60 |              |         +1.23 |
 |   15 | Ankur Dave        |  17.7 |        72 |        +0.05 |         +5.53 |
@@ -25,8 +25,8 @@ Generated 2017-06-13.
 |   21 | Nikhil Paranjape  |  14.7 |        43 |              |         +3.73 |
 |   22 | Craig Hollow      |  12.5 |        19 |        +0.45 |               |
 |   23 | Josh Lebowitz     |  11.9 |        48 |        +0.48 |         +9.77 |
-|   24 | Meldan Heaslip    |  11.6 |        28 |        -0.19 |               |
-|   25 | Nate Aden         |  10.2 |        35 |        -0.27 |         +2.78 |
+|   24 | Meldan Heaslip    |  11.6 |        28 |        -0.20 |               |
+|   25 | Nate Aden         |  10.1 |        36 |        -0.33 |         +2.72 |
 |   26 | Raphael Magarik   |   9.6 |        30 |        -0.14 |         +0.81 |
 |   27 | Janeau Janssen    |   9.1 |        14 |              |               |
 |   28 | Duo Wang          |   9.0 |        71 |              |         +0.50 |

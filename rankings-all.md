@@ -1,4 +1,4 @@
-Generated 2017-06-13.
+Generated 2017-06-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -180,9 +180,9 @@ Generated 2017-06-13.
 |  176 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  177 | Mike Delanty              |  19.7 |        12 |              |               |
 |  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  179 | Andrew Proudfoot          |  19.6 |        26 |              |               |
-|  180 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  181 | Mike Jensen-Akula         |  19.6 |       224 |              |         -1.24 |
+|  179 | Mike Jensen-Akula         |  19.6 |       225 |        +0.03 |         -1.21 |
+|  180 | Andrew Proudfoot          |  19.6 |        26 |              |               |
+|  181 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
 |  184 | Roberto Gonzalez          |  19.4 |         3 |              |               |
@@ -345,7 +345,7 @@ Generated 2017-06-13.
 |  341 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  342 | Min Joon Seo              |  11.6 |         3 |              |               |
 |  343 | David Appelfeld           |  11.6 |        26 |              |               |
-|  344 | Meldan Heaslip            |  11.6 |        28 |        -0.19 |               |
+|  344 | Meldan Heaslip            |  11.6 |        28 |        -0.20 |               |
 |  345 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  346 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  347 | Carlos Filho              |  11.4 |         7 |              |               |
@@ -360,9 +360,9 @@ Generated 2017-06-13.
 |  356 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  357 | John Provine              |  10.2 |        16 |              |               |
 |  358 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  359 | Nate Aden                 |  10.2 |        35 |        -0.27 |         +2.78 |
-|  360 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  361 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  359 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  360 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  361 | Nate Aden                 |  10.1 |        36 |        -0.33 |         +2.72 |
 |  362 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.85 |
