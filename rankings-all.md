@@ -247,7 +247,7 @@ Generated 2017-06-14.
 |  243 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  244 | Baxter Leman              |  16.9 |         6 |              |               |
 |  245 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  246 | Wayne Heiser              |  16.8 |        50 |              |         +0.49 |
+|  246 | Wayne Heiser              |  16.8 |        51 |        -0.03 |         +0.45 |
 |  247 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  248 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  249 | David Shabelman           |  16.7 |        30 |              |               |
@@ -291,9 +291,9 @@ Generated 2017-06-14.
 |  287 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  288 | Sergey Dobrinov           |  14.8 |        18 |              |               |
 |  289 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  290 | David Elfant              |  14.7 |         2 |              |               |
-|  291 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  292 | Nikhil Paranjape          |  14.7 |        43 |              |         +3.73 |
+|  290 | Nikhil Paranjape          |  14.7 |        44 |        +0.07 |         +3.80 |
+|  291 | David Elfant              |  14.7 |         2 |              |               |
+|  292 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  293 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  294 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  295 | Shai Vardi                |  14.5 |         4 |              |               |
@@ -345,7 +345,7 @@ Generated 2017-06-14.
 |  341 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  342 | Min Joon Seo              |  11.6 |         3 |              |               |
 |  343 | David Appelfeld           |  11.6 |        26 |              |               |
-|  344 | Meldan Heaslip            |  11.6 |        28 |        -0.20 |               |
+|  344 | Meldan Heaslip            |  11.6 |        28 |        -0.19 |               |
 |  345 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  346 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  347 | Carlos Filho              |  11.4 |         7 |              |               |
@@ -362,7 +362,7 @@ Generated 2017-06-14.
 |  358 | Anthony Patterson         |  10.2 |         6 |              |               |
 |  359 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  360 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  361 | Nate Aden                 |  10.1 |        36 |        -0.33 |         +2.72 |
+|  361 | Nate Aden                 |  10.1 |        36 |        -0.33 |         +2.71 |
 |  362 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.85 |
