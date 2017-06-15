@@ -1,4 +1,4 @@
-Generated 2017-06-14.
+Generated 2017-06-15.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -17,16 +17,16 @@ Generated 2017-06-14.
 |   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   14 | Shaun Lim         |  19.3 |        60 |              |         +1.23 |
 |   15 | Ankur Dave        |  17.7 |        72 |        +0.05 |         +5.53 |
-|   16 | Wayne Heiser      |  16.8 |        51 |        -0.03 |         +0.45 |
+|   16 | Wayne Heiser      |  16.9 |        52 |        +0.07 |         +0.55 |
 |   17 | Sahar Sareminaeni |  16.6 |        33 |        -0.11 |               |
 |   18 | Chris Flores      |  16.4 |       319 |        +0.13 |         -1.08 |
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
 |   20 | Sergey Dobrinov   |  14.8 |        18 |              |               |
 |   21 | Nikhil Paranjape  |  14.7 |        44 |        +0.07 |         +3.80 |
 |   22 | Craig Hollow      |  12.5 |        19 |        +0.45 |               |
-|   23 | Josh Lebowitz     |  11.9 |        48 |        +0.48 |         +9.77 |
-|   24 | Meldan Heaslip    |  11.6 |        28 |        -0.19 |               |
-|   25 | Nate Aden         |  10.1 |        36 |        -0.33 |         +2.71 |
+|   23 | Josh Lebowitz     |  11.8 |        49 |        +0.37 |         +9.66 |
+|   24 | Meldan Heaslip    |  11.6 |        28 |        -0.20 |               |
+|   25 | Nate Aden         |  10.1 |        36 |        -0.34 |         +2.71 |
 |   26 | Raphael Magarik   |   9.6 |        30 |        -0.14 |         +0.81 |
 |   27 | Janeau Janssen    |   9.1 |        14 |              |               |
 |   28 | Duo Wang          |   9.0 |        71 |              |         +0.50 |

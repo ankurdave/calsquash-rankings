@@ -1,4 +1,4 @@
-Generated 2017-06-14.
+Generated 2017-06-15.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -247,7 +247,7 @@ Generated 2017-06-14.
 |  243 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  244 | Baxter Leman              |  16.9 |         6 |              |               |
 |  245 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  246 | Wayne Heiser              |  16.8 |        51 |        -0.03 |         +0.45 |
+|  246 | Wayne Heiser              |  16.9 |        52 |        +0.07 |         +0.55 |
 |  247 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  248 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  249 | David Shabelman           |  16.7 |        30 |              |               |
@@ -336,8 +336,8 @@ Generated 2017-06-14.
 |  332 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  333 | Reed Foster               |  12.1 |         8 |              |               |
 |  334 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  335 | Josh Lebowitz             |  11.9 |        48 |        +0.48 |         +9.77 |
-|  336 | Larry Dale                |  11.9 |        29 |              |               |
+|  335 | Larry Dale                |  11.9 |        29 |              |               |
+|  336 | Josh Lebowitz             |  11.8 |        49 |        +0.37 |         +9.66 |
 |  337 | Aman Gupta                |  11.8 |         3 |              |               |
 |  338 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  339 | Julian Gill               |  11.8 |         1 |              |               |
@@ -345,7 +345,7 @@ Generated 2017-06-14.
 |  341 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  342 | Min Joon Seo              |  11.6 |         3 |              |               |
 |  343 | David Appelfeld           |  11.6 |        26 |              |               |
-|  344 | Meldan Heaslip            |  11.6 |        28 |        -0.19 |               |
+|  344 | Meldan Heaslip            |  11.6 |        28 |        -0.20 |               |
 |  345 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  346 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  347 | Carlos Filho              |  11.4 |         7 |              |               |
@@ -362,7 +362,7 @@ Generated 2017-06-14.
 |  358 | Anthony Patterson         |  10.2 |         6 |              |               |
 |  359 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  360 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  361 | Nate Aden                 |  10.1 |        36 |        -0.33 |         +2.71 |
+|  361 | Nate Aden                 |  10.1 |        36 |        -0.34 |         +2.71 |
 |  362 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.85 |
