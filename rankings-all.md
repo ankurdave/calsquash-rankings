@@ -1,4 +1,4 @@
-Generated 2017-06-15.
+Generated 2017-06-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -34,12 +34,12 @@ Generated 2017-06-15.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Anibhav Singla            |  27.0 |        20 |        +0.23 |               |
-|   34 | Hussain Raza              |  27.0 |        50 |              |               |
-|   35 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   36 | Alan Jose                 |  26.9 |       182 |              |               |
-|   37 | Nick Cobbett              |  26.9 |        35 |        -0.12 |         +1.32 |
-|   38 | Frank Kennamer            |  26.9 |       227 |        +0.02 |         +0.29 |
+|   33 | Frank Kennamer            |  27.1 |       228 |        +0.20 |         +0.47 |
+|   34 | Anibhav Singla            |  27.1 |        20 |        +0.25 |               |
+|   35 | Hussain Raza              |  27.0 |        50 |              |               |
+|   36 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   37 | Alan Jose                 |  26.9 |       182 |              |               |
+|   38 | Nick Cobbett              |  26.9 |        35 |        -0.12 |         +1.32 |
 |   39 | Michael Best              |  26.9 |        21 |              |               |
 |   40 | Josh Taylor               |  26.8 |        40 |              |               |
 |   41 | David Hwang               |  26.8 |        44 |              |               |
@@ -78,14 +78,14 @@ Generated 2017-06-15.
 |   74 | Jon Shih                  |  24.4 |        47 |              |               |
 |   75 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   76 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   77 | Jim Veitch                |  24.3 |       451 |        +0.08 |         -1.51 |
-|   78 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   79 | Lakshya Rustagi           |  24.2 |         2 |              |               |
-|   80 | Toby Reiner               |  24.2 |       159 |              |               |
-|   81 | Himanshu Jatia            |  24.2 |         4 |              |               |
-|   82 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   83 | Robert Jeng               |  24.1 |        26 |              |               |
-|   84 | Vyas Sekar                |  24.1 |        17 |              |               |
+|   77 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   78 | Lakshya Rustagi           |  24.2 |         2 |              |               |
+|   79 | Toby Reiner               |  24.2 |       159 |              |               |
+|   80 | Himanshu Jatia            |  24.2 |         4 |              |               |
+|   81 | Matthew Elliott           |  24.2 |         7 |              |               |
+|   82 | Robert Jeng               |  24.1 |        26 |              |               |
+|   83 | Vyas Sekar                |  24.1 |        17 |              |               |
+|   84 | Jim Veitch                |  24.1 |       452 |        -0.09 |         -1.68 |
 |   85 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   86 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   87 | Whit Eldredge             |  24.0 |         2 |              |               |
@@ -117,8 +117,8 @@ Generated 2017-06-15.
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  116 | Dan Meier                 |  22.1 |        67 |        -0.07 |         -0.81 |
-|  117 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  116 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  117 | Dan Meier                 |  22.1 |        67 |        -0.08 |         -0.82 |
 |  118 | Britta Gardner            |  22.1 |        16 |              |               |
 |  119 | Niklas Linde              |  22.1 |        23 |              |               |
 |  120 | Errick Ceppas             |  22.0 |         6 |              |               |

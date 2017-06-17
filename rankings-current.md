@@ -1,17 +1,17 @@
-Generated 2017-06-15.
+Generated 2017-06-17.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler     |  34.6 |       214 |              |         -0.44 |
 |    2 | Eric Katerman     |  33.2 |        51 |        +0.11 |         +4.68 |
 |    3 | Sam Sternberg     |  29.6 |       152 |              |         -0.26 |
-|    4 | Anibhav Singla    |  27.0 |        20 |        +0.23 |               |
-|    5 | Nick Cobbett      |  26.9 |        35 |        -0.12 |         +1.32 |
-|    6 | Frank Kennamer    |  26.9 |       227 |        +0.02 |         +0.29 |
+|    4 | Frank Kennamer    |  27.1 |       228 |        +0.20 |         +0.47 |
+|    5 | Anibhav Singla    |  27.1 |        20 |        +0.25 |               |
+|    6 | Nick Cobbett      |  26.9 |        35 |        -0.12 |         +1.32 |
 |    7 | Thomas Littleton  |  24.5 |         6 |              |               |
-|    8 | Jim Veitch        |  24.3 |       451 |        +0.08 |         -1.51 |
+|    8 | Jim Veitch        |  24.1 |       452 |        -0.09 |         -1.68 |
 |    9 | Dan Bohn          |  23.8 |        98 |              |         +0.09 |
-|   10 | Dan Meier         |  22.1 |        67 |        -0.07 |         -0.81 |
+|   10 | Dan Meier         |  22.1 |        67 |        -0.08 |         -0.82 |
 |   11 | Mark Modera       |  20.5 |       328 |              |         -0.76 |
 |   12 | Mike Jensen-Akula |  19.6 |       225 |        +0.03 |         -1.21 |
 |   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |
