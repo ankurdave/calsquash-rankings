@@ -5,13 +5,13 @@ Generated 2017-06-18.
 |    1 | Ashley Kayler     |  34.6 |       215 |        +0.01 |         -0.43 |
 |    2 | Eric Katerman     |  33.2 |        51 |        +0.11 |         +4.68 |
 |    3 | Sam Sternberg     |  29.6 |       152 |              |         -0.26 |
-|    4 | Frank Kennamer    |  27.1 |       228 |        +0.21 |         +0.48 |
-|    5 | Anibhav Singla    |  27.0 |        20 |        +0.23 |               |
+|    4 | Anibhav Singla    |  27.3 |        21 |        +0.48 |               |
+|    5 | Frank Kennamer    |  27.1 |       228 |        +0.21 |         +0.48 |
 |    6 | Nick Cobbett      |  26.9 |        35 |        -0.12 |         +1.32 |
 |    7 | Thomas Littleton  |  24.5 |         6 |              |               |
 |    8 | Jim Veitch        |  24.1 |       453 |        -0.16 |         -1.74 |
 |    9 | Dan Bohn          |  23.8 |        98 |              |         +0.09 |
-|   10 | Dan Meier         |  22.1 |        67 |        -0.07 |         -0.81 |
+|   10 | Dan Meier         |  22.0 |        68 |        -0.18 |         -0.92 |
 |   11 | Mark Modera       |  20.6 |       329 |        +0.10 |         -0.66 |
 |   12 | Mike Jensen-Akula |  19.6 |       225 |        +0.03 |         -1.21 |
 |   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |

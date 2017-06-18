@@ -32,10 +32,10 @@ Generated 2017-06-18.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Stephen Dang              |  27.2 |        34 |              |               |
-|   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.1 |       228 |        +0.21 |         +0.48 |
-|   34 | Anibhav Singla            |  27.0 |        20 |        +0.23 |               |
+|   31 | Anibhav Singla            |  27.3 |        21 |        +0.48 |               |
+|   32 | Stephen Dang              |  27.2 |        34 |              |               |
+|   33 | Samer Shehata             |  27.2 |        29 |              |               |
+|   34 | Frank Kennamer            |  27.1 |       228 |        +0.21 |         +0.48 |
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   37 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -117,13 +117,13 @@ Generated 2017-06-18.
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  116 | Dan Meier                 |  22.1 |        67 |        -0.07 |         -0.81 |
-|  117 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  118 | Britta Gardner            |  22.1 |        16 |              |               |
-|  119 | Niklas Linde              |  22.1 |        23 |              |               |
-|  120 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  121 | Jonathan Hankar           |  22.0 |       205 |              |         -0.04 |
-|  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  116 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  117 | Britta Gardner            |  22.1 |        16 |              |               |
+|  118 | Niklas Linde              |  22.1 |        23 |              |               |
+|  119 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  120 | Jonathan Hankar           |  22.0 |       205 |              |         -0.04 |
+|  121 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  122 | Dan Meier                 |  22.0 |        68 |        -0.18 |         -0.92 |
 |  123 | Blake Woodard             |  22.0 |        10 |              |               |
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
