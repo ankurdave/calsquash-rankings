@@ -1,28 +1,28 @@
-Generated 2017-06-17.
+Generated 2017-06-18.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler     |  34.6 |       214 |              |         -0.44 |
+|    1 | Ashley Kayler     |  34.6 |       215 |        +0.01 |         -0.43 |
 |    2 | Eric Katerman     |  33.2 |        51 |        +0.11 |         +4.68 |
 |    3 | Sam Sternberg     |  29.6 |       152 |              |         -0.26 |
-|    4 | Frank Kennamer    |  27.1 |       228 |        +0.20 |         +0.47 |
-|    5 | Anibhav Singla    |  27.1 |        20 |        +0.25 |               |
+|    4 | Frank Kennamer    |  27.1 |       228 |        +0.21 |         +0.48 |
+|    5 | Anibhav Singla    |  27.0 |        20 |        +0.23 |               |
 |    6 | Nick Cobbett      |  26.9 |        35 |        -0.12 |         +1.32 |
 |    7 | Thomas Littleton  |  24.5 |         6 |              |               |
-|    8 | Jim Veitch        |  24.1 |       452 |        -0.09 |         -1.68 |
+|    8 | Jim Veitch        |  24.1 |       453 |        -0.16 |         -1.74 |
 |    9 | Dan Bohn          |  23.8 |        98 |              |         +0.09 |
-|   10 | Dan Meier         |  22.1 |        67 |        -0.08 |         -0.82 |
-|   11 | Mark Modera       |  20.5 |       328 |              |         -0.76 |
+|   10 | Dan Meier         |  22.1 |        67 |        -0.07 |         -0.81 |
+|   11 | Mark Modera       |  20.6 |       329 |        +0.10 |         -0.66 |
 |   12 | Mike Jensen-Akula |  19.6 |       225 |        +0.03 |         -1.21 |
 |   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   14 | Shaun Lim         |  19.3 |        60 |              |         +1.23 |
-|   15 | Ankur Dave        |  17.7 |        72 |        +0.05 |         +5.53 |
+|   15 | Ankur Dave        |  17.7 |        72 |        +0.04 |         +5.52 |
 |   16 | Wayne Heiser      |  16.9 |        52 |        +0.07 |         +0.55 |
 |   17 | Sahar Sareminaeni |  16.6 |        33 |        -0.11 |               |
 |   18 | Chris Flores      |  16.4 |       319 |        +0.13 |         -1.08 |
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
-|   20 | Sergey Dobrinov   |  14.8 |        18 |              |               |
-|   21 | Nikhil Paranjape  |  14.7 |        44 |        +0.07 |         +3.80 |
+|   20 | Nikhil Paranjape  |  14.7 |        44 |        +0.07 |         +3.80 |
+|   21 | Sergey Dobrinov   |  14.6 |        19 |        -0.16 |               |
 |   22 | Craig Hollow      |  12.5 |        19 |        +0.45 |               |
 |   23 | Josh Lebowitz     |  11.8 |        49 |        +0.37 |         +9.66 |
 |   24 | Meldan Heaslip    |  11.6 |        28 |        -0.20 |               |
