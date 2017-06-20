@@ -1,4 +1,4 @@
-Generated 2017-06-18.
+Generated 2017-06-19.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -13,7 +13,7 @@ Generated 2017-06-18.
 |    9 | Dan Bohn          |  23.8 |        98 |              |         +0.09 |
 |   10 | Dan Meier         |  22.0 |        68 |        -0.18 |         -0.92 |
 |   11 | Mark Modera       |  20.6 |       329 |        +0.10 |         -0.66 |
-|   12 | Mike Jensen-Akula |  19.6 |       225 |        +0.03 |         -1.21 |
+|   12 | Mike Jensen-Akula |  19.7 |       226 |        +0.09 |         -1.15 |
 |   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   14 | Shaun Lim         |  19.3 |        60 |              |         +1.23 |
 |   15 | Ankur Dave        |  17.7 |        72 |        +0.04 |         +5.52 |
@@ -24,7 +24,7 @@ Generated 2017-06-18.
 |   20 | Nikhil Paranjape  |  14.7 |        44 |        +0.07 |         +3.80 |
 |   21 | Sergey Dobrinov   |  14.6 |        19 |        -0.16 |               |
 |   22 | Craig Hollow      |  12.5 |        19 |        +0.45 |               |
-|   23 | Josh Lebowitz     |  11.8 |        49 |        +0.37 |         +9.66 |
+|   23 | Josh Lebowitz     |  11.7 |        50 |        +0.29 |         +9.57 |
 |   24 | Meldan Heaslip    |  11.6 |        28 |        -0.20 |               |
 |   25 | Nate Aden         |  10.1 |        36 |        -0.34 |         +2.71 |
 |   26 | Raphael Magarik   |   9.6 |        30 |        -0.14 |         +0.81 |

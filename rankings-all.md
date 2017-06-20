@@ -1,4 +1,4 @@
-Generated 2017-06-18.
+Generated 2017-06-19.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -179,8 +179,8 @@ Generated 2017-06-18.
 |  175 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  176 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  177 | Mike Delanty              |  19.7 |        12 |              |               |
-|  178 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  179 | Mike Jensen-Akula         |  19.6 |       225 |        +0.03 |         -1.21 |
+|  178 | Mike Jensen-Akula         |  19.7 |       226 |        +0.09 |         -1.15 |
+|  179 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  180 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  181 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |               |
@@ -337,10 +337,10 @@ Generated 2017-06-18.
 |  333 | Reed Foster               |  12.1 |         8 |              |               |
 |  334 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  335 | Larry Dale                |  11.9 |        29 |              |               |
-|  336 | Josh Lebowitz             |  11.8 |        49 |        +0.37 |         +9.66 |
-|  337 | Aman Gupta                |  11.8 |         3 |              |               |
-|  338 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  339 | Julian Gill               |  11.8 |         1 |              |               |
+|  336 | Aman Gupta                |  11.8 |         3 |              |               |
+|  337 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  338 | Julian Gill               |  11.8 |         1 |              |               |
+|  339 | Josh Lebowitz             |  11.7 |        50 |        +0.29 |         +9.57 |
 |  340 | James Shinn               |  11.7 |       120 |              |               |
 |  341 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  342 | Min Joon Seo              |  11.6 |         3 |              |               |
