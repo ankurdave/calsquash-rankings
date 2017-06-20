@@ -1,4 +1,4 @@
-Generated 2017-06-19.
+Generated 2017-06-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -8,7 +8,7 @@ Generated 2017-06-19.
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Eric Katerman             |  33.2 |        51 |        +0.11 |         +4.68 |
+|    7 | Eric Katerman             |  33.2 |        52 |        +0.14 |         +4.71 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -93,8 +93,8 @@ Generated 2017-06-19.
 |   89 | Matt Wong                 |  23.9 |        91 |              |         +2.73 |
 |   90 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   91 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   92 | Dan Bohn                  |  23.8 |        98 |              |         +0.09 |
-|   93 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   92 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   93 | Dan Bohn                  |  23.8 |        99 |        -0.06 |         +0.02 |
 |   94 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
 |   95 | Matt Waid                 |  23.7 |        51 |              |               |
 |   96 | Sonesh Surana             |  23.7 |        95 |              |               |
