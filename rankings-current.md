@@ -16,10 +16,10 @@ Generated 2017-06-20.
 |   12 | Mike Jensen-Akula |  19.7 |       226 |        +0.09 |         -1.15 |
 |   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   14 | Shaun Lim         |  19.3 |        60 |              |         +1.23 |
-|   15 | Ankur Dave        |  17.7 |        72 |        +0.04 |         +5.52 |
+|   15 | Ankur Dave        |  17.9 |        73 |        +0.26 |         +5.74 |
 |   16 | Wayne Heiser      |  16.9 |        52 |        +0.07 |         +0.55 |
 |   17 | Sahar Sareminaeni |  16.6 |        33 |        -0.11 |               |
-|   18 | Chris Flores      |  16.4 |       319 |        +0.13 |         -1.08 |
+|   18 | Chris Flores      |  16.2 |       320 |        -0.08 |         -1.30 |
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
 |   20 | Nikhil Paranjape  |  14.7 |        44 |        +0.07 |         +3.80 |
 |   21 | Sergey Dobrinov   |  14.6 |        19 |        -0.16 |               |

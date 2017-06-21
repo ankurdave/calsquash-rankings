@@ -219,14 +219,14 @@ Generated 2017-06-20.
 |  215 | Josh Trauner              |  18.2 |        59 |              |         +0.66 |
 |  216 | Bob Roller                |  18.2 |         6 |              |               |
 |  217 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  218 | James Chung               |  17.9 |         7 |              |               |
-|  219 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  220 | Eric Borden               |  17.8 |        44 |              |         +0.09 |
-|  221 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
-|  222 | Nick Paget                |  17.8 |        35 |              |               |
-|  223 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  224 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  225 | Ankur Dave                |  17.7 |        72 |        +0.04 |         +5.52 |
+|  218 | Ankur Dave                |  17.9 |        73 |        +0.26 |         +5.74 |
+|  219 | James Chung               |  17.9 |         7 |              |               |
+|  220 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  221 | Eric Borden               |  17.8 |        44 |              |         +0.09 |
+|  222 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
+|  223 | Nick Paget                |  17.8 |        35 |              |               |
+|  224 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  225 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  226 | George Roche              |  17.7 |        14 |              |               |
 |  227 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  228 | Subrato Dey               |  17.5 |        26 |              |         +0.17 |
@@ -257,12 +257,12 @@ Generated 2017-06-20.
 |  253 | William Coleman           |  16.5 |        48 |              |               |
 |  254 | Mike Troxell              |  16.5 |         8 |              |               |
 |  255 | Danish Mir                |  16.4 |         1 |              |               |
-|  256 | Chris Flores              |  16.4 |       319 |        +0.13 |         -1.08 |
-|  257 | Paul Chang                |  16.3 |         7 |              |               |
-|  258 | Steven Hahm               |  16.3 |         5 |              |               |
-|  259 | Jules Bowie               |  16.3 |        12 |              |               |
-|  260 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  261 | Jan Strasky               |  16.2 |        12 |              |               |
+|  256 | Paul Chang                |  16.3 |         7 |              |               |
+|  257 | Steven Hahm               |  16.3 |         5 |              |               |
+|  258 | Jules Bowie               |  16.3 |        12 |              |               |
+|  259 | Wladislaw Ellis           |  16.2 |        29 |              |               |
+|  260 | Jan Strasky               |  16.2 |        12 |              |               |
+|  261 | Chris Flores              |  16.2 |       320 |        -0.08 |         -1.30 |
 |  262 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  263 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  264 | Terry Chang               |  15.8 |        48 |              |         -0.23 |
