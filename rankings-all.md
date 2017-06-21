@@ -1,4 +1,4 @@
-Generated 2017-06-20.
+Generated 2017-06-21.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -34,8 +34,8 @@ Generated 2017-06-20.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Anibhav Singla            |  27.3 |        21 |        +0.48 |               |
 |   32 | Stephen Dang              |  27.2 |        34 |              |               |
-|   33 | Samer Shehata             |  27.2 |        29 |              |               |
-|   34 | Frank Kennamer            |  27.1 |       228 |        +0.21 |         +0.48 |
+|   33 | Frank Kennamer            |  27.2 |       229 |        +0.33 |         +0.59 |
+|   34 | Samer Shehata             |  27.2 |        29 |              |               |
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   37 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -123,11 +123,11 @@ Generated 2017-06-20.
 |  119 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  120 | Jonathan Hankar           |  22.0 |       205 |              |         -0.04 |
 |  121 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  122 | Dan Meier                 |  22.0 |        68 |        -0.18 |         -0.92 |
-|  123 | Blake Woodard             |  22.0 |        10 |              |               |
-|  124 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  126 | Jan Beranek               |  21.9 |        46 |              |               |
+|  122 | Blake Woodard             |  22.0 |        10 |              |               |
+|  123 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  124 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  125 | Jan Beranek               |  21.9 |        46 |              |               |
+|  126 | Dan Meier                 |  21.9 |        69 |        -0.30 |         -1.04 |
 |  127 | Saurabh Bajaj             |  21.8 |        22 |              |         -1.48 |
 |  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |

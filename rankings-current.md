@@ -1,4 +1,4 @@
-Generated 2017-06-20.
+Generated 2017-06-21.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -6,12 +6,12 @@ Generated 2017-06-20.
 |    2 | Eric Katerman     |  33.2 |        52 |        +0.14 |         +4.71 |
 |    3 | Sam Sternberg     |  29.6 |       152 |              |         -0.26 |
 |    4 | Anibhav Singla    |  27.3 |        21 |        +0.48 |               |
-|    5 | Frank Kennamer    |  27.1 |       228 |        +0.21 |         +0.48 |
+|    5 | Frank Kennamer    |  27.2 |       229 |        +0.33 |         +0.59 |
 |    6 | Nick Cobbett      |  26.9 |        35 |        -0.12 |         +1.32 |
 |    7 | Thomas Littleton  |  24.5 |         6 |              |               |
 |    8 | Jim Veitch        |  24.1 |       453 |        -0.16 |         -1.74 |
 |    9 | Dan Bohn          |  23.8 |        99 |        -0.06 |         +0.02 |
-|   10 | Dan Meier         |  22.0 |        68 |        -0.18 |         -0.92 |
+|   10 | Dan Meier         |  21.9 |        69 |        -0.30 |         -1.04 |
 |   11 | Mark Modera       |  20.6 |       329 |        +0.10 |         -0.66 |
 |   12 | Mike Jensen-Akula |  19.7 |       226 |        +0.09 |         -1.15 |
 |   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |
