@@ -290,14 +290,14 @@ Generated 2017-06-21.
 |  286 | Paul Norberg              |  14.8 |         8 |              |               |
 |  287 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  288 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  289 | Nikhil Paranjape          |  14.7 |        44 |        +0.07 |         +3.80 |
-|  290 | David Elfant              |  14.7 |         2 |              |               |
-|  291 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  292 | Sergey Dobrinov           |  14.6 |        19 |        -0.16 |               |
-|  293 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  294 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  295 | Shai Vardi                |  14.5 |         4 |              |               |
-|  296 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  289 | David Elfant              |  14.7 |         2 |              |               |
+|  290 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  291 | Sergey Dobrinov           |  14.6 |        19 |        -0.16 |               |
+|  292 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  293 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  294 | Shai Vardi                |  14.5 |         4 |              |               |
+|  295 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  296 | Nikhil Paranjape          |  14.5 |        45 |        -0.16 |         +3.57 |
 |  297 | Kent Daniels              |  14.4 |       106 |              |         -0.12 |
 |  298 | Max Woodworth             |  14.4 |         7 |              |               |
 |  299 | Juliet Shih               |  14.4 |        11 |              |               |
@@ -336,16 +336,16 @@ Generated 2017-06-21.
 |  332 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  333 | Reed Foster               |  12.1 |         8 |              |               |
 |  334 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  335 | Larry Dale                |  11.9 |        29 |              |               |
-|  336 | Aman Gupta                |  11.8 |         3 |              |               |
-|  337 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  338 | Julian Gill               |  11.8 |         1 |              |               |
-|  339 | Josh Lebowitz             |  11.7 |        50 |        +0.29 |         +9.57 |
-|  340 | James Shinn               |  11.7 |       120 |              |               |
-|  341 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  342 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  343 | David Appelfeld           |  11.6 |        26 |              |               |
-|  344 | Meldan Heaslip            |  11.6 |        28 |        -0.20 |               |
+|  335 | Meldan Heaslip            |  11.9 |        29 |        +0.15 |               |
+|  336 | Larry Dale                |  11.9 |        29 |              |               |
+|  337 | Aman Gupta                |  11.8 |         3 |              |               |
+|  338 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  339 | Julian Gill               |  11.8 |         1 |              |               |
+|  340 | Josh Lebowitz             |  11.7 |        50 |        +0.29 |         +9.57 |
+|  341 | James Shinn               |  11.7 |       120 |              |               |
+|  342 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  343 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  344 | David Appelfeld           |  11.6 |        26 |              |               |
 |  345 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  346 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  347 | Carlos Filho              |  11.4 |         7 |              |               |

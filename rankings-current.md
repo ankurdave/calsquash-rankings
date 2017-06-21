@@ -21,11 +21,11 @@ Generated 2017-06-21.
 |   17 | Sahar Sareminaeni |  16.6 |        33 |        -0.11 |               |
 |   18 | Chris Flores      |  16.2 |       320 |        -0.08 |         -1.30 |
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
-|   20 | Nikhil Paranjape  |  14.7 |        44 |        +0.07 |         +3.80 |
-|   21 | Sergey Dobrinov   |  14.6 |        19 |        -0.16 |               |
+|   20 | Sergey Dobrinov   |  14.6 |        19 |        -0.16 |               |
+|   21 | Nikhil Paranjape  |  14.5 |        45 |        -0.16 |         +3.57 |
 |   22 | Craig Hollow      |  12.5 |        19 |        +0.45 |               |
-|   23 | Josh Lebowitz     |  11.7 |        50 |        +0.29 |         +9.57 |
-|   24 | Meldan Heaslip    |  11.6 |        28 |        -0.20 |               |
+|   23 | Meldan Heaslip    |  11.9 |        29 |        +0.15 |               |
+|   24 | Josh Lebowitz     |  11.7 |        50 |        +0.29 |         +9.57 |
 |   25 | Nate Aden         |  10.1 |        36 |        -0.34 |         +2.71 |
 |   26 | Raphael Magarik   |   9.6 |        30 |        -0.14 |         +0.81 |
 |   27 | Janeau Janssen    |   9.1 |        14 |              |               |
