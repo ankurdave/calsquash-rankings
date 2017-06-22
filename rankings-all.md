@@ -185,8 +185,8 @@ Generated 2017-06-21.
 |  181 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  182 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  184 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  185 | Shaun Lim                 |  19.3 |        60 |              |         +1.23 |
+|  184 | Shaun Lim                 |  19.5 |        61 |        +0.14 |         +1.37 |
+|  185 | Roberto Gonzalez          |  19.4 |         3 |              |               |
 |  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  187 | Greg Adams                |  19.3 |        10 |              |               |
 |  188 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
@@ -292,13 +292,13 @@ Generated 2017-06-21.
 |  288 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  289 | David Elfant              |  14.7 |         2 |              |               |
 |  290 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  291 | Sergey Dobrinov           |  14.6 |        19 |        -0.16 |               |
-|  292 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  293 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  294 | Shai Vardi                |  14.5 |         4 |              |               |
-|  295 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  296 | Nikhil Paranjape          |  14.5 |        45 |        -0.16 |         +3.57 |
-|  297 | Kent Daniels              |  14.4 |       106 |              |         -0.12 |
+|  291 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  292 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  293 | Shai Vardi                |  14.5 |         4 |              |               |
+|  294 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  295 | Nikhil Paranjape          |  14.5 |        45 |        -0.16 |         +3.57 |
+|  296 | Kent Daniels              |  14.4 |       106 |              |         -0.12 |
+|  297 | Sergey Dobrinov           |  14.4 |        20 |        -0.34 |               |
 |  298 | Max Woodworth             |  14.4 |         7 |              |               |
 |  299 | Juliet Shih               |  14.4 |        11 |              |               |
 |  300 | Khurram Mahmood           |  14.3 |         3 |              |               |

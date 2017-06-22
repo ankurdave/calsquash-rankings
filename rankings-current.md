@@ -14,15 +14,15 @@ Generated 2017-06-21.
 |   10 | Dan Meier         |  21.9 |        69 |        -0.30 |         -1.04 |
 |   11 | Mark Modera       |  20.6 |       329 |        +0.10 |         -0.66 |
 |   12 | Mike Jensen-Akula |  19.7 |       226 |        +0.09 |         -1.15 |
-|   13 | Roberto Gonzalez  |  19.4 |         3 |              |               |
-|   14 | Shaun Lim         |  19.3 |        60 |              |         +1.23 |
+|   13 | Shaun Lim         |  19.5 |        61 |        +0.14 |         +1.37 |
+|   14 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   15 | Ankur Dave        |  17.9 |        73 |        +0.26 |         +5.74 |
 |   16 | Wayne Heiser      |  16.9 |        52 |        +0.07 |         +0.55 |
 |   17 | Sahar Sareminaeni |  16.6 |        33 |        -0.11 |               |
 |   18 | Chris Flores      |  16.2 |       320 |        -0.08 |         -1.30 |
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
-|   20 | Sergey Dobrinov   |  14.6 |        19 |        -0.16 |               |
-|   21 | Nikhil Paranjape  |  14.5 |        45 |        -0.16 |         +3.57 |
+|   20 | Nikhil Paranjape  |  14.5 |        45 |        -0.16 |         +3.57 |
+|   21 | Sergey Dobrinov   |  14.4 |        20 |        -0.34 |               |
 |   22 | Craig Hollow      |  12.5 |        19 |        +0.45 |               |
 |   23 | Meldan Heaslip    |  11.9 |        29 |        +0.15 |               |
 |   24 | Josh Lebowitz     |  11.7 |        50 |        +0.29 |         +9.57 |
