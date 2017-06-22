@@ -1,4 +1,4 @@
-Generated 2017-06-21.
+Generated 2017-06-22.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -12,13 +12,13 @@ Generated 2017-06-21.
 |    8 | Jim Veitch        |  24.1 |       453 |        -0.16 |         -1.74 |
 |    9 | Dan Bohn          |  23.8 |        99 |        -0.06 |         +0.02 |
 |   10 | Dan Meier         |  21.9 |        69 |        -0.30 |         -1.04 |
-|   11 | Mark Modera       |  20.6 |       329 |        +0.10 |         -0.66 |
+|   11 | Mark Modera       |  20.6 |       330 |        +0.12 |         -0.64 |
 |   12 | Mike Jensen-Akula |  19.7 |       226 |        +0.09 |         -1.15 |
 |   13 | Shaun Lim         |  19.5 |        61 |        +0.14 |         +1.37 |
 |   14 | Roberto Gonzalez  |  19.4 |         3 |              |               |
 |   15 | Ankur Dave        |  17.9 |        73 |        +0.26 |         +5.74 |
 |   16 | Wayne Heiser      |  16.9 |        52 |        +0.07 |         +0.55 |
-|   17 | Sahar Sareminaeni |  16.6 |        33 |        -0.11 |               |
+|   17 | Sahar Sareminaeni |  16.6 |        34 |        -0.10 |               |
 |   18 | Chris Flores      |  16.2 |       320 |        -0.08 |         -1.30 |
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
 |   20 | Nikhil Paranjape  |  14.5 |        45 |        -0.16 |         +3.57 |

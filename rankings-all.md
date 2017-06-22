@@ -1,4 +1,4 @@
-Generated 2017-06-21.
+Generated 2017-06-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -156,7 +156,7 @@ Generated 2017-06-21.
 |  152 | Matthew Brett             |  20.7 |        20 |              |               |
 |  153 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  154 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  155 | Mark Modera               |  20.6 |       329 |        +0.10 |         -0.66 |
+|  155 | Mark Modera               |  20.6 |       330 |        +0.12 |         -0.64 |
 |  156 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  157 | Prakash Bathini           |  20.5 |       123 |              |         -0.51 |
 |  158 | Leor Lovinger             |  20.5 |         6 |              |               |
@@ -252,7 +252,7 @@ Generated 2017-06-21.
 |  248 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  249 | David Shabelman           |  16.7 |        30 |              |               |
 |  250 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  251 | Sahar Sareminaeni         |  16.6 |        33 |        -0.11 |               |
+|  251 | Sahar Sareminaeni         |  16.6 |        34 |        -0.10 |               |
 |  252 | Mark Priven               |  16.6 |        72 |              |               |
 |  253 | William Coleman           |  16.5 |        48 |              |               |
 |  254 | Mike Troxell              |  16.5 |         8 |              |               |
