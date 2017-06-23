@@ -156,12 +156,12 @@ Generated 2017-06-22.
 |  152 | Matthew Brett             |  20.7 |        20 |              |               |
 |  153 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  154 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  155 | Mark Modera               |  20.6 |       330 |        +0.12 |         -0.64 |
-|  156 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  157 | Prakash Bathini           |  20.5 |       123 |              |         -0.51 |
-|  158 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  159 | Andrew Green              |  20.5 |        52 |              |               |
-|  160 | Steven Sloman             |  20.4 |        10 |              |               |
+|  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.51 |
+|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  158 | Andrew Green              |  20.5 |        52 |              |               |
+|  159 | Steven Sloman             |  20.4 |        10 |              |               |
+|  160 | Mark Modera               |  20.4 |       331 |        -0.09 |         -0.84 |
 |  161 | Marc Schechter            |  20.4 |        14 |              |               |
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.49 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
@@ -178,14 +178,14 @@ Generated 2017-06-22.
 |  174 | Lysander Jim              |  19.8 |         6 |              |               |
 |  175 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  176 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  177 | Mike Delanty              |  19.7 |        12 |              |               |
-|  178 | Mike Jensen-Akula         |  19.7 |       226 |        +0.09 |         -1.15 |
-|  179 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  180 | Andrew Proudfoot          |  19.6 |        26 |              |               |
-|  181 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  182 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  183 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  184 | Shaun Lim                 |  19.5 |        61 |        +0.14 |         +1.37 |
+|  177 | Shaun Lim                 |  19.7 |        62 |        +0.38 |         +1.61 |
+|  178 | Mike Delanty              |  19.7 |        12 |              |               |
+|  179 | Mike Jensen-Akula         |  19.7 |       226 |        +0.09 |         -1.15 |
+|  180 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  181 | Andrew Proudfoot          |  19.6 |        26 |              |               |
+|  182 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  183 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  184 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
 |  185 | Roberto Gonzalez          |  19.4 |         3 |              |               |
 |  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  187 | Greg Adams                |  19.3 |        10 |              |               |
