@@ -161,7 +161,7 @@ Generated 2017-06-23.
 |  157 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  158 | Andrew Green              |  20.5 |        52 |              |               |
 |  159 | Steven Sloman             |  20.4 |        10 |              |               |
-|  160 | Mark Modera               |  20.4 |       331 |        -0.09 |         -0.84 |
+|  160 | Mark Modera               |  20.4 |       331 |        -0.08 |         -0.84 |
 |  161 | Marc Schechter            |  20.4 |        14 |              |               |
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.49 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
@@ -174,11 +174,11 @@ Generated 2017-06-23.
 |  170 | Jonathan Francis          |  20.0 |        76 |              |         +0.26 |
 |  171 | Wesley Huang              |  20.0 |         8 |              |               |
 |  172 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  173 | Liam King                 |  19.9 |         6 |              |               |
-|  174 | Lysander Jim              |  19.8 |         6 |              |               |
-|  175 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  176 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  177 | Shaun Lim                 |  19.7 |        62 |        +0.38 |         +1.61 |
+|  173 | Shaun Lim                 |  19.9 |        63 |        +0.56 |         +1.79 |
+|  174 | Liam King                 |  19.9 |         6 |              |               |
+|  175 | Lysander Jim              |  19.8 |         6 |              |               |
+|  176 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  177 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  178 | Mike Delanty              |  19.7 |        12 |              |               |
 |  179 | Mike Jensen-Akula         |  19.7 |       226 |        +0.09 |         -1.15 |
 |  180 | Sridhar Rajaram           |  19.7 |        30 |              |               |
@@ -252,10 +252,10 @@ Generated 2017-06-23.
 |  248 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  249 | David Shabelman           |  16.7 |        30 |              |               |
 |  250 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  251 | Sahar Sareminaeni         |  16.6 |        34 |        -0.10 |               |
-|  252 | Mark Priven               |  16.6 |        72 |              |               |
-|  253 | William Coleman           |  16.5 |        48 |              |               |
-|  254 | Mike Troxell              |  16.5 |         8 |              |               |
+|  251 | Mark Priven               |  16.6 |        72 |              |               |
+|  252 | William Coleman           |  16.5 |        48 |              |               |
+|  253 | Mike Troxell              |  16.5 |         8 |              |               |
+|  254 | Sahar Sareminaeni         |  16.4 |        35 |        -0.31 |               |
 |  255 | Danish Mir                |  16.4 |         1 |              |               |
 |  256 | Paul Chang                |  16.3 |         7 |              |               |
 |  257 | Steven Hahm               |  16.3 |         5 |              |               |
@@ -298,7 +298,7 @@ Generated 2017-06-23.
 |  294 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  295 | Nikhil Paranjape          |  14.5 |        45 |        -0.16 |         +3.57 |
 |  296 | Kent Daniels              |  14.4 |       106 |              |         -0.12 |
-|  297 | Sergey Dobrinov           |  14.4 |        20 |        -0.34 |               |
+|  297 | Sergey Dobrinov           |  14.4 |        20 |        -0.33 |               |
 |  298 | Max Woodworth             |  14.4 |         7 |              |               |
 |  299 | Juliet Shih               |  14.4 |        11 |              |               |
 |  300 | Khurram Mahmood           |  14.3 |         3 |              |               |
