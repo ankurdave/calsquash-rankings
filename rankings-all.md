@@ -1,10 +1,10 @@
-Generated 2017-06-22.
+Generated 2017-06-23.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant               |  36.8 |        28 |              |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +0.32 |
-|    3 | Ashley Kayler             |  34.6 |       215 |        +0.01 |         -0.43 |
+|    3 | Ashley Kayler             |  34.6 |       216 |              |         -0.43 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -34,7 +34,7 @@ Generated 2017-06-22.
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Anibhav Singla            |  27.3 |        21 |        +0.48 |               |
 |   32 | Stephen Dang              |  27.2 |        34 |              |               |
-|   33 | Frank Kennamer            |  27.2 |       229 |        +0.33 |         +0.59 |
+|   33 | Frank Kennamer            |  27.2 |       229 |        +0.32 |         +0.59 |
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
@@ -87,7 +87,7 @@ Generated 2017-06-22.
 |   83 | Vyas Sekar                |  24.1 |        17 |              |               |
 |   84 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   86 | Jim Veitch                |  24.1 |       453 |        -0.16 |         -1.74 |
+|   86 | Jim Veitch                |  24.1 |       453 |        -0.16 |         -1.75 |
 |   87 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   88 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   89 | Matt Wong                 |  23.9 |        91 |              |         +2.73 |
@@ -127,7 +127,7 @@ Generated 2017-06-22.
 |  123 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  124 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  125 | Jan Beranek               |  21.9 |        46 |              |               |
-|  126 | Dan Meier                 |  21.9 |        69 |        -0.30 |         -1.04 |
+|  126 | Dan Meier                 |  21.8 |        70 |        -0.35 |         -1.09 |
 |  127 | Saurabh Bajaj             |  21.8 |        22 |              |         -1.48 |
 |  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
