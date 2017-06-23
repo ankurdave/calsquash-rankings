@@ -27,12 +27,12 @@ Generated 2017-06-23.
 |   23 | Meldan Heaslip    |  11.9 |        29 |        +0.15 |               |
 |   24 | Josh Lebowitz     |  11.7 |        50 |        +0.29 |         +9.57 |
 |   25 | Nate Aden         |  10.1 |        36 |        -0.34 |         +2.71 |
-|   26 | Raphael Magarik   |   9.6 |        30 |        -0.14 |         +0.81 |
+|   26 | Raphael Magarik   |   9.8 |        30 |        +0.03 |         +0.98 |
 |   27 | Janeau Janssen    |   9.1 |        14 |              |               |
-|   28 | Duo Wang          |   9.0 |        71 |              |         +0.50 |
+|   28 | Duo Wang          |   8.8 |        72 |        -0.21 |         +0.30 |
 |   29 | Brian Kempenich   |   8.1 |        44 |              |         -0.92 |
-|   30 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
-|   31 | Sumit Gupta       |   6.8 |         6 |              |               |
-|   32 | Terence Stotz     |   5.6 |         3 |        +1.25 |               |
+|   30 | Terence Stotz     |   7.6 |         4 |        +3.30 |               |
+|   31 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
+|   32 | Sumit Gupta       |   6.8 |         6 |              |               |
 |   33 | Duncan MacRae     |  -0.2 |        20 |              |               |
 |   34 | Seobin Jung       |  -5.7 |         7 |              |         -2.76 |

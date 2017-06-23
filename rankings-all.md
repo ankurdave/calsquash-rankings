@@ -369,9 +369,9 @@ Generated 2017-06-23.
 |  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  366 | Daniel Schwartz           |   9.8 |        22 |              |         +2.12 |
 |  367 | Myles Gordon              |   9.8 |        42 |              |               |
-|  368 | Jacob Bank                |   9.7 |         1 |              |               |
-|  369 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  370 | Raphael Magarik           |   9.6 |        30 |        -0.14 |         +0.81 |
+|  368 | Raphael Magarik           |   9.8 |        30 |        +0.03 |         +0.98 |
+|  369 | Jacob Bank                |   9.7 |         1 |              |               |
+|  370 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  371 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  372 | Mark Shapero              |   9.4 |         7 |              |               |
 |  373 | Kevin Pollock             |   9.4 |        28 |              |               |
@@ -385,9 +385,9 @@ Generated 2017-06-23.
 |  381 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  382 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  383 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  384 | Duo Wang                  |   9.0 |        71 |              |         +0.50 |
-|  385 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  386 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  384 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  385 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  386 | Duo Wang                  |   8.8 |        72 |        -0.21 |         +0.30 |
 |  387 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  388 | Therese Jones             |   8.7 |         6 |              |               |
 |  389 | Steven Yee                |   8.7 |         9 |              |               |
@@ -412,28 +412,28 @@ Generated 2017-06-23.
 |  408 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  409 | Jeremy Brown              |   7.7 |         4 |              |               |
 |  410 | Ryan Akers                |   7.7 |         2 |              |               |
-|  411 | Yashraj Khaitain          |   7.6 |         2 |              |               |
-|  412 | Arno Ferguson             |   7.4 |         1 |              |               |
-|  413 | Alex Walters              |   7.4 |         3 |              |               |
-|  414 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  415 | Keaton Noon               |   7.2 |        23 |              |         +1.75 |
-|  416 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
-|  417 | Brookes Degen             |   6.8 |         6 |              |               |
-|  418 | Sumit Gupta               |   6.8 |         6 |              |               |
-|  419 | Joshua Braver             |   6.5 |         1 |              |               |
-|  420 | Alok Singh                |   6.5 |        18 |              |         +0.17 |
-|  421 | Pablo Paredes             |   6.5 |         1 |              |               |
-|  422 | Mikel Shybut              |   6.5 |         4 |              |               |
-|  423 | Markus Boese              |   6.5 |         1 |              |               |
-|  424 | Avi Flamholz              |   6.4 |         3 |              |               |
-|  425 | Dav Clark                 |   6.4 |         6 |              |               |
-|  426 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  427 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  428 | Norman Bonney             |   6.0 |         3 |              |               |
-|  429 | Rohan Relan               |   6.0 |         4 |              |               |
-|  430 | David Zhu                 |   5.8 |         2 |              |               |
-|  431 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  432 | Terence Stotz             |   5.6 |         3 |        +1.25 |               |
+|  411 | Terence Stotz             |   7.6 |         4 |        +3.30 |               |
+|  412 | Yashraj Khaitain          |   7.6 |         2 |              |               |
+|  413 | Arno Ferguson             |   7.4 |         1 |              |               |
+|  414 | Alex Walters              |   7.4 |         3 |              |               |
+|  415 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
+|  416 | Keaton Noon               |   7.2 |        23 |              |         +1.75 |
+|  417 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
+|  418 | Brookes Degen             |   6.8 |         6 |              |               |
+|  419 | Sumit Gupta               |   6.8 |         6 |              |               |
+|  420 | Joshua Braver             |   6.5 |         1 |              |               |
+|  421 | Alok Singh                |   6.5 |        18 |              |         +0.17 |
+|  422 | Pablo Paredes             |   6.5 |         1 |              |               |
+|  423 | Mikel Shybut              |   6.5 |         4 |              |               |
+|  424 | Markus Boese              |   6.5 |         1 |              |               |
+|  425 | Avi Flamholz              |   6.4 |         3 |              |               |
+|  426 | Dav Clark                 |   6.4 |         6 |              |               |
+|  427 | Nicolas Huber             |   6.2 |         4 |              |               |
+|  428 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  429 | Norman Bonney             |   6.0 |         3 |              |               |
+|  430 | Rohan Relan               |   6.0 |         4 |              |               |
+|  431 | David Zhu                 |   5.8 |         2 |              |               |
+|  432 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  433 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  434 | Manu Vaish                |   5.5 |         1 |              |               |
 |  435 | Emily Moylan              |   5.2 |        17 |              |               |
