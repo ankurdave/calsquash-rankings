@@ -174,8 +174,8 @@ Generated 2017-06-23.
 |  170 | Jonathan Francis          |  20.0 |        76 |              |         +0.26 |
 |  171 | Wesley Huang              |  20.0 |         8 |              |               |
 |  172 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  173 | Shaun Lim                 |  19.9 |        63 |        +0.56 |         +1.79 |
-|  174 | Liam King                 |  19.9 |         6 |              |               |
+|  173 | Liam King                 |  19.9 |         6 |              |               |
+|  174 | Shaun Lim                 |  19.9 |        63 |        +0.54 |         +1.77 |
 |  175 | Lysander Jim              |  19.8 |         6 |              |               |
 |  176 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  177 | Suneesh Kaul              |  19.7 |         3 |              |               |
@@ -218,8 +218,8 @@ Generated 2017-06-23.
 |  214 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  215 | Josh Trauner              |  18.2 |        59 |              |         +0.66 |
 |  216 | Bob Roller                |  18.2 |         6 |              |               |
-|  217 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  218 | Ankur Dave                |  17.9 |        73 |        +0.26 |         +5.74 |
+|  217 | Ankur Dave                |  18.1 |        74 |        +0.44 |         +5.91 |
+|  218 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  219 | James Chung               |  17.9 |         7 |              |               |
 |  220 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  221 | Eric Borden               |  17.8 |        44 |              |         +0.09 |
@@ -261,8 +261,8 @@ Generated 2017-06-23.
 |  257 | Steven Hahm               |  16.3 |         5 |              |               |
 |  258 | Jules Bowie               |  16.3 |        12 |              |               |
 |  259 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  260 | Jan Strasky               |  16.2 |        12 |              |               |
-|  261 | Chris Flores              |  16.2 |       320 |        -0.08 |         -1.30 |
+|  260 | Chris Flores              |  16.2 |       320 |        -0.08 |         -1.29 |
+|  261 | Jan Strasky               |  16.2 |        12 |              |               |
 |  262 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  263 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  264 | Terry Chang               |  15.8 |        48 |              |         -0.23 |
@@ -298,11 +298,11 @@ Generated 2017-06-23.
 |  294 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  295 | Nikhil Paranjape          |  14.5 |        45 |        -0.16 |         +3.57 |
 |  296 | Kent Daniels              |  14.4 |       106 |              |         -0.12 |
-|  297 | Sergey Dobrinov           |  14.4 |        20 |        -0.33 |               |
-|  298 | Max Woodworth             |  14.4 |         7 |              |               |
-|  299 | Juliet Shih               |  14.4 |        11 |              |               |
-|  300 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  301 | Adam Soliman              |  14.2 |        32 |              |               |
+|  297 | Max Woodworth             |  14.4 |         7 |              |               |
+|  298 | Juliet Shih               |  14.4 |        11 |              |               |
+|  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  300 | Adam Soliman              |  14.2 |        32 |              |               |
+|  301 | Sergey Dobrinov           |  14.2 |        21 |        -0.56 |               |
 |  302 | Charles Denby             |  14.2 |         5 |              |               |
 |  303 | Neil Sachs                |  14.1 |        12 |              |               |
 |  304 | Rupert Myers              |  14.0 |        27 |              |               |
