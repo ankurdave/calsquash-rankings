@@ -1,4 +1,4 @@
-Generated 2017-06-25.
+Generated 2017-06-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -177,10 +177,10 @@ Generated 2017-06-25.
 |  173 | Liam King                 |  19.9 |         6 |              |               |
 |  174 | Shaun Lim                 |  19.9 |        63 |        +0.54 |         +1.77 |
 |  175 | Lysander Jim              |  19.8 |         6 |              |               |
-|  176 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  177 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  178 | Mike Delanty              |  19.7 |        12 |              |               |
-|  179 | Mike Jensen-Akula         |  19.7 |       226 |        +0.09 |         -1.15 |
+|  176 | Mike Jensen-Akula         |  19.7 |       227 |        +0.14 |         -1.10 |
+|  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  178 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  179 | Mike Delanty              |  19.7 |        12 |              |               |
 |  180 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  181 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  182 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
@@ -336,8 +336,8 @@ Generated 2017-06-25.
 |  332 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  333 | Reed Foster               |  12.1 |         8 |              |               |
 |  334 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  335 | Meldan Heaslip            |  11.9 |        29 |        +0.15 |               |
-|  336 | Larry Dale                |  11.9 |        29 |              |               |
+|  335 | Larry Dale                |  11.9 |        29 |              |               |
+|  336 | Meldan Heaslip            |  11.9 |        30 |        +0.07 |               |
 |  337 | Aman Gupta                |  11.8 |         3 |              |               |
 |  338 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  339 | Julian Gill               |  11.8 |         1 |              |               |
