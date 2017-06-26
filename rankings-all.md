@@ -1,4 +1,4 @@
-Generated 2017-06-24.
+Generated 2017-06-25.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -417,10 +417,10 @@ Generated 2017-06-24.
 |  413 | Arno Ferguson             |   7.4 |         1 |              |               |
 |  414 | Alex Walters              |   7.4 |         3 |              |               |
 |  415 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  416 | Keaton Noon               |   7.2 |        23 |              |         +1.75 |
-|  417 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
-|  418 | Brookes Degen             |   6.8 |         6 |              |               |
-|  419 | Sumit Gupta               |   6.8 |         6 |              |               |
+|  416 | Sumit Gupta               |   7.3 |         7 |        +0.50 |               |
+|  417 | Keaton Noon               |   7.2 |        23 |              |         +1.75 |
+|  418 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
+|  419 | Brookes Degen             |   6.8 |         6 |              |               |
 |  420 | Joshua Braver             |   6.5 |         1 |              |               |
 |  421 | Alok Singh                |   6.5 |        18 |              |         +0.17 |
 |  422 | Pablo Paredes             |   6.5 |         1 |              |               |
@@ -489,9 +489,9 @@ Generated 2017-06-24.
 |  485 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  486 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  487 | Sandra Harpster           |  -0.1 |         5 |              |               |
-|  488 | Duncan MacRae             |  -0.2 |        20 |              |               |
-|  489 | Stephen Garden            |  -0.2 |         2 |              |               |
-|  490 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
+|  488 | Stephen Garden            |  -0.2 |         2 |              |               |
+|  489 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
+|  490 | Duncan MacRae             |  -0.3 |        21 |        -0.07 |               |
 |  491 | Wyss Roman                |  -0.3 |         2 |              |               |
 |  492 | Jane Pan                  |  -0.4 |         1 |              |               |
 |  493 | Enrico Moretti            |  -0.4 |         1 |              |               |

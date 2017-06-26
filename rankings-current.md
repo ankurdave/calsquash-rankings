@@ -1,4 +1,4 @@
-Generated 2017-06-24.
+Generated 2017-06-25.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -32,7 +32,7 @@ Generated 2017-06-24.
 |   28 | Duo Wang          |   8.8 |        72 |        -0.21 |         +0.30 |
 |   29 | Brian Kempenich   |   8.1 |        44 |              |         -0.92 |
 |   30 | Terence Stotz     |   7.6 |         4 |        +3.30 |               |
-|   31 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
-|   32 | Sumit Gupta       |   6.8 |         6 |              |               |
-|   33 | Duncan MacRae     |  -0.2 |        20 |              |               |
+|   31 | Sumit Gupta       |   7.3 |         7 |        +0.50 |               |
+|   32 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
+|   33 | Duncan MacRae     |  -0.3 |        21 |        -0.07 |               |
 |   34 | Seobin Jung       |  -5.7 |         7 |              |         -2.76 |
