@@ -21,8 +21,8 @@ Generated 2017-06-26.
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   19 | Ben Faber                 |  29.8 |        15 |              |               |
-|   20 | David Wood                |  29.7 |        43 |              |               |
-|   21 | Sam Sternberg             |  29.6 |       152 |              |         -0.26 |
+|   20 | Sam Sternberg             |  29.8 |       154 |        +0.17 |         -0.10 |
+|   21 | David Wood                |  29.7 |        43 |              |               |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
@@ -39,8 +39,8 @@ Generated 2017-06-26.
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   37 | Alan Jose                 |  26.9 |       182 |              |               |
-|   38 | Nick Cobbett              |  26.9 |        35 |        -0.12 |         +1.32 |
-|   39 | Michael Best              |  26.9 |        21 |              |               |
+|   38 | Michael Best              |  26.9 |        21 |              |               |
+|   39 | Nick Cobbett              |  26.9 |        36 |        -0.16 |         +1.27 |
 |   40 | Josh Taylor               |  26.8 |        40 |              |               |
 |   41 | David Hwang               |  26.8 |        44 |              |               |
 |   42 | Ethan Kerr                |  26.7 |        14 |              |         -0.35 |
@@ -94,11 +94,11 @@ Generated 2017-06-26.
 |   90 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   91 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   92 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   93 | Dan Bohn                  |  23.8 |        99 |        -0.06 |         +0.02 |
-|   94 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
-|   95 | Matt Waid                 |  23.7 |        51 |              |               |
-|   96 | Sonesh Surana             |  23.7 |        95 |              |               |
-|   97 | Nader Shoaibi             |  23.7 |        64 |              |               |
+|   93 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.85 |
+|   94 | Matt Waid                 |  23.7 |        51 |              |               |
+|   95 | Sonesh Surana             |  23.7 |        95 |              |               |
+|   96 | Nader Shoaibi             |  23.7 |        64 |              |               |
+|   97 | Dan Bohn                  |  23.7 |       100 |        -0.17 |         -0.09 |
 |   98 | Amy Lee                   |  23.6 |        56 |              |               |
 |   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |  100 | Garvin Heath              |  23.4 |        28 |              |               |
