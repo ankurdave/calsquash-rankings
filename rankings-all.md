@@ -394,15 +394,15 @@ Generated 2017-06-26.
 |  390 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  391 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  392 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  393 | Reynold Xin               |   8.3 |         5 |              |               |
-|  394 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  395 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  396 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  397 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  398 | John Coates               |   8.1 |         9 |              |               |
-|  399 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  400 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  401 | Brian Kempenich           |   8.1 |        44 |              |         -0.92 |
+|  393 | Brian Kempenich           |   8.3 |        45 |        +0.23 |         -0.70 |
+|  394 | Reynold Xin               |   8.3 |         5 |              |               |
+|  395 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  396 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  397 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  398 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  399 | John Coates               |   8.1 |         9 |              |               |
+|  400 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  401 | Fabrice Henrion           |   8.1 |         2 |              |               |
 |  402 | Alexander Zuern           |   8.0 |        25 |              |               |
 |  403 | Zarina Khan               |   8.0 |         5 |              |               |
 |  404 | Chip Malt                 |   7.9 |         4 |              |               |
@@ -417,9 +417,9 @@ Generated 2017-06-26.
 |  413 | Arno Ferguson             |   7.4 |         1 |              |               |
 |  414 | Alex Walters              |   7.4 |         3 |              |               |
 |  415 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  416 | Sumit Gupta               |   7.3 |         7 |        +0.50 |               |
-|  417 | Keaton Noon               |   7.2 |        23 |              |         +1.75 |
-|  418 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
+|  416 | Keaton Noon               |   7.2 |        23 |              |         +1.75 |
+|  417 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
+|  418 | Sumit Gupta               |   7.1 |         8 |        +0.30 |               |
 |  419 | Brookes Degen             |   6.8 |         6 |              |               |
 |  420 | Joshua Braver             |   6.5 |         1 |              |               |
 |  421 | Alok Singh                |   6.5 |        18 |              |         +0.17 |
