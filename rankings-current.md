@@ -13,12 +13,12 @@ Generated 2017-06-26.
 |    9 | Dan Bohn          |  23.8 |        99 |        -0.06 |         +0.02 |
 |   10 | Dan Meier         |  21.8 |        70 |        -0.36 |         -1.10 |
 |   11 | Mark Modera       |  20.4 |       331 |        -0.08 |         -0.84 |
-|   12 | Shaun Lim         |  19.9 |        63 |        +0.54 |         +1.77 |
+|   12 | Shaun Lim         |  20.0 |        64 |        +0.63 |         +1.86 |
 |   13 | Mike Jensen-Akula |  19.7 |       227 |        +0.14 |         -1.10 |
 |   14 | Roberto Gonzalez  |  19.4 |         3 |              |               |
-|   15 | Ankur Dave        |  18.1 |        74 |        +0.44 |         +5.91 |
+|   15 | Ankur Dave        |  18.0 |        75 |        +0.36 |         +5.84 |
 |   16 | Wayne Heiser      |  16.9 |        52 |        +0.07 |         +0.55 |
-|   17 | Sahar Sareminaeni |  16.4 |        35 |        -0.31 |               |
+|   17 | Sahar Sareminaeni |  16.4 |        35 |        -0.32 |               |
 |   18 | Chris Flores      |  16.2 |       320 |        -0.08 |         -1.29 |
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
 |   20 | Nikhil Paranjape  |  14.5 |        45 |        -0.16 |         +3.57 |

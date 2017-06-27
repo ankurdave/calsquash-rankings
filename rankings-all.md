@@ -173,9 +173,9 @@ Generated 2017-06-26.
 |  169 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  170 | Jonathan Francis          |  20.0 |        76 |              |         +0.26 |
 |  171 | Wesley Huang              |  20.0 |         8 |              |               |
-|  172 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  173 | Liam King                 |  19.9 |         6 |              |               |
-|  174 | Shaun Lim                 |  19.9 |        63 |        +0.54 |         +1.77 |
+|  172 | Shaun Lim                 |  20.0 |        64 |        +0.63 |         +1.86 |
+|  173 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  174 | Liam King                 |  19.9 |         6 |              |               |
 |  175 | Lysander Jim              |  19.8 |         6 |              |               |
 |  176 | Mike Jensen-Akula         |  19.7 |       227 |        +0.14 |         -1.10 |
 |  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
@@ -218,8 +218,8 @@ Generated 2017-06-26.
 |  214 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  215 | Josh Trauner              |  18.2 |        59 |              |         +0.66 |
 |  216 | Bob Roller                |  18.2 |         6 |              |               |
-|  217 | Ankur Dave                |  18.1 |        74 |        +0.44 |         +5.91 |
-|  218 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  217 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  218 | Ankur Dave                |  18.0 |        75 |        +0.36 |         +5.84 |
 |  219 | James Chung               |  17.9 |         7 |              |               |
 |  220 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  221 | Eric Borden               |  17.8 |        44 |              |         +0.09 |
@@ -255,7 +255,7 @@ Generated 2017-06-26.
 |  251 | Mark Priven               |  16.6 |        72 |              |               |
 |  252 | William Coleman           |  16.5 |        48 |              |               |
 |  253 | Mike Troxell              |  16.5 |         8 |              |               |
-|  254 | Sahar Sareminaeni         |  16.4 |        35 |        -0.31 |               |
+|  254 | Sahar Sareminaeni         |  16.4 |        35 |        -0.32 |               |
 |  255 | Danish Mir                |  16.4 |         1 |              |               |
 |  256 | Paul Chang                |  16.3 |         7 |              |               |
 |  257 | Steven Hahm               |  16.3 |         5 |              |               |
