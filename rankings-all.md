@@ -1,4 +1,4 @@
-Generated 2017-06-27.
+Generated 2017-06-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -296,7 +296,7 @@ Generated 2017-06-27.
 |  292 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  293 | Shai Vardi                |  14.5 |         4 |              |               |
 |  294 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  295 | Nikhil Paranjape          |  14.5 |        45 |        -0.16 |         +3.57 |
+|  295 | Nikhil Paranjape          |  14.5 |        45 |        -0.15 |         +3.58 |
 |  296 | Kent Daniels              |  14.4 |       106 |              |         -0.12 |
 |  297 | Max Woodworth             |  14.4 |         7 |              |               |
 |  298 | Juliet Shih               |  14.4 |        11 |              |               |
@@ -334,10 +334,10 @@ Generated 2017-06-27.
 |  330 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
 |  331 | John Givens               |  12.2 |        13 |              |               |
 |  332 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  333 | Reed Foster               |  12.1 |         8 |              |               |
-|  334 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  335 | Larry Dale                |  11.9 |        29 |              |               |
-|  336 | Meldan Heaslip            |  11.9 |        30 |        +0.07 |               |
+|  333 | Meldan Heaslip            |  12.1 |        31 |        +0.33 |               |
+|  334 | Reed Foster               |  12.1 |         8 |              |               |
+|  335 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  336 | Larry Dale                |  11.9 |        29 |              |               |
 |  337 | Aman Gupta                |  11.8 |         3 |              |               |
 |  338 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  339 | Julian Gill               |  11.8 |         1 |              |               |
@@ -362,11 +362,11 @@ Generated 2017-06-27.
 |  358 | Anthony Patterson         |  10.2 |         6 |              |               |
 |  359 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  360 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  361 | Nate Aden                 |  10.1 |        36 |        -0.34 |         +2.71 |
-|  362 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  363 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  364 | Reto Sutter               |  10.0 |        52 |              |         -1.85 |
-|  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  361 | Sung-Jin Oh               |  10.1 |         6 |              |               |
+|  362 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  363 | Reto Sutter               |  10.0 |        52 |              |         -1.85 |
+|  364 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  365 | Nate Aden                 |   9.9 |        37 |        -0.58 |         +2.47 |
 |  366 | Daniel Schwartz           |   9.8 |        22 |              |         +2.12 |
 |  367 | Myles Gordon              |   9.8 |        42 |              |               |
 |  368 | Raphael Magarik           |   9.8 |        30 |        +0.03 |         +0.98 |

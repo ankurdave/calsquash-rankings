@@ -1,4 +1,4 @@
-Generated 2017-06-27.
+Generated 2017-06-28.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -21,12 +21,12 @@ Generated 2017-06-27.
 |   17 | Sahar Sareminaeni |  16.6 |        36 |        -0.15 |               |
 |   18 | Chris Flores      |  16.2 |       320 |        -0.09 |         -1.30 |
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
-|   20 | Nikhil Paranjape  |  14.5 |        45 |        -0.16 |         +3.57 |
+|   20 | Nikhil Paranjape  |  14.5 |        45 |        -0.15 |         +3.58 |
 |   21 | Sergey Dobrinov   |  14.2 |        22 |        -0.62 |               |
 |   22 | Craig Hollow      |  12.5 |        19 |        +0.45 |               |
-|   23 | Meldan Heaslip    |  11.9 |        30 |        +0.07 |               |
+|   23 | Meldan Heaslip    |  12.1 |        31 |        +0.33 |               |
 |   24 | Josh Lebowitz     |  11.7 |        50 |        +0.29 |         +9.57 |
-|   25 | Nate Aden         |  10.1 |        36 |        -0.34 |         +2.71 |
+|   25 | Nate Aden         |   9.9 |        37 |        -0.58 |         +2.47 |
 |   26 | Raphael Magarik   |   9.8 |        30 |        +0.03 |         +0.98 |
 |   27 | Janeau Janssen    |   9.1 |        14 |              |               |
 |   28 | Duo Wang          |   8.8 |        72 |        -0.21 |         +0.30 |
