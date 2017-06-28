@@ -23,15 +23,15 @@ Generated 2017-06-28.
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
 |   20 | Nikhil Paranjape  |  14.5 |        45 |        -0.15 |         +3.58 |
 |   21 | Sergey Dobrinov   |  14.2 |        22 |        -0.62 |               |
-|   22 | Craig Hollow      |  12.5 |        19 |        +0.45 |               |
+|   22 | Craig Hollow      |  12.8 |        20 |        +0.79 |               |
 |   23 | Meldan Heaslip    |  12.1 |        31 |        +0.33 |               |
 |   24 | Josh Lebowitz     |  11.7 |        50 |        +0.29 |         +9.57 |
 |   25 | Nate Aden         |   9.9 |        37 |        -0.58 |         +2.47 |
-|   26 | Raphael Magarik   |   9.8 |        30 |        +0.03 |         +0.98 |
+|   26 | Raphael Magarik   |   9.6 |        30 |        -0.14 |         +0.81 |
 |   27 | Janeau Janssen    |   9.1 |        14 |              |               |
-|   28 | Duo Wang          |   8.8 |        72 |        -0.21 |         +0.30 |
+|   28 | Duo Wang          |   8.7 |        72 |        -0.26 |         +0.24 |
 |   29 | Brian Kempenich   |   8.3 |        45 |        +0.23 |         -0.70 |
-|   30 | Terence Stotz     |   7.6 |         4 |        +3.30 |               |
+|   30 | Terence Stotz     |   7.1 |         5 |        +2.77 |               |
 |   31 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
 |   32 | Sumit Gupta       |   7.1 |         8 |        +0.30 |               |
 |   33 | Duncan MacRae     |  -0.3 |        21 |        -0.07 |               |

@@ -324,11 +324,11 @@ Generated 2017-06-28.
 |  320 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  321 | Lewis Moore               |  13.0 |        69 |              |               |
 |  322 | David Isaksson            |  12.9 |        22 |              |               |
-|  323 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  324 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  325 | Josh Shiode               |  12.6 |        20 |              |               |
-|  326 | Huw Lester                |  12.5 |         1 |              |               |
-|  327 | Craig Hollow              |  12.5 |        19 |        +0.45 |               |
+|  323 | Craig Hollow              |  12.8 |        20 |        +0.79 |               |
+|  324 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  325 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  326 | Josh Shiode               |  12.6 |        20 |              |               |
+|  327 | Huw Lester                |  12.5 |         1 |              |               |
 |  328 | Richard Fabini            |  12.4 |         3 |              |               |
 |  329 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
 |  330 | Rodrigo Calmet            |  12.4 |         8 |              |         +3.57 |
@@ -369,9 +369,9 @@ Generated 2017-06-28.
 |  365 | Nate Aden                 |   9.9 |        37 |        -0.58 |         +2.47 |
 |  366 | Daniel Schwartz           |   9.8 |        22 |              |         +2.12 |
 |  367 | Myles Gordon              |   9.8 |        42 |              |               |
-|  368 | Raphael Magarik           |   9.8 |        30 |        +0.03 |         +0.98 |
-|  369 | Jacob Bank                |   9.7 |         1 |              |               |
-|  370 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  368 | Jacob Bank                |   9.7 |         1 |              |               |
+|  369 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  370 | Raphael Magarik           |   9.6 |        30 |        -0.14 |         +0.81 |
 |  371 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  372 | Mark Shapero              |   9.4 |         7 |              |               |
 |  373 | Kevin Pollock             |   9.4 |        28 |              |               |
@@ -387,8 +387,8 @@ Generated 2017-06-28.
 |  383 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  384 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  385 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  386 | Duo Wang                  |   8.8 |        72 |        -0.21 |         +0.30 |
-|  387 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  386 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  387 | Duo Wang                  |   8.7 |        72 |        -0.26 |         +0.24 |
 |  388 | Therese Jones             |   8.7 |         6 |              |               |
 |  389 | Steven Yee                |   8.7 |         9 |              |               |
 |  390 | Nikolai Schnittke         |   8.6 |         4 |              |               |
@@ -412,12 +412,12 @@ Generated 2017-06-28.
 |  408 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  409 | Jeremy Brown              |   7.7 |         4 |              |               |
 |  410 | Ryan Akers                |   7.7 |         2 |              |               |
-|  411 | Terence Stotz             |   7.6 |         4 |        +3.30 |               |
-|  412 | Yashraj Khaitain          |   7.6 |         2 |              |               |
-|  413 | Arno Ferguson             |   7.4 |         1 |              |               |
-|  414 | Alex Walters              |   7.4 |         3 |              |               |
-|  415 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  416 | Keaton Noon               |   7.2 |        23 |              |         +1.75 |
+|  411 | Yashraj Khaitain          |   7.6 |         2 |              |               |
+|  412 | Arno Ferguson             |   7.4 |         1 |              |               |
+|  413 | Alex Walters              |   7.4 |         3 |              |               |
+|  414 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
+|  415 | Keaton Noon               |   7.2 |        23 |              |         +1.75 |
+|  416 | Terence Stotz             |   7.1 |         5 |        +2.77 |               |
 |  417 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
 |  418 | Sumit Gupta               |   7.1 |         8 |        +0.30 |               |
 |  419 | Brookes Degen             |   6.8 |         6 |              |               |
