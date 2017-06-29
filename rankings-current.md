@@ -8,9 +8,9 @@ Generated 2017-06-28.
 |    4 | Anibhav Singla    |  27.3 |        23 |        +0.45 |               |
 |    5 | Frank Kennamer    |  27.2 |       229 |        +0.31 |         +0.58 |
 |    6 | Nick Cobbett      |  26.9 |        36 |        -0.16 |         +1.28 |
-|    7 | Thomas Littleton  |  24.3 |         7 |        -0.17 |               |
+|    7 | Thomas Littleton  |  25.1 |         8 |        +0.60 |               |
 |    8 | Jim Veitch        |  24.1 |       454 |        -0.14 |         -1.72 |
-|    9 | Dan Bohn          |  23.7 |       100 |        -0.17 |         -0.09 |
+|    9 | Dan Bohn          |  23.5 |       101 |        -0.35 |         -0.26 |
 |   10 | Dan Meier         |  21.8 |        70 |        -0.36 |         -1.10 |
 |   11 | Mark Modera       |  20.4 |       331 |        -0.08 |         -0.84 |
 |   12 | Shaun Lim         |  20.0 |        64 |        +0.65 |         +1.88 |

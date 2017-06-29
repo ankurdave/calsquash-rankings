@@ -59,24 +59,24 @@ Generated 2017-06-28.
 |   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   56 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   57 | Paul Greene               |  25.2 |         8 |              |               |
-|   58 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   59 | Sam McCormick             |  25.0 |        38 |              |         +4.37 |
-|   60 | Ben Seelig                |  25.0 |        69 |              |               |
-|   61 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   62 | Madhav Pai                |  24.9 |         5 |              |               |
-|   63 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   64 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   65 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   66 | Orion Hodson              |  24.8 |        31 |              |               |
-|   67 | Martin Stokes             |  24.7 |        12 |              |               |
-|   68 | John Kunze                |  24.7 |       324 |              |         -0.03 |
-|   69 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   70 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   71 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   72 | Adam Pollak               |  24.5 |        31 |              |               |
-|   73 | Jon Shih                  |  24.4 |        47 |              |               |
-|   74 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   75 | Thomas Littleton          |  24.3 |         7 |        -0.17 |               |
+|   58 | Thomas Littleton          |  25.1 |         8 |        +0.60 |               |
+|   59 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   60 | Sam McCormick             |  25.0 |        38 |              |         +4.37 |
+|   61 | Ben Seelig                |  25.0 |        69 |              |               |
+|   62 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   63 | Madhav Pai                |  24.9 |         5 |              |               |
+|   64 | Shrinu Kushagra           |  24.8 |        12 |              |               |
+|   65 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   66 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   67 | Orion Hodson              |  24.8 |        31 |              |               |
+|   68 | Martin Stokes             |  24.7 |        12 |              |               |
+|   69 | John Kunze                |  24.7 |       324 |              |         -0.03 |
+|   70 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   72 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   73 | Adam Pollak               |  24.5 |        31 |              |               |
+|   74 | Jon Shih                  |  24.4 |        47 |              |               |
+|   75 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   76 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   77 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   78 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -98,9 +98,9 @@ Generated 2017-06-28.
 |   94 | Matt Waid                 |  23.7 |        51 |              |               |
 |   95 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   96 | Nader Shoaibi             |  23.7 |        64 |              |               |
-|   97 | Dan Bohn                  |  23.7 |       100 |        -0.17 |         -0.09 |
-|   98 | Amy Lee                   |  23.6 |        56 |              |               |
-|   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
+|   97 | Amy Lee                   |  23.6 |        56 |              |               |
+|   98 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
+|   99 | Dan Bohn                  |  23.5 |       101 |        -0.35 |         -0.26 |
 |  100 | Garvin Heath              |  23.4 |        28 |              |               |
 |  101 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
