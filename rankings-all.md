@@ -394,7 +394,7 @@ Generated 2017-06-28.
 |  390 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  391 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  392 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  393 | Brian Kempenich           |   8.3 |        45 |        +0.23 |         -0.70 |
+|  393 | Brian Kempenich           |   8.4 |        46 |        +0.30 |         -0.62 |
 |  394 | Reynold Xin               |   8.3 |         5 |              |               |
 |  395 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  396 | Fahad Riyadh              |   8.2 |         5 |              |               |
@@ -419,7 +419,7 @@ Generated 2017-06-28.
 |  415 | Keaton Noon               |   7.2 |        23 |              |         +1.75 |
 |  416 | Terence Stotz             |   7.1 |         5 |        +2.77 |               |
 |  417 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
-|  418 | Sumit Gupta               |   7.1 |         8 |        +0.30 |               |
+|  418 | Sumit Gupta               |   7.1 |         8 |        +0.31 |               |
 |  419 | Brookes Degen             |   6.8 |         6 |              |               |
 |  420 | Joshua Braver             |   6.5 |         1 |              |               |
 |  421 | Alok Singh                |   6.5 |        18 |              |         +0.17 |
@@ -491,10 +491,10 @@ Generated 2017-06-28.
 |  487 | Sandra Harpster           |  -0.1 |         5 |              |               |
 |  488 | Stephen Garden            |  -0.2 |         2 |              |               |
 |  489 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
-|  490 | Duncan MacRae             |  -0.3 |        21 |        -0.07 |               |
-|  491 | Wyss Roman                |  -0.3 |         2 |              |               |
-|  492 | Jane Pan                  |  -0.4 |         1 |              |               |
-|  493 | Enrico Moretti            |  -0.4 |         1 |              |               |
+|  490 | Wyss Roman                |  -0.3 |         2 |              |               |
+|  491 | Jane Pan                  |  -0.4 |         1 |              |               |
+|  492 | Enrico Moretti            |  -0.4 |         1 |              |               |
+|  493 | Duncan MacRae             |  -0.4 |        22 |        -0.19 |               |
 |  494 | Greg Rybka                |  -0.4 |         4 |              |               |
 |  495 | Klim Efremenko            |  -0.5 |         4 |              |               |
 |  496 | Rodrigo Lasheras          |  -0.5 |         3 |              |               |
