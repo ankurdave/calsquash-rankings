@@ -12,17 +12,17 @@ Generated 2017-06-29.
 |    8 | Jim Veitch        |  24.1 |       454 |        -0.14 |         -1.72 |
 |    9 | Dan Bohn          |  23.5 |       101 |        -0.35 |         -0.26 |
 |   10 | Dan Meier         |  21.8 |        70 |        -0.35 |         -1.09 |
-|   11 | Mark Modera       |  20.4 |       331 |        -0.08 |         -0.84 |
+|   11 | Mark Modera       |  20.5 |       332 |        +0.06 |         -0.70 |
 |   12 | Shaun Lim         |  20.0 |        64 |        +0.65 |         +1.88 |
 |   13 | Mike Jensen-Akula |  19.7 |       227 |        +0.14 |         -1.10 |
 |   14 | Roberto Gonzalez  |  19.4 |         3 |              |               |
-|   15 | Ankur Dave        |  17.9 |        75 |        +0.32 |         +5.79 |
+|   15 | Ankur Dave        |  17.8 |        76 |        +0.17 |         +5.64 |
 |   16 | Wayne Heiser      |  16.9 |        52 |        +0.07 |         +0.55 |
-|   17 | Sahar Sareminaeni |  16.6 |        36 |        -0.15 |               |
+|   17 | Sahar Sareminaeni |  16.6 |        36 |        -0.16 |               |
 |   18 | Chris Flores      |  16.2 |       320 |        -0.09 |         -1.30 |
 |   19 | Grant Buckingham  |  15.2 |         3 |              |               |
 |   20 | Nikhil Paranjape  |  14.5 |        45 |        -0.15 |         +3.58 |
-|   21 | Sergey Dobrinov   |  14.2 |        22 |        -0.62 |               |
+|   21 | Sergey Dobrinov   |  14.1 |        22 |        -0.62 |               |
 |   22 | Craig Hollow      |  12.8 |        20 |        +0.79 |               |
 |   23 | Meldan Heaslip    |  12.1 |        31 |        +0.33 |               |
 |   24 | Josh Lebowitz     |  11.7 |        50 |        +0.29 |         +9.57 |

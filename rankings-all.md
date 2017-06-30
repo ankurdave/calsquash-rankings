@@ -158,10 +158,10 @@ Generated 2017-06-29.
 |  154 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  155 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  156 | Prakash Bathini           |  20.5 |       123 |              |         -0.51 |
-|  157 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  158 | Andrew Green              |  20.5 |        52 |              |               |
-|  159 | Steven Sloman             |  20.4 |        10 |              |               |
-|  160 | Mark Modera               |  20.4 |       331 |        -0.08 |         -0.84 |
+|  157 | Mark Modera               |  20.5 |       332 |        +0.06 |         -0.70 |
+|  158 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  159 | Andrew Green              |  20.5 |        52 |              |               |
+|  160 | Steven Sloman             |  20.4 |        10 |              |               |
 |  161 | Marc Schechter            |  20.4 |        14 |              |               |
 |  162 | Jeff Gordon               |  20.3 |        46 |              |         +2.49 |
 |  163 | Anirudh Todi              |  20.3 |         3 |              |               |
@@ -219,13 +219,13 @@ Generated 2017-06-29.
 |  215 | Josh Trauner              |  18.2 |        59 |              |         +0.66 |
 |  216 | Bob Roller                |  18.2 |         6 |              |               |
 |  217 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  218 | Ankur Dave                |  17.9 |        75 |        +0.32 |         +5.79 |
-|  219 | James Chung               |  17.9 |         7 |              |               |
-|  220 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  221 | Eric Borden               |  17.8 |        44 |              |         +0.09 |
-|  222 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
-|  223 | Nick Paget                |  17.8 |        35 |              |               |
-|  224 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  218 | James Chung               |  17.9 |         7 |              |               |
+|  219 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  220 | Eric Borden               |  17.8 |        44 |              |         +0.09 |
+|  221 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
+|  222 | Nick Paget                |  17.8 |        35 |              |               |
+|  223 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  224 | Ankur Dave                |  17.8 |        76 |        +0.17 |         +5.64 |
 |  225 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  226 | George Roche              |  17.7 |        14 |              |               |
 |  227 | Jim Kingsbury             |  17.6 |         2 |              |               |
@@ -252,7 +252,7 @@ Generated 2017-06-29.
 |  248 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  249 | David Shabelman           |  16.7 |        30 |              |               |
 |  250 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  251 | Sahar Sareminaeni         |  16.6 |        36 |        -0.15 |               |
+|  251 | Sahar Sareminaeni         |  16.6 |        36 |        -0.16 |               |
 |  252 | Mark Priven               |  16.6 |        72 |              |               |
 |  253 | William Coleman           |  16.5 |        48 |              |               |
 |  254 | Mike Troxell              |  16.5 |         8 |              |               |
@@ -262,8 +262,8 @@ Generated 2017-06-29.
 |  258 | Jules Bowie               |  16.3 |        12 |              |               |
 |  259 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  260 | Jan Strasky               |  16.2 |        12 |              |               |
-|  261 | Chris Flores              |  16.2 |       320 |        -0.09 |         -1.30 |
-|  262 | Sarah Mcneil              |  16.2 |        24 |              |               |
+|  261 | Sarah Mcneil              |  16.2 |        24 |              |               |
+|  262 | Chris Flores              |  16.2 |       320 |        -0.09 |         -1.30 |
 |  263 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  264 | Terry Chang               |  15.8 |        48 |              |         -0.23 |
 |  265 | Louis Russell             |  15.8 |        20 |              |               |
@@ -303,7 +303,7 @@ Generated 2017-06-29.
 |  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  300 | Adam Soliman              |  14.2 |        32 |              |               |
 |  301 | Charles Denby             |  14.2 |         5 |              |               |
-|  302 | Sergey Dobrinov           |  14.2 |        22 |        -0.62 |               |
+|  302 | Sergey Dobrinov           |  14.1 |        22 |        -0.62 |               |
 |  303 | Neil Sachs                |  14.1 |        12 |              |               |
 |  304 | Rupert Myers              |  14.0 |        27 |              |               |
 |  305 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
