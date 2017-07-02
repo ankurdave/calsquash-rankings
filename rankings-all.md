@@ -1,4 +1,4 @@
-Generated 2017-06-29.
+Generated 2017-07-02.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -8,7 +8,7 @@ Generated 2017-06-29.
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Eric Katerman             |  33.3 |        53 |        +0.23 |         +4.80 |
+|    7 | Eric Katerman             |  33.2 |        54 |        +0.12 |         +4.68 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -20,8 +20,8 @@ Generated 2017-06-29.
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
-|   19 | Ben Faber                 |  29.8 |        15 |              |               |
-|   20 | Sam Sternberg             |  29.8 |       154 |        +0.17 |         -0.10 |
+|   19 | Sam Sternberg             |  29.9 |       155 |        +0.31 |         +0.05 |
+|   20 | Ben Faber                 |  29.8 |        15 |              |               |
 |   21 | David Wood                |  29.7 |        43 |              |               |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
@@ -36,11 +36,11 @@ Generated 2017-06-29.
 |   32 | Anibhav Singla            |  27.3 |        23 |        +0.44 |               |
 |   33 | Stephen Dang              |  27.2 |        34 |              |               |
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
-|   35 | Hussain Raza              |  27.0 |        50 |              |               |
-|   36 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   37 | Alan Jose                 |  26.9 |       182 |              |               |
-|   38 | Michael Best              |  26.9 |        21 |              |               |
-|   39 | Nick Cobbett              |  26.9 |        36 |        -0.16 |         +1.28 |
+|   35 | Nick Cobbett              |  27.1 |        38 |        +0.08 |         +1.51 |
+|   36 | Hussain Raza              |  27.0 |        50 |              |               |
+|   37 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   38 | Alan Jose                 |  26.9 |       182 |              |               |
+|   39 | Michael Best              |  26.9 |        21 |              |               |
 |   40 | Josh Taylor               |  26.8 |        40 |              |               |
 |   41 | David Hwang               |  26.8 |        44 |              |               |
 |   42 | Ethan Kerr                |  26.7 |        14 |              |         -0.35 |
@@ -58,8 +58,8 @@ Generated 2017-06-29.
 |   54 | Matt Nelson-Teutsch       |  25.4 |        10 |              |               |
 |   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   56 | Rahul Gupta               |  25.3 |         7 |              |               |
-|   57 | Paul Greene               |  25.2 |         8 |              |               |
-|   58 | Thomas Littleton          |  25.1 |         8 |        +0.60 |               |
+|   57 | Thomas Littleton          |  25.3 |         9 |        +0.76 |               |
+|   58 | Paul Greene               |  25.2 |         8 |              |               |
 |   59 | Mukul Sud                 |  25.0 |         3 |              |               |
 |   60 | Sam McCormick             |  25.0 |        38 |              |         +4.37 |
 |   61 | Ben Seelig                |  25.0 |        69 |              |               |
@@ -100,8 +100,8 @@ Generated 2017-06-29.
 |   96 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   97 | Amy Lee                   |  23.6 |        56 |              |               |
 |   98 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
-|   99 | Dan Bohn                  |  23.5 |       101 |        -0.35 |         -0.26 |
-|  100 | Garvin Heath              |  23.4 |        28 |              |               |
+|   99 | Garvin Heath              |  23.4 |        28 |              |               |
+|  100 | Dan Bohn                  |  23.3 |       102 |        -0.50 |         -0.41 |
 |  101 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |

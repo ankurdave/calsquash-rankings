@@ -1,16 +1,16 @@
-Generated 2017-06-29.
+Generated 2017-07-02.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler     |  34.6 |       218 |        -0.04 |         -0.48 |
-|    2 | Eric Katerman     |  33.3 |        53 |        +0.23 |         +4.80 |
-|    3 | Sam Sternberg     |  29.8 |       154 |        +0.17 |         -0.10 |
+|    2 | Eric Katerman     |  33.2 |        54 |        +0.12 |         +4.68 |
+|    3 | Sam Sternberg     |  29.9 |       155 |        +0.31 |         +0.05 |
 |    4 | Frank Kennamer    |  27.3 |       230 |        +0.45 |         +0.71 |
 |    5 | Anibhav Singla    |  27.3 |        23 |        +0.44 |               |
-|    6 | Nick Cobbett      |  26.9 |        36 |        -0.16 |         +1.28 |
-|    7 | Thomas Littleton  |  25.1 |         8 |        +0.60 |               |
+|    6 | Nick Cobbett      |  27.1 |        38 |        +0.08 |         +1.51 |
+|    7 | Thomas Littleton  |  25.3 |         9 |        +0.76 |               |
 |    8 | Jim Veitch        |  24.1 |       454 |        -0.14 |         -1.72 |
-|    9 | Dan Bohn          |  23.5 |       101 |        -0.35 |         -0.26 |
+|    9 | Dan Bohn          |  23.3 |       102 |        -0.50 |         -0.41 |
 |   10 | Dan Meier         |  21.8 |        70 |        -0.35 |         -1.09 |
 |   11 | Mark Modera       |  20.5 |       332 |        +0.06 |         -0.70 |
 |   12 | Shaun Lim         |  20.0 |        64 |        +0.65 |         +1.88 |
