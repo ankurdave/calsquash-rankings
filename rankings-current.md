@@ -31,7 +31,6 @@ Generated 2017-07-05.
 |   27 | Duo Wang          |   8.7 |        72 |              |         +0.48 |
 |   28 | Brian Kempenich   |   8.4 |        46 |              |         -0.02 |
 |   29 | Terence Stotz     |   7.1 |         5 |              |               |
-|   30 | Jose Lara         |   7.1 |        15 |              |         +0.89 |
-|   31 | Sumit Gupta       |   7.1 |         8 |              |               |
-|   32 | Zsolt Bartha      |   3.9 |        58 |              |         -0.78 |
-|   33 | Duncan MacRae     |  -0.4 |        22 |              |               |
+|   30 | Sumit Gupta       |   7.1 |         8 |              |               |
+|   31 | Zsolt Bartha      |   3.9 |        58 |              |         -0.78 |
+|   32 | Duncan MacRae     |  -0.4 |        22 |              |               |
