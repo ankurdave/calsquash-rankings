@@ -1,4 +1,4 @@
-Generated 2017-07-09.
+Generated 2017-07-10.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -20,7 +20,7 @@ Generated 2017-07-09.
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
-|   19 | Sam Sternberg             |  29.9 |       155 |              |         -0.20 |
+|   19 | Sam Sternberg             |  30.0 |       156 |        +0.06 |         -0.14 |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
 |   21 | David Wood                |  29.7 |        43 |              |               |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
@@ -36,7 +36,7 @@ Generated 2017-07-09.
 |   32 | Anibhav Singla            |  27.3 |        23 |              |               |
 |   33 | Stephen Dang              |  27.2 |        34 |              |               |
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
-|   35 | Nick Cobbett              |  27.1 |        38 |              |         +1.44 |
+|   35 | Nick Cobbett              |  27.1 |        39 |        -0.04 |         +1.40 |
 |   36 | Hussain Raza              |  27.0 |        50 |              |               |
 |   37 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   38 | Alan Jose                 |  26.9 |       182 |              |               |
