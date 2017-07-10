@@ -1,4 +1,4 @@
-Generated 2017-07-08.
+Generated 2017-07-09.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -29,7 +29,8 @@ Generated 2017-07-08.
 |   25 | Raphael Magarik   |   9.6 |        30 |              |         +0.81 |
 |   26 | Duo Wang          |   8.7 |        72 |              |         +0.48 |
 |   27 | Brian Kempenich   |   8.4 |        46 |              |         -0.02 |
-|   28 | Terence Stotz     |   7.1 |         5 |              |               |
-|   29 | Sumit Gupta       |   7.1 |         8 |              |               |
+|   28 | Sumit Gupta       |   8.4 |         9 |        +1.27 |               |
+|   29 | Terence Stotz     |   7.1 |         5 |              |               |
 |   30 | Zsolt Bartha      |   3.9 |        58 |              |         -0.78 |
-|   31 | Duncan MacRae     |  -0.4 |        22 |              |               |
+|   31 | Sagar Pilania     |   1.9 |         1 |              |               |
+|   32 | Duncan MacRae     |  -0.4 |        22 |              |               |
