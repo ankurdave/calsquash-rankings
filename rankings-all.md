@@ -365,13 +365,13 @@ Generated 2017-07-10.
 |  361 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  362 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  363 | Reto Sutter               |  10.0 |        52 |              |         -1.54 |
-|  364 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  365 | Nate Aden                 |   9.9 |        37 |              |         +2.17 |
-|  366 | Daniel Schwartz           |   9.8 |        22 |              |         +0.61 |
-|  367 | Myles Gordon              |   9.8 |        42 |              |               |
-|  368 | Jacob Bank                |   9.7 |         1 |              |               |
-|  369 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  370 | Raphael Magarik           |   9.6 |        30 |              |         +0.81 |
+|  364 | Raphael Magarik           |  10.0 |        31 |        +0.35 |         +1.17 |
+|  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  366 | Nate Aden                 |   9.9 |        37 |              |         +2.17 |
+|  367 | Daniel Schwartz           |   9.8 |        22 |              |         +0.61 |
+|  368 | Myles Gordon              |   9.8 |        42 |              |               |
+|  369 | Jacob Bank                |   9.7 |         1 |              |               |
+|  370 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  371 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  372 | Mark Shapero              |   9.4 |         7 |              |               |
 |  373 | Kevin Pollock             |   9.4 |        28 |              |               |
@@ -394,12 +394,12 @@ Generated 2017-07-10.
 |  390 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  391 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  392 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  393 | Brian Kempenich           |   8.4 |        46 |              |         -0.02 |
-|  394 | Sumit Gupta               |   8.4 |         9 |        +1.27 |               |
-|  395 | Reynold Xin               |   8.3 |         5 |              |               |
-|  396 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  397 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  398 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  393 | Sumit Gupta               |   8.4 |         9 |        +1.27 |               |
+|  394 | Reynold Xin               |   8.3 |         5 |              |               |
+|  395 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  396 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  397 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  398 | Brian Kempenich           |   8.2 |        47 |        -0.23 |         -0.25 |
 |  399 | Phil Hartmeyer            |   8.2 |         3 |              |               |
 |  400 | John Coates               |   8.1 |         9 |              |               |
 |  401 | Vito Sciaraffia           |   8.1 |         5 |              |               |
