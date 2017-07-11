@@ -4,10 +4,10 @@ Generated 2017-07-10.
 |------|-------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler     |  34.6 |       218 |              |         -0.48 |
 |    2 | Eric Katerman     |  33.2 |        54 |              |         +3.05 |
-|    3 | Sam Sternberg     |  30.0 |       156 |        +0.06 |         -0.14 |
+|    3 | Sam Sternberg     |  29.9 |       155 |              |         -0.20 |
 |    4 | Frank Kennamer    |  27.3 |       230 |              |         +0.36 |
 |    5 | Anibhav Singla    |  27.3 |        23 |              |               |
-|    6 | Nick Cobbett      |  27.1 |        39 |        -0.04 |         +1.40 |
+|    6 | Nick Cobbett      |  27.1 |        38 |              |         +1.44 |
 |    7 | Thomas Littleton  |  25.3 |         9 |              |               |
 |    8 | John Kunze        |  24.7 |       324 |              |         -0.05 |
 |    9 | Jim Veitch        |  24.1 |       454 |              |         -1.55 |
@@ -25,12 +25,11 @@ Generated 2017-07-10.
 |   21 | Craig Hollow      |  12.8 |        20 |              |               |
 |   22 | Meldan Heaslip    |  12.1 |        31 |              |               |
 |   23 | Josh Lebowitz     |  11.7 |        50 |              |         +4.12 |
-|   24 | Raphael Magarik   |  10.0 |        31 |        +0.35 |         +1.17 |
-|   25 | Nate Aden         |   9.9 |        37 |              |         +2.17 |
+|   24 | Nate Aden         |   9.9 |        37 |              |         +2.17 |
+|   25 | Raphael Magarik   |   9.6 |        30 |              |         +0.81 |
 |   26 | Duo Wang          |   8.7 |        72 |              |         +0.48 |
-|   27 | Sumit Gupta       |   8.4 |         9 |        +1.27 |               |
-|   28 | Brian Kempenich   |   8.2 |        47 |        -0.23 |         -0.25 |
-|   29 | Terence Stotz     |   7.1 |         5 |              |               |
+|   27 | Brian Kempenich   |   8.4 |        46 |              |         -0.02 |
+|   28 | Terence Stotz     |   7.1 |         5 |              |               |
+|   29 | Sumit Gupta       |   7.1 |         8 |              |               |
 |   30 | Zsolt Bartha      |   3.9 |        58 |              |         -0.78 |
-|   31 | Sagar Pilania     |   1.9 |         1 |              |               |
-|   32 | Duncan MacRae     |  -0.4 |        22 |              |               |
+|   31 | Duncan MacRae     |  -0.4 |        22 |              |               |
