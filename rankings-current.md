@@ -1,4 +1,4 @@
-Generated 2017-07-10.
+Generated 2017-07-12.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -20,17 +20,17 @@ Generated 2017-07-10.
 |   16 | Ankur Dave        |  17.8 |        76 |              |         +4.36 |
 |   17 | Wayne Heiser      |  16.9 |        52 |              |         -0.53 |
 |   18 | Sahar Sareminaeni |  16.6 |        36 |              |               |
-|   19 | Diego Butrich     |  15.0 |        10 |              |               |
-|   20 | Sergey Dobrinov   |  14.1 |        22 |              |               |
+|   19 | Sergey Dobrinov   |  14.6 |        23 |        +0.49 |               |
+|   20 | Diego Butrich     |  14.4 |        11 |        -0.58 |               |
 |   21 | Craig Hollow      |  12.8 |        20 |              |               |
 |   22 | Meldan Heaslip    |  12.1 |        31 |              |               |
 |   23 | Josh Lebowitz     |  11.7 |        50 |              |         +4.12 |
 |   24 | Raphael Magarik   |  10.0 |        31 |        +0.35 |         +1.17 |
-|   25 | Nate Aden         |   9.9 |        37 |              |         +2.17 |
+|   25 | Nate Aden         |   9.8 |        38 |        -0.08 |         +2.09 |
 |   26 | Duo Wang          |   8.7 |        72 |              |         +0.48 |
 |   27 | Sumit Gupta       |   8.4 |         9 |        +1.27 |               |
 |   28 | Brian Kempenich   |   8.2 |        47 |        -0.23 |         -0.25 |
 |   29 | Terence Stotz     |   7.1 |         5 |              |               |
-|   30 | Zsolt Bartha      |   3.9 |        58 |              |         -0.78 |
+|   30 | Zsolt Bartha      |   4.1 |        59 |        +0.11 |         -0.67 |
 |   31 | Sagar Pilania     |   1.9 |         1 |              |               |
 |   32 | Duncan MacRae     |  -0.4 |        22 |              |               |

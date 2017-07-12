@@ -1,4 +1,4 @@
-Generated 2017-07-10.
+Generated 2017-07-12.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -282,16 +282,16 @@ Generated 2017-07-10.
 |  278 | Dennis Chan               |  15.1 |         1 |              |               |
 |  279 | Allie Giovanelli          |  15.0 |         4 |              |               |
 |  280 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  281 | Diego Butrich             |  15.0 |        10 |              |               |
-|  282 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
-|  283 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  284 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  285 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  286 | Paul Norberg              |  14.8 |         8 |              |               |
-|  287 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  288 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  289 | David Elfant              |  14.7 |         2 |              |               |
-|  290 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  281 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  282 | Mimi Zhang                |  14.9 |         6 |              |               |
+|  283 | Jeff Dorman               |  14.9 |        14 |              |               |
+|  284 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  285 | Paul Norberg              |  14.8 |         8 |              |               |
+|  286 | Frederick Bayles          |  14.8 |         8 |              |               |
+|  287 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  288 | David Elfant              |  14.7 |         2 |              |               |
+|  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  290 | Sergey Dobrinov           |  14.6 |        23 |        +0.49 |               |
 |  291 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  292 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  293 | Shai Vardi                |  14.5 |         4 |              |               |
@@ -299,11 +299,11 @@ Generated 2017-07-10.
 |  295 | Nikhil Paranjape          |  14.5 |        45 |              |         +2.87 |
 |  296 | Kent Daniels              |  14.4 |       106 |              |         -0.73 |
 |  297 | Max Woodworth             |  14.4 |         7 |              |               |
-|  298 | Juliet Shih               |  14.4 |        11 |              |               |
-|  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  300 | Adam Soliman              |  14.2 |        32 |              |               |
-|  301 | Charles Denby             |  14.2 |         5 |              |               |
-|  302 | Sergey Dobrinov           |  14.1 |        22 |              |               |
+|  298 | Diego Butrich             |  14.4 |        11 |        -0.58 |               |
+|  299 | Juliet Shih               |  14.4 |        11 |              |               |
+|  300 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  301 | Adam Soliman              |  14.2 |        32 |              |               |
+|  302 | Charles Denby             |  14.2 |         5 |              |               |
 |  303 | Neil Sachs                |  14.1 |        12 |              |               |
 |  304 | Rupert Myers              |  14.0 |        27 |              |               |
 |  305 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
@@ -367,7 +367,7 @@ Generated 2017-07-10.
 |  363 | Reto Sutter               |  10.0 |        52 |              |         -1.54 |
 |  364 | Raphael Magarik           |  10.0 |        31 |        +0.35 |         +1.17 |
 |  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  366 | Nate Aden                 |   9.9 |        37 |              |         +2.17 |
+|  366 | Nate Aden                 |   9.8 |        38 |        -0.08 |         +2.09 |
 |  367 | Daniel Schwartz           |   9.8 |        22 |              |         +0.61 |
 |  368 | Myles Gordon              |   9.8 |        42 |              |               |
 |  369 | Jacob Bank                |   9.7 |         1 |              |               |
@@ -445,9 +445,9 @@ Generated 2017-07-10.
 |  441 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  442 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  443 | Anuj Dawar                |   4.2 |        15 |              |               |
-|  444 | Annie Wong                |   4.0 |         3 |              |               |
-|  445 | Ryan                      |   4.0 |         3 |              |         +1.67 |
-|  446 | Zsolt Bartha              |   3.9 |        58 |              |         -0.78 |
+|  444 | Zsolt Bartha              |   4.1 |        59 |        +0.11 |         -0.67 |
+|  445 | Annie Wong                |   4.0 |         3 |              |               |
+|  446 | Ryan                      |   4.0 |         3 |              |         +1.67 |
 |  447 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  448 | Nakul Vakil               |   3.0 |         5 |              |         +2.86 |
 |  449 | Maria Garzon              |   3.0 |         5 |              |               |
