@@ -25,12 +25,12 @@ Generated 2017-07-12.
 |   21 | Craig Hollow      |  12.8 |        20 |              |               |
 |   22 | Meldan Heaslip    |  12.1 |        31 |              |               |
 |   23 | Josh Lebowitz     |  11.7 |        50 |              |         +4.12 |
-|   24 | Raphael Magarik   |  10.0 |        31 |        +0.35 |         +1.17 |
+|   24 | Raphael Magarik   |  10.3 |        32 |        +0.73 |         +1.54 |
 |   25 | Nate Aden         |   9.8 |        38 |        -0.08 |         +2.09 |
 |   26 | Duo Wang          |   8.7 |        72 |              |         +0.48 |
 |   27 | Sumit Gupta       |   8.4 |         9 |        +1.27 |               |
 |   28 | Brian Kempenich   |   8.2 |        47 |        -0.23 |         -0.25 |
-|   29 | Terence Stotz     |   7.1 |         5 |              |               |
+|   29 | Terence Stotz     |   6.4 |         6 |        -0.71 |               |
 |   30 | Zsolt Bartha      |   4.1 |        59 |        +0.11 |         -0.67 |
 |   31 | Sagar Pilania     |   1.9 |         1 |              |               |
 |   32 | Duncan MacRae     |  -0.4 |        22 |              |               |
