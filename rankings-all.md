@@ -385,10 +385,10 @@ Generated 2017-07-12.
 |  381 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  382 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  383 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  384 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  385 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  386 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  387 | Duo Wang                  |   8.7 |        72 |              |         +0.48 |
+|  384 | Duo Wang                  |   9.0 |        73 |        +0.26 |         +0.74 |
+|  385 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  386 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  387 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  388 | Therese Jones             |   8.7 |         6 |              |               |
 |  389 | Steven Yee                |   8.7 |         9 |              |               |
 |  390 | Nikolai Schnittke         |   8.6 |         4 |              |               |
@@ -517,8 +517,9 @@ Generated 2017-07-12.
 |  513 | Tin Do                    |  -4.0 |         1 |              |               |
 |  514 | Yifan Wu                  |  -4.0 |         7 |              |               |
 |  515 | Susan Grand               |  -4.3 |         3 |              |               |
-|  516 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
-|  517 | Sara Green                |  -5.8 |         1 |              |               |
-|  518 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  519 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  520 | Navarun Jain              | -12.3 |         2 |              |               |
+|  516 | Cecilia Shan Cao          |  -4.7 |         1 |              |               |
+|  517 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
+|  518 | Sara Green                |  -5.8 |         1 |              |               |
+|  519 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  520 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  521 | Navarun Jain              | -12.3 |         2 |              |               |
