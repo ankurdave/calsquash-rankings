@@ -1,4 +1,4 @@
-Generated 2017-07-12.
+Generated 2017-07-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -247,15 +247,15 @@ Generated 2017-07-12.
 |  243 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  244 | Baxter Leman              |  16.9 |         6 |              |               |
 |  245 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  246 | Wayne Heiser              |  16.9 |        52 |              |         -0.53 |
-|  247 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  248 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  249 | David Shabelman           |  16.7 |        30 |              |               |
-|  250 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  251 | Sahar Sareminaeni         |  16.6 |        36 |              |               |
-|  252 | Mark Priven               |  16.6 |        72 |              |               |
-|  253 | William Coleman           |  16.5 |        48 |              |               |
-|  254 | Mike Troxell              |  16.5 |         8 |              |               |
+|  246 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  247 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  248 | David Shabelman           |  16.7 |        30 |              |               |
+|  249 | David Bratt               |  16.7 |        31 |              |         +0.26 |
+|  250 | Sahar Sareminaeni         |  16.6 |        36 |              |               |
+|  251 | Mark Priven               |  16.6 |        72 |              |               |
+|  252 | William Coleman           |  16.5 |        48 |              |               |
+|  253 | Mike Troxell              |  16.5 |         8 |              |               |
+|  254 | Wayne Heiser              |  16.5 |        53 |        -0.38 |         -0.91 |
 |  255 | Danish Mir                |  16.4 |         1 |              |               |
 |  256 | Paul Chang                |  16.3 |         7 |              |               |
 |  257 | Steven Hahm               |  16.3 |         5 |              |               |
@@ -327,14 +327,14 @@ Generated 2017-07-12.
 |  323 | Craig Hollow              |  12.8 |        20 |              |               |
 |  324 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  325 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  326 | Josh Shiode               |  12.6 |        20 |              |               |
-|  327 | Huw Lester                |  12.5 |         1 |              |               |
-|  328 | Richard Fabini            |  12.4 |         3 |              |               |
-|  329 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  330 | Rodrigo Calmet            |  12.4 |         8 |              |         +0.66 |
-|  331 | John Givens               |  12.2 |        13 |              |               |
-|  332 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  333 | Meldan Heaslip            |  12.1 |        31 |              |               |
+|  326 | Meldan Heaslip            |  12.6 |        32 |        +0.50 |               |
+|  327 | Josh Shiode               |  12.6 |        20 |              |               |
+|  328 | Huw Lester                |  12.5 |         1 |              |               |
+|  329 | Richard Fabini            |  12.4 |         3 |              |               |
+|  330 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
+|  331 | Rodrigo Calmet            |  12.4 |         8 |              |         +0.66 |
+|  332 | John Givens               |  12.2 |        13 |              |               |
+|  333 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  334 | Reed Foster               |  12.1 |         8 |              |               |
 |  335 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  336 | Larry Dale                |  11.9 |        29 |              |               |
