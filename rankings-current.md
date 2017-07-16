@@ -1,4 +1,4 @@
-Generated 2017-07-14.
+Generated 2017-07-16.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -20,9 +20,9 @@ Generated 2017-07-14.
 |   16 | Ankur Dave        |  17.8 |        76 |              |         +4.36 |
 |   17 | Sahar Sareminaeni |  16.6 |        36 |              |               |
 |   18 | Wayne Heiser      |  16.5 |        53 |        -0.38 |         -0.91 |
-|   19 | Sergey Dobrinov   |  14.6 |        23 |        +0.49 |               |
-|   20 | Diego Butrich     |  14.4 |        11 |        -0.58 |               |
-|   21 | Craig Hollow      |  12.8 |        20 |              |               |
+|   19 | Diego Butrich     |  14.4 |        11 |        -0.58 |               |
+|   20 | Sergey Dobrinov   |  14.3 |        24 |        +0.12 |               |
+|   21 | Craig Hollow      |  13.5 |        21 |        +0.69 |               |
 |   22 | Meldan Heaslip    |  12.6 |        32 |        +0.50 |               |
 |   23 | Josh Lebowitz     |  11.7 |        50 |              |         +4.12 |
 |   24 | Raphael Magarik   |  10.3 |        32 |        +0.73 |         +1.54 |

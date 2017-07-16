@@ -1,4 +1,4 @@
-Generated 2017-07-14.
+Generated 2017-07-16.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -291,17 +291,17 @@ Generated 2017-07-14.
 |  287 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  288 | David Elfant              |  14.7 |         2 |              |               |
 |  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  290 | Sergey Dobrinov           |  14.6 |        23 |        +0.49 |               |
-|  291 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  292 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  293 | Shai Vardi                |  14.5 |         4 |              |               |
-|  294 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  295 | Nikhil Paranjape          |  14.5 |        45 |              |         +2.87 |
-|  296 | Kent Daniels              |  14.4 |       106 |              |         -0.73 |
-|  297 | Max Woodworth             |  14.4 |         7 |              |               |
-|  298 | Diego Butrich             |  14.4 |        11 |        -0.58 |               |
-|  299 | Juliet Shih               |  14.4 |        11 |              |               |
-|  300 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  290 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  291 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  292 | Shai Vardi                |  14.5 |         4 |              |               |
+|  293 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  294 | Nikhil Paranjape          |  14.5 |        45 |              |         +2.87 |
+|  295 | Kent Daniels              |  14.4 |       106 |              |         -0.73 |
+|  296 | Max Woodworth             |  14.4 |         7 |              |               |
+|  297 | Diego Butrich             |  14.4 |        11 |        -0.58 |               |
+|  298 | Juliet Shih               |  14.4 |        11 |              |               |
+|  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  300 | Sergey Dobrinov           |  14.3 |        24 |        +0.12 |               |
 |  301 | Adam Soliman              |  14.2 |        32 |              |               |
 |  302 | Charles Denby             |  14.2 |         5 |              |               |
 |  303 | Neil Sachs                |  14.1 |        12 |              |               |
@@ -313,18 +313,18 @@ Generated 2017-07-14.
 |  309 | Tim Browning              |  13.8 |         7 |              |               |
 |  310 | Josephine Lee             |  13.7 |         6 |              |               |
 |  311 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  312 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  313 | Lars Foleide              |  13.5 |        11 |              |               |
-|  314 | Alex Rennet               |  13.5 |         2 |              |               |
-|  315 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  316 | Jake Toy                  |  13.4 |         5 |              |               |
-|  317 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  318 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  319 | Field Maloney             |  13.1 |        24 |              |               |
-|  320 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  321 | Lewis Moore               |  13.0 |        69 |              |               |
-|  322 | David Isaksson            |  12.9 |        22 |              |               |
-|  323 | Craig Hollow              |  12.8 |        20 |              |               |
+|  312 | Craig Hollow              |  13.5 |        21 |        +0.69 |               |
+|  313 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  314 | Lars Foleide              |  13.5 |        11 |              |               |
+|  315 | Alex Rennet               |  13.5 |         2 |              |               |
+|  316 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  317 | Jake Toy                  |  13.4 |         5 |              |               |
+|  318 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  319 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  320 | Field Maloney             |  13.1 |        24 |              |               |
+|  321 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  322 | Lewis Moore               |  13.0 |        69 |              |               |
+|  323 | David Isaksson            |  12.9 |        22 |              |               |
 |  324 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  325 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  326 | Meldan Heaslip            |  12.6 |        32 |        +0.50 |               |
