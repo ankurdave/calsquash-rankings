@@ -52,25 +52,25 @@ Generated 2017-07-16.
 |   48 | Peter McDermott           |  25.8 |        10 |              |               |
 |   49 | Andrew Hsu                |  25.8 |        15 |              |               |
 |   50 | Arvind Muralimohan        |  25.7 |        18 |              |               |
-|   51 | Richard Chan              |  25.5 |         9 |              |               |
-|   52 | Joe Schneider             |  25.5 |         8 |              |               |
-|   53 | Adam Angsten              |  25.4 |         3 |              |               |
-|   54 | Matt Nelson-Teutsch       |  25.4 |        10 |              |               |
-|   55 | Sean O'Nuallain           |  25.4 |        43 |              |               |
-|   56 | Rahul Gupta               |  25.3 |         7 |              |               |
-|   57 | Thomas Littleton          |  25.3 |         9 |              |               |
+|   51 | Thomas Littleton          |  25.6 |        10 |        +0.31 |               |
+|   52 | Richard Chan              |  25.5 |         9 |              |               |
+|   53 | Joe Schneider             |  25.5 |         8 |              |               |
+|   54 | Adam Angsten              |  25.4 |         3 |              |               |
+|   55 | Matt Nelson-Teutsch       |  25.4 |        10 |              |               |
+|   56 | Sean O'Nuallain           |  25.4 |        43 |              |               |
+|   57 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   58 | Paul Greene               |  25.2 |         8 |              |               |
 |   59 | Mukul Sud                 |  25.0 |         3 |              |               |
 |   60 | Sam McCormick             |  25.0 |        38 |              |         +4.37 |
 |   61 | Ben Seelig                |  25.0 |        69 |              |               |
 |   62 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   63 | Madhav Pai                |  24.9 |         5 |              |               |
-|   64 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   65 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   66 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   67 | Orion Hodson              |  24.8 |        31 |              |               |
-|   68 | Martin Stokes             |  24.7 |        12 |              |               |
-|   69 | John Kunze                |  24.7 |       324 |              |         -0.05 |
+|   64 | John Kunze                |  24.9 |       325 |        +0.24 |         +0.19 |
+|   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
+|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   67 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   68 | Orion Hodson              |  24.8 |        31 |              |               |
+|   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   72 | Greg Jizmagian            |  24.5 |        22 |              |               |
@@ -87,12 +87,12 @@ Generated 2017-07-16.
 |   83 | Vyas Sekar                |  24.1 |        17 |              |               |
 |   84 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   86 | Jim Veitch                |  24.1 |       454 |              |         -1.55 |
-|   87 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   88 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   89 | Matt Wong                 |  23.9 |        91 |              |         +2.21 |
-|   90 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   91 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   86 | Whit Eldredge             |  24.0 |         2 |              |               |
+|   87 | Ignacio Canals            |  24.0 |        21 |              |               |
+|   88 | Matt Wong                 |  23.9 |        91 |              |         +2.21 |
+|   89 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   90 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   91 | Jim Veitch                |  23.8 |       456 |        -0.28 |         -1.82 |
 |   92 | Joseff Farrell            |  23.8 |         5 |              |               |
 |   93 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.61 |
 |   94 | Matt Waid                 |  23.7 |        51 |              |               |
