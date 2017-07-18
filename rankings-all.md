@@ -1,4 +1,4 @@
-Generated 2017-07-16.
+Generated 2017-07-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -355,9 +355,9 @@ Generated 2017-07-16.
 |  351 | Dominick Ng               |  10.9 |        25 |              |               |
 |  352 | George Bentley            |  10.6 |         4 |              |               |
 |  353 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  354 | Brian Puglise             |  10.4 |         2 |              |               |
-|  355 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  356 | Raphael Magarik           |  10.3 |        32 |        +0.73 |         +1.54 |
+|  354 | Raphael Magarik           |  10.5 |        33 |        +0.86 |         +1.68 |
+|  355 | Brian Puglise             |  10.4 |         2 |              |               |
+|  356 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  357 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  358 | John Provine              |  10.2 |        16 |              |               |
 |  359 | Anthony Patterson         |  10.2 |         6 |              |               |
@@ -367,8 +367,8 @@ Generated 2017-07-16.
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.54 |
 |  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  366 | Nate Aden                 |   9.8 |        38 |        -0.08 |         +2.09 |
-|  367 | Daniel Schwartz           |   9.8 |        22 |              |         +0.61 |
+|  366 | Daniel Schwartz           |   9.8 |        22 |              |         +0.61 |
+|  367 | Nate Aden                 |   9.8 |        38 |        -0.08 |         +2.09 |
 |  368 | Myles Gordon              |   9.8 |        42 |              |               |
 |  369 | Jacob Bank                |   9.7 |         1 |              |               |
 |  370 | Gene Zubovich             |   9.7 |        19 |              |               |
@@ -426,7 +426,7 @@ Generated 2017-07-16.
 |  422 | Mikel Shybut              |   6.5 |         4 |              |               |
 |  423 | Markus Boese              |   6.5 |         1 |              |               |
 |  424 | Avi Flamholz              |   6.4 |         3 |              |               |
-|  425 | Terence Stotz             |   6.4 |         6 |        -0.71 |               |
+|  425 | Terence Stotz             |   6.4 |         6 |        -0.70 |               |
 |  426 | Dav Clark                 |   6.4 |         6 |              |               |
 |  427 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  428 | Rafael Silberblatt        |   6.1 |         5 |              |               |
@@ -445,9 +445,9 @@ Generated 2017-07-16.
 |  441 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  442 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  443 | Anuj Dawar                |   4.2 |        15 |              |               |
-|  444 | Zsolt Bartha              |   4.1 |        59 |        +0.11 |         -0.67 |
-|  445 | Annie Wong                |   4.0 |         3 |              |               |
-|  446 | Ryan                      |   4.0 |         3 |              |         +1.67 |
+|  444 | Annie Wong                |   4.0 |         3 |              |               |
+|  445 | Ryan                      |   4.0 |         3 |              |         +1.67 |
+|  446 | Zsolt Bartha              |   4.0 |        60 |              |         -0.78 |
 |  447 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  448 | Nakul Vakil               |   3.0 |         5 |              |         +2.86 |
 |  449 | Maria Garzon              |   3.0 |         5 |              |               |
