@@ -293,15 +293,15 @@ Generated 2017-07-17.
 |  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  290 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  291 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  292 | Shai Vardi                |  14.5 |         4 |              |               |
-|  293 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  294 | Nikhil Paranjape          |  14.5 |        45 |              |         +2.87 |
-|  295 | Kent Daniels              |  14.4 |       106 |              |         -0.73 |
-|  296 | Max Woodworth             |  14.4 |         7 |              |               |
-|  297 | Diego Butrich             |  14.4 |        11 |        -0.58 |               |
-|  298 | Juliet Shih               |  14.4 |        11 |              |               |
-|  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  300 | Sergey Dobrinov           |  14.3 |        24 |        +0.12 |               |
+|  292 | Sergey Dobrinov           |  14.6 |        25 |        +0.40 |               |
+|  293 | Shai Vardi                |  14.5 |         4 |              |               |
+|  294 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  295 | Nikhil Paranjape          |  14.5 |        45 |              |         +2.87 |
+|  296 | Kent Daniels              |  14.4 |       106 |              |         -0.73 |
+|  297 | Diego Butrich             |  14.4 |        11 |        -0.56 |               |
+|  298 | Max Woodworth             |  14.4 |         7 |              |               |
+|  299 | Juliet Shih               |  14.4 |        11 |              |               |
+|  300 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  301 | Adam Soliman              |  14.2 |        32 |              |               |
 |  302 | Charles Denby             |  14.2 |         5 |              |               |
 |  303 | Neil Sachs                |  14.1 |        12 |              |               |
@@ -313,7 +313,7 @@ Generated 2017-07-17.
 |  309 | Tim Browning              |  13.8 |         7 |              |               |
 |  310 | Josephine Lee             |  13.7 |         6 |              |               |
 |  311 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  312 | Craig Hollow              |  13.5 |        21 |        +0.69 |               |
+|  312 | Craig Hollow              |  13.5 |        21 |        +0.71 |               |
 |  313 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  314 | Lars Foleide              |  13.5 |        11 |              |               |
 |  315 | Alex Rennet               |  13.5 |         2 |              |               |
@@ -327,12 +327,12 @@ Generated 2017-07-17.
 |  323 | David Isaksson            |  12.9 |        22 |              |               |
 |  324 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  325 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  326 | Meldan Heaslip            |  12.6 |        32 |        +0.50 |               |
-|  327 | Josh Shiode               |  12.6 |        20 |              |               |
-|  328 | Huw Lester                |  12.5 |         1 |              |               |
-|  329 | Richard Fabini            |  12.4 |         3 |              |               |
-|  330 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  331 | Rodrigo Calmet            |  12.4 |         8 |              |         +0.66 |
+|  326 | Josh Shiode               |  12.6 |        20 |              |               |
+|  327 | Huw Lester                |  12.5 |         1 |              |               |
+|  328 | Richard Fabini            |  12.4 |         3 |              |               |
+|  329 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
+|  330 | Rodrigo Calmet            |  12.4 |         8 |              |         +0.66 |
+|  331 | Meldan Heaslip            |  12.4 |        33 |        +0.27 |               |
 |  332 | John Givens               |  12.2 |        13 |              |               |
 |  333 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  334 | Reed Foster               |  12.1 |         8 |              |               |

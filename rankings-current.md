@@ -20,10 +20,10 @@ Generated 2017-07-17.
 |   16 | Ankur Dave        |  17.8 |        76 |              |         +4.36 |
 |   17 | Sahar Sareminaeni |  16.6 |        36 |              |               |
 |   18 | Wayne Heiser      |  16.5 |        53 |        -0.38 |         -0.91 |
-|   19 | Diego Butrich     |  14.4 |        11 |        -0.58 |               |
-|   20 | Sergey Dobrinov   |  14.3 |        24 |        +0.12 |               |
-|   21 | Craig Hollow      |  13.5 |        21 |        +0.69 |               |
-|   22 | Meldan Heaslip    |  12.6 |        32 |        +0.50 |               |
+|   19 | Sergey Dobrinov   |  14.6 |        25 |        +0.40 |               |
+|   20 | Diego Butrich     |  14.4 |        11 |        -0.56 |               |
+|   21 | Craig Hollow      |  13.5 |        21 |        +0.71 |               |
+|   22 | Meldan Heaslip    |  12.4 |        33 |        +0.27 |               |
 |   23 | Josh Lebowitz     |  11.7 |        50 |              |         +4.12 |
 |   24 | Raphael Magarik   |  10.5 |        33 |        +0.86 |         +1.68 |
 |   25 | Nate Aden         |   9.8 |        38 |        -0.08 |         +2.09 |
