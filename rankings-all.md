@@ -1,10 +1,10 @@
-Generated 2017-07-17.
+Generated 2017-07-19.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant               |  36.8 |        28 |              |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +0.36 |
-|    3 | Ashley Kayler             |  34.6 |       218 |              |         -0.48 |
+|    3 | Ashley Kayler             |  34.4 |       220 |        -0.12 |         -0.60 |
 |    4 | Robert Lynn               |  34.4 |         7 |              |               |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -19,8 +19,8 @@ Generated 2017-07-17.
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
-|   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
-|   19 | Sam Sternberg             |  30.0 |       156 |        +0.06 |         -0.14 |
+|   18 | Sam Sternberg             |  30.2 |       157 |        +0.26 |         +0.06 |
+|   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
 |   21 | David Wood                |  29.7 |        43 |              |               |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
@@ -32,9 +32,9 @@ Generated 2017-07-17.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Frank Kennamer            |  27.3 |       230 |              |         +0.36 |
-|   32 | Anibhav Singla            |  27.3 |        23 |              |               |
-|   33 | Stephen Dang              |  27.2 |        34 |              |               |
+|   31 | Anibhav Singla            |  27.3 |        23 |              |               |
+|   32 | Stephen Dang              |  27.2 |        34 |              |               |
+|   33 | Frank Kennamer            |  27.2 |       231 |        -0.09 |         +0.27 |
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
 |   35 | Nick Cobbett              |  27.1 |        39 |        -0.04 |         +1.40 |
 |   36 | Hussain Raza              |  27.0 |        50 |              |               |
