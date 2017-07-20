@@ -1,4 +1,4 @@
-Generated 2017-07-19.
+Generated 2017-07-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -293,13 +293,13 @@ Generated 2017-07-19.
 |  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  290 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  291 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  292 | Sergey Dobrinov           |  14.6 |        25 |        +0.40 |               |
+|  292 | Sergey Dobrinov           |  14.5 |        25 |        +0.40 |               |
 |  293 | Shai Vardi                |  14.5 |         4 |              |               |
 |  294 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  295 | Nikhil Paranjape          |  14.5 |        45 |              |         +2.87 |
 |  296 | Kent Daniels              |  14.4 |       106 |              |         -0.73 |
-|  297 | Diego Butrich             |  14.4 |        11 |        -0.56 |               |
-|  298 | Max Woodworth             |  14.4 |         7 |              |               |
+|  297 | Max Woodworth             |  14.4 |         7 |              |               |
+|  298 | Diego Butrich             |  14.4 |        11 |        -0.58 |               |
 |  299 | Juliet Shih               |  14.4 |        11 |              |               |
 |  300 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  301 | Adam Soliman              |  14.2 |        32 |              |               |
@@ -331,8 +331,8 @@ Generated 2017-07-19.
 |  327 | Huw Lester                |  12.5 |         1 |              |               |
 |  328 | Richard Fabini            |  12.4 |         3 |              |               |
 |  329 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  330 | Rodrigo Calmet            |  12.4 |         8 |              |         +0.66 |
-|  331 | Meldan Heaslip            |  12.4 |        33 |        +0.27 |               |
+|  330 | Meldan Heaslip            |  12.4 |        33 |        +0.29 |               |
+|  331 | Rodrigo Calmet            |  12.4 |         8 |              |         +0.66 |
 |  332 | John Givens               |  12.2 |        13 |              |               |
 |  333 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  334 | Reed Foster               |  12.1 |         8 |              |               |
