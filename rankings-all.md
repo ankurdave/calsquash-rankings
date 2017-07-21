@@ -121,12 +121,12 @@ Generated 2017-07-20.
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
 |  119 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  120 | Jonathan Hankar           |  22.0 |       205 |              |         -0.04 |
-|  121 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  122 | Blake Woodard             |  22.0 |        10 |              |               |
-|  123 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  124 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  125 | Jan Beranek               |  21.9 |        46 |              |               |
+|  120 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  121 | Blake Woodard             |  22.0 |        10 |              |               |
+|  122 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  123 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  124 | Jan Beranek               |  21.9 |        46 |              |               |
+|  125 | Jonathan Hankar           |  21.9 |       206 |        -0.15 |         -0.20 |
 |  126 | Dan Meier                 |  21.8 |        70 |              |         -0.74 |
 |  127 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.78 |
 |  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
@@ -219,13 +219,13 @@ Generated 2017-07-20.
 |  215 | Josh Trauner              |  18.2 |        59 |              |         +0.64 |
 |  216 | Bob Roller                |  18.2 |         6 |              |               |
 |  217 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  218 | James Chung               |  17.9 |         7 |              |               |
-|  219 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  220 | Eric Borden               |  17.8 |        44 |              |         +0.21 |
-|  221 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
-|  222 | Nick Paget                |  17.8 |        35 |              |               |
-|  223 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  224 | Ankur Dave                |  17.8 |        76 |              |         +4.36 |
+|  218 | Ankur Dave                |  18.0 |        77 |        +0.16 |         +4.52 |
+|  219 | James Chung               |  17.9 |         7 |              |               |
+|  220 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  221 | Eric Borden               |  17.8 |        44 |              |         +0.21 |
+|  222 | Troup Howard              |  17.8 |        47 |              |         +0.19 |
+|  223 | Nick Paget                |  17.8 |        35 |              |               |
+|  224 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  225 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  226 | George Roche              |  17.7 |        14 |              |               |
 |  227 | Jim Kingsbury             |  17.6 |         2 |              |               |
