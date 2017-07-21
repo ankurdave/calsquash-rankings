@@ -255,11 +255,11 @@ Generated 2017-07-20.
 |  251 | Mark Priven               |  16.6 |        72 |              |               |
 |  252 | William Coleman           |  16.5 |        48 |              |               |
 |  253 | Mike Troxell              |  16.5 |         8 |              |               |
-|  254 | Wayne Heiser              |  16.5 |        53 |        -0.38 |         -0.91 |
-|  255 | Danish Mir                |  16.4 |         1 |              |               |
-|  256 | Paul Chang                |  16.3 |         7 |              |               |
-|  257 | Steven Hahm               |  16.3 |         5 |              |               |
-|  258 | Jules Bowie               |  16.3 |        12 |              |               |
+|  254 | Danish Mir                |  16.4 |         1 |              |               |
+|  255 | Paul Chang                |  16.3 |         7 |              |               |
+|  256 | Steven Hahm               |  16.3 |         5 |              |               |
+|  257 | Jules Bowie               |  16.3 |        12 |              |               |
+|  258 | Wayne Heiser              |  16.3 |        54 |        -0.60 |         -1.13 |
 |  259 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  260 | Jan Strasky               |  16.2 |        12 |              |               |
 |  261 | Sarah Mcneil              |  16.2 |        24 |              |               |
@@ -286,14 +286,14 @@ Generated 2017-07-20.
 |  282 | Mimi Zhang                |  14.9 |         6 |              |               |
 |  283 | Jeff Dorman               |  14.9 |        14 |              |               |
 |  284 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  285 | Paul Norberg              |  14.8 |         8 |              |               |
-|  286 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  287 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  288 | David Elfant              |  14.7 |         2 |              |               |
-|  289 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  290 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  291 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  292 | Sergey Dobrinov           |  14.5 |        25 |        +0.40 |               |
+|  285 | Sergey Dobrinov           |  14.9 |        26 |        +0.74 |               |
+|  286 | Paul Norberg              |  14.8 |         8 |              |               |
+|  287 | Frederick Bayles          |  14.8 |         8 |              |               |
+|  288 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  289 | David Elfant              |  14.7 |         2 |              |               |
+|  290 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  291 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  292 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  293 | Shai Vardi                |  14.5 |         4 |              |               |
 |  294 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  295 | Nikhil Paranjape          |  14.5 |        45 |              |         +2.87 |
@@ -313,7 +313,7 @@ Generated 2017-07-20.
 |  309 | Tim Browning              |  13.8 |         7 |              |               |
 |  310 | Josephine Lee             |  13.7 |         6 |              |               |
 |  311 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  312 | Craig Hollow              |  13.5 |        21 |        +0.71 |               |
+|  312 | Craig Hollow              |  13.6 |        21 |        +0.73 |               |
 |  313 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  314 | Lars Foleide              |  13.5 |        11 |              |               |
 |  315 | Alex Rennet               |  13.5 |         2 |              |               |
@@ -331,7 +331,7 @@ Generated 2017-07-20.
 |  327 | Huw Lester                |  12.5 |         1 |              |               |
 |  328 | Richard Fabini            |  12.4 |         3 |              |               |
 |  329 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  330 | Meldan Heaslip            |  12.4 |        33 |        +0.29 |               |
+|  330 | Meldan Heaslip            |  12.4 |        33 |        +0.30 |               |
 |  331 | Rodrigo Calmet            |  12.4 |         8 |              |         +0.66 |
 |  332 | John Givens               |  12.2 |        13 |              |               |
 |  333 | Sylvan Arevalo            |  12.2 |         3 |              |               |

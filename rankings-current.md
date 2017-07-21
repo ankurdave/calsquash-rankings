@@ -19,11 +19,11 @@ Generated 2017-07-20.
 |   15 | Mike Jensen-Akula |  19.7 |       227 |              |         -0.51 |
 |   16 | Ankur Dave        |  18.0 |        77 |        +0.16 |         +4.52 |
 |   17 | Sahar Sareminaeni |  16.6 |        36 |              |               |
-|   18 | Wayne Heiser      |  16.5 |        53 |        -0.38 |         -0.91 |
-|   19 | Sergey Dobrinov   |  14.5 |        25 |        +0.40 |               |
+|   18 | Wayne Heiser      |  16.3 |        54 |        -0.60 |         -1.13 |
+|   19 | Sergey Dobrinov   |  14.9 |        26 |        +0.74 |               |
 |   20 | Diego Butrich     |  14.4 |        11 |        -0.58 |               |
-|   21 | Craig Hollow      |  13.5 |        21 |        +0.71 |               |
-|   22 | Meldan Heaslip    |  12.4 |        33 |        +0.29 |               |
+|   21 | Craig Hollow      |  13.6 |        21 |        +0.73 |               |
+|   22 | Meldan Heaslip    |  12.4 |        33 |        +0.30 |               |
 |   23 | Josh Lebowitz     |  11.7 |        50 |              |         +4.12 |
 |   24 | Raphael Magarik   |  10.5 |        33 |        +0.86 |         +1.68 |
 |   25 | Nate Aden         |   9.8 |        38 |        -0.08 |         +2.09 |
