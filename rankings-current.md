@@ -1,4 +1,4 @@
-Generated 2017-07-20.
+Generated 2017-07-21.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -8,21 +8,21 @@ Generated 2017-07-20.
 |    4 | Anibhav Singla    |  27.3 |        23 |              |               |
 |    5 | Frank Kennamer    |  27.2 |       231 |        -0.09 |         +0.27 |
 |    6 | Nick Cobbett      |  27.1 |        39 |        -0.04 |         +1.40 |
-|    7 | Thomas Littleton  |  25.6 |        10 |        +0.31 |               |
-|    8 | John Kunze        |  24.9 |       325 |        +0.24 |         +0.19 |
-|    9 | Jim Veitch        |  23.8 |       456 |        -0.28 |         -1.82 |
+|    7 | Thomas Littleton  |  25.5 |        10 |        +0.28 |               |
+|    8 | John Kunze        |  24.9 |       325 |        +0.25 |         +0.19 |
+|    9 | Jim Veitch        |  23.8 |       456 |        -0.27 |         -1.82 |
 |   10 | Dan Bohn          |  23.3 |       102 |              |         -0.41 |
-|   11 | Jonathan Hankar   |  21.9 |       206 |        -0.15 |         -0.20 |
+|   11 | Jonathan Hankar   |  22.1 |       207 |        +0.04 |               |
 |   12 | Dan Meier         |  21.8 |        70 |              |         -0.74 |
-|   13 | Mark Modera       |  20.5 |       332 |              |         -0.71 |
+|   13 | Mark Modera       |  20.3 |       333 |        -0.21 |         -0.92 |
 |   14 | Carl Schreck      |  20.2 |         2 |              |               |
 |   15 | Mike Jensen-Akula |  19.7 |       227 |              |         -0.51 |
-|   16 | Ankur Dave        |  18.0 |        77 |        +0.16 |         +4.52 |
+|   16 | Ankur Dave        |  18.0 |        77 |        +0.17 |         +4.53 |
 |   17 | Sahar Sareminaeni |  16.6 |        36 |              |               |
-|   18 | Wayne Heiser      |  16.3 |        54 |        -0.60 |         -1.13 |
+|   18 | Wayne Heiser      |  16.5 |        55 |        -0.43 |         -0.96 |
 |   19 | Sergey Dobrinov   |  14.9 |        26 |        +0.74 |               |
 |   20 | Diego Butrich     |  14.4 |        11 |        -0.58 |               |
-|   21 | Craig Hollow      |  13.6 |        21 |        +0.73 |               |
+|   21 | Craig Hollow      |  13.3 |        22 |        +0.45 |               |
 |   22 | Meldan Heaslip    |  12.4 |        33 |        +0.30 |               |
 |   23 | Josh Lebowitz     |  11.7 |        50 |              |         +4.12 |
 |   24 | Raphael Magarik   |  10.5 |        33 |        +0.86 |         +1.68 |
