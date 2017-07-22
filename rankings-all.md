@@ -1,4 +1,4 @@
-Generated 2017-07-21.
+Generated 2017-07-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -163,13 +163,13 @@ Generated 2017-07-21.
 |  159 | Steven Sloman             |  20.4 |        10 |              |               |
 |  160 | Marc Schechter            |  20.4 |        14 |              |               |
 |  161 | Jeff Gordon               |  20.3 |        46 |              |         +1.56 |
-|  162 | Mark Modera               |  20.3 |       333 |        -0.21 |         -0.92 |
-|  163 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  164 | Carl Schreck              |  20.2 |         2 |              |               |
-|  165 | John Grim                 |  20.1 |        13 |              |               |
-|  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  167 | Frank Kennan              |  20.1 |        11 |              |               |
-|  168 | Robert Schwartz           |  20.1 |        90 |              |         -1.11 |
+|  162 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  163 | Carl Schreck              |  20.2 |         2 |              |               |
+|  164 | John Grim                 |  20.1 |        13 |              |               |
+|  165 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  166 | Frank Kennan              |  20.1 |        11 |              |               |
+|  167 | Robert Schwartz           |  20.1 |        90 |              |         -1.11 |
+|  168 | Mark Modera               |  20.1 |       334 |        -0.47 |         -1.18 |
 |  169 | Shaun Lim                 |  20.0 |        64 |              |         +1.95 |
 |  170 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  171 | Jonathan Francis          |  20.0 |        76 |              |         +0.32 |
@@ -214,12 +214,12 @@ Generated 2017-07-21.
 |  210 | Natalie Leung             |  18.4 |         1 |              |               |
 |  211 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  212 | Dror Matalon              |  18.3 |       372 |              |         +0.32 |
-|  213 | Kenny Bell                |  18.2 |       124 |              |         -0.77 |
-|  214 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  215 | Josh Trauner              |  18.2 |        59 |              |         +0.64 |
-|  216 | Bob Roller                |  18.2 |         6 |              |               |
-|  217 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  218 | Ankur Dave                |  18.0 |        77 |        +0.17 |         +4.53 |
+|  213 | Ankur Dave                |  18.2 |        78 |        +0.45 |         +4.81 |
+|  214 | Kenny Bell                |  18.2 |       124 |              |         -0.77 |
+|  215 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  216 | Josh Trauner              |  18.2 |        59 |              |         +0.64 |
+|  217 | Bob Roller                |  18.2 |         6 |              |               |
+|  218 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  219 | James Chung               |  17.9 |         7 |              |               |
 |  220 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  221 | Eric Borden               |  17.8 |        44 |              |         +0.21 |

@@ -1,4 +1,4 @@
-Generated 2017-07-21.
+Generated 2017-07-22.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -14,10 +14,10 @@ Generated 2017-07-21.
 |   10 | Dan Bohn          |  23.3 |       102 |              |         -0.41 |
 |   11 | Jonathan Hankar   |  22.1 |       207 |        +0.04 |               |
 |   12 | Dan Meier         |  21.8 |        70 |              |         -0.74 |
-|   13 | Mark Modera       |  20.3 |       333 |        -0.21 |         -0.92 |
-|   14 | Carl Schreck      |  20.2 |         2 |              |               |
+|   13 | Carl Schreck      |  20.2 |         2 |              |               |
+|   14 | Mark Modera       |  20.1 |       334 |        -0.47 |         -1.18 |
 |   15 | Mike Jensen-Akula |  19.7 |       227 |              |         -0.51 |
-|   16 | Ankur Dave        |  18.0 |        77 |        +0.17 |         +4.53 |
+|   16 | Ankur Dave        |  18.2 |        78 |        +0.45 |         +4.81 |
 |   17 | Sahar Sareminaeni |  16.6 |        36 |              |               |
 |   18 | Wayne Heiser      |  16.5 |        55 |        -0.43 |         -0.96 |
 |   19 | Sergey Dobrinov   |  14.9 |        26 |        +0.74 |               |
