@@ -1,4 +1,4 @@
-Generated 2017-07-22.
+Generated 2017-07-23.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -251,11 +251,11 @@ Generated 2017-07-22.
 |  247 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  248 | David Shabelman           |  16.7 |        30 |              |               |
 |  249 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  250 | Sahar Sareminaeni         |  16.6 |        36 |              |               |
-|  251 | Mark Priven               |  16.6 |        72 |              |               |
-|  252 | William Coleman           |  16.5 |        48 |              |               |
-|  253 | Mike Troxell              |  16.5 |         8 |              |               |
-|  254 | Wayne Heiser              |  16.5 |        55 |        -0.43 |         -0.96 |
+|  250 | Wayne Heiser              |  16.6 |        56 |        -0.28 |         -0.81 |
+|  251 | Sahar Sareminaeni         |  16.6 |        36 |              |               |
+|  252 | Mark Priven               |  16.6 |        72 |              |               |
+|  253 | William Coleman           |  16.5 |        48 |              |               |
+|  254 | Mike Troxell              |  16.5 |         8 |              |               |
 |  255 | Danish Mir                |  16.4 |         1 |              |               |
 |  256 | Paul Chang                |  16.3 |         7 |              |               |
 |  257 | Steven Hahm               |  16.3 |         5 |              |               |
@@ -504,22 +504,23 @@ Generated 2017-07-22.
 |  500 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  501 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  502 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  503 | Matthew Flairty           |  -1.4 |         2 |              |               |
-|  504 | Nick Firmani              |  -1.6 |         3 |              |               |
-|  505 | Ann Connolly              |  -1.9 |         4 |              |               |
-|  506 | Judah Purcell             |  -2.2 |         1 |              |               |
-|  507 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
-|  508 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
-|  509 | James Redfield            |  -2.9 |         3 |              |               |
-|  510 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  511 | Vipul Gupta               |  -3.3 |         3 |              |               |
-|  512 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  513 | Tin Do                    |  -4.0 |         1 |              |               |
-|  514 | Yifan Wu                  |  -4.0 |         7 |              |               |
-|  515 | Susan Grand               |  -4.3 |         3 |              |               |
-|  516 | Cecilia Shan Cao          |  -4.7 |         1 |              |               |
-|  517 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
-|  518 | Sara Green                |  -5.8 |         1 |              |               |
-|  519 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  520 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  521 | Navarun Jain              | -12.3 |         2 |              |               |
+|  503 | John Hwong                |  -0.8 |         1 |              |               |
+|  504 | Matthew Flairty           |  -1.4 |         2 |              |               |
+|  505 | Nick Firmani              |  -1.6 |         3 |              |               |
+|  506 | Ann Connolly              |  -1.9 |         4 |              |               |
+|  507 | Judah Purcell             |  -2.2 |         1 |              |               |
+|  508 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
+|  509 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
+|  510 | James Redfield            |  -2.9 |         3 |              |               |
+|  511 | Jenny Cheng               |  -3.2 |         1 |              |               |
+|  512 | Vipul Gupta               |  -3.3 |         3 |              |               |
+|  513 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  514 | Tin Do                    |  -4.0 |         1 |              |               |
+|  515 | Yifan Wu                  |  -4.0 |         7 |              |               |
+|  516 | Susan Grand               |  -4.3 |         3 |              |               |
+|  517 | Cecilia Shan Cao          |  -4.7 |         1 |              |               |
+|  518 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
+|  519 | Sara Green                |  -5.8 |         1 |              |               |
+|  520 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  521 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  522 | Navarun Jain              | -12.3 |         2 |              |               |

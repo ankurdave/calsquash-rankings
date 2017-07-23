@@ -1,4 +1,4 @@
-Generated 2017-07-22.
+Generated 2017-07-23.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -18,8 +18,8 @@ Generated 2017-07-22.
 |   14 | Mark Modera       |  20.1 |       334 |        -0.47 |         -1.18 |
 |   15 | Mike Jensen-Akula |  19.7 |       227 |              |         -0.51 |
 |   16 | Ankur Dave        |  18.2 |        78 |        +0.45 |         +4.81 |
-|   17 | Sahar Sareminaeni |  16.6 |        36 |              |               |
-|   18 | Wayne Heiser      |  16.5 |        55 |        -0.43 |         -0.96 |
+|   17 | Wayne Heiser      |  16.6 |        56 |        -0.28 |         -0.81 |
+|   18 | Sahar Sareminaeni |  16.6 |        36 |              |               |
 |   19 | Sergey Dobrinov   |  14.9 |        26 |        +0.74 |               |
 |   20 | Diego Butrich     |  14.4 |        11 |        -0.58 |               |
 |   21 | Craig Hollow      |  13.3 |        22 |        +0.45 |               |
@@ -34,4 +34,5 @@ Generated 2017-07-22.
 |   30 | Zsolt Bartha      |   4.0 |        60 |              |         -0.78 |
 |   31 | Sagar Pilania     |   1.9 |         1 |              |               |
 |   32 | Duncan MacRae     |  -0.4 |        22 |              |               |
-|   33 | Cecilia Shan Cao  |  -4.7 |         1 |              |               |
+|   33 | John Hwong        |  -0.8 |         1 |              |               |
+|   34 | Cecilia Shan Cao  |  -4.7 |         1 |              |               |
