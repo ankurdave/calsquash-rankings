@@ -355,15 +355,15 @@ Generated 2017-07-24.
 |  351 | Dominick Ng               |  10.9 |        25 |              |               |
 |  352 | George Bentley            |  10.6 |         4 |              |               |
 |  353 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  354 | Brian Puglise             |  10.4 |         2 |              |               |
-|  355 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  356 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  357 | John Provine              |  10.2 |        16 |              |               |
-|  358 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  359 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  360 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  361 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  362 | Raphael Magarik           |  10.1 |        32 |        +0.50 |         +1.31 |
+|  354 | Raphael Magarik           |  10.5 |        33 |        +0.86 |         +1.68 |
+|  355 | Brian Puglise             |  10.4 |         2 |              |               |
+|  356 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  357 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  358 | John Provine              |  10.2 |        16 |              |               |
+|  359 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  360 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  361 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  362 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.54 |
 |  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
@@ -418,15 +418,15 @@ Generated 2017-07-24.
 |  414 | Alex Walters              |   7.4 |         3 |              |               |
 |  415 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
 |  416 | Keaton Noon               |   7.2 |        23 |              |         +1.45 |
-|  417 | Terence Stotz             |   7.1 |         5 |              |               |
-|  418 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
-|  419 | Brookes Degen             |   6.8 |         6 |              |               |
-|  420 | Joshua Braver             |   6.5 |         1 |              |               |
-|  421 | Alok Singh                |   6.5 |        18 |              |         +0.49 |
-|  422 | Pablo Paredes             |   6.5 |         1 |              |               |
-|  423 | Mikel Shybut              |   6.5 |         4 |              |               |
-|  424 | Markus Boese              |   6.5 |         1 |              |               |
-|  425 | Avi Flamholz              |   6.4 |         3 |              |               |
+|  417 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
+|  418 | Brookes Degen             |   6.8 |         6 |              |               |
+|  419 | Joshua Braver             |   6.5 |         1 |              |               |
+|  420 | Alok Singh                |   6.5 |        18 |              |         +0.49 |
+|  421 | Pablo Paredes             |   6.5 |         1 |              |               |
+|  422 | Mikel Shybut              |   6.5 |         4 |              |               |
+|  423 | Markus Boese              |   6.5 |         1 |              |               |
+|  424 | Avi Flamholz              |   6.4 |         3 |              |               |
+|  425 | Terence Stotz             |   6.4 |         6 |        -0.70 |               |
 |  426 | Dav Clark                 |   6.4 |         6 |              |               |
 |  427 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  428 | Rafael Silberblatt        |   6.1 |         5 |              |               |
