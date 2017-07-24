@@ -35,7 +35,7 @@ Generated 2017-07-23.
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
 |   32 | Frank Kennamer            |  27.2 |       231 |        -0.09 |         +0.27 |
 |   33 | Samer Shehata             |  27.2 |        29 |              |               |
-|   34 | Anibhav Singla            |  27.1 |        24 |        -0.18 |               |
+|   34 | Anibhav Singla            |  27.1 |        24 |        -0.15 |               |
 |   35 | Nick Cobbett              |  27.1 |        39 |        -0.04 |         +1.40 |
 |   36 | Hussain Raza              |  27.0 |        50 |              |               |
 |   37 | Nauman Sardar             |  26.9 |        40 |              |               |
@@ -52,7 +52,7 @@ Generated 2017-07-23.
 |   48 | Peter McDermott           |  25.8 |        10 |              |               |
 |   49 | Andrew Hsu                |  25.8 |        15 |              |               |
 |   50 | Arvind Muralimohan        |  25.7 |        18 |              |               |
-|   51 | Thomas Littleton          |  25.6 |        10 |        +0.30 |               |
+|   51 | Thomas Littleton          |  25.6 |        10 |        +0.33 |               |
 |   52 | Richard Chan              |  25.5 |         9 |              |               |
 |   53 | Joe Schneider             |  25.5 |         8 |              |               |
 |   54 | Adam Angsten              |  25.4 |         3 |              |               |
@@ -65,7 +65,7 @@ Generated 2017-07-23.
 |   61 | Ben Seelig                |  25.0 |        69 |              |               |
 |   62 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   63 | Madhav Pai                |  24.9 |         5 |              |               |
-|   64 | John Kunze                |  24.9 |       325 |        +0.25 |         +0.19 |
+|   64 | John Kunze                |  24.9 |       325 |        +0.25 |         +0.20 |
 |   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
 |   66 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   67 | Sushil Shetty             |  24.8 |        23 |              |               |
@@ -88,7 +88,7 @@ Generated 2017-07-23.
 |   84 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   86 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   87 | Jim Veitch                |  24.0 |       457 |        -0.11 |         -1.65 |
+|   87 | Jim Veitch                |  24.0 |       458 |        -0.08 |         -1.63 |
 |   88 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   89 | Matt Wong                 |  23.9 |        91 |              |         +2.21 |
 |   90 | Glenn Forrester           |  23.9 |       355 |              |               |
@@ -101,7 +101,7 @@ Generated 2017-07-23.
 |   97 | Amy Lee                   |  23.6 |        56 |              |               |
 |   98 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |   99 | Garvin Heath              |  23.4 |        28 |              |               |
-|  100 | Dan Bohn                  |  23.3 |       102 |              |         -0.41 |
+|  100 | Dan Bohn                  |  23.3 |       103 |        -0.03 |         -0.44 |
 |  101 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |

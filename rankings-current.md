@@ -6,12 +6,12 @@ Generated 2017-07-23.
 |    2 | Eric Katerman     |  33.2 |        54 |              |         +3.05 |
 |    3 | Sam Sternberg     |  30.2 |       157 |        +0.26 |         +0.06 |
 |    4 | Frank Kennamer    |  27.2 |       231 |        -0.09 |         +0.27 |
-|    5 | Anibhav Singla    |  27.1 |        24 |        -0.18 |               |
+|    5 | Anibhav Singla    |  27.1 |        24 |        -0.15 |               |
 |    6 | Nick Cobbett      |  27.1 |        39 |        -0.04 |         +1.40 |
-|    7 | Thomas Littleton  |  25.6 |        10 |        +0.30 |               |
-|    8 | John Kunze        |  24.9 |       325 |        +0.25 |         +0.19 |
-|    9 | Jim Veitch        |  24.0 |       457 |        -0.11 |         -1.65 |
-|   10 | Dan Bohn          |  23.3 |       102 |              |         -0.41 |
+|    7 | Thomas Littleton  |  25.6 |        10 |        +0.33 |               |
+|    8 | John Kunze        |  24.9 |       325 |        +0.25 |         +0.20 |
+|    9 | Jim Veitch        |  24.0 |       458 |        -0.08 |         -1.63 |
+|   10 | Dan Bohn          |  23.3 |       103 |        -0.03 |         -0.44 |
 |   11 | Jonathan Hankar   |  22.1 |       207 |        +0.04 |               |
 |   12 | Dan Meier         |  21.8 |        70 |              |         -0.74 |
 |   13 | Carl Schreck      |  20.2 |         2 |              |               |
