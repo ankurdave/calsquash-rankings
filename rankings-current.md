@@ -16,7 +16,7 @@ Generated 2017-07-23.
 |   12 | Dan Meier         |  21.8 |        70 |              |         -0.74 |
 |   13 | Carl Schreck      |  20.2 |         2 |              |               |
 |   14 | Mark Modera       |  20.1 |       334 |        -0.47 |         -1.18 |
-|   15 | Mike Jensen-Akula |  19.7 |       227 |              |         -0.51 |
+|   15 | Mike Jensen-Akula |  19.8 |       228 |        +0.06 |         -0.45 |
 |   16 | Ankur Dave        |  18.2 |        78 |        +0.45 |         +4.81 |
 |   17 | Wayne Heiser      |  16.6 |        56 |        -0.28 |         -0.81 |
 |   18 | Sahar Sareminaeni |  16.6 |        36 |              |               |
@@ -24,7 +24,7 @@ Generated 2017-07-23.
 |   20 | Diego Butrich     |  14.4 |        11 |        -0.58 |               |
 |   21 | Craig Hollow      |  13.3 |        22 |        +0.45 |               |
 |   22 | Meldan Heaslip    |  12.4 |        33 |        +0.30 |               |
-|   23 | Josh Lebowitz     |  11.7 |        50 |              |         +4.12 |
+|   23 | Josh Lebowitz     |  11.6 |        51 |        -0.08 |         +4.04 |
 |   24 | Raphael Magarik   |  10.5 |        33 |        +0.86 |         +1.68 |
 |   25 | Nate Aden         |   9.8 |        38 |        -0.08 |         +2.09 |
 |   26 | Duo Wang          |   9.0 |        73 |        +0.26 |         +0.74 |

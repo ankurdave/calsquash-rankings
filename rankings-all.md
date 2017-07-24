@@ -176,8 +176,8 @@ Generated 2017-07-23.
 |  172 | Wesley Huang              |  20.0 |         8 |              |               |
 |  173 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  174 | Liam King                 |  19.9 |         6 |              |               |
-|  175 | Lysander Jim              |  19.8 |         6 |              |               |
-|  176 | Mike Jensen-Akula         |  19.7 |       227 |              |         -0.51 |
+|  175 | Mike Jensen-Akula         |  19.8 |       228 |        +0.06 |         -0.45 |
+|  176 | Lysander Jim              |  19.8 |         6 |              |               |
 |  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  178 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  179 | Mike Delanty              |  19.7 |        12 |              |               |
@@ -341,9 +341,9 @@ Generated 2017-07-23.
 |  337 | Aman Gupta                |  11.8 |         3 |              |               |
 |  338 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  339 | Julian Gill               |  11.8 |         1 |              |               |
-|  340 | Josh Lebowitz             |  11.7 |        50 |              |         +4.12 |
-|  341 | James Shinn               |  11.7 |       120 |              |               |
-|  342 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  340 | James Shinn               |  11.7 |       120 |              |               |
+|  341 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  342 | Josh Lebowitz             |  11.6 |        51 |        -0.08 |         +4.04 |
 |  343 | Min Joon Seo              |  11.6 |         3 |              |               |
 |  344 | David Appelfeld           |  11.6 |        26 |              |               |
 |  345 | Virginie Letschert        |  11.6 |        18 |              |               |
