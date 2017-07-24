@@ -32,10 +32,10 @@ Generated 2017-07-23.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Anibhav Singla            |  27.3 |        23 |              |               |
-|   32 | Stephen Dang              |  27.2 |        34 |              |               |
-|   33 | Frank Kennamer            |  27.2 |       231 |        -0.09 |         +0.27 |
-|   34 | Samer Shehata             |  27.2 |        29 |              |               |
+|   31 | Stephen Dang              |  27.2 |        34 |              |               |
+|   32 | Frank Kennamer            |  27.2 |       231 |        -0.09 |         +0.27 |
+|   33 | Samer Shehata             |  27.2 |        29 |              |               |
+|   34 | Anibhav Singla            |  27.1 |        24 |        -0.18 |               |
 |   35 | Nick Cobbett              |  27.1 |        39 |        -0.04 |         +1.40 |
 |   36 | Hussain Raza              |  27.0 |        50 |              |               |
 |   37 | Nauman Sardar             |  26.9 |        40 |              |               |
@@ -52,7 +52,7 @@ Generated 2017-07-23.
 |   48 | Peter McDermott           |  25.8 |        10 |              |               |
 |   49 | Andrew Hsu                |  25.8 |        15 |              |               |
 |   50 | Arvind Muralimohan        |  25.7 |        18 |              |               |
-|   51 | Thomas Littleton          |  25.5 |        10 |        +0.28 |               |
+|   51 | Thomas Littleton          |  25.6 |        10 |        +0.30 |               |
 |   52 | Richard Chan              |  25.5 |         9 |              |               |
 |   53 | Joe Schneider             |  25.5 |         8 |              |               |
 |   54 | Adam Angsten              |  25.4 |         3 |              |               |
@@ -88,11 +88,11 @@ Generated 2017-07-23.
 |   84 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   86 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   87 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   88 | Matt Wong                 |  23.9 |        91 |              |         +2.21 |
-|   89 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   90 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   91 | Jim Veitch                |  23.8 |       456 |        -0.27 |         -1.82 |
+|   87 | Jim Veitch                |  24.0 |       457 |        -0.11 |         -1.65 |
+|   88 | Ignacio Canals            |  24.0 |        21 |              |               |
+|   89 | Matt Wong                 |  23.9 |        91 |              |         +2.21 |
+|   90 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   91 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   92 | Joseff Farrell            |  23.8 |         5 |              |               |
 |   93 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.61 |
 |   94 | Matt Waid                 |  23.7 |        51 |              |               |
