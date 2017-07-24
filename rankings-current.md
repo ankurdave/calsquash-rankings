@@ -28,11 +28,11 @@ Generated 2017-07-23.
 |   24 | Raphael Magarik   |  10.5 |        33 |        +0.86 |         +1.68 |
 |   25 | Nate Aden         |   9.8 |        38 |        -0.08 |         +2.09 |
 |   26 | Duo Wang          |   9.0 |        73 |        +0.26 |         +0.74 |
-|   27 | Sumit Gupta       |   8.4 |         9 |        +1.27 |               |
-|   28 | Brian Kempenich   |   8.2 |        47 |        -0.23 |         -0.25 |
+|   27 | Brian Kempenich   |   8.2 |        47 |        -0.23 |         -0.25 |
+|   28 | Sumit Gupta       |   7.9 |        10 |        +0.81 |               |
 |   29 | Terence Stotz     |   6.4 |         6 |        -0.70 |               |
 |   30 | Zsolt Bartha      |   4.0 |        60 |              |         -0.78 |
-|   31 | Sagar Pilania     |   1.9 |         1 |              |               |
-|   32 | Duncan MacRae     |  -0.4 |        22 |              |               |
+|   31 | Sagar Pilania     |   2.7 |         2 |              |               |
+|   32 | Duncan MacRae     |   0.1 |        24 |        +0.47 |               |
 |   33 | John Hwong        |  -0.8 |         1 |              |               |
 |   34 | Cecilia Shan Cao  |  -4.7 |         1 |              |               |

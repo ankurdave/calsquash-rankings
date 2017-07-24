@@ -394,20 +394,20 @@ Generated 2017-07-23.
 |  390 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  391 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  392 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  393 | Sumit Gupta               |   8.4 |         9 |        +1.27 |               |
-|  394 | Reynold Xin               |   8.3 |         5 |              |               |
-|  395 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  396 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  397 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  398 | Brian Kempenich           |   8.2 |        47 |        -0.23 |         -0.25 |
-|  399 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  400 | John Coates               |   8.1 |         9 |              |               |
-|  401 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  402 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  403 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  404 | Zarina Khan               |   8.0 |         5 |              |               |
-|  405 | Chip Malt                 |   7.9 |         4 |              |               |
-|  406 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  393 | Reynold Xin               |   8.3 |         5 |              |               |
+|  394 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  395 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  396 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  397 | Brian Kempenich           |   8.2 |        47 |        -0.23 |         -0.25 |
+|  398 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  399 | John Coates               |   8.1 |         9 |              |               |
+|  400 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  401 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  402 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  403 | Zarina Khan               |   8.0 |         5 |              |               |
+|  404 | Chip Malt                 |   7.9 |         4 |              |               |
+|  405 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  406 | Sumit Gupta               |   7.9 |        10 |        +0.81 |               |
 |  407 | Minsoo Bae                |   7.9 |         2 |              |               |
 |  408 | Akira Chiwaki             |   7.8 |         3 |              |               |
 |  409 | Felipe Gomez              |   7.7 |         4 |              |               |
@@ -454,14 +454,14 @@ Generated 2017-07-23.
 |  450 | Nadir Shams               |   3.0 |         2 |              |               |
 |  451 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  452 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  453 | David Vogel               |   2.6 |         7 |              |               |
-|  454 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  455 | Cristhian Daniel          |   2.3 |        19 |              |         +3.41 |
-|  456 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  457 | Phil Lin                  |   2.1 |         1 |              |               |
-|  458 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  459 | Adeesh Goel               |   1.9 |         3 |              |               |
-|  460 | Sagar Pilania             |   1.9 |         1 |              |               |
+|  453 | Sagar Pilania             |   2.7 |         2 |              |               |
+|  454 | David Vogel               |   2.6 |         7 |              |               |
+|  455 | Xavier Vendrell           |   2.5 |         3 |              |               |
+|  456 | Cristhian Daniel          |   2.3 |        19 |              |         +3.41 |
+|  457 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  458 | Phil Lin                  |   2.1 |         1 |              |               |
+|  459 | Alexis Madrigal           |   2.1 |         2 |              |               |
+|  460 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  461 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  462 | Himanshu Chandra          |   1.8 |         4 |              |               |
 |  463 | David Gundry              |   1.7 |         3 |              |               |
@@ -489,13 +489,13 @@ Generated 2017-07-23.
 |  485 | Stuart Fox                |   0.2 |         1 |              |               |
 |  486 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  487 | Rachel Chiu               |   0.1 |         2 |              |               |
-|  488 | Sandra Harpster           |  -0.1 |         5 |              |               |
-|  489 | Stephen Garden            |  -0.2 |         2 |              |               |
-|  490 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
-|  491 | Wyss Roman                |  -0.3 |         2 |              |               |
-|  492 | Jane Pan                  |  -0.4 |         1 |              |               |
-|  493 | Enrico Moretti            |  -0.4 |         1 |              |               |
-|  494 | Duncan MacRae             |  -0.4 |        22 |              |               |
+|  488 | Duncan MacRae             |   0.1 |        24 |        +0.47 |               |
+|  489 | Sandra Harpster           |  -0.1 |         5 |              |               |
+|  490 | Stephen Garden            |  -0.2 |         2 |              |               |
+|  491 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
+|  492 | Wyss Roman                |  -0.3 |         2 |              |               |
+|  493 | Jane Pan                  |  -0.4 |         1 |              |               |
+|  494 | Enrico Moretti            |  -0.4 |         1 |              |               |
 |  495 | Greg Rybka                |  -0.4 |         4 |              |               |
 |  496 | Klim Efremenko            |  -0.5 |         4 |              |               |
 |  497 | Rodrigo Lasheras          |  -0.5 |         3 |              |               |
