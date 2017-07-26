@@ -1,14 +1,14 @@
-Generated 2017-07-24.
+Generated 2017-07-25.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant               |  36.8 |        28 |              |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +0.36 |
-|    3 | Ashley Kayler             |  34.4 |       220 |        -0.12 |         -0.60 |
-|    4 | Robert Lynn               |  34.4 |         7 |              |               |
+|    3 | Robert Lynn               |  34.4 |         7 |              |               |
+|    4 | Ashley Kayler             |  34.2 |       221 |        -0.35 |         -0.84 |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
-|    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Eric Katerman             |  33.2 |        54 |              |         +3.05 |
+|    6 | Eric Katerman             |  33.5 |        55 |        +0.29 |         +3.34 |
+|    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -36,7 +36,7 @@ Generated 2017-07-24.
 |   32 | Frank Kennamer            |  27.2 |       231 |        -0.09 |         +0.27 |
 |   33 | Samer Shehata             |  27.2 |        29 |              |               |
 |   34 | Anibhav Singla            |  27.1 |        24 |        -0.15 |               |
-|   35 | Nick Cobbett              |  27.1 |        39 |        -0.04 |         +1.40 |
+|   35 | Nick Cobbett              |  27.1 |        39 |        -0.03 |         +1.41 |
 |   36 | Hussain Raza              |  27.0 |        50 |              |               |
 |   37 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   38 | Alan Jose                 |  26.9 |       182 |              |               |
