@@ -385,9 +385,9 @@ Generated 2017-07-25.
 |  381 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  382 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  383 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  384 | Duo Wang                  |   9.0 |        73 |        +0.26 |         +0.74 |
-|  385 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  386 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  384 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  385 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  386 | Duo Wang                  |   8.8 |        73 |        +0.06 |         +0.55 |
 |  387 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  388 | Therese Jones             |   8.7 |         6 |              |               |
 |  389 | Steven Yee                |   8.7 |         9 |              |               |
@@ -405,9 +405,9 @@ Generated 2017-07-25.
 |  401 | Fabrice Henrion           |   8.1 |         2 |              |               |
 |  402 | Alexander Zuern           |   8.0 |        25 |              |               |
 |  403 | Zarina Khan               |   8.0 |         5 |              |               |
-|  404 | Chip Malt                 |   7.9 |         4 |              |               |
-|  405 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  406 | Sumit Gupta               |   7.9 |        10 |        +0.81 |               |
+|  404 | Sumit Gupta               |   8.0 |        10 |        +0.88 |               |
+|  405 | Chip Malt                 |   7.9 |         4 |              |               |
+|  406 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  407 | Minsoo Bae                |   7.9 |         2 |              |               |
 |  408 | Akira Chiwaki             |   7.8 |         3 |              |               |
 |  409 | Felipe Gomez              |   7.7 |         4 |              |               |
@@ -453,8 +453,8 @@ Generated 2017-07-25.
 |  449 | Maria Garzon              |   3.0 |         5 |              |               |
 |  450 | Nadir Shams               |   3.0 |         2 |              |               |
 |  451 | Ji Seop Oh                |   2.9 |         2 |              |               |
-|  452 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  453 | Sagar Pilania             |   2.7 |         2 |              |               |
+|  452 | Sagar Pilania             |   2.8 |         2 |              |               |
+|  453 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  454 | David Vogel               |   2.6 |         7 |              |               |
 |  455 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  456 | Cristhian Daniel          |   2.3 |        19 |              |         +3.41 |
@@ -478,18 +478,18 @@ Generated 2017-07-25.
 |  474 | Marco Eres                |   1.0 |         5 |              |               |
 |  475 | Alex Kaplan               |   0.8 |         8 |              |               |
 |  476 | Daniel Wissmann           |   0.7 |         2 |              |               |
-|  477 | Alfonso Rojas             |   0.6 |         8 |              |               |
-|  478 | Ben Geller                |   0.6 |         4 |              |               |
-|  479 | Seth Garz                 |   0.6 |         1 |              |               |
-|  480 | James Aylott              |   0.6 |         3 |              |               |
-|  481 | Ashley Mercer             |   0.5 |         5 |              |               |
-|  482 | Laurie Choi               |   0.5 |         2 |              |               |
-|  483 | Anne Iversen              |   0.4 |         3 |              |               |
-|  484 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  485 | Stuart Fox                |   0.2 |         1 |              |               |
-|  486 | Hannah Hagen              |   0.2 |         4 |              |               |
-|  487 | Rachel Chiu               |   0.1 |         2 |              |               |
-|  488 | Duncan MacRae             |   0.1 |        24 |        +0.47 |               |
+|  477 | Duncan MacRae             |   0.6 |        25 |        +1.07 |               |
+|  478 | Alfonso Rojas             |   0.6 |         8 |              |               |
+|  479 | Ben Geller                |   0.6 |         4 |              |               |
+|  480 | Seth Garz                 |   0.6 |         1 |              |               |
+|  481 | James Aylott              |   0.6 |         3 |              |               |
+|  482 | Ashley Mercer             |   0.5 |         5 |              |               |
+|  483 | Laurie Choi               |   0.5 |         2 |              |               |
+|  484 | Anne Iversen              |   0.4 |         3 |              |               |
+|  485 | Nathaniel Rice            |   0.4 |         3 |              |               |
+|  486 | Stuart Fox                |   0.2 |         1 |              |               |
+|  487 | Hannah Hagen              |   0.2 |         4 |              |               |
+|  488 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  489 | Sandra Harpster           |  -0.1 |         5 |              |               |
 |  490 | Stephen Garden            |  -0.2 |         2 |              |               |
 |  491 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
@@ -518,9 +518,9 @@ Generated 2017-07-25.
 |  514 | Tin Do                    |  -4.0 |         1 |              |               |
 |  515 | Yifan Wu                  |  -4.0 |         7 |              |               |
 |  516 | Susan Grand               |  -4.3 |         3 |              |               |
-|  517 | Cecilia Shan Cao          |  -4.7 |         1 |              |               |
-|  518 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
-|  519 | Sara Green                |  -5.8 |         1 |              |               |
-|  520 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  517 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
+|  518 | Sara Green                |  -5.8 |         1 |              |               |
+|  519 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  520 | Cecilia Shan Cao          |  -6.3 |         2 |              |               |
 |  521 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
 |  522 | Navarun Jain              | -12.3 |         2 |              |               |
