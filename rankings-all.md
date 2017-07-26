@@ -1,4 +1,4 @@
-Generated 2017-07-25.
+Generated 2017-07-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -117,8 +117,8 @@ Generated 2017-07-25.
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  116 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  117 | Jonathan Hankar           |  22.1 |       207 |        +0.04 |               |
+|  116 | Jonathan Hankar           |  22.1 |       208 |        +0.12 |         +0.07 |
+|  117 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  118 | Britta Gardner            |  22.1 |        16 |              |               |
 |  119 | Niklas Linde              |  22.1 |        23 |              |               |
 |  120 | Errick Ceppas             |  22.0 |         6 |              |               |
@@ -127,9 +127,9 @@ Generated 2017-07-25.
 |  123 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  124 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  125 | Jan Beranek               |  21.9 |        46 |              |               |
-|  126 | Dan Meier                 |  21.8 |        70 |              |         -0.74 |
-|  127 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.78 |
-|  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  126 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.78 |
+|  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  128 | Dan Meier                 |  21.8 |        71 |        -0.04 |         -0.78 |
 |  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  130 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  131 | Omair Azam                |  21.7 |        18 |              |               |
@@ -169,7 +169,7 @@ Generated 2017-07-25.
 |  165 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  166 | Frank Kennan              |  20.1 |        11 |              |               |
 |  167 | Robert Schwartz           |  20.1 |        90 |              |         -1.11 |
-|  168 | Mark Modera               |  20.1 |       334 |        -0.47 |         -1.18 |
+|  168 | Mark Modera               |  20.0 |       334 |        -0.48 |         -1.19 |
 |  169 | Shaun Lim                 |  20.0 |        64 |              |         +1.95 |
 |  170 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  171 | Jonathan Francis          |  20.0 |        76 |              |         +0.32 |
