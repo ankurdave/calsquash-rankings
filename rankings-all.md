@@ -1,4 +1,4 @@
-Generated 2017-07-26.
+Generated 2017-07-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -354,8 +354,8 @@ Generated 2017-07-26.
 |  350 | Lucas Siow                |  11.0 |        10 |              |               |
 |  351 | Dominick Ng               |  10.9 |        25 |              |               |
 |  352 | George Bentley            |  10.6 |         4 |              |               |
-|  353 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  354 | Raphael Magarik           |  10.5 |        33 |        +0.86 |         +1.68 |
+|  353 | Raphael Magarik           |  10.5 |        33 |        +0.91 |         +1.73 |
+|  354 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  355 | Brian Puglise             |  10.4 |         2 |              |               |
 |  356 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  357 | Prasad Santhanam          |  10.3 |         7 |              |               |
@@ -398,14 +398,14 @@ Generated 2017-07-26.
 |  394 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  395 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  396 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  397 | Brian Kempenich           |   8.2 |        47 |        -0.23 |         -0.25 |
-|  398 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  399 | John Coates               |   8.1 |         9 |              |               |
-|  400 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  401 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  402 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  403 | Zarina Khan               |   8.0 |         5 |              |               |
-|  404 | Sumit Gupta               |   8.0 |        10 |        +0.88 |               |
+|  397 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  398 | John Coates               |   8.1 |         9 |              |               |
+|  399 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  400 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  401 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  402 | Zarina Khan               |   8.0 |         5 |              |               |
+|  403 | Sumit Gupta               |   8.0 |        10 |        +0.88 |               |
+|  404 | Brian Kempenich           |   8.0 |        48 |        -0.44 |         -0.46 |
 |  405 | Chip Malt                 |   7.9 |         4 |              |               |
 |  406 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  407 | Minsoo Bae                |   7.9 |         2 |              |               |
@@ -413,20 +413,20 @@ Generated 2017-07-26.
 |  409 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  410 | Jeremy Brown              |   7.7 |         4 |              |               |
 |  411 | Ryan Akers                |   7.7 |         2 |              |               |
-|  412 | Yashraj Khaitain          |   7.6 |         2 |              |               |
-|  413 | Arno Ferguson             |   7.4 |         1 |              |               |
-|  414 | Alex Walters              |   7.4 |         3 |              |               |
-|  415 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
-|  416 | Keaton Noon               |   7.2 |        23 |              |         +1.45 |
-|  417 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
-|  418 | Brookes Degen             |   6.8 |         6 |              |               |
-|  419 | Joshua Braver             |   6.5 |         1 |              |               |
-|  420 | Alok Singh                |   6.5 |        18 |              |         +0.49 |
-|  421 | Pablo Paredes             |   6.5 |         1 |              |               |
-|  422 | Mikel Shybut              |   6.5 |         4 |              |               |
-|  423 | Markus Boese              |   6.5 |         1 |              |               |
-|  424 | Avi Flamholz              |   6.4 |         3 |              |               |
-|  425 | Terence Stotz             |   6.4 |         6 |        -0.70 |               |
+|  412 | Terence Stotz             |   7.6 |         7 |        +0.52 |               |
+|  413 | Yashraj Khaitain          |   7.6 |         2 |              |               |
+|  414 | Arno Ferguson             |   7.4 |         1 |              |               |
+|  415 | Alex Walters              |   7.4 |         3 |              |               |
+|  416 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
+|  417 | Keaton Noon               |   7.2 |        23 |              |         +1.45 |
+|  418 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
+|  419 | Brookes Degen             |   6.8 |         6 |              |               |
+|  420 | Joshua Braver             |   6.5 |         1 |              |               |
+|  421 | Alok Singh                |   6.5 |        18 |              |         +0.49 |
+|  422 | Pablo Paredes             |   6.5 |         1 |              |               |
+|  423 | Mikel Shybut              |   6.5 |         4 |              |               |
+|  424 | Markus Boese              |   6.5 |         1 |              |               |
+|  425 | Avi Flamholz              |   6.4 |         3 |              |               |
 |  426 | Dav Clark                 |   6.4 |         6 |              |               |
 |  427 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  428 | Rafael Silberblatt        |   6.1 |         5 |              |               |

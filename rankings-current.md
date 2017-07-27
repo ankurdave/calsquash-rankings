@@ -1,4 +1,4 @@
-Generated 2017-07-26.
+Generated 2017-07-27.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -25,12 +25,12 @@ Generated 2017-07-26.
 |   21 | Craig Hollow      |  13.3 |        22 |        +0.45 |               |
 |   22 | Meldan Heaslip    |  12.4 |        33 |        +0.30 |               |
 |   23 | Josh Lebowitz     |  11.6 |        51 |        -0.08 |         +4.04 |
-|   24 | Raphael Magarik   |  10.5 |        33 |        +0.86 |         +1.68 |
+|   24 | Raphael Magarik   |  10.5 |        33 |        +0.91 |         +1.73 |
 |   25 | Nate Aden         |   9.8 |        38 |        -0.08 |         +2.09 |
 |   26 | Duo Wang          |   8.8 |        73 |        +0.06 |         +0.55 |
-|   27 | Brian Kempenich   |   8.2 |        47 |        -0.23 |         -0.25 |
-|   28 | Sumit Gupta       |   8.0 |        10 |        +0.88 |               |
-|   29 | Terence Stotz     |   6.4 |         6 |        -0.70 |               |
+|   27 | Sumit Gupta       |   8.0 |        10 |        +0.88 |               |
+|   28 | Brian Kempenich   |   8.0 |        48 |        -0.44 |         -0.46 |
+|   29 | Terence Stotz     |   7.6 |         7 |        +0.52 |               |
 |   30 | Zsolt Bartha      |   4.0 |        60 |              |         -0.78 |
 |   31 | Sagar Pilania     |   2.8 |         2 |              |               |
 |   32 | Duncan MacRae     |   0.6 |        25 |        +1.07 |               |
