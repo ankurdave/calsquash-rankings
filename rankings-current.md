@@ -1,4 +1,4 @@
-Generated 2017-07-27.
+Generated 2017-07-28.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -18,10 +18,10 @@ Generated 2017-07-27.
 |   14 | Mark Modera       |  20.0 |       334 |        -0.48 |         -1.19 |
 |   15 | Mike Jensen-Akula |  19.8 |       228 |        +0.06 |         -0.45 |
 |   16 | Ankur Dave        |  18.2 |        78 |        +0.45 |         +4.81 |
-|   17 | Wayne Heiser      |  16.6 |        56 |        -0.28 |         -0.81 |
+|   17 | Wayne Heiser      |  16.7 |        57 |        -0.15 |         -0.68 |
 |   18 | Sahar Sareminaeni |  16.6 |        36 |              |               |
 |   19 | Sergey Dobrinov   |  14.9 |        26 |        +0.74 |               |
-|   20 | Diego Butrich     |  14.4 |        11 |        -0.58 |               |
+|   20 | Diego Butrich     |  14.3 |        12 |        -0.70 |               |
 |   21 | Craig Hollow      |  13.3 |        22 |        +0.45 |               |
 |   22 | Meldan Heaslip    |  12.4 |        33 |        +0.30 |               |
 |   23 | Josh Lebowitz     |  11.6 |        51 |        -0.08 |         +4.04 |
@@ -34,5 +34,5 @@ Generated 2017-07-27.
 |   30 | Zsolt Bartha      |   4.0 |        60 |              |         -0.78 |
 |   31 | Sagar Pilania     |   2.8 |         2 |              |               |
 |   32 | Duncan MacRae     |   0.6 |        25 |        +1.07 |               |
-|   33 | John Hwong        |  -0.8 |         1 |              |               |
+|   33 | John Hwong        |  -0.7 |         1 |              |               |
 |   34 | Cecilia Shan Cao  |  -6.3 |         2 |              |               |

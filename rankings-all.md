@@ -1,4 +1,4 @@
-Generated 2017-07-27.
+Generated 2017-07-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -248,10 +248,10 @@ Generated 2017-07-27.
 |  244 | Baxter Leman              |  16.9 |         6 |              |               |
 |  245 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  246 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  247 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  248 | David Shabelman           |  16.7 |        30 |              |               |
-|  249 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  250 | Wayne Heiser              |  16.6 |        56 |        -0.28 |         -0.81 |
+|  247 | Wayne Heiser              |  16.7 |        57 |        -0.15 |         -0.68 |
+|  248 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  249 | David Shabelman           |  16.7 |        30 |              |               |
+|  250 | David Bratt               |  16.7 |        31 |              |         +0.26 |
 |  251 | Sahar Sareminaeni         |  16.6 |        36 |              |               |
 |  252 | Mark Priven               |  16.6 |        72 |              |               |
 |  253 | William Coleman           |  16.5 |        48 |              |               |
@@ -299,9 +299,9 @@ Generated 2017-07-27.
 |  295 | Nikhil Paranjape          |  14.5 |        45 |              |         +2.87 |
 |  296 | Kent Daniels              |  14.4 |       106 |              |         -0.73 |
 |  297 | Max Woodworth             |  14.4 |         7 |              |               |
-|  298 | Diego Butrich             |  14.4 |        11 |        -0.58 |               |
-|  299 | Juliet Shih               |  14.4 |        11 |              |               |
-|  300 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  298 | Juliet Shih               |  14.4 |        11 |              |               |
+|  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  300 | Diego Butrich             |  14.3 |        12 |        -0.70 |               |
 |  301 | Adam Soliman              |  14.2 |        32 |              |               |
 |  302 | Charles Denby             |  14.2 |         5 |              |               |
 |  303 | Neil Sachs                |  14.1 |        12 |              |               |
@@ -504,7 +504,7 @@ Generated 2017-07-27.
 |  500 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  501 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  502 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  503 | John Hwong                |  -0.8 |         1 |              |               |
+|  503 | John Hwong                |  -0.7 |         1 |              |               |
 |  504 | Matthew Flairty           |  -1.4 |         2 |              |               |
 |  505 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  506 | Ann Connolly              |  -1.9 |         4 |              |               |
