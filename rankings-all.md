@@ -1,4 +1,4 @@
-Generated 2017-07-28.
+Generated 2017-07-29.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -7,7 +7,7 @@ Generated 2017-07-28.
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Ashley Kayler             |  34.2 |       221 |        -0.35 |         -0.83 |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
-|    6 | Eric Katerman             |  33.6 |        56 |        +0.39 |         +3.44 |
+|    6 | Eric Katerman             |  33.7 |        57 |        +0.49 |         +3.54 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
@@ -33,8 +33,8 @@ Generated 2017-07-28.
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Stephen Dang              |  27.2 |        34 |              |               |
-|   32 | Frank Kennamer            |  27.2 |       231 |        -0.09 |         +0.27 |
-|   33 | Samer Shehata             |  27.2 |        29 |              |               |
+|   32 | Samer Shehata             |  27.2 |        29 |              |               |
+|   33 | Frank Kennamer            |  27.1 |       232 |        -0.20 |         +0.16 |
 |   34 | Anibhav Singla            |  27.1 |        24 |        -0.15 |               |
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nick Cobbett              |  26.9 |        40 |        -0.14 |         +1.30 |
