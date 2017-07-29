@@ -127,9 +127,9 @@ Generated 2017-07-28.
 |  123 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  124 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  125 | Jan Beranek               |  21.9 |        46 |              |               |
-|  126 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.78 |
-|  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  128 | Dan Meier                 |  21.8 |        71 |        -0.04 |         -0.78 |
+|  126 | Dan Meier                 |  21.9 |        72 |        +0.04 |         -0.70 |
+|  127 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.78 |
+|  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  130 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  131 | Omair Azam                |  21.7 |        18 |              |               |
@@ -169,11 +169,11 @@ Generated 2017-07-28.
 |  165 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  166 | Frank Kennan              |  20.1 |        11 |              |               |
 |  167 | Robert Schwartz           |  20.1 |        90 |              |         -1.11 |
-|  168 | Mark Modera               |  20.0 |       334 |        -0.48 |         -1.19 |
-|  169 | Shaun Lim                 |  20.0 |        64 |              |         +1.95 |
-|  170 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  171 | Jonathan Francis          |  20.0 |        76 |              |         +0.32 |
-|  172 | Wesley Huang              |  20.0 |         8 |              |               |
+|  168 | Shaun Lim                 |  20.0 |        64 |              |         +1.95 |
+|  169 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  170 | Jonathan Francis          |  20.0 |        76 |              |         +0.32 |
+|  171 | Wesley Huang              |  20.0 |         8 |              |               |
+|  172 | Mark Modera               |  20.0 |       335 |        -0.55 |         -1.26 |
 |  173 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  174 | Liam King                 |  19.9 |         6 |              |               |
 |  175 | Mike Jensen-Akula         |  19.8 |       228 |        +0.06 |         -0.45 |
