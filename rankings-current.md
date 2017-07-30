@@ -1,4 +1,4 @@
-Generated 2017-07-29.
+Generated 2017-07-30.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -8,10 +8,10 @@ Generated 2017-07-29.
 |    4 | Frank Kennamer    |  27.1 |       232 |        -0.20 |         +0.16 |
 |    5 | Anibhav Singla    |  27.1 |        24 |        -0.15 |               |
 |    6 | Nick Cobbett      |  26.9 |        40 |        -0.14 |         +1.30 |
-|    7 | Thomas Littleton  |  25.6 |        10 |        +0.33 |               |
-|    8 | John Kunze        |  24.9 |       325 |        +0.25 |         +0.20 |
+|    7 | Thomas Littleton  |  26.3 |        12 |        +1.08 |               |
+|    8 | John Kunze        |  24.8 |       326 |        +0.19 |         +0.13 |
 |    9 | Jim Veitch        |  24.0 |       458 |        -0.08 |         -1.63 |
-|   10 | Dan Bohn          |  23.3 |       103 |        -0.03 |         -0.44 |
+|   10 | Dan Bohn          |  23.2 |       104 |        -0.18 |         -0.59 |
 |   11 | Jonathan Hankar   |  22.1 |       208 |        +0.12 |         +0.07 |
 |   12 | Dan Meier         |  21.9 |        72 |        +0.04 |         -0.70 |
 |   13 | Carl Schreck      |  20.2 |         2 |              |               |

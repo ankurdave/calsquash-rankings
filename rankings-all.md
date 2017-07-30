@@ -1,4 +1,4 @@
-Generated 2017-07-29.
+Generated 2017-07-30.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -46,13 +46,13 @@ Generated 2017-07-29.
 |   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
-|   45 | Andrew Moylan             |  26.3 |        95 |              |               |
-|   46 | Mikey Zarem               |  26.1 |         8 |              |               |
-|   47 | Vishi                     |  26.0 |        41 |              |               |
-|   48 | Peter McDermott           |  25.8 |        10 |              |               |
-|   49 | Andrew Hsu                |  25.8 |        15 |              |               |
-|   50 | Arvind Muralimohan        |  25.7 |        18 |              |               |
-|   51 | Thomas Littleton          |  25.6 |        10 |        +0.33 |               |
+|   45 | Thomas Littleton          |  26.3 |        12 |        +1.08 |               |
+|   46 | Andrew Moylan             |  26.3 |        95 |              |               |
+|   47 | Mikey Zarem               |  26.1 |         8 |              |               |
+|   48 | Vishi                     |  26.0 |        41 |              |               |
+|   49 | Peter McDermott           |  25.8 |        10 |              |               |
+|   50 | Andrew Hsu                |  25.8 |        15 |              |               |
+|   51 | Arvind Muralimohan        |  25.7 |        18 |              |               |
 |   52 | Richard Chan              |  25.5 |         9 |              |               |
 |   53 | Joe Schneider             |  25.5 |         8 |              |               |
 |   54 | Adam Angsten              |  25.4 |         3 |              |               |
@@ -65,7 +65,7 @@ Generated 2017-07-29.
 |   61 | Ben Seelig                |  25.0 |        69 |              |               |
 |   62 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   63 | Madhav Pai                |  24.9 |         5 |              |               |
-|   64 | John Kunze                |  24.9 |       325 |        +0.25 |         +0.20 |
+|   64 | John Kunze                |  24.8 |       326 |        +0.19 |         +0.13 |
 |   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
 |   66 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   67 | Sushil Shetty             |  24.8 |        23 |              |               |
@@ -101,7 +101,7 @@ Generated 2017-07-29.
 |   97 | Amy Lee                   |  23.6 |        56 |              |               |
 |   98 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |   99 | Garvin Heath              |  23.4 |        28 |              |               |
-|  100 | Dan Bohn                  |  23.3 |       103 |        -0.03 |         -0.44 |
+|  100 | Dan Bohn                  |  23.2 |       104 |        -0.18 |         -0.59 |
 |  101 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
