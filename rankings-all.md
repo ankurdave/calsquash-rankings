@@ -367,8 +367,8 @@ Generated 2017-07-29.
 |  363 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  364 | Reto Sutter               |  10.0 |        52 |              |         -1.54 |
 |  365 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  366 | Daniel Schwartz           |   9.8 |        22 |              |         +0.61 |
-|  367 | Nate Aden                 |   9.8 |        38 |        -0.08 |         +2.09 |
+|  366 | Nate Aden                 |   9.8 |        38 |        -0.07 |         +2.10 |
+|  367 | Daniel Schwartz           |   9.8 |        22 |              |         +0.61 |
 |  368 | Myles Gordon              |   9.8 |        42 |              |               |
 |  369 | Jacob Bank                |   9.7 |         1 |              |               |
 |  370 | Gene Zubovich             |   9.7 |        19 |              |               |
@@ -405,10 +405,10 @@ Generated 2017-07-29.
 |  401 | Alexander Zuern           |   8.0 |        25 |              |               |
 |  402 | Zarina Khan               |   8.0 |         5 |              |               |
 |  403 | Sumit Gupta               |   8.0 |        10 |        +0.88 |               |
-|  404 | Brian Kempenich           |   8.0 |        48 |        -0.44 |         -0.46 |
-|  405 | Chip Malt                 |   7.9 |         4 |              |               |
-|  406 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  407 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  404 | Chip Malt                 |   7.9 |         4 |              |               |
+|  405 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  406 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  407 | Brian Kempenich           |   7.8 |        49 |        -0.58 |         -0.60 |
 |  408 | Akira Chiwaki             |   7.8 |         3 |              |               |
 |  409 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  410 | Jeremy Brown              |   7.7 |         4 |              |               |
@@ -445,9 +445,9 @@ Generated 2017-07-29.
 |  441 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  442 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  443 | Anuj Dawar                |   4.2 |        15 |              |               |
-|  444 | Annie Wong                |   4.0 |         3 |              |               |
-|  445 | Ryan                      |   4.0 |         3 |              |         +1.67 |
-|  446 | Zsolt Bartha              |   4.0 |        60 |              |         -0.78 |
+|  444 | Zsolt Bartha              |   4.2 |        61 |        +0.21 |         -0.57 |
+|  445 | Annie Wong                |   4.0 |         3 |              |               |
+|  446 | Ryan                      |   4.0 |         3 |              |         +1.67 |
 |  447 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  448 | Nakul Vakil               |   3.0 |         5 |              |         +2.86 |
 |  449 | Maria Garzon              |   3.0 |         5 |              |               |
