@@ -32,10 +32,10 @@ Generated 2017-07-30.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Stephen Dang              |  27.2 |        34 |              |               |
-|   32 | Samer Shehata             |  27.2 |        29 |              |               |
-|   33 | Frank Kennamer            |  27.1 |       232 |        -0.20 |         +0.16 |
-|   34 | Anibhav Singla            |  27.1 |        24 |        -0.15 |               |
+|   31 | Anibhav Singla            |  27.5 |        25 |        +0.20 |               |
+|   32 | Stephen Dang              |  27.2 |        34 |              |               |
+|   33 | Samer Shehata             |  27.2 |        29 |              |               |
+|   34 | Frank Kennamer            |  27.1 |       232 |        -0.20 |         +0.16 |
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nick Cobbett              |  26.9 |        40 |        -0.14 |         +1.30 |
 |   37 | Nauman Sardar             |  26.9 |        40 |              |               |
@@ -46,7 +46,7 @@ Generated 2017-07-30.
 |   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
-|   45 | Thomas Littleton          |  26.3 |        12 |        +1.08 |               |
+|   45 | Thomas Littleton          |  26.3 |        12 |        +1.06 |               |
 |   46 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   47 | Mikey Zarem               |  26.1 |         8 |              |               |
 |   48 | Vishi                     |  26.0 |        41 |              |               |
@@ -65,11 +65,11 @@ Generated 2017-07-30.
 |   61 | Ben Seelig                |  25.0 |        69 |              |               |
 |   62 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   63 | Madhav Pai                |  24.9 |         5 |              |               |
-|   64 | John Kunze                |  24.8 |       326 |        +0.19 |         +0.13 |
-|   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   67 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   68 | Orion Hodson              |  24.8 |        31 |              |               |
+|   64 | Shrinu Kushagra           |  24.8 |        12 |              |               |
+|   65 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   66 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   67 | Orion Hodson              |  24.8 |        31 |              |               |
+|   68 | John Kunze                |  24.7 |       327 |        +0.03 |         -0.03 |
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
