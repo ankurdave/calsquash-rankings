@@ -66,10 +66,10 @@ Generated 2017-07-30.
 |   62 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   63 | Madhav Pai                |  24.9 |         5 |              |               |
 |   64 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   65 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   66 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   67 | Orion Hodson              |  24.8 |        31 |              |               |
-|   68 | John Kunze                |  24.7 |       327 |        +0.03 |         -0.03 |
+|   65 | John Kunze                |  24.8 |       328 |        +0.13 |         +0.08 |
+|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   67 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   68 | Orion Hodson              |  24.8 |        31 |              |               |
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
@@ -101,8 +101,8 @@ Generated 2017-07-30.
 |   97 | Amy Lee                   |  23.6 |        56 |              |               |
 |   98 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |   99 | Garvin Heath              |  23.4 |        28 |              |               |
-|  100 | Dan Bohn                  |  23.2 |       104 |        -0.18 |         -0.59 |
-|  101 | Daniel Greengard          |  23.1 |        37 |              |               |
+|  100 | Daniel Greengard          |  23.1 |        37 |              |               |
+|  101 | Dan Bohn                  |  23.1 |       105 |        -0.27 |         -0.69 |
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
 |  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
