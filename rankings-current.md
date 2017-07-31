@@ -12,12 +12,12 @@ Generated 2017-07-31.
 |    8 | John Kunze        |  24.8 |       328 |        +0.13 |         +0.08 |
 |    9 | Jim Veitch        |  24.0 |       458 |        -0.08 |         -1.63 |
 |   10 | Dan Bohn          |  23.1 |       105 |        -0.27 |         -0.69 |
-|   11 | Jonathan Hankar   |  22.1 |       208 |        +0.12 |         +0.07 |
-|   12 | Dan Meier         |  21.9 |        72 |        +0.04 |         -0.70 |
+|   11 | Jonathan Hankar   |  22.1 |       208 |        +0.11 |         +0.06 |
+|   12 | Dan Meier         |  21.9 |        73 |        +0.04 |         -0.70 |
 |   13 | Carl Schreck      |  20.2 |         2 |              |               |
-|   14 | Mark Modera       |  20.0 |       335 |        -0.55 |         -1.26 |
+|   14 | Mark Modera       |  20.0 |       335 |        -0.55 |         -1.27 |
 |   15 | Mike Jensen-Akula |  19.8 |       228 |        +0.06 |         -0.45 |
-|   16 | Ankur Dave        |  18.2 |        78 |        +0.45 |         +4.81 |
+|   16 | Ankur Dave        |  18.3 |        79 |        +0.46 |         +4.82 |
 |   17 | Wayne Heiser      |  16.7 |        57 |        -0.15 |         -0.68 |
 |   18 | Sahar Sareminaeni |  16.6 |        36 |              |               |
 |   19 | Sergey Dobrinov   |  14.9 |        26 |        +0.74 |               |

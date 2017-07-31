@@ -117,7 +117,7 @@ Generated 2017-07-31.
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  116 | Jonathan Hankar           |  22.1 |       208 |        +0.12 |         +0.07 |
+|  116 | Jonathan Hankar           |  22.1 |       208 |        +0.11 |         +0.06 |
 |  117 | Dennis Dornan             |  22.1 |        12 |              |               |
 |  118 | Britta Gardner            |  22.1 |        16 |              |               |
 |  119 | Niklas Linde              |  22.1 |        23 |              |               |
@@ -127,7 +127,7 @@ Generated 2017-07-31.
 |  123 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  124 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  125 | Jan Beranek               |  21.9 |        46 |              |               |
-|  126 | Dan Meier                 |  21.9 |        72 |        +0.04 |         -0.70 |
+|  126 | Dan Meier                 |  21.9 |        73 |        +0.04 |         -0.70 |
 |  127 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.78 |
 |  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -173,7 +173,7 @@ Generated 2017-07-31.
 |  169 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  170 | Jonathan Francis          |  20.0 |        76 |              |         +0.32 |
 |  171 | Wesley Huang              |  20.0 |         8 |              |               |
-|  172 | Mark Modera               |  20.0 |       335 |        -0.55 |         -1.26 |
+|  172 | Mark Modera               |  20.0 |       335 |        -0.55 |         -1.27 |
 |  173 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  174 | Liam King                 |  19.9 |         6 |              |               |
 |  175 | Mike Jensen-Akula         |  19.8 |       228 |        +0.06 |         -0.45 |
@@ -214,7 +214,7 @@ Generated 2017-07-31.
 |  210 | Natalie Leung             |  18.4 |         1 |              |               |
 |  211 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  212 | Dror Matalon              |  18.3 |       372 |              |         +0.32 |
-|  213 | Ankur Dave                |  18.2 |        78 |        +0.45 |         +4.81 |
+|  213 | Ankur Dave                |  18.3 |        79 |        +0.46 |         +4.82 |
 |  214 | Kenny Bell                |  18.2 |       124 |              |         -0.77 |
 |  215 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  216 | Josh Trauner              |  18.2 |        59 |              |         +0.64 |
