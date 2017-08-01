@@ -1,4 +1,4 @@
-Generated 2017-07-31.
+Generated 2017-08-01.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -316,9 +316,9 @@ Generated 2017-07-31.
 |  312 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  313 | Lars Foleide              |  13.5 |        11 |              |               |
 |  314 | Alex Rennet               |  13.5 |         2 |              |               |
-|  315 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  316 | Jake Toy                  |  13.4 |         5 |              |               |
-|  317 | Craig Hollow              |  13.3 |        22 |        +0.45 |               |
+|  315 | Craig Hollow              |  13.4 |        23 |        +0.58 |               |
+|  316 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  317 | Jake Toy                  |  13.4 |         5 |              |               |
 |  318 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  319 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  320 | Field Maloney             |  13.1 |        24 |              |               |
@@ -330,8 +330,8 @@ Generated 2017-07-31.
 |  326 | Josh Shiode               |  12.6 |        20 |              |               |
 |  327 | Huw Lester                |  12.5 |         1 |              |               |
 |  328 | Richard Fabini            |  12.4 |         3 |              |               |
-|  329 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
-|  330 | Meldan Heaslip            |  12.4 |        33 |        +0.30 |               |
+|  329 | Meldan Heaslip            |  12.4 |        34 |        +0.32 |               |
+|  330 | Jennifer Rha              |  12.4 |        18 |              |         +1.07 |
 |  331 | Rodrigo Calmet            |  12.4 |         8 |              |         +0.66 |
 |  332 | John Givens               |  12.2 |        13 |              |               |
 |  333 | Sylvan Arevalo            |  12.2 |         3 |              |               |

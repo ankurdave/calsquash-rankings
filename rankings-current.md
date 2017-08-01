@@ -1,4 +1,4 @@
-Generated 2017-07-31.
+Generated 2017-08-01.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -22,8 +22,8 @@ Generated 2017-07-31.
 |   18 | Sahar Sareminaeni |  16.6 |        36 |              |               |
 |   19 | Sergey Dobrinov   |  14.9 |        26 |        +0.74 |               |
 |   20 | Diego Butrich     |  14.3 |        12 |        -0.70 |               |
-|   21 | Craig Hollow      |  13.3 |        22 |        +0.45 |               |
-|   22 | Meldan Heaslip    |  12.4 |        33 |        +0.30 |               |
+|   21 | Craig Hollow      |  13.4 |        23 |        +0.58 |               |
+|   22 | Meldan Heaslip    |  12.4 |        34 |        +0.32 |               |
 |   23 | Josh Lebowitz     |  11.6 |        51 |        -0.08 |         +4.04 |
 |   24 | Raphael Magarik   |  10.5 |        33 |        +0.91 |         +1.73 |
 |   25 | Nate Aden         |   9.8 |        38 |        -0.07 |         +2.10 |
