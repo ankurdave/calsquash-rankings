@@ -5,9 +5,9 @@ Generated 2017-07-31.
 |    1 | Colin Grant               |  36.8 |        28 |              |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |         +0.36 |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
-|    4 | Ashley Kayler             |  34.2 |       221 |        -0.35 |         -0.83 |
+|    4 | Ashley Kayler             |  33.9 |       222 |        -0.67 |         -1.16 |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
-|    6 | Eric Katerman             |  33.7 |        57 |        +0.49 |         +3.54 |
+|    6 | Eric Katerman             |  33.7 |        57 |        +0.48 |         +3.53 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
@@ -33,11 +33,11 @@ Generated 2017-07-31.
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Grant French              |  27.5 |       125 |              |               |
 |   31 | Anibhav Singla            |  27.5 |        25 |        +0.20 |               |
-|   32 | Stephen Dang              |  27.2 |        34 |              |               |
-|   33 | Samer Shehata             |  27.2 |        29 |              |               |
-|   34 | Frank Kennamer            |  27.1 |       232 |        -0.20 |         +0.16 |
-|   35 | Hussain Raza              |  27.0 |        50 |              |               |
-|   36 | Nick Cobbett              |  26.9 |        40 |        -0.14 |         +1.30 |
+|   32 | Nick Cobbett              |  27.3 |        41 |        +0.23 |         +1.67 |
+|   33 | Stephen Dang              |  27.2 |        34 |              |               |
+|   34 | Samer Shehata             |  27.2 |        29 |              |               |
+|   35 | Frank Kennamer            |  27.1 |       232 |        -0.21 |         +0.16 |
+|   36 | Hussain Raza              |  27.0 |        50 |              |               |
 |   37 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   38 | Alan Jose                 |  26.9 |       182 |              |               |
 |   39 | Michael Best              |  26.9 |        21 |              |               |
