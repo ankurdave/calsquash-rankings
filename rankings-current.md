@@ -1,4 +1,4 @@
-Generated 2017-08-01.
+Generated 2017-08-02.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -14,17 +14,17 @@ Generated 2017-08-01.
 |   10 | Dan Bohn          |  23.1 |       105 |        -0.27 |         -0.69 |
 |   11 | Jonathan Hankar   |  22.1 |       208 |        +0.11 |         +0.06 |
 |   12 | Dan Meier         |  21.9 |        73 |        +0.04 |         -0.70 |
-|   13 | Carl Schreck      |  20.2 |         2 |              |               |
+|   13 | Mike Jensen-Akula |  20.0 |       229 |        +0.27 |         -0.24 |
 |   14 | Mark Modera       |  20.0 |       335 |        -0.55 |         -1.27 |
-|   15 | Mike Jensen-Akula |  19.8 |       228 |        +0.06 |         -0.45 |
-|   16 | Ankur Dave        |  18.3 |        79 |        +0.46 |         +4.82 |
-|   17 | Wayne Heiser      |  16.7 |        57 |        -0.15 |         -0.68 |
-|   18 | Sahar Sareminaeni |  16.6 |        36 |              |               |
-|   19 | Sergey Dobrinov   |  14.9 |        26 |        +0.74 |               |
-|   20 | Diego Butrich     |  14.3 |        12 |        -0.70 |               |
-|   21 | Craig Hollow      |  13.4 |        23 |        +0.58 |               |
-|   22 | Meldan Heaslip    |  12.4 |        34 |        +0.32 |               |
-|   23 | Josh Lebowitz     |  11.6 |        51 |        -0.08 |         +4.04 |
+|   15 | Ankur Dave        |  18.3 |        79 |        +0.46 |         +4.82 |
+|   16 | Wayne Heiser      |  16.7 |        57 |        -0.15 |         -0.68 |
+|   17 | Sahar Sareminaeni |  16.6 |        36 |              |               |
+|   18 | Sergey Dobrinov   |  14.9 |        26 |        +0.74 |               |
+|   19 | Diego Butrich     |  14.3 |        12 |        -0.70 |               |
+|   20 | Craig Hollow      |  13.4 |        23 |        +0.58 |               |
+|   21 | Meldan Heaslip    |  12.4 |        34 |        +0.32 |               |
+|   22 | Josh Lebowitz     |  12.4 |        52 |        +0.66 |         +4.78 |
+|   23 | Carl Schreck      |  12.2 |         4 |        -7.97 |         -7.97 |
 |   24 | Raphael Magarik   |  10.5 |        33 |        +0.91 |         +1.73 |
 |   25 | Nate Aden         |   9.8 |        38 |        -0.07 |         +2.10 |
 |   26 | Duo Wang          |   9.0 |        74 |        +0.32 |         +0.80 |
