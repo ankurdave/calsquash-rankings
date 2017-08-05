@@ -22,22 +22,21 @@ Generated 2017-08-05.
 |   18 | Wayne Heiser      |  16.7 |        57 |              |         -0.43 |
 |   19 | Sahar Sareminaeni |  16.6 |        36 |              |         +8.66 |
 |   20 | Chris Flores      |  16.2 |       320 |              |         -0.73 |
-|   21 | Sergey Dobrinov   |  14.9 |        26 |              |               |
-|   22 | Kent Daniels      |  14.4 |       106 |              |         -1.09 |
-|   23 | Diego Butrich     |  14.4 |        13 |              |               |
-|   24 | Craig Hollow      |  13.6 |        24 |              |               |
-|   25 | Meldan Heaslip    |  12.4 |        34 |              |               |
-|   26 | Josh Lebowitz     |  12.4 |        52 |              |         +3.45 |
-|   27 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
-|   28 | Karan Goyal       |  11.3 |        10 |              |               |
-|   29 | Raphael Magarik   |  10.5 |        33 |              |         +1.73 |
-|   30 | Nate Aden         |   9.8 |        38 |              |         +1.59 |
-|   31 | Duo Wang          |   9.0 |        74 |              |         +0.57 |
-|   32 | Sumit Gupta       |   7.9 |        10 |              |               |
-|   33 | Brian Kempenich   |   7.8 |        49 |              |         -0.39 |
-|   34 | Terence Stotz     |   7.6 |         7 |              |               |
-|   35 | Zsolt Bartha      |   4.2 |        61 |              |         -0.57 |
-|   36 | Sagar Pilania     |   2.8 |         2 |              |               |
-|   37 | Duncan MacRae     |   0.4 |        26 |              |               |
-|   38 | John Hwong        |  -0.7 |         1 |              |               |
-|   39 | Cecilia Shan Cao  |  -5.1 |         2 |              |               |
+|   21 | Kent Daniels      |  14.4 |       106 |              |         -1.09 |
+|   22 | Diego Butrich     |  14.4 |        13 |              |               |
+|   23 | Craig Hollow      |  13.6 |        24 |              |               |
+|   24 | Meldan Heaslip    |  12.4 |        34 |              |               |
+|   25 | Josh Lebowitz     |  12.4 |        52 |              |         +3.45 |
+|   26 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
+|   27 | Karan Goyal       |  11.3 |        10 |              |               |
+|   28 | Raphael Magarik   |  10.5 |        33 |              |         +1.73 |
+|   29 | Nate Aden         |   9.8 |        38 |              |         +1.59 |
+|   30 | Duo Wang          |   9.0 |        74 |              |         +0.57 |
+|   31 | Sumit Gupta       |   7.9 |        10 |              |               |
+|   32 | Brian Kempenich   |   7.8 |        49 |              |         -0.39 |
+|   33 | Terence Stotz     |   7.6 |         7 |              |               |
+|   34 | Zsolt Bartha      |   4.2 |        61 |              |         -0.57 |
+|   35 | Sagar Pilania     |   2.8 |         2 |              |               |
+|   36 | Duncan MacRae     |   0.4 |        26 |              |               |
+|   37 | John Hwong        |  -0.7 |         1 |              |               |
+|   38 | Cecilia Shan Cao  |  -5.1 |         2 |              |               |
