@@ -1,4 +1,4 @@
-Generated 2017-08-05.
+Generated 2017-08-07.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -87,8 +87,8 @@ Generated 2017-08-05.
 |   83 | Vyas Sekar                |  24.1 |        17 |              |               |
 |   84 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   86 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   87 | Jim Veitch                |  24.0 |       458 |              |         -1.77 |
+|   86 | Jim Veitch                |  24.1 |       459 |        +0.09 |         -1.68 |
+|   87 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   88 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   89 | Matt Wong                 |  23.9 |        91 |              |         +1.69 |
 |   90 | Glenn Forrester           |  23.9 |       355 |              |               |
@@ -213,11 +213,11 @@ Generated 2017-08-05.
 |  209 | Natalie Leung             |  18.4 |         1 |              |               |
 |  210 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  211 | Dror Matalon              |  18.3 |       372 |              |         -0.09 |
-|  212 | Ankur Dave                |  18.3 |        79 |              |         +4.56 |
-|  213 | Kenny Bell                |  18.2 |       124 |              |         -0.58 |
-|  214 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  215 | Josh Trauner              |  18.2 |        59 |              |         +0.33 |
-|  216 | Bob Roller                |  18.2 |         6 |              |               |
+|  212 | Kenny Bell                |  18.2 |       124 |              |         -0.58 |
+|  213 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  214 | Josh Trauner              |  18.2 |        59 |              |         +0.33 |
+|  215 | Bob Roller                |  18.2 |         6 |              |               |
+|  216 | Ankur Dave                |  18.1 |        80 |        -0.11 |         +4.45 |
 |  217 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  218 | James Chung               |  17.9 |         7 |              |               |
 |  219 | Andres Rodriguez          |  17.9 |        55 |              |               |

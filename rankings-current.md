@@ -1,4 +1,4 @@
-Generated 2017-08-05.
+Generated 2017-08-07.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -10,15 +10,15 @@ Generated 2017-08-05.
 |    6 | Frank Kennamer    |  27.1 |       232 |              |         +0.16 |
 |    7 | Thomas Littleton  |  26.3 |        12 |              |               |
 |    8 | John Kunze        |  24.8 |       328 |              |         +0.08 |
-|    9 | Jim Veitch        |  24.0 |       458 |              |         -1.77 |
+|    9 | Jim Veitch        |  24.1 |       459 |        +0.09 |         -1.68 |
 |   10 | Matt Wong         |  23.9 |        91 |              |         +1.69 |
 |   11 | Dan Bohn          |  23.1 |       105 |              |         -0.69 |
 |   12 | Jonathan Hankar   |  22.1 |       208 |              |         -0.15 |
 |   13 | Dan Meier         |  21.9 |        73 |              |         -0.40 |
 |   14 | Mike Jensen-Akula |  20.0 |       229 |              |         +0.07 |
 |   15 | Dror Matalon      |  18.3 |       372 |              |         -0.09 |
-|   16 | Ankur Dave        |  18.3 |        79 |              |         +4.56 |
-|   17 | Josh Trauner      |  18.2 |        59 |              |         +0.33 |
+|   16 | Josh Trauner      |  18.2 |        59 |              |         +0.33 |
+|   17 | Ankur Dave        |  18.1 |        80 |        -0.11 |         +4.45 |
 |   18 | Wayne Heiser      |  16.7 |        57 |              |         -0.43 |
 |   19 | Sahar Sareminaeni |  16.6 |        36 |              |         +8.66 |
 |   20 | Chris Flores      |  16.2 |       320 |              |         -0.73 |
