@@ -1,4 +1,4 @@
-Generated 2017-08-07.
+Generated 2017-08-08.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -19,11 +19,11 @@ Generated 2017-08-07.
 |   15 | Dror Matalon      |  18.3 |       372 |              |         -0.09 |
 |   16 | Josh Trauner      |  18.2 |        59 |              |         +0.33 |
 |   17 | Ankur Dave        |  18.1 |        80 |        -0.11 |         +4.45 |
-|   18 | Wayne Heiser      |  16.7 |        57 |              |         -0.43 |
+|   18 | Wayne Heiser      |  16.9 |        58 |        +0.19 |         -0.24 |
 |   19 | Sahar Sareminaeni |  16.6 |        36 |              |         +8.66 |
 |   20 | Chris Flores      |  16.2 |       320 |              |         -0.73 |
-|   21 | Kent Daniels      |  14.4 |       106 |              |         -1.09 |
-|   22 | Diego Butrich     |  14.4 |        13 |              |               |
+|   21 | Diego Butrich     |  14.4 |        13 |              |               |
+|   22 | Kent Daniels      |  14.2 |       107 |        -0.19 |         -1.27 |
 |   23 | Craig Hollow      |  13.6 |        24 |              |               |
 |   24 | Meldan Heaslip    |  12.4 |        34 |              |               |
 |   25 | Josh Lebowitz     |  12.4 |        52 |              |         +3.45 |

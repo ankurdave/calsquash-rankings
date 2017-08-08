@@ -1,4 +1,4 @@
-Generated 2017-08-07.
+Generated 2017-08-08.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -244,10 +244,10 @@ Generated 2017-08-07.
 |  240 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  241 | Neil Conway               |  17.0 |        55 |              |               |
 |  242 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  243 | Baxter Leman              |  16.9 |         6 |              |               |
-|  244 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  245 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  246 | Wayne Heiser              |  16.7 |        57 |              |         -0.43 |
+|  243 | Wayne Heiser              |  16.9 |        58 |        +0.19 |         -0.24 |
+|  244 | Baxter Leman              |  16.9 |         6 |              |               |
+|  245 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  246 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  247 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  248 | David Shabelman           |  16.7 |        30 |              |               |
 |  249 | David Bratt               |  16.7 |        31 |              |         +0.26 |
@@ -296,11 +296,11 @@ Generated 2017-08-07.
 |  292 | Shai Vardi                |  14.5 |         4 |              |               |
 |  293 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  294 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.39 |
-|  295 | Kent Daniels              |  14.4 |       106 |              |         -1.09 |
-|  296 | Max Woodworth             |  14.4 |         7 |              |               |
-|  297 | Diego Butrich             |  14.4 |        13 |              |               |
-|  298 | Juliet Shih               |  14.4 |        11 |              |               |
-|  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  295 | Max Woodworth             |  14.4 |         7 |              |               |
+|  296 | Diego Butrich             |  14.4 |        13 |              |               |
+|  297 | Juliet Shih               |  14.4 |        11 |              |               |
+|  298 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  299 | Kent Daniels              |  14.2 |       107 |        -0.19 |         -1.27 |
 |  300 | Adam Soliman              |  14.2 |        32 |              |               |
 |  301 | Charles Denby             |  14.2 |         5 |              |               |
 |  302 | Neil Sachs                |  14.1 |        12 |              |               |
