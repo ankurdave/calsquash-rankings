@@ -28,8 +28,8 @@ Generated 2017-08-08.
 |   24 | Meldan Heaslip    |  12.4 |        34 |              |               |
 |   25 | Josh Lebowitz     |  12.4 |        52 |              |         +3.45 |
 |   26 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
-|   27 | Karan Goyal       |  11.3 |        10 |              |               |
-|   28 | Raphael Magarik   |  10.5 |        33 |              |         +1.73 |
+|   27 | Karan Goyal       |  12.0 |        11 |        +0.71 |               |
+|   28 | Raphael Magarik   |  10.3 |        34 |        -0.24 |         +1.49 |
 |   29 | Nate Aden         |   9.8 |        38 |              |         +1.59 |
 |   30 | Duo Wang          |   9.0 |        74 |              |         +0.57 |
 |   31 | Sumit Gupta       |   7.9 |        10 |              |               |

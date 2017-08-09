@@ -337,28 +337,28 @@ Generated 2017-08-08.
 |  333 | John Givens               |  12.2 |        13 |              |               |
 |  334 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  335 | Reed Foster               |  12.1 |         8 |              |               |
-|  336 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  337 | Larry Dale                |  11.9 |        29 |              |               |
-|  338 | Aman Gupta                |  11.8 |         3 |              |               |
-|  339 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  340 | Julian Gill               |  11.8 |         1 |              |               |
-|  341 | James Shinn               |  11.7 |       120 |              |               |
-|  342 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  343 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  344 | David Appelfeld           |  11.6 |        26 |              |               |
-|  345 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  346 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  347 | Carlos Filho              |  11.4 |         7 |              |               |
-|  348 | Karan Jain                |  11.3 |        19 |              |               |
-|  349 | Karan Goyal               |  11.3 |        10 |              |               |
+|  336 | Karan Goyal               |  12.0 |        11 |        +0.71 |               |
+|  337 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  338 | Larry Dale                |  11.9 |        29 |              |               |
+|  339 | Aman Gupta                |  11.8 |         3 |              |               |
+|  340 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  341 | Julian Gill               |  11.8 |         1 |              |               |
+|  342 | James Shinn               |  11.7 |       120 |              |               |
+|  343 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  344 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  345 | David Appelfeld           |  11.6 |        26 |              |               |
+|  346 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  347 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
+|  348 | Carlos Filho              |  11.4 |         7 |              |               |
+|  349 | Karan Jain                |  11.3 |        19 |              |               |
 |  350 | Lucas Siow                |  11.0 |        10 |              |               |
 |  351 | Dominick Ng               |  10.9 |        25 |              |               |
 |  352 | George Bentley            |  10.6 |         4 |              |               |
-|  353 | Raphael Magarik           |  10.5 |        33 |              |         +1.73 |
-|  354 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  355 | Brian Puglise             |  10.4 |         2 |              |               |
-|  356 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  357 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  353 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  354 | Brian Puglise             |  10.4 |         2 |              |               |
+|  355 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  356 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  357 | Raphael Magarik           |  10.3 |        34 |        -0.24 |         +1.49 |
 |  358 | John Provine              |  10.2 |        16 |              |               |
 |  359 | Anthony Patterson         |  10.2 |         6 |              |               |
 |  360 | Nicholas DuBroff          |  10.2 |         8 |              |               |
