@@ -1,4 +1,4 @@
-Generated 2017-08-08.
+Generated 2017-08-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -31,8 +31,8 @@ Generated 2017-08-08.
 |   27 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   30 | Grant French              |  27.5 |       125 |              |               |
-|   31 | Anibhav Singla            |  27.5 |        25 |              |               |
+|   30 | Anibhav Singla            |  27.7 |        26 |        +0.28 |               |
+|   31 | Grant French              |  27.5 |       125 |              |               |
 |   32 | Nick Cobbett              |  27.3 |        41 |              |         +1.68 |
 |   33 | Stephen Dang              |  27.2 |        34 |              |               |
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
@@ -90,10 +90,10 @@ Generated 2017-08-08.
 |   86 | Jim Veitch                |  24.1 |       459 |        +0.09 |         -1.68 |
 |   87 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   88 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   89 | Matt Wong                 |  23.9 |        91 |              |         +1.69 |
-|   90 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   91 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   92 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   89 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   90 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   91 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   92 | Matt Wong                 |  23.8 |        92 |        -0.14 |         +1.54 |
 |   93 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.33 |
 |   94 | Matt Waid                 |  23.7 |        51 |              |               |
 |   95 | Sonesh Surana             |  23.7 |        95 |              |               |
