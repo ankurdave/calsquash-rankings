@@ -1,4 +1,4 @@
-Generated 2017-08-09.
+Generated 2017-08-10.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -87,7 +87,7 @@ Generated 2017-08-09.
 |   83 | Vyas Sekar                |  24.1 |        17 |              |               |
 |   84 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   86 | Jim Veitch                |  24.1 |       459 |        +0.09 |         -1.68 |
+|   86 | Jim Veitch                |  24.1 |       460 |        +0.05 |         -1.72 |
 |   87 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   88 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   89 | Glenn Forrester           |  23.9 |       355 |              |               |
@@ -127,7 +127,7 @@ Generated 2017-08-09.
 |  123 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  124 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  125 | Jan Beranek               |  21.9 |        46 |              |               |
-|  126 | Dan Meier                 |  21.9 |        73 |              |         -0.40 |
+|  126 | Dan Meier                 |  21.9 |        74 |        +0.06 |         -0.35 |
 |  127 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.62 |
 |  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
