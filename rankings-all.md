@@ -5,7 +5,7 @@ Generated 2017-08-10.
 |    1 | Colin Grant               |  36.8 |        28 |              |               |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
-|    4 | Ashley Kayler             |  33.9 |       222 |              |         -1.17 |
+|    4 | Ashley Kayler             |  33.9 |       223 |        +0.03 |         -1.13 |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Eric Katerman             |  33.7 |        57 |              |         +3.32 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
@@ -66,10 +66,10 @@ Generated 2017-08-10.
 |   62 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   63 | Madhav Pai                |  24.9 |         5 |              |               |
 |   64 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   65 | John Kunze                |  24.8 |       328 |              |         +0.08 |
-|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   67 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   68 | Orion Hodson              |  24.8 |        31 |              |               |
+|   65 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   66 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   67 | Orion Hodson              |  24.8 |        31 |              |               |
+|   68 | John Kunze                |  24.7 |       329 |        -0.07 |               |
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
