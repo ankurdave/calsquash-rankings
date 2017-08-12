@@ -31,7 +31,7 @@ Generated 2017-08-12.
 |   27 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   30 | Anibhav Singla            |  27.7 |        26 |        +0.28 |               |
+|   30 | Anibhav Singla            |  27.9 |        27 |        +0.45 |               |
 |   31 | Grant French              |  27.5 |       125 |              |               |
 |   32 | Nick Cobbett              |  27.3 |        41 |              |         +1.68 |
 |   33 | Stephen Dang              |  27.2 |        34 |              |               |
@@ -117,11 +117,11 @@ Generated 2017-08-12.
 |  113 | Robert Geiger             |  22.2 |         8 |              |               |
 |  114 | Aaron Socha               |  22.2 |        24 |              |               |
 |  115 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  116 | Jonathan Hankar           |  22.1 |       208 |              |         -0.15 |
-|  117 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  118 | Britta Gardner            |  22.1 |        16 |              |               |
-|  119 | Niklas Linde              |  22.1 |        23 |              |               |
-|  120 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  116 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  117 | Britta Gardner            |  22.1 |        16 |              |               |
+|  118 | Niklas Linde              |  22.1 |        23 |              |               |
+|  119 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  120 | Jonathan Hankar           |  22.0 |       209 |        -0.10 |         -0.25 |
 |  121 | Nacho Quaglio             |  22.0 |         3 |              |               |
 |  122 | Blake Woodard             |  22.0 |        10 |              |               |
 |  123 | Ian MacDonald             |  22.0 |        59 |              |               |
