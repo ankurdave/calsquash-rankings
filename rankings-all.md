@@ -1,4 +1,4 @@
-Generated 2017-08-12.
+Generated 2017-08-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -247,11 +247,11 @@ Generated 2017-08-12.
 |  243 | Wayne Heiser              |  16.9 |        58 |        +0.19 |         -0.24 |
 |  244 | Baxter Leman              |  16.9 |         6 |              |               |
 |  245 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  246 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  247 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  248 | David Shabelman           |  16.7 |        30 |              |               |
-|  249 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  250 | Sahar Sareminaeni         |  16.6 |        36 |              |         +8.66 |
+|  246 | Sahar Sareminaeni         |  16.8 |        38 |        +0.22 |         +8.88 |
+|  247 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  248 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  249 | David Shabelman           |  16.7 |        30 |              |               |
+|  250 | David Bratt               |  16.7 |        31 |              |         +0.26 |
 |  251 | Mark Priven               |  16.6 |        72 |              |               |
 |  252 | William Coleman           |  16.5 |        48 |              |               |
 |  253 | Mike Troxell              |  16.5 |         8 |              |               |
@@ -301,10 +301,10 @@ Generated 2017-08-12.
 |  297 | Diego Butrich             |  14.4 |        13 |              |               |
 |  298 | Juliet Shih               |  14.4 |        11 |              |               |
 |  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  300 | Kent Daniels              |  14.2 |       107 |        -0.19 |         -1.27 |
-|  301 | Adam Soliman              |  14.2 |        32 |              |               |
-|  302 | Charles Denby             |  14.2 |         5 |              |               |
-|  303 | Neil Sachs                |  14.1 |        12 |              |               |
+|  300 | Adam Soliman              |  14.2 |        32 |              |               |
+|  301 | Charles Denby             |  14.2 |         5 |              |               |
+|  302 | Neil Sachs                |  14.1 |        12 |              |               |
+|  303 | Kent Daniels              |  14.1 |       108 |        -0.37 |         -1.45 |
 |  304 | Rupert Myers              |  14.0 |        27 |              |               |
 |  305 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  306 | Mekoce Walker             |  13.8 |        38 |              |               |
@@ -332,8 +332,8 @@ Generated 2017-08-12.
 |  328 | Meldan Heaslip            |  12.4 |        34 |              |               |
 |  329 | Richard Fabini            |  12.4 |         3 |              |               |
 |  330 | Jennifer Rha              |  12.4 |        18 |              |         +0.30 |
-|  331 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
-|  332 | Josh Lebowitz             |  12.4 |        52 |              |         +3.45 |
+|  331 | Josh Lebowitz             |  12.4 |        53 |        +0.03 |         +3.48 |
+|  332 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
 |  333 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
 |  334 | John Givens               |  12.2 |        13 |              |               |
 |  335 | Sylvan Arevalo            |  12.2 |         3 |              |               |

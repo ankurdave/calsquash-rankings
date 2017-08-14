@@ -1,4 +1,4 @@
-Generated 2017-08-12.
+Generated 2017-08-14.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -20,14 +20,14 @@ Generated 2017-08-12.
 |   16 | Ankur Dave        |  18.1 |        80 |        -0.11 |         +4.45 |
 |   17 | Josh Trauner      |  18.1 |        60 |        -0.10 |         +0.22 |
 |   18 | Wayne Heiser      |  16.9 |        58 |        +0.19 |         -0.24 |
-|   19 | Sahar Sareminaeni |  16.6 |        36 |              |         +8.66 |
+|   19 | Sahar Sareminaeni |  16.8 |        38 |        +0.22 |         +8.88 |
 |   20 | Chris Flores      |  16.2 |       320 |              |         -0.73 |
 |   21 | Anthony Abel      |  15.0 |         1 |              |               |
 |   22 | Diego Butrich     |  14.4 |        13 |              |               |
-|   23 | Kent Daniels      |  14.2 |       107 |        -0.19 |         -1.27 |
+|   23 | Kent Daniels      |  14.1 |       108 |        -0.37 |         -1.45 |
 |   24 | Craig Hollow      |  13.6 |        24 |              |               |
 |   25 | Meldan Heaslip    |  12.4 |        34 |              |               |
-|   26 | Josh Lebowitz     |  12.4 |        52 |              |         +3.45 |
+|   26 | Josh Lebowitz     |  12.4 |        53 |        +0.03 |         +3.48 |
 |   27 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
 |   28 | Karan Goyal       |  12.0 |        11 |        +0.71 |               |
 |   29 | Raphael Magarik   |  10.3 |        34 |        -0.24 |         +1.49 |
