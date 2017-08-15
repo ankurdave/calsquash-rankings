@@ -1,4 +1,4 @@
-Generated 2017-08-14.
+Generated 2017-08-15.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -6,8 +6,8 @@ Generated 2017-08-14.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Ashley Kayler             |  33.8 |       224 |        -0.03 |         -1.20 |
-|    6 | Eric Katerman             |  33.8 |        58 |        +0.13 |         +3.45 |
+|    5 | Ashley Kayler             |  33.8 |       224 |        -0.04 |         -1.21 |
+|    6 | Eric Katerman             |  33.7 |        59 |              |         +3.33 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
@@ -18,8 +18,8 @@ Generated 2017-08-14.
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
-|   18 | Sam Sternberg             |  30.2 |       157 |              |         -0.26 |
+|   17 | Sam Sternberg             |  30.3 |       158 |        +0.14 |         -0.12 |
+|   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
 |   21 | David Wood                |  29.7 |        43 |              |               |
