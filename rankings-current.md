@@ -14,11 +14,11 @@ Generated 2017-08-15.
 |   10 | Matt Wong         |  23.8 |        92 |        -0.14 |         +1.54 |
 |   11 | Dan Bohn          |  23.1 |       105 |              |         -0.69 |
 |   12 | Jonathan Hankar   |  22.0 |       209 |        -0.10 |         -0.25 |
-|   13 | Dan Meier         |  21.9 |        74 |        +0.06 |         -0.35 |
+|   13 | Dan Meier         |  21.6 |        75 |        -0.23 |         -0.63 |
 |   14 | Mike Jensen-Akula |  19.9 |       230 |        -0.13 |         -0.06 |
 |   15 | Anthony Abel      |  19.9 |         2 |              |               |
-|   16 | Dror Matalon      |  18.3 |       372 |              |         -0.09 |
-|   17 | Ankur Dave        |  18.1 |        80 |        -0.11 |         +4.45 |
+|   16 | Ankur Dave        |  18.4 |        81 |        +0.19 |         +4.75 |
+|   17 | Dror Matalon      |  18.3 |       372 |              |         -0.09 |
 |   18 | Josh Trauner      |  18.1 |        60 |        -0.06 |         +0.27 |
 |   19 | Wayne Heiser      |  16.9 |        58 |        +0.19 |         -0.24 |
 |   20 | Sahar Sareminaeni |  16.8 |        38 |        +0.22 |         +8.88 |

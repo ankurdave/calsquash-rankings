@@ -127,14 +127,14 @@ Generated 2017-08-15.
 |  123 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  124 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  125 | Jan Beranek               |  21.9 |        46 |              |               |
-|  126 | Dan Meier                 |  21.9 |        74 |        +0.06 |         -0.35 |
-|  127 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.62 |
-|  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  130 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  131 | Omair Azam                |  21.7 |        18 |              |               |
-|  132 | Phin Lee                  |  21.7 |        16 |              |               |
-|  133 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  126 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.62 |
+|  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  129 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  130 | Omair Azam                |  21.7 |        18 |              |               |
+|  131 | Phin Lee                  |  21.7 |        16 |              |               |
+|  132 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  133 | Dan Meier                 |  21.6 |        75 |        -0.23 |         -0.63 |
 |  134 | Dante Popple              |  21.5 |        17 |              |               |
 |  135 | Reid Johnsen              |  21.4 |        49 |              |         +0.70 |
 |  136 | Jared Bard                |  21.3 |        46 |              |         +0.24 |
@@ -210,14 +210,14 @@ Generated 2017-08-15.
 |  206 | Akshay Dugar              |  18.5 |         6 |              |               |
 |  207 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
 |  208 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  209 | John Eng                  |  18.4 |        28 |              |               |
-|  210 | Natalie Leung             |  18.4 |         1 |              |               |
-|  211 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  212 | Dror Matalon              |  18.3 |       372 |              |         -0.09 |
-|  213 | Kenny Bell                |  18.2 |       124 |              |         -0.58 |
-|  214 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  215 | Bob Roller                |  18.2 |         6 |              |               |
-|  216 | Ankur Dave                |  18.1 |        80 |        -0.11 |         +4.45 |
+|  209 | Ankur Dave                |  18.4 |        81 |        +0.19 |         +4.75 |
+|  210 | John Eng                  |  18.4 |        28 |              |               |
+|  211 | Natalie Leung             |  18.4 |         1 |              |               |
+|  212 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  213 | Dror Matalon              |  18.3 |       372 |              |         -0.09 |
+|  214 | Kenny Bell                |  18.2 |       124 |              |         -0.58 |
+|  215 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  216 | Bob Roller                |  18.2 |         6 |              |               |
 |  217 | Josh Trauner              |  18.1 |        60 |        -0.06 |         +0.27 |
 |  218 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  219 | James Chung               |  17.9 |         7 |              |               |
