@@ -1,4 +1,4 @@
-Generated 2017-08-15.
+Generated 2017-08-16.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -32,9 +32,9 @@ Generated 2017-08-15.
 |   28 | Karan Goyal       |  12.0 |        11 |        +0.71 |               |
 |   29 | Raphael Magarik   |  10.3 |        34 |        -0.24 |         +1.49 |
 |   30 | Nate Aden         |   9.8 |        38 |              |         +1.59 |
-|   31 | Duo Wang          |   9.0 |        74 |              |         +0.57 |
-|   32 | Sumit Gupta       |   7.9 |        10 |              |               |
-|   33 | Brian Kempenich   |   7.8 |        49 |              |         -0.39 |
+|   31 | Duo Wang          |   8.9 |        75 |        -0.13 |         +0.44 |
+|   32 | Brian Kempenich   |   8.0 |        50 |        +0.19 |         -0.21 |
+|   33 | Sumit Gupta       |   7.9 |        10 |              |               |
 |   34 | Terence Stotz     |   7.6 |         7 |              |               |
 |   35 | Zsolt Bartha      |   4.2 |        61 |              |         -0.57 |
 |   36 | Sagar Pilania     |   2.8 |         2 |              |               |

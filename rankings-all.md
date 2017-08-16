@@ -1,4 +1,4 @@
-Generated 2017-08-15.
+Generated 2017-08-16.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -385,9 +385,9 @@ Generated 2017-08-15.
 |  381 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  382 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  383 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  384 | Duo Wang                  |   9.0 |        74 |              |         +0.57 |
-|  385 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  386 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  384 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  385 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  386 | Duo Wang                  |   8.9 |        75 |        -0.13 |         +0.44 |
 |  387 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  388 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  389 | Therese Jones             |   8.7 |         6 |              |               |
@@ -405,11 +405,11 @@ Generated 2017-08-15.
 |  401 | Fabrice Henrion           |   8.1 |         2 |              |               |
 |  402 | Alexander Zuern           |   8.0 |        25 |              |               |
 |  403 | Zarina Khan               |   8.0 |         5 |              |               |
-|  404 | Sumit Gupta               |   7.9 |        10 |              |               |
-|  405 | Chip Malt                 |   7.9 |         4 |              |               |
-|  406 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  407 | Minsoo Bae                |   7.9 |         2 |              |               |
-|  408 | Brian Kempenich           |   7.8 |        49 |              |         -0.39 |
+|  404 | Brian Kempenich           |   8.0 |        50 |        +0.19 |         -0.21 |
+|  405 | Sumit Gupta               |   7.9 |        10 |              |               |
+|  406 | Chip Malt                 |   7.9 |         4 |              |               |
+|  407 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  408 | Minsoo Bae                |   7.9 |         2 |              |               |
 |  409 | Akira Chiwaki             |   7.8 |         3 |              |               |
 |  410 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  411 | Jeremy Brown              |   7.7 |         4 |              |               |
