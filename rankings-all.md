@@ -89,11 +89,11 @@ Generated 2017-08-15.
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   86 | Jim Veitch                |  24.1 |       460 |        +0.05 |         -1.72 |
 |   87 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   88 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   89 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   90 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   91 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   92 | Matt Wong                 |  23.8 |        92 |        -0.14 |         +1.54 |
+|   88 | Matt Wong                 |  24.0 |        93 |        +0.07 |         +1.76 |
+|   89 | Ignacio Canals            |  24.0 |        21 |              |               |
+|   90 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   91 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   92 | Joseff Farrell            |  23.8 |         5 |              |               |
 |   93 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.33 |
 |   94 | Matt Waid                 |  23.7 |        51 |              |               |
 |   95 | Sonesh Surana             |  23.7 |        95 |              |               |
@@ -121,12 +121,12 @@ Generated 2017-08-15.
 |  117 | Britta Gardner            |  22.1 |        16 |              |               |
 |  118 | Niklas Linde              |  22.1 |        23 |              |               |
 |  119 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  120 | Jonathan Hankar           |  22.0 |       209 |        -0.10 |         -0.25 |
-|  121 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  122 | Blake Woodard             |  22.0 |        10 |              |               |
-|  123 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  124 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  125 | Jan Beranek               |  21.9 |        46 |              |               |
+|  120 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  121 | Blake Woodard             |  22.0 |        10 |              |               |
+|  122 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  123 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  124 | Jan Beranek               |  21.9 |        46 |              |               |
+|  125 | Jonathan Hankar           |  21.8 |       210 |        -0.31 |         -0.46 |
 |  126 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.62 |
 |  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |

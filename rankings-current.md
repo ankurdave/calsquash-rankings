@@ -11,9 +11,9 @@ Generated 2017-08-15.
 |    7 | Thomas Littleton  |  26.3 |        12 |              |               |
 |    8 | John Kunze        |  24.7 |       329 |        -0.07 |               |
 |    9 | Jim Veitch        |  24.1 |       460 |        +0.05 |         -1.72 |
-|   10 | Matt Wong         |  23.8 |        92 |        -0.14 |         +1.54 |
+|   10 | Matt Wong         |  24.0 |        93 |        +0.07 |         +1.76 |
 |   11 | Dan Bohn          |  23.1 |       105 |              |         -0.69 |
-|   12 | Jonathan Hankar   |  22.0 |       209 |        -0.10 |         -0.25 |
+|   12 | Jonathan Hankar   |  21.8 |       210 |        -0.31 |         -0.46 |
 |   13 | Dan Meier         |  21.6 |        75 |        -0.23 |         -0.63 |
 |   14 | Mike Jensen-Akula |  19.9 |       230 |        -0.13 |         -0.06 |
 |   15 | Anthony Abel      |  19.9 |         2 |              |               |
