@@ -32,15 +32,15 @@ Generated 2017-08-16.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Anibhav Singla            |  27.9 |        27 |        +0.45 |               |
-|   31 | Grant French              |  27.5 |       125 |              |               |
-|   32 | Nick Cobbett              |  27.3 |        41 |              |         +1.68 |
+|   31 | Nick Cobbett              |  27.6 |        42 |        +0.30 |         +1.98 |
+|   32 | Grant French              |  27.5 |       125 |              |               |
 |   33 | Stephen Dang              |  27.2 |        34 |              |               |
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
-|   35 | Frank Kennamer            |  27.1 |       232 |              |         +0.16 |
-|   36 | Hussain Raza              |  27.0 |        50 |              |               |
-|   37 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   38 | Alan Jose                 |  26.9 |       182 |              |               |
-|   39 | Michael Best              |  26.9 |        21 |              |               |
+|   35 | Hussain Raza              |  27.0 |        50 |              |               |
+|   36 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   37 | Alan Jose                 |  26.9 |       182 |              |               |
+|   38 | Michael Best              |  26.9 |        21 |              |               |
+|   39 | Frank Kennamer            |  26.9 |       233 |        -0.26 |         -0.10 |
 |   40 | Josh Taylor               |  26.8 |        40 |              |               |
 |   41 | David Hwang               |  26.8 |        44 |              |               |
 |   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
