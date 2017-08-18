@@ -1,4 +1,4 @@
-Generated 2017-08-16.
+Generated 2017-08-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -31,8 +31,8 @@ Generated 2017-08-16.
 |   27 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   30 | Anibhav Singla            |  27.9 |        27 |        +0.45 |               |
-|   31 | Nick Cobbett              |  27.6 |        42 |        +0.30 |         +1.98 |
+|   30 | Nick Cobbett              |  27.9 |        43 |        +0.55 |         +2.22 |
+|   31 | Anibhav Singla            |  27.7 |        28 |        +0.19 |               |
 |   32 | Grant French              |  27.5 |       125 |              |               |
 |   33 | Stephen Dang              |  27.2 |        34 |              |               |
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
@@ -40,7 +40,7 @@ Generated 2017-08-16.
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   37 | Alan Jose                 |  26.9 |       182 |              |               |
 |   38 | Michael Best              |  26.9 |        21 |              |               |
-|   39 | Frank Kennamer            |  26.9 |       233 |        -0.26 |         -0.10 |
+|   39 | Frank Kennamer            |  26.9 |       233 |        -0.25 |         -0.09 |
 |   40 | Josh Taylor               |  26.8 |        40 |              |               |
 |   41 | David Hwang               |  26.8 |        44 |              |               |
 |   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
@@ -89,7 +89,7 @@ Generated 2017-08-16.
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   86 | Jim Veitch                |  24.1 |       460 |        +0.05 |         -1.72 |
 |   87 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   88 | Matt Wong                 |  24.0 |        93 |        +0.07 |         +1.76 |
+|   88 | Matt Wong                 |  24.0 |        93 |        +0.07 |         +1.75 |
 |   89 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   90 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   91 | Christopher Tsang         |  23.9 |        76 |              |               |
