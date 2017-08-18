@@ -15,18 +15,18 @@ Generated 2017-08-18.
 |   11 | Dan Bohn          |  23.1 |       105 |              |         -0.69 |
 |   12 | Jonathan Hankar   |  21.8 |       210 |        -0.31 |         -0.46 |
 |   13 | Dan Meier         |  21.6 |        75 |        -0.23 |         -0.63 |
-|   14 | Mike Jensen-Akula |  19.8 |       230 |        -0.24 |         -0.17 |
-|   15 | Anthony Abel      |  18.7 |         3 |              |               |
-|   16 | Ankur Dave        |  18.4 |        81 |        +0.19 |         +4.75 |
-|   17 | Dror Matalon      |  18.3 |       372 |              |         -0.09 |
-|   18 | Josh Trauner      |  18.1 |        60 |        -0.10 |         +0.23 |
-|   19 | Wayne Heiser      |  17.1 |        59 |        +0.33 |         -0.10 |
-|   20 | Sahar Sareminaeni |  16.8 |        38 |        +0.22 |         +8.88 |
-|   21 | Chris Flores      |  16.1 |       322 |        -0.02 |         -0.75 |
-|   22 | Diego Butrich     |  14.4 |        13 |              |               |
-|   23 | Kent Daniels      |  14.2 |       110 |        -0.26 |         -1.35 |
-|   24 | Craig Hollow      |  13.6 |        24 |              |               |
-|   25 | Benjamin Adler    |  13.6 |         1 |              |               |
+|   14 | Mike Jensen-Akula |  19.8 |       230 |        -0.22 |         -0.15 |
+|   15 | Benjamin Adler    |  19.6 |         2 |              |               |
+|   16 | Anthony Abel      |  19.0 |         3 |              |               |
+|   17 | Ankur Dave        |  18.4 |        81 |        +0.19 |         +4.75 |
+|   18 | Dror Matalon      |  18.3 |       372 |              |         -0.09 |
+|   19 | Josh Trauner      |  18.0 |        61 |        -0.20 |         +0.13 |
+|   20 | Wayne Heiser      |  17.1 |        59 |        +0.33 |         -0.10 |
+|   21 | Sahar Sareminaeni |  16.8 |        38 |        +0.22 |         +8.88 |
+|   22 | Chris Flores      |  16.1 |       322 |        -0.02 |         -0.75 |
+|   23 | Diego Butrich     |  14.4 |        13 |              |               |
+|   24 | Kent Daniels      |  14.2 |       110 |        -0.26 |         -1.35 |
+|   25 | Craig Hollow      |  13.6 |        24 |              |               |
 |   26 | Meldan Heaslip    |  12.4 |        34 |              |               |
 |   27 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
 |   28 | Josh Lebowitz     |  12.2 |        56 |        -0.18 |         +3.27 |
