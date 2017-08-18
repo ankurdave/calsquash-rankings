@@ -1,4 +1,4 @@
-Generated 2017-08-17.
+Generated 2017-08-18.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -20,16 +20,16 @@ Generated 2017-08-17.
 |   16 | Ankur Dave        |  18.4 |        81 |        +0.19 |         +4.75 |
 |   17 | Dror Matalon      |  18.3 |       372 |              |         -0.09 |
 |   18 | Josh Trauner      |  18.1 |        60 |        -0.10 |         +0.23 |
-|   19 | Wayne Heiser      |  16.9 |        58 |        +0.19 |         -0.24 |
+|   19 | Wayne Heiser      |  17.1 |        59 |        +0.33 |         -0.10 |
 |   20 | Sahar Sareminaeni |  16.8 |        38 |        +0.22 |         +8.88 |
-|   21 | Chris Flores      |  16.2 |       320 |              |         -0.73 |
+|   21 | Chris Flores      |  16.1 |       322 |        -0.02 |         -0.75 |
 |   22 | Diego Butrich     |  14.4 |        13 |              |               |
-|   23 | Kent Daniels      |  14.1 |       108 |        -0.37 |         -1.45 |
+|   23 | Kent Daniels      |  14.2 |       110 |        -0.26 |         -1.35 |
 |   24 | Craig Hollow      |  13.6 |        24 |              |               |
 |   25 | Benjamin Adler    |  13.6 |         1 |              |               |
 |   26 | Meldan Heaslip    |  12.4 |        34 |              |               |
-|   27 | Josh Lebowitz     |  12.4 |        53 |        +0.03 |         +3.48 |
-|   28 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
+|   27 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
+|   28 | Josh Lebowitz     |  12.2 |        56 |        -0.18 |         +3.27 |
 |   29 | Karan Goyal       |  12.0 |        11 |        +0.71 |               |
 |   30 | Raphael Magarik   |  10.3 |        34 |        -0.24 |         +1.49 |
 |   31 | Nate Aden         |   9.8 |        38 |              |         +1.59 |

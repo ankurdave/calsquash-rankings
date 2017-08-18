@@ -1,4 +1,4 @@
-Generated 2017-08-17.
+Generated 2017-08-18.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -242,10 +242,10 @@ Generated 2017-08-17.
 |  238 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  239 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  240 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  241 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  242 | Neil Conway               |  17.0 |        55 |              |               |
-|  243 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  244 | Wayne Heiser              |  16.9 |        58 |        +0.19 |         -0.24 |
+|  241 | Wayne Heiser              |  17.1 |        59 |        +0.33 |         -0.10 |
+|  242 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  243 | Neil Conway               |  17.0 |        55 |              |               |
+|  244 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  245 | Baxter Leman              |  16.9 |         6 |              |               |
 |  246 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  247 | Sahar Sareminaeni         |  16.8 |        38 |        +0.22 |         +8.88 |
@@ -263,7 +263,7 @@ Generated 2017-08-17.
 |  259 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  260 | Jan Strasky               |  16.2 |        12 |              |               |
 |  261 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  262 | Chris Flores              |  16.2 |       320 |              |         -0.73 |
+|  262 | Chris Flores              |  16.1 |       322 |        -0.02 |         -0.75 |
 |  263 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  264 | Terry Chang               |  15.8 |        48 |              |         +0.59 |
 |  265 | Louis Russell             |  15.8 |        20 |              |               |
@@ -303,8 +303,8 @@ Generated 2017-08-17.
 |  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  300 | Adam Soliman              |  14.2 |        32 |              |               |
 |  301 | Charles Denby             |  14.2 |         5 |              |               |
-|  302 | Neil Sachs                |  14.1 |        12 |              |               |
-|  303 | Kent Daniels              |  14.1 |       108 |        -0.37 |         -1.45 |
+|  302 | Kent Daniels              |  14.2 |       110 |        -0.26 |         -1.35 |
+|  303 | Neil Sachs                |  14.1 |        12 |              |               |
 |  304 | Rupert Myers              |  14.0 |        27 |              |               |
 |  305 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  306 | Mekoce Walker             |  13.8 |        38 |              |               |
@@ -333,9 +333,9 @@ Generated 2017-08-17.
 |  329 | Meldan Heaslip            |  12.4 |        34 |              |               |
 |  330 | Richard Fabini            |  12.4 |         3 |              |               |
 |  331 | Jennifer Rha              |  12.4 |        18 |              |         +0.30 |
-|  332 | Josh Lebowitz             |  12.4 |        53 |        +0.03 |         +3.48 |
-|  333 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
-|  334 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
+|  332 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
+|  333 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
+|  334 | Josh Lebowitz             |  12.2 |        56 |        -0.18 |         +3.27 |
 |  335 | John Givens               |  12.2 |        13 |              |               |
 |  336 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  337 | Reed Foster               |  12.1 |         8 |              |               |
