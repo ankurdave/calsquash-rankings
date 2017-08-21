@@ -87,7 +87,7 @@ Generated 2017-08-21.
 |   83 | Vyas Sekar                |  24.1 |        17 |              |               |
 |   84 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   85 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   86 | Jim Veitch                |  24.1 |       460 |        +0.05 |         -1.72 |
+|   86 | Jim Veitch                |  24.1 |       460 |        +0.05 |         -1.71 |
 |   87 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   88 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   89 | Glenn Forrester           |  23.9 |       355 |              |               |
@@ -102,10 +102,10 @@ Generated 2017-08-21.
 |   98 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |   99 | Garvin Heath              |  23.4 |        28 |              |               |
 |  100 | Daniel Greengard          |  23.1 |        37 |              |               |
-|  101 | Dan Bohn                  |  23.1 |       105 |              |         -0.69 |
-|  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|  103 | Joe Farrell               |  23.0 |        30 |              |               |
-|  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  101 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|  102 | Joe Farrell               |  23.0 |        30 |              |               |
+|  103 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  104 | Dan Bohn                  |  22.9 |       106 |        -0.19 |         -0.88 |
 |  105 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  106 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  107 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -134,7 +134,7 @@ Generated 2017-08-21.
 |  130 | Omair Azam                |  21.7 |        18 |              |               |
 |  131 | Phin Lee                  |  21.7 |        16 |              |               |
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  133 | Dan Meier                 |  21.6 |        75 |        -0.23 |         -0.63 |
+|  133 | Dan Meier                 |  21.6 |        75 |        -0.22 |         -0.62 |
 |  134 | Dante Popple              |  21.5 |        17 |              |               |
 |  135 | Reid Johnsen              |  21.4 |        49 |              |         +0.70 |
 |  136 | Jared Bard                |  21.3 |        46 |              |         +0.24 |
@@ -206,12 +206,12 @@ Generated 2017-08-21.
 |  202 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  203 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  204 | Allan Sly                 |  18.6 |        29 |              |               |
-|  205 | Jason Facchin             |  18.5 |         3 |              |               |
-|  206 | Yan Liu                   |  18.5 |        10 |              |               |
-|  207 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  208 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  209 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  210 | Ankur Dave                |  18.4 |        81 |        +0.19 |         +4.75 |
+|  205 | Ankur Dave                |  18.6 |        82 |        +0.36 |         +4.92 |
+|  206 | Jason Facchin             |  18.5 |         3 |              |               |
+|  207 | Yan Liu                   |  18.5 |        10 |              |               |
+|  208 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  209 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  210 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  211 | John Eng                  |  18.4 |        28 |              |               |
 |  212 | Natalie Leung             |  18.4 |         1 |              |               |
 |  213 | Jayanth Kannan            |  18.4 |        20 |              |               |

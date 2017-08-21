@@ -10,15 +10,15 @@ Generated 2017-08-21.
 |    6 | Frank Kennamer    |  26.6 |       234 |        -0.46 |         -0.30 |
 |    7 | Thomas Littleton  |  26.3 |        12 |              |               |
 |    8 | John Kunze        |  24.7 |       329 |        -0.07 |               |
-|    9 | Jim Veitch        |  24.1 |       460 |        +0.05 |         -1.72 |
+|    9 | Jim Veitch        |  24.1 |       460 |        +0.05 |         -1.71 |
 |   10 | Matt Wong         |  23.9 |        94 |        -0.07 |         +1.62 |
-|   11 | Dan Bohn          |  23.1 |       105 |              |         -0.69 |
+|   11 | Dan Bohn          |  22.9 |       106 |        -0.19 |         -0.88 |
 |   12 | Jonathan Hankar   |  21.8 |       210 |        -0.31 |         -0.46 |
-|   13 | Dan Meier         |  21.6 |        75 |        -0.23 |         -0.63 |
+|   13 | Dan Meier         |  21.6 |        75 |        -0.22 |         -0.62 |
 |   14 | Mike Jensen-Akula |  19.8 |       230 |        -0.22 |         -0.15 |
 |   15 | Benjamin Adler    |  19.6 |         2 |              |               |
 |   16 | Anthony Abel      |  19.0 |         3 |              |               |
-|   17 | Ankur Dave        |  18.4 |        81 |        +0.19 |         +4.75 |
+|   17 | Ankur Dave        |  18.6 |        82 |        +0.36 |         +4.92 |
 |   18 | Dror Matalon      |  18.3 |       372 |              |         -0.09 |
 |   19 | Josh Trauner      |  18.0 |        61 |        -0.20 |         +0.13 |
 |   20 | Wayne Heiser      |  17.1 |        59 |        +0.33 |         -0.10 |
