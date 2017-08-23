@@ -33,10 +33,10 @@ Generated 2017-08-22.
 |   29 | Karan Goyal       |  12.0 |        11 |        +0.71 |               |
 |   30 | Raphael Magarik   |  10.3 |        34 |        -0.24 |         +1.49 |
 |   31 | Nate Aden         |   9.8 |        38 |              |         +1.59 |
-|   32 | Duo Wang          |   8.9 |        75 |        -0.13 |         +0.44 |
+|   32 | Duo Wang          |   9.1 |        76 |        +0.09 |         +0.66 |
 |   33 | Brian Kempenich   |   8.0 |        50 |        +0.19 |         -0.21 |
 |   34 | Sumit Gupta       |   7.9 |        10 |              |               |
-|   35 | Terence Stotz     |   7.6 |         7 |              |               |
+|   35 | Terence Stotz     |   7.3 |         8 |        -0.35 |               |
 |   36 | Zsolt Bartha      |   4.2 |        61 |              |         -0.57 |
 |   37 | Sagar Pilania     |   2.8 |         2 |              |               |
 |   38 | Duncan MacRae     |   0.4 |        26 |              |               |
