@@ -1,4 +1,4 @@
-Generated 2017-08-22.
+Generated 2017-08-23.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -32,13 +32,13 @@ Generated 2017-08-22.
 |   28 | Josh Lebowitz     |  12.2 |        56 |        -0.18 |         +3.27 |
 |   29 | Karan Goyal       |  12.0 |        11 |        +0.71 |               |
 |   30 | Raphael Magarik   |  10.3 |        34 |        -0.24 |         +1.49 |
-|   31 | Nate Aden         |   9.8 |        38 |              |         +1.59 |
+|   31 | Nate Aden         |   9.9 |        39 |        +0.05 |         +1.64 |
 |   32 | Duo Wang          |   9.1 |        76 |        +0.09 |         +0.66 |
 |   33 | Brian Kempenich   |   8.0 |        50 |        +0.19 |         -0.21 |
 |   34 | Sumit Gupta       |   7.9 |        10 |              |               |
 |   35 | Terence Stotz     |   7.3 |         8 |        -0.35 |               |
 |   36 | Zsolt Bartha      |   4.2 |        61 |              |         -0.57 |
 |   37 | Sagar Pilania     |   2.8 |         2 |              |               |
-|   38 | Duncan MacRae     |   0.4 |        26 |              |               |
+|   38 | Duncan MacRae     |   0.3 |        27 |        -0.08 |               |
 |   39 | John Hwong        |  -0.7 |         1 |              |               |
 |   40 | Cecilia Shan Cao  |  -5.1 |         2 |              |               |

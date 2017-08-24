@@ -1,4 +1,4 @@
-Generated 2017-08-22.
+Generated 2017-08-23.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -369,7 +369,7 @@ Generated 2017-08-22.
 |  365 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  366 | Reto Sutter               |  10.0 |        52 |              |         -0.83 |
 |  367 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  368 | Nate Aden                 |   9.8 |        38 |              |         +1.59 |
+|  368 | Nate Aden                 |   9.9 |        39 |        +0.05 |         +1.64 |
 |  369 | Daniel Schwartz           |   9.8 |        22 |              |         +0.98 |
 |  370 | Myles Gordon              |   9.8 |        42 |              |               |
 |  371 | Jacob Bank                |   9.7 |         1 |              |               |
@@ -487,8 +487,8 @@ Generated 2017-08-22.
 |  483 | Ashley Mercer             |   0.5 |         5 |              |               |
 |  484 | Laurie Choi               |   0.5 |         2 |              |               |
 |  485 | Anne Iversen              |   0.4 |         3 |              |               |
-|  486 | Duncan MacRae             |   0.4 |        26 |              |               |
-|  487 | Nathaniel Rice            |   0.4 |         3 |              |               |
+|  486 | Nathaniel Rice            |   0.4 |         3 |              |               |
+|  487 | Duncan MacRae             |   0.3 |        27 |        -0.08 |               |
 |  488 | Stuart Fox                |   0.2 |         1 |              |               |
 |  489 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  490 | Rachel Chiu               |   0.1 |         2 |              |               |
