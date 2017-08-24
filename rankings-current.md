@@ -1,17 +1,17 @@
-Generated 2017-08-23.
+Generated 2017-08-24.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
-|    1 | Ashley Kayler     |  33.8 |       224 |        -0.04 |         -1.21 |
-|    2 | Eric Katerman     |  33.7 |        59 |              |         +3.33 |
-|    3 | Sam Sternberg     |  30.3 |       158 |        +0.14 |         -0.12 |
+|    1 | Ashley Kayler     |  33.8 |       224 |        -0.04 |         -1.20 |
+|    2 | Eric Katerman     |  33.7 |        59 |              |         +3.32 |
+|    3 | Sam Sternberg     |  30.1 |       159 |        -0.07 |         -0.33 |
 |    4 | Nick Cobbett      |  28.0 |        44 |        +0.72 |         +2.39 |
 |    5 | Anibhav Singla    |  28.0 |        29 |        +0.57 |               |
-|    6 | Frank Kennamer    |  26.6 |       234 |        -0.46 |         -0.30 |
-|    7 | Thomas Littleton  |  26.3 |        12 |              |               |
-|    8 | John Kunze        |  24.7 |       329 |        -0.07 |               |
+|    6 | Frank Kennamer    |  26.8 |       235 |        -0.28 |         -0.12 |
+|    7 | Thomas Littleton  |  26.4 |        13 |        +0.04 |               |
+|    8 | John Kunze        |  25.0 |       331 |        +0.22 |         +0.30 |
 |    9 | Jim Veitch        |  24.1 |       460 |        +0.05 |         -1.71 |
-|   10 | Matt Wong         |  23.9 |        94 |        -0.07 |         +1.62 |
+|   10 | Matt Wong         |  23.7 |        95 |        -0.25 |         +1.44 |
 |   11 | Dan Bohn          |  22.9 |       106 |        -0.19 |         -0.88 |
 |   12 | Jonathan Hankar   |  21.8 |       210 |        -0.31 |         -0.46 |
 |   13 | Dan Meier         |  21.6 |        75 |        -0.22 |         -0.62 |

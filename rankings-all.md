@@ -1,4 +1,4 @@
-Generated 2017-08-23.
+Generated 2017-08-24.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -6,8 +6,8 @@ Generated 2017-08-23.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Ashley Kayler             |  33.8 |       224 |        -0.04 |         -1.21 |
-|    6 | Eric Katerman             |  33.7 |        59 |              |         +3.33 |
+|    5 | Ashley Kayler             |  33.8 |       224 |        -0.04 |         -1.20 |
+|    6 | Eric Katerman             |  33.7 |        59 |              |         +3.32 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
@@ -18,9 +18,9 @@ Generated 2017-08-23.
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.3 |       158 |        +0.14 |         -0.12 |
-|   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
-|   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
+|   17 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
+|   18 | Umesh Vazirani            |  30.1 |        27 |              |               |
+|   19 | Sam Sternberg             |  30.1 |       159 |        -0.07 |         -0.33 |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
 |   21 | David Wood                |  29.7 |        43 |              |               |
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
@@ -40,13 +40,13 @@ Generated 2017-08-23.
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   37 | Alan Jose                 |  26.9 |       182 |              |               |
 |   38 | Michael Best              |  26.9 |        21 |              |               |
-|   39 | Josh Taylor               |  26.8 |        40 |              |               |
-|   40 | David Hwang               |  26.8 |        44 |              |               |
-|   41 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
-|   42 | Frank Kennamer            |  26.6 |       234 |        -0.46 |         -0.30 |
+|   39 | Frank Kennamer            |  26.8 |       235 |        -0.28 |         -0.12 |
+|   40 | Josh Taylor               |  26.8 |        40 |              |               |
+|   41 | David Hwang               |  26.8 |        44 |              |               |
+|   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
-|   45 | Thomas Littleton          |  26.3 |        12 |              |               |
+|   45 | Thomas Littleton          |  26.4 |        13 |        +0.04 |               |
 |   46 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   47 | Mikey Zarem               |  26.1 |         8 |              |               |
 |   48 | Vishi                     |  26.0 |        41 |              |               |
@@ -60,16 +60,16 @@ Generated 2017-08-23.
 |   56 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   57 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   58 | Paul Greene               |  25.2 |         8 |              |               |
-|   59 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   60 | Sam McCormick             |  25.0 |        38 |              |         +4.47 |
-|   61 | Ben Seelig                |  25.0 |        69 |              |               |
-|   62 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   63 | Madhav Pai                |  24.9 |         5 |              |               |
-|   64 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   65 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   66 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   67 | Orion Hodson              |  24.8 |        31 |              |               |
-|   68 | John Kunze                |  24.7 |       329 |        -0.07 |               |
+|   59 | John Kunze                |  25.0 |       331 |        +0.22 |         +0.30 |
+|   60 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   61 | Sam McCormick             |  25.0 |        38 |              |         +4.47 |
+|   62 | Ben Seelig                |  25.0 |        69 |              |               |
+|   63 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   64 | Madhav Pai                |  24.9 |         5 |              |               |
+|   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
+|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   67 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   68 | Orion Hodson              |  24.8 |        31 |              |               |
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
@@ -92,11 +92,11 @@ Generated 2017-08-23.
 |   88 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   89 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   90 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   91 | Matt Wong                 |  23.9 |        94 |        -0.07 |         +1.62 |
-|   92 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   93 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.33 |
-|   94 | Matt Waid                 |  23.7 |        51 |              |               |
-|   95 | Sonesh Surana             |  23.7 |        95 |              |               |
+|   91 | Joseff Farrell            |  23.8 |         5 |              |               |
+|   92 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.33 |
+|   93 | Matt Waid                 |  23.7 |        51 |              |               |
+|   94 | Sonesh Surana             |  23.7 |        95 |              |               |
+|   95 | Matt Wong                 |  23.7 |        95 |        -0.25 |         +1.44 |
 |   96 | Nader Shoaibi             |  23.7 |        64 |              |               |
 |   97 | Amy Lee                   |  23.6 |        56 |              |               |
 |   98 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
