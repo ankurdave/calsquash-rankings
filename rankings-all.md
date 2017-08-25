@@ -385,10 +385,10 @@ Generated 2017-08-25.
 |  381 | Greg Sperla               |   9.3 |         8 |              |               |
 |  382 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  383 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  384 | Duo Wang                  |   9.1 |        76 |        +0.09 |         +0.66 |
-|  385 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  386 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  387 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  384 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  385 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  386 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  387 | Duo Wang                  |   8.9 |        75 |        -0.13 |         +0.44 |
 |  388 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  389 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  390 | Therese Jones             |   8.7 |         6 |              |               |
@@ -415,10 +415,10 @@ Generated 2017-08-25.
 |  411 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  412 | Jeremy Brown              |   7.7 |         4 |              |               |
 |  413 | Ryan Akers                |   7.7 |         2 |              |               |
-|  414 | Yashraj Khaitain          |   7.6 |         2 |              |               |
-|  415 | Arno Ferguson             |   7.4 |         1 |              |               |
-|  416 | Alex Walters              |   7.4 |         3 |              |               |
-|  417 | Terence Stotz             |   7.3 |         8 |        -0.35 |               |
+|  414 | Terence Stotz             |   7.6 |         7 |              |               |
+|  415 | Yashraj Khaitain          |   7.6 |         2 |              |               |
+|  416 | Arno Ferguson             |   7.4 |         1 |              |               |
+|  417 | Alex Walters              |   7.4 |         3 |              |               |
 |  418 | Jaiyoung Ryu              |   7.3 |        22 |              |               |
 |  419 | Keaton Noon               |   7.2 |        23 |              |         +1.61 |
 |  420 | Jose Lara                 |   7.1 |        15 |              |         +0.89 |
