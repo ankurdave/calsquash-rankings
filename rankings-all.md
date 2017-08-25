@@ -243,12 +243,12 @@ Generated 2017-08-24.
 |  239 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  240 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  241 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  242 | Wayne Heiser              |  17.1 |        59 |        +0.33 |         -0.10 |
-|  243 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  244 | Neil Conway               |  17.0 |        55 |              |               |
-|  245 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  246 | Baxter Leman              |  16.9 |         6 |              |               |
-|  247 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  242 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  243 | Neil Conway               |  17.0 |        55 |              |               |
+|  244 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  245 | Baxter Leman              |  16.9 |         6 |              |               |
+|  246 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  247 | Wayne Heiser              |  16.9 |        60 |        +0.12 |         -0.31 |
 |  248 | Sahar Sareminaeni         |  16.8 |        38 |        +0.22 |         +8.88 |
 |  249 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  250 | Chinghway Lim             |  16.7 |        10 |              |               |
@@ -258,13 +258,13 @@ Generated 2017-08-24.
 |  254 | William Coleman           |  16.5 |        48 |              |               |
 |  255 | Mike Troxell              |  16.5 |         8 |              |               |
 |  256 | Danish Mir                |  16.4 |         1 |              |               |
-|  257 | Paul Chang                |  16.3 |         7 |              |               |
-|  258 | Steven Hahm               |  16.3 |         5 |              |               |
-|  259 | Jules Bowie               |  16.3 |        12 |              |               |
-|  260 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  261 | Jan Strasky               |  16.2 |        12 |              |               |
-|  262 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  263 | Chris Flores              |  16.1 |       322 |        -0.02 |         -0.75 |
+|  257 | Chris Flores              |  16.4 |       323 |        +0.20 |         -0.53 |
+|  258 | Paul Chang                |  16.3 |         7 |              |               |
+|  259 | Steven Hahm               |  16.3 |         5 |              |               |
+|  260 | Jules Bowie               |  16.3 |        12 |              |               |
+|  261 | Wladislaw Ellis           |  16.2 |        29 |              |               |
+|  262 | Jan Strasky               |  16.2 |        12 |              |               |
+|  263 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  264 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  265 | Terry Chang               |  15.8 |        48 |              |         +0.59 |
 |  266 | Louis Russell             |  15.8 |        20 |              |               |

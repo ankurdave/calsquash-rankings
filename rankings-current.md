@@ -21,9 +21,9 @@ Generated 2017-08-24.
 |   17 | Ankur Dave        |  18.6 |        82 |        +0.36 |         +4.92 |
 |   18 | Dror Matalon      |  18.2 |       373 |        -0.07 |         -0.16 |
 |   19 | Josh Trauner      |  18.0 |        61 |        -0.21 |         +0.11 |
-|   20 | Wayne Heiser      |  17.1 |        59 |        +0.33 |         -0.10 |
+|   20 | Wayne Heiser      |  16.9 |        60 |        +0.12 |         -0.31 |
 |   21 | Sahar Sareminaeni |  16.8 |        38 |        +0.22 |         +8.88 |
-|   22 | Chris Flores      |  16.1 |       322 |        -0.02 |         -0.75 |
+|   22 | Chris Flores      |  16.4 |       323 |        +0.20 |         -0.53 |
 |   23 | Diego Butrich     |  14.4 |        13 |              |               |
 |   24 | Kent Daniels      |  14.2 |       110 |        -0.26 |         -1.35 |
 |   25 | Craig Hollow      |  13.6 |        24 |              |               |
