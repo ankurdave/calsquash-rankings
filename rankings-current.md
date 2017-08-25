@@ -1,4 +1,4 @@
-Generated 2017-08-24.
+Generated 2017-08-25.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -27,11 +27,11 @@ Generated 2017-08-24.
 |   23 | Diego Butrich     |  14.4 |        13 |              |               |
 |   24 | Kent Daniels      |  14.2 |       110 |        -0.26 |         -1.35 |
 |   25 | Craig Hollow      |  13.6 |        24 |              |               |
-|   26 | Meldan Heaslip    |  12.4 |        34 |              |               |
+|   26 | Meldan Heaslip    |  12.7 |        35 |        +0.25 |               |
 |   27 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
 |   28 | Josh Lebowitz     |  12.2 |        56 |        -0.18 |         +3.27 |
-|   29 | Karan Goyal       |  12.0 |        11 |        +0.71 |               |
-|   30 | Raphael Magarik   |  10.3 |        34 |        -0.24 |         +1.49 |
+|   29 | Karan Goyal       |  11.9 |        11 |        +0.68 |               |
+|   30 | Raphael Magarik   |  10.0 |        35 |        -0.48 |         +1.24 |
 |   31 | Nate Aden         |   9.9 |        39 |        +0.05 |         +1.64 |
 |   32 | Duo Wang          |   9.1 |        76 |        +0.09 |         +0.66 |
 |   33 | Brian Kempenich   |   8.0 |        50 |        +0.19 |         -0.21 |

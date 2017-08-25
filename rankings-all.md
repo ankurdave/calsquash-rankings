@@ -1,4 +1,4 @@
-Generated 2017-08-24.
+Generated 2017-08-25.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -328,9 +328,9 @@ Generated 2017-08-24.
 |  324 | David Isaksson            |  12.9 |        22 |              |               |
 |  325 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  326 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  327 | Josh Shiode               |  12.6 |        20 |              |               |
-|  328 | Huw Lester                |  12.5 |         1 |              |               |
-|  329 | Meldan Heaslip            |  12.4 |        34 |              |               |
+|  327 | Meldan Heaslip            |  12.7 |        35 |        +0.25 |               |
+|  328 | Josh Shiode               |  12.6 |        20 |              |               |
+|  329 | Huw Lester                |  12.5 |         1 |              |               |
 |  330 | Richard Fabini            |  12.4 |         3 |              |               |
 |  331 | Jennifer Rha              |  12.4 |        18 |              |         +0.30 |
 |  332 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
@@ -339,8 +339,8 @@ Generated 2017-08-24.
 |  335 | John Givens               |  12.2 |        13 |              |               |
 |  336 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  337 | Reed Foster               |  12.1 |         8 |              |               |
-|  338 | Karan Goyal               |  12.0 |        11 |        +0.71 |               |
-|  339 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  338 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  339 | Karan Goyal               |  11.9 |        11 |        +0.68 |               |
 |  340 | Larry Dale                |  11.9 |        29 |              |               |
 |  341 | Aman Gupta                |  11.8 |         3 |              |               |
 |  342 | Mitchell O'Connell        |  11.8 |        32 |              |               |
@@ -360,13 +360,13 @@ Generated 2017-08-24.
 |  356 | Brian Puglise             |  10.4 |         2 |              |               |
 |  357 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  358 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  359 | Raphael Magarik           |  10.3 |        34 |        -0.24 |         +1.49 |
-|  360 | John Provine              |  10.2 |        16 |              |               |
-|  361 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  362 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  363 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  364 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  365 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  359 | John Provine              |  10.2 |        16 |              |               |
+|  360 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  361 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  362 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  363 | Sung-Jin Oh               |  10.1 |         6 |              |               |
+|  364 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  365 | Raphael Magarik           |  10.0 |        35 |        -0.48 |         +1.24 |
 |  366 | Reto Sutter               |  10.0 |        52 |              |         -0.83 |
 |  367 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  368 | Nate Aden                 |   9.9 |        39 |        +0.05 |         +1.64 |
