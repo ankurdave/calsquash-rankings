@@ -1,4 +1,4 @@
-Generated 2017-08-26.
+Generated 2017-08-27.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -24,14 +24,14 @@ Generated 2017-08-26.
 |   20 | Wayne Heiser      |  16.9 |        60 |        +0.12 |         -0.31 |
 |   21 | Sahar Sareminaeni |  16.8 |        38 |        +0.22 |         +8.88 |
 |   22 | Chris Flores      |  16.4 |       323 |        +0.20 |         -0.53 |
-|   23 | Diego Butrich     |  14.4 |        13 |              |               |
-|   24 | Kent Daniels      |  14.2 |       110 |        -0.26 |         -1.35 |
+|   23 | Kent Daniels      |  14.2 |       110 |        -0.26 |         -1.35 |
+|   24 | Diego Butrich     |  14.1 |        14 |        -0.27 |               |
 |   25 | Craig Hollow      |  13.6 |        24 |              |               |
-|   26 | Meldan Heaslip    |  12.7 |        35 |        +0.25 |               |
+|   26 | Meldan Heaslip    |  12.9 |        36 |        +0.49 |               |
 |   27 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
 |   28 | Josh Lebowitz     |  12.2 |        56 |        -0.18 |         +3.27 |
-|   29 | Karan Goyal       |  11.9 |        11 |        +0.68 |               |
-|   30 | Raphael Magarik   |  10.0 |        35 |        -0.48 |         +1.24 |
+|   29 | Karan Goyal       |  12.0 |        11 |        +0.71 |               |
+|   30 | Raphael Magarik   |  10.0 |        35 |        -0.47 |         +1.25 |
 |   31 | Nate Aden         |   9.9 |        39 |        +0.05 |         +1.64 |
 |   32 | Duo Wang          |   8.9 |        75 |        -0.13 |         +0.44 |
 |   33 | Brian Kempenich   |   8.0 |        50 |        +0.19 |         -0.21 |

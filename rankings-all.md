@@ -1,4 +1,4 @@
-Generated 2017-08-26.
+Generated 2017-08-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -299,12 +299,12 @@ Generated 2017-08-26.
 |  295 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  296 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.39 |
 |  297 | Max Woodworth             |  14.4 |         7 |              |               |
-|  298 | Diego Butrich             |  14.4 |        13 |              |               |
-|  299 | Juliet Shih               |  14.4 |        11 |              |               |
-|  300 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  301 | Adam Soliman              |  14.2 |        32 |              |               |
-|  302 | Charles Denby             |  14.2 |         5 |              |               |
-|  303 | Kent Daniels              |  14.2 |       110 |        -0.26 |         -1.35 |
+|  298 | Juliet Shih               |  14.4 |        11 |              |               |
+|  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  300 | Adam Soliman              |  14.2 |        32 |              |               |
+|  301 | Charles Denby             |  14.2 |         5 |              |               |
+|  302 | Kent Daniels              |  14.2 |       110 |        -0.26 |         -1.35 |
+|  303 | Diego Butrich             |  14.1 |        14 |        -0.27 |               |
 |  304 | Neil Sachs                |  14.1 |        12 |              |               |
 |  305 | Rupert Myers              |  14.0 |        27 |              |               |
 |  306 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
@@ -325,10 +325,10 @@ Generated 2017-08-26.
 |  321 | Field Maloney             |  13.1 |        24 |              |               |
 |  322 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  323 | Lewis Moore               |  13.0 |        69 |              |               |
-|  324 | David Isaksson            |  12.9 |        22 |              |               |
-|  325 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  326 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  327 | Meldan Heaslip            |  12.7 |        35 |        +0.25 |               |
+|  324 | Meldan Heaslip            |  12.9 |        36 |        +0.49 |               |
+|  325 | David Isaksson            |  12.9 |        22 |              |               |
+|  326 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  327 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  328 | Josh Shiode               |  12.6 |        20 |              |               |
 |  329 | Huw Lester                |  12.5 |         1 |              |               |
 |  330 | Richard Fabini            |  12.4 |         3 |              |               |
@@ -339,8 +339,8 @@ Generated 2017-08-26.
 |  335 | John Givens               |  12.2 |        13 |              |               |
 |  336 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  337 | Reed Foster               |  12.1 |         8 |              |               |
-|  338 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  339 | Karan Goyal               |  11.9 |        11 |        +0.68 |               |
+|  338 | Karan Goyal               |  12.0 |        11 |        +0.71 |               |
+|  339 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  340 | Larry Dale                |  11.9 |        29 |              |               |
 |  341 | Aman Gupta                |  11.8 |         3 |              |               |
 |  342 | Mitchell O'Connell        |  11.8 |        32 |              |               |
@@ -365,8 +365,8 @@ Generated 2017-08-26.
 |  361 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  362 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  363 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  364 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  365 | Raphael Magarik           |  10.0 |        35 |        -0.48 |         +1.24 |
+|  364 | Raphael Magarik           |  10.0 |        35 |        -0.47 |         +1.25 |
+|  365 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  366 | Reto Sutter               |  10.0 |        52 |              |         -0.83 |
 |  367 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  368 | Nate Aden                 |   9.9 |        39 |        +0.05 |         +1.64 |
