@@ -1,4 +1,4 @@
-Generated 2017-08-25.
+Generated 2017-08-26.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -10,7 +10,7 @@ Generated 2017-08-25.
 |    6 | Frank Kennamer    |  26.8 |       235 |        -0.28 |         -0.12 |
 |    7 | Thomas Littleton  |  26.4 |        13 |        +0.04 |               |
 |    8 | John Kunze        |  25.0 |       331 |        +0.22 |         +0.30 |
-|    9 | Jim Veitch        |  24.1 |       460 |        +0.05 |         -1.71 |
+|    9 | Jim Veitch        |  24.1 |       461 |        +0.13 |         -1.64 |
 |   10 | Matt Wong         |  23.7 |        95 |        -0.25 |         +1.44 |
 |   11 | Dan Bohn          |  22.9 |       106 |        -0.19 |         -0.88 |
 |   12 | Jonathan Hankar   |  21.8 |       210 |        -0.31 |         -0.46 |
@@ -39,6 +39,7 @@ Generated 2017-08-25.
 |   35 | Terence Stotz     |   7.6 |         7 |              |               |
 |   36 | Zsolt Bartha      |   4.2 |        61 |              |         -0.57 |
 |   37 | Sagar Pilania     |   2.8 |         2 |              |               |
-|   38 | Duncan MacRae     |   0.3 |        27 |        -0.08 |               |
-|   39 | John Hwong        |  -0.7 |         1 |              |               |
-|   40 | Cecilia Shan Cao  |  -5.1 |         2 |              |               |
+|   38 | Ashley Brooks     |   1.9 |         1 |              |               |
+|   39 | Duncan MacRae     |   0.3 |        27 |        -0.08 |               |
+|   40 | John Hwong        |  -0.7 |         1 |              |               |
+|   41 | Cecilia Shan Cao  |  -5.1 |         2 |              |               |
