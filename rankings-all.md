@@ -1,4 +1,4 @@
-Generated 2017-08-28.
+Generated 2017-08-29.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -136,7 +136,7 @@ Generated 2017-08-28.
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  133 | Dan Meier                 |  21.6 |        75 |        -0.22 |         -0.62 |
 |  134 | Dante Popple              |  21.5 |        17 |              |               |
-|  135 | Benjamin Adler            |  21.4 |         4 |              |               |
+|  135 | Benjamin Adler            |  21.5 |         4 |              |               |
 |  136 | Reid Johnsen              |  21.4 |        49 |              |         +0.70 |
 |  137 | Jared Bard                |  21.3 |        46 |              |         +0.24 |
 |  138 | Ian Lunt                  |  21.3 |         9 |              |               |
@@ -174,9 +174,9 @@ Generated 2017-08-28.
 |  170 | Jonathan Francis          |  20.0 |        76 |              |         -0.04 |
 |  171 | Wesley Huang              |  20.0 |         8 |              |               |
 |  172 | Mark Modera               |  20.0 |       335 |              |         -1.04 |
-|  173 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  174 | Liam King                 |  19.9 |         6 |              |               |
-|  175 | Mike Jensen-Akula         |  19.9 |       231 |        -0.14 |         -0.07 |
+|  173 | Mike Jensen-Akula         |  20.0 |       231 |        -0.05 |         +0.02 |
+|  174 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  175 | Liam King                 |  19.9 |         6 |              |               |
 |  176 | Lysander Jim              |  19.8 |         6 |              |               |
 |  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  178 | Suneesh Kaul              |  19.7 |         3 |              |               |
@@ -200,12 +200,12 @@ Generated 2017-08-28.
 |  196 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  197 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  198 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  199 | Peter Dering              |  18.7 |         9 |              |               |
-|  200 | Sushant Jain              |  18.7 |        12 |              |               |
-|  201 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  202 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  203 | Allan Sly                 |  18.6 |        29 |              |               |
-|  204 | Anthony Abel              |  18.6 |         3 |              |               |
+|  199 | Anthony Abel              |  18.7 |         3 |              |               |
+|  200 | Peter Dering              |  18.7 |         9 |              |               |
+|  201 | Sushant Jain              |  18.7 |        12 |              |               |
+|  202 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  203 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  204 | Allan Sly                 |  18.6 |        29 |              |               |
 |  205 | Jason Facchin             |  18.5 |         3 |              |               |
 |  206 | Yan Liu                   |  18.5 |        10 |              |               |
 |  207 | Akshay Dugar              |  18.5 |         6 |              |               |
@@ -215,17 +215,17 @@ Generated 2017-08-28.
 |  211 | John Eng                  |  18.4 |        28 |              |               |
 |  212 | Natalie Leung             |  18.4 |         1 |              |               |
 |  213 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  214 | Kenny Bell                |  18.2 |       124 |              |         -0.58 |
-|  215 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  216 | Dror Matalon              |  18.2 |       373 |        -0.07 |         -0.16 |
+|  214 | Dror Matalon              |  18.3 |       374 |              |         -0.09 |
+|  215 | Kenny Bell                |  18.2 |       124 |              |         -0.58 |
+|  216 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  217 | Bob Roller                |  18.2 |         6 |              |               |
 |  218 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  219 | Josh Trauner              |  18.0 |        61 |        -0.21 |         +0.11 |
-|  220 | James Chung               |  17.9 |         7 |              |               |
-|  221 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  222 | Eric Borden               |  17.8 |        44 |              |         +0.41 |
-|  223 | Troup Howard              |  17.8 |        47 |              |         +0.46 |
-|  224 | Nick Paget                |  17.8 |        35 |              |               |
+|  219 | James Chung               |  17.9 |         7 |              |               |
+|  220 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  221 | Eric Borden               |  17.8 |        44 |              |         +0.41 |
+|  222 | Troup Howard              |  17.8 |        47 |              |         +0.46 |
+|  223 | Nick Paget                |  17.8 |        35 |              |               |
+|  224 | Josh Trauner              |  17.8 |        62 |        -0.36 |         -0.03 |
 |  225 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  226 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  227 | George Roche              |  17.7 |        14 |              |               |

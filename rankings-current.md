@@ -1,4 +1,4 @@
-Generated 2017-08-28.
+Generated 2017-08-29.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -15,12 +15,12 @@ Generated 2017-08-28.
 |   11 | Dan Bohn          |  22.9 |       106 |        -0.19 |         -0.88 |
 |   12 | Jonathan Hankar   |  21.7 |       211 |        -0.43 |         -0.58 |
 |   13 | Dan Meier         |  21.6 |        75 |        -0.22 |         -0.62 |
-|   14 | Benjamin Adler    |  21.4 |         4 |              |               |
-|   15 | Mike Jensen-Akula |  19.9 |       231 |        -0.14 |         -0.07 |
-|   16 | Anthony Abel      |  18.6 |         3 |              |               |
+|   14 | Benjamin Adler    |  21.5 |         4 |              |               |
+|   15 | Mike Jensen-Akula |  20.0 |       231 |        -0.05 |         +0.02 |
+|   16 | Anthony Abel      |  18.7 |         3 |              |               |
 |   17 | Ankur Dave        |  18.5 |        83 |        +0.23 |         +4.79 |
-|   18 | Dror Matalon      |  18.2 |       373 |        -0.07 |         -0.16 |
-|   19 | Josh Trauner      |  18.0 |        61 |        -0.21 |         +0.11 |
+|   18 | Dror Matalon      |  18.3 |       374 |              |         -0.09 |
+|   19 | Josh Trauner      |  17.8 |        62 |        -0.36 |         -0.03 |
 |   20 | Wayne Heiser      |  16.9 |        60 |        +0.12 |         -0.31 |
 |   21 | Sahar Sareminaeni |  16.8 |        38 |        +0.22 |         +8.88 |
 |   22 | Chris Flores      |  16.4 |       323 |        +0.20 |         -0.53 |
