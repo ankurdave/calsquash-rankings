@@ -31,16 +31,16 @@ Generated 2017-08-28.
 |   27 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   30 | Nick Cobbett              |  28.0 |        44 |        +0.72 |         +2.39 |
-|   31 | Anibhav Singla            |  28.0 |        29 |        +0.57 |               |
+|   30 | Nick Cobbett              |  28.1 |        44 |        +0.72 |         +2.40 |
+|   31 | Anibhav Singla            |  28.0 |        29 |        +0.58 |               |
 |   32 | Grant French              |  27.5 |       125 |              |               |
 |   33 | Stephen Dang              |  27.2 |        34 |              |               |
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   37 | Alan Jose                 |  26.9 |       182 |              |               |
-|   38 | Michael Best              |  26.9 |        21 |              |               |
-|   39 | Frank Kennamer            |  26.8 |       235 |        -0.28 |         -0.12 |
+|   37 | Frank Kennamer            |  26.9 |       236 |        -0.17 |         -0.01 |
+|   38 | Alan Jose                 |  26.9 |       182 |              |               |
+|   39 | Michael Best              |  26.9 |        21 |              |               |
 |   40 | Josh Taylor               |  26.8 |        40 |              |               |
 |   41 | David Hwang               |  26.8 |        44 |              |               |
 |   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
@@ -126,11 +126,11 @@ Generated 2017-08-28.
 |  122 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  123 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  124 | Jan Beranek               |  21.9 |        46 |              |               |
-|  125 | Jonathan Hankar           |  21.8 |       210 |        -0.31 |         -0.46 |
-|  126 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.62 |
-|  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  129 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  125 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.62 |
+|  126 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  127 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  128 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  129 | Jonathan Hankar           |  21.7 |       211 |        -0.43 |         -0.58 |
 |  130 | Omair Azam                |  21.7 |        18 |              |               |
 |  131 | Phin Lee                  |  21.7 |        16 |              |               |
 |  132 | Tim Bruckner              |  21.7 |        10 |              |               |
