@@ -1,4 +1,4 @@
-Generated 2017-08-29.
+Generated 2017-08-30.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -304,7 +304,7 @@ Generated 2017-08-29.
 |  300 | Adam Soliman              |  14.2 |        32 |              |               |
 |  301 | Charles Denby             |  14.2 |         5 |              |               |
 |  302 | Kent Daniels              |  14.2 |       110 |        -0.26 |         -1.35 |
-|  303 | Diego Butrich             |  14.1 |        14 |        -0.27 |               |
+|  303 | Diego Butrich             |  14.1 |        14 |        -0.28 |               |
 |  304 | Neil Sachs                |  14.1 |        12 |              |               |
 |  305 | Rupert Myers              |  14.0 |        27 |              |               |
 |  306 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
@@ -325,22 +325,22 @@ Generated 2017-08-29.
 |  321 | Field Maloney             |  13.1 |        24 |              |               |
 |  322 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  323 | Lewis Moore               |  13.0 |        69 |              |               |
-|  324 | Meldan Heaslip            |  12.9 |        36 |        +0.49 |               |
-|  325 | David Isaksson            |  12.9 |        22 |              |               |
-|  326 | Ashley Brooks             |  12.9 |         2 |              |               |
+|  324 | David Isaksson            |  12.9 |        22 |              |               |
+|  325 | Ashley Brooks             |  12.9 |         2 |              |               |
+|  326 | Meldan Heaslip            |  12.8 |        37 |        +0.37 |               |
 |  327 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  328 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  329 | Josh Shiode               |  12.6 |        20 |              |               |
-|  330 | Huw Lester                |  12.5 |         1 |              |               |
-|  331 | Richard Fabini            |  12.4 |         3 |              |               |
-|  332 | Jennifer Rha              |  12.4 |        18 |              |         +0.30 |
-|  333 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
-|  334 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
-|  335 | Josh Lebowitz             |  12.2 |        56 |        -0.18 |         +3.27 |
-|  336 | John Givens               |  12.2 |        13 |              |               |
-|  337 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  338 | Reed Foster               |  12.1 |         8 |              |               |
-|  339 | Karan Goyal               |  12.0 |        11 |        +0.71 |               |
+|  330 | Karan Goyal               |  12.5 |        12 |        +1.24 |               |
+|  331 | Huw Lester                |  12.5 |         1 |              |               |
+|  332 | Richard Fabini            |  12.4 |         3 |              |               |
+|  333 | Jennifer Rha              |  12.4 |        18 |              |         +0.30 |
+|  334 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
+|  335 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
+|  336 | Josh Lebowitz             |  12.2 |        56 |        -0.18 |         +3.27 |
+|  337 | John Givens               |  12.2 |        13 |              |               |
+|  338 | Sylvan Arevalo            |  12.2 |         3 |              |               |
+|  339 | Reed Foster               |  12.1 |         8 |              |               |
 |  340 | Axel Eriksson             |  12.0 |         5 |              |               |
 |  341 | Larry Dale                |  11.9 |        29 |              |               |
 |  342 | Aman Gupta                |  11.8 |         3 |              |               |
@@ -366,7 +366,7 @@ Generated 2017-08-29.
 |  362 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  363 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  364 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  365 | Raphael Magarik           |  10.0 |        35 |        -0.47 |         +1.25 |
+|  365 | Raphael Magarik           |  10.1 |        35 |        -0.47 |         +1.26 |
 |  366 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  367 | Reto Sutter               |  10.0 |        52 |              |         -0.83 |
 |  368 | Lucy Fairweather          |   9.9 |        11 |              |               |

@@ -1,4 +1,4 @@
-Generated 2017-08-29.
+Generated 2017-08-30.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -25,14 +25,14 @@ Generated 2017-08-29.
 |   21 | Sahar Sareminaeni |  16.8 |        38 |        +0.22 |         +8.88 |
 |   22 | Chris Flores      |  16.4 |       323 |        +0.20 |         -0.53 |
 |   23 | Kent Daniels      |  14.2 |       110 |        -0.26 |         -1.35 |
-|   24 | Diego Butrich     |  14.1 |        14 |        -0.27 |               |
+|   24 | Diego Butrich     |  14.1 |        14 |        -0.28 |               |
 |   25 | Craig Hollow      |  13.6 |        24 |              |               |
-|   26 | Meldan Heaslip    |  12.9 |        36 |        +0.49 |               |
-|   27 | Ashley Brooks     |  12.9 |         2 |              |               |
-|   28 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
-|   29 | Josh Lebowitz     |  12.2 |        56 |        -0.18 |         +3.27 |
-|   30 | Karan Goyal       |  12.0 |        11 |        +0.71 |               |
-|   31 | Raphael Magarik   |  10.0 |        35 |        -0.47 |         +1.25 |
+|   26 | Ashley Brooks     |  12.9 |         2 |              |               |
+|   27 | Meldan Heaslip    |  12.8 |        37 |        +0.37 |               |
+|   28 | Karan Goyal       |  12.5 |        12 |        +1.24 |               |
+|   29 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
+|   30 | Josh Lebowitz     |  12.2 |        56 |        -0.18 |         +3.27 |
+|   31 | Raphael Magarik   |  10.1 |        35 |        -0.47 |         +1.26 |
 |   32 | Nate Aden         |   9.9 |        39 |        +0.05 |         +1.64 |
 |   33 | Duo Wang          |   8.9 |        75 |        -0.13 |         +0.44 |
 |   34 | Terence Stotz     |   8.2 |         8 |        +0.60 |               |
