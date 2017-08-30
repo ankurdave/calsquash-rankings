@@ -6,8 +6,8 @@ Generated 2017-08-30.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Ashley Kayler             |  33.8 |       224 |        -0.04 |         -1.20 |
-|    6 | Eric Katerman             |  33.7 |        59 |              |         +3.32 |
+|    5 | Ashley Kayler             |  33.8 |       224 |        -0.03 |         -1.20 |
+|    6 | Eric Katerman             |  33.7 |        60 |        +0.03 |         +3.35 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
@@ -46,7 +46,7 @@ Generated 2017-08-30.
 |   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
 |   43 | Gary Golding              |  26.5 |         6 |              |               |
 |   44 | Amos Vernon               |  26.4 |        30 |              |               |
-|   45 | Thomas Littleton          |  26.4 |        13 |        +0.04 |               |
+|   45 | Thomas Littleton          |  26.4 |        13 |        +0.03 |               |
 |   46 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   47 | Mikey Zarem               |  26.1 |         8 |              |               |
 |   48 | Vishi                     |  26.0 |        41 |              |               |
@@ -60,10 +60,10 @@ Generated 2017-08-30.
 |   56 | Sean O'Nuallain           |  25.4 |        43 |              |               |
 |   57 | Rahul Gupta               |  25.3 |         7 |              |               |
 |   58 | Paul Greene               |  25.2 |         8 |              |               |
-|   59 | John Kunze                |  25.0 |       331 |        +0.22 |         +0.30 |
-|   60 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   61 | Sam McCormick             |  25.0 |        38 |              |         +4.47 |
-|   62 | Ben Seelig                |  25.0 |        69 |              |               |
+|   59 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   60 | Sam McCormick             |  25.0 |        38 |              |         +4.47 |
+|   61 | Ben Seelig                |  25.0 |        69 |              |               |
+|   62 | John Kunze                |  25.0 |       332 |        +0.17 |         +0.24 |
 |   63 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   64 | Madhav Pai                |  24.9 |         5 |              |               |
 |   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
