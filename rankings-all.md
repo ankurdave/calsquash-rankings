@@ -83,7 +83,7 @@ Generated 2017-08-30.
 |   79 | Toby Reiner               |  24.2 |       159 |              |               |
 |   80 | Himanshu Jatia            |  24.2 |         4 |              |               |
 |   81 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   82 | Jim Veitch                |  24.1 |       461 |        +0.13 |         -1.64 |
+|   82 | Jim Veitch                |  24.2 |       461 |        +0.14 |         -1.63 |
 |   83 | Robert Jeng               |  24.1 |        26 |              |               |
 |   84 | Vyas Sekar                |  24.1 |        17 |              |               |
 |   85 | Benjamin Vicuna           |  24.1 |        50 |              |               |
@@ -105,7 +105,7 @@ Generated 2017-08-30.
 |  101 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  102 | Joe Farrell               |  23.0 |        30 |              |               |
 |  103 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  104 | Dan Bohn                  |  22.9 |       106 |        -0.19 |         -0.88 |
+|  104 | Dan Bohn                  |  22.7 |       107 |        -0.31 |         -1.00 |
 |  105 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  106 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  107 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -128,13 +128,13 @@ Generated 2017-08-30.
 |  124 | Jan Beranek               |  21.9 |        46 |              |               |
 |  125 | Saurabh Bajaj             |  21.8 |        22 |              |         -0.62 |
 |  126 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  127 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  128 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  129 | Jonathan Hankar           |  21.7 |       211 |        -0.43 |         -0.58 |
-|  130 | Omair Azam                |  21.7 |        18 |              |               |
-|  131 | Phin Lee                  |  21.7 |        16 |              |               |
-|  132 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  133 | Dan Meier                 |  21.6 |        75 |        -0.22 |         -0.62 |
+|  127 | Dan Meier                 |  21.8 |        76 |        -0.08 |         -0.48 |
+|  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  129 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  130 | Jonathan Hankar           |  21.7 |       211 |        -0.43 |         -0.58 |
+|  131 | Omair Azam                |  21.7 |        18 |              |               |
+|  132 | Phin Lee                  |  21.7 |        16 |              |               |
+|  133 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  134 | Dante Popple              |  21.5 |        17 |              |               |
 |  135 | Benjamin Adler            |  21.5 |         4 |              |               |
 |  136 | Reid Johnsen              |  21.4 |        49 |              |         +0.70 |
@@ -208,8 +208,8 @@ Generated 2017-08-30.
 |  204 | Allan Sly                 |  18.6 |        29 |              |               |
 |  205 | Jason Facchin             |  18.5 |         3 |              |               |
 |  206 | Yan Liu                   |  18.5 |        10 |              |               |
-|  207 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  208 | Ankur Dave                |  18.5 |        83 |        +0.23 |         +4.79 |
+|  207 | Ankur Dave                |  18.5 |        83 |        +0.25 |         +4.81 |
+|  208 | Akshay Dugar              |  18.5 |         6 |              |               |
 |  209 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
 |  210 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  211 | John Eng                  |  18.4 |        28 |              |               |
@@ -326,10 +326,10 @@ Generated 2017-08-30.
 |  322 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  323 | Lewis Moore               |  13.0 |        69 |              |               |
 |  324 | David Isaksson            |  12.9 |        22 |              |               |
-|  325 | Ashley Brooks             |  12.9 |         2 |              |               |
-|  326 | Meldan Heaslip            |  12.8 |        37 |        +0.37 |               |
-|  327 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  328 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  325 | Meldan Heaslip            |  12.8 |        37 |        +0.37 |               |
+|  326 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  327 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  328 | Ashley Brooks             |  12.7 |         2 |              |               |
 |  329 | Josh Shiode               |  12.6 |        20 |              |               |
 |  330 | Karan Goyal               |  12.5 |        12 |        +1.24 |               |
 |  331 | Huw Lester                |  12.5 |         1 |              |               |
