@@ -1,4 +1,4 @@
-Generated 2017-08-30.
+Generated 2017-08-31.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -36,10 +36,10 @@ Generated 2017-08-30.
 |   32 | Nate Aden         |   9.9 |        39 |        +0.05 |         +1.64 |
 |   33 | Duo Wang          |   8.9 |        75 |        -0.13 |         +0.44 |
 |   34 | Terence Stotz     |   8.2 |         8 |        +0.60 |               |
-|   35 | Brian Kempenich   |   7.9 |        51 |        +0.13 |         -0.26 |
-|   36 | Sumit Gupta       |   7.9 |        10 |              |               |
-|   37 | Zsolt Bartha      |   4.2 |        61 |              |         -0.57 |
+|   35 | Sumit Gupta       |   8.2 |        11 |        +0.28 |               |
+|   36 | Brian Kempenich   |   7.9 |        51 |        +0.13 |         -0.26 |
+|   37 | Zsolt Bartha      |   4.2 |        62 |        +0.07 |         -0.50 |
 |   38 | Sagar Pilania     |   2.8 |         2 |              |               |
-|   39 | Duncan MacRae     |   0.3 |        27 |        -0.08 |               |
+|   39 | Duncan MacRae     |   0.3 |        29 |        -0.12 |               |
 |   40 | John Hwong        |  -0.7 |         1 |              |               |
 |   41 | Cecilia Shan Cao  |  -5.1 |         2 |              |               |

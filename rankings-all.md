@@ -1,4 +1,4 @@
-Generated 2017-08-30.
+Generated 2017-08-31.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -400,16 +400,16 @@ Generated 2017-08-30.
 |  396 | Reynold Xin               |   8.3 |         5 |              |               |
 |  397 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  398 | Terence Stotz             |   8.2 |         8 |        +0.60 |               |
-|  399 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  400 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  401 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  402 | John Coates               |   8.1 |         9 |              |               |
-|  403 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  404 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  405 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  406 | Zarina Khan               |   8.0 |         5 |              |               |
-|  407 | Brian Kempenich           |   7.9 |        51 |        +0.13 |         -0.26 |
-|  408 | Sumit Gupta               |   7.9 |        10 |              |               |
+|  399 | Sumit Gupta               |   8.2 |        11 |        +0.28 |               |
+|  400 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  401 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  402 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  403 | John Coates               |   8.1 |         9 |              |               |
+|  404 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  405 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  406 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  407 | Zarina Khan               |   8.0 |         5 |              |               |
+|  408 | Brian Kempenich           |   7.9 |        51 |        +0.13 |         -0.26 |
 |  409 | Chip Malt                 |   7.9 |         4 |              |               |
 |  410 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  411 | Minsoo Bae                |   7.9 |         2 |              |               |
@@ -447,8 +447,8 @@ Generated 2017-08-30.
 |  443 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  444 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  445 | Sameer Bajaj              |   4.3 |         4 |              |         -0.30 |
-|  446 | Anuj Dawar                |   4.2 |        15 |              |               |
-|  447 | Zsolt Bartha              |   4.2 |        61 |              |         -0.57 |
+|  446 | Zsolt Bartha              |   4.2 |        62 |        +0.07 |         -0.50 |
+|  447 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  448 | Annie Wong                |   4.0 |         3 |              |               |
 |  449 | Ryan                      |   4.0 |         3 |              |               |
 |  450 | Mateo Aceves              |   3.8 |         4 |              |               |
@@ -489,7 +489,7 @@ Generated 2017-08-30.
 |  485 | Laurie Choi               |   0.5 |         2 |              |               |
 |  486 | Anne Iversen              |   0.4 |         3 |              |               |
 |  487 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  488 | Duncan MacRae             |   0.3 |        27 |        -0.08 |               |
+|  488 | Duncan MacRae             |   0.3 |        29 |        -0.12 |               |
 |  489 | Stuart Fox                |   0.2 |         1 |              |               |
 |  490 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  491 | Rachel Chiu               |   0.1 |         2 |              |               |
