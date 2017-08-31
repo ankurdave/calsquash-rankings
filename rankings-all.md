@@ -248,17 +248,17 @@ Generated 2017-08-30.
 |  244 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  245 | Baxter Leman              |  16.9 |         6 |              |               |
 |  246 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  247 | Wayne Heiser              |  16.9 |        60 |        +0.12 |         -0.31 |
-|  248 | Sahar Sareminaeni         |  16.8 |        38 |        +0.22 |         +8.88 |
-|  249 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  247 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  248 | Sahar Sareminaeni         |  16.7 |        40 |        +0.14 |         +8.80 |
+|  249 | Wayne Heiser              |  16.7 |        61 |        -0.03 |         -0.46 |
 |  250 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  251 | David Shabelman           |  16.7 |        30 |              |               |
 |  252 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  253 | Mark Priven               |  16.6 |        72 |              |               |
-|  254 | William Coleman           |  16.5 |        48 |              |               |
-|  255 | Mike Troxell              |  16.5 |         8 |              |               |
-|  256 | Danish Mir                |  16.4 |         1 |              |               |
-|  257 | Chris Flores              |  16.4 |       323 |        +0.20 |         -0.53 |
+|  253 | Chris Flores              |  16.6 |       324 |        +0.46 |         -0.27 |
+|  254 | Mark Priven               |  16.6 |        72 |              |               |
+|  255 | William Coleman           |  16.5 |        48 |              |               |
+|  256 | Mike Troxell              |  16.5 |         8 |              |               |
+|  257 | Danish Mir                |  16.4 |         1 |              |               |
 |  258 | Paul Chang                |  16.3 |         7 |              |               |
 |  259 | Steven Hahm               |  16.3 |         5 |              |               |
 |  260 | Jules Bowie               |  16.3 |        12 |              |               |
@@ -303,7 +303,7 @@ Generated 2017-08-30.
 |  299 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  300 | Adam Soliman              |  14.2 |        32 |              |               |
 |  301 | Charles Denby             |  14.2 |         5 |              |               |
-|  302 | Kent Daniels              |  14.2 |       110 |        -0.26 |         -1.35 |
+|  302 | Kent Daniels              |  14.2 |       110 |        -0.27 |         -1.36 |
 |  303 | Diego Butrich             |  14.1 |        14 |        -0.28 |               |
 |  304 | Neil Sachs                |  14.1 |        12 |              |               |
 |  305 | Rupert Myers              |  14.0 |        27 |              |               |
