@@ -15,12 +15,12 @@ Generated 2017-08-31.
 |   11 | Dan Bohn          |  22.7 |       107 |        -0.31 |         -1.00 |
 |   12 | Dan Meier         |  21.8 |        76 |        -0.08 |         -0.48 |
 |   13 | Jonathan Hankar   |  21.7 |       211 |        -0.43 |         -0.58 |
-|   14 | Benjamin Adler    |  21.5 |         4 |              |               |
-|   15 | Mike Jensen-Akula |  20.0 |       231 |        -0.05 |         +0.02 |
-|   16 | Anthony Abel      |  18.7 |         3 |              |               |
+|   14 | Benjamin Adler    |  21.4 |         4 |              |               |
+|   15 | Mike Jensen-Akula |  19.7 |       232 |        -0.31 |         -0.24 |
+|   16 | Anthony Abel      |  18.6 |         3 |              |               |
 |   17 | Ankur Dave        |  18.5 |        83 |        +0.25 |         +4.81 |
-|   18 | Dror Matalon      |  18.3 |       374 |              |         -0.09 |
-|   19 | Josh Trauner      |  17.8 |        62 |        -0.36 |         -0.03 |
+|   18 | Dror Matalon      |  18.5 |       375 |        +0.24 |         +0.16 |
+|   19 | Josh Trauner      |  17.8 |        62 |        -0.35 |         -0.02 |
 |   20 | Sahar Sareminaeni |  16.7 |        40 |        +0.14 |         +8.80 |
 |   21 | Wayne Heiser      |  16.7 |        61 |        -0.03 |         -0.46 |
 |   22 | Chris Flores      |  16.6 |       324 |        +0.46 |         -0.27 |
