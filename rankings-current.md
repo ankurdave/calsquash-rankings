@@ -1,4 +1,4 @@
-Generated 2017-08-31.
+Generated 2017-09-01.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -25,14 +25,14 @@ Generated 2017-08-31.
 |   21 | Wayne Heiser      |  16.7 |        61 |        -0.03 |         -0.46 |
 |   22 | Chris Flores      |  16.6 |       324 |        +0.46 |         -0.27 |
 |   23 | Kent Daniels      |  14.2 |       110 |        -0.27 |         -1.36 |
-|   24 | Diego Butrich     |  14.1 |        14 |        -0.28 |               |
-|   25 | Craig Hollow      |  13.6 |        24 |              |               |
-|   26 | Meldan Heaslip    |  12.8 |        37 |        +0.37 |               |
-|   27 | Ashley Brooks     |  12.7 |         2 |              |               |
-|   28 | Karan Goyal       |  12.5 |        12 |        +1.24 |               |
+|   24 | Diego Butrich     |  13.9 |        15 |        -0.51 |               |
+|   25 | Craig Hollow      |  13.7 |        27 |        +0.10 |               |
+|   26 | Karan Goyal       |  13.3 |        13 |        +2.05 |               |
+|   27 | Meldan Heaslip    |  12.8 |        37 |        +0.37 |               |
+|   28 | Ashley Brooks     |  12.7 |         2 |              |               |
 |   29 | Carl Schreck      |  12.2 |         4 |              |         -7.97 |
 |   30 | Josh Lebowitz     |  12.2 |        56 |        -0.18 |         +3.27 |
-|   31 | Raphael Magarik   |  10.1 |        35 |        -0.47 |         +1.26 |
+|   31 | Raphael Magarik   |  10.1 |        36 |        -0.45 |         +1.28 |
 |   32 | Nate Aden         |   9.9 |        39 |        +0.05 |         +1.64 |
 |   33 | Duo Wang          |   8.9 |        75 |        -0.13 |         +0.44 |
 |   34 | Terence Stotz     |   8.2 |         8 |        +0.60 |               |

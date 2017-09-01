@@ -1,4 +1,4 @@
-Generated 2017-08-31.
+Generated 2017-09-01.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -304,34 +304,34 @@ Generated 2017-08-31.
 |  300 | Adam Soliman              |  14.2 |        32 |              |               |
 |  301 | Charles Denby             |  14.2 |         5 |              |               |
 |  302 | Kent Daniels              |  14.2 |       110 |        -0.27 |         -1.36 |
-|  303 | Diego Butrich             |  14.1 |        14 |        -0.28 |               |
-|  304 | Neil Sachs                |  14.1 |        12 |              |               |
-|  305 | Rupert Myers              |  14.0 |        27 |              |               |
-|  306 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
+|  303 | Neil Sachs                |  14.1 |        12 |              |               |
+|  304 | Rupert Myers              |  14.0 |        27 |              |               |
+|  305 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
+|  306 | Diego Butrich             |  13.9 |        15 |        -0.51 |               |
 |  307 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  308 | Gurj Johal                |  13.8 |         2 |              |               |
 |  309 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  310 | Tim Browning              |  13.8 |         7 |              |               |
 |  311 | Josephine Lee             |  13.7 |         6 |              |               |
-|  312 | Craig Hollow              |  13.6 |        24 |              |               |
+|  312 | Craig Hollow              |  13.7 |        27 |        +0.10 |               |
 |  313 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  314 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  315 | Lars Foleide              |  13.5 |        11 |              |               |
 |  316 | Alex Rennet               |  13.5 |         2 |              |               |
 |  317 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  318 | Jake Toy                  |  13.4 |         5 |              |               |
-|  319 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  320 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  321 | Field Maloney             |  13.1 |        24 |              |               |
-|  322 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  323 | Lewis Moore               |  13.0 |        69 |              |               |
-|  324 | David Isaksson            |  12.9 |        22 |              |               |
-|  325 | Meldan Heaslip            |  12.8 |        37 |        +0.37 |               |
-|  326 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  327 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  328 | Ashley Brooks             |  12.7 |         2 |              |               |
-|  329 | Josh Shiode               |  12.6 |        20 |              |               |
-|  330 | Karan Goyal               |  12.5 |        12 |        +1.24 |               |
+|  319 | Karan Goyal               |  13.3 |        13 |        +2.05 |               |
+|  320 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  321 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  322 | Field Maloney             |  13.1 |        24 |              |               |
+|  323 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  324 | Lewis Moore               |  13.0 |        69 |              |               |
+|  325 | David Isaksson            |  12.9 |        22 |              |               |
+|  326 | Meldan Heaslip            |  12.8 |        37 |        +0.37 |               |
+|  327 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  328 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  329 | Ashley Brooks             |  12.7 |         2 |              |               |
+|  330 | Josh Shiode               |  12.6 |        20 |              |               |
 |  331 | Huw Lester                |  12.5 |         1 |              |               |
 |  332 | Richard Fabini            |  12.4 |         3 |              |               |
 |  333 | Jennifer Rha              |  12.4 |        18 |              |         +0.30 |
@@ -366,7 +366,7 @@ Generated 2017-08-31.
 |  362 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  363 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  364 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  365 | Raphael Magarik           |  10.1 |        35 |        -0.47 |         +1.26 |
+|  365 | Raphael Magarik           |  10.1 |        36 |        -0.45 |         +1.28 |
 |  366 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  367 | Reto Sutter               |  10.0 |        52 |              |         -0.83 |
 |  368 | Lucy Fairweather          |   9.9 |        11 |              |               |
