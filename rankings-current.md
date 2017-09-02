@@ -1,4 +1,4 @@
-Generated 2017-09-01.
+Generated 2017-09-02.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -16,10 +16,10 @@ Generated 2017-09-01.
 |   12 | Dan Meier         |  21.8 |        76 |        -0.08 |         -0.48 |
 |   13 | Jonathan Hankar   |  21.7 |       211 |        -0.43 |         -0.58 |
 |   14 | Benjamin Adler    |  21.4 |         4 |              |               |
-|   15 | Mike Jensen-Akula |  19.7 |       232 |        -0.31 |         -0.24 |
-|   16 | Anthony Abel      |  18.6 |         3 |              |               |
-|   17 | Ankur Dave        |  18.5 |        83 |        +0.25 |         +4.81 |
-|   18 | Dror Matalon      |  18.5 |       375 |        +0.24 |         +0.16 |
+|   15 | Mike Jensen-Akula |  19.7 |       232 |        -0.32 |         -0.25 |
+|   16 | Anthony Abel      |  19.4 |         4 |              |               |
+|   17 | Dror Matalon      |  18.5 |       376 |        +0.26 |         +0.17 |
+|   18 | Ankur Dave        |  18.5 |        83 |        +0.25 |         +4.81 |
 |   19 | Josh Trauner      |  17.8 |        62 |        -0.35 |         -0.02 |
 |   20 | Sahar Sareminaeni |  16.7 |        40 |        +0.14 |         +8.80 |
 |   21 | Wayne Heiser      |  16.7 |        61 |        -0.03 |         -0.46 |
