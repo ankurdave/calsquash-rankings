@@ -34,8 +34,8 @@ Generated 2017-09-02.
 |   30 | Josh Lebowitz     |  12.2 |        56 |        -0.18 |         +3.27 |
 |   31 | Raphael Magarik   |  10.1 |        36 |        -0.45 |         +1.28 |
 |   32 | Nate Aden         |   9.9 |        39 |        +0.05 |         +1.64 |
-|   33 | Duo Wang          |   8.9 |        75 |        -0.13 |         +0.44 |
-|   34 | Terence Stotz     |   8.2 |         8 |        +0.60 |               |
+|   33 | Duo Wang          |   8.9 |        76 |        -0.11 |         +0.46 |
+|   34 | Terence Stotz     |   8.6 |         9 |        +0.97 |               |
 |   35 | Sumit Gupta       |   8.2 |        11 |        +0.28 |               |
 |   36 | Brian Kempenich   |   7.9 |        51 |        +0.13 |         -0.26 |
 |   37 | Zsolt Bartha      |   4.2 |        62 |        +0.07 |         -0.50 |

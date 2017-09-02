@@ -389,17 +389,17 @@ Generated 2017-09-02.
 |  385 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  386 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  387 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  388 | Duo Wang                  |   8.9 |        75 |        -0.13 |         +0.44 |
+|  388 | Duo Wang                  |   8.9 |        76 |        -0.11 |         +0.46 |
 |  389 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  390 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  391 | Therese Jones             |   8.7 |         6 |              |               |
 |  392 | Steven Yee                |   8.7 |         9 |              |               |
 |  393 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  394 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  395 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  396 | Reynold Xin               |   8.3 |         5 |              |               |
-|  397 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  398 | Terence Stotz             |   8.2 |         8 |        +0.60 |               |
+|  395 | Terence Stotz             |   8.6 |         9 |        +0.97 |               |
+|  396 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  397 | Reynold Xin               |   8.3 |         5 |              |               |
+|  398 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  399 | Sumit Gupta               |   8.2 |        11 |        +0.28 |               |
 |  400 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  401 | Vishnu Narayanan          |   8.2 |        12 |              |               |
