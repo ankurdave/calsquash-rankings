@@ -400,7 +400,7 @@ Generated 2017-09-06.
 |  396 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  397 | Reynold Xin               |   8.3 |         5 |              |               |
 |  398 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  399 | Sumit Gupta               |   8.2 |        11 |              |               |
+|  399 | Sumit Gupta               |   8.2 |        12 |        +0.03 |               |
 |  400 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  401 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  402 | Phil Hartmeyer            |   8.2 |         3 |              |               |
@@ -526,4 +526,4 @@ Generated 2017-09-06.
 |  522 | Sara Green                |  -5.8 |         1 |              |               |
 |  523 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  524 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  525 | Navarun Jain              | -12.3 |         2 |              |               |
+|  525 | Navarun Jain              | -12.2 |         3 |        +0.05 |               |
