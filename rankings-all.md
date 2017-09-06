@@ -1,4 +1,4 @@
-Generated 2017-09-04.
+Generated 2017-09-06.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -388,8 +388,8 @@ Generated 2017-09-04.
 |  384 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  385 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  386 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  387 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  388 | Duo Wang                  |   8.9 |        76 |              |         +0.56 |
+|  387 | Duo Wang                  |   9.0 |        77 |        +0.05 |         +0.61 |
+|  388 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  389 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  390 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  391 | Therese Jones             |   8.7 |         6 |              |               |
@@ -489,9 +489,9 @@ Generated 2017-09-04.
 |  485 | Laurie Choi               |   0.5 |         2 |              |               |
 |  486 | Anne Iversen              |   0.4 |         3 |              |               |
 |  487 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  488 | Duncan MacRae             |   0.3 |        29 |              |               |
-|  489 | Stuart Fox                |   0.2 |         1 |              |               |
-|  490 | Hannah Hagen              |   0.2 |         4 |              |               |
+|  488 | Stuart Fox                |   0.2 |         1 |              |               |
+|  489 | Hannah Hagen              |   0.2 |         4 |              |               |
+|  490 | Duncan MacRae             |   0.2 |        30 |        -0.10 |               |
 |  491 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  492 | Sandra Harpster           |  -0.1 |         5 |              |               |
 |  493 | Stephen Garden            |  -0.2 |         2 |              |               |
