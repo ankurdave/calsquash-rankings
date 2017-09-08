@@ -4,18 +4,18 @@ Generated 2017-09-07.
 |------|-------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler     |  33.8 |       224 |              |         -1.20 |
 |    2 | Eric Katerman     |  33.3 |        61 |        -0.43 |         +2.54 |
-|    3 | Sam Sternberg     |  30.5 |       160 |        +0.43 |         -0.27 |
+|    3 | Sam Sternberg     |  30.5 |       161 |        +0.40 |         -0.30 |
 |    4 | Anibhav Singla    |  28.0 |        29 |              |               |
 |    5 | Nick Cobbett      |  28.0 |        45 |        -0.05 |         +2.35 |
 |    6 | Frank Kennamer    |  26.9 |       236 |              |         -0.01 |
 |    7 | Thomas Littleton  |  26.4 |        13 |              |               |
 |    8 | John Kunze        |  25.0 |       332 |              |         +0.24 |
-|    9 | Jim Veitch        |  24.2 |       461 |              |         -1.38 |
-|   10 | Matt Wong         |  23.7 |        95 |              |         +1.18 |
-|   11 | Dan Bohn          |  22.7 |       107 |              |         -0.41 |
-|   12 | Dan Meier         |  21.8 |        76 |              |         -0.91 |
-|   13 | Jonathan Hankar   |  21.7 |       211 |              |         -0.53 |
-|   14 | David Woo         |  21.7 |         1 |              |               |
+|    9 | David Woo         |  24.5 |         2 |              |               |
+|   10 | Jim Veitch        |  24.2 |       461 |              |         -1.38 |
+|   11 | Matt Wong         |  23.7 |        95 |              |         +1.18 |
+|   12 | Dan Bohn          |  22.7 |       107 |              |         -0.41 |
+|   13 | Dan Meier         |  21.8 |        76 |              |         -0.91 |
+|   14 | Jonathan Hankar   |  21.7 |       211 |              |         -0.53 |
 |   15 | Benjamin Adler    |  21.4 |         4 |              |               |
 |   16 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
 |   17 | Mike Jensen-Akula |  19.7 |       232 |              |         -0.33 |
