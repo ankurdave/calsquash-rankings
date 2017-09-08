@@ -1,4 +1,4 @@
-Generated 2017-09-07.
+Generated 2017-09-08.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -32,14 +32,14 @@ Generated 2017-09-07.
 |   28 | Karan Goyal       |  13.3 |        13 |              |               |
 |   29 | Meldan Heaslip    |  12.8 |        37 |              |               |
 |   30 | Ashley Brooks     |  12.7 |         2 |              |               |
-|   31 | Josh Lebowitz     |  12.2 |        56 |              |         +2.92 |
+|   31 | Josh Lebowitz     |  12.5 |        57 |        +0.28 |         +3.21 |
 |   32 | Raphael Magarik   |  10.1 |        36 |              |         +1.28 |
 |   33 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
 |   34 | Duo Wang          |   9.0 |        77 |        +0.05 |         +0.61 |
 |   35 | Terence Stotz     |   8.6 |         9 |              |               |
 |   36 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
 |   37 | Brian Kempenich   |   7.9 |        51 |              |         -0.87 |
-|   38 | Avi Flamholz      |   6.4 |         3 |              |               |
+|   38 | Avi Flamholz      |   4.4 |         4 |        -2.02 |               |
 |   39 | Zsolt Bartha      |   4.2 |        62 |              |         -0.50 |
 |   40 | Duncan MacRae     |   0.2 |        30 |        -0.10 |               |
 |   41 | Navarun Jain      | -12.2 |         3 |        +0.05 |               |

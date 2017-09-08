@@ -1,4 +1,4 @@
-Generated 2017-09-07.
+Generated 2017-09-08.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -334,11 +334,11 @@ Generated 2017-09-07.
 |  330 | Ashley Brooks             |  12.7 |         2 |              |               |
 |  331 | Josh Shiode               |  12.6 |        20 |              |               |
 |  332 | Huw Lester                |  12.5 |         1 |              |               |
-|  333 | Richard Fabini            |  12.4 |         3 |              |               |
-|  334 | Jennifer Rha              |  12.4 |        18 |              |         -0.22 |
-|  335 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
-|  336 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
-|  337 | Josh Lebowitz             |  12.2 |        56 |              |         +2.92 |
+|  333 | Josh Lebowitz             |  12.5 |        57 |        +0.28 |         +3.21 |
+|  334 | Richard Fabini            |  12.4 |         3 |              |               |
+|  335 | Jennifer Rha              |  12.4 |        18 |              |         -0.22 |
+|  336 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
+|  337 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
 |  338 | John Givens               |  12.2 |        13 |              |               |
 |  339 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  340 | Reed Foster               |  12.1 |         8 |              |               |
@@ -430,23 +430,23 @@ Generated 2017-09-07.
 |  426 | Pablo Paredes             |   6.5 |         1 |              |               |
 |  427 | Mikel Shybut              |   6.5 |         4 |              |               |
 |  428 | Markus Boese              |   6.5 |         1 |              |               |
-|  429 | Avi Flamholz              |   6.4 |         3 |              |               |
-|  430 | Dav Clark                 |   6.4 |         6 |              |               |
-|  431 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  432 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  433 | Norman Bonney             |   6.0 |         3 |              |               |
-|  434 | Rohan Relan               |   6.0 |         4 |              |               |
-|  435 | David Zhu                 |   5.8 |         2 |              |               |
-|  436 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  437 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  438 | Manu Vaish                |   5.5 |         1 |              |               |
-|  439 | Emily Moylan              |   5.2 |        17 |              |               |
-|  440 | Mohammad Salama           |   5.2 |         5 |              |               |
-|  441 | Catherine Wang            |   5.2 |        10 |              |               |
-|  442 | Ali Umar                  |   5.2 |        13 |              |               |
-|  443 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  444 | Nikhil Srivastava         |   5.0 |        16 |              |               |
-|  445 | Tammy J Faridi            |   4.7 |        27 |              |               |
+|  429 | Dav Clark                 |   6.4 |         6 |              |               |
+|  430 | Nicolas Huber             |   6.2 |         4 |              |               |
+|  431 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  432 | Norman Bonney             |   6.0 |         3 |              |               |
+|  433 | Rohan Relan               |   6.0 |         4 |              |               |
+|  434 | David Zhu                 |   5.8 |         2 |              |               |
+|  435 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  436 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  437 | Manu Vaish                |   5.5 |         1 |              |               |
+|  438 | Emily Moylan              |   5.2 |        17 |              |               |
+|  439 | Mohammad Salama           |   5.2 |         5 |              |               |
+|  440 | Catherine Wang            |   5.2 |        10 |              |               |
+|  441 | Ali Umar                  |   5.2 |        13 |              |               |
+|  442 | Martin Rasmussen          |   5.2 |         6 |              |               |
+|  443 | Nikhil Srivastava         |   5.0 |        16 |              |               |
+|  444 | Tammy J Faridi            |   4.7 |        27 |              |               |
+|  445 | Avi Flamholz              |   4.4 |         4 |        -2.02 |               |
 |  446 | Sameer Bajaj              |   4.3 |         4 |              |         -0.30 |
 |  447 | Zsolt Bartha              |   4.2 |        62 |              |         -0.50 |
 |  448 | Anuj Dawar                |   4.2 |        15 |              |               |
