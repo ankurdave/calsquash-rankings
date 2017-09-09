@@ -18,11 +18,11 @@ Generated 2017-09-08.
 |   14 | Jonathan Hankar   |  21.7 |       211 |              |         -0.53 |
 |   15 | Benjamin Adler    |  21.4 |         4 |              |               |
 |   16 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
-|   17 | Mike Jensen-Akula |  19.7 |       232 |              |         -0.33 |
+|   17 | Mike Jensen-Akula |  19.4 |       233 |        -0.27 |         -0.60 |
 |   18 | Anthony Abel      |  19.4 |         4 |              |               |
 |   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
 |   20 | Ankur Dave        |  18.5 |        83 |              |         +4.50 |
-|   21 | Josh Trauner      |  17.8 |        62 |              |         +0.17 |
+|   21 | Josh Trauner      |  18.1 |        63 |        +0.28 |         +0.44 |
 |   22 | Sahar Sareminaeni |  16.7 |        40 |              |         +8.80 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.6 |       324 |              |         -0.16 |

@@ -181,12 +181,12 @@ Generated 2017-09-08.
 |  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  178 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  179 | Mike Delanty              |  19.7 |        12 |              |               |
-|  180 | Mike Jensen-Akula         |  19.7 |       232 |              |         -0.33 |
-|  181 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  182 | Andrew Proudfoot          |  19.6 |        26 |              |               |
-|  183 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  184 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  185 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
+|  180 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  181 | Andrew Proudfoot          |  19.6 |        26 |              |               |
+|  182 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  183 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  184 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
+|  185 | Mike Jensen-Akula         |  19.4 |       233 |        -0.27 |         -0.60 |
 |  186 | Anthony Abel              |  19.4 |         4 |              |               |
 |  187 | Roberto Gonzalez          |  19.4 |         3 |              |               |
 |  188 | Thomas Scanlon            |  19.3 |        20 |              |               |
@@ -220,13 +220,13 @@ Generated 2017-09-08.
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.85 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Bob Roller                |  18.2 |         6 |              |               |
-|  219 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  220 | James Chung               |  17.9 |         7 |              |               |
-|  221 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  222 | Eric Borden               |  17.8 |        44 |              |         +0.38 |
-|  223 | Troup Howard              |  17.8 |        47 |              |         +0.48 |
-|  224 | Nick Paget                |  17.8 |        35 |              |               |
-|  225 | Josh Trauner              |  17.8 |        62 |              |         +0.17 |
+|  219 | Josh Trauner              |  18.1 |        63 |        +0.28 |         +0.44 |
+|  220 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  221 | James Chung               |  17.9 |         7 |              |               |
+|  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  223 | Eric Borden               |  17.8 |        44 |              |         +0.38 |
+|  224 | Troup Howard              |  17.8 |        47 |              |         +0.48 |
+|  225 | Nick Paget                |  17.8 |        35 |              |               |
 |  226 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  227 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  228 | George Roche              |  17.7 |        14 |              |               |
