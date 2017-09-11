@@ -1,4 +1,4 @@
-Generated 2017-09-09.
+Generated 2017-09-10.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -330,11 +330,11 @@ Generated 2017-09-09.
 |  326 | David Isaksson            |  12.9 |        22 |              |               |
 |  327 | Meldan Heaslip            |  12.8 |        37 |              |               |
 |  328 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  329 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  330 | Ashley Brooks             |  12.7 |         2 |              |               |
-|  331 | Josh Shiode               |  12.6 |        20 |              |               |
-|  332 | Huw Lester                |  12.5 |         1 |              |               |
-|  333 | Josh Lebowitz             |  12.5 |        57 |        +0.28 |         +3.21 |
+|  329 | Josh Lebowitz             |  12.7 |        58 |        +0.51 |         +3.43 |
+|  330 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  331 | Ashley Brooks             |  12.7 |         2 |              |               |
+|  332 | Josh Shiode               |  12.6 |        20 |              |               |
+|  333 | Huw Lester                |  12.5 |         1 |              |               |
 |  334 | Richard Fabini            |  12.4 |         3 |              |               |
 |  335 | Jennifer Rha              |  12.4 |        18 |              |         -0.22 |
 |  336 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
@@ -388,10 +388,10 @@ Generated 2017-09-09.
 |  384 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  385 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  386 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  387 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  388 | Duo Wang                  |   9.0 |        77 |        +0.05 |         +0.61 |
-|  389 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  390 | Terence Stotz             |   8.9 |        10 |        +0.26 |               |
+|  387 | Terence Stotz             |   9.0 |        10 |        +0.44 |               |
+|  388 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  389 | Duo Wang                  |   9.0 |        77 |        +0.05 |         +0.61 |
+|  390 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  391 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  392 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  393 | Therese Jones             |   8.7 |         6 |              |               |
@@ -436,24 +436,24 @@ Generated 2017-09-09.
 |  432 | Norman Bonney             |   6.0 |         3 |              |               |
 |  433 | Rohan Relan               |   6.0 |         4 |              |               |
 |  434 | David Zhu                 |   5.8 |         2 |              |               |
-|  435 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  436 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  437 | Manu Vaish                |   5.5 |         1 |              |               |
-|  438 | Emily Moylan              |   5.2 |        17 |              |               |
-|  439 | Mohammad Salama           |   5.2 |         5 |              |               |
-|  440 | Catherine Wang            |   5.2 |        10 |              |               |
-|  441 | Ali Umar                  |   5.2 |        13 |              |               |
-|  442 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  443 | Nikhil Srivastava         |   5.0 |        16 |              |               |
-|  444 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  445 | Avi Flamholz              |   4.4 |         4 |        -2.02 |               |
-|  446 | Sameer Bajaj              |   4.3 |         4 |              |         -0.30 |
-|  447 | Zsolt Bartha              |   4.2 |        62 |              |         -0.50 |
-|  448 | Anuj Dawar                |   4.2 |        15 |              |               |
-|  449 | Annie Wong                |   4.0 |         3 |              |               |
-|  450 | Ryan                      |   4.0 |         3 |              |               |
-|  451 | Mateo Aceves              |   3.8 |         4 |              |               |
-|  452 | Rashid Hameed             |   3.5 |         1 |              |               |
+|  435 | Rashid Hameed             |   5.8 |         2 |              |               |
+|  436 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  437 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  438 | Manu Vaish                |   5.5 |         1 |              |               |
+|  439 | Emily Moylan              |   5.2 |        17 |              |               |
+|  440 | Mohammad Salama           |   5.2 |         5 |              |               |
+|  441 | Catherine Wang            |   5.2 |        10 |              |               |
+|  442 | Ali Umar                  |   5.2 |        13 |              |               |
+|  443 | Martin Rasmussen          |   5.2 |         6 |              |               |
+|  444 | Nikhil Srivastava         |   5.0 |        16 |              |               |
+|  445 | Tammy J Faridi            |   4.7 |        27 |              |               |
+|  446 | Avi Flamholz              |   4.5 |         4 |        -1.94 |               |
+|  447 | Sameer Bajaj              |   4.3 |         4 |              |         -0.30 |
+|  448 | Zsolt Bartha              |   4.2 |        62 |              |         -0.50 |
+|  449 | Anuj Dawar                |   4.2 |        15 |              |               |
+|  450 | Annie Wong                |   4.0 |         3 |              |               |
+|  451 | Ryan                      |   4.0 |         3 |              |               |
+|  452 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  453 | Nakul Vakil               |   3.0 |         5 |              |               |
 |  454 | Maria Garzon              |   3.0 |         5 |              |               |
 |  455 | Nadir Shams               |   3.0 |         2 |              |               |

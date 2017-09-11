@@ -1,4 +1,4 @@
-Generated 2017-09-09.
+Generated 2017-09-10.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -31,16 +31,16 @@ Generated 2017-09-09.
 |   27 | Craig Hollow      |  13.7 |        27 |              |               |
 |   28 | Karan Goyal       |  13.3 |        13 |              |               |
 |   29 | Meldan Heaslip    |  12.8 |        37 |              |               |
-|   30 | Ashley Brooks     |  12.7 |         2 |              |               |
-|   31 | Josh Lebowitz     |  12.5 |        57 |        +0.28 |         +3.21 |
+|   30 | Josh Lebowitz     |  12.7 |        58 |        +0.51 |         +3.43 |
+|   31 | Ashley Brooks     |  12.7 |         2 |              |               |
 |   32 | Raphael Magarik   |  10.1 |        36 |              |         +1.28 |
 |   33 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
-|   34 | Duo Wang          |   9.0 |        77 |        +0.05 |         +0.61 |
-|   35 | Terence Stotz     |   8.9 |        10 |        +0.26 |               |
+|   34 | Terence Stotz     |   9.0 |        10 |        +0.44 |               |
+|   35 | Duo Wang          |   9.0 |        77 |        +0.05 |         +0.61 |
 |   36 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
 |   37 | Brian Kempenich   |   7.9 |        51 |              |         -0.87 |
-|   38 | Avi Flamholz      |   4.4 |         4 |        -2.02 |               |
-|   39 | Zsolt Bartha      |   4.2 |        62 |              |         -0.50 |
-|   40 | Rashid Hameed     |   3.5 |         1 |              |               |
+|   38 | Rashid Hameed     |   5.8 |         2 |              |               |
+|   39 | Avi Flamholz      |   4.5 |         4 |        -1.94 |               |
+|   40 | Zsolt Bartha      |   4.2 |        62 |              |         -0.50 |
 |   41 | Duncan MacRae     |   0.2 |        30 |        -0.10 |               |
 |   42 | Navarun Jain      | -12.2 |         3 |        +0.05 |               |
