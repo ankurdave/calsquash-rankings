@@ -8,7 +8,7 @@ Generated 2017-09-12.
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
 |    5 | Ashley Kayler             |  33.8 |       224 |              |         -1.20 |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Eric Katerman             |  33.3 |        61 |        -0.43 |         +2.54 |
+|    7 | Eric Katerman             |  33.3 |        61 |        -0.42 |         +2.54 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -18,7 +18,7 @@ Generated 2017-09-12.
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.5 |       161 |        +0.40 |         -0.30 |
+|   17 | Sam Sternberg             |  30.6 |       162 |        +0.48 |         -0.23 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -32,7 +32,7 @@ Generated 2017-09-12.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Anibhav Singla            |  28.0 |        29 |              |               |
-|   31 | Nick Cobbett              |  28.0 |        45 |        -0.05 |         +2.35 |
+|   31 | Nick Cobbett              |  27.9 |        46 |        -0.12 |         +2.28 |
 |   32 | Grant French              |  27.5 |       125 |              |               |
 |   33 | Stephen Dang              |  27.2 |        34 |              |               |
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
