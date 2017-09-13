@@ -9,7 +9,7 @@ Generated 2017-09-12.
 |    5 | Nick Cobbett      |  28.0 |        45 |        -0.05 |         +2.35 |
 |    6 | Frank Kennamer    |  26.9 |       236 |              |         -0.01 |
 |    7 | Thomas Littleton  |  26.4 |        13 |              |               |
-|    8 | John Kunze        |  25.0 |       332 |              |         +0.24 |
+|    8 | John Kunze        |  24.8 |       333 |        -0.10 |         +0.14 |
 |    9 | David Woo         |  24.5 |         2 |              |               |
 |   10 | Jim Veitch        |  24.2 |       461 |              |         -1.38 |
 |   11 | Matt Wong         |  23.7 |        95 |              |         +1.18 |
@@ -20,8 +20,8 @@ Generated 2017-09-12.
 |   16 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
 |   17 | Mike Jensen-Akula |  19.4 |       233 |        -0.27 |         -0.60 |
 |   18 | Anthony Abel      |  19.4 |         4 |              |               |
-|   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
-|   20 | Ankur Dave        |  18.5 |        83 |              |         +4.50 |
+|   19 | Ankur Dave        |  18.6 |        84 |        +0.09 |         +4.59 |
+|   20 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
 |   21 | Josh Trauner      |  18.1 |        63 |        +0.28 |         +0.44 |
 |   22 | Sahar Sareminaeni |  16.7 |        40 |              |         +8.80 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |

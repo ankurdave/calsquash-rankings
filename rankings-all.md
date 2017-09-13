@@ -63,9 +63,9 @@ Generated 2017-09-12.
 |   59 | Mukul Sud                 |  25.0 |         3 |              |               |
 |   60 | Sam McCormick             |  25.0 |        38 |              |         +4.47 |
 |   61 | Ben Seelig                |  25.0 |        69 |              |               |
-|   62 | John Kunze                |  25.0 |       332 |              |         +0.24 |
-|   63 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   64 | Madhav Pai                |  24.9 |         5 |              |               |
+|   62 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   63 | Madhav Pai                |  24.9 |         5 |              |               |
+|   64 | John Kunze                |  24.8 |       333 |        -0.10 |         +0.14 |
 |   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
 |   66 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   67 | Sushil Shetty             |  24.8 |        23 |              |               |
@@ -207,10 +207,10 @@ Generated 2017-09-12.
 |  203 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  204 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  205 | Allan Sly                 |  18.6 |        29 |              |               |
-|  206 | Jason Facchin             |  18.5 |         3 |              |               |
-|  207 | Yan Liu                   |  18.5 |        10 |              |               |
-|  208 | Dror Matalon              |  18.5 |       376 |              |         +0.14 |
-|  209 | Ankur Dave                |  18.5 |        83 |              |         +4.50 |
+|  206 | Ankur Dave                |  18.6 |        84 |        +0.09 |         +4.59 |
+|  207 | Jason Facchin             |  18.5 |         3 |              |               |
+|  208 | Yan Liu                   |  18.5 |        10 |              |               |
+|  209 | Dror Matalon              |  18.5 |       376 |              |         +0.14 |
 |  210 | Akshay Dugar              |  18.5 |         6 |              |               |
 |  211 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
 |  212 | Javed Ahmed               |  18.5 |        58 |              |               |
