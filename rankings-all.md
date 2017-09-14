@@ -7,8 +7,8 @@ Generated 2017-09-14.
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
 |    5 | Ashley Kayler             |  33.8 |       224 |              |         -1.20 |
-|    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Eric Katerman             |  33.3 |        61 |        -0.42 |         +2.54 |
+|    6 | Eric Katerman             |  33.4 |        62 |        -0.31 |         +2.66 |
+|    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -32,7 +32,7 @@ Generated 2017-09-14.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Anibhav Singla            |  28.0 |        29 |              |               |
-|   31 | Nick Cobbett              |  27.9 |        46 |        -0.12 |         +2.28 |
+|   31 | Nick Cobbett              |  27.8 |        47 |        -0.25 |         +2.15 |
 |   32 | Grant French              |  27.5 |       125 |              |               |
 |   33 | Stephen Dang              |  27.2 |        34 |              |               |
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
