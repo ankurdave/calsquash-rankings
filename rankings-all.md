@@ -1,4 +1,4 @@
-Generated 2017-09-12.
+Generated 2017-09-13.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -87,11 +87,11 @@ Generated 2017-09-12.
 |   83 | Jim Veitch                |  24.2 |       461 |              |         -1.38 |
 |   84 | Robert Jeng               |  24.1 |        26 |              |               |
 |   85 | Vyas Sekar                |  24.1 |        17 |              |               |
-|   86 | Benjamin Vicuna           |  24.1 |        50 |              |               |
-|   87 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   88 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   89 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   90 | Matt Wong                 |  23.9 |        96 |        +0.26 |         +1.44 |
+|   86 | Matt Wong                 |  24.1 |        97 |        +0.46 |         +1.64 |
+|   87 | Benjamin Vicuna           |  24.1 |        50 |              |               |
+|   88 | Ivo Plsek                 |  24.1 |        60 |              |               |
+|   89 | Whit Eldredge             |  24.0 |         2 |              |               |
+|   90 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   91 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   92 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   93 | Joseff Farrell            |  23.8 |         5 |              |               |
@@ -132,10 +132,10 @@ Generated 2017-09-12.
 |  128 | Dan Meier                 |  21.8 |        76 |              |         -0.91 |
 |  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  130 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  131 | Jonathan Hankar           |  21.7 |       211 |              |         -0.53 |
-|  132 | Omair Azam                |  21.7 |        18 |              |               |
-|  133 | Phin Lee                  |  21.7 |        16 |              |               |
-|  134 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  131 | Omair Azam                |  21.7 |        18 |              |               |
+|  132 | Phin Lee                  |  21.7 |        16 |              |               |
+|  133 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  134 | Jonathan Hankar           |  21.5 |       212 |        -0.20 |         -0.72 |
 |  135 | Dante Popple              |  21.5 |        17 |              |               |
 |  136 | Benjamin Adler            |  21.4 |         4 |              |               |
 |  137 | Reid Johnsen              |  21.4 |        49 |              |         +0.24 |
@@ -216,7 +216,7 @@ Generated 2017-09-12.
 |  212 | John Eng                  |  18.4 |        28 |              |               |
 |  213 | Natalie Leung             |  18.4 |         1 |              |               |
 |  214 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  215 | Anthony Abel              |  18.3 |         5 |        -1.12 |               |
+|  215 | Anthony Abel              |  18.3 |         5 |        -1.08 |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.85 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Bob Roller                |  18.2 |         6 |              |               |

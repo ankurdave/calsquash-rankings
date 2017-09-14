@@ -1,4 +1,4 @@
-Generated 2017-09-12.
+Generated 2017-09-13.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -12,16 +12,16 @@ Generated 2017-09-12.
 |    8 | John Kunze        |  24.8 |       333 |        -0.10 |         +0.14 |
 |    9 | David Woo         |  24.5 |         2 |              |               |
 |   10 | Jim Veitch        |  24.2 |       461 |              |         -1.38 |
-|   11 | Matt Wong         |  23.9 |        96 |        +0.26 |         +1.44 |
+|   11 | Matt Wong         |  24.1 |        97 |        +0.46 |         +1.64 |
 |   12 | Dan Bohn          |  22.7 |       107 |              |         -0.41 |
 |   13 | Dan Meier         |  21.8 |        76 |              |         -0.91 |
-|   14 | Jonathan Hankar   |  21.7 |       211 |              |         -0.53 |
+|   14 | Jonathan Hankar   |  21.5 |       212 |        -0.20 |         -0.72 |
 |   15 | Benjamin Adler    |  21.4 |         4 |              |               |
 |   16 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
 |   17 | Mike Jensen-Akula |  19.4 |       233 |        -0.27 |         -0.60 |
 |   18 | Ankur Dave        |  18.6 |        84 |        +0.09 |         +4.59 |
 |   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
-|   20 | Anthony Abel      |  18.3 |         5 |        -1.12 |               |
+|   20 | Anthony Abel      |  18.3 |         5 |        -1.08 |               |
 |   21 | Josh Trauner      |  18.1 |        63 |        +0.28 |         +0.44 |
 |   22 | Sahar Sareminaeni |  16.7 |        40 |              |         +8.80 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
