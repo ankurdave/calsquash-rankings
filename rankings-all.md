@@ -386,7 +386,7 @@ Generated 2017-09-14.
 |  382 | Robert Broesler           |   9.4 |         4 |              |               |
 |  383 | Raunak Bhinge             |   9.3 |         8 |              |               |
 |  384 | Greg Sperla               |   9.3 |         8 |              |               |
-|  385 | Duo Wang                  |   9.2 |        78 |        +0.29 |         +0.85 |
+|  385 | Duo Wang                  |   9.2 |        78 |        +0.31 |         +0.87 |
 |  386 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  387 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  388 | Janeau Janssen            |   9.1 |        14 |              |               |
@@ -470,19 +470,19 @@ Generated 2017-09-14.
 |  466 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  467 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  468 | Himanshu Chandra          |   1.8 |         4 |              |               |
-|  469 | David Gundry              |   1.7 |         3 |              |               |
-|  470 | Shantanu Mittal           |   1.6 |         3 |              |               |
-|  471 | Vin Marshall              |   1.5 |        11 |              |               |
-|  472 | Matthew Mak               |   1.5 |         1 |              |               |
-|  473 | Matan Sela                |   1.5 |         1 |              |               |
-|  474 | Jonathan Vogel            |   1.3 |         7 |              |               |
-|  475 | Hobson Brown              |   1.3 |         1 |              |               |
-|  476 | Milind Sanghavi           |   1.3 |         1 |              |               |
-|  477 | Tom Joseph                |   1.3 |         2 |              |               |
-|  478 | Alexandra Harmon          |   1.3 |         3 |              |               |
-|  479 | Michael Mann              |   1.1 |         4 |              |               |
-|  480 | Marco Eres                |   1.0 |         5 |              |               |
-|  481 | Manuel Coquet             |   0.9 |         1 |              |               |
+|  469 | Manuel Coquet             |   1.7 |         2 |              |               |
+|  470 | David Gundry              |   1.7 |         3 |              |               |
+|  471 | Shantanu Mittal           |   1.6 |         3 |              |               |
+|  472 | Vin Marshall              |   1.5 |        11 |              |               |
+|  473 | Matthew Mak               |   1.5 |         1 |              |               |
+|  474 | Matan Sela                |   1.5 |         1 |              |               |
+|  475 | Jonathan Vogel            |   1.3 |         7 |              |               |
+|  476 | Hobson Brown              |   1.3 |         1 |              |               |
+|  477 | Milind Sanghavi           |   1.3 |         1 |              |               |
+|  478 | Tom Joseph                |   1.3 |         2 |              |               |
+|  479 | Alexandra Harmon          |   1.3 |         3 |              |               |
+|  480 | Michael Mann              |   1.1 |         4 |              |               |
+|  481 | Marco Eres                |   1.0 |         5 |              |               |
 |  482 | Alex Kaplan               |   0.8 |         8 |              |               |
 |  483 | Daniel Wissmann           |   0.7 |         2 |              |               |
 |  484 | Alfonso Rojas             |   0.6 |         8 |              |               |
@@ -495,7 +495,7 @@ Generated 2017-09-14.
 |  491 | Nathaniel Rice            |   0.4 |         3 |              |               |
 |  492 | Stuart Fox                |   0.2 |         1 |              |               |
 |  493 | Hannah Hagen              |   0.2 |         4 |              |               |
-|  494 | Duncan MacRae             |   0.2 |        30 |        -0.09 |               |
+|  494 | Duncan MacRae             |   0.2 |        31 |        -0.13 |               |
 |  495 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  496 | Sandra Harpster           |  -0.1 |         5 |              |               |
 |  497 | Stephen Garden            |  -0.2 |         2 |              |               |

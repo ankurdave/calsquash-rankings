@@ -36,14 +36,14 @@ Generated 2017-09-14.
 |   32 | Ashley Brooks     |  12.7 |         2 |              |               |
 |   33 | Raphael Magarik   |  10.1 |        36 |              |         +1.28 |
 |   34 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
-|   35 | Duo Wang          |   9.2 |        78 |        +0.29 |         +0.85 |
+|   35 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
 |   36 | Terence Stotz     |   9.0 |        10 |        +0.44 |               |
 |   37 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
 |   38 | Brian Kempenich   |   7.9 |        51 |              |         -0.87 |
 |   39 | Rashid Hameed     |   5.8 |         2 |              |               |
 |   40 | Avi Flamholz      |   4.5 |         4 |        -1.94 |               |
 |   41 | Zsolt Bartha      |   4.2 |        62 |              |         -0.50 |
-|   42 | Manuel Coquet     |   0.9 |         1 |              |               |
-|   43 | Duncan MacRae     |   0.2 |        30 |        -0.09 |               |
+|   42 | Manuel Coquet     |   1.7 |         2 |              |               |
+|   43 | Duncan MacRae     |   0.2 |        31 |        -0.13 |               |
 |   44 | Sara Bamberger    |  -0.4 |         1 |              |               |
 |   45 | Navarun Jain      | -12.2 |         3 |        +0.05 |               |
