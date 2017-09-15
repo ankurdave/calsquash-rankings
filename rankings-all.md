@@ -186,7 +186,7 @@ Generated 2017-09-14.
 |  182 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  183 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  184 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  185 | Mike Jensen-Akula         |  19.4 |       233 |        -0.27 |         -0.60 |
+|  185 | Mike Jensen-Akula         |  19.5 |       234 |        -0.18 |         -0.50 |
 |  186 | Roberto Gonzalez          |  19.4 |         3 |              |               |
 |  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  188 | Greg Adams                |  19.3 |        10 |              |               |
@@ -492,18 +492,18 @@ Generated 2017-09-14.
 |  488 | Ashley Mercer             |   0.5 |         5 |              |               |
 |  489 | Laurie Choi               |   0.5 |         2 |              |               |
 |  490 | Anne Iversen              |   0.4 |         3 |              |               |
-|  491 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  492 | Stuart Fox                |   0.2 |         1 |              |               |
-|  493 | Hannah Hagen              |   0.2 |         4 |              |               |
-|  494 | Duncan MacRae             |   0.2 |        31 |        -0.13 |               |
-|  495 | Rachel Chiu               |   0.1 |         2 |              |               |
-|  496 | Sandra Harpster           |  -0.1 |         5 |              |               |
-|  497 | Stephen Garden            |  -0.2 |         2 |              |               |
-|  498 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
-|  499 | Wyss Roman                |  -0.3 |         2 |              |               |
-|  500 | Jane Pan                  |  -0.4 |         1 |              |               |
-|  501 | Enrico Moretti            |  -0.4 |         1 |              |               |
-|  502 | Sara Bamberger            |  -0.4 |         1 |              |               |
+|  491 | Sara Bamberger            |   0.4 |         2 |              |               |
+|  492 | Nathaniel Rice            |   0.4 |         3 |              |               |
+|  493 | Stuart Fox                |   0.2 |         1 |              |               |
+|  494 | Hannah Hagen              |   0.2 |         4 |              |               |
+|  495 | Duncan MacRae             |   0.2 |        31 |        -0.13 |               |
+|  496 | Rachel Chiu               |   0.1 |         2 |              |               |
+|  497 | Sandra Harpster           |  -0.1 |         5 |              |               |
+|  498 | Stephen Garden            |  -0.2 |         2 |              |               |
+|  499 | Jesus Nieto Gonzalez      |  -0.2 |         2 |              |               |
+|  500 | Wyss Roman                |  -0.3 |         2 |              |               |
+|  501 | Jane Pan                  |  -0.4 |         1 |              |               |
+|  502 | Enrico Moretti            |  -0.4 |         1 |              |               |
 |  503 | Greg Rybka                |  -0.4 |         4 |              |               |
 |  504 | Klim Efremenko            |  -0.5 |         4 |              |               |
 |  505 | Rodrigo Lasheras          |  -0.5 |         3 |              |               |

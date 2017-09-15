@@ -18,7 +18,7 @@ Generated 2017-09-14.
 |   14 | Jonathan Hankar   |  21.5 |       212 |        -0.20 |         -0.72 |
 |   15 | Benjamin Adler    |  21.4 |         4 |              |               |
 |   16 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
-|   17 | Mike Jensen-Akula |  19.4 |       233 |        -0.27 |         -0.60 |
+|   17 | Mike Jensen-Akula |  19.5 |       234 |        -0.18 |         -0.50 |
 |   18 | Ankur Dave        |  18.6 |        84 |        +0.09 |         +4.59 |
 |   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
 |   20 | Anthony Abel      |  18.3 |         5 |        -1.08 |               |
@@ -44,6 +44,6 @@ Generated 2017-09-14.
 |   40 | Avi Flamholz      |   4.5 |         4 |        -1.94 |               |
 |   41 | Zsolt Bartha      |   4.2 |        63 |              |         -0.49 |
 |   42 | Manuel Coquet     |   1.7 |         2 |              |               |
-|   43 | Duncan MacRae     |   0.2 |        31 |        -0.13 |               |
-|   44 | Sara Bamberger    |  -0.4 |         1 |              |               |
+|   43 | Sara Bamberger    |   0.4 |         2 |              |               |
+|   44 | Duncan MacRae     |   0.2 |        31 |        -0.13 |               |
 |   45 | Navarun Jain      | -12.2 |         3 |        +0.05 |               |
