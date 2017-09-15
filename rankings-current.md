@@ -39,10 +39,10 @@ Generated 2017-09-14.
 |   35 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
 |   36 | Terence Stotz     |   9.0 |        10 |        +0.44 |               |
 |   37 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
-|   38 | Brian Kempenich   |   7.9 |        51 |              |         -0.87 |
+|   38 | Brian Kempenich   |   8.0 |        52 |        +0.02 |         -0.85 |
 |   39 | Rashid Hameed     |   5.8 |         2 |              |               |
 |   40 | Avi Flamholz      |   4.5 |         4 |        -1.94 |               |
-|   41 | Zsolt Bartha      |   4.2 |        62 |              |         -0.50 |
+|   41 | Zsolt Bartha      |   4.2 |        63 |              |         -0.49 |
 |   42 | Manuel Coquet     |   1.7 |         2 |              |               |
 |   43 | Duncan MacRae     |   0.2 |        31 |        -0.13 |               |
 |   44 | Sara Bamberger    |  -0.4 |         1 |              |               |

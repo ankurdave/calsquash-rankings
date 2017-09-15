@@ -411,7 +411,7 @@ Generated 2017-09-14.
 |  407 | Fabrice Henrion           |   8.1 |         2 |              |               |
 |  408 | Alexander Zuern           |   8.0 |        25 |              |               |
 |  409 | Zarina Khan               |   8.0 |         5 |              |               |
-|  410 | Brian Kempenich           |   7.9 |        51 |              |         -0.87 |
+|  410 | Brian Kempenich           |   8.0 |        52 |        +0.02 |         -0.85 |
 |  411 | Chip Malt                 |   7.9 |         4 |              |               |
 |  412 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  413 | Minsoo Bae                |   7.9 |         2 |              |               |
@@ -450,7 +450,7 @@ Generated 2017-09-14.
 |  446 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  447 | Avi Flamholz              |   4.5 |         4 |        -1.94 |               |
 |  448 | Sameer Bajaj              |   4.3 |         4 |              |         -0.30 |
-|  449 | Zsolt Bartha              |   4.2 |        62 |              |         -0.50 |
+|  449 | Zsolt Bartha              |   4.2 |        63 |              |         -0.49 |
 |  450 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  451 | Annie Wong                |   4.0 |         3 |              |               |
 |  452 | Ryan                      |   4.0 |         3 |              |               |
