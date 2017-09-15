@@ -34,15 +34,15 @@ Generated 2017-09-15.
 |   30 | Meldan Heaslip    |  12.8 |        37 |              |               |
 |   31 | Josh Lebowitz     |  12.7 |        58 |        +0.51 |         +3.43 |
 |   32 | Ashley Brooks     |  12.7 |         2 |              |               |
-|   33 | Raphael Magarik   |  10.1 |        36 |              |         +1.28 |
+|   33 | Raphael Magarik   |  10.3 |        37 |        +0.27 |         +1.55 |
 |   34 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
 |   35 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
 |   36 | Terence Stotz     |   9.0 |        10 |        +0.44 |               |
 |   37 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
-|   38 | Brian Kempenich   |   8.0 |        52 |        +0.02 |         -0.85 |
+|   38 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
 |   39 | Rashid Hameed     |   5.8 |         2 |              |               |
 |   40 | Avi Flamholz      |   4.5 |         4 |        -1.94 |               |
-|   41 | Zsolt Bartha      |   4.2 |        63 |              |         -0.49 |
+|   41 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
 |   42 | Manuel Coquet     |   1.7 |         2 |              |               |
 |   43 | Sara Bamberger    |   0.4 |         2 |              |               |
 |   44 | Duncan MacRae     |   0.2 |        31 |        -0.13 |               |

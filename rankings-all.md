@@ -362,13 +362,13 @@ Generated 2017-09-15.
 |  358 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  359 | Brian Puglise             |  10.4 |         2 |              |               |
 |  360 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  361 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  362 | John Provine              |  10.2 |        16 |              |               |
-|  363 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  364 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  365 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  366 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  367 | Raphael Magarik           |  10.1 |        36 |              |         +1.28 |
+|  361 | Raphael Magarik           |  10.3 |        37 |        +0.27 |         +1.55 |
+|  362 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  363 | John Provine              |  10.2 |        16 |              |               |
+|  364 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  365 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  366 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  367 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  368 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  369 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
 |  370 | Lucy Fairweather          |   9.9 |        11 |              |               |
@@ -411,10 +411,10 @@ Generated 2017-09-15.
 |  407 | Fabrice Henrion           |   8.1 |         2 |              |               |
 |  408 | Alexander Zuern           |   8.0 |        25 |              |               |
 |  409 | Zarina Khan               |   8.0 |         5 |              |               |
-|  410 | Brian Kempenich           |   8.0 |        52 |        +0.02 |         -0.85 |
-|  411 | Chip Malt                 |   7.9 |         4 |              |               |
-|  412 | Tjacka Bus                |   7.9 |         5 |              |               |
-|  413 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  410 | Chip Malt                 |   7.9 |         4 |              |               |
+|  411 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  412 | Minsoo Bae                |   7.9 |         2 |              |               |
+|  413 | Brian Kempenich           |   7.8 |        53 |        -0.17 |         -1.04 |
 |  414 | Akira Chiwaki             |   7.8 |         3 |              |               |
 |  415 | Felipe Gomez              |   7.7 |         4 |              |               |
 |  416 | Jeremy Brown              |   7.7 |         4 |              |               |
@@ -450,7 +450,7 @@ Generated 2017-09-15.
 |  446 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  447 | Avi Flamholz              |   4.5 |         4 |        -1.94 |               |
 |  448 | Sameer Bajaj              |   4.3 |         4 |              |         -0.30 |
-|  449 | Zsolt Bartha              |   4.2 |        63 |              |         -0.49 |
+|  449 | Zsolt Bartha              |   4.2 |        63 |              |         -0.50 |
 |  450 | Anuj Dawar                |   4.2 |        15 |              |               |
 |  451 | Annie Wong                |   4.0 |         3 |              |               |
 |  452 | Ryan                      |   4.0 |         3 |              |               |
