@@ -38,8 +38,8 @@ Generated 2017-09-15.
 |   34 | Samer Shehata             |  27.2 |        29 |              |               |
 |   35 | Hussain Raza              |  27.0 |        50 |              |               |
 |   36 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   37 | Frank Kennamer            |  26.9 |       236 |              |         -0.01 |
-|   38 | Alan Jose                 |  26.9 |       182 |              |               |
+|   37 | Alan Jose                 |  26.9 |       182 |              |               |
+|   38 | Frank Kennamer            |  26.9 |       237 |        -0.03 |         -0.04 |
 |   39 | Michael Best              |  26.9 |        21 |              |               |
 |   40 | Josh Taylor               |  26.8 |        40 |              |               |
 |   41 | David Hwang               |  26.8 |        44 |              |               |
@@ -65,7 +65,7 @@ Generated 2017-09-15.
 |   61 | Ben Seelig                |  25.0 |        69 |              |               |
 |   62 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   63 | Madhav Pai                |  24.9 |         5 |              |               |
-|   64 | John Kunze                |  24.8 |       333 |        -0.10 |         +0.14 |
+|   64 | John Kunze                |  24.9 |       334 |        -0.05 |         +0.20 |
 |   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
 |   66 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   67 | Sushil Shetty             |  24.8 |        23 |              |               |

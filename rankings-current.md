@@ -7,9 +7,9 @@ Generated 2017-09-15.
 |    3 | Sam Sternberg     |  30.6 |       162 |        +0.48 |         -0.23 |
 |    4 | Anibhav Singla    |  28.0 |        29 |              |               |
 |    5 | Nick Cobbett      |  27.8 |        47 |        -0.25 |         +2.15 |
-|    6 | Frank Kennamer    |  26.9 |       236 |              |         -0.01 |
+|    6 | Frank Kennamer    |  26.9 |       237 |        -0.03 |         -0.04 |
 |    7 | Thomas Littleton  |  26.4 |        13 |              |               |
-|    8 | John Kunze        |  24.8 |       333 |        -0.10 |         +0.14 |
+|    8 | John Kunze        |  24.9 |       334 |        -0.05 |         +0.20 |
 |    9 | David Woo         |  24.5 |         2 |              |               |
 |   10 | Jim Veitch        |  24.2 |       461 |              |         -1.38 |
 |   11 | Matt Wong         |  24.1 |        97 |        +0.46 |         +1.64 |
