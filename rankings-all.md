@@ -1,4 +1,4 @@
-Generated 2017-09-14.
+Generated 2017-09-15.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -305,19 +305,19 @@ Generated 2017-09-14.
 |  301 | Adam Soliman              |  14.2 |        32 |              |               |
 |  302 | Charles Denby             |  14.2 |         5 |              |               |
 |  303 | Kent Daniels              |  14.2 |       110 |              |         -1.46 |
-|  304 | Neil Sachs                |  14.1 |        12 |              |               |
-|  305 | Rupert Myers              |  14.0 |        27 |              |               |
-|  306 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  307 | Diego Butrich             |  13.9 |        15 |              |         +5.94 |
+|  304 | Craig Hollow              |  14.1 |        28 |        +0.42 |               |
+|  305 | Neil Sachs                |  14.1 |        12 |              |               |
+|  306 | Rupert Myers              |  14.0 |        27 |              |               |
+|  307 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  308 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  309 | Gurj Johal                |  13.8 |         2 |              |               |
 |  310 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  311 | Tim Browning              |  13.8 |         7 |              |               |
 |  312 | Josephine Lee             |  13.7 |         6 |              |               |
-|  313 | Craig Hollow              |  13.7 |        27 |              |               |
-|  314 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  315 | Danielle Craig            |  13.6 |         1 |              |               |
-|  316 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  313 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  314 | Danielle Craig            |  13.6 |         1 |              |               |
+|  315 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  316 | Diego Butrich             |  13.5 |        16 |        -0.38 |         +5.56 |
 |  317 | Lars Foleide              |  13.5 |        11 |              |               |
 |  318 | Alex Rennet               |  13.5 |         2 |              |               |
 |  319 | Joe Hyde                  |  13.4 |        68 |              |               |

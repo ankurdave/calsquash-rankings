@@ -1,4 +1,4 @@
-Generated 2017-09-14.
+Generated 2017-09-15.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -27,9 +27,9 @@ Generated 2017-09-14.
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.6 |       324 |              |         -0.16 |
 |   25 | Kent Daniels      |  14.2 |       110 |              |         -1.46 |
-|   26 | Diego Butrich     |  13.9 |        15 |              |         +5.94 |
-|   27 | Craig Hollow      |  13.7 |        27 |              |               |
-|   28 | Danielle Craig    |  13.6 |         1 |              |               |
+|   26 | Craig Hollow      |  14.1 |        28 |        +0.42 |               |
+|   27 | Danielle Craig    |  13.6 |         1 |              |               |
+|   28 | Diego Butrich     |  13.5 |        16 |        -0.38 |         +5.56 |
 |   29 | Karan Goyal       |  13.3 |        13 |              |               |
 |   30 | Meldan Heaslip    |  12.8 |        37 |              |               |
 |   31 | Josh Lebowitz     |  12.7 |        58 |        +0.51 |         +3.43 |
