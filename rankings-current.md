@@ -1,4 +1,4 @@
-Generated 2017-09-15.
+Generated 2017-09-16.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -23,17 +23,17 @@ Generated 2017-09-15.
 |   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
 |   20 | Anthony Abel      |  18.3 |         5 |        -1.08 |               |
 |   21 | Josh Trauner      |  18.1 |        63 |        +0.28 |         +0.44 |
-|   22 | Sahar Sareminaeni |  16.7 |        40 |              |         +8.80 |
+|   22 | Sahar Sareminaeni |  17.0 |        41 |        +0.29 |         +9.09 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.6 |       324 |              |         -0.16 |
 |   25 | Kent Daniels      |  14.2 |       110 |              |         -1.46 |
 |   26 | Craig Hollow      |  14.1 |        28 |        +0.42 |               |
-|   27 | Danielle Craig    |  13.6 |         1 |              |               |
-|   28 | Diego Butrich     |  13.5 |        16 |        -0.38 |         +5.56 |
-|   29 | Karan Goyal       |  13.3 |        13 |              |               |
-|   30 | Meldan Heaslip    |  12.8 |        37 |              |               |
-|   31 | Josh Lebowitz     |  12.7 |        58 |        +0.51 |         +3.43 |
-|   32 | Ashley Brooks     |  12.7 |         2 |              |               |
+|   27 | Diego Butrich     |  13.5 |        16 |        -0.38 |         +5.56 |
+|   28 | Karan Goyal       |  13.3 |        13 |              |               |
+|   29 | Meldan Heaslip    |  12.8 |        37 |              |               |
+|   30 | Josh Lebowitz     |  12.7 |        58 |        +0.51 |         +3.43 |
+|   31 | Ashley Brooks     |  12.7 |         2 |              |               |
+|   32 | Danielle Craig    |  10.5 |         2 |              |               |
 |   33 | Raphael Magarik   |  10.3 |        37 |        +0.27 |         +1.55 |
 |   34 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
 |   35 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
