@@ -26,22 +26,22 @@ Generated 2017-09-16.
 |   22 | Sahar Sareminaeni |  17.0 |        41 |        +0.29 |         +9.09 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.6 |       324 |              |         -0.16 |
-|   25 | Kent Daniels      |  14.2 |       110 |              |         -1.46 |
-|   26 | Craig Hollow      |  14.1 |        28 |        +0.42 |               |
+|   25 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
+|   26 | Kent Daniels      |  14.2 |       110 |              |         -1.46 |
 |   27 | Diego Butrich     |  13.5 |        16 |        -0.38 |         +5.56 |
 |   28 | Karan Goyal       |  13.3 |        13 |              |               |
 |   29 | Meldan Heaslip    |  12.8 |        37 |              |               |
-|   30 | Josh Lebowitz     |  12.7 |        58 |        +0.51 |         +3.43 |
-|   31 | Ashley Brooks     |  12.7 |         2 |              |               |
+|   30 | Ashley Brooks     |  12.7 |         2 |              |               |
+|   31 | Josh Lebowitz     |  12.6 |        59 |        +0.44 |         +3.36 |
 |   32 | Danielle Craig    |  10.5 |         2 |              |               |
 |   33 | Raphael Magarik   |  10.3 |        37 |        +0.27 |         +1.55 |
 |   34 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
-|   35 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
-|   36 | Terence Stotz     |   9.0 |        10 |        +0.44 |               |
+|   35 | Terence Stotz     |   9.3 |        10 |        +0.65 |               |
+|   36 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
 |   37 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
-|   38 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
-|   39 | Rashid Hameed     |   5.8 |         2 |              |               |
-|   40 | Avi Flamholz      |   4.5 |         4 |        -1.94 |               |
+|   38 | Rashid Hameed     |   8.0 |         3 |              |               |
+|   39 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
+|   40 | Avi Flamholz      |   4.5 |         4 |        -1.97 |               |
 |   41 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
 |   42 | Manuel Coquet     |   1.7 |         2 |              |               |
 |   43 | Sara Bamberger    |   0.4 |         2 |              |               |
