@@ -1,16 +1,16 @@
-Generated 2017-09-16.
+Generated 2017-09-17.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler     |  33.8 |       224 |              |         -1.20 |
-|    2 | Eric Katerman     |  33.4 |        62 |        -0.31 |         +2.66 |
+|    2 | Eric Katerman     |  33.2 |        63 |        -0.48 |         +2.49 |
 |    3 | Sam Sternberg     |  30.6 |       162 |        +0.48 |         -0.23 |
 |    4 | Anibhav Singla    |  28.0 |        29 |              |               |
-|    5 | Nick Cobbett      |  27.8 |        47 |        -0.25 |         +2.15 |
-|    6 | Frank Kennamer    |  26.9 |       237 |        -0.03 |         -0.04 |
-|    7 | Thomas Littleton  |  26.4 |        13 |              |               |
-|    8 | John Kunze        |  24.9 |       334 |        -0.05 |         +0.20 |
-|    9 | David Woo         |  24.5 |         2 |              |               |
+|    5 | David Woo         |  28.0 |         3 |              |               |
+|    6 | Nick Cobbett      |  27.8 |        47 |        -0.25 |         +2.15 |
+|    7 | Frank Kennamer    |  26.9 |       237 |        -0.03 |         -0.04 |
+|    8 | Thomas Littleton  |  26.4 |        13 |              |               |
+|    9 | John Kunze        |  24.9 |       334 |        -0.05 |         +0.20 |
 |   10 | Jim Veitch        |  24.2 |       461 |              |         -1.38 |
 |   11 | Matt Wong         |  24.1 |        97 |        +0.46 |         +1.64 |
 |   12 | Dan Bohn          |  22.7 |       107 |              |         -0.41 |

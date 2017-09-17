@@ -1,4 +1,4 @@
-Generated 2017-09-16.
+Generated 2017-09-17.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -7,8 +7,8 @@ Generated 2017-09-16.
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
 |    5 | Ashley Kayler             |  33.8 |       224 |              |         -1.20 |
-|    6 | Eric Katerman             |  33.4 |        62 |        -0.31 |         +2.66 |
-|    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
+|    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
+|    7 | Eric Katerman             |  33.2 |        63 |        -0.48 |         +2.49 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -32,48 +32,48 @@ Generated 2017-09-16.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   30 | Anibhav Singla            |  28.0 |        29 |              |               |
-|   31 | Nick Cobbett              |  27.8 |        47 |        -0.25 |         +2.15 |
-|   32 | Grant French              |  27.5 |       125 |              |               |
-|   33 | Stephen Dang              |  27.2 |        34 |              |               |
-|   34 | Samer Shehata             |  27.2 |        29 |              |               |
-|   35 | Hussain Raza              |  27.0 |        50 |              |               |
-|   36 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   37 | Alan Jose                 |  26.9 |       182 |              |               |
-|   38 | Frank Kennamer            |  26.9 |       237 |        -0.03 |         -0.04 |
-|   39 | Michael Best              |  26.9 |        21 |              |               |
-|   40 | Josh Taylor               |  26.8 |        40 |              |               |
-|   41 | David Hwang               |  26.8 |        44 |              |               |
-|   42 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
-|   43 | Gary Golding              |  26.5 |         6 |              |               |
-|   44 | Amos Vernon               |  26.4 |        30 |              |               |
-|   45 | Thomas Littleton          |  26.4 |        13 |              |               |
-|   46 | Andrew Moylan             |  26.3 |        95 |              |               |
-|   47 | Mikey Zarem               |  26.1 |         8 |              |               |
-|   48 | Vishi                     |  26.0 |        41 |              |               |
-|   49 | Peter McDermott           |  25.8 |        10 |              |               |
-|   50 | Andrew Hsu                |  25.8 |        15 |              |               |
-|   51 | Arvind Muralimohan        |  25.7 |        18 |              |               |
-|   52 | Richard Chan              |  25.5 |         9 |              |               |
-|   53 | Joe Schneider             |  25.5 |         8 |              |               |
-|   54 | Adam Angsten              |  25.4 |         3 |              |               |
-|   55 | Matt Nelson-Teutsch       |  25.4 |        10 |              |               |
-|   56 | Sean O'Nuallain           |  25.4 |        43 |              |               |
-|   57 | Rahul Gupta               |  25.3 |         7 |              |               |
-|   58 | Paul Greene               |  25.2 |         8 |              |               |
-|   59 | Mukul Sud                 |  25.0 |         3 |              |               |
-|   60 | Sam McCormick             |  25.0 |        38 |              |         +4.47 |
-|   61 | Ben Seelig                |  25.0 |        69 |              |               |
-|   62 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   63 | Madhav Pai                |  24.9 |         5 |              |               |
-|   64 | John Kunze                |  24.9 |       334 |        -0.05 |         +0.20 |
-|   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   67 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   68 | Orion Hodson              |  24.8 |        31 |              |               |
-|   69 | Martin Stokes             |  24.7 |        12 |              |               |
-|   70 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   72 | David Woo                 |  24.5 |         2 |              |               |
+|   31 | David Woo                 |  28.0 |         3 |              |               |
+|   32 | Nick Cobbett              |  27.8 |        47 |        -0.25 |         +2.15 |
+|   33 | Grant French              |  27.5 |       125 |              |               |
+|   34 | Stephen Dang              |  27.2 |        34 |              |               |
+|   35 | Samer Shehata             |  27.2 |        29 |              |               |
+|   36 | Hussain Raza              |  27.0 |        50 |              |               |
+|   37 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   38 | Alan Jose                 |  26.9 |       182 |              |               |
+|   39 | Frank Kennamer            |  26.9 |       237 |        -0.03 |         -0.04 |
+|   40 | Michael Best              |  26.9 |        21 |              |               |
+|   41 | Josh Taylor               |  26.8 |        40 |              |               |
+|   42 | David Hwang               |  26.8 |        44 |              |               |
+|   43 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
+|   44 | Gary Golding              |  26.5 |         6 |              |               |
+|   45 | Amos Vernon               |  26.4 |        30 |              |               |
+|   46 | Thomas Littleton          |  26.4 |        13 |              |               |
+|   47 | Andrew Moylan             |  26.3 |        95 |              |               |
+|   48 | Mikey Zarem               |  26.1 |         8 |              |               |
+|   49 | Vishi                     |  26.0 |        41 |              |               |
+|   50 | Peter McDermott           |  25.8 |        10 |              |               |
+|   51 | Andrew Hsu                |  25.8 |        15 |              |               |
+|   52 | Arvind Muralimohan        |  25.7 |        18 |              |               |
+|   53 | Richard Chan              |  25.5 |         9 |              |               |
+|   54 | Joe Schneider             |  25.5 |         8 |              |               |
+|   55 | Adam Angsten              |  25.4 |         3 |              |               |
+|   56 | Matt Nelson-Teutsch       |  25.4 |        10 |              |               |
+|   57 | Sean O'Nuallain           |  25.4 |        43 |              |               |
+|   58 | Rahul Gupta               |  25.3 |         7 |              |               |
+|   59 | Paul Greene               |  25.2 |         8 |              |               |
+|   60 | Mukul Sud                 |  25.0 |         3 |              |               |
+|   61 | Sam McCormick             |  25.0 |        38 |              |         +4.47 |
+|   62 | Ben Seelig                |  25.0 |        69 |              |               |
+|   63 | Jaime Paterson            |  24.9 |         1 |              |               |
+|   64 | Madhav Pai                |  24.9 |         5 |              |               |
+|   65 | John Kunze                |  24.9 |       334 |        -0.05 |         +0.20 |
+|   66 | Shrinu Kushagra           |  24.8 |        12 |              |               |
+|   67 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   68 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   69 | Orion Hodson              |  24.8 |        31 |              |               |
+|   70 | Martin Stokes             |  24.7 |        12 |              |               |
+|   71 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   74 | Adam Pollak               |  24.5 |        31 |              |               |
 |   75 | Jon Shih                  |  24.4 |        47 |              |               |
