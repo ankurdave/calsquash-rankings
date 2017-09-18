@@ -11,17 +11,17 @@ Generated 2017-09-17.
 |    7 | Frank Kennamer    |  26.9 |       237 |        -0.03 |         -0.04 |
 |    8 | Thomas Littleton  |  26.4 |        13 |              |               |
 |    9 | John Kunze        |  24.9 |       334 |        -0.05 |         +0.20 |
-|   10 | Jim Veitch        |  24.2 |       461 |              |         -1.38 |
-|   11 | Matt Wong         |  24.1 |        97 |        +0.46 |         +1.64 |
+|   10 | Matt Wong         |  24.5 |        98 |        +0.78 |         +1.96 |
+|   11 | Jim Veitch        |  24.2 |       461 |              |         -1.38 |
 |   12 | Dan Bohn          |  22.7 |       107 |              |         -0.41 |
 |   13 | Dan Meier         |  21.8 |        76 |              |         -0.91 |
-|   14 | Jonathan Hankar   |  21.5 |       212 |        -0.20 |         -0.72 |
-|   15 | Benjamin Adler    |  21.4 |         4 |              |               |
-|   16 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
-|   17 | Mike Jensen-Akula |  19.5 |       234 |        -0.18 |         -0.50 |
+|   14 | Jonathan Hankar   |  21.5 |       212 |        -0.18 |         -0.71 |
+|   15 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
+|   16 | Mike Jensen-Akula |  19.5 |       234 |        -0.18 |         -0.50 |
+|   17 | Benjamin Adler    |  19.1 |         5 |        -2.27 |               |
 |   18 | Ankur Dave        |  18.6 |        84 |        +0.09 |         +4.59 |
 |   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
-|   20 | Anthony Abel      |  18.3 |         5 |        -1.08 |               |
+|   20 | Anthony Abel      |  18.4 |         5 |        -1.05 |               |
 |   21 | Josh Trauner      |  18.1 |        63 |        +0.28 |         +0.44 |
 |   22 | Sahar Sareminaeni |  17.0 |        41 |        +0.29 |         +9.09 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
