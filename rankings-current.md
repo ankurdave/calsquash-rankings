@@ -45,5 +45,5 @@ Generated 2017-09-19.
 |   41 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
 |   42 | Manuel Coquet     |   1.7 |         2 |              |               |
 |   43 | Sara Bamberger    |   0.4 |         2 |              |               |
-|   44 | Duncan MacRae     |   0.2 |        31 |        -0.13 |               |
-|   45 | Navarun Jain      | -12.2 |         3 |        +0.05 |               |
+|   44 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
+|   45 | Navarun Jain      | -12.4 |         4 |        -0.06 |               |

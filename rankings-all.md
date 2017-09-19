@@ -494,9 +494,9 @@ Generated 2017-09-19.
 |  490 | Anne Iversen              |   0.4 |         3 |              |               |
 |  491 | Sara Bamberger            |   0.4 |         2 |              |               |
 |  492 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  493 | Stuart Fox                |   0.2 |         1 |              |               |
-|  494 | Hannah Hagen              |   0.2 |         4 |              |               |
-|  495 | Duncan MacRae             |   0.2 |        31 |        -0.13 |               |
+|  493 | Duncan MacRae             |   0.3 |        32 |        +0.04 |               |
+|  494 | Stuart Fox                |   0.2 |         1 |              |               |
+|  495 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  496 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  497 | Sandra Harpster           |  -0.1 |         5 |              |               |
 |  498 | Stephen Garden            |  -0.2 |         2 |              |               |
@@ -531,4 +531,4 @@ Generated 2017-09-19.
 |  527 | Sara Green                |  -5.8 |         1 |              |               |
 |  528 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  529 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  530 | Navarun Jain              | -12.2 |         3 |        +0.05 |               |
+|  530 | Navarun Jain              | -12.4 |         4 |        -0.06 |               |
