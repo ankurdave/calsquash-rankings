@@ -1,4 +1,4 @@
-Generated 2017-09-17.
+Generated 2017-09-19.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -22,8 +22,8 @@ Generated 2017-09-17.
 |   18 | Ankur Dave        |  18.6 |        84 |        +0.09 |         +4.59 |
 |   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
 |   20 | Anthony Abel      |  18.4 |         5 |        -1.05 |               |
-|   21 | Josh Trauner      |  18.1 |        63 |        +0.28 |         +0.44 |
-|   22 | Sahar Sareminaeni |  17.0 |        41 |        +0.29 |         +9.09 |
+|   21 | Josh Trauner      |  18.2 |        64 |        +0.41 |         +0.57 |
+|   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.6 |       324 |              |         -0.16 |
 |   25 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |

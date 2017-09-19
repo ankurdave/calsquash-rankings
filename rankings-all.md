@@ -1,4 +1,4 @@
-Generated 2017-09-17.
+Generated 2017-09-19.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -219,8 +219,8 @@ Generated 2017-09-17.
 |  215 | Anthony Abel              |  18.4 |         5 |        -1.05 |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.85 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  218 | Bob Roller                |  18.2 |         6 |              |               |
-|  219 | Josh Trauner              |  18.1 |        63 |        +0.28 |         +0.44 |
+|  218 | Josh Trauner              |  18.2 |        64 |        +0.41 |         +0.57 |
+|  219 | Bob Roller                |  18.2 |         6 |              |               |
 |  220 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  221 | James Chung               |  17.9 |         7 |              |               |
 |  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
@@ -247,9 +247,9 @@ Generated 2017-09-17.
 |  243 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  244 | Neil Conway               |  17.0 |        55 |              |               |
 |  245 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  246 | Sahar Sareminaeni         |  17.0 |        41 |        +0.29 |         +9.09 |
-|  247 | Baxter Leman              |  16.9 |         6 |              |               |
-|  248 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  246 | Baxter Leman              |  16.9 |         6 |              |               |
+|  247 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  248 | Sahar Sareminaeni         |  16.9 |        42 |        +0.16 |         +8.97 |
 |  249 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  250 | Wayne Heiser              |  16.7 |        61 |              |         -0.28 |
 |  251 | Chinghway Lim             |  16.7 |        10 |              |               |
