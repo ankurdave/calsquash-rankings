@@ -17,12 +17,12 @@ Generated 2017-09-19.
 |   13 | Dan Meier         |  21.8 |        76 |              |         -0.91 |
 |   14 | Jonathan Hankar   |  21.5 |       212 |        -0.18 |         -0.71 |
 |   15 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
-|   16 | Mike Jensen-Akula |  19.5 |       234 |        -0.18 |         -0.50 |
+|   16 | Mike Jensen-Akula |  19.5 |       234 |        -0.17 |         -0.50 |
 |   17 | Benjamin Adler    |  19.1 |         5 |        -2.27 |               |
 |   18 | Ankur Dave        |  18.6 |        84 |        +0.09 |         +4.59 |
 |   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
 |   20 | Anthony Abel      |  18.4 |         5 |        -1.05 |               |
-|   21 | Josh Trauner      |  18.2 |        64 |        +0.41 |         +0.57 |
+|   21 | Josh Trauner      |  18.2 |        65 |        +0.36 |         +0.53 |
 |   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.6 |       324 |              |         -0.16 |
@@ -41,9 +41,9 @@ Generated 2017-09-19.
 |   37 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
 |   38 | Rashid Hameed     |   8.0 |         3 |              |               |
 |   39 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
-|   40 | Avi Flamholz      |   4.5 |         4 |        -1.97 |               |
-|   41 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
-|   42 | Manuel Coquet     |   1.7 |         2 |              |               |
-|   43 | Sara Bamberger    |   0.4 |         2 |              |               |
+|   40 | Sara Bamberger    |   5.8 |         3 |              |               |
+|   41 | Avi Flamholz      |   4.5 |         4 |        -1.97 |               |
+|   42 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
+|   43 | Manuel Coquet     |   1.7 |         2 |              |               |
 |   44 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
 |   45 | Navarun Jain      | -12.4 |         4 |        -0.06 |               |
