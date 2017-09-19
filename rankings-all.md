@@ -6,9 +6,9 @@ Generated 2017-09-19.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Ashley Kayler             |  33.8 |       224 |              |         -1.20 |
-|    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Eric Katerman             |  33.2 |        63 |        -0.48 |         +2.49 |
+|    5 | Eric Katerman             |  33.5 |        64 |        -0.18 |         +2.79 |
+|    6 | Ashley Kayler             |  33.5 |       225 |        -0.30 |         -1.50 |
+|    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -31,8 +31,8 @@ Generated 2017-09-19.
 |   27 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   30 | Anibhav Singla            |  28.0 |        29 |              |               |
-|   31 | David Woo                 |  28.0 |         3 |              |               |
+|   30 | David Woo                 |  28.1 |         3 |              |               |
+|   31 | Anibhav Singla            |  28.0 |        29 |              |               |
 |   32 | Nick Cobbett              |  27.8 |        47 |        -0.25 |         +2.15 |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Stephen Dang              |  27.2 |        34 |              |               |
