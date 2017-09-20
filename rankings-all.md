@@ -40,7 +40,7 @@ Generated 2017-09-19.
 |   36 | Hussain Raza              |  27.0 |        50 |              |               |
 |   37 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   38 | Alan Jose                 |  26.9 |       182 |              |               |
-|   39 | Frank Kennamer            |  26.9 |       237 |        -0.03 |         -0.04 |
+|   39 | Frank Kennamer            |  26.9 |       237 |        -0.05 |         -0.06 |
 |   40 | Michael Best              |  26.9 |        21 |              |               |
 |   41 | Josh Taylor               |  26.8 |        40 |              |               |
 |   42 | David Hwang               |  26.8 |        44 |              |               |
@@ -66,26 +66,26 @@ Generated 2017-09-19.
 |   62 | Ben Seelig                |  25.0 |        69 |              |               |
 |   63 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   64 | Madhav Pai                |  24.9 |         5 |              |               |
-|   65 | John Kunze                |  24.9 |       334 |        -0.05 |         +0.20 |
-|   66 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   67 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   68 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   69 | Orion Hodson              |  24.8 |        31 |              |               |
-|   70 | Martin Stokes             |  24.7 |        12 |              |               |
+|   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
+|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   67 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   68 | Orion Hodson              |  24.8 |        31 |              |               |
+|   69 | Martin Stokes             |  24.7 |        12 |              |               |
+|   70 | John Kunze                |  24.6 |       335 |        -0.31 |         -0.06 |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   74 | Adam Pollak               |  24.5 |        31 |              |               |
-|   75 | Matt Wong                 |  24.5 |        98 |        +0.78 |         +1.96 |
-|   76 | Jon Shih                  |  24.4 |        47 |              |               |
-|   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   79 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
-|   81 | Toby Reiner               |  24.2 |       159 |              |               |
-|   82 | Himanshu Jatia            |  24.2 |         4 |              |               |
-|   83 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   84 | Jim Veitch                |  24.2 |       461 |              |         -1.38 |
+|   74 | Jim Veitch                |  24.5 |       462 |        +0.30 |         -1.08 |
+|   75 | Adam Pollak               |  24.5 |        31 |              |               |
+|   76 | Matt Wong                 |  24.5 |        98 |        +0.78 |         +1.96 |
+|   77 | Jon Shih                  |  24.4 |        47 |              |               |
+|   78 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   79 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   80 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   81 | Lakshya Rustagi           |  24.2 |         2 |              |               |
+|   82 | Toby Reiner               |  24.2 |       159 |              |               |
+|   83 | Himanshu Jatia            |  24.2 |         4 |              |               |
+|   84 | Matthew Elliott           |  24.2 |         7 |              |               |
 |   85 | Robert Jeng               |  24.1 |        26 |              |               |
 |   86 | Vyas Sekar                |  24.1 |        17 |              |               |
 |   87 | Benjamin Vicuna           |  24.1 |        50 |              |               |
@@ -206,7 +206,7 @@ Generated 2017-09-19.
 |  202 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  203 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  204 | Allan Sly                 |  18.6 |        29 |              |               |
-|  205 | Ankur Dave                |  18.6 |        84 |        +0.09 |         +4.59 |
+|  205 | Ankur Dave                |  18.6 |        84 |        +0.08 |         +4.58 |
 |  206 | Jason Facchin             |  18.5 |         3 |              |               |
 |  207 | Yan Liu                   |  18.5 |        10 |              |               |
 |  208 | Dror Matalon              |  18.5 |       376 |              |         +0.14 |

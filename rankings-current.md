@@ -8,18 +8,18 @@ Generated 2017-09-19.
 |    4 | David Woo         |  28.2 |         3 |              |               |
 |    5 | Nick Cobbett      |  28.1 |        48 |        +0.06 |         +2.46 |
 |    6 | Anibhav Singla    |  27.7 |        30 |        -0.37 |               |
-|    7 | Frank Kennamer    |  26.9 |       237 |        -0.03 |         -0.04 |
+|    7 | Frank Kennamer    |  26.9 |       237 |        -0.05 |         -0.06 |
 |    8 | Thomas Littleton  |  26.4 |        13 |              |               |
-|    9 | John Kunze        |  24.9 |       334 |        -0.05 |         +0.20 |
-|   10 | Matt Wong         |  24.5 |        98 |        +0.78 |         +1.96 |
-|   11 | Jim Veitch        |  24.2 |       461 |              |         -1.38 |
+|    9 | John Kunze        |  24.6 |       335 |        -0.31 |         -0.06 |
+|   10 | Jim Veitch        |  24.5 |       462 |        +0.30 |         -1.08 |
+|   11 | Matt Wong         |  24.5 |        98 |        +0.78 |         +1.96 |
 |   12 | Dan Bohn          |  22.7 |       107 |              |         -0.41 |
 |   13 | Dan Meier         |  21.8 |        76 |              |         -0.91 |
 |   14 | Jonathan Hankar   |  21.5 |       212 |        -0.18 |         -0.71 |
 |   15 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
 |   16 | Mike Jensen-Akula |  19.5 |       234 |        -0.17 |         -0.50 |
 |   17 | Benjamin Adler    |  19.1 |         5 |        -2.27 |               |
-|   18 | Ankur Dave        |  18.6 |        84 |        +0.09 |         +4.59 |
+|   18 | Ankur Dave        |  18.6 |        84 |        +0.08 |         +4.58 |
 |   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
 |   20 | Anthony Abel      |  18.4 |         5 |        -1.05 |               |
 |   21 | Josh Trauner      |  18.2 |        65 |        +0.36 |         +0.53 |
