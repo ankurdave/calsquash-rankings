@@ -29,21 +29,22 @@ Generated 2017-09-19.
 |   25 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
 |   26 | Kent Daniels      |  14.2 |       110 |              |         -1.46 |
 |   27 | Diego Butrich     |  13.5 |        16 |        -0.38 |         +5.56 |
-|   28 | Karan Goyal       |  13.3 |        13 |              |               |
+|   28 | Karan Goyal       |  13.2 |        14 |        -0.12 |               |
 |   29 | Meldan Heaslip    |  12.8 |        37 |              |               |
 |   30 | Ashley Brooks     |  12.7 |         2 |              |               |
 |   31 | Josh Lebowitz     |  12.6 |        59 |        +0.44 |         +3.36 |
-|   32 | Danielle Craig    |  10.5 |         2 |              |               |
-|   33 | Raphael Magarik   |  10.3 |        37 |        +0.27 |         +1.55 |
-|   34 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
-|   35 | Terence Stotz     |   9.3 |        10 |        +0.65 |               |
-|   36 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
-|   37 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
-|   38 | Rashid Hameed     |   8.0 |         3 |              |               |
-|   39 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
-|   40 | Sara Bamberger    |   5.8 |         3 |              |               |
-|   41 | Avi Flamholz      |   4.5 |         4 |        -1.97 |               |
-|   42 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
-|   43 | Manuel Coquet     |   1.7 |         2 |              |               |
-|   44 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
-|   45 | Navarun Jain      | -12.4 |         4 |        -0.06 |               |
+|   32 | Caroline Palmer   |  12.0 |         1 |              |               |
+|   33 | Danielle Craig    |  10.5 |         2 |              |               |
+|   34 | Raphael Magarik   |  10.3 |        37 |        +0.27 |         +1.55 |
+|   35 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
+|   36 | Terence Stotz     |   9.3 |        10 |        +0.65 |               |
+|   37 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
+|   38 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
+|   39 | Rashid Hameed     |   8.0 |         3 |              |               |
+|   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
+|   41 | Sara Bamberger    |   5.8 |         3 |              |               |
+|   42 | Avi Flamholz      |   4.5 |         4 |        -1.97 |               |
+|   43 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
+|   44 | Manuel Coquet     |   1.7 |         2 |              |               |
+|   45 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
+|   46 | Navarun Jain      | -12.4 |         4 |        -0.06 |               |
