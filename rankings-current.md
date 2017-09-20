@@ -1,4 +1,4 @@
-Generated 2017-09-19.
+Generated 2017-09-20.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -13,7 +13,7 @@ Generated 2017-09-19.
 |    9 | John Kunze        |  24.6 |       335 |        -0.31 |         -0.06 |
 |   10 | Jim Veitch        |  24.5 |       462 |        +0.30 |         -1.08 |
 |   11 | Matt Wong         |  24.5 |        98 |        +0.78 |         +1.96 |
-|   12 | Dan Bohn          |  22.7 |       107 |              |         -0.41 |
+|   12 | Dan Bohn          |  22.5 |       108 |        -0.26 |         -0.67 |
 |   13 | Dan Meier         |  21.8 |        76 |              |         -0.91 |
 |   14 | Jonathan Hankar   |  21.5 |       212 |        -0.18 |         -0.71 |
 |   15 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
@@ -24,8 +24,8 @@ Generated 2017-09-19.
 |   20 | Anthony Abel      |  18.4 |         5 |        -1.05 |               |
 |   21 | Josh Trauner      |  18.2 |        65 |        +0.36 |         +0.53 |
 |   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
-|   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
-|   24 | Chris Flores      |  16.6 |       324 |              |         -0.16 |
+|   23 | Chris Flores      |  16.9 |       325 |        +0.25 |         +0.08 |
+|   24 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   25 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
 |   26 | Kent Daniels      |  14.2 |       110 |              |         -1.46 |
 |   27 | Diego Butrich     |  13.5 |        16 |        -0.38 |         +5.56 |

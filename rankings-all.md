@@ -1,4 +1,4 @@
-Generated 2017-09-19.
+Generated 2017-09-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -106,12 +106,12 @@ Generated 2017-09-19.
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
 |  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Dan Bohn                  |  22.7 |       107 |              |         -0.41 |
-|  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
-|  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  108 | Julian Marshall           |  22.7 |        31 |              |               |
-|  109 | Gautam Tankha             |  22.6 |         7 |              |               |
-|  110 | Dev Millstein             |  22.6 |        92 |              |               |
+|  105 | Andrew Pritchard          |  22.7 |        16 |              |               |
+|  106 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  107 | Julian Marshall           |  22.7 |        31 |              |               |
+|  108 | Gautam Tankha             |  22.6 |         7 |              |               |
+|  109 | Dev Millstein             |  22.6 |        92 |              |               |
+|  110 | Dan Bohn                  |  22.5 |       108 |        -0.26 |         -0.67 |
 |  111 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  112 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  113 | Sunil Bhave               |  22.3 |        26 |              |               |
@@ -250,12 +250,12 @@ Generated 2017-09-19.
 |  246 | Baxter Leman              |  16.9 |         6 |              |               |
 |  247 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  248 | Sahar Sareminaeni         |  16.9 |        42 |        +0.16 |         +8.97 |
-|  249 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  250 | Wayne Heiser              |  16.7 |        61 |              |         -0.28 |
-|  251 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  252 | David Shabelman           |  16.7 |        30 |              |               |
-|  253 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  254 | Chris Flores              |  16.6 |       324 |              |         -0.16 |
+|  249 | Chris Flores              |  16.9 |       325 |        +0.25 |         +0.08 |
+|  250 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  251 | Wayne Heiser              |  16.7 |        61 |              |         -0.28 |
+|  252 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  253 | David Shabelman           |  16.7 |        30 |              |               |
+|  254 | David Bratt               |  16.7 |        31 |              |         +0.26 |
 |  255 | Mark Priven               |  16.6 |        72 |              |               |
 |  256 | William Coleman           |  16.5 |        48 |              |               |
 |  257 | Mike Troxell              |  16.5 |         8 |              |               |
