@@ -28,11 +28,11 @@ Generated 2017-09-20.
 |   24 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   25 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
 |   26 | Kent Daniels      |  14.2 |       110 |              |         -1.46 |
-|   27 | Diego Butrich     |  13.5 |        16 |        -0.38 |         +5.56 |
+|   27 | Diego Butrich     |  13.9 |        17 |              |         +5.94 |
 |   28 | Karan Goyal       |  13.2 |        14 |        -0.12 |               |
 |   29 | Meldan Heaslip    |  12.8 |        37 |              |               |
 |   30 | Ashley Brooks     |  12.7 |         2 |              |               |
-|   31 | Josh Lebowitz     |  12.6 |        59 |        +0.44 |         +3.36 |
+|   31 | Josh Lebowitz     |  12.4 |        60 |        +0.21 |         +3.14 |
 |   32 | Caroline Palmer   |  12.0 |         1 |              |               |
 |   33 | Danielle Craig    |  10.5 |         2 |              |               |
 |   34 | Raphael Magarik   |  10.3 |        37 |        +0.27 |         +1.55 |

@@ -309,14 +309,14 @@ Generated 2017-09-20.
 |  305 | Neil Sachs                |  14.1 |        12 |              |               |
 |  306 | Rupert Myers              |  14.0 |        27 |              |               |
 |  307 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  308 | Mekoce Walker             |  13.8 |        38 |              |               |
-|  309 | Gurj Johal                |  13.8 |         2 |              |               |
-|  310 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  311 | Tim Browning              |  13.8 |         7 |              |               |
-|  312 | Josephine Lee             |  13.7 |         6 |              |               |
-|  313 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  314 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  315 | Diego Butrich             |  13.5 |        16 |        -0.38 |         +5.56 |
+|  308 | Diego Butrich             |  13.9 |        17 |              |         +5.94 |
+|  309 | Mekoce Walker             |  13.8 |        38 |              |               |
+|  310 | Gurj Johal                |  13.8 |         2 |              |               |
+|  311 | Freeden Ouer              |  13.8 |         1 |              |               |
+|  312 | Tim Browning              |  13.8 |         7 |              |               |
+|  313 | Josephine Lee             |  13.7 |         6 |              |               |
+|  314 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  315 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  316 | Lars Foleide              |  13.5 |        11 |              |               |
 |  317 | Alex Rennet               |  13.5 |         2 |              |               |
 |  318 | Joe Hyde                  |  13.4 |        68 |              |               |
@@ -332,11 +332,11 @@ Generated 2017-09-20.
 |  328 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  329 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  330 | Ashley Brooks             |  12.7 |         2 |              |               |
-|  331 | Josh Lebowitz             |  12.6 |        59 |        +0.44 |         +3.36 |
-|  332 | Josh Shiode               |  12.6 |        20 |              |               |
-|  333 | Huw Lester                |  12.5 |         1 |              |               |
-|  334 | Richard Fabini            |  12.4 |         3 |              |               |
-|  335 | Jennifer Rha              |  12.4 |        18 |              |         -0.22 |
+|  331 | Josh Shiode               |  12.6 |        20 |              |               |
+|  332 | Huw Lester                |  12.5 |         1 |              |               |
+|  333 | Richard Fabini            |  12.4 |         3 |              |               |
+|  334 | Jennifer Rha              |  12.4 |        18 |              |         -0.22 |
+|  335 | Josh Lebowitz             |  12.4 |        60 |        +0.21 |         +3.14 |
 |  336 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
 |  337 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
 |  338 | John Givens               |  12.2 |        13 |              |               |
