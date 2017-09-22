@@ -1,4 +1,4 @@
-Generated 2017-09-21.
+Generated 2017-09-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -46,8 +46,8 @@ Generated 2017-09-21.
 |   42 | David Hwang               |  26.8 |        44 |              |               |
 |   43 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
 |   44 | Gary Golding              |  26.5 |         6 |              |               |
-|   45 | Amos Vernon               |  26.4 |        30 |              |               |
-|   46 | Thomas Littleton          |  26.4 |        13 |              |               |
+|   45 | Thomas Littleton          |  26.5 |        14 |        +0.12 |               |
+|   46 | Amos Vernon               |  26.4 |        30 |              |               |
 |   47 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   48 | Mikey Zarem               |  26.1 |         8 |              |               |
 |   49 | Vishi                     |  26.0 |        41 |              |               |
@@ -206,10 +206,10 @@ Generated 2017-09-21.
 |  202 | Guillaume Egles           |  18.6 |        11 |              |               |
 |  203 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  204 | Allan Sly                 |  18.6 |        29 |              |               |
-|  205 | Ankur Dave                |  18.6 |        84 |        +0.08 |         +4.58 |
-|  206 | Jason Facchin             |  18.5 |         3 |              |               |
-|  207 | Yan Liu                   |  18.5 |        10 |              |               |
-|  208 | Dror Matalon              |  18.5 |       376 |              |         +0.14 |
+|  205 | Jason Facchin             |  18.5 |         3 |              |               |
+|  206 | Yan Liu                   |  18.5 |        10 |              |               |
+|  207 | Dror Matalon              |  18.5 |       376 |              |         +0.14 |
+|  208 | Ankur Dave                |  18.5 |        85 |              |         +4.51 |
 |  209 | Akshay Dugar              |  18.5 |         6 |              |               |
 |  210 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
 |  211 | Javed Ahmed               |  18.5 |        58 |              |               |
