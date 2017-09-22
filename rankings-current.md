@@ -26,14 +26,14 @@ Generated 2017-09-22.
 |   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
 |   23 | Chris Flores      |  16.9 |       325 |        +0.25 |         +0.08 |
 |   24 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
-|   25 | Caroline Palmer   |  15.5 |         2 |              |               |
-|   26 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
-|   27 | Kent Daniels      |  14.1 |       111 |        -0.06 |         -1.52 |
-|   28 | Diego Butrich     |  13.9 |        17 |              |         +5.94 |
-|   29 | Karan Goyal       |  13.2 |        14 |        -0.12 |               |
-|   30 | Meldan Heaslip    |  12.8 |        37 |              |               |
-|   31 | Ashley Brooks     |  12.7 |         2 |              |               |
-|   32 | Josh Lebowitz     |  12.4 |        60 |        +0.21 |         +3.14 |
+|   25 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
+|   26 | Kent Daniels      |  13.9 |       111 |        -0.23 |         -1.70 |
+|   27 | Diego Butrich     |  13.9 |        17 |              |         +5.94 |
+|   28 | Karan Goyal       |  13.8 |        15 |        +0.45 |               |
+|   29 | Meldan Heaslip    |  13.0 |        39 |        +0.22 |               |
+|   30 | Ashley Brooks     |  12.7 |         2 |              |               |
+|   31 | Josh Lebowitz     |  12.4 |        60 |        +0.21 |         +3.14 |
+|   32 | Caroline Palmer   |  10.8 |         3 |              |               |
 |   33 | Danielle Craig    |  10.5 |         2 |              |               |
 |   34 | Raphael Magarik   |  10.3 |        37 |        +0.27 |         +1.55 |
 |   35 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
