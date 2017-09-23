@@ -11,7 +11,7 @@ Generated 2017-09-23.
 |    7 | Frank Kennamer    |  27.1 |       238 |        +0.12 |         +0.11 |
 |    8 | Thomas Littleton  |  26.5 |        14 |        +0.11 |               |
 |    9 | John Kunze        |  24.6 |       335 |        -0.30 |         -0.06 |
-|   10 | Matt Wong         |  24.5 |        99 |        +0.82 |         +2.00 |
+|   10 | Matt Wong         |  24.6 |       100 |        +0.90 |         +2.08 |
 |   11 | Jim Veitch        |  24.4 |       464 |        +0.23 |         -1.15 |
 |   12 | Dan Bohn          |  22.5 |       108 |        -0.26 |         -0.67 |
 |   13 | Benjamin Adler    |  22.0 |         7 |        +0.58 |               |
@@ -45,6 +45,7 @@ Generated 2017-09-23.
 |   41 | Sara Bamberger    |   5.8 |         3 |              |               |
 |   42 | Avi Flamholz      |   4.5 |         4 |        -1.97 |               |
 |   43 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
-|   44 | Manuel Coquet     |   1.7 |         2 |              |               |
-|   45 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
-|   46 | Navarun Jain      | -12.4 |         4 |        -0.06 |               |
+|   44 | Saijoscha Heck    |   2.0 |         1 |              |               |
+|   45 | Manuel Coquet     |   1.7 |         2 |              |               |
+|   46 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
+|   47 | Navarun Jain      | -12.4 |         4 |        -0.06 |               |
