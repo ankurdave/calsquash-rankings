@@ -8,13 +8,13 @@ Generated 2017-09-22.
 |    4 | David Woo         |  28.3 |         3 |              |               |
 |    5 | Nick Cobbett      |  28.1 |        48 |        +0.06 |         +2.46 |
 |    6 | Anibhav Singla    |  27.7 |        30 |        -0.37 |               |
-|    7 | Frank Kennamer    |  26.9 |       237 |        -0.05 |         -0.06 |
+|    7 | Frank Kennamer    |  27.1 |       238 |        +0.12 |         +0.11 |
 |    8 | Thomas Littleton  |  26.5 |        14 |        +0.12 |               |
-|    9 | John Kunze        |  24.6 |       335 |        -0.31 |         -0.06 |
-|   10 | Jim Veitch        |  24.5 |       462 |        +0.30 |         -1.08 |
-|   11 | Matt Wong         |  24.5 |        98 |        +0.78 |         +1.96 |
+|    9 | John Kunze        |  24.6 |       335 |        -0.30 |         -0.06 |
+|   10 | Matt Wong         |  24.5 |        99 |        +0.84 |         +2.02 |
+|   11 | Jim Veitch        |  24.3 |       463 |        +0.13 |         -1.25 |
 |   12 | Dan Bohn          |  22.5 |       108 |        -0.26 |         -0.67 |
-|   13 | Dan Meier         |  21.8 |        76 |              |         -0.91 |
+|   13 | Dan Meier         |  21.7 |        77 |        -0.05 |         -0.96 |
 |   14 | Jonathan Hankar   |  21.5 |       212 |        -0.18 |         -0.71 |
 |   15 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
 |   16 | Mike Jensen-Akula |  19.5 |       234 |        -0.17 |         -0.50 |

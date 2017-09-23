@@ -37,10 +37,10 @@ Generated 2017-09-22.
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Stephen Dang              |  27.2 |        34 |              |               |
 |   35 | Samer Shehata             |  27.2 |        29 |              |               |
-|   36 | Hussain Raza              |  27.0 |        50 |              |               |
-|   37 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   38 | Alan Jose                 |  26.9 |       182 |              |               |
-|   39 | Frank Kennamer            |  26.9 |       237 |        -0.05 |         -0.06 |
+|   36 | Frank Kennamer            |  27.1 |       238 |        +0.12 |         +0.11 |
+|   37 | Hussain Raza              |  27.0 |        50 |              |               |
+|   38 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   39 | Alan Jose                 |  26.9 |       182 |              |               |
 |   40 | Michael Best              |  26.9 |        21 |              |               |
 |   41 | Josh Taylor               |  26.8 |        40 |              |               |
 |   42 | David Hwang               |  26.8 |        44 |              |               |
@@ -71,16 +71,16 @@ Generated 2017-09-22.
 |   67 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   68 | Orion Hodson              |  24.8 |        31 |              |               |
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
-|   70 | John Kunze                |  24.6 |       335 |        -0.31 |         -0.06 |
+|   70 | John Kunze                |  24.6 |       335 |        -0.30 |         -0.06 |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   74 | Jim Veitch                |  24.5 |       462 |        +0.30 |         -1.08 |
+|   73 | Matt Wong                 |  24.5 |        99 |        +0.84 |         +2.02 |
+|   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |
-|   76 | Matt Wong                 |  24.5 |        98 |        +0.78 |         +1.96 |
-|   77 | Jon Shih                  |  24.4 |        47 |              |               |
-|   78 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   79 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   76 | Jon Shih                  |  24.4 |        47 |              |               |
+|   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   79 | Jim Veitch                |  24.3 |       463 |        +0.13 |         -1.25 |
 |   80 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   81 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   82 | Toby Reiner               |  24.2 |       159 |              |               |
@@ -129,8 +129,8 @@ Generated 2017-09-22.
 |  125 | Jan Beranek               |  21.9 |        46 |              |               |
 |  126 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  127 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  128 | Dan Meier                 |  21.8 |        76 |              |         -0.91 |
-|  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  128 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  129 | Dan Meier                 |  21.7 |        77 |        -0.05 |         -0.96 |
 |  130 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  131 | Omair Azam                |  21.7 |        18 |              |               |
 |  132 | Phin Lee                  |  21.7 |        16 |              |               |
