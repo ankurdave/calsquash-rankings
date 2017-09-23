@@ -1,4 +1,4 @@
-Generated 2017-09-22.
+Generated 2017-09-23.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -305,11 +305,11 @@ Generated 2017-09-22.
 |  301 | Adam Soliman              |  14.2 |        32 |              |               |
 |  302 | Craig Hollow              |  14.2 |        30 |        +0.52 |               |
 |  303 | Charles Denby             |  14.2 |         5 |              |               |
-|  304 | Neil Sachs                |  14.1 |        12 |              |               |
-|  305 | Rupert Myers              |  14.0 |        27 |              |               |
-|  306 | Kent Daniels              |  13.9 |       111 |        -0.23 |         -1.70 |
-|  307 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  308 | Diego Butrich             |  13.9 |        17 |              |         +5.94 |
+|  304 | Diego Butrich             |  14.1 |        18 |        +0.23 |         +6.17 |
+|  305 | Neil Sachs                |  14.1 |        12 |              |               |
+|  306 | Rupert Myers              |  14.0 |        27 |              |               |
+|  307 | Kent Daniels              |  13.9 |       111 |        -0.23 |         -1.70 |
+|  308 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  309 | Mekoce Walker             |  13.8 |        38 |              |               |
 |  310 | Gurj Johal                |  13.8 |         2 |              |               |
 |  311 | Freeden Ouer              |  13.8 |         1 |              |               |
@@ -336,7 +336,7 @@ Generated 2017-09-22.
 |  332 | Huw Lester                |  12.5 |         1 |              |               |
 |  333 | Richard Fabini            |  12.4 |         3 |              |               |
 |  334 | Jennifer Rha              |  12.4 |        18 |              |         -0.22 |
-|  335 | Josh Lebowitz             |  12.4 |        60 |        +0.21 |         +3.14 |
+|  335 | Josh Lebowitz             |  12.4 |        60 |        +0.22 |         +3.14 |
 |  336 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
 |  337 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
 |  338 | John Givens               |  12.2 |        13 |              |               |
@@ -387,12 +387,12 @@ Generated 2017-09-22.
 |  383 | Robert Broesler           |   9.4 |         4 |              |               |
 |  384 | Raunak Bhinge             |   9.3 |         8 |              |               |
 |  385 | Greg Sperla               |   9.3 |         8 |              |               |
-|  386 | Terence Stotz             |   9.3 |        10 |        +0.65 |               |
-|  387 | Duo Wang                  |   9.2 |        78 |        +0.31 |         +0.87 |
-|  388 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  389 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  390 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  391 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  386 | Duo Wang                  |   9.2 |        78 |        +0.31 |         +0.87 |
+|  387 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  388 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  389 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  390 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  391 | Terence Stotz             |   9.0 |        11 |        +0.37 |               |
 |  392 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  393 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  394 | Nicholas Bauer            |   8.8 |        16 |              |               |
@@ -410,11 +410,11 @@ Generated 2017-09-22.
 |  406 | John Coates               |   8.1 |         9 |              |               |
 |  407 | Vito Sciaraffia           |   8.1 |         5 |              |               |
 |  408 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  409 | Rashid Hameed             |   8.0 |         3 |              |               |
-|  410 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  411 | Zarina Khan               |   8.0 |         5 |              |               |
-|  412 | Chip Malt                 |   7.9 |         4 |              |               |
-|  413 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  409 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  410 | Zarina Khan               |   8.0 |         5 |              |               |
+|  411 | Chip Malt                 |   7.9 |         4 |              |               |
+|  412 | Tjacka Bus                |   7.9 |         5 |              |               |
+|  413 | Rashid Hameed             |   7.9 |         3 |              |               |
 |  414 | Minsoo Bae                |   7.9 |         2 |              |               |
 |  415 | Brian Kempenich           |   7.8 |        53 |        -0.17 |         -1.04 |
 |  416 | Akira Chiwaki             |   7.8 |         3 |              |               |
