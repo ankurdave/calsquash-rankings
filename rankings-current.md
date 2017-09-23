@@ -11,17 +11,17 @@ Generated 2017-09-22.
 |    7 | Frank Kennamer    |  27.1 |       238 |        +0.12 |         +0.11 |
 |    8 | Thomas Littleton  |  26.5 |        14 |        +0.12 |               |
 |    9 | John Kunze        |  24.6 |       335 |        -0.30 |         -0.06 |
-|   10 | Matt Wong         |  24.5 |        99 |        +0.84 |         +2.02 |
+|   10 | Matt Wong         |  24.5 |        99 |        +0.82 |         +2.00 |
 |   11 | Jim Veitch        |  24.3 |       463 |        +0.13 |         -1.25 |
 |   12 | Dan Bohn          |  22.5 |       108 |        -0.26 |         -0.67 |
-|   13 | Dan Meier         |  21.7 |        77 |        -0.05 |         -0.96 |
-|   14 | Jonathan Hankar   |  21.5 |       212 |        -0.18 |         -0.71 |
-|   15 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
-|   16 | Mike Jensen-Akula |  19.5 |       234 |        -0.17 |         -0.50 |
-|   17 | Benjamin Adler    |  19.1 |         5 |        -2.27 |               |
-|   18 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
-|   19 | Ankur Dave        |  18.5 |        85 |              |         +4.51 |
-|   20 | Anthony Abel      |  18.4 |         5 |        -1.05 |               |
+|   13 | Benjamin Adler    |  22.0 |         7 |        +0.58 |               |
+|   14 | Dan Meier         |  21.7 |        77 |        -0.05 |         -0.96 |
+|   15 | Jonathan Hankar   |  21.5 |       213 |        -0.19 |         -0.72 |
+|   16 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
+|   17 | Mike Jensen-Akula |  19.5 |       234 |        -0.17 |         -0.50 |
+|   18 | Anthony Abel      |  18.8 |         6 |        -0.65 |               |
+|   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
+|   20 | Ankur Dave        |  18.5 |        85 |              |         +4.51 |
 |   21 | Josh Trauner      |  18.2 |        65 |        +0.36 |         +0.53 |
 |   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
 |   23 | Chris Flores      |  16.9 |       325 |        +0.25 |         +0.08 |
