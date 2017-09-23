@@ -9,10 +9,10 @@ Generated 2017-09-23.
 |    5 | Nick Cobbett      |  28.1 |        48 |        +0.06 |         +2.46 |
 |    6 | Anibhav Singla    |  27.7 |        30 |        -0.37 |               |
 |    7 | Frank Kennamer    |  27.1 |       238 |        +0.12 |         +0.11 |
-|    8 | Thomas Littleton  |  26.5 |        14 |        +0.12 |               |
+|    8 | Thomas Littleton  |  26.5 |        14 |        +0.11 |               |
 |    9 | John Kunze        |  24.6 |       335 |        -0.30 |         -0.06 |
 |   10 | Matt Wong         |  24.5 |        99 |        +0.82 |         +2.00 |
-|   11 | Jim Veitch        |  24.3 |       463 |        +0.13 |         -1.25 |
+|   11 | Jim Veitch        |  24.4 |       464 |        +0.23 |         -1.15 |
 |   12 | Dan Bohn          |  22.5 |       108 |        -0.26 |         -0.67 |
 |   13 | Benjamin Adler    |  22.0 |         7 |        +0.58 |               |
 |   14 | Dan Meier         |  21.7 |        77 |        -0.05 |         -0.96 |
@@ -21,7 +21,7 @@ Generated 2017-09-23.
 |   17 | Mike Jensen-Akula |  19.5 |       234 |        -0.17 |         -0.50 |
 |   18 | Anthony Abel      |  18.8 |         6 |        -0.65 |               |
 |   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
-|   20 | Ankur Dave        |  18.5 |        85 |              |         +4.51 |
+|   20 | Ankur Dave        |  18.4 |        86 |        -0.11 |         +4.40 |
 |   21 | Josh Trauner      |  18.2 |        65 |        +0.36 |         +0.53 |
 |   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
 |   23 | Chris Flores      |  16.9 |       325 |        +0.25 |         +0.08 |

@@ -46,7 +46,7 @@ Generated 2017-09-23.
 |   42 | David Hwang               |  26.8 |        44 |              |               |
 |   43 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
 |   44 | Gary Golding              |  26.5 |         6 |              |               |
-|   45 | Thomas Littleton          |  26.5 |        14 |        +0.12 |               |
+|   45 | Thomas Littleton          |  26.5 |        14 |        +0.11 |               |
 |   46 | Amos Vernon               |  26.4 |        30 |              |               |
 |   47 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   48 | Mikey Zarem               |  26.1 |         8 |              |               |
@@ -79,8 +79,8 @@ Generated 2017-09-23.
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |
 |   76 | Jon Shih                  |  24.4 |        47 |              |               |
 |   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   79 | Jim Veitch                |  24.3 |       463 |        +0.13 |         -1.25 |
+|   78 | Jim Veitch                |  24.4 |       464 |        +0.23 |         -1.15 |
+|   79 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   80 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   81 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   82 | Toby Reiner               |  24.2 |       159 |              |               |
@@ -210,12 +210,12 @@ Generated 2017-09-23.
 |  206 | Jason Facchin             |  18.5 |         3 |              |               |
 |  207 | Yan Liu                   |  18.5 |        10 |              |               |
 |  208 | Dror Matalon              |  18.5 |       376 |              |         +0.14 |
-|  209 | Ankur Dave                |  18.5 |        85 |              |         +4.51 |
-|  210 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  211 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  212 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  213 | John Eng                  |  18.4 |        28 |              |               |
-|  214 | Natalie Leung             |  18.4 |         1 |              |               |
+|  209 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  210 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  211 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  212 | John Eng                  |  18.4 |        28 |              |               |
+|  213 | Natalie Leung             |  18.4 |         1 |              |               |
+|  214 | Ankur Dave                |  18.4 |        86 |        -0.11 |         +4.40 |
 |  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.85 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
