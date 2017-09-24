@@ -1,4 +1,4 @@
-Generated 2017-09-23.
+Generated 2017-09-24.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -6,9 +6,9 @@ Generated 2017-09-23.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Eric Katerman             |  33.6 |        64 |        -0.16 |         +2.81 |
+|    5 | Eric Katerman             |  33.6 |        64 |        -0.15 |         +2.81 |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Ashley Kayler             |  33.2 |       226 |        -0.65 |         -1.85 |
+|    7 | Ashley Kayler             |  33.3 |       227 |        -0.53 |         -1.74 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -32,7 +32,7 @@ Generated 2017-09-23.
 |   28 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   29 | David Woo                 |  28.3 |         3 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   31 | Nick Cobbett              |  28.1 |        48 |        +0.06 |         +2.46 |
+|   31 | Nick Cobbett              |  28.0 |        49 |        -0.06 |         +2.34 |
 |   32 | Anibhav Singla            |  27.7 |        30 |        -0.37 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Stephen Dang              |  27.2 |        34 |              |               |
