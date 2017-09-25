@@ -388,7 +388,7 @@ Generated 2017-09-25.
 |  384 | Robert Broesler           |   9.4 |         4 |              |               |
 |  385 | Raunak Bhinge             |   9.3 |         8 |              |               |
 |  386 | Greg Sperla               |   9.3 |         8 |              |               |
-|  387 | Duo Wang                  |   9.2 |        78 |        +0.31 |         +0.87 |
+|  387 | Duo Wang                  |   9.2 |        79 |        +0.30 |         +0.86 |
 |  388 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  389 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  390 | Janeau Janssen            |   9.1 |        14 |              |               |
@@ -533,4 +533,4 @@ Generated 2017-09-25.
 |  529 | Sara Green                |  -5.8 |         1 |              |               |
 |  530 | Stephanie Collett         |  -5.8 |         2 |              |               |
 |  531 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  532 | Navarun Jain              | -12.4 |         4 |        -0.06 |               |
+|  532 | Navarun Jain              | -12.3 |         5 |        -0.04 |               |

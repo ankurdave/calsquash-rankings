@@ -38,7 +38,7 @@ Generated 2017-09-25.
 |   34 | Raphael Magarik   |  10.3 |        37 |        +0.27 |         +1.55 |
 |   35 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
 |   36 | Rashid Hameed     |   9.4 |         4 |              |               |
-|   37 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
+|   37 | Duo Wang          |   9.2 |        79 |        +0.30 |         +0.86 |
 |   38 | Terence Stotz     |   9.0 |        11 |        +0.37 |               |
 |   39 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
@@ -48,4 +48,4 @@ Generated 2017-09-25.
 |   44 | Saijoscha Heck    |   2.0 |         1 |              |               |
 |   45 | Manuel Coquet     |   1.7 |         2 |              |               |
 |   46 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
-|   47 | Navarun Jain      | -12.4 |         4 |        -0.06 |               |
+|   47 | Navarun Jain      | -12.3 |         5 |        -0.04 |               |
