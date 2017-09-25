@@ -1,4 +1,4 @@
-Generated 2017-09-24.
+Generated 2017-09-25.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -37,14 +37,14 @@ Generated 2017-09-24.
 |   33 | Danielle Craig    |  10.5 |         2 |              |               |
 |   34 | Raphael Magarik   |  10.3 |        37 |        +0.27 |         +1.55 |
 |   35 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
-|   36 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
-|   37 | Terence Stotz     |   9.0 |        11 |        +0.37 |               |
-|   38 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
-|   39 | Rashid Hameed     |   7.9 |         3 |              |               |
+|   36 | Rashid Hameed     |   9.4 |         4 |              |               |
+|   37 | Duo Wang          |   9.2 |        78 |        +0.31 |         +0.87 |
+|   38 | Terence Stotz     |   9.0 |        11 |        +0.37 |               |
+|   39 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
 |   41 | Sara Bamberger    |   5.8 |         3 |              |               |
-|   42 | Avi Flamholz      |   4.5 |         4 |        -1.97 |               |
-|   43 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
+|   42 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
+|   43 | Avi Flamholz      |   3.6 |         5 |        -2.86 |               |
 |   44 | Saijoscha Heck    |   2.0 |         1 |              |               |
 |   45 | Manuel Coquet     |   1.7 |         2 |              |               |
 |   46 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
