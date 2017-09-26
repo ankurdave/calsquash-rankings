@@ -20,12 +20,12 @@ Generated 2017-09-25.
 |   16 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
 |   17 | Mike Jensen-Akula |  19.5 |       234 |        -0.17 |         -0.50 |
 |   18 | Anthony Abel      |  18.8 |         6 |        -0.65 |               |
-|   19 | Dror Matalon      |  18.5 |       376 |              |         +0.14 |
+|   19 | Dror Matalon      |  18.7 |       377 |        +0.21 |         +0.35 |
 |   20 | Ankur Dave        |  18.4 |        86 |        -0.11 |         +4.40 |
 |   21 | Josh Trauner      |  18.2 |        65 |        +0.36 |         +0.53 |
 |   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
-|   23 | Chris Flores      |  16.9 |       325 |        +0.25 |         +0.08 |
-|   24 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
+|   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
+|   24 | Chris Flores      |  16.7 |       326 |        +0.04 |         -0.12 |
 |   25 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
 |   26 | Diego Butrich     |  14.1 |        18 |        +0.23 |         +6.17 |
 |   27 | Karan Goyal       |  13.9 |        14 |        +0.57 |               |

@@ -202,14 +202,14 @@ Generated 2017-09-25.
 |  198 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  199 | Anthony Abel              |  18.8 |         6 |        -0.65 |               |
 |  200 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  201 | Peter Dering              |  18.7 |         9 |              |               |
-|  202 | Sushant Jain              |  18.7 |        12 |              |               |
-|  203 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  204 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  205 | Allan Sly                 |  18.6 |        29 |              |               |
-|  206 | Jason Facchin             |  18.5 |         3 |              |               |
-|  207 | Yan Liu                   |  18.5 |        10 |              |               |
-|  208 | Dror Matalon              |  18.5 |       376 |              |         +0.14 |
+|  201 | Dror Matalon              |  18.7 |       377 |        +0.21 |         +0.35 |
+|  202 | Peter Dering              |  18.7 |         9 |              |               |
+|  203 | Sushant Jain              |  18.7 |        12 |              |               |
+|  204 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  205 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  206 | Allan Sly                 |  18.6 |        29 |              |               |
+|  207 | Jason Facchin             |  18.5 |         3 |              |               |
+|  208 | Yan Liu                   |  18.5 |        10 |              |               |
 |  209 | Akshay Dugar              |  18.5 |         6 |              |               |
 |  210 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
 |  211 | Javed Ahmed               |  18.5 |        58 |              |               |
@@ -250,12 +250,12 @@ Generated 2017-09-25.
 |  246 | Baxter Leman              |  16.9 |         6 |              |               |
 |  247 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  248 | Sahar Sareminaeni         |  16.9 |        42 |        +0.16 |         +8.97 |
-|  249 | Chris Flores              |  16.9 |       325 |        +0.25 |         +0.08 |
-|  250 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  251 | Wayne Heiser              |  16.7 |        61 |              |         -0.28 |
-|  252 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  253 | David Shabelman           |  16.7 |        30 |              |               |
-|  254 | David Bratt               |  16.7 |        31 |              |         +0.26 |
+|  249 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  250 | Wayne Heiser              |  16.7 |        61 |              |         -0.28 |
+|  251 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  252 | David Shabelman           |  16.7 |        30 |              |               |
+|  253 | David Bratt               |  16.7 |        31 |              |         +0.26 |
+|  254 | Chris Flores              |  16.7 |       326 |        +0.04 |         -0.12 |
 |  255 | Mark Priven               |  16.6 |        72 |              |               |
 |  256 | William Coleman           |  16.5 |        48 |              |               |
 |  257 | Mike Troxell              |  16.5 |         8 |              |               |
