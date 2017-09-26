@@ -357,9 +357,9 @@ Generated 2017-09-26.
 |  353 | Karan Jain                |  11.3 |        19 |              |               |
 |  354 | Lucas Siow                |  11.0 |        10 |              |               |
 |  355 | Dominick Ng               |  10.9 |        25 |              |               |
-|  356 | George Bentley            |  10.6 |         4 |              |               |
-|  357 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  358 | Raphael Magarik           |  10.5 |        38 |        +0.42 |         +1.70 |
+|  356 | Raphael Magarik           |  10.6 |        39 |        +0.55 |         +1.82 |
+|  357 | George Bentley            |  10.6 |         4 |              |               |
+|  358 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  359 | Danielle Craig            |  10.5 |         2 |              |               |
 |  360 | Brian Puglise             |  10.4 |         2 |              |               |
 |  361 | Lewis H. Moore            |  10.3 |         8 |              |               |
@@ -451,8 +451,8 @@ Generated 2017-09-26.
 |  447 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  448 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  449 | Sameer Bajaj              |   4.3 |         4 |              |         -0.30 |
-|  450 | Zsolt Bartha              |   4.2 |        63 |              |         -0.49 |
-|  451 | Anuj Dawar                |   4.2 |        15 |              |               |
+|  450 | Anuj Dawar                |   4.2 |        15 |              |               |
+|  451 | Zsolt Bartha              |   4.1 |        64 |        -0.10 |         -0.60 |
 |  452 | Annie Wong                |   4.0 |         3 |              |               |
 |  453 | Ryan                      |   4.0 |         3 |              |               |
 |  454 | Vishesh Dalal             |   3.8 |         1 |              |               |

@@ -33,7 +33,7 @@ Generated 2017-09-26.
 |   29 | Meldan Heaslip    |  12.8 |        39 |              |               |
 |   30 | Ashley Brooks     |  12.7 |         2 |              |               |
 |   31 | Josh Lebowitz     |  12.4 |        60 |        +0.22 |         +3.14 |
-|   32 | Raphael Magarik   |  10.5 |        38 |        +0.42 |         +1.70 |
+|   32 | Raphael Magarik   |  10.6 |        39 |        +0.55 |         +1.82 |
 |   33 | Danielle Craig    |  10.5 |         2 |              |               |
 |   34 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
 |   35 | Rashid Hameed     |   9.4 |         4 |              |               |
@@ -43,7 +43,7 @@ Generated 2017-09-26.
 |   39 | Caroline Palmer   |   8.1 |         2 |              |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
 |   41 | Sara Bamberger    |   5.8 |         3 |              |               |
-|   42 | Zsolt Bartha      |   4.2 |        63 |              |         -0.49 |
+|   42 | Zsolt Bartha      |   4.1 |        64 |        -0.10 |         -0.60 |
 |   43 | Vishesh Dalal     |   3.8 |         1 |              |               |
 |   44 | Avi Flamholz      |   3.6 |         5 |        -2.86 |               |
 |   45 | Saijoscha Heck    |   2.0 |         1 |              |               |
