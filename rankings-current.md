@@ -1,4 +1,4 @@
-Generated 2017-09-25.
+Generated 2017-09-26.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -33,8 +33,8 @@ Generated 2017-09-25.
 |   29 | Meldan Heaslip    |  12.8 |        39 |              |               |
 |   30 | Ashley Brooks     |  12.7 |         2 |              |               |
 |   31 | Josh Lebowitz     |  12.4 |        60 |        +0.22 |         +3.14 |
-|   32 | Danielle Craig    |  10.5 |         2 |              |               |
-|   33 | Raphael Magarik   |  10.3 |        37 |        +0.27 |         +1.55 |
+|   32 | Raphael Magarik   |  10.5 |        38 |        +0.42 |         +1.70 |
+|   33 | Danielle Craig    |  10.5 |         2 |              |               |
 |   34 | Nate Aden         |   9.9 |        39 |              |         +1.77 |
 |   35 | Rashid Hameed     |   9.4 |         4 |              |               |
 |   36 | Duo Wang          |   9.2 |        79 |        +0.30 |         +0.86 |
@@ -43,9 +43,10 @@ Generated 2017-09-25.
 |   39 | Caroline Palmer   |   8.1 |         2 |              |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
 |   41 | Sara Bamberger    |   5.8 |         3 |              |               |
-|   42 | Zsolt Bartha      |   4.2 |        63 |              |         -0.50 |
-|   43 | Avi Flamholz      |   3.6 |         5 |        -2.86 |               |
-|   44 | Saijoscha Heck    |   2.0 |         1 |              |               |
-|   45 | Manuel Coquet     |   1.7 |         2 |              |               |
-|   46 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
-|   47 | Navarun Jain      | -12.3 |         5 |        -0.04 |               |
+|   42 | Zsolt Bartha      |   4.2 |        63 |              |         -0.49 |
+|   43 | Vishesh Dalal     |   3.8 |         1 |              |               |
+|   44 | Avi Flamholz      |   3.6 |         5 |        -2.86 |               |
+|   45 | Saijoscha Heck    |   2.0 |         1 |              |               |
+|   46 | Manuel Coquet     |   1.7 |         2 |              |               |
+|   47 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
+|   48 | Navarun Jain      | -12.3 |         5 |        -0.04 |               |
