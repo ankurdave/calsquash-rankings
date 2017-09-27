@@ -1,4 +1,4 @@
-Generated 2017-09-26.
+Generated 2017-09-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -401,9 +401,9 @@ Generated 2017-09-26.
 |  397 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  398 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  399 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  400 | Reynold Xin               |   8.3 |         5 |              |               |
-|  401 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  402 | Sumit Gupta               |   8.2 |        12 |        +0.03 |               |
+|  400 | Sumit Gupta               |   8.5 |        13 |        +0.28 |               |
+|  401 | Reynold Xin               |   8.3 |         5 |              |               |
+|  402 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  403 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  404 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  405 | Phil Hartmeyer            |   8.2 |         3 |              |               |
@@ -497,7 +497,7 @@ Generated 2017-09-26.
 |  493 | Laurie Choi               |   0.5 |         2 |              |               |
 |  494 | Anne Iversen              |   0.4 |         3 |              |               |
 |  495 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  496 | Duncan MacRae             |   0.3 |        32 |        +0.04 |               |
+|  496 | Duncan MacRae             |   0.3 |        33 |        -0.03 |               |
 |  497 | Stuart Fox                |   0.2 |         1 |              |               |
 |  498 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  499 | Rachel Chiu               |   0.1 |         2 |              |               |

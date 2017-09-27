@@ -1,4 +1,4 @@
-Generated 2017-09-26.
+Generated 2017-09-27.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -39,7 +39,7 @@ Generated 2017-09-26.
 |   35 | Rashid Hameed     |   9.4 |         4 |              |               |
 |   36 | Duo Wang          |   9.2 |        79 |        +0.30 |         +0.86 |
 |   37 | Terence Stotz     |   9.0 |        11 |        +0.37 |               |
-|   38 | Sumit Gupta       |   8.2 |        12 |        +0.03 |               |
+|   38 | Sumit Gupta       |   8.5 |        13 |        +0.28 |               |
 |   39 | Caroline Palmer   |   8.1 |         2 |              |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
 |   41 | Sara Bamberger    |   5.8 |         3 |              |               |
@@ -48,5 +48,5 @@ Generated 2017-09-26.
 |   44 | Avi Flamholz      |   3.6 |         5 |        -2.86 |               |
 |   45 | Saijoscha Heck    |   2.0 |         1 |              |               |
 |   46 | Manuel Coquet     |   1.7 |         2 |              |               |
-|   47 | Duncan MacRae     |   0.3 |        32 |        +0.04 |               |
+|   47 | Duncan MacRae     |   0.3 |        33 |        -0.03 |               |
 |   48 | Navarun Jain      | -12.3 |         5 |        -0.04 |               |
