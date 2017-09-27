@@ -43,10 +43,10 @@ Generated 2017-09-26.
 |   39 | Alan Jose                 |  26.9 |       182 |              |               |
 |   40 | Michael Best              |  26.9 |        21 |              |               |
 |   41 | Josh Taylor               |  26.8 |        40 |              |               |
-|   42 | David Hwang               |  26.8 |        44 |              |               |
-|   43 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
-|   44 | Gary Golding              |  26.5 |         6 |              |               |
-|   45 | Thomas Littleton          |  26.5 |        14 |        +0.11 |               |
+|   42 | Thomas Littleton          |  26.8 |        15 |        +0.47 |               |
+|   43 | David Hwang               |  26.8 |        44 |              |               |
+|   44 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
+|   45 | Gary Golding              |  26.5 |         6 |              |               |
 |   46 | Amos Vernon               |  26.4 |        30 |              |               |
 |   47 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   48 | Mikey Zarem               |  26.1 |         8 |              |               |
@@ -71,7 +71,7 @@ Generated 2017-09-26.
 |   67 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   68 | Orion Hodson              |  24.8 |        31 |              |               |
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
-|   70 | John Kunze                |  24.6 |       335 |        -0.30 |         -0.06 |
+|   70 | John Kunze                |  24.6 |       335 |        -0.31 |         -0.06 |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   72 | Matt Wong                 |  24.6 |       100 |        +0.90 |         +2.08 |
 |   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |
@@ -79,9 +79,9 @@ Generated 2017-09-26.
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |
 |   76 | Jon Shih                  |  24.4 |        47 |              |               |
 |   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   78 | Jim Veitch                |  24.4 |       464 |        +0.23 |         -1.15 |
-|   79 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   80 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   79 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   80 | Jim Veitch                |  24.2 |       465 |        +0.07 |         -1.30 |
 |   81 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   82 | Toby Reiner               |  24.2 |       159 |              |               |
 |   83 | Himanshu Jatia            |  24.2 |         4 |              |               |
