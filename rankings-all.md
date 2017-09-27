@@ -371,8 +371,8 @@ Generated 2017-09-26.
 |  367 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  368 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  369 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
-|  370 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  371 | Nate Aden                 |   9.9 |        39 |              |         +1.77 |
+|  370 | Nate Aden                 |  10.0 |        40 |        +0.12 |         +1.89 |
+|  371 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  372 | Daniel Schwartz           |   9.8 |        22 |              |         +1.33 |
 |  373 | Myles Gordon              |   9.8 |        42 |              |               |
 |  374 | Jacob Bank                |   9.7 |         1 |              |               |
@@ -452,8 +452,8 @@ Generated 2017-09-26.
 |  448 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  449 | Sameer Bajaj              |   4.3 |         4 |              |         -0.30 |
 |  450 | Anuj Dawar                |   4.2 |        15 |              |               |
-|  451 | Zsolt Bartha              |   4.1 |        64 |        -0.10 |         -0.60 |
-|  452 | Annie Wong                |   4.0 |         3 |              |               |
+|  451 | Annie Wong                |   4.0 |         3 |              |               |
+|  452 | Zsolt Bartha              |   4.0 |        65 |        -0.22 |         -0.72 |
 |  453 | Ryan                      |   4.0 |         3 |              |               |
 |  454 | Vishesh Dalal             |   3.8 |         1 |              |               |
 |  455 | Mateo Aceves              |   3.8 |         4 |              |               |
