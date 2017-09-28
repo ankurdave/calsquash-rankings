@@ -106,10 +106,10 @@ Generated 2017-09-28.
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
 |  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Andrew Pritchard          |  22.7 |        16 |              |               |
-|  106 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  107 | Julian Marshall           |  22.7 |        31 |              |               |
-|  108 | Dan Bohn                  |  22.6 |       109 |        -0.14 |         -0.55 |
+|  105 | Dan Bohn                  |  22.8 |       110 |        +0.09 |         -0.32 |
+|  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
+|  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  108 | Julian Marshall           |  22.7 |        31 |              |               |
 |  109 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  110 | Dev Millstein             |  22.6 |        92 |              |               |
 |  111 | Sardar Nauman             |  22.4 |         4 |              |               |
@@ -138,13 +138,13 @@ Generated 2017-09-28.
 |  134 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  135 | Jonathan Hankar           |  21.5 |       213 |        -0.19 |         -0.72 |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Reid Johnsen              |  21.4 |        49 |              |         +0.24 |
-|  138 | Jared Bard                |  21.3 |        46 |              |         +0.74 |
-|  139 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  140 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  141 | Adam Jacob                |  21.3 |         3 |              |               |
-|  142 | Vishal Jain               |  21.3 |         6 |              |               |
-|  143 | Casey Harelson            |  21.2 |        20 |              |               |
+|  137 | Jared Bard                |  21.3 |        46 |              |         +0.74 |
+|  138 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  139 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  140 | Adam Jacob                |  21.3 |         3 |              |               |
+|  141 | Vishal Jain               |  21.3 |         6 |              |               |
+|  142 | Casey Harelson            |  21.2 |        20 |              |               |
+|  143 | Reid Johnsen              |  21.2 |        50 |        -0.22 |         +0.02 |
 |  144 | Philip Bildner            |  21.2 |        22 |              |               |
 |  145 | Darren Morgan             |  21.2 |        11 |              |               |
 |  146 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
