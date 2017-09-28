@@ -109,9 +109,9 @@ Generated 2017-09-27.
 |  105 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  106 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  107 | Julian Marshall           |  22.7 |        31 |              |               |
-|  108 | Gautam Tankha             |  22.6 |         7 |              |               |
-|  109 | Dev Millstein             |  22.6 |        92 |              |               |
-|  110 | Dan Bohn                  |  22.5 |       108 |        -0.26 |         -0.67 |
+|  108 | Dan Bohn                  |  22.6 |       109 |        -0.14 |         -0.55 |
+|  109 | Gautam Tankha             |  22.6 |         7 |              |               |
+|  110 | Dev Millstein             |  22.6 |        92 |              |               |
 |  111 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  112 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  113 | Sunil Bhave               |  22.3 |        26 |              |               |
@@ -202,12 +202,12 @@ Generated 2017-09-27.
 |  198 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  199 | Anthony Abel              |  18.8 |         6 |        -0.65 |               |
 |  200 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  201 | Dror Matalon              |  18.7 |       377 |        +0.21 |         +0.35 |
-|  202 | Peter Dering              |  18.7 |         9 |              |               |
-|  203 | Sushant Jain              |  18.7 |        12 |              |               |
-|  204 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  205 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  206 | Allan Sly                 |  18.6 |        29 |              |               |
+|  201 | Peter Dering              |  18.7 |         9 |              |               |
+|  202 | Sushant Jain              |  18.7 |        12 |              |               |
+|  203 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  204 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  205 | Allan Sly                 |  18.6 |        29 |              |               |
+|  206 | Dror Matalon              |  18.6 |       378 |        +0.07 |         +0.21 |
 |  207 | Jason Facchin             |  18.5 |         3 |              |               |
 |  208 | Yan Liu                   |  18.5 |        10 |              |               |
 |  209 | Akshay Dugar              |  18.5 |         6 |              |               |
@@ -255,7 +255,7 @@ Generated 2017-09-27.
 |  251 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  252 | David Shabelman           |  16.7 |        30 |              |               |
 |  253 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  254 | Chris Flores              |  16.7 |       326 |        +0.04 |         -0.12 |
+|  254 | Chris Flores              |  16.7 |       326 |        +0.05 |         -0.12 |
 |  255 | Mark Priven               |  16.6 |        72 |              |               |
 |  256 | William Coleman           |  16.5 |        48 |              |               |
 |  257 | Mike Troxell              |  16.5 |         8 |              |               |

@@ -13,19 +13,19 @@ Generated 2017-09-27.
 |    9 | John Kunze        |  24.6 |       335 |        -0.31 |         -0.06 |
 |   10 | Matt Wong         |  24.6 |       100 |        +0.90 |         +2.08 |
 |   11 | Jim Veitch        |  24.2 |       465 |        +0.07 |         -1.30 |
-|   12 | Dan Bohn          |  22.5 |       108 |        -0.26 |         -0.67 |
+|   12 | Dan Bohn          |  22.6 |       109 |        -0.14 |         -0.55 |
 |   13 | Benjamin Adler    |  22.0 |         7 |        +0.58 |               |
 |   14 | Dan Meier         |  21.7 |        77 |        -0.05 |         -0.96 |
 |   15 | Jonathan Hankar   |  21.5 |       213 |        -0.19 |         -0.72 |
 |   16 | Reid Johnsen      |  21.4 |        49 |              |         +0.24 |
 |   17 | Mike Jensen-Akula |  19.5 |       234 |        -0.17 |         -0.50 |
 |   18 | Anthony Abel      |  18.8 |         6 |        -0.65 |               |
-|   19 | Dror Matalon      |  18.7 |       377 |        +0.21 |         +0.35 |
+|   19 | Dror Matalon      |  18.6 |       378 |        +0.07 |         +0.21 |
 |   20 | Ankur Dave        |  18.4 |        86 |        -0.11 |         +4.40 |
 |   21 | Josh Trauner      |  18.2 |        65 |        +0.36 |         +0.53 |
 |   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
-|   24 | Chris Flores      |  16.7 |       326 |        +0.04 |         -0.12 |
+|   24 | Chris Flores      |  16.7 |       326 |        +0.05 |         -0.12 |
 |   25 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
 |   26 | Diego Butrich     |  14.1 |        18 |        +0.23 |         +6.17 |
 |   27 | Karan Goyal       |  13.9 |        14 |        +0.57 |               |
