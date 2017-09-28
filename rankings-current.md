@@ -1,4 +1,4 @@
-Generated 2017-09-27.
+Generated 2017-09-28.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -26,10 +26,10 @@ Generated 2017-09-27.
 |   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.7 |       326 |        +0.05 |         -0.12 |
-|   25 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
-|   26 | Diego Butrich     |  14.1 |        18 |        +0.23 |         +6.17 |
-|   27 | Karan Goyal       |  13.9 |        14 |        +0.57 |               |
-|   28 | Kent Daniels      |  13.8 |       111 |        -0.32 |         -1.78 |
+|   25 | Karan Goyal       |  14.5 |        15 |        +1.16 |               |
+|   26 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
+|   27 | Diego Butrich     |  14.1 |        18 |        +0.23 |         +6.17 |
+|   28 | Kent Daniels      |  13.6 |       112 |        -0.53 |         -2.00 |
 |   29 | Meldan Heaslip    |  12.8 |        39 |              |               |
 |   30 | Ashley Brooks     |  12.7 |         2 |              |               |
 |   31 | Josh Lebowitz     |  12.4 |        60 |        +0.22 |         +3.14 |
@@ -40,7 +40,7 @@ Generated 2017-09-27.
 |   36 | Duo Wang          |   9.2 |        79 |        +0.30 |         +0.86 |
 |   37 | Terence Stotz     |   9.0 |        11 |        +0.37 |               |
 |   38 | Sumit Gupta       |   8.5 |        13 |        +0.28 |               |
-|   39 | Caroline Palmer   |   8.1 |         2 |              |               |
+|   39 | Caroline Palmer   |   8.0 |         2 |              |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
 |   41 | Sara Bamberger    |   5.8 |         3 |              |               |
 |   42 | Zsolt Bartha      |   4.0 |        65 |        -0.22 |         -0.72 |

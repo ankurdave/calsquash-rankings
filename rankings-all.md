@@ -1,4 +1,4 @@
-Generated 2017-09-27.
+Generated 2017-09-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -299,23 +299,23 @@ Generated 2017-09-27.
 |  295 | Shai Vardi                |  14.5 |         4 |              |               |
 |  296 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  297 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.60 |
-|  298 | Max Woodworth             |  14.4 |         7 |              |               |
-|  299 | Juliet Shih               |  14.4 |        11 |              |               |
-|  300 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  301 | Adam Soliman              |  14.2 |        32 |              |               |
-|  302 | Craig Hollow              |  14.2 |        30 |        +0.52 |               |
-|  303 | Charles Denby             |  14.2 |         5 |              |               |
-|  304 | Diego Butrich             |  14.1 |        18 |        +0.23 |         +6.17 |
-|  305 | Neil Sachs                |  14.1 |        12 |              |               |
-|  306 | Rupert Myers              |  14.0 |        27 |              |               |
-|  307 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  308 | Karan Goyal               |  13.9 |        14 |        +0.57 |               |
-|  309 | Kent Daniels              |  13.8 |       111 |        -0.32 |         -1.78 |
-|  310 | Mekoce Walker             |  13.8 |        38 |              |               |
-|  311 | Gurj Johal                |  13.8 |         2 |              |               |
-|  312 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  313 | Tim Browning              |  13.8 |         7 |              |               |
-|  314 | Josephine Lee             |  13.7 |         6 |              |               |
+|  298 | Karan Goyal               |  14.5 |        15 |        +1.16 |               |
+|  299 | Max Woodworth             |  14.4 |         7 |              |               |
+|  300 | Juliet Shih               |  14.4 |        11 |              |               |
+|  301 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  302 | Adam Soliman              |  14.2 |        32 |              |               |
+|  303 | Craig Hollow              |  14.2 |        30 |        +0.52 |               |
+|  304 | Charles Denby             |  14.2 |         5 |              |               |
+|  305 | Diego Butrich             |  14.1 |        18 |        +0.23 |         +6.17 |
+|  306 | Neil Sachs                |  14.1 |        12 |              |               |
+|  307 | Rupert Myers              |  14.0 |        27 |              |               |
+|  308 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
+|  309 | Mekoce Walker             |  13.8 |        38 |              |               |
+|  310 | Gurj Johal                |  13.8 |         2 |              |               |
+|  311 | Freeden Ouer              |  13.8 |         1 |              |               |
+|  312 | Tim Browning              |  13.8 |         7 |              |               |
+|  313 | Josephine Lee             |  13.7 |         6 |              |               |
+|  314 | Kent Daniels              |  13.6 |       112 |        -0.53 |         -2.00 |
 |  315 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  316 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  317 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -410,9 +410,9 @@ Generated 2017-09-27.
 |  406 | John Coates               |   8.1 |         9 |              |               |
 |  407 | Vito Sciaraffia           |   8.1 |         5 |              |               |
 |  408 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  409 | Caroline Palmer           |   8.1 |         2 |              |               |
-|  410 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  411 | Zarina Khan               |   8.0 |         5 |              |               |
+|  409 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  410 | Zarina Khan               |   8.0 |         5 |              |               |
+|  411 | Caroline Palmer           |   8.0 |         2 |              |               |
 |  412 | Chip Malt                 |   7.9 |         4 |              |               |
 |  413 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  414 | Minsoo Bae                |   7.9 |         2 |              |               |
