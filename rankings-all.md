@@ -6,9 +6,9 @@ Generated 2017-09-28.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Eric Katerman             |  33.6 |        64 |        -0.15 |         +2.81 |
+|    5 | Eric Katerman             |  33.6 |        64 |        -0.11 |         +2.86 |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Ashley Kayler             |  33.3 |       227 |        -0.53 |         -1.74 |
+|    7 | Ashley Kayler             |  33.2 |       228 |        -0.68 |         -1.88 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -17,8 +17,8 @@ Generated 2017-09-28.
 |   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         -0.44 |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
-|   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.9 |       163 |        +0.82 |         +0.12 |
+|   16 | Sam Sternberg             |  31.1 |       163 |        +0.97 |         +0.27 |
+|   17 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -28,12 +28,12 @@ Generated 2017-09-28.
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
-|   27 | Ali Rahim                 |  28.4 |        24 |              |               |
-|   28 | Mikael Rehn               |  28.3 |         5 |              |               |
-|   29 | David Woo                 |  28.3 |         3 |              |               |
+|   27 | David Woo                 |  28.5 |         4 |              |               |
+|   28 | Ali Rahim                 |  28.4 |        24 |              |               |
+|   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   31 | Nick Cobbett              |  28.0 |        49 |        -0.06 |         +2.34 |
-|   32 | Anibhav Singla            |  27.7 |        30 |        -0.37 |               |
+|   31 | Nick Cobbett              |  28.1 |        49 |        +0.08 |         +2.48 |
+|   32 | Anibhav Singla            |  27.7 |        30 |        -0.38 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Stephen Dang              |  27.2 |        34 |              |               |
 |   35 | Samer Shehata             |  27.2 |        29 |              |               |
