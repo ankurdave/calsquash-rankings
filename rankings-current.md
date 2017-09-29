@@ -1,4 +1,4 @@
-Generated 2017-09-28.
+Generated 2017-09-29.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -17,32 +17,32 @@ Generated 2017-09-28.
 |   13 | Benjamin Adler    |  22.0 |         7 |        +0.58 |               |
 |   14 | Dan Meier         |  21.7 |        77 |        -0.05 |         -0.96 |
 |   15 | Jonathan Hankar   |  21.5 |       213 |        -0.19 |         -0.72 |
-|   16 | Reid Johnsen      |  21.2 |        50 |        -0.22 |         +0.02 |
-|   17 | Mike Jensen-Akula |  19.5 |       234 |        -0.17 |         -0.50 |
+|   16 | Reid Johnsen      |  21.2 |        51 |        -0.17 |         +0.06 |
+|   17 | Mike Jensen-Akula |  19.3 |       235 |        -0.39 |         -0.72 |
 |   18 | Anthony Abel      |  18.8 |         6 |        -0.65 |               |
-|   19 | Dror Matalon      |  18.6 |       378 |        +0.07 |         +0.21 |
+|   19 | Dror Matalon      |  18.5 |       379 |        +0.03 |         +0.17 |
 |   20 | Ankur Dave        |  18.3 |        87 |        -0.18 |         +4.32 |
-|   21 | Josh Trauner      |  18.2 |        65 |        +0.36 |         +0.53 |
-|   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
+|   21 | Josh Trauner      |  18.2 |        65 |        +0.37 |         +0.53 |
+|   22 | Sahar Sareminaeni |  17.3 |        44 |        +0.55 |         +9.35 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.7 |       326 |        +0.05 |         -0.12 |
-|   25 | Karan Goyal       |  14.6 |        16 |        +1.32 |               |
+|   25 | Karan Goyal       |  14.6 |        16 |        +1.30 |               |
 |   26 | Craig Hollow      |  14.4 |        31 |        +0.71 |               |
 |   27 | Diego Butrich     |  14.1 |        18 |        +0.23 |         +6.17 |
-|   28 | Kent Daniels      |  13.6 |       112 |        -0.56 |         -2.02 |
-|   29 | Meldan Heaslip    |  12.8 |        39 |              |               |
+|   28 | Kent Daniels      |  13.3 |       113 |        -0.83 |         -2.29 |
+|   29 | Meldan Heaslip    |  13.2 |        40 |        +0.35 |               |
 |   30 | Ashley Brooks     |  12.7 |         2 |              |               |
 |   31 | Josh Lebowitz     |  12.4 |        60 |        +0.22 |         +3.14 |
-|   32 | Raphael Magarik   |  10.6 |        39 |        +0.55 |         +1.82 |
-|   33 | Danielle Craig    |  10.5 |         2 |              |               |
+|   32 | Danielle Craig    |  10.7 |         2 |              |               |
+|   33 | Raphael Magarik   |  10.6 |        39 |        +0.55 |         +1.82 |
 |   34 | Nate Aden         |  10.0 |        40 |        +0.12 |         +1.89 |
 |   35 | Rashid Hameed     |   9.4 |         4 |              |               |
 |   36 | Duo Wang          |   9.2 |        79 |        +0.30 |         +0.86 |
 |   37 | Terence Stotz     |   8.8 |        12 |        +0.15 |               |
 |   38 | Sumit Gupta       |   8.5 |        13 |        +0.28 |               |
-|   39 | Caroline Palmer   |   8.3 |         3 |              |               |
+|   39 | Caroline Palmer   |   8.4 |         3 |              |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
-|   41 | Sara Bamberger    |   5.8 |         3 |              |               |
+|   41 | Sara Bamberger    |   5.5 |         4 |              |               |
 |   42 | Zsolt Bartha      |   4.0 |        65 |        -0.22 |         -0.72 |
 |   43 | Vishesh Dalal     |   3.8 |         1 |              |               |
 |   44 | Avi Flamholz      |   3.6 |         5 |        -2.86 |               |
