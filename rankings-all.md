@@ -294,12 +294,12 @@ Generated 2017-09-28.
 |  290 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  291 | David Elfant              |  14.7 |         2 |              |               |
 |  292 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  293 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  294 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  295 | Shai Vardi                |  14.5 |         4 |              |               |
-|  296 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  297 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.60 |
-|  298 | Karan Goyal               |  14.5 |        15 |        +1.16 |               |
+|  293 | Karan Goyal               |  14.6 |        16 |        +1.32 |               |
+|  294 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  295 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  296 | Shai Vardi                |  14.5 |         4 |              |               |
+|  297 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  298 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.60 |
 |  299 | Max Woodworth             |  14.4 |         7 |              |               |
 |  300 | Craig Hollow              |  14.4 |        31 |        +0.71 |               |
 |  301 | Juliet Shih               |  14.4 |        11 |              |               |
@@ -315,7 +315,7 @@ Generated 2017-09-28.
 |  311 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  312 | Tim Browning              |  13.8 |         7 |              |               |
 |  313 | Josephine Lee             |  13.7 |         6 |              |               |
-|  314 | Kent Daniels              |  13.6 |       112 |        -0.53 |         -2.00 |
+|  314 | Kent Daniels              |  13.6 |       112 |        -0.56 |         -2.02 |
 |  315 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  316 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  317 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -402,17 +402,17 @@ Generated 2017-09-28.
 |  398 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  399 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  400 | Sumit Gupta               |   8.5 |        13 |        +0.28 |               |
-|  401 | Reynold Xin               |   8.3 |         5 |              |               |
-|  402 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  403 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  404 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  405 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  406 | John Coates               |   8.1 |         9 |              |               |
-|  407 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  408 | Fabrice Henrion           |   8.1 |         2 |              |               |
-|  409 | Alexander Zuern           |   8.0 |        25 |              |               |
-|  410 | Zarina Khan               |   8.0 |         5 |              |               |
-|  411 | Caroline Palmer           |   8.0 |         2 |              |               |
+|  401 | Caroline Palmer           |   8.3 |         3 |              |               |
+|  402 | Reynold Xin               |   8.3 |         5 |              |               |
+|  403 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  404 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  405 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  406 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  407 | John Coates               |   8.1 |         9 |              |               |
+|  408 | Vito Sciaraffia           |   8.1 |         5 |              |               |
+|  409 | Fabrice Henrion           |   8.1 |         2 |              |               |
+|  410 | Alexander Zuern           |   8.0 |        25 |              |               |
+|  411 | Zarina Khan               |   8.0 |         5 |              |               |
 |  412 | Chip Malt                 |   7.9 |         4 |              |               |
 |  413 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  414 | Minsoo Bae                |   7.9 |         2 |              |               |

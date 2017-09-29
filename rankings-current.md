@@ -26,10 +26,10 @@ Generated 2017-09-28.
 |   22 | Sahar Sareminaeni |  16.9 |        42 |        +0.16 |         +8.97 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.7 |       326 |        +0.05 |         -0.12 |
-|   25 | Karan Goyal       |  14.5 |        15 |        +1.16 |               |
+|   25 | Karan Goyal       |  14.6 |        16 |        +1.32 |               |
 |   26 | Craig Hollow      |  14.4 |        31 |        +0.71 |               |
 |   27 | Diego Butrich     |  14.1 |        18 |        +0.23 |         +6.17 |
-|   28 | Kent Daniels      |  13.6 |       112 |        -0.53 |         -2.00 |
+|   28 | Kent Daniels      |  13.6 |       112 |        -0.56 |         -2.02 |
 |   29 | Meldan Heaslip    |  12.8 |        39 |              |               |
 |   30 | Ashley Brooks     |  12.7 |         2 |              |               |
 |   31 | Josh Lebowitz     |  12.4 |        60 |        +0.22 |         +3.14 |
@@ -40,7 +40,7 @@ Generated 2017-09-28.
 |   36 | Duo Wang          |   9.2 |        79 |        +0.30 |         +0.86 |
 |   37 | Terence Stotz     |   8.8 |        12 |        +0.15 |               |
 |   38 | Sumit Gupta       |   8.5 |        13 |        +0.28 |               |
-|   39 | Caroline Palmer   |   8.0 |         2 |              |               |
+|   39 | Caroline Palmer   |   8.3 |         3 |              |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
 |   41 | Sara Bamberger    |   5.8 |         3 |              |               |
 |   42 | Zsolt Bartha      |   4.0 |        65 |        -0.22 |         -0.72 |
