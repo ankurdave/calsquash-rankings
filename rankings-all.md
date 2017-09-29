@@ -73,7 +73,7 @@ Generated 2017-09-29.
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | John Kunze                |  24.6 |       335 |        -0.31 |         -0.06 |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   72 | Matt Wong                 |  24.6 |       100 |        +0.90 |         +2.08 |
+|   72 | Matt Wong                 |  24.6 |       100 |        +0.91 |         +2.09 |
 |   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |
@@ -125,13 +125,13 @@ Generated 2017-09-29.
 |  121 | Nacho Quaglio             |  22.0 |         3 |              |               |
 |  122 | Benjamin Adler            |  22.0 |         7 |        +0.58 |               |
 |  123 | Blake Woodard             |  22.0 |        10 |              |               |
-|  124 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  130 | Dan Meier                 |  21.7 |        77 |        -0.05 |         -0.96 |
+|  124 | Dan Meier                 |  22.0 |        78 |        +0.19 |         -0.72 |
+|  125 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  127 | Jan Beranek               |  21.9 |        46 |              |               |
+|  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  131 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  132 | Omair Azam                |  21.7 |        18 |              |               |
 |  133 | Phin Lee                  |  21.7 |        16 |              |               |
@@ -200,28 +200,28 @@ Generated 2017-09-29.
 |  196 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  197 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  198 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  199 | Anthony Abel              |  18.8 |         6 |        -0.65 |               |
-|  200 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  201 | Peter Dering              |  18.7 |         9 |              |               |
-|  202 | Sushant Jain              |  18.7 |        12 |              |               |
-|  203 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  204 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  205 | Allan Sly                 |  18.6 |        29 |              |               |
-|  206 | Jason Facchin             |  18.5 |         3 |              |               |
-|  207 | Dror Matalon              |  18.5 |       379 |        +0.03 |         +0.17 |
-|  208 | Yan Liu                   |  18.5 |        10 |              |               |
-|  209 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  210 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  211 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  212 | John Eng                  |  18.4 |        28 |              |               |
-|  213 | Natalie Leung             |  18.4 |         1 |              |               |
-|  214 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  215 | Ankur Dave                |  18.3 |        87 |        -0.18 |         +4.32 |
-|  216 | Kenny Bell                |  18.2 |       124 |              |         -0.85 |
-|  217 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  218 | Josh Trauner              |  18.2 |        65 |        +0.37 |         +0.53 |
-|  219 | Bob Roller                |  18.2 |         6 |              |               |
-|  220 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  199 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  200 | Peter Dering              |  18.7 |         9 |              |               |
+|  201 | Sushant Jain              |  18.7 |        12 |              |               |
+|  202 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  203 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  204 | Allan Sly                 |  18.6 |        29 |              |               |
+|  205 | Jason Facchin             |  18.5 |         3 |              |               |
+|  206 | Dror Matalon              |  18.5 |       379 |        +0.03 |         +0.17 |
+|  207 | Yan Liu                   |  18.5 |        10 |              |               |
+|  208 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  209 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  210 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  211 | John Eng                  |  18.4 |        28 |              |               |
+|  212 | Natalie Leung             |  18.4 |         1 |              |               |
+|  213 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  214 | Ankur Dave                |  18.3 |        87 |        -0.18 |         +4.32 |
+|  215 | Kenny Bell                |  18.2 |       124 |              |         -0.85 |
+|  216 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  217 | Josh Trauner              |  18.2 |        65 |        +0.37 |         +0.53 |
+|  218 | Bob Roller                |  18.2 |         6 |              |               |
+|  219 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  220 | Anthony Abel              |  17.9 |         7 |        -1.49 |               |
 |  221 | James Chung               |  17.9 |         7 |              |               |
 |  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  223 | Eric Borden               |  17.8 |        44 |              |         +0.38 |
