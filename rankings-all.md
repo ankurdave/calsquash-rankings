@@ -37,7 +37,7 @@ Generated 2017-09-28.
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Stephen Dang              |  27.2 |        34 |              |               |
 |   35 | Samer Shehata             |  27.2 |        29 |              |               |
-|   36 | Frank Kennamer            |  27.1 |       238 |        +0.12 |         +0.11 |
+|   36 | Frank Kennamer            |  27.1 |       239 |        +0.16 |         +0.15 |
 |   37 | Hussain Raza              |  27.0 |        50 |              |               |
 |   38 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   39 | Alan Jose                 |  26.9 |       182 |              |               |
@@ -215,8 +215,8 @@ Generated 2017-09-28.
 |  211 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  212 | John Eng                  |  18.4 |        28 |              |               |
 |  213 | Natalie Leung             |  18.4 |         1 |              |               |
-|  214 | Ankur Dave                |  18.4 |        86 |        -0.11 |         +4.40 |
-|  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  214 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  215 | Ankur Dave                |  18.3 |        87 |        -0.18 |         +4.32 |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.85 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Josh Trauner              |  18.2 |        65 |        +0.36 |         +0.53 |
