@@ -301,10 +301,10 @@ Generated 2017-09-28.
 |  297 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.60 |
 |  298 | Karan Goyal               |  14.5 |        15 |        +1.16 |               |
 |  299 | Max Woodworth             |  14.4 |         7 |              |               |
-|  300 | Juliet Shih               |  14.4 |        11 |              |               |
-|  301 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  302 | Adam Soliman              |  14.2 |        32 |              |               |
-|  303 | Craig Hollow              |  14.2 |        30 |        +0.52 |               |
+|  300 | Craig Hollow              |  14.4 |        31 |        +0.71 |               |
+|  301 | Juliet Shih               |  14.4 |        11 |              |               |
+|  302 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  303 | Adam Soliman              |  14.2 |        32 |              |               |
 |  304 | Charles Denby             |  14.2 |         5 |              |               |
 |  305 | Diego Butrich             |  14.1 |        18 |        +0.23 |         +6.17 |
 |  306 | Neil Sachs                |  14.1 |        12 |              |               |
@@ -392,10 +392,10 @@ Generated 2017-09-28.
 |  388 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  389 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  390 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  391 | Terence Stotz             |   9.0 |        11 |        +0.37 |               |
-|  392 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  393 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  394 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  391 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  392 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  393 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  394 | Terence Stotz             |   8.8 |        12 |        +0.15 |               |
 |  395 | Therese Jones             |   8.7 |         6 |              |               |
 |  396 | Steven Yee                |   8.7 |         9 |              |               |
 |  397 | Nikolai Schnittke         |   8.6 |         4 |              |               |

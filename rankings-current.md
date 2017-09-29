@@ -27,7 +27,7 @@ Generated 2017-09-28.
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.7 |       326 |        +0.05 |         -0.12 |
 |   25 | Karan Goyal       |  14.5 |        15 |        +1.16 |               |
-|   26 | Craig Hollow      |  14.2 |        30 |        +0.52 |               |
+|   26 | Craig Hollow      |  14.4 |        31 |        +0.71 |               |
 |   27 | Diego Butrich     |  14.1 |        18 |        +0.23 |         +6.17 |
 |   28 | Kent Daniels      |  13.6 |       112 |        -0.53 |         -2.00 |
 |   29 | Meldan Heaslip    |  12.8 |        39 |              |               |
@@ -38,7 +38,7 @@ Generated 2017-09-28.
 |   34 | Nate Aden         |  10.0 |        40 |        +0.12 |         +1.89 |
 |   35 | Rashid Hameed     |   9.4 |         4 |              |               |
 |   36 | Duo Wang          |   9.2 |        79 |        +0.30 |         +0.86 |
-|   37 | Terence Stotz     |   9.0 |        11 |        +0.37 |               |
+|   37 | Terence Stotz     |   8.8 |        12 |        +0.15 |               |
 |   38 | Sumit Gupta       |   8.5 |        13 |        +0.28 |               |
 |   39 | Caroline Palmer   |   8.0 |         2 |              |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
