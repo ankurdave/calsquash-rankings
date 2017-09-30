@@ -1,4 +1,4 @@
-Generated 2017-09-29.
+Generated 2017-09-30.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -73,7 +73,7 @@ Generated 2017-09-29.
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | John Kunze                |  24.6 |       335 |        -0.31 |         -0.06 |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   72 | Matt Wong                 |  24.6 |       100 |        +0.92 |         +2.10 |
+|   72 | Matt Wong                 |  24.6 |       100 |        +0.88 |         +2.06 |
 |   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |
@@ -118,13 +118,13 @@ Generated 2017-09-29.
 |  114 | Robert Geiger             |  22.2 |         8 |              |               |
 |  115 | Aaron Socha               |  22.2 |        24 |              |               |
 |  116 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  117 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  118 | Britta Gardner            |  22.1 |        16 |              |               |
-|  119 | Niklas Linde              |  22.1 |        23 |              |               |
-|  120 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  121 | Benjamin Adler            |  22.0 |         7 |        +0.61 |               |
+|  117 | Benjamin Adler            |  22.2 |         7 |        +0.75 |               |
+|  118 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  119 | Britta Gardner            |  22.1 |        16 |              |               |
+|  120 | Niklas Linde              |  22.1 |        23 |              |               |
+|  121 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  123 | Dan Meier                 |  22.0 |        78 |        +0.20 |         -0.71 |
+|  123 | Dan Meier                 |  22.0 |        78 |        +0.22 |         -0.69 |
 |  124 | Blake Woodard             |  22.0 |        10 |              |               |
 |  125 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
@@ -186,17 +186,17 @@ Generated 2017-09-29.
 |  182 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  183 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  184 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  185 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  187 | Mike Jensen-Akula         |  19.3 |       235 |        -0.39 |         -0.72 |
-|  188 | Greg Adams                |  19.3 |        10 |              |               |
-|  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  190 | John Corcoran             |  19.1 |        49 |              |               |
-|  191 | Kedar Shah                |  19.1 |         9 |              |               |
-|  192 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  193 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  194 | Yating Liu                |  19.0 |         7 |              |               |
-|  195 | Anthony Abel              |  18.9 |         8 |        -0.48 |               |
+|  185 | Anthony Abel              |  19.5 |         9 |        +0.12 |               |
+|  186 | Roberto Gonzalez          |  19.4 |         3 |              |               |
+|  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  188 | Mike Jensen-Akula         |  19.3 |       235 |        -0.39 |         -0.72 |
+|  189 | Greg Adams                |  19.3 |        10 |              |               |
+|  190 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  191 | John Corcoran             |  19.1 |        49 |              |               |
+|  192 | Kedar Shah                |  19.1 |         9 |              |               |
+|  193 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  194 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  195 | Yating Liu                |  19.0 |         7 |              |               |
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  197 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  198 | Gabriel Kahn              |  18.9 |         5 |              |               |
@@ -466,11 +466,11 @@ Generated 2017-09-29.
 |  462 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  463 | David Vogel               |   2.6 |         7 |              |               |
 |  464 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  465 | Cristhian Daniel          |   2.3 |        19 |              |         +3.09 |
-|  466 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  467 | Phil Lin                  |   2.1 |         1 |              |               |
-|  468 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  469 | Saijoscha Heck            |   2.0 |         1 |              |               |
+|  465 | Saijoscha Heck            |   2.5 |         2 |              |               |
+|  466 | Cristhian Daniel          |   2.3 |        19 |              |         +3.09 |
+|  467 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  468 | Phil Lin                  |   2.1 |         1 |              |               |
+|  469 | Alexis Madrigal           |   2.1 |         2 |              |               |
 |  470 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  471 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  472 | Himanshu Chandra          |   1.8 |         4 |              |               |

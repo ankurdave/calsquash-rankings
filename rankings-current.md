@@ -1,4 +1,4 @@
-Generated 2017-09-29.
+Generated 2017-09-30.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -11,15 +11,15 @@ Generated 2017-09-29.
 |    7 | Frank Kennamer    |  27.1 |       239 |        +0.16 |         +0.15 |
 |    8 | Thomas Littleton  |  26.8 |        15 |        +0.47 |               |
 |    9 | John Kunze        |  24.6 |       335 |        -0.31 |         -0.06 |
-|   10 | Matt Wong         |  24.6 |       100 |        +0.92 |         +2.10 |
+|   10 | Matt Wong         |  24.6 |       100 |        +0.88 |         +2.06 |
 |   11 | Jim Veitch        |  24.2 |       465 |        +0.07 |         -1.30 |
 |   12 | Dan Bohn          |  22.8 |       110 |        +0.09 |         -0.32 |
-|   13 | Benjamin Adler    |  22.0 |         7 |        +0.61 |               |
-|   14 | Dan Meier         |  22.0 |        78 |        +0.20 |         -0.71 |
+|   13 | Benjamin Adler    |  22.2 |         7 |        +0.75 |               |
+|   14 | Dan Meier         |  22.0 |        78 |        +0.22 |         -0.69 |
 |   15 | Jonathan Hankar   |  21.6 |       214 |        -0.10 |         -0.63 |
 |   16 | Reid Johnsen      |  21.2 |        51 |        -0.17 |         +0.06 |
-|   17 | Mike Jensen-Akula |  19.3 |       235 |        -0.39 |         -0.72 |
-|   18 | Anthony Abel      |  18.9 |         8 |        -0.48 |               |
+|   17 | Anthony Abel      |  19.5 |         9 |        +0.12 |               |
+|   18 | Mike Jensen-Akula |  19.3 |       235 |        -0.39 |         -0.72 |
 |   19 | Dror Matalon      |  18.5 |       379 |        +0.03 |         +0.17 |
 |   20 | Ankur Dave        |  18.3 |        87 |        -0.18 |         +4.32 |
 |   21 | Josh Trauner      |  18.2 |        65 |        +0.37 |         +0.53 |
@@ -46,7 +46,7 @@ Generated 2017-09-29.
 |   42 | Zsolt Bartha      |   4.0 |        65 |        -0.22 |         -0.72 |
 |   43 | Vishesh Dalal     |   3.8 |         1 |              |               |
 |   44 | Avi Flamholz      |   3.6 |         5 |        -2.86 |               |
-|   45 | Saijoscha Heck    |   2.0 |         1 |              |               |
+|   45 | Saijoscha Heck    |   2.5 |         2 |              |               |
 |   46 | Manuel Coquet     |   1.7 |         2 |              |               |
 |   47 | Duncan MacRae     |   0.3 |        33 |        -0.03 |               |
 |   48 | Navarun Jain      | -12.3 |         5 |        -0.04 |               |
