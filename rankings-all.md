@@ -430,32 +430,32 @@ Generated 2017-09-30.
 |  426 | Brookes Degen             |   6.8 |         6 |              |               |
 |  427 | Joshua Braver             |   6.5 |         1 |              |               |
 |  428 | Alok Singh                |   6.5 |        18 |              |         +0.67 |
-|  429 | Pablo Paredes             |   6.5 |         1 |              |               |
-|  430 | Mikel Shybut              |   6.5 |         4 |              |               |
-|  431 | Markus Boese              |   6.5 |         1 |              |               |
-|  432 | Dav Clark                 |   6.4 |         6 |              |               |
-|  433 | Nicolas Huber             |   6.2 |         4 |              |               |
-|  434 | Rafael Silberblatt        |   6.1 |         5 |              |               |
-|  435 | Norman Bonney             |   6.0 |         3 |              |               |
-|  436 | Rohan Relan               |   6.0 |         4 |              |               |
-|  437 | David Zhu                 |   5.8 |         2 |              |               |
-|  438 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  439 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  440 | Manu Vaish                |   5.5 |         1 |              |               |
-|  441 | Sara Bamberger            |   5.5 |         4 |              |               |
-|  442 | Emily Moylan              |   5.2 |        17 |              |               |
-|  443 | Mohammad Salama           |   5.2 |         5 |              |               |
-|  444 | Catherine Wang            |   5.2 |        10 |              |               |
-|  445 | Ali Umar                  |   5.2 |        13 |              |               |
-|  446 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  447 | Nikhil Srivastava         |   5.0 |        16 |              |               |
-|  448 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  449 | Sameer Bajaj              |   4.3 |         4 |              |         -0.30 |
-|  450 | Anuj Dawar                |   4.2 |        15 |              |               |
-|  451 | Annie Wong                |   4.0 |         3 |              |               |
-|  452 | Zsolt Bartha              |   4.0 |        65 |        -0.22 |         -0.72 |
+|  429 | Vishesh Dalal             |   6.5 |         2 |              |               |
+|  430 | Pablo Paredes             |   6.5 |         1 |              |               |
+|  431 | Mikel Shybut              |   6.5 |         4 |              |               |
+|  432 | Markus Boese              |   6.5 |         1 |              |               |
+|  433 | Dav Clark                 |   6.4 |         6 |              |               |
+|  434 | Nicolas Huber             |   6.2 |         4 |              |               |
+|  435 | Rafael Silberblatt        |   6.1 |         5 |              |               |
+|  436 | Norman Bonney             |   6.0 |         3 |              |               |
+|  437 | Rohan Relan               |   6.0 |         4 |              |               |
+|  438 | David Zhu                 |   5.8 |         2 |              |               |
+|  439 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  440 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  441 | Manu Vaish                |   5.5 |         1 |              |               |
+|  442 | Sara Bamberger            |   5.5 |         4 |              |               |
+|  443 | Emily Moylan              |   5.2 |        17 |              |               |
+|  444 | Mohammad Salama           |   5.2 |         5 |              |               |
+|  445 | Catherine Wang            |   5.2 |        10 |              |               |
+|  446 | Ali Umar                  |   5.2 |        13 |              |               |
+|  447 | Martin Rasmussen          |   5.2 |         6 |              |               |
+|  448 | Nikhil Srivastava         |   5.0 |        16 |              |               |
+|  449 | Tammy J Faridi            |   4.7 |        27 |              |               |
+|  450 | Sameer Bajaj              |   4.3 |         4 |              |         -0.30 |
+|  451 | Anuj Dawar                |   4.2 |        15 |              |               |
+|  452 | Annie Wong                |   4.0 |         3 |              |               |
 |  453 | Ryan                      |   4.0 |         3 |              |               |
-|  454 | Vishesh Dalal             |   3.8 |         1 |              |               |
+|  454 | Zsolt Bartha              |   3.9 |        66 |        -0.29 |         -0.79 |
 |  455 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  456 | Avi Flamholz              |   3.6 |         5 |        -2.86 |               |
 |  457 | Nakul Vakil               |   3.0 |         5 |              |               |

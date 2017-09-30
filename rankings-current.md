@@ -42,9 +42,9 @@ Generated 2017-09-30.
 |   38 | Sumit Gupta       |   8.5 |        13 |        +0.28 |               |
 |   39 | Caroline Palmer   |   8.4 |         3 |              |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
-|   41 | Sara Bamberger    |   5.5 |         4 |              |               |
-|   42 | Zsolt Bartha      |   4.0 |        65 |        -0.22 |         -0.72 |
-|   43 | Vishesh Dalal     |   3.8 |         1 |              |               |
+|   41 | Vishesh Dalal     |   6.5 |         2 |              |               |
+|   42 | Sara Bamberger    |   5.5 |         4 |              |               |
+|   43 | Zsolt Bartha      |   3.9 |        66 |        -0.29 |         -0.79 |
 |   44 | Avi Flamholz      |   3.6 |         5 |        -2.86 |               |
 |   45 | Saijoscha Heck    |   2.5 |         2 |              |               |
 |   46 | Manuel Coquet     |   1.7 |         2 |              |               |
