@@ -17,7 +17,7 @@ Generated 2017-09-30.
 |   13 | Benjamin Adler    |  22.2 |         7 |        +0.75 |               |
 |   14 | Dan Meier         |  22.0 |        78 |        +0.22 |         -0.69 |
 |   15 | Jonathan Hankar   |  21.6 |       214 |        -0.10 |         -0.63 |
-|   16 | Reid Johnsen      |  21.2 |        51 |        -0.17 |         +0.06 |
+|   16 | Reid Johnsen      |  21.2 |        52 |        -0.19 |         +0.05 |
 |   17 | Anthony Abel      |  19.5 |         9 |        +0.12 |               |
 |   18 | Mike Jensen-Akula |  19.3 |       235 |        -0.39 |         -0.72 |
 |   19 | Dror Matalon      |  18.5 |       379 |        +0.03 |         +0.17 |
@@ -25,7 +25,7 @@ Generated 2017-09-30.
 |   21 | Josh Trauner      |  18.2 |        65 |        +0.37 |         +0.53 |
 |   22 | Sahar Sareminaeni |  17.3 |        44 |        +0.55 |         +9.35 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
-|   24 | Chris Flores      |  16.7 |       326 |        +0.05 |         -0.12 |
+|   24 | Chris Flores      |  16.7 |       327 |        +0.06 |         -0.11 |
 |   25 | Karan Goyal       |  14.6 |        16 |        +1.30 |               |
 |   26 | Craig Hollow      |  14.4 |        31 |        +0.71 |               |
 |   27 | Diego Butrich     |  14.1 |        18 |        +0.23 |         +6.17 |

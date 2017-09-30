@@ -143,8 +143,8 @@ Generated 2017-09-30.
 |  139 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  140 | Adam Jacob                |  21.3 |         3 |              |               |
 |  141 | Vishal Jain               |  21.3 |         6 |              |               |
-|  142 | Reid Johnsen              |  21.2 |        51 |        -0.17 |         +0.06 |
-|  143 | Casey Harelson            |  21.2 |        20 |              |               |
+|  142 | Casey Harelson            |  21.2 |        20 |              |               |
+|  143 | Reid Johnsen              |  21.2 |        52 |        -0.19 |         +0.05 |
 |  144 | Philip Bildner            |  21.2 |        22 |              |               |
 |  145 | Darren Morgan             |  21.2 |        11 |              |               |
 |  146 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
@@ -253,9 +253,9 @@ Generated 2017-09-30.
 |  249 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  250 | Wayne Heiser              |  16.7 |        61 |              |         -0.28 |
 |  251 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  252 | David Shabelman           |  16.7 |        30 |              |               |
-|  253 | David Bratt               |  16.7 |        31 |              |         +0.26 |
-|  254 | Chris Flores              |  16.7 |       326 |        +0.05 |         -0.12 |
+|  252 | Chris Flores              |  16.7 |       327 |        +0.06 |         -0.11 |
+|  253 | David Shabelman           |  16.7 |        30 |              |               |
+|  254 | David Bratt               |  16.7 |        31 |              |         +0.26 |
 |  255 | Mark Priven               |  16.6 |        72 |              |               |
 |  256 | William Coleman           |  16.5 |        48 |              |               |
 |  257 | Mike Troxell              |  16.5 |         8 |              |               |
