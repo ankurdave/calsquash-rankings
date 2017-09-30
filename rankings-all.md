@@ -6,7 +6,7 @@ Generated 2017-09-30.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Eric Katerman             |  33.6 |        64 |        -0.11 |         +2.86 |
+|    5 | Eric Katerman             |  33.5 |        64 |        -0.20 |         +2.76 |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Ashley Kayler             |  33.2 |       228 |        -0.68 |         -1.88 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
@@ -17,7 +17,7 @@ Generated 2017-09-30.
 |   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |         -0.44 |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
-|   16 | Sam Sternberg             |  31.1 |       163 |        +0.97 |         +0.27 |
+|   16 | Sam Sternberg             |  31.0 |       163 |        +0.95 |         +0.25 |
 |   17 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
@@ -28,12 +28,12 @@ Generated 2017-09-30.
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
-|   27 | David Woo                 |  28.5 |         4 |              |               |
+|   27 | David Woo                 |  28.8 |         5 |              |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   31 | Nick Cobbett              |  28.1 |        49 |        +0.08 |         +2.48 |
-|   32 | Anibhav Singla            |  27.7 |        30 |        -0.38 |               |
+|   31 | Nick Cobbett              |  28.1 |        49 |        +0.05 |         +2.45 |
+|   32 | Anibhav Singla            |  27.8 |        31 |        -0.24 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Stephen Dang              |  27.2 |        34 |              |               |
 |   35 | Samer Shehata             |  27.2 |        29 |              |               |
