@@ -39,11 +39,11 @@ Generated 2017-09-30.
 |   35 | Samer Shehata             |  27.2 |        29 |              |               |
 |   36 | Frank Kennamer            |  27.1 |       239 |        +0.16 |         +0.15 |
 |   37 | Hussain Raza              |  27.0 |        50 |              |               |
-|   38 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   39 | Alan Jose                 |  26.9 |       182 |              |               |
-|   40 | Michael Best              |  26.9 |        21 |              |               |
-|   41 | Josh Taylor               |  26.8 |        40 |              |               |
-|   42 | Thomas Littleton          |  26.8 |        15 |        +0.47 |               |
+|   38 | Thomas Littleton          |  27.0 |        16 |        +0.62 |               |
+|   39 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   40 | Alan Jose                 |  26.9 |       182 |              |               |
+|   41 | Michael Best              |  26.9 |        21 |              |               |
+|   42 | Josh Taylor               |  26.8 |        40 |              |               |
 |   43 | David Hwang               |  26.8 |        44 |              |               |
 |   44 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
 |   45 | Gary Golding              |  26.5 |         6 |              |               |
@@ -71,7 +71,7 @@ Generated 2017-09-30.
 |   67 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   68 | Orion Hodson              |  24.8 |        31 |              |               |
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
-|   70 | John Kunze                |  24.6 |       335 |        -0.31 |         -0.06 |
+|   70 | John Kunze                |  24.6 |       336 |        -0.33 |         -0.09 |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   72 | Matt Wong                 |  24.6 |       100 |        +0.88 |         +2.06 |
 |   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |

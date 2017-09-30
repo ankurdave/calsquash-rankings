@@ -9,8 +9,8 @@ Generated 2017-09-30.
 |    5 | Nick Cobbett      |  28.1 |        49 |        +0.05 |         +2.45 |
 |    6 | Anibhav Singla    |  27.8 |        31 |        -0.24 |               |
 |    7 | Frank Kennamer    |  27.1 |       239 |        +0.16 |         +0.15 |
-|    8 | Thomas Littleton  |  26.8 |        15 |        +0.47 |               |
-|    9 | John Kunze        |  24.6 |       335 |        -0.31 |         -0.06 |
+|    8 | Thomas Littleton  |  27.0 |        16 |        +0.62 |               |
+|    9 | John Kunze        |  24.6 |       336 |        -0.33 |         -0.09 |
 |   10 | Matt Wong         |  24.6 |       100 |        +0.88 |         +2.06 |
 |   11 | Jim Veitch        |  24.2 |       465 |        +0.07 |         -1.30 |
 |   12 | Dan Bohn          |  22.8 |       110 |        +0.09 |         -0.32 |
