@@ -73,7 +73,7 @@ Generated 2017-10-01.
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | John Kunze                |  24.6 |       336 |        -0.33 |         -0.09 |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   72 | Matt Wong                 |  24.6 |       100 |        +0.88 |         +2.06 |
+|   72 | Matt Wong                 |  24.6 |       100 |        +0.90 |         +2.08 |
 |   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |
@@ -118,25 +118,25 @@ Generated 2017-10-01.
 |  114 | Robert Geiger             |  22.2 |         8 |              |               |
 |  115 | Aaron Socha               |  22.2 |        24 |              |               |
 |  116 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  117 | Benjamin Adler            |  22.2 |         7 |        +0.75 |               |
-|  118 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  119 | Britta Gardner            |  22.1 |        16 |              |               |
-|  120 | Niklas Linde              |  22.1 |        23 |              |               |
-|  121 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  123 | Dan Meier                 |  22.0 |        78 |        +0.22 |         -0.69 |
-|  124 | Blake Woodard             |  22.0 |        10 |              |               |
-|  125 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  127 | Jan Beranek               |  21.9 |        46 |              |               |
+|  117 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  118 | Britta Gardner            |  22.1 |        16 |              |               |
+|  119 | Niklas Linde              |  22.1 |        23 |              |               |
+|  120 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  121 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  122 | Blake Woodard             |  22.0 |        10 |              |               |
+|  123 | Dan Meier                 |  22.0 |        78 |        +0.19 |         -0.72 |
+|  124 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  126 | Jan Beranek               |  21.9 |        46 |              |               |
+|  127 | Benjamin Adler            |  21.8 |         8 |        +0.42 |               |
 |  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  131 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  132 | Omair Azam                |  21.7 |        18 |              |               |
-|  133 | Phin Lee                  |  21.7 |        16 |              |               |
-|  134 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  135 | Jonathan Hankar           |  21.6 |       214 |        -0.10 |         -0.63 |
+|  133 | Jonathan Hankar           |  21.7 |       214 |        -0.02 |         -0.55 |
+|  134 | Phin Lee                  |  21.7 |        16 |              |               |
+|  135 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
 |  137 | Jared Bard                |  21.3 |        46 |              |         +0.74 |
 |  138 | Ian Lunt                  |  21.3 |         9 |              |               |
@@ -178,15 +178,15 @@ Generated 2017-10-01.
 |  174 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  175 | Liam King                 |  19.9 |         6 |              |               |
 |  176 | Lysander Jim              |  19.8 |         6 |              |               |
-|  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  178 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  179 | Mike Delanty              |  19.7 |        12 |              |               |
-|  180 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  181 | Andrew Proudfoot          |  19.6 |        26 |              |               |
-|  182 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  183 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  184 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  185 | Anthony Abel              |  19.5 |         9 |        +0.12 |               |
+|  177 | Anthony Abel              |  19.8 |         9 |        +0.36 |               |
+|  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  180 | Mike Delanty              |  19.7 |        12 |              |               |
+|  181 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  182 | Andrew Proudfoot          |  19.6 |        26 |              |               |
+|  183 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  184 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  185 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
 |  186 | Roberto Gonzalez          |  19.4 |         3 |              |               |
 |  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  188 | Mike Jensen-Akula         |  19.3 |       235 |        -0.39 |         -0.72 |
@@ -458,15 +458,15 @@ Generated 2017-10-01.
 |  454 | Zsolt Bartha              |   3.9 |        66 |        -0.29 |         -0.79 |
 |  455 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  456 | Avi Flamholz              |   3.7 |         6 |        -2.77 |               |
-|  457 | Nakul Vakil               |   3.0 |         5 |              |               |
-|  458 | Maria Garzon              |   3.0 |         5 |              |               |
-|  459 | Nadir Shams               |   3.0 |         2 |              |               |
-|  460 | Ji Seop Oh                |   2.9 |         2 |              |               |
-|  461 | Sagar Pilania             |   2.8 |         2 |              |               |
-|  462 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  463 | David Vogel               |   2.6 |         7 |              |               |
-|  464 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  465 | Saijoscha Heck            |   2.5 |         2 |              |               |
+|  457 | Saijoscha Heck            |   3.2 |         3 |              |               |
+|  458 | Nakul Vakil               |   3.0 |         5 |              |               |
+|  459 | Maria Garzon              |   3.0 |         5 |              |               |
+|  460 | Nadir Shams               |   3.0 |         2 |              |               |
+|  461 | Ji Seop Oh                |   2.9 |         2 |              |               |
+|  462 | Sagar Pilania             |   2.8 |         2 |              |               |
+|  463 | Pedrum Mohageri           |   2.7 |         8 |              |               |
+|  464 | David Vogel               |   2.6 |         7 |              |               |
+|  465 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  466 | Cristhian Daniel          |   2.3 |        19 |              |         +3.09 |
 |  467 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  468 | Phil Lin                  |   2.1 |         1 |              |               |
