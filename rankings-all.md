@@ -1,4 +1,4 @@
-Generated 2017-09-30.
+Generated 2017-10-01.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -291,22 +291,22 @@ Generated 2017-09-30.
 |  287 | Sergey Dobrinov           |  14.9 |        26 |              |               |
 |  288 | Paul Norberg              |  14.8 |         8 |              |               |
 |  289 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  290 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  291 | David Elfant              |  14.7 |         2 |              |               |
-|  292 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  293 | Karan Goyal               |  14.6 |        16 |        +1.30 |               |
-|  294 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  295 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  296 | Shai Vardi                |  14.5 |         4 |              |               |
-|  297 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  298 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.60 |
-|  299 | Max Woodworth             |  14.4 |         7 |              |               |
-|  300 | Craig Hollow              |  14.4 |        31 |        +0.71 |               |
+|  290 | Craig Hollow              |  14.8 |        32 |        +1.08 |               |
+|  291 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  292 | David Elfant              |  14.7 |         2 |              |               |
+|  293 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  294 | Karan Goyal               |  14.6 |        16 |        +1.30 |               |
+|  295 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  296 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  297 | Shai Vardi                |  14.5 |         4 |              |               |
+|  298 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  299 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.60 |
+|  300 | Max Woodworth             |  14.4 |         7 |              |               |
 |  301 | Juliet Shih               |  14.4 |        11 |              |               |
 |  302 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  303 | Adam Soliman              |  14.2 |        32 |              |               |
 |  304 | Charles Denby             |  14.2 |         5 |              |               |
-|  305 | Diego Butrich             |  14.1 |        18 |        +0.23 |         +6.17 |
+|  305 | Diego Butrich             |  14.1 |        18 |        +0.20 |         +6.14 |
 |  306 | Neil Sachs                |  14.1 |        12 |              |               |
 |  307 | Rupert Myers              |  14.0 |        27 |              |               |
 |  308 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
@@ -336,8 +336,8 @@ Generated 2017-09-30.
 |  332 | Huw Lester                |  12.5 |         1 |              |               |
 |  333 | Richard Fabini            |  12.4 |         3 |              |               |
 |  334 | Jennifer Rha              |  12.4 |        18 |              |         -0.22 |
-|  335 | Josh Lebowitz             |  12.4 |        60 |        +0.22 |         +3.14 |
-|  336 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
+|  335 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
+|  336 | Josh Lebowitz             |  12.4 |        60 |        +0.16 |         +3.08 |
 |  337 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
 |  338 | John Givens               |  12.2 |        13 |              |               |
 |  339 | Sylvan Arevalo            |  12.2 |         3 |              |               |
@@ -369,16 +369,16 @@ Generated 2017-09-30.
 |  365 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  366 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  367 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  368 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  369 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
-|  370 | Nate Aden                 |  10.0 |        40 |        +0.12 |         +1.89 |
-|  371 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  372 | Daniel Schwartz           |   9.8 |        22 |              |         +1.33 |
-|  373 | Myles Gordon              |   9.8 |        42 |              |               |
-|  374 | Jacob Bank                |   9.7 |         1 |              |               |
-|  375 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  376 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  377 | Rashid Hameed             |   9.4 |         4 |              |               |
+|  368 | Rashid Hameed             |  10.0 |         4 |              |               |
+|  369 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  370 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
+|  371 | Nate Aden                 |  10.0 |        40 |        +0.12 |         +1.89 |
+|  372 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  373 | Daniel Schwartz           |   9.8 |        22 |              |         +1.33 |
+|  374 | Myles Gordon              |   9.8 |        42 |              |               |
+|  375 | Jacob Bank                |   9.7 |         1 |              |               |
+|  376 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  377 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  378 | Mark Shapero              |   9.4 |         7 |              |               |
 |  379 | Kevin Pollock             |   9.4 |        28 |              |               |
 |  380 | Max Grass                 |   9.4 |         1 |              |               |
@@ -390,12 +390,12 @@ Generated 2017-09-30.
 |  386 | Duo Wang                  |   9.2 |        79 |        +0.30 |         +0.86 |
 |  387 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  388 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  389 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  390 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  391 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  392 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  393 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  394 | Terence Stotz             |   8.8 |        12 |        +0.15 |               |
+|  389 | Terence Stotz             |   9.1 |        12 |        +0.46 |               |
+|  390 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  391 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  392 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  393 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  394 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  395 | Therese Jones             |   8.7 |         6 |              |               |
 |  396 | Steven Yee                |   8.7 |         9 |              |               |
 |  397 | Nikolai Schnittke         |   8.6 |         4 |              |               |
@@ -457,7 +457,7 @@ Generated 2017-09-30.
 |  453 | Ryan                      |   4.0 |         3 |              |               |
 |  454 | Zsolt Bartha              |   3.9 |        66 |        -0.29 |         -0.79 |
 |  455 | Mateo Aceves              |   3.8 |         4 |              |               |
-|  456 | Avi Flamholz              |   3.6 |         5 |        -2.86 |               |
+|  456 | Avi Flamholz              |   3.7 |         6 |        -2.77 |               |
 |  457 | Nakul Vakil               |   3.0 |         5 |              |               |
 |  458 | Maria Garzon              |   3.0 |         5 |              |               |
 |  459 | Nadir Shams               |   3.0 |         2 |              |               |

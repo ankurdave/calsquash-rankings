@@ -1,4 +1,4 @@
-Generated 2017-09-30.
+Generated 2017-10-01.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -26,26 +26,26 @@ Generated 2017-09-30.
 |   22 | Sahar Sareminaeni |  17.3 |        44 |        +0.55 |         +9.35 |
 |   23 | Wayne Heiser      |  16.7 |        61 |              |         -0.28 |
 |   24 | Chris Flores      |  16.7 |       327 |        +0.06 |         -0.11 |
-|   25 | Karan Goyal       |  14.6 |        16 |        +1.30 |               |
-|   26 | Craig Hollow      |  14.4 |        31 |        +0.71 |               |
-|   27 | Diego Butrich     |  14.1 |        18 |        +0.23 |         +6.17 |
+|   25 | Craig Hollow      |  14.8 |        32 |        +1.08 |               |
+|   26 | Karan Goyal       |  14.6 |        16 |        +1.30 |               |
+|   27 | Diego Butrich     |  14.1 |        18 |        +0.20 |         +6.14 |
 |   28 | Kent Daniels      |  13.3 |       113 |        -0.83 |         -2.29 |
 |   29 | Meldan Heaslip    |  13.2 |        40 |        +0.35 |               |
 |   30 | Ashley Brooks     |  12.7 |         2 |              |               |
-|   31 | Josh Lebowitz     |  12.4 |        60 |        +0.22 |         +3.14 |
+|   31 | Josh Lebowitz     |  12.4 |        60 |        +0.16 |         +3.08 |
 |   32 | Danielle Craig    |  10.7 |         2 |              |               |
 |   33 | Raphael Magarik   |  10.6 |        39 |        +0.55 |         +1.82 |
-|   34 | Nate Aden         |  10.0 |        40 |        +0.12 |         +1.89 |
-|   35 | Rashid Hameed     |   9.4 |         4 |              |               |
+|   34 | Rashid Hameed     |  10.0 |         4 |              |               |
+|   35 | Nate Aden         |  10.0 |        40 |        +0.12 |         +1.89 |
 |   36 | Duo Wang          |   9.2 |        79 |        +0.30 |         +0.86 |
-|   37 | Terence Stotz     |   8.8 |        12 |        +0.15 |               |
+|   37 | Terence Stotz     |   9.1 |        12 |        +0.46 |               |
 |   38 | Sumit Gupta       |   8.5 |        13 |        +0.28 |               |
 |   39 | Caroline Palmer   |   8.4 |         3 |              |               |
 |   40 | Brian Kempenich   |   7.8 |        53 |        -0.17 |         -1.04 |
 |   41 | Vishesh Dalal     |   6.5 |         2 |              |               |
 |   42 | Sara Bamberger    |   5.5 |         4 |              |               |
 |   43 | Zsolt Bartha      |   3.9 |        66 |        -0.29 |         -0.79 |
-|   44 | Avi Flamholz      |   3.6 |         5 |        -2.86 |               |
+|   44 | Avi Flamholz      |   3.7 |         6 |        -2.77 |               |
 |   45 | Saijoscha Heck    |   2.5 |         2 |              |               |
 |   46 | Manuel Coquet     |   1.7 |         2 |              |               |
 |   47 | Duncan MacRae     |   0.3 |        33 |        -0.03 |               |
