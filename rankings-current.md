@@ -1,4 +1,4 @@
-Generated 2017-10-01.
+Generated 2017-10-02.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -32,12 +32,12 @@ Generated 2017-10-01.
 |   28 | Josh Lebowitz     |  12.4 |        60 |              |         +2.81 |
 |   29 | Danielle Craig    |  10.7 |         2 |              |               |
 |   30 | Raphael Magarik   |  10.6 |        39 |              |         +1.57 |
-|   31 | Rashid Hameed     |  10.0 |         4 |              |               |
-|   32 | Nate Aden         |  10.0 |        40 |              |         +0.64 |
+|   31 | Nate Aden         |  10.1 |        41 |        +0.10 |         +0.74 |
+|   32 | Rashid Hameed     |  10.0 |         4 |              |               |
 |   33 | Duo Wang          |   9.2 |        79 |              |         +0.84 |
 |   34 | Terence Stotz     |   9.1 |        12 |              |               |
 |   35 | Caroline Palmer   |   8.4 |         3 |              |               |
-|   36 | Brian Kempenich   |   7.8 |        53 |              |         -0.87 |
+|   36 | Brian Kempenich   |   7.7 |        54 |        -0.05 |         -0.92 |
 |   37 | Vishesh Dalal     |   6.5 |         2 |              |               |
 |   38 | Sara Bamberger    |   5.5 |         4 |              |               |
 |   39 | Zsolt Bartha      |   3.9 |        66 |              |         -0.66 |

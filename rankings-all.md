@@ -1,4 +1,4 @@
-Generated 2017-10-01.
+Generated 2017-10-02.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -369,10 +369,10 @@ Generated 2017-10-01.
 |  365 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  366 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  367 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  368 | Rashid Hameed             |  10.0 |         4 |              |               |
-|  369 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  370 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
-|  371 | Nate Aden                 |  10.0 |        40 |              |         +0.64 |
+|  368 | Nate Aden                 |  10.1 |        41 |        +0.10 |         +0.74 |
+|  369 | Rashid Hameed             |  10.0 |         4 |              |               |
+|  370 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  371 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
 |  372 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  373 | Daniel Schwartz           |   9.8 |        22 |              |         -0.27 |
 |  374 | Myles Gordon              |   9.8 |        42 |              |               |
@@ -416,9 +416,9 @@ Generated 2017-10-01.
 |  412 | Chip Malt                 |   7.9 |         4 |              |               |
 |  413 | Tjacka Bus                |   7.9 |         5 |              |               |
 |  414 | Minsoo Bae                |   7.9 |         2 |              |               |
-|  415 | Brian Kempenich           |   7.8 |        53 |              |         -0.87 |
-|  416 | Akira Chiwaki             |   7.8 |         3 |              |               |
-|  417 | Felipe Gomez              |   7.7 |         4 |              |               |
+|  415 | Akira Chiwaki             |   7.8 |         3 |              |               |
+|  416 | Felipe Gomez              |   7.7 |         4 |              |               |
+|  417 | Brian Kempenich           |   7.7 |        54 |        -0.05 |         -0.92 |
 |  418 | Jeremy Brown              |   7.7 |         4 |              |               |
 |  419 | Ryan Akers                |   7.7 |         2 |              |               |
 |  420 | Yashraj Khaitain          |   7.6 |         2 |              |               |
