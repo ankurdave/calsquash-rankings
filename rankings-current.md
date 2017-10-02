@@ -45,4 +45,5 @@ Generated 2017-10-01.
 |   41 | Saijoscha Heck    |   2.5 |         2 |              |               |
 |   42 | Manuel Coquet     |   1.7 |         2 |              |               |
 |   43 | Duncan MacRae     |   0.3 |        33 |              |         +5.81 |
-|   44 | Navarun Jain      | -12.3 |         5 |              |               |
+|   44 | John Hwong        |  -0.7 |         1 |              |               |
+|   45 | Navarun Jain      | -12.3 |         5 |              |               |
