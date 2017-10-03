@@ -1,4 +1,4 @@
-Generated 2017-10-02.
+Generated 2017-10-03.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -378,19 +378,19 @@ Generated 2017-10-02.
 |  374 | Myles Gordon              |   9.8 |        42 |              |               |
 |  375 | Jacob Bank                |   9.7 |         1 |              |               |
 |  376 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  377 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  378 | Mark Shapero              |   9.4 |         7 |              |               |
-|  379 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  380 | Max Grass                 |   9.4 |         1 |              |               |
-|  381 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  382 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  383 | Robert Broesler           |   9.4 |         4 |              |               |
-|  384 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  385 | Greg Sperla               |   9.3 |         8 |              |               |
-|  386 | Duo Wang                  |   9.2 |        79 |              |         +0.84 |
-|  387 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  388 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  389 | Terence Stotz             |   9.1 |        12 |              |               |
+|  377 | Terence Stotz             |   9.5 |        13 |        +0.47 |               |
+|  378 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  379 | Mark Shapero              |   9.4 |         7 |              |               |
+|  380 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  381 | Max Grass                 |   9.4 |         1 |              |               |
+|  382 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  383 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  384 | Robert Broesler           |   9.4 |         4 |              |               |
+|  385 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  386 | Greg Sperla               |   9.3 |         8 |              |               |
+|  387 | Duo Wang                  |   9.2 |        79 |              |         +0.84 |
+|  388 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  389 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  390 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  391 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  392 | Laura Dobbs               |   9.0 |        26 |              |               |
@@ -457,8 +457,8 @@ Generated 2017-10-02.
 |  453 | Ryan                      |   4.0 |         3 |              |               |
 |  454 | Zsolt Bartha              |   3.9 |        66 |              |         -0.66 |
 |  455 | Mateo Aceves              |   3.8 |         4 |              |               |
-|  456 | Avi Flamholz              |   3.7 |         6 |              |               |
-|  457 | Nakul Vakil               |   3.0 |         5 |              |               |
+|  456 | Nakul Vakil               |   3.0 |         5 |              |               |
+|  457 | Avi Flamholz              |   3.0 |         7 |        -0.67 |               |
 |  458 | Maria Garzon              |   3.0 |         5 |              |               |
 |  459 | Nadir Shams               |   3.0 |         2 |              |               |
 |  460 | Ji Seop Oh                |   2.9 |         2 |              |               |
