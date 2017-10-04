@@ -35,15 +35,15 @@ Generated 2017-10-03.
 |   31 | Nate Aden         |  10.1 |        41 |        +0.10 |         +0.74 |
 |   32 | Rashid Hameed     |  10.0 |         4 |              |               |
 |   33 | Terence Stotz     |   9.5 |        13 |        +0.47 |               |
-|   34 | Duo Wang          |   9.2 |        79 |              |         +0.84 |
+|   34 | Duo Wang          |   9.1 |        80 |        -0.18 |         +0.65 |
 |   35 | Caroline Palmer   |   8.4 |         3 |              |               |
 |   36 | Brian Kempenich   |   7.7 |        54 |        -0.05 |         -0.92 |
-|   37 | Vishesh Dalal     |   6.5 |         2 |              |               |
-|   38 | Sara Bamberger    |   5.5 |         4 |              |               |
-|   39 | Zsolt Bartha      |   3.9 |        66 |              |         -0.66 |
-|   40 | Avi Flamholz      |   3.0 |         7 |        -0.67 |               |
-|   41 | Saijoscha Heck    |   2.5 |         2 |              |               |
-|   42 | Manuel Coquet     |   1.7 |         2 |              |               |
+|   37 | Manuel Coquet     |   7.3 |         3 |        +5.53 |               |
+|   38 | Vishesh Dalal     |   6.5 |         2 |              |               |
+|   39 | Sara Bamberger    |   5.5 |         4 |              |               |
+|   40 | Zsolt Bartha      |   3.9 |        66 |              |         -0.66 |
+|   41 | Avi Flamholz      |   3.0 |         7 |        -0.67 |               |
+|   42 | Saijoscha Heck    |   2.5 |         2 |              |               |
 |   43 | Duncan MacRae     |   0.3 |        33 |              |         +5.81 |
 |   44 | John Hwong        |  -0.7 |         1 |              |               |
 |   45 | Navarun Jain      | -12.3 |         5 |              |               |
