@@ -1,4 +1,4 @@
-Generated 2017-10-04.
+Generated 2017-10-05.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -34,11 +34,11 @@ Generated 2017-10-04.
 |   30 | Raphael Magarik   |  10.6 |        39 |              |         +1.57 |
 |   31 | Nate Aden         |  10.1 |        41 |        +0.10 |         +0.74 |
 |   32 | Rashid Hameed     |  10.0 |         4 |              |               |
-|   33 | Terence Stotz     |   9.5 |        13 |        +0.47 |               |
-|   34 | Duo Wang          |   9.1 |        80 |        -0.18 |         +0.65 |
-|   35 | Caroline Palmer   |   8.4 |         3 |              |               |
-|   36 | Brian Kempenich   |   7.7 |        54 |        -0.05 |         -0.92 |
-|   37 | Manuel Coquet     |   7.3 |         3 |        +5.53 |               |
+|   33 | Terence Stotz     |   9.5 |        14 |        +0.44 |               |
+|   34 | Manuel Coquet     |   9.3 |         4 |        +7.60 |               |
+|   35 | Duo Wang          |   9.1 |        80 |        -0.16 |         +0.68 |
+|   36 | Caroline Palmer   |   8.4 |         3 |              |               |
+|   37 | Brian Kempenich   |   7.7 |        54 |        -0.05 |         -0.92 |
 |   38 | Vishesh Dalal     |   6.5 |         2 |              |               |
 |   39 | Sara Bamberger    |   5.5 |         4 |              |               |
 |   40 | Zsolt Bartha      |   3.9 |        66 |              |         -0.66 |
