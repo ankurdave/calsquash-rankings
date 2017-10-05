@@ -1,4 +1,4 @@
-Generated 2017-10-03.
+Generated 2017-10-04.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -185,11 +185,11 @@ Generated 2017-10-03.
 |  181 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  182 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  183 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  184 | Jaime Perez               |  19.5 |        28 |              |         +0.23 |
-|  185 | Anthony Abel              |  19.5 |         9 |              |               |
+|  184 | Anthony Abel              |  19.5 |         9 |              |               |
+|  185 | Mike Jensen-Akula         |  19.5 |       236 |        +0.22 |         -0.87 |
 |  186 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  188 | Mike Jensen-Akula         |  19.3 |       235 |              |         -1.09 |
+|  187 | Jaime Perez               |  19.4 |        29 |        -0.19 |         +0.04 |
+|  188 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  189 | Greg Adams                |  19.3 |        10 |              |               |
 |  190 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  191 | John Corcoran             |  19.1 |        49 |              |               |
