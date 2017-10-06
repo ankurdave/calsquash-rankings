@@ -71,21 +71,21 @@ Generated 2017-10-05.
 |   67 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   68 | Orion Hodson              |  24.8 |        31 |              |               |
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
-|   70 | John Kunze                |  24.6 |       336 |              |         -0.10 |
-|   71 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   72 | Matt Wong                 |  24.6 |       100 |              |         +1.90 |
-|   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   75 | Adam Pollak               |  24.5 |        31 |              |               |
-|   76 | Jon Shih                  |  24.4 |        47 |              |               |
-|   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   79 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   80 | Jim Veitch                |  24.2 |       465 |              |         -1.09 |
-|   81 | Lakshya Rustagi           |  24.2 |         2 |              |               |
-|   82 | Toby Reiner               |  24.2 |       159 |              |               |
-|   83 | Himanshu Jatia            |  24.2 |         4 |              |               |
-|   84 | Matthew Elliott           |  24.2 |         7 |              |               |
+|   70 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   71 | Matt Wong                 |  24.6 |       100 |              |         +1.90 |
+|   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
+|   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   74 | Adam Pollak               |  24.5 |        31 |              |               |
+|   75 | Jon Shih                  |  24.4 |        47 |              |               |
+|   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   77 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   78 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   79 | Jim Veitch                |  24.2 |       465 |              |         -1.09 |
+|   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
+|   81 | Toby Reiner               |  24.2 |       159 |              |               |
+|   82 | Himanshu Jatia            |  24.2 |         4 |              |               |
+|   83 | Matthew Elliott           |  24.2 |         7 |              |               |
+|   84 | John Kunze                |  24.2 |       337 |        -0.46 |         -0.56 |
 |   85 | Robert Jeng               |  24.1 |        26 |              |               |
 |   86 | Vyas Sekar                |  24.1 |        17 |              |               |
 |   87 | Benjamin Vicuna           |  24.1 |        50 |              |               |
@@ -200,23 +200,23 @@ Generated 2017-10-05.
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  197 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  198 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  199 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  200 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  201 | Peter Dering              |  18.7 |         9 |              |               |
-|  202 | Sushant Jain              |  18.7 |        12 |              |               |
-|  203 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  204 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  205 | Allan Sly                 |  18.6 |        29 |              |               |
-|  206 | Jason Facchin             |  18.5 |         3 |              |               |
-|  207 | Dror Matalon              |  18.5 |       379 |              |         -0.52 |
-|  208 | Yan Liu                   |  18.5 |        10 |              |               |
-|  209 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  210 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  211 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  212 | John Eng                  |  18.4 |        28 |              |               |
-|  213 | Natalie Leung             |  18.4 |         1 |              |               |
-|  214 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  215 | Ankur Dave                |  18.3 |        87 |              |         +3.73 |
+|  199 | Ankur Dave                |  18.8 |        88 |        +0.50 |         +4.23 |
+|  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  201 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  202 | Peter Dering              |  18.7 |         9 |              |               |
+|  203 | Sushant Jain              |  18.7 |        12 |              |               |
+|  204 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  205 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  206 | Allan Sly                 |  18.6 |        29 |              |               |
+|  207 | Jason Facchin             |  18.5 |         3 |              |               |
+|  208 | Dror Matalon              |  18.5 |       379 |              |         -0.52 |
+|  209 | Yan Liu                   |  18.5 |        10 |              |               |
+|  210 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  211 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  212 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  213 | John Eng                  |  18.4 |        28 |              |               |
+|  214 | Natalie Leung             |  18.4 |         1 |              |               |
+|  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.79 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Josh Trauner              |  18.2 |        65 |              |         +0.44 |

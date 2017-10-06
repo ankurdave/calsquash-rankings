@@ -9,9 +9,9 @@ Generated 2017-10-05.
 |    5 | Anibhav Singla    |  27.8 |        31 |              |               |
 |    6 | Frank Kennamer    |  27.1 |       239 |              |         -0.32 |
 |    7 | Thomas Littleton  |  27.0 |        16 |              |               |
-|    8 | John Kunze        |  24.6 |       336 |              |         -0.10 |
-|    9 | Matt Wong         |  24.6 |       100 |              |         +1.90 |
-|   10 | Jim Veitch        |  24.2 |       465 |              |         -1.09 |
+|    8 | Matt Wong         |  24.6 |       100 |              |         +1.90 |
+|    9 | Jim Veitch        |  24.2 |       465 |              |         -1.09 |
+|   10 | John Kunze        |  24.2 |       337 |        -0.46 |         -0.56 |
 |   11 | Dan Bohn          |  22.8 |       110 |              |         -0.33 |
 |   12 | Dan Meier         |  22.0 |        78 |              |         -0.72 |
 |   13 | Jonathan Hankar   |  21.6 |       214 |              |               |
@@ -20,7 +20,7 @@ Generated 2017-10-05.
 |   16 | Anthony Abel      |  19.5 |         9 |              |               |
 |   17 | Mike Jensen-Akula |  19.5 |       236 |        +0.22 |         -0.87 |
 |   18 | Jaime Perez       |  19.4 |        29 |        -0.19 |         +0.04 |
-|   19 | Ankur Dave        |  18.3 |        87 |              |         +3.73 |
+|   19 | Ankur Dave        |  18.8 |        88 |        +0.50 |         +4.23 |
 |   20 | Josh Trauner      |  18.2 |        65 |              |         +0.44 |
 |   21 | Sahar Sareminaeni |  17.3 |        44 |              |         +9.35 |
 |   22 | Chris Flores      |  16.7 |       327 |              |         -0.11 |
