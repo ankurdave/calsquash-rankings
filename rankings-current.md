@@ -1,4 +1,4 @@
-Generated 2017-10-05.
+Generated 2017-10-06.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -27,9 +27,9 @@ Generated 2017-10-05.
 |   23 | Craig Hollow      |  14.8 |        32 |              |               |
 |   24 | Karan Goyal       |  14.6 |        16 |              |               |
 |   25 | Diego Butrich     |  14.1 |        18 |              |         -0.03 |
-|   26 | Kent Daniels      |  13.3 |       113 |              |         -2.02 |
+|   26 | Kent Daniels      |  13.2 |       114 |        -0.11 |         -2.13 |
 |   27 | Meldan Heaslip    |  13.2 |        40 |              |         +8.95 |
-|   28 | Josh Lebowitz     |  12.4 |        60 |              |         +2.81 |
+|   28 | Josh Lebowitz     |  12.5 |        61 |        +0.15 |         +2.96 |
 |   29 | Danielle Craig    |  10.7 |         2 |              |               |
 |   30 | Raphael Magarik   |  10.6 |        39 |              |         +1.57 |
 |   31 | Nate Aden         |  10.1 |        41 |        +0.10 |         +0.74 |

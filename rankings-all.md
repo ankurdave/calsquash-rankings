@@ -1,4 +1,4 @@
-Generated 2017-10-05.
+Generated 2017-10-06.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -321,8 +321,8 @@ Generated 2017-10-05.
 |  317 | Alex Rennet               |  13.5 |         2 |              |               |
 |  318 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  319 | Jake Toy                  |  13.4 |         5 |              |               |
-|  320 | Kent Daniels              |  13.3 |       113 |              |         -2.02 |
-|  321 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  320 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  321 | Kent Daniels              |  13.2 |       114 |        -0.11 |         -2.13 |
 |  322 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  323 | Meldan Heaslip            |  13.2 |        40 |              |         +8.95 |
 |  324 | Field Maloney             |  13.1 |        24 |              |               |
@@ -333,11 +333,11 @@ Generated 2017-10-05.
 |  329 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  330 | Ashley Brooks             |  12.7 |         2 |              |               |
 |  331 | Josh Shiode               |  12.6 |        20 |              |               |
-|  332 | Huw Lester                |  12.5 |         1 |              |               |
-|  333 | Richard Fabini            |  12.4 |         3 |              |               |
-|  334 | Jennifer Rha              |  12.4 |        18 |              |         +0.13 |
-|  335 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
-|  336 | Josh Lebowitz             |  12.4 |        60 |              |         +2.81 |
+|  332 | Josh Lebowitz             |  12.5 |        61 |        +0.15 |         +2.96 |
+|  333 | Huw Lester                |  12.5 |         1 |              |               |
+|  334 | Richard Fabini            |  12.4 |         3 |              |               |
+|  335 | Jennifer Rha              |  12.4 |        18 |              |         +0.13 |
+|  336 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
 |  337 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
 |  338 | John Givens               |  12.2 |        13 |              |               |
 |  339 | Sylvan Arevalo            |  12.2 |         3 |              |               |
