@@ -1,4 +1,4 @@
-Generated 2017-10-07.
+Generated 2017-10-08.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -6,11 +6,11 @@ Generated 2017-10-07.
 |    2 | Sam Sternberg     |  31.0 |       163 |              |         +0.40 |
 |    3 | David Woo         |  28.8 |         5 |              |               |
 |    4 | Nick Cobbett      |  28.1 |        49 |              |         +2.45 |
-|    5 | Anibhav Singla    |  27.8 |        31 |              |               |
+|    5 | Anibhav Singla    |  27.8 |        32 |        +0.03 |               |
 |    6 | Frank Kennamer    |  27.1 |       239 |              |         -0.32 |
 |    7 | Thomas Littleton  |  27.0 |        16 |              |               |
 |    8 | Matt Wong         |  24.6 |       100 |              |         +1.90 |
-|    9 | Jim Veitch        |  24.2 |       465 |              |         -1.09 |
+|    9 | Jim Veitch        |  24.2 |       466 |              |         -1.08 |
 |   10 | John Kunze        |  24.2 |       337 |        -0.46 |         -0.56 |
 |   11 | Dan Bohn          |  22.8 |       110 |              |         -0.33 |
 |   12 | Dan Meier         |  22.0 |        78 |              |         -0.72 |

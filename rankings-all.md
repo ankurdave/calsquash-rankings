@@ -1,4 +1,4 @@
-Generated 2017-10-07.
+Generated 2017-10-08.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -33,7 +33,7 @@ Generated 2017-10-07.
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   31 | Nick Cobbett              |  28.1 |        49 |              |         +2.45 |
-|   32 | Anibhav Singla            |  27.8 |        31 |              |               |
+|   32 | Anibhav Singla            |  27.8 |        32 |        +0.03 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Stephen Dang              |  27.2 |        34 |              |               |
 |   35 | Samer Shehata             |  27.2 |        29 |              |               |
@@ -80,7 +80,7 @@ Generated 2017-10-07.
 |   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   77 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   78 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   79 | Jim Veitch                |  24.2 |       465 |              |         -1.09 |
+|   79 | Jim Veitch                |  24.2 |       466 |              |         -1.08 |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   81 | Toby Reiner               |  24.2 |       159 |              |               |
 |   82 | Himanshu Jatia            |  24.2 |         4 |              |               |
