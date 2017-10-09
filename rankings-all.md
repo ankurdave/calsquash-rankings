@@ -1,4 +1,4 @@
-Generated 2017-10-08.
+Generated 2017-10-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -389,8 +389,8 @@ Generated 2017-10-08.
 |  385 | Greg Sperla               |   9.3 |         8 |              |               |
 |  386 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  387 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  388 | Duo Wang                  |   9.1 |        80 |        -0.17 |         +0.67 |
-|  389 | Manuel Coquet             |   9.1 |         4 |        +7.33 |               |
+|  388 | Manuel Coquet             |   9.1 |         5 |        +7.41 |               |
+|  389 | Duo Wang                  |   9.1 |        80 |        -0.17 |         +0.67 |
 |  390 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  391 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  392 | Laura Dobbs               |   9.0 |        26 |              |               |
@@ -455,11 +455,11 @@ Generated 2017-10-08.
 |  451 | Zsolt Bartha              |   4.3 |        67 |        +0.37 |         -0.29 |
 |  452 | Sameer Bajaj              |   4.3 |         4 |              |         +1.51 |
 |  453 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
-|  454 | Annie Wong                |   4.0 |         3 |              |               |
-|  455 | Ryan                      |   4.0 |         3 |              |               |
-|  456 | Mateo Aceves              |   3.8 |         4 |              |               |
-|  457 | Nakul Vakil               |   3.0 |         5 |              |               |
-|  458 | Avi Flamholz              |   3.0 |         7 |        -0.67 |               |
+|  454 | Avi Flamholz              |   4.1 |         8 |        +0.46 |               |
+|  455 | Annie Wong                |   4.0 |         3 |              |               |
+|  456 | Ryan                      |   4.0 |         3 |              |               |
+|  457 | Mateo Aceves              |   3.8 |         4 |              |               |
+|  458 | Nakul Vakil               |   3.0 |         5 |              |               |
 |  459 | Maria Garzon              |   3.0 |         5 |              |               |
 |  460 | Nadir Shams               |   3.0 |         2 |              |               |
 |  461 | Ji Seop Oh                |   2.9 |         2 |              |               |
