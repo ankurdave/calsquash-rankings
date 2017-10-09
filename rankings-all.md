@@ -452,11 +452,11 @@ Generated 2017-10-08.
 |  448 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  449 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  450 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  451 | Sameer Bajaj              |   4.3 |         4 |              |         +1.51 |
-|  452 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
-|  453 | Annie Wong                |   4.0 |         3 |              |               |
-|  454 | Ryan                      |   4.0 |         3 |              |               |
-|  455 | Zsolt Bartha              |   3.9 |        66 |              |         -0.66 |
+|  451 | Zsolt Bartha              |   4.3 |        67 |        +0.37 |         -0.29 |
+|  452 | Sameer Bajaj              |   4.3 |         4 |              |         +1.51 |
+|  453 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
+|  454 | Annie Wong                |   4.0 |         3 |              |               |
+|  455 | Ryan                      |   4.0 |         3 |              |               |
 |  456 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  457 | Nakul Vakil               |   3.0 |         5 |              |               |
 |  458 | Avi Flamholz              |   3.0 |         7 |        -0.67 |               |
@@ -533,5 +533,6 @@ Generated 2017-10-08.
 |  529 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
 |  530 | Sara Green                |  -5.8 |         1 |              |               |
 |  531 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  532 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  533 | Navarun Jain              | -12.3 |         5 |              |               |
+|  532 | Oly Rillera               |  -7.5 |         1 |              |               |
+|  533 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  534 | Navarun Jain              | -12.3 |         5 |              |               |

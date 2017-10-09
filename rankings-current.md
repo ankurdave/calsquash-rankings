@@ -41,9 +41,10 @@ Generated 2017-10-08.
 |   37 | Brian Kempenich   |   8.1 |        55 |        +0.35 |         -0.52 |
 |   38 | Vishesh Dalal     |   6.5 |         2 |              |               |
 |   39 | Sara Bamberger    |   5.5 |         4 |              |               |
-|   40 | Zsolt Bartha      |   3.9 |        66 |              |         -0.66 |
+|   40 | Zsolt Bartha      |   4.3 |        67 |        +0.37 |         -0.29 |
 |   41 | Avi Flamholz      |   3.0 |         7 |        -0.67 |               |
 |   42 | Saijoscha Heck    |   2.5 |         2 |              |               |
 |   43 | Duncan MacRae     |   0.3 |        33 |              |         +5.81 |
 |   44 | John Hwong        |  -0.7 |         1 |              |               |
-|   45 | Navarun Jain      | -12.3 |         5 |              |               |
+|   45 | Oly Rillera       |  -7.5 |         1 |              |               |
+|   46 | Navarun Jain      | -12.3 |         5 |              |               |
