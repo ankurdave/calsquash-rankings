@@ -1,4 +1,4 @@
-Generated 2017-10-09.
+Generated 2017-10-10.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -78,14 +78,14 @@ Generated 2017-10-09.
 |   74 | Adam Pollak               |  24.5 |        31 |              |               |
 |   75 | Jon Shih                  |  24.4 |        47 |              |               |
 |   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   77 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   78 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   79 | Lakshya Rustagi           |  24.2 |         2 |              |               |
-|   80 | Toby Reiner               |  24.2 |       159 |              |               |
-|   81 | Himanshu Jatia            |  24.2 |         4 |              |               |
-|   82 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   83 | Jim Veitch                |  24.2 |       467 |        -0.06 |         -1.15 |
-|   84 | John Kunze                |  24.2 |       337 |        -0.46 |         -0.56 |
+|   77 | John Kunze                |  24.3 |       338 |        -0.28 |         -0.38 |
+|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   79 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
+|   81 | Toby Reiner               |  24.2 |       159 |              |               |
+|   82 | Himanshu Jatia            |  24.2 |         4 |              |               |
+|   83 | Matthew Elliott           |  24.2 |         7 |              |               |
+|   84 | Jim Veitch                |  24.2 |       467 |        -0.06 |         -1.15 |
 |   85 | Robert Jeng               |  24.1 |        26 |              |               |
 |   86 | Vyas Sekar                |  24.1 |        17 |              |               |
 |   87 | Benjamin Vicuna           |  24.1 |        50 |              |               |
@@ -185,14 +185,14 @@ Generated 2017-10-09.
 |  181 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  182 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  183 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  184 | Anthony Abel              |  19.5 |         9 |              |               |
-|  185 | Mike Jensen-Akula         |  19.5 |       236 |        +0.22 |         -0.87 |
-|  186 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  187 | Jaime Perez               |  19.4 |        29 |        -0.19 |         +0.04 |
-|  188 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  189 | Greg Adams                |  19.3 |        10 |              |               |
-|  190 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  191 | John Corcoran             |  19.1 |        49 |              |               |
+|  184 | Mike Jensen-Akula         |  19.5 |       236 |        +0.22 |         -0.87 |
+|  185 | Roberto Gonzalez          |  19.4 |         3 |              |               |
+|  186 | Jaime Perez               |  19.4 |        29 |        -0.19 |         +0.04 |
+|  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  188 | Greg Adams                |  19.3 |        10 |              |               |
+|  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  190 | John Corcoran             |  19.1 |        49 |              |               |
+|  191 | Anthony Abel              |  19.1 |        10 |        -0.41 |               |
 |  192 | Kedar Shah                |  19.1 |         9 |              |               |
 |  193 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |

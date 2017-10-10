@@ -1,4 +1,4 @@
-Generated 2017-10-09.
+Generated 2017-10-10.
 
 | Rank | Player            | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|-------------------|-------|-----------|--------------|---------------|
@@ -10,16 +10,16 @@ Generated 2017-10-09.
 |    6 | Frank Kennamer    |  27.1 |       239 |              |         -0.32 |
 |    7 | Thomas Littleton  |  27.0 |        16 |              |               |
 |    8 | Matt Wong         |  24.6 |       100 |              |         +1.90 |
-|    9 | Jim Veitch        |  24.2 |       467 |        -0.06 |         -1.15 |
-|   10 | John Kunze        |  24.2 |       337 |        -0.46 |         -0.56 |
+|    9 | John Kunze        |  24.3 |       338 |        -0.28 |         -0.38 |
+|   10 | Jim Veitch        |  24.2 |       467 |        -0.06 |         -1.15 |
 |   11 | Dan Bohn          |  22.8 |       110 |              |         -0.33 |
 |   12 | Dan Meier         |  22.0 |        78 |              |         -0.72 |
 |   13 | Jonathan Hankar   |  21.6 |       214 |              |               |
 |   14 | Reid Johnsen      |  21.2 |        52 |              |         -0.78 |
 |   15 | Mark Modera       |  20.0 |       335 |              |         -0.89 |
-|   16 | Anthony Abel      |  19.5 |         9 |              |               |
-|   17 | Mike Jensen-Akula |  19.5 |       236 |        +0.22 |         -0.87 |
-|   18 | Jaime Perez       |  19.4 |        29 |        -0.19 |         +0.04 |
+|   16 | Mike Jensen-Akula |  19.5 |       236 |        +0.22 |         -0.87 |
+|   17 | Jaime Perez       |  19.4 |        29 |        -0.19 |         +0.04 |
+|   18 | Anthony Abel      |  19.1 |        10 |        -0.41 |               |
 |   19 | Ankur Dave        |  18.8 |        88 |        +0.50 |         +4.23 |
 |   20 | Josh Trauner      |  18.2 |        65 |              |         +0.44 |
 |   21 | Sahar Sareminaeni |  17.3 |        44 |              |         +9.35 |
