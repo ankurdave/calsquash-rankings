@@ -10,7 +10,7 @@ Generated 2017-10-09.
 |    6 | Frank Kennamer    |  27.1 |       239 |              |         -0.32 |
 |    7 | Thomas Littleton  |  27.0 |        16 |              |               |
 |    8 | Matt Wong         |  24.6 |       100 |              |         +1.90 |
-|    9 | Jim Veitch        |  24.2 |       466 |              |         -1.08 |
+|    9 | Jim Veitch        |  24.2 |       467 |        -0.06 |         -1.15 |
 |   10 | John Kunze        |  24.2 |       337 |        -0.46 |         -0.56 |
 |   11 | Dan Bohn          |  22.8 |       110 |              |         -0.33 |
 |   12 | Dan Meier         |  22.0 |        78 |              |         -0.72 |
@@ -32,19 +32,20 @@ Generated 2017-10-09.
 |   28 | Josh Lebowitz     |  12.5 |        61 |        +0.15 |         +2.96 |
 |   29 | Danielle Craig    |  10.7 |         2 |              |               |
 |   30 | Raphael Magarik   |  10.6 |        39 |              |         +1.57 |
-|   31 | Nate Aden         |  10.1 |        41 |        +0.10 |         +0.74 |
-|   32 | Rashid Hameed     |  10.0 |         4 |              |               |
-|   33 | Manuel Coquet     |   9.1 |         5 |        +7.41 |               |
-|   34 | Duo Wang          |   9.1 |        80 |        -0.17 |         +0.67 |
-|   35 | Terence Stotz     |   8.9 |        15 |        -0.16 |               |
-|   36 | Caroline Palmer   |   8.4 |         3 |              |               |
-|   37 | Brian Kempenich   |   8.1 |        55 |        +0.35 |         -0.52 |
-|   38 | Vishesh Dalal     |   6.5 |         2 |              |               |
-|   39 | Sara Bamberger    |   5.5 |         4 |              |               |
-|   40 | Zsolt Bartha      |   4.3 |        67 |        +0.37 |         -0.29 |
-|   41 | Avi Flamholz      |   4.1 |         8 |        +0.46 |               |
-|   42 | Saijoscha Heck    |   2.5 |         2 |              |               |
-|   43 | Duncan MacRae     |   0.3 |        33 |              |         +5.81 |
-|   44 | John Hwong        |  -0.7 |         1 |              |               |
-|   45 | Oly Rillera       |  -7.5 |         1 |              |               |
-|   46 | Navarun Jain      | -12.3 |         5 |              |               |
+|   31 | Matthew Bond      |  10.6 |         1 |              |               |
+|   32 | Nate Aden         |  10.1 |        41 |        +0.10 |         +0.74 |
+|   33 | Rashid Hameed     |  10.0 |         4 |              |               |
+|   34 | Manuel Coquet     |   9.1 |         5 |        +7.41 |               |
+|   35 | Duo Wang          |   9.1 |        80 |        -0.17 |         +0.67 |
+|   36 | Terence Stotz     |   8.9 |        15 |        -0.16 |               |
+|   37 | Caroline Palmer   |   8.4 |         3 |              |               |
+|   38 | Brian Kempenich   |   8.1 |        55 |        +0.35 |         -0.52 |
+|   39 | Vishesh Dalal     |   6.5 |         2 |              |               |
+|   40 | Sara Bamberger    |   5.5 |         4 |              |               |
+|   41 | Zsolt Bartha      |   4.3 |        67 |        +0.37 |         -0.29 |
+|   42 | Avi Flamholz      |   4.1 |         8 |        +0.46 |               |
+|   43 | Saijoscha Heck    |   2.5 |         2 |              |               |
+|   44 | Duncan MacRae     |   0.3 |        33 |              |         +5.81 |
+|   45 | John Hwong        |  -0.7 |         1 |              |               |
+|   46 | Oly Rillera       |  -7.5 |         1 |              |               |
+|   47 | Navarun Jain      | -12.3 |         5 |              |               |
