@@ -1,4 +1,4 @@
-Generated 2017-10-10.
+Generated 2017-10-11.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -493,12 +493,12 @@ Generated 2017-10-10.
 |  489 | Alfonso Rojas             |   0.6 |         8 |              |               |
 |  490 | Ben Geller                |   0.6 |         4 |              |               |
 |  491 | Seth Garz                 |   0.6 |         1 |              |               |
-|  492 | James Aylott              |   0.6 |         3 |              |               |
-|  493 | Ashley Mercer             |   0.5 |         5 |              |               |
-|  494 | Laurie Choi               |   0.5 |         2 |              |               |
-|  495 | Anne Iversen              |   0.4 |         3 |              |               |
-|  496 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  497 | Duncan MacRae             |   0.3 |        33 |              |         +5.81 |
+|  492 | Duncan MacRae             |   0.6 |        34 |        +0.32 |         +6.13 |
+|  493 | James Aylott              |   0.6 |         3 |              |               |
+|  494 | Ashley Mercer             |   0.5 |         5 |              |               |
+|  495 | Laurie Choi               |   0.5 |         2 |              |               |
+|  496 | Anne Iversen              |   0.4 |         3 |              |               |
+|  497 | Nathaniel Rice            |   0.4 |         3 |              |               |
 |  498 | Stuart Fox                |   0.2 |         1 |              |               |
 |  499 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  500 | Rachel Chiu               |   0.1 |         2 |              |               |
@@ -531,9 +531,10 @@ Generated 2017-10-10.
 |  527 | Yifan Wu                  |  -4.0 |         7 |              |               |
 |  528 | Susan Grand               |  -4.3 |         3 |              |               |
 |  529 | Cecilia Shan Cao          |  -5.1 |         2 |              |               |
-|  530 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
-|  531 | Sara Green                |  -5.8 |         1 |              |               |
-|  532 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  533 | Oly Rillera               |  -7.5 |         1 |              |               |
-|  534 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  535 | Navarun Jain              | -12.3 |         5 |              |               |
+|  530 | Ryan van der Harst        |  -5.3 |         1 |              |               |
+|  531 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
+|  532 | Sara Green                |  -5.8 |         1 |              |               |
+|  533 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  534 | Oly Rillera               |  -7.5 |         1 |              |               |
+|  535 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  536 | Navarun Jain              | -12.3 |         5 |              |               |
