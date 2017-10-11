@@ -103,10 +103,10 @@ Generated 2017-10-11.
 |   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |  100 | Garvin Heath              |  23.4 |        28 |              |               |
 |  101 | Daniel Greengard          |  23.1 |        37 |              |               |
-|  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|  103 | Joe Farrell               |  23.0 |        30 |              |               |
-|  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Dan Bohn                  |  22.8 |       110 |              |         -0.33 |
+|  102 | Dan Bohn                  |  23.1 |       111 |        +0.24 |         -0.09 |
+|  103 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|  104 | Joe Farrell               |  23.0 |        30 |              |               |
+|  105 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  108 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -124,13 +124,13 @@ Generated 2017-10-11.
 |  120 | Niklas Linde              |  22.1 |        23 |              |               |
 |  121 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  123 | Dan Meier                 |  22.0 |        78 |              |         -0.72 |
-|  124 | Blake Woodard             |  22.0 |        10 |              |               |
-|  125 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  127 | Jan Beranek               |  21.9 |        46 |              |               |
-|  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  123 | Blake Woodard             |  22.0 |        10 |              |               |
+|  124 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  126 | Jan Beranek               |  21.9 |        46 |              |               |
+|  127 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  129 | Dan Meier                 |  21.8 |        79 |        -0.23 |         -0.95 |
 |  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  131 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  132 | Omair Azam                |  21.7 |        18 |              |               |
