@@ -1,4 +1,4 @@
-Generated 2017-10-11.
+Generated 2017-10-12.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -128,9 +128,9 @@ Generated 2017-10-11.
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  129 | Dan Meier                 |  21.8 |        79 |        -0.23 |         -0.95 |
+|  127 | Dan Meier                 |  21.8 |        80 |        -0.20 |         -0.92 |
+|  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  131 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  132 | Omair Azam                |  21.7 |        18 |              |               |
@@ -200,7 +200,7 @@ Generated 2017-10-11.
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  197 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  198 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  199 | Ankur Dave                |  18.8 |        88 |        +0.50 |         +4.23 |
+|  199 | Ankur Dave                |  18.8 |        89 |        +0.48 |         +4.21 |
 |  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  201 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  202 | Peter Dering              |  18.7 |         9 |              |               |
