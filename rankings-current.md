@@ -1,4 +1,4 @@
-Generated 2017-10-12.
+Generated 2017-10-13.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -9,7 +9,7 @@ Generated 2017-10-12.
 |    5 | Anibhav Singla     |  27.8 |        32 |        +0.03 |               |
 |    6 | Frank Kennamer     |  27.1 |       239 |              |         -0.32 |
 |    7 | Thomas Littleton   |  27.0 |        16 |              |               |
-|    8 | Matt Wong          |  24.6 |       100 |              |         +1.90 |
+|    8 | Matt Wong          |  24.4 |       101 |        -0.18 |         +1.72 |
 |    9 | John Kunze         |  24.3 |       338 |        -0.28 |         -0.38 |
 |   10 | Jim Veitch         |  24.2 |       467 |        -0.06 |         -1.15 |
 |   11 | Dan Bohn           |  23.1 |       111 |        +0.24 |         -0.09 |
@@ -20,19 +20,19 @@ Generated 2017-10-12.
 |   16 | Jaime Perez        |  19.4 |        29 |        -0.19 |         +0.04 |
 |   17 | Anthony Abel       |  19.1 |        10 |        -0.41 |               |
 |   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.20 |         -1.28 |
-|   19 | Ankur Dave         |  18.8 |        89 |        +0.48 |         +4.21 |
-|   20 | Josh Trauner       |  18.2 |        65 |              |         +0.44 |
-|   21 | Sahar Sareminaeni  |  17.3 |        44 |              |         +9.35 |
-|   22 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
-|   23 | Karan Goyal        |  15.5 |        17 |        +0.91 |               |
-|   24 | Craig Hollow       |  14.8 |        32 |              |               |
-|   25 | Diego Butrich      |  14.1 |        18 |              |         -0.03 |
-|   26 | Kent Daniels       |  13.2 |       114 |        -0.11 |         -2.13 |
-|   27 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
-|   28 | Josh Lebowitz      |  12.5 |        61 |        +0.15 |         +2.96 |
-|   29 | Danielle Craig     |  10.7 |         2 |              |               |
-|   30 | Raphael Magarik    |  10.6 |        39 |              |         +1.57 |
-|   31 | Matthew Bond       |  10.6 |         1 |              |               |
+|   19 | Matthew Bond       |  18.9 |         2 |              |               |
+|   20 | Ankur Dave         |  18.8 |        89 |        +0.48 |         +4.21 |
+|   21 | Josh Trauner       |  18.2 |        65 |              |         +0.44 |
+|   22 | Sahar Sareminaeni  |  17.3 |        44 |              |         +9.35 |
+|   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
+|   24 | Karan Goyal        |  15.5 |        17 |        +0.91 |               |
+|   25 | Craig Hollow       |  14.8 |        32 |              |               |
+|   26 | Diego Butrich      |  14.1 |        18 |              |         -0.03 |
+|   27 | Kent Daniels       |  13.2 |       114 |        -0.11 |         -2.13 |
+|   28 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
+|   29 | Josh Lebowitz      |  12.5 |        61 |        +0.15 |         +2.96 |
+|   30 | Danielle Craig     |  10.7 |         2 |              |               |
+|   31 | Raphael Magarik    |  10.6 |        39 |              |         +1.57 |
 |   32 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
 |   33 | Rashid Hameed      |  10.0 |         4 |              |               |
 |   34 | Manuel Coquet      |   9.1 |         5 |        +7.41 |               |
