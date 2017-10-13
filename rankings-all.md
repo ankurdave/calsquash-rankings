@@ -185,14 +185,14 @@ Generated 2017-10-12.
 |  181 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  182 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  183 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  184 | Mike Jensen-Akula         |  19.5 |       236 |        +0.22 |         -0.87 |
-|  185 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  186 | Jaime Perez               |  19.4 |        29 |        -0.19 |         +0.04 |
-|  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  188 | Greg Adams                |  19.3 |        10 |              |               |
-|  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  190 | John Corcoran             |  19.1 |        49 |              |               |
-|  191 | Anthony Abel              |  19.1 |        10 |        -0.41 |               |
+|  184 | Roberto Gonzalez          |  19.4 |         3 |              |               |
+|  185 | Jaime Perez               |  19.4 |        29 |        -0.19 |         +0.04 |
+|  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  187 | Greg Adams                |  19.3 |        10 |              |               |
+|  188 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  189 | John Corcoran             |  19.1 |        49 |              |               |
+|  190 | Anthony Abel              |  19.1 |        10 |        -0.41 |               |
+|  191 | Mike Jensen-Akula         |  19.1 |       237 |        -0.20 |         -1.28 |
 |  192 | Kedar Shah                |  19.1 |         9 |              |               |
 |  193 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -275,27 +275,27 @@ Generated 2017-10-12.
 |  271 | Angie Ng                  |  15.7 |        12 |              |               |
 |  272 | Tanit Follett             |  15.5 |         8 |              |               |
 |  273 | Toni Queck                |  15.5 |        20 |              |               |
-|  274 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  275 | Peter Duerr               |  15.4 |        24 |              |               |
-|  276 | Kevin Fox                 |  15.3 |         7 |              |               |
-|  277 | Grant Buckingham          |  15.2 |         3 |              |               |
-|  278 | James Grant               |  15.2 |         8 |              |               |
-|  279 | Jim Evans                 |  15.1 |       216 |              |               |
-|  280 | Dennis Chan               |  15.1 |         1 |              |               |
-|  281 | Allie Giovanelli          |  15.0 |         4 |              |               |
-|  282 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  283 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
-|  284 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  285 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  286 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  287 | Sergey Dobrinov           |  14.9 |        26 |              |               |
-|  288 | Paul Norberg              |  14.8 |         8 |              |               |
-|  289 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  290 | Craig Hollow              |  14.8 |        32 |              |               |
-|  291 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  292 | David Elfant              |  14.7 |         2 |              |               |
-|  293 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  294 | Karan Goyal               |  14.6 |        16 |              |               |
+|  274 | Karan Goyal               |  15.5 |        17 |        +0.91 |               |
+|  275 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  276 | Peter Duerr               |  15.4 |        24 |              |               |
+|  277 | Kevin Fox                 |  15.3 |         7 |              |               |
+|  278 | Grant Buckingham          |  15.2 |         3 |              |               |
+|  279 | James Grant               |  15.2 |         8 |              |               |
+|  280 | Jim Evans                 |  15.1 |       216 |              |               |
+|  281 | Dennis Chan               |  15.1 |         1 |              |               |
+|  282 | Allie Giovanelli          |  15.0 |         4 |              |               |
+|  283 | Patrick Baylis            |  15.0 |        12 |              |               |
+|  284 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  285 | Mimi Zhang                |  14.9 |         6 |              |               |
+|  286 | Jeff Dorman               |  14.9 |        14 |              |               |
+|  287 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  288 | Sergey Dobrinov           |  14.9 |        26 |              |               |
+|  289 | Paul Norberg              |  14.8 |         8 |              |               |
+|  290 | Frederick Bayles          |  14.8 |         8 |              |               |
+|  291 | Craig Hollow              |  14.8 |        32 |              |               |
+|  292 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  293 | David Elfant              |  14.7 |         2 |              |               |
+|  294 | Ansul Rajgha              |  14.7 |        15 |              |               |
 |  295 | Margaret Chapman          |  14.6 |         6 |              |               |
 |  296 | Jee Hwan Kim              |  14.6 |         7 |              |               |
 |  297 | Shai Vardi                |  14.5 |         4 |              |               |
