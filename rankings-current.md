@@ -13,15 +13,15 @@ Generated 2017-10-13.
 |    9 | John Kunze         |  24.3 |       338 |        -0.28 |         -0.38 |
 |   10 | Jim Veitch         |  24.2 |       467 |        -0.06 |         -1.15 |
 |   11 | Dan Bohn           |  23.1 |       111 |        +0.24 |         -0.09 |
-|   12 | Dan Meier          |  21.8 |        80 |        -0.20 |         -0.92 |
+|   12 | Dan Meier          |  21.8 |        80 |        -0.19 |         -0.91 |
 |   13 | Jonathan Hankar    |  21.6 |       214 |              |               |
 |   14 | Reid Johnsen       |  21.2 |        52 |              |         -0.78 |
 |   15 | Mark Modera        |  20.0 |       335 |              |         -0.89 |
 |   16 | Jaime Perez        |  19.4 |        29 |        -0.19 |         +0.04 |
 |   17 | Anthony Abel       |  19.1 |        10 |        -0.41 |               |
 |   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.20 |         -1.28 |
-|   19 | Matthew Bond       |  18.9 |         2 |              |               |
-|   20 | Ankur Dave         |  18.8 |        89 |        +0.48 |         +4.21 |
+|   19 | Ankur Dave         |  18.9 |        90 |        +0.60 |         +4.33 |
+|   20 | Matthew Bond       |  18.9 |         2 |              |               |
 |   21 | Josh Trauner       |  18.2 |        65 |              |         +0.44 |
 |   22 | Sahar Sareminaeni  |  17.3 |        44 |              |         +9.35 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
@@ -46,7 +46,8 @@ Generated 2017-10-13.
 |   42 | Avi Flamholz       |   4.1 |         8 |        +0.46 |               |
 |   43 | Saijoscha Heck     |   2.5 |         2 |              |               |
 |   44 | Duncan MacRae      |   0.6 |        34 |        +0.32 |         +6.13 |
-|   45 | John Hwong         |  -0.7 |         1 |              |               |
-|   46 | Ryan van der Harst |  -5.3 |         1 |              |               |
-|   47 | Oly Rillera        |  -7.5 |         1 |              |               |
-|   48 | Navarun Jain       | -12.3 |         5 |              |               |
+|   45 | Joanna Majkowski   |   0.2 |         1 |              |               |
+|   46 | John Hwong         |  -0.7 |         1 |              |               |
+|   47 | Ryan van der Harst |  -5.3 |         1 |              |               |
+|   48 | Oly Rillera        |  -7.5 |         1 |              |               |
+|   49 | Navarun Jain       | -12.3 |         5 |              |               |
