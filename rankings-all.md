@@ -138,13 +138,13 @@ Generated 2017-10-13.
 |  134 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  135 | Jonathan Hankar           |  21.6 |       214 |              |               |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
-|  138 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  139 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  140 | Adam Jacob                |  21.3 |         3 |              |               |
-|  141 | Vishal Jain               |  21.3 |         6 |              |               |
-|  142 | Casey Harelson            |  21.2 |        20 |              |               |
-|  143 | Reid Johnsen              |  21.2 |        52 |              |         -0.78 |
+|  137 | Reid Johnsen              |  21.4 |        53 |        +0.17 |         -0.61 |
+|  138 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
+|  139 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  140 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  141 | Adam Jacob                |  21.3 |         3 |              |               |
+|  142 | Vishal Jain               |  21.3 |         6 |              |               |
+|  143 | Casey Harelson            |  21.2 |        20 |              |               |
 |  144 | Philip Bildner            |  21.2 |        22 |              |               |
 |  145 | Darren Morgan             |  21.2 |        11 |              |               |
 |  146 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
@@ -220,9 +220,9 @@ Generated 2017-10-13.
 |  216 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  217 | Kenny Bell                |  18.2 |       124 |              |         -0.79 |
 |  218 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  219 | Josh Trauner              |  18.2 |        65 |              |         +0.44 |
-|  220 | Bob Roller                |  18.2 |         6 |              |               |
-|  221 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  219 | Bob Roller                |  18.2 |         6 |              |               |
+|  220 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  221 | Josh Trauner              |  18.0 |        66 |        -0.17 |         +0.27 |
 |  222 | James Chung               |  17.9 |         7 |              |               |
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  224 | Eric Borden               |  17.8 |        44 |              |         +0.20 |
