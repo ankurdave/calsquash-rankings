@@ -453,7 +453,7 @@ Generated 2017-10-13.
 |  449 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  450 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  451 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  452 | Zsolt Bartha              |   4.3 |        67 |        +0.37 |         -0.29 |
+|  452 | Zsolt Bartha              |   4.3 |        68 |        +0.33 |         -0.33 |
 |  453 | Sameer Bajaj              |   4.3 |         4 |              |         +1.51 |
 |  454 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
 |  455 | Avi Flamholz              |   4.1 |         8 |        +0.46 |               |
@@ -491,9 +491,9 @@ Generated 2017-10-13.
 |  487 | Alex Kaplan               |   0.8 |         8 |              |               |
 |  488 | Daniel Wissmann           |   0.7 |         2 |              |               |
 |  489 | Alfonso Rojas             |   0.6 |         8 |              |               |
-|  490 | Ben Geller                |   0.6 |         4 |              |               |
-|  491 | Seth Garz                 |   0.6 |         1 |              |               |
-|  492 | Duncan MacRae             |   0.6 |        34 |        +0.32 |         +6.13 |
+|  490 | Duncan MacRae             |   0.6 |        34 |        +0.37 |         +6.18 |
+|  491 | Ben Geller                |   0.6 |         4 |              |               |
+|  492 | Seth Garz                 |   0.6 |         1 |              |               |
 |  493 | James Aylott              |   0.6 |         3 |              |               |
 |  494 | Ashley Mercer             |   0.5 |         5 |              |               |
 |  495 | Laurie Choi               |   0.5 |         2 |              |               |
@@ -523,19 +523,19 @@ Generated 2017-10-13.
 |  519 | Ann Connolly              |  -1.9 |         4 |              |               |
 |  520 | Judah Purcell             |  -2.2 |         1 |              |               |
 |  521 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
-|  522 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
-|  523 | James Redfield            |  -2.9 |         3 |              |               |
-|  524 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  525 | Vipul Gupta               |  -3.3 |         3 |              |               |
-|  526 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  527 | Tin Do                    |  -4.0 |         1 |              |               |
-|  528 | Yifan Wu                  |  -4.0 |         7 |              |               |
-|  529 | Susan Grand               |  -4.3 |         3 |              |               |
-|  530 | Cecilia Shan Cao          |  -5.1 |         2 |              |               |
-|  531 | Ryan van der Harst        |  -5.3 |         1 |              |               |
+|  522 | Ryan van der Harst        |  -2.7 |         2 |              |               |
+|  523 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
+|  524 | James Redfield            |  -2.9 |         3 |              |               |
+|  525 | Jenny Cheng               |  -3.2 |         1 |              |               |
+|  526 | Vipul Gupta               |  -3.3 |         3 |              |               |
+|  527 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  528 | Tin Do                    |  -4.0 |         1 |              |               |
+|  529 | Yifan Wu                  |  -4.0 |         7 |              |               |
+|  530 | Susan Grand               |  -4.3 |         3 |              |               |
+|  531 | Cecilia Shan Cao          |  -5.1 |         2 |              |               |
 |  532 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
 |  533 | Sara Green                |  -5.8 |         1 |              |               |
 |  534 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  535 | Oly Rillera               |  -7.5 |         1 |              |               |
+|  535 | Oly Rillera               |  -7.6 |         1 |              |               |
 |  536 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
 |  537 | Navarun Jain              | -12.3 |         5 |              |               |
