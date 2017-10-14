@@ -331,10 +331,10 @@ Generated 2017-10-14.
 |  327 | Lewis Moore               |  13.0 |        69 |              |               |
 |  328 | David Isaksson            |  12.9 |        22 |              |               |
 |  329 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  330 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  331 | Ashley Brooks             |  12.7 |         2 |              |               |
-|  332 | Josh Shiode               |  12.6 |        20 |              |               |
-|  333 | Josh Lebowitz             |  12.5 |        61 |        +0.15 |         +2.96 |
+|  330 | Josh Lebowitz             |  12.7 |        62 |        +0.36 |         +3.17 |
+|  331 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  332 | Ashley Brooks             |  12.7 |         2 |              |               |
+|  333 | Josh Shiode               |  12.6 |        20 |              |               |
 |  334 | Huw Lester                |  12.5 |         1 |              |               |
 |  335 | Richard Fabini            |  12.4 |         3 |              |               |
 |  336 | Jennifer Rha              |  12.4 |        18 |              |         +0.13 |
@@ -522,20 +522,21 @@ Generated 2017-10-14.
 |  518 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  519 | Ann Connolly              |  -1.9 |         4 |              |               |
 |  520 | Judah Purcell             |  -2.2 |         1 |              |               |
-|  521 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
-|  522 | Ryan van der Harst        |  -2.7 |         2 |              |               |
-|  523 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
-|  524 | James Redfield            |  -2.9 |         3 |              |               |
-|  525 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  526 | Vipul Gupta               |  -3.3 |         3 |              |               |
-|  527 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  528 | Tin Do                    |  -4.0 |         1 |              |               |
-|  529 | Yifan Wu                  |  -4.0 |         7 |              |               |
-|  530 | Susan Grand               |  -4.3 |         3 |              |               |
-|  531 | Cecilia Shan Cao          |  -5.1 |         2 |              |               |
-|  532 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
-|  533 | Sara Green                |  -5.8 |         1 |              |               |
-|  534 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  535 | Oly Rillera               |  -7.6 |         1 |              |               |
-|  536 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  537 | Navarun Jain              | -12.3 |         5 |              |               |
+|  521 | Pierre Youssef            |  -2.6 |         1 |              |               |
+|  522 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
+|  523 | Ryan van der Harst        |  -2.7 |         2 |              |               |
+|  524 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
+|  525 | James Redfield            |  -2.9 |         3 |              |               |
+|  526 | Jenny Cheng               |  -3.2 |         1 |              |               |
+|  527 | Vipul Gupta               |  -3.3 |         3 |              |               |
+|  528 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  529 | Tin Do                    |  -4.0 |         1 |              |               |
+|  530 | Yifan Wu                  |  -4.0 |         7 |              |               |
+|  531 | Susan Grand               |  -4.3 |         3 |              |               |
+|  532 | Cecilia Shan Cao          |  -5.1 |         2 |              |               |
+|  533 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
+|  534 | Sara Green                |  -5.8 |         1 |              |               |
+|  535 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  536 | Oly Rillera               |  -7.6 |         1 |              |               |
+|  537 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  538 | Navarun Jain              | -12.3 |         5 |              |               |

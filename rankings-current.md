@@ -30,7 +30,7 @@ Generated 2017-10-14.
 |   26 | Diego Butrich      |  14.1 |        18 |              |         -0.03 |
 |   27 | Kent Daniels       |  13.2 |       114 |        -0.11 |         -2.13 |
 |   28 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
-|   29 | Josh Lebowitz      |  12.5 |        61 |        +0.15 |         +2.96 |
+|   29 | Josh Lebowitz      |  12.7 |        62 |        +0.36 |         +3.17 |
 |   30 | Danielle Craig     |  10.7 |         2 |              |               |
 |   31 | Raphael Magarik    |  10.6 |        39 |              |         +1.57 |
 |   32 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
@@ -48,6 +48,7 @@ Generated 2017-10-14.
 |   44 | Duncan MacRae      |   0.6 |        34 |        +0.37 |         +6.18 |
 |   45 | Joanna Majkowski   |   0.2 |         1 |              |               |
 |   46 | John Hwong         |  -0.7 |         1 |              |               |
-|   47 | Ryan van der Harst |  -2.7 |         2 |              |               |
-|   48 | Oly Rillera        |  -7.6 |         1 |              |               |
-|   49 | Navarun Jain       | -12.3 |         5 |              |               |
+|   47 | Pierre Youssef     |  -2.6 |         1 |              |               |
+|   48 | Ryan van der Harst |  -2.7 |         2 |              |               |
+|   49 | Oly Rillera        |  -7.6 |         1 |              |               |
+|   50 | Navarun Jain       | -12.3 |         5 |              |               |
