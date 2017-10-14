@@ -1,4 +1,4 @@
-Generated 2017-10-13.
+Generated 2017-10-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -78,7 +78,7 @@ Generated 2017-10-13.
 |   74 | Jon Shih                  |  24.4 |        47 |              |               |
 |   75 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   76 | Matt Wong                 |  24.4 |       101 |        -0.18 |         +1.72 |
-|   77 | John Kunze                |  24.3 |       338 |        -0.28 |         -0.38 |
+|   77 | John Kunze                |  24.4 |       338 |        -0.27 |         -0.36 |
 |   78 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   79 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -177,32 +177,32 @@ Generated 2017-10-13.
 |  173 | Mark Modera               |  20.0 |       335 |              |         -0.89 |
 |  174 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  175 | Liam King                 |  19.9 |         6 |              |               |
-|  176 | Lysander Jim              |  19.8 |         6 |              |               |
-|  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  178 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  179 | Mike Delanty              |  19.7 |        12 |              |               |
-|  180 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  181 | Andrew Proudfoot          |  19.6 |        26 |              |               |
-|  182 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  183 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  184 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  185 | Jaime Perez               |  19.4 |        29 |        -0.19 |         +0.04 |
-|  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  187 | Greg Adams                |  19.3 |        10 |              |               |
-|  188 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  189 | John Corcoran             |  19.1 |        49 |              |               |
-|  190 | Anthony Abel              |  19.1 |        10 |        -0.41 |               |
+|  176 | Anthony Abel              |  19.9 |        11 |        +0.36 |               |
+|  177 | Lysander Jim              |  19.8 |         6 |              |               |
+|  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  180 | Mike Delanty              |  19.7 |        12 |              |               |
+|  181 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  182 | Andrew Proudfoot          |  19.6 |        26 |              |               |
+|  183 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  184 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  185 | Roberto Gonzalez          |  19.4 |         3 |              |               |
+|  186 | Jaime Perez               |  19.4 |        29 |        -0.19 |         +0.04 |
+|  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  188 | Greg Adams                |  19.3 |        10 |              |               |
+|  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  190 | John Corcoran             |  19.1 |        49 |              |               |
 |  191 | Mike Jensen-Akula         |  19.1 |       237 |        -0.20 |         -1.28 |
 |  192 | Kedar Shah                |  19.1 |         9 |              |               |
 |  193 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  195 | Yating Liu                |  19.0 |         7 |              |               |
-|  196 | Ankur Dave                |  18.9 |        90 |        +0.60 |         +4.33 |
-|  197 | Ronald Dahl               |  18.9 |        51 |              |               |
-|  198 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  199 | Matthew Bond              |  18.9 |         2 |              |               |
-|  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  201 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  196 | Ronald Dahl               |  18.9 |        51 |              |               |
+|  197 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  198 | Matthew Bond              |  18.9 |         2 |              |               |
+|  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  201 | Ankur Dave                |  18.8 |        91 |        +0.43 |         +4.15 |
 |  202 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  203 | Peter Dering              |  18.7 |         9 |              |               |
 |  204 | Sushant Jain              |  18.7 |        12 |              |               |

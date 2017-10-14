@@ -1,4 +1,4 @@
-Generated 2017-10-13.
+Generated 2017-10-14.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -10,18 +10,18 @@ Generated 2017-10-13.
 |    6 | Frank Kennamer     |  27.1 |       239 |              |         -0.32 |
 |    7 | Thomas Littleton   |  27.0 |        16 |              |               |
 |    8 | Matt Wong          |  24.4 |       101 |        -0.18 |         +1.72 |
-|    9 | John Kunze         |  24.3 |       338 |        -0.28 |         -0.38 |
+|    9 | John Kunze         |  24.4 |       338 |        -0.27 |         -0.36 |
 |   10 | Jim Veitch         |  24.2 |       467 |        -0.06 |         -1.15 |
 |   11 | Dan Bohn           |  23.1 |       111 |        +0.24 |         -0.09 |
 |   12 | Dan Meier          |  21.8 |        80 |        -0.19 |         -0.91 |
 |   13 | Jonathan Hankar    |  21.6 |       214 |              |               |
 |   14 | Reid Johnsen       |  21.4 |        53 |        +0.17 |         -0.61 |
 |   15 | Mark Modera        |  20.0 |       335 |              |         -0.89 |
-|   16 | Jaime Perez        |  19.4 |        29 |        -0.19 |         +0.04 |
-|   17 | Anthony Abel       |  19.1 |        10 |        -0.41 |               |
+|   16 | Anthony Abel       |  19.9 |        11 |        +0.36 |               |
+|   17 | Jaime Perez        |  19.4 |        29 |        -0.19 |         +0.04 |
 |   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.20 |         -1.28 |
-|   19 | Ankur Dave         |  18.9 |        90 |        +0.60 |         +4.33 |
-|   20 | Matthew Bond       |  18.9 |         2 |              |               |
+|   19 | Matthew Bond       |  18.9 |         2 |              |               |
+|   20 | Ankur Dave         |  18.8 |        91 |        +0.43 |         +4.15 |
 |   21 | Josh Trauner       |  18.0 |        66 |        -0.17 |         +0.27 |
 |   22 | Sahar Sareminaeni  |  17.3 |        44 |              |         +9.35 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
