@@ -1,10 +1,10 @@
-Generated 2017-10-14.
+Generated 2017-10-15.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler      |  33.2 |       228 |              |         -1.88 |
-|    2 | Sam Sternberg      |  31.0 |       163 |              |         +0.40 |
-|    3 | David Woo          |  28.8 |         5 |              |               |
+|    2 | Sam Sternberg      |  31.1 |       164 |        +0.07 |         +0.47 |
+|    3 | David Woo          |  29.0 |         6 |        +0.15 |               |
 |    4 | Nick Cobbett       |  28.1 |        49 |              |         +2.45 |
 |    5 | Anibhav Singla     |  27.8 |        32 |        +0.03 |               |
 |    6 | Frank Kennamer     |  27.1 |       239 |              |         -0.32 |

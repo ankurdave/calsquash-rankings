@@ -1,4 +1,4 @@
-Generated 2017-10-14.
+Generated 2017-10-15.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -16,8 +16,8 @@ Generated 2017-10-14.
 |   12 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
-|   15 | Mads Kristensen           |  31.1 |        33 |              |               |
-|   16 | Sam Sternberg             |  31.0 |       163 |              |         +0.40 |
+|   15 | Sam Sternberg             |  31.1 |       164 |        +0.07 |         +0.47 |
+|   16 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   17 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
@@ -28,7 +28,7 @@ Generated 2017-10-14.
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
-|   27 | David Woo                 |  28.8 |         5 |              |               |
+|   27 | David Woo                 |  29.0 |         6 |        +0.15 |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
