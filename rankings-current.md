@@ -27,7 +27,7 @@ Generated 2017-10-14.
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
 |   24 | Karan Goyal        |  15.5 |        17 |        +0.91 |               |
 |   25 | Craig Hollow       |  14.8 |        32 |              |               |
-|   26 | Diego Butrich      |  14.1 |        18 |              |         -0.03 |
+|   26 | Diego Butrich      |  13.8 |        19 |        -0.29 |         -0.33 |
 |   27 | Kent Daniels       |  13.2 |       114 |        -0.11 |         -2.13 |
 |   28 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
 |   29 | Josh Lebowitz      |  12.7 |        62 |        +0.36 |         +3.17 |
@@ -35,13 +35,13 @@ Generated 2017-10-14.
 |   31 | Raphael Magarik    |  10.6 |        39 |              |         +1.57 |
 |   32 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
 |   33 | Rashid Hameed      |  10.0 |         4 |              |               |
-|   34 | Manuel Coquet      |   9.1 |         5 |        +7.41 |               |
-|   35 | Duo Wang           |   9.1 |        80 |        -0.17 |         +0.67 |
-|   36 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
-|   37 | Caroline Palmer    |   8.4 |         3 |              |               |
-|   38 | Brian Kempenich    |   8.1 |        55 |        +0.35 |         -0.52 |
-|   39 | Vishesh Dalal      |   6.5 |         2 |              |               |
-|   40 | Sara Bamberger     |   5.5 |         4 |              |               |
+|   34 | Sara Bamberger     |   9.4 |         5 |        +3.99 |               |
+|   35 | Manuel Coquet      |   9.1 |         5 |        +7.41 |               |
+|   36 | Duo Wang           |   9.1 |        80 |        -0.17 |         +0.67 |
+|   37 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
+|   38 | Caroline Palmer    |   8.4 |         3 |              |               |
+|   39 | Brian Kempenich    |   8.1 |        55 |        +0.35 |         -0.52 |
+|   40 | Vishesh Dalal      |   6.5 |         2 |              |               |
 |   41 | Zsolt Bartha       |   4.3 |        68 |        +0.33 |         -0.33 |
 |   42 | Avi Flamholz       |   4.1 |         8 |        +0.46 |               |
 |   43 | Saijoscha Heck     |   2.5 |         2 |              |               |
