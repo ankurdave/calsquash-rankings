@@ -103,10 +103,10 @@ Generated 2017-10-15.
 |   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |  100 | Garvin Heath              |  23.4 |        28 |              |               |
 |  101 | Daniel Greengard          |  23.1 |        37 |              |               |
-|  102 | Dan Bohn                  |  23.1 |       111 |        +0.24 |         -0.09 |
-|  103 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|  104 | Joe Farrell               |  23.0 |        30 |              |               |
-|  105 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|  103 | Joe Farrell               |  23.0 |        30 |              |               |
+|  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  105 | Dan Bohn                  |  22.9 |       112 |        +0.11 |         -0.22 |
 |  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  108 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -128,7 +128,7 @@ Generated 2017-10-15.
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Dan Meier                 |  21.8 |        80 |        -0.19 |         -0.91 |
+|  127 | Dan Meier                 |  21.8 |        80 |        -0.20 |         -0.92 |
 |  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -176,8 +176,8 @@ Generated 2017-10-15.
 |  172 | Wesley Huang              |  20.0 |         8 |              |               |
 |  173 | Mark Modera               |  20.0 |       335 |              |         -0.89 |
 |  174 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  175 | Liam King                 |  19.9 |         6 |              |               |
-|  176 | Anthony Abel              |  19.9 |        11 |        +0.36 |               |
+|  175 | Anthony Abel              |  19.9 |        11 |        +0.37 |               |
+|  176 | Liam King                 |  19.9 |         6 |              |               |
 |  177 | Lysander Jim              |  19.8 |         6 |              |               |
 |  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
@@ -199,10 +199,10 @@ Generated 2017-10-15.
 |  195 | Yating Liu                |  19.0 |         7 |              |               |
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  197 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  198 | Matthew Bond              |  18.9 |         2 |              |               |
-|  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  201 | Ankur Dave                |  18.8 |        91 |        +0.43 |         +4.15 |
+|  198 | Ankur Dave                |  18.9 |        92 |        +0.58 |         +4.30 |
+|  199 | Matthew Bond              |  18.9 |         2 |              |               |
+|  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  201 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  202 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  203 | Peter Dering              |  18.7 |         9 |              |               |
 |  204 | Sushant Jain              |  18.7 |        12 |              |               |
