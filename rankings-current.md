@@ -31,11 +31,11 @@ Generated 2017-10-15.
 |   27 | Kent Daniels       |  13.2 |       114 |        -0.11 |         -2.13 |
 |   28 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
 |   29 | Josh Lebowitz      |  12.7 |        62 |        +0.36 |         +3.17 |
-|   30 | Danielle Craig     |  10.7 |         2 |              |               |
-|   31 | Raphael Magarik    |  10.6 |        39 |              |         +1.57 |
-|   32 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
-|   33 | Rashid Hameed      |  10.0 |         4 |              |               |
-|   34 | Sara Bamberger     |   9.4 |         5 |        +3.99 |               |
+|   30 | Sara Bamberger     |  11.0 |         6 |        +5.54 |               |
+|   31 | Danielle Craig     |  10.7 |         2 |              |               |
+|   32 | Raphael Magarik    |  10.6 |        39 |              |         +1.57 |
+|   33 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
+|   34 | Rashid Hameed      |  10.0 |         5 |        -0.03 |               |
 |   35 | Manuel Coquet      |   9.1 |         5 |        +7.41 |               |
 |   36 | Duo Wang           |   9.1 |        80 |        -0.17 |         +0.67 |
 |   37 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |

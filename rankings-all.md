@@ -357,30 +357,30 @@ Generated 2017-10-15.
 |  353 | Carlos Filho              |  11.4 |         7 |              |               |
 |  354 | Karan Jain                |  11.3 |        19 |              |               |
 |  355 | Lucas Siow                |  11.0 |        10 |              |               |
-|  356 | Dominick Ng               |  10.9 |        25 |              |               |
-|  357 | Danielle Craig            |  10.7 |         2 |              |               |
-|  358 | Raphael Magarik           |  10.6 |        39 |              |         +1.57 |
-|  359 | George Bentley            |  10.6 |         4 |              |               |
-|  360 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  361 | Brian Puglise             |  10.4 |         2 |              |               |
-|  362 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  363 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  364 | John Provine              |  10.2 |        16 |              |               |
-|  365 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  366 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  367 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  368 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  369 | Nate Aden                 |  10.1 |        41 |        +0.10 |         +0.74 |
-|  370 | Rashid Hameed             |  10.0 |         4 |              |               |
+|  356 | Sara Bamberger            |  11.0 |         6 |        +5.54 |               |
+|  357 | Dominick Ng               |  10.9 |        25 |              |               |
+|  358 | Danielle Craig            |  10.7 |         2 |              |               |
+|  359 | Raphael Magarik           |  10.6 |        39 |              |         +1.57 |
+|  360 | George Bentley            |  10.6 |         4 |              |               |
+|  361 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  362 | Brian Puglise             |  10.4 |         2 |              |               |
+|  363 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  364 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  365 | John Provine              |  10.2 |        16 |              |               |
+|  366 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  367 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  368 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  369 | Sung-Jin Oh               |  10.1 |         6 |              |               |
+|  370 | Nate Aden                 |  10.1 |        41 |        +0.10 |         +0.74 |
 |  371 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  372 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
-|  373 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  374 | Daniel Schwartz           |   9.8 |        22 |              |         -0.27 |
-|  375 | Myles Gordon              |   9.8 |        42 |              |               |
-|  376 | Jacob Bank                |   9.7 |         1 |              |               |
-|  377 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  378 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  379 | Sara Bamberger            |   9.4 |         5 |        +3.99 |               |
+|  372 | Rashid Hameed             |  10.0 |         5 |        -0.03 |               |
+|  373 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
+|  374 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  375 | Daniel Schwartz           |   9.8 |        22 |              |         -0.27 |
+|  376 | Myles Gordon              |   9.8 |        42 |              |               |
+|  377 | Jacob Bank                |   9.7 |         1 |              |               |
+|  378 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  379 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  380 | Mark Shapero              |   9.4 |         7 |              |               |
 |  381 | Kevin Pollock             |   9.4 |        28 |              |               |
 |  382 | Max Grass                 |   9.4 |         1 |              |               |
