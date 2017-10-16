@@ -187,12 +187,12 @@ Generated 2017-10-16.
 |  183 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  184 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  185 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  186 | Jaime Perez               |  19.4 |        29 |        -0.19 |         +0.04 |
+|  186 | Jaime Perez               |  19.3 |        29 |        -0.21 |         +0.02 |
 |  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  188 | Greg Adams                |  19.3 |        10 |              |               |
 |  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  190 | John Corcoran             |  19.1 |        49 |              |               |
-|  191 | Mike Jensen-Akula         |  19.1 |       237 |        -0.20 |         -1.28 |
+|  191 | Mike Jensen-Akula         |  19.1 |       237 |        -0.17 |         -1.26 |
 |  192 | Kedar Shah                |  19.1 |         9 |              |               |
 |  193 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -276,7 +276,7 @@ Generated 2017-10-16.
 |  272 | Angie Ng                  |  15.7 |        12 |              |               |
 |  273 | Tanit Follett             |  15.5 |         8 |              |               |
 |  274 | Toni Queck                |  15.5 |        20 |              |               |
-|  275 | Karan Goyal               |  15.5 |        17 |        +0.91 |               |
+|  275 | Karan Goyal               |  15.5 |        17 |        +0.89 |               |
 |  276 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  277 | Peter Duerr               |  15.4 |        24 |              |               |
 |  278 | Kevin Fox                 |  15.3 |         7 |              |               |

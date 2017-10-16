@@ -18,14 +18,14 @@ Generated 2017-10-16.
 |   14 | Reid Johnsen       |  21.4 |        53 |        +0.17 |         -0.61 |
 |   15 | Mark Modera        |  20.0 |       335 |              |         -0.89 |
 |   16 | Anthony Abel       |  19.9 |        11 |        +0.37 |               |
-|   17 | Jaime Perez        |  19.4 |        29 |        -0.19 |         +0.04 |
-|   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.20 |         -1.28 |
+|   17 | Jaime Perez        |  19.3 |        29 |        -0.21 |         +0.02 |
+|   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.17 |         -1.26 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.58 |         +4.30 |
 |   20 | Matthew Bond       |  18.9 |         2 |              |               |
 |   21 | Josh Trauner       |  18.0 |        66 |        -0.17 |         +0.27 |
 |   22 | Sahar Sareminaeni  |  17.3 |        44 |              |         +9.35 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
-|   24 | Karan Goyal        |  15.5 |        17 |        +0.91 |               |
+|   24 | Karan Goyal        |  15.5 |        17 |        +0.89 |               |
 |   25 | Craig Hollow       |  14.8 |        32 |              |               |
 |   26 | Diego Butrich      |  13.8 |        19 |        -0.29 |         -0.33 |
 |   27 | Kent Daniels       |  13.2 |       114 |        -0.11 |         -2.13 |
