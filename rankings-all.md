@@ -1,4 +1,4 @@
-Generated 2017-10-15.
+Generated 2017-10-16.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -8,7 +8,7 @@ Generated 2017-10-15.
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
 |    5 | Eric Katerman             |  33.5 |        64 |              |         +1.98 |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Ashley Kayler             |  33.2 |       228 |              |         -1.88 |
+|    7 | Ashley Kayler             |  33.3 |       229 |        +0.10 |         -1.79 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -37,7 +37,7 @@ Generated 2017-10-15.
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Stephen Dang              |  27.2 |        34 |              |               |
 |   35 | Samer Shehata             |  27.2 |        29 |              |               |
-|   36 | Frank Kennamer            |  27.1 |       239 |              |         -0.32 |
+|   36 | Frank Kennamer            |  27.0 |       240 |        -0.11 |         -0.43 |
 |   37 | Hussain Raza              |  27.0 |        50 |              |               |
 |   38 | Thomas Littleton          |  27.0 |        16 |              |               |
 |   39 | Nauman Sardar             |  26.9 |        40 |              |               |
