@@ -137,8 +137,8 @@ Generated 2017-10-17.
 |  133 | Phin Lee                  |  21.7 |        16 |              |               |
 |  134 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  135 | Jonathan Hankar           |  21.6 |       214 |              |               |
-|  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Reid Johnsen              |  21.4 |        53 |        +0.17 |         -0.61 |
+|  136 | Reid Johnsen              |  21.5 |        54 |        +0.28 |         -0.50 |
+|  137 | Dante Popple              |  21.5 |        17 |              |               |
 |  138 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
 |  139 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -175,9 +175,9 @@ Generated 2017-10-17.
 |  171 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  172 | Jonathan Francis          |  20.0 |        76 |              |         +0.48 |
 |  173 | Wesley Huang              |  20.0 |         8 |              |               |
-|  174 | Mark Modera               |  20.0 |       335 |              |         -0.89 |
-|  175 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  176 | Liam King                 |  19.9 |         6 |              |               |
+|  174 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  175 | Liam King                 |  19.9 |         6 |              |               |
+|  176 | Mark Modera               |  19.9 |       336 |        -0.10 |         -1.00 |
 |  177 | Lysander Jim              |  19.8 |         6 |              |               |
 |  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  179 | Suneesh Kaul              |  19.7 |         3 |              |               |

@@ -15,9 +15,9 @@ Generated 2017-10-17.
 |   11 | Dan Bohn           |  22.9 |       112 |        +0.11 |         -0.22 |
 |   12 | Dan Meier          |  21.8 |        80 |        -0.20 |         -0.92 |
 |   13 | Jonathan Hankar    |  21.6 |       214 |              |               |
-|   14 | Reid Johnsen       |  21.4 |        53 |        +0.17 |         -0.61 |
+|   14 | Reid Johnsen       |  21.5 |        54 |        +0.28 |         -0.50 |
 |   15 | Anthony Abel       |  20.1 |        12 |        +0.54 |               |
-|   16 | Mark Modera        |  20.0 |       335 |              |         -0.89 |
+|   16 | Mark Modera        |  19.9 |       336 |        -0.10 |         -1.00 |
 |   17 | Jaime Perez        |  19.3 |        29 |        -0.21 |         +0.02 |
 |   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.17 |         -1.26 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.58 |         +4.31 |
