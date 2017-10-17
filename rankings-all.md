@@ -78,7 +78,7 @@ Generated 2017-10-16.
 |   74 | Jon Shih                  |  24.4 |        47 |              |               |
 |   75 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   76 | Matt Wong                 |  24.4 |       101 |        -0.18 |         +1.72 |
-|   77 | John Kunze                |  24.4 |       338 |        -0.27 |         -0.36 |
+|   77 | John Kunze                |  24.4 |       338 |        -0.26 |         -0.36 |
 |   78 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   79 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -170,13 +170,13 @@ Generated 2017-10-16.
 |  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  167 | Frank Kennan              |  20.1 |        11 |              |               |
 |  168 | Robert Schwartz           |  20.1 |        90 |              |         -0.64 |
-|  169 | Shaun Lim                 |  20.0 |        64 |              |         +1.83 |
-|  170 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  171 | Jonathan Francis          |  20.0 |        76 |              |         +0.48 |
-|  172 | Wesley Huang              |  20.0 |         8 |              |               |
-|  173 | Mark Modera               |  20.0 |       335 |              |         -0.89 |
-|  174 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  175 | Anthony Abel              |  19.9 |        11 |        +0.37 |               |
+|  169 | Anthony Abel              |  20.1 |        12 |        +0.54 |               |
+|  170 | Shaun Lim                 |  20.0 |        64 |              |         +1.83 |
+|  171 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  172 | Jonathan Francis          |  20.0 |        76 |              |         +0.48 |
+|  173 | Wesley Huang              |  20.0 |         8 |              |               |
+|  174 | Mark Modera               |  20.0 |       335 |              |         -0.89 |
+|  175 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  176 | Liam King                 |  19.9 |         6 |              |               |
 |  177 | Lysander Jim              |  19.8 |         6 |              |               |
 |  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
@@ -198,8 +198,8 @@ Generated 2017-10-16.
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  195 | Yating Liu                |  19.0 |         7 |              |               |
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
-|  197 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  198 | Ankur Dave                |  18.9 |        92 |        +0.58 |         +4.30 |
+|  197 | Ankur Dave                |  18.9 |        92 |        +0.58 |         +4.31 |
+|  198 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  199 | Matthew Bond              |  18.9 |         2 |              |               |
 |  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  201 | Viraj Paropkari           |  18.8 |        16 |              |               |
@@ -489,18 +489,18 @@ Generated 2017-10-16.
 |  485 | Michael Mann              |   1.1 |         4 |              |               |
 |  486 | Marco Eres                |   1.0 |         5 |              |               |
 |  487 | Alex Kaplan               |   0.8 |         8 |              |               |
-|  488 | Daniel Wissmann           |   0.7 |         2 |              |               |
-|  489 | Alfonso Rojas             |   0.6 |         8 |              |               |
-|  490 | Duncan MacRae             |   0.6 |        34 |        +0.37 |         +6.18 |
-|  491 | Ben Geller                |   0.6 |         4 |              |               |
-|  492 | Seth Garz                 |   0.6 |         1 |              |               |
-|  493 | James Aylott              |   0.6 |         3 |              |               |
-|  494 | Ashley Mercer             |   0.5 |         5 |              |               |
-|  495 | Laurie Choi               |   0.5 |         2 |              |               |
-|  496 | Anne Iversen              |   0.4 |         3 |              |               |
-|  497 | Nathaniel Rice            |   0.4 |         3 |              |               |
-|  498 | Stuart Fox                |   0.2 |         1 |              |               |
-|  499 | Joanna Majkowski          |   0.2 |         1 |              |               |
+|  488 | Joanna Majkowski          |   0.8 |         2 |              |               |
+|  489 | Daniel Wissmann           |   0.7 |         2 |              |               |
+|  490 | Alfonso Rojas             |   0.6 |         8 |              |               |
+|  491 | Duncan MacRae             |   0.6 |        34 |        +0.37 |         +6.18 |
+|  492 | Ben Geller                |   0.6 |         4 |              |               |
+|  493 | Seth Garz                 |   0.6 |         1 |              |               |
+|  494 | James Aylott              |   0.6 |         3 |              |               |
+|  495 | Ashley Mercer             |   0.5 |         5 |              |               |
+|  496 | Laurie Choi               |   0.5 |         2 |              |               |
+|  497 | Anne Iversen              |   0.4 |         3 |              |               |
+|  498 | Nathaniel Rice            |   0.4 |         3 |              |               |
+|  499 | Stuart Fox                |   0.2 |         1 |              |               |
 |  500 | Hannah Hagen              |   0.2 |         4 |              |               |
 |  501 | Rachel Chiu               |   0.1 |         2 |              |               |
 |  502 | Sandra Harpster           |  -0.1 |         5 |              |               |

@@ -10,17 +10,17 @@ Generated 2017-10-16.
 |    6 | Frank Kennamer     |  27.0 |       240 |        -0.11 |         -0.43 |
 |    7 | Thomas Littleton   |  27.0 |        16 |              |               |
 |    8 | Matt Wong          |  24.4 |       101 |        -0.18 |         +1.72 |
-|    9 | John Kunze         |  24.4 |       338 |        -0.27 |         -0.36 |
+|    9 | John Kunze         |  24.4 |       338 |        -0.26 |         -0.36 |
 |   10 | Jim Veitch         |  24.2 |       467 |        -0.06 |         -1.15 |
 |   11 | Dan Bohn           |  22.9 |       112 |        +0.11 |         -0.22 |
 |   12 | Dan Meier          |  21.8 |        80 |        -0.20 |         -0.92 |
 |   13 | Jonathan Hankar    |  21.6 |       214 |              |               |
 |   14 | Reid Johnsen       |  21.4 |        53 |        +0.17 |         -0.61 |
-|   15 | Mark Modera        |  20.0 |       335 |              |         -0.89 |
-|   16 | Anthony Abel       |  19.9 |        11 |        +0.37 |               |
+|   15 | Anthony Abel       |  20.1 |        12 |        +0.54 |               |
+|   16 | Mark Modera        |  20.0 |       335 |              |         -0.89 |
 |   17 | Jaime Perez        |  19.3 |        29 |        -0.21 |         +0.02 |
 |   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.17 |         -1.26 |
-|   19 | Ankur Dave         |  18.9 |        92 |        +0.58 |         +4.30 |
+|   19 | Ankur Dave         |  18.9 |        92 |        +0.58 |         +4.31 |
 |   20 | Matthew Bond       |  18.9 |         2 |              |               |
 |   21 | Josh Trauner       |  18.0 |        66 |        -0.17 |         +0.27 |
 |   22 | Sahar Sareminaeni  |  17.3 |        44 |              |         +9.35 |
@@ -45,8 +45,8 @@ Generated 2017-10-16.
 |   41 | Zsolt Bartha       |   4.3 |        68 |        +0.33 |         -0.33 |
 |   42 | Avi Flamholz       |   4.1 |         8 |        +0.46 |               |
 |   43 | Saijoscha Heck     |   2.5 |         2 |              |               |
-|   44 | Duncan MacRae      |   0.6 |        34 |        +0.37 |         +6.18 |
-|   45 | Joanna Majkowski   |   0.2 |         1 |              |               |
+|   44 | Joanna Majkowski   |   0.8 |         2 |              |               |
+|   45 | Duncan MacRae      |   0.6 |        34 |        +0.37 |         +6.18 |
 |   46 | John Hwong         |  -0.7 |         1 |              |               |
 |   47 | Pierre Youssef     |  -2.6 |         1 |              |               |
 |   48 | Ryan van der Harst |  -2.7 |         2 |              |               |
