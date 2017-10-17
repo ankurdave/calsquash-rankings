@@ -28,11 +28,11 @@ Generated 2017-10-17.
 |   24 | Karan Goyal        |  15.5 |        17 |        +0.89 |               |
 |   25 | Craig Hollow       |  14.8 |        32 |              |               |
 |   26 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
-|   27 | Kent Daniels       |  13.2 |       114 |        -0.11 |         -2.13 |
+|   27 | Kent Daniels       |  13.3 |       115 |        -0.05 |         -2.07 |
 |   28 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
-|   29 | Josh Lebowitz      |  12.7 |        62 |        +0.36 |         +3.17 |
+|   29 | Josh Lebowitz      |  12.7 |        62 |        +0.37 |         +3.17 |
 |   30 | Danielle Craig     |  10.7 |         2 |              |               |
-|   31 | Raphael Magarik    |  10.6 |        39 |              |         +1.57 |
+|   31 | Raphael Magarik    |  10.6 |        40 |        -0.05 |         +1.52 |
 |   32 | Caroline Palmer    |  10.4 |         4 |        +1.93 |               |
 |   33 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
 |   34 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |

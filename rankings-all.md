@@ -322,8 +322,8 @@ Generated 2017-10-17.
 |  318 | Alex Rennet               |  13.5 |         2 |              |               |
 |  319 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  320 | Jake Toy                  |  13.4 |         5 |              |               |
-|  321 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  322 | Kent Daniels              |  13.2 |       114 |        -0.11 |         -2.13 |
+|  321 | Kent Daniels              |  13.3 |       115 |        -0.05 |         -2.07 |
+|  322 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  323 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  324 | Meldan Heaslip            |  13.2 |        40 |              |         +8.95 |
 |  325 | Field Maloney             |  13.1 |        24 |              |               |
@@ -331,7 +331,7 @@ Generated 2017-10-17.
 |  327 | Lewis Moore               |  13.0 |        69 |              |               |
 |  328 | David Isaksson            |  12.9 |        22 |              |               |
 |  329 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  330 | Josh Lebowitz             |  12.7 |        62 |        +0.36 |         +3.17 |
+|  330 | Josh Lebowitz             |  12.7 |        62 |        +0.37 |         +3.17 |
 |  331 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  332 | Ashley Brooks             |  12.7 |         2 |              |               |
 |  333 | Josh Shiode               |  12.6 |        20 |              |               |
@@ -359,8 +359,8 @@ Generated 2017-10-17.
 |  355 | Lucas Siow                |  11.0 |        10 |              |               |
 |  356 | Dominick Ng               |  10.9 |        25 |              |               |
 |  357 | Danielle Craig            |  10.7 |         2 |              |               |
-|  358 | Raphael Magarik           |  10.6 |        39 |              |         +1.57 |
-|  359 | George Bentley            |  10.6 |         4 |              |               |
+|  358 | George Bentley            |  10.6 |         4 |              |               |
+|  359 | Raphael Magarik           |  10.6 |        40 |        -0.05 |         +1.52 |
 |  360 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  361 | Brian Puglise             |  10.4 |         2 |              |               |
 |  362 | Caroline Palmer           |  10.4 |         4 |        +1.93 |               |
