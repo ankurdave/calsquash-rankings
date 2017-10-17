@@ -37,10 +37,10 @@ Generated 2017-10-16.
 |   33 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
 |   34 | Rashid Hameed      |  10.0 |         5 |        -0.03 |               |
 |   35 | Manuel Coquet      |   9.1 |         5 |        +7.41 |               |
-|   36 | Duo Wang           |   9.1 |        80 |        -0.17 |         +0.67 |
-|   37 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
-|   38 | Caroline Palmer    |   8.4 |         3 |              |               |
-|   39 | Brian Kempenich    |   8.1 |        55 |        +0.35 |         -0.52 |
+|   36 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
+|   37 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.35 |
+|   38 | Brian Kempenich    |   8.4 |        56 |        +0.67 |         -0.20 |
+|   39 | Caroline Palmer    |   8.4 |         3 |              |               |
 |   40 | Vishesh Dalal      |   6.5 |         2 |              |               |
 |   41 | Zsolt Bartha       |   4.3 |        68 |        +0.33 |         -0.33 |
 |   42 | Avi Flamholz       |   4.1 |         8 |        +0.46 |               |

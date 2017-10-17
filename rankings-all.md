@@ -392,28 +392,28 @@ Generated 2017-10-16.
 |  388 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  389 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  390 | Manuel Coquet             |   9.1 |         5 |        +7.41 |               |
-|  391 | Duo Wang                  |   9.1 |        80 |        -0.17 |         +0.67 |
-|  392 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  393 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  394 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  395 | Terence Stotz             |   8.9 |        15 |        -0.16 |               |
-|  396 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  397 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  391 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  392 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  393 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  394 | Terence Stotz             |   8.9 |        15 |        -0.16 |               |
+|  395 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  396 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  397 | Duo Wang                  |   8.8 |        81 |        -0.48 |         +0.35 |
 |  398 | Therese Jones             |   8.7 |         6 |              |               |
 |  399 | Steven Yee                |   8.7 |         9 |              |               |
 |  400 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  401 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  402 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  403 | Sumit Gupta               |   8.5 |        13 |              |               |
-|  404 | Caroline Palmer           |   8.4 |         3 |              |               |
-|  405 | Reynold Xin               |   8.3 |         5 |              |               |
-|  406 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  407 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  408 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  409 | Phil Hartmeyer            |   8.2 |         3 |              |               |
-|  410 | John Coates               |   8.1 |         9 |              |               |
-|  411 | Vito Sciaraffia           |   8.1 |         5 |              |               |
-|  412 | Brian Kempenich           |   8.1 |        55 |        +0.35 |         -0.52 |
+|  404 | Brian Kempenich           |   8.4 |        56 |        +0.67 |         -0.20 |
+|  405 | Caroline Palmer           |   8.4 |         3 |              |               |
+|  406 | Reynold Xin               |   8.3 |         5 |              |               |
+|  407 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  408 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  409 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  410 | Phil Hartmeyer            |   8.2 |         3 |              |               |
+|  411 | John Coates               |   8.1 |         9 |              |               |
+|  412 | Vito Sciaraffia           |   8.1 |         5 |              |               |
 |  413 | Fabrice Henrion           |   8.1 |         2 |              |               |
 |  414 | Alexander Zuern           |   8.0 |        25 |              |               |
 |  415 | Zarina Khan               |   8.0 |         5 |              |               |
