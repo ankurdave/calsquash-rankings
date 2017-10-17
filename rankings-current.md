@@ -30,18 +30,18 @@ Generated 2017-10-17.
 |   26 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
 |   27 | Kent Daniels       |  13.3 |       115 |        -0.05 |         -2.07 |
 |   28 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
-|   29 | Josh Lebowitz      |  12.7 |        62 |        +0.37 |         +3.17 |
+|   29 | Josh Lebowitz      |  12.9 |        63 |        +0.52 |         +3.33 |
 |   30 | Danielle Craig     |  10.7 |         2 |              |               |
 |   31 | Raphael Magarik    |  10.6 |        40 |        -0.05 |         +1.52 |
 |   32 | Caroline Palmer    |  10.4 |         4 |        +1.93 |               |
 |   33 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
 |   34 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
 |   35 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
-|   36 | Manuel Coquet      |   9.1 |         5 |        +7.41 |               |
-|   37 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
-|   38 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.35 |
-|   39 | Brian Kempenich    |   8.4 |        56 |        +0.67 |         -0.20 |
-|   40 | Vishesh Dalal      |   6.5 |         2 |              |               |
+|   36 | Vishesh Dalal      |   9.3 |         3 |        +2.76 |               |
+|   37 | Manuel Coquet      |   9.1 |         5 |        +7.41 |               |
+|   38 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
+|   39 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.35 |
+|   40 | Brian Kempenich    |   8.4 |        56 |        +0.67 |         -0.20 |
 |   41 | Zsolt Bartha       |   4.3 |        68 |        +0.33 |         -0.33 |
 |   42 | Avi Flamholz       |   4.1 |         8 |        +0.46 |               |
 |   43 | Saijoscha Heck     |   2.5 |         2 |              |               |
