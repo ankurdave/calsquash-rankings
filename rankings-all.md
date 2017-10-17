@@ -16,8 +16,8 @@ Generated 2017-10-16.
 |   12 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
-|   15 | Sam Sternberg             |  31.1 |       164 |        +0.07 |         +0.47 |
-|   16 | Mads Kristensen           |  31.1 |        33 |              |               |
+|   15 | Mads Kristensen           |  31.1 |        33 |              |               |
+|   16 | Sam Sternberg             |  31.1 |       164 |        +0.06 |         +0.45 |
 |   17 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
@@ -27,19 +27,19 @@ Generated 2017-10-16.
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
-|   26 | Justin McCrary            |  29.0 |       140 |              |               |
-|   27 | David Woo                 |  29.0 |         6 |        +0.15 |               |
+|   26 | David Woo                 |  29.0 |         7 |        +0.19 |               |
+|   27 | Justin McCrary            |  29.0 |       140 |              |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   31 | Nick Cobbett              |  28.1 |        49 |              |         +2.45 |
 |   32 | Anibhav Singla            |  27.8 |        32 |        +0.03 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
-|   34 | Stephen Dang              |  27.2 |        34 |              |               |
-|   35 | Samer Shehata             |  27.2 |        29 |              |               |
-|   36 | Frank Kennamer            |  27.0 |       240 |        -0.11 |         -0.43 |
-|   37 | Hussain Raza              |  27.0 |        50 |              |               |
-|   38 | Thomas Littleton          |  27.0 |        16 |              |               |
+|   34 | Thomas Littleton          |  27.3 |        17 |        +0.32 |               |
+|   35 | Stephen Dang              |  27.2 |        34 |              |               |
+|   36 | Samer Shehata             |  27.2 |        29 |              |               |
+|   37 | Frank Kennamer            |  27.0 |       240 |        -0.11 |         -0.43 |
+|   38 | Hussain Raza              |  27.0 |        50 |              |               |
 |   39 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   40 | Alan Jose                 |  26.9 |       182 |              |               |
 |   41 | Michael Best              |  26.9 |        21 |              |               |
