@@ -136,9 +136,9 @@ Generated 2017-10-17.
 |  132 | Omair Azam                |  21.7 |        18 |              |               |
 |  133 | Phin Lee                  |  21.7 |        16 |              |               |
 |  134 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  135 | Jonathan Hankar           |  21.6 |       214 |              |               |
-|  136 | Reid Johnsen              |  21.5 |        54 |        +0.28 |         -0.50 |
-|  137 | Dante Popple              |  21.5 |        17 |              |               |
+|  135 | Jonathan Hankar           |  21.6 |       215 |              |         +0.01 |
+|  136 | Dante Popple              |  21.5 |        17 |              |               |
+|  137 | Reid Johnsen              |  21.5 |        54 |        +0.28 |         -0.50 |
 |  138 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
 |  139 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -177,7 +177,7 @@ Generated 2017-10-17.
 |  173 | Wesley Huang              |  20.0 |         8 |              |               |
 |  174 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  175 | Liam King                 |  19.9 |         6 |              |               |
-|  176 | Mark Modera               |  19.9 |       336 |        -0.10 |         -1.00 |
+|  176 | Mark Modera               |  19.9 |       336 |        -0.10 |         -0.99 |
 |  177 | Lysander Jim              |  19.8 |         6 |              |               |
 |  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
@@ -234,12 +234,12 @@ Generated 2017-10-17.
 |  230 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  231 | Subrato Dey               |  17.5 |        26 |              |               |
 |  232 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  233 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  234 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  235 | Craig Riddell             |  17.4 |         8 |              |               |
-|  236 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  237 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  238 | Sahar Sareminaeni         |  17.3 |        44 |              |         +9.35 |
+|  233 | Sahar Sareminaeni         |  17.4 |        45 |        +0.11 |         +9.46 |
+|  234 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  235 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  236 | Craig Riddell             |  17.4 |         8 |              |               |
+|  237 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  238 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  239 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  240 | Zach Brown                |  17.3 |         3 |              |               |
 |  241 | William Seles             |  17.2 |        15 |              |               |
@@ -466,9 +466,9 @@ Generated 2017-10-17.
 |  462 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  463 | Sagar Pilania             |   2.8 |         2 |              |               |
 |  464 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  465 | David Vogel               |   2.6 |         7 |              |               |
-|  466 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  467 | Saijoscha Heck            |   2.5 |         2 |              |               |
+|  465 | Saijoscha Heck            |   2.6 |         4 |        +0.13 |               |
+|  466 | David Vogel               |   2.6 |         7 |              |               |
+|  467 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  468 | Cristhian Daniel          |   2.3 |        19 |              |         +2.25 |
 |  469 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  470 | Phil Lin                  |   2.1 |         1 |              |               |
