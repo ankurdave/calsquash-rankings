@@ -1,4 +1,4 @@
-Generated 2017-10-17.
+Generated 2017-10-18.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -12,7 +12,7 @@ Generated 2017-10-17.
 |    8 | Matt Wong          |  24.4 |       101 |        -0.18 |         +1.72 |
 |    9 | John Kunze         |  24.4 |       338 |        -0.26 |         -0.36 |
 |   10 | Jim Veitch         |  24.2 |       467 |        -0.06 |         -1.15 |
-|   11 | Dan Bohn           |  22.9 |       112 |        +0.11 |         -0.22 |
+|   11 | Dan Bohn           |  22.9 |       113 |        +0.11 |         -0.22 |
 |   12 | Dan Meier          |  21.8 |        80 |        -0.20 |         -0.92 |
 |   13 | Jonathan Hankar    |  21.6 |       215 |              |         +0.01 |
 |   14 | Reid Johnsen       |  21.5 |        54 |        +0.28 |         -0.50 |
@@ -45,7 +45,7 @@ Generated 2017-10-17.
 |   41 | Zsolt Bartha       |   4.3 |        68 |        +0.33 |         -0.33 |
 |   42 | Avi Flamholz       |   4.1 |         8 |        +0.46 |               |
 |   43 | Saijoscha Heck     |   2.6 |         4 |        +0.13 |               |
-|   44 | Joanna Majkowski   |   0.8 |         2 |              |               |
+|   44 | Joanna Majkowski   |   1.1 |         3 |              |               |
 |   45 | Duncan MacRae      |   0.6 |        34 |        +0.37 |         +6.18 |
 |   46 | John Hwong         |  -0.7 |         1 |              |               |
 |   47 | Pierre Youssef     |  -2.6 |         1 |              |               |

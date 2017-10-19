@@ -1,4 +1,4 @@
-Generated 2017-10-17.
+Generated 2017-10-18.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -106,7 +106,7 @@ Generated 2017-10-17.
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
 |  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Dan Bohn                  |  22.9 |       112 |        +0.11 |         -0.22 |
+|  105 | Dan Bohn                  |  22.9 |       113 |        +0.11 |         -0.22 |
 |  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  108 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -487,9 +487,9 @@ Generated 2017-10-17.
 |  483 | Tom Joseph                |   1.3 |         2 |              |               |
 |  484 | Alexandra Harmon          |   1.3 |         3 |              |               |
 |  485 | Michael Mann              |   1.1 |         4 |              |               |
-|  486 | Marco Eres                |   1.0 |         5 |              |               |
-|  487 | Alex Kaplan               |   0.8 |         8 |              |               |
-|  488 | Joanna Majkowski          |   0.8 |         2 |              |               |
+|  486 | Joanna Majkowski          |   1.1 |         3 |              |               |
+|  487 | Marco Eres                |   1.0 |         5 |              |               |
+|  488 | Alex Kaplan               |   0.8 |         8 |              |               |
 |  489 | Daniel Wissmann           |   0.7 |         2 |              |               |
 |  490 | Alfonso Rojas             |   0.6 |         8 |              |               |
 |  491 | Duncan MacRae             |   0.6 |        34 |        +0.37 |         +6.18 |
