@@ -33,7 +33,7 @@ Generated 2017-10-20.
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   31 | Nick Cobbett              |  28.1 |        49 |              |         +2.45 |
-|   32 | Anibhav Singla            |  27.8 |        32 |        +0.03 |               |
+|   32 | Anibhav Singla            |  27.9 |        33 |        +0.12 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Thomas Littleton          |  27.3 |        17 |        +0.32 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
@@ -77,9 +77,9 @@ Generated 2017-10-20.
 |   73 | Adam Pollak               |  24.5 |        31 |              |               |
 |   74 | Jon Shih                  |  24.4 |        47 |              |               |
 |   75 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   76 | Matt Wong                 |  24.4 |       101 |        -0.18 |         +1.72 |
-|   77 | John Kunze                |  24.4 |       338 |        -0.26 |         -0.36 |
-|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   76 | John Kunze                |  24.4 |       338 |        -0.26 |         -0.36 |
+|   77 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   78 | Matt Wong                 |  24.3 |       101 |        -0.26 |         +1.64 |
 |   79 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   81 | Toby Reiner               |  24.2 |       159 |              |               |
@@ -200,26 +200,26 @@ Generated 2017-10-20.
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  197 | Ankur Dave                |  18.9 |        92 |        +0.58 |         +4.31 |
 |  198 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  199 | Matthew Bond              |  18.9 |         2 |              |               |
-|  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  201 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  202 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  203 | Peter Dering              |  18.7 |         9 |              |               |
-|  204 | Sushant Jain              |  18.7 |        12 |              |               |
-|  205 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  206 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  207 | Allan Sly                 |  18.6 |        29 |              |               |
-|  208 | Jason Facchin             |  18.5 |         3 |              |               |
-|  209 | Dror Matalon              |  18.5 |       379 |              |         -0.52 |
-|  210 | Yan Liu                   |  18.5 |        10 |              |               |
-|  211 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  212 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  213 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  214 | John Eng                  |  18.4 |        28 |              |               |
-|  215 | Natalie Leung             |  18.4 |         1 |              |               |
-|  216 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  217 | Kenny Bell                |  18.2 |       124 |              |         -0.79 |
-|  218 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  201 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  202 | Peter Dering              |  18.7 |         9 |              |               |
+|  203 | Sushant Jain              |  18.7 |        12 |              |               |
+|  204 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  205 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  206 | Allan Sly                 |  18.6 |        29 |              |               |
+|  207 | Jason Facchin             |  18.5 |         3 |              |               |
+|  208 | Dror Matalon              |  18.5 |       379 |              |         -0.52 |
+|  209 | Yan Liu                   |  18.5 |        10 |              |               |
+|  210 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  211 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  212 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  213 | John Eng                  |  18.4 |        28 |              |               |
+|  214 | Natalie Leung             |  18.4 |         1 |              |               |
+|  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
+|  216 | Kenny Bell                |  18.2 |       124 |              |         -0.79 |
+|  217 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  218 | Matthew Bond              |  18.2 |         3 |              |               |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
 |  220 | Josh Trauner              |  18.1 |        67 |        -0.09 |         +0.35 |
 |  221 | Jamie Paterson            |  18.1 |         4 |              |               |

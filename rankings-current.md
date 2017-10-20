@@ -6,11 +6,11 @@ Generated 2017-10-20.
 |    2 | Sam Sternberg      |  31.1 |       164 |        +0.06 |         +0.45 |
 |    3 | David Woo          |  29.0 |         7 |        +0.19 |               |
 |    4 | Nick Cobbett       |  28.1 |        49 |              |         +2.45 |
-|    5 | Anibhav Singla     |  27.8 |        32 |        +0.03 |               |
+|    5 | Anibhav Singla     |  27.9 |        33 |        +0.12 |               |
 |    6 | Thomas Littleton   |  27.3 |        17 |        +0.32 |               |
 |    7 | Frank Kennamer     |  27.0 |       240 |        -0.11 |         -0.43 |
-|    8 | Matt Wong          |  24.4 |       101 |        -0.18 |         +1.72 |
-|    9 | John Kunze         |  24.4 |       338 |        -0.26 |         -0.36 |
+|    8 | John Kunze         |  24.4 |       338 |        -0.26 |         -0.36 |
+|    9 | Matt Wong          |  24.3 |       101 |        -0.26 |         +1.64 |
 |   10 | Jim Veitch         |  24.2 |       467 |        -0.06 |         -1.15 |
 |   11 | Dan Bohn           |  22.9 |       113 |        +0.11 |         -0.22 |
 |   12 | Dan Meier          |  21.8 |        80 |        -0.20 |         -0.92 |
@@ -21,7 +21,7 @@ Generated 2017-10-20.
 |   17 | Jaime Perez        |  19.3 |        29 |        -0.21 |         +0.02 |
 |   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.17 |         -1.26 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.58 |         +4.31 |
-|   20 | Matthew Bond       |  18.9 |         2 |              |               |
+|   20 | Matthew Bond       |  18.2 |         3 |              |               |
 |   21 | Josh Trauner       |  18.1 |        67 |        -0.09 |         +0.35 |
 |   22 | Sahar Sareminaeni  |  17.3 |        45 |        +0.07 |         +9.42 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
