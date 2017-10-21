@@ -1,4 +1,4 @@
-Generated 2017-10-20.
+Generated 2017-10-21.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -26,14 +26,14 @@ Generated 2017-10-20.
 |   22 | Sahar Sareminaeni  |  17.3 |        45 |        +0.07 |         +9.42 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
 |   24 | Karan Goyal        |  15.5 |        17 |        +0.89 |               |
-|   25 | Craig Hollow       |  14.8 |        32 |              |               |
+|   25 | Craig Hollow       |  14.9 |        33 |        +0.17 |               |
 |   26 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
 |   27 | Kent Daniels       |  13.3 |       115 |        -0.05 |         -2.07 |
 |   28 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
 |   29 | Josh Lebowitz      |  12.9 |        63 |        +0.52 |         +3.33 |
 |   30 | Danielle Craig     |  10.7 |         2 |              |               |
 |   31 | Raphael Magarik    |  10.6 |        40 |        -0.05 |         +1.52 |
-|   32 | Caroline Palmer    |  10.4 |         4 |        +1.93 |               |
+|   32 | Caroline Palmer    |  10.4 |         5 |        +1.97 |               |
 |   33 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
 |   34 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
 |   35 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |

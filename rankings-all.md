@@ -1,4 +1,4 @@
-Generated 2017-10-20.
+Generated 2017-10-21.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -288,12 +288,12 @@ Generated 2017-10-20.
 |  284 | Patrick Baylis            |  15.0 |        12 |              |               |
 |  285 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
 |  286 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  287 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  288 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  289 | Sergey Dobrinov           |  14.9 |        26 |              |               |
-|  290 | Paul Norberg              |  14.8 |         8 |              |               |
-|  291 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  292 | Craig Hollow              |  14.8 |        32 |              |               |
+|  287 | Craig Hollow              |  14.9 |        33 |        +0.17 |               |
+|  288 | Jeff Dorman               |  14.9 |        14 |              |               |
+|  289 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  290 | Sergey Dobrinov           |  14.9 |        26 |              |               |
+|  291 | Paul Norberg              |  14.8 |         8 |              |               |
+|  292 | Frederick Bayles          |  14.8 |         8 |              |               |
 |  293 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
 |  294 | David Elfant              |  14.7 |         2 |              |               |
 |  295 | Ansul Rajgha              |  14.7 |        15 |              |               |
@@ -363,7 +363,7 @@ Generated 2017-10-20.
 |  359 | Raphael Magarik           |  10.6 |        40 |        -0.05 |         +1.52 |
 |  360 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  361 | Brian Puglise             |  10.4 |         2 |              |               |
-|  362 | Caroline Palmer           |  10.4 |         4 |        +1.93 |               |
+|  362 | Caroline Palmer           |  10.4 |         5 |        +1.97 |               |
 |  363 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  364 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  365 | John Provine              |  10.2 |        16 |              |               |
