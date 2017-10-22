@@ -74,23 +74,23 @@ Generated 2017-10-22.
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   72 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   73 | Adam Pollak               |  24.5 |        31 |              |               |
-|   74 | Jon Shih                  |  24.4 |        47 |              |               |
-|   75 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   76 | John Kunze                |  24.4 |       338 |        -0.26 |         -0.36 |
-|   77 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   78 | Matt Wong                 |  24.3 |       101 |        -0.26 |         +1.64 |
+|   73 | Jim Veitch                |  24.5 |       468 |        +0.23 |         -0.85 |
+|   74 | Adam Pollak               |  24.5 |        31 |              |               |
+|   75 | Jon Shih                  |  24.4 |        47 |              |               |
+|   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   77 | John Kunze                |  24.4 |       338 |        -0.26 |         -0.36 |
+|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   79 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   81 | Toby Reiner               |  24.2 |       159 |              |               |
 |   82 | Himanshu Jatia            |  24.2 |         4 |              |               |
 |   83 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   84 | Jim Veitch                |  24.2 |       467 |        -0.06 |         -1.15 |
-|   85 | Robert Jeng               |  24.1 |        26 |              |               |
-|   86 | Vyas Sekar                |  24.1 |        17 |              |               |
-|   87 | Benjamin Vicuna           |  24.1 |        50 |              |               |
-|   88 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   89 | Whit Eldredge             |  24.0 |         2 |              |               |
+|   84 | Robert Jeng               |  24.1 |        26 |              |               |
+|   85 | Vyas Sekar                |  24.1 |        17 |              |               |
+|   86 | Benjamin Vicuna           |  24.1 |        50 |              |               |
+|   87 | Ivo Plsek                 |  24.1 |        60 |              |               |
+|   88 | Whit Eldredge             |  24.0 |         2 |              |               |
+|   89 | Matt Wong                 |  24.0 |       102 |        -0.53 |         +1.37 |
 |   90 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   91 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   92 | Christopher Tsang         |  23.9 |        76 |              |               |
@@ -219,9 +219,9 @@ Generated 2017-10-22.
 |  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.79 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  218 | Matthew Bond              |  18.2 |         3 |              |               |
-|  219 | Bob Roller                |  18.2 |         6 |              |               |
-|  220 | Josh Trauner              |  18.1 |        67 |        -0.09 |         +0.35 |
+|  218 | Bob Roller                |  18.2 |         6 |              |               |
+|  219 | Josh Trauner              |  18.1 |        67 |        -0.09 |         +0.35 |
+|  220 | Matthew Bond              |  18.1 |         3 |              |               |
 |  221 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  222 | James Chung               |  17.9 |         7 |              |               |
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
