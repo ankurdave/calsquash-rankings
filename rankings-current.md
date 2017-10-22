@@ -30,14 +30,14 @@ Generated 2017-10-22.
 |   26 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
 |   27 | Kent Daniels       |  13.3 |       115 |        -0.05 |         -2.07 |
 |   28 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
-|   29 | Josh Lebowitz      |  12.9 |        63 |        +0.52 |         +3.33 |
-|   30 | Raphael Magarik    |  10.9 |        41 |        +0.24 |         +1.81 |
+|   29 | Josh Lebowitz      |  13.1 |        64 |        +0.73 |         +3.54 |
+|   30 | Raphael Magarik    |  10.7 |        41 |        +0.12 |         +1.69 |
 |   31 | Danielle Craig     |  10.7 |         2 |              |               |
 |   32 | Caroline Palmer    |  10.4 |         5 |        +1.97 |               |
 |   33 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
 |   34 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
 |   35 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
-|   36 | Vishesh Dalal      |   9.3 |         3 |        +2.76 |               |
+|   36 | Vishesh Dalal      |   9.4 |         3 |        +2.91 |               |
 |   37 | Manuel Coquet      |   9.1 |         5 |        +7.41 |               |
 |   38 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
 |   39 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.35 |
@@ -48,8 +48,8 @@ Generated 2017-10-22.
 |   44 | Joanna Majkowski   |   1.1 |         3 |              |               |
 |   45 | Duncan MacRae      |   0.6 |        34 |        +0.37 |         +6.18 |
 |   46 | John Hwong         |  -0.7 |         1 |              |               |
-|   47 | Pierre Youssef     |  -2.6 |         1 |              |               |
+|   47 | Pierre Youssef     |  -2.5 |         1 |              |               |
 |   48 | Ryan van der Harst |  -2.7 |         2 |              |               |
-|   49 | Cori Land          |  -3.5 |         1 |              |               |
+|   49 | Cori Land          |  -2.9 |         2 |              |               |
 |   50 | Oly Rillera        |  -7.6 |         1 |              |               |
 |   51 | Navarun Jain       | -12.3 |         5 |              |               |

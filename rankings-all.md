@@ -327,10 +327,10 @@ Generated 2017-10-22.
 |  323 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  324 | Meldan Heaslip            |  13.2 |        40 |              |         +8.95 |
 |  325 | Field Maloney             |  13.1 |        24 |              |               |
-|  326 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  327 | Lewis Moore               |  13.0 |        69 |              |               |
-|  328 | David Isaksson            |  12.9 |        22 |              |               |
-|  329 | Josh Lebowitz             |  12.9 |        63 |        +0.52 |         +3.33 |
+|  326 | Josh Lebowitz             |  13.1 |        64 |        +0.73 |         +3.54 |
+|  327 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  328 | Lewis Moore               |  13.0 |        69 |              |               |
+|  329 | David Isaksson            |  12.9 |        22 |              |               |
 |  330 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  331 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  332 | Ashley Brooks             |  12.7 |         2 |              |               |
@@ -358,7 +358,7 @@ Generated 2017-10-22.
 |  354 | Karan Jain                |  11.3 |        19 |              |               |
 |  355 | Lucas Siow                |  11.0 |        10 |              |               |
 |  356 | Dominick Ng               |  10.9 |        25 |              |               |
-|  357 | Raphael Magarik           |  10.9 |        41 |        +0.24 |         +1.81 |
+|  357 | Raphael Magarik           |  10.7 |        41 |        +0.12 |         +1.69 |
 |  358 | Danielle Craig            |  10.7 |         2 |              |               |
 |  359 | George Bentley            |  10.6 |         4 |              |               |
 |  360 | Sudeep Agarwal            |  10.5 |         3 |              |               |
@@ -382,15 +382,15 @@ Generated 2017-10-22.
 |  378 | Jacob Bank                |   9.7 |         1 |              |               |
 |  379 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  380 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  381 | Mark Shapero              |   9.4 |         7 |              |               |
-|  382 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  383 | Max Grass                 |   9.4 |         1 |              |               |
-|  384 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  385 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  386 | Robert Broesler           |   9.4 |         4 |              |               |
-|  387 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  388 | Greg Sperla               |   9.3 |         8 |              |               |
-|  389 | Vishesh Dalal             |   9.3 |         3 |        +2.76 |               |
+|  381 | Vishesh Dalal             |   9.4 |         3 |        +2.91 |               |
+|  382 | Mark Shapero              |   9.4 |         7 |              |               |
+|  383 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  384 | Max Grass                 |   9.4 |         1 |              |               |
+|  385 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  386 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  387 | Robert Broesler           |   9.4 |         4 |              |               |
+|  388 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  389 | Greg Sperla               |   9.3 |         8 |              |               |
 |  390 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  391 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  392 | Manuel Coquet             |   9.1 |         5 |        +7.41 |               |
@@ -522,15 +522,15 @@ Generated 2017-10-22.
 |  518 | Nick Firmani              |  -1.6 |         3 |              |               |
 |  519 | Ann Connolly              |  -1.9 |         4 |              |               |
 |  520 | Judah Purcell             |  -2.2 |         1 |              |               |
-|  521 | Pierre Youssef            |  -2.6 |         1 |              |               |
+|  521 | Pierre Youssef            |  -2.5 |         1 |              |               |
 |  522 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
 |  523 | Ryan van der Harst        |  -2.7 |         2 |              |               |
 |  524 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
 |  525 | James Redfield            |  -2.9 |         3 |              |               |
-|  526 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  527 | Vipul Gupta               |  -3.3 |         3 |              |               |
-|  528 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  529 | Cori Land                 |  -3.5 |         1 |              |               |
+|  526 | Cori Land                 |  -2.9 |         2 |              |               |
+|  527 | Jenny Cheng               |  -3.2 |         1 |              |               |
+|  528 | Vipul Gupta               |  -3.3 |         3 |              |               |
+|  529 | Padma Maitland            |  -3.5 |         4 |              |               |
 |  530 | Tin Do                    |  -4.0 |         1 |              |               |
 |  531 | Yifan Wu                  |  -4.0 |         7 |              |               |
 |  532 | Susan Grand               |  -4.3 |         3 |              |               |
