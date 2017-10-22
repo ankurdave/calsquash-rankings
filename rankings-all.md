@@ -1,4 +1,4 @@
-Generated 2017-10-21.
+Generated 2017-10-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -358,9 +358,9 @@ Generated 2017-10-21.
 |  354 | Karan Jain                |  11.3 |        19 |              |               |
 |  355 | Lucas Siow                |  11.0 |        10 |              |               |
 |  356 | Dominick Ng               |  10.9 |        25 |              |               |
-|  357 | Danielle Craig            |  10.7 |         2 |              |               |
-|  358 | George Bentley            |  10.6 |         4 |              |               |
-|  359 | Raphael Magarik           |  10.6 |        40 |        -0.05 |         +1.52 |
+|  357 | Raphael Magarik           |  10.9 |        41 |        +0.24 |         +1.81 |
+|  358 | Danielle Craig            |  10.7 |         2 |              |               |
+|  359 | George Bentley            |  10.6 |         4 |              |               |
 |  360 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  361 | Brian Puglise             |  10.4 |         2 |              |               |
 |  362 | Caroline Palmer           |  10.4 |         5 |        +1.97 |               |
@@ -530,13 +530,14 @@ Generated 2017-10-21.
 |  526 | Jenny Cheng               |  -3.2 |         1 |              |               |
 |  527 | Vipul Gupta               |  -3.3 |         3 |              |               |
 |  528 | Padma Maitland            |  -3.5 |         4 |              |               |
-|  529 | Tin Do                    |  -4.0 |         1 |              |               |
-|  530 | Yifan Wu                  |  -4.0 |         7 |              |               |
-|  531 | Susan Grand               |  -4.3 |         3 |              |               |
-|  532 | Cecilia Shan Cao          |  -5.1 |         2 |              |               |
-|  533 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
-|  534 | Sara Green                |  -5.8 |         1 |              |               |
-|  535 | Stephanie Collett         |  -5.8 |         2 |              |               |
-|  536 | Oly Rillera               |  -7.6 |         1 |              |               |
-|  537 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
-|  538 | Navarun Jain              | -12.3 |         5 |              |               |
+|  529 | Cori Land                 |  -3.5 |         1 |              |               |
+|  530 | Tin Do                    |  -4.0 |         1 |              |               |
+|  531 | Yifan Wu                  |  -4.0 |         7 |              |               |
+|  532 | Susan Grand               |  -4.3 |         3 |              |               |
+|  533 | Cecilia Shan Cao          |  -5.1 |         2 |              |               |
+|  534 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
+|  535 | Sara Green                |  -5.8 |         1 |              |               |
+|  536 | Stephanie Collett         |  -5.8 |         2 |              |               |
+|  537 | Oly Rillera               |  -7.6 |         1 |              |               |
+|  538 | Emmanual Tsukerman        |  -8.9 |         3 |              |               |
+|  539 | Navarun Jain              | -12.3 |         5 |              |               |

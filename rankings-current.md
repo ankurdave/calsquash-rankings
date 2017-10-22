@@ -1,4 +1,4 @@
-Generated 2017-10-21.
+Generated 2017-10-22.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -31,8 +31,8 @@ Generated 2017-10-21.
 |   27 | Kent Daniels       |  13.3 |       115 |        -0.05 |         -2.07 |
 |   28 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
 |   29 | Josh Lebowitz      |  12.9 |        63 |        +0.52 |         +3.33 |
-|   30 | Danielle Craig     |  10.7 |         2 |              |               |
-|   31 | Raphael Magarik    |  10.6 |        40 |        -0.05 |         +1.52 |
+|   30 | Raphael Magarik    |  10.9 |        41 |        +0.24 |         +1.81 |
+|   31 | Danielle Craig     |  10.7 |         2 |              |               |
 |   32 | Caroline Palmer    |  10.4 |         5 |        +1.97 |               |
 |   33 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
 |   34 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
@@ -50,5 +50,6 @@ Generated 2017-10-21.
 |   46 | John Hwong         |  -0.7 |         1 |              |               |
 |   47 | Pierre Youssef     |  -2.6 |         1 |              |               |
 |   48 | Ryan van der Harst |  -2.7 |         2 |              |               |
-|   49 | Oly Rillera        |  -7.6 |         1 |              |               |
-|   50 | Navarun Jain       | -12.3 |         5 |              |               |
+|   49 | Cori Land          |  -3.5 |         1 |              |               |
+|   50 | Oly Rillera        |  -7.6 |         1 |              |               |
+|   51 | Navarun Jain       | -12.3 |         5 |              |               |
