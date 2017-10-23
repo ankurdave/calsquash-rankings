@@ -136,11 +136,11 @@ Generated 2017-10-22.
 |  132 | Omair Azam                |  21.7 |        18 |              |               |
 |  133 | Phin Lee                  |  21.7 |        16 |              |               |
 |  134 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  135 | Jonathan Hankar           |  21.6 |       215 |              |               |
-|  136 | Reid Johnsen              |  21.5 |        54 |        +0.28 |         -0.50 |
-|  137 | Dante Popple              |  21.5 |        17 |              |               |
-|  138 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
-|  139 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  135 | Reid Johnsen              |  21.5 |        54 |        +0.28 |         -0.50 |
+|  136 | Dante Popple              |  21.5 |        17 |              |               |
+|  137 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
+|  138 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  139 | Jonathan Hankar           |  21.3 |       216 |        -0.33 |         -0.32 |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  141 | Adam Jacob                |  21.3 |         3 |              |               |
 |  142 | Vishal Jain               |  21.3 |         6 |              |               |
@@ -166,18 +166,18 @@ Generated 2017-10-22.
 |  162 | Marc Schechter            |  20.4 |        14 |              |               |
 |  163 | Jeff Gordon               |  20.3 |        46 |              |         +0.36 |
 |  164 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  165 | John Grim                 |  20.1 |        13 |              |               |
-|  166 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  167 | Frank Kennan              |  20.1 |        11 |              |               |
-|  168 | Robert Schwartz           |  20.1 |        90 |              |         -0.64 |
-|  169 | Anthony Abel              |  20.1 |        12 |        +0.54 |               |
-|  170 | Shaun Lim                 |  20.0 |        64 |              |         +1.83 |
-|  171 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  172 | Jonathan Francis          |  20.0 |        76 |              |         +0.48 |
-|  173 | Wesley Huang              |  20.0 |         8 |              |               |
-|  174 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  175 | Liam King                 |  19.9 |         6 |              |               |
-|  176 | Mark Modera               |  19.9 |       336 |        -0.10 |         -0.99 |
+|  165 | Mark Modera               |  20.2 |       337 |        +0.23 |         -0.67 |
+|  166 | John Grim                 |  20.1 |        13 |              |               |
+|  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  168 | Frank Kennan              |  20.1 |        11 |              |               |
+|  169 | Robert Schwartz           |  20.1 |        90 |              |         -0.64 |
+|  170 | Anthony Abel              |  20.1 |        12 |        +0.54 |               |
+|  171 | Shaun Lim                 |  20.0 |        64 |              |         +1.83 |
+|  172 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  173 | Jonathan Francis          |  20.0 |        76 |              |         +0.48 |
+|  174 | Wesley Huang              |  20.0 |         8 |              |               |
+|  175 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  176 | Liam King                 |  19.9 |         6 |              |               |
 |  177 | Lysander Jim              |  19.8 |         6 |              |               |
 |  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
