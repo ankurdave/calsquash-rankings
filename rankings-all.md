@@ -128,7 +128,7 @@ Generated 2017-10-23.
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Dan Meier                 |  21.8 |        80 |        -0.20 |         -0.92 |
+|  127 | Dan Meier                 |  21.9 |        81 |        -0.11 |         -0.83 |
 |  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -171,7 +171,7 @@ Generated 2017-10-23.
 |  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  168 | Frank Kennan              |  20.1 |        11 |              |               |
 |  169 | Robert Schwartz           |  20.1 |        90 |              |         -0.64 |
-|  170 | Anthony Abel              |  20.1 |        12 |        +0.54 |               |
+|  170 | Anthony Abel              |  20.0 |        12 |        +0.50 |               |
 |  171 | Shaun Lim                 |  20.0 |        64 |              |         +1.83 |
 |  172 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  173 | Jonathan Francis          |  20.0 |        76 |              |         +0.48 |
@@ -198,8 +198,8 @@ Generated 2017-10-23.
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  195 | Yating Liu                |  19.0 |         7 |              |               |
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
-|  197 | Ankur Dave                |  18.9 |        92 |        +0.58 |         +4.31 |
-|  198 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  197 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  198 | Ankur Dave                |  18.9 |        92 |        +0.54 |         +4.26 |
 |  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  201 | Arbi Vartan               |  18.7 |        20 |              |               |
@@ -474,21 +474,21 @@ Generated 2017-10-23.
 |  470 | Julia Selezneva           |   2.2 |         5 |              |               |
 |  471 | Phil Lin                  |   2.1 |         1 |              |               |
 |  472 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  473 | Adeesh Goel               |   1.9 |         3 |              |               |
-|  474 | Heather Dunbar            |   1.8 |         1 |              |               |
-|  475 | Himanshu Chandra          |   1.8 |         4 |              |               |
-|  476 | David Gundry              |   1.7 |         3 |              |               |
-|  477 | Shantanu Mittal           |   1.6 |         3 |              |               |
-|  478 | Vin Marshall              |   1.5 |        11 |              |               |
-|  479 | Matthew Mak               |   1.5 |         1 |              |               |
-|  480 | Matan Sela                |   1.5 |         1 |              |               |
-|  481 | Jonathan Vogel            |   1.3 |         7 |              |               |
-|  482 | Hobson Brown              |   1.3 |         1 |              |               |
-|  483 | Milind Sanghavi           |   1.3 |         1 |              |               |
-|  484 | Tom Joseph                |   1.3 |         2 |              |               |
-|  485 | Alexandra Harmon          |   1.3 |         3 |              |               |
-|  486 | Michael Mann              |   1.1 |         4 |              |               |
-|  487 | Joanna Majkowski          |   1.1 |         3 |              |               |
+|  473 | Joanna Majkowski          |   2.1 |         4 |              |               |
+|  474 | Adeesh Goel               |   1.9 |         3 |              |               |
+|  475 | Heather Dunbar            |   1.8 |         1 |              |               |
+|  476 | Himanshu Chandra          |   1.8 |         4 |              |               |
+|  477 | David Gundry              |   1.7 |         3 |              |               |
+|  478 | Shantanu Mittal           |   1.6 |         3 |              |               |
+|  479 | Vin Marshall              |   1.5 |        11 |              |               |
+|  480 | Matthew Mak               |   1.5 |         1 |              |               |
+|  481 | Matan Sela                |   1.5 |         1 |              |               |
+|  482 | Jonathan Vogel            |   1.3 |         7 |              |               |
+|  483 | Hobson Brown              |   1.3 |         1 |              |               |
+|  484 | Milind Sanghavi           |   1.3 |         1 |              |               |
+|  485 | Tom Joseph                |   1.3 |         2 |              |               |
+|  486 | Alexandra Harmon          |   1.3 |         3 |              |               |
+|  487 | Michael Mann              |   1.1 |         4 |              |               |
 |  488 | Marco Eres                |   1.0 |         5 |              |               |
 |  489 | Duncan MacRae             |   0.8 |        34 |        +0.56 |         +6.37 |
 |  490 | Alex Kaplan               |   0.8 |         8 |              |               |

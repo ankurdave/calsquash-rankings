@@ -13,14 +13,14 @@ Generated 2017-10-23.
 |    9 | John Kunze         |  24.4 |       338 |        -0.26 |         -0.36 |
 |   10 | Matt Wong          |  24.0 |       102 |        -0.53 |         +1.37 |
 |   11 | Dan Bohn           |  22.9 |       113 |        +0.11 |         -0.22 |
-|   12 | Dan Meier          |  21.8 |        80 |        -0.20 |         -0.92 |
+|   12 | Dan Meier          |  21.9 |        81 |        -0.11 |         -0.83 |
 |   13 | Reid Johnsen       |  21.5 |        54 |        +0.28 |         -0.50 |
 |   14 | Jonathan Hankar    |  21.3 |       216 |        -0.33 |         -0.32 |
 |   15 | Mark Modera        |  20.2 |       337 |        +0.23 |         -0.67 |
-|   16 | Anthony Abel       |  20.1 |        12 |        +0.54 |               |
+|   16 | Anthony Abel       |  20.0 |        12 |        +0.50 |               |
 |   17 | Jaime Perez        |  19.3 |        29 |        -0.21 |         +0.02 |
 |   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.17 |         -1.26 |
-|   19 | Ankur Dave         |  18.9 |        92 |        +0.58 |         +4.31 |
+|   19 | Ankur Dave         |  18.9 |        92 |        +0.54 |         +4.26 |
 |   20 | Josh Trauner       |  18.1 |        67 |        -0.09 |         +0.35 |
 |   21 | Matthew Bond       |  18.1 |         3 |              |               |
 |   22 | Sahar Sareminaeni  |  17.3 |        45 |        +0.07 |         +9.42 |
@@ -46,7 +46,7 @@ Generated 2017-10-23.
 |   42 | Zsolt Bartha       |   4.3 |        68 |        +0.37 |         -0.29 |
 |   43 | Avi Flamholz       |   4.1 |         8 |        +0.46 |               |
 |   44 | Saijoscha Heck     |   2.6 |         5 |        +0.17 |               |
-|   45 | Joanna Majkowski   |   1.1 |         3 |              |               |
+|   45 | Joanna Majkowski   |   2.1 |         4 |              |               |
 |   46 | Duncan MacRae      |   0.8 |        34 |        +0.56 |         +6.37 |
 |   47 | John Hwong         |  -0.7 |         1 |              |               |
 |   48 | Pierre Youssef     |  -2.5 |         1 |              |               |
