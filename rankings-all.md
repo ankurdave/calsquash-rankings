@@ -192,7 +192,7 @@ Generated 2017-10-23.
 |  188 | Greg Adams                |  19.3 |        10 |              |               |
 |  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  190 | John Corcoran             |  19.1 |        49 |              |               |
-|  191 | Mike Jensen-Akula         |  19.1 |       237 |        -0.17 |         -1.26 |
+|  191 | Mike Jensen-Akula         |  19.1 |       237 |        -0.16 |         -1.25 |
 |  192 | Kedar Shah                |  19.1 |         9 |              |               |
 |  193 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -268,15 +268,15 @@ Generated 2017-10-23.
 |  264 | Jan Strasky               |  16.2 |        12 |              |               |
 |  265 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  266 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  267 | Terry Chang               |  15.8 |        48 |              |         -0.24 |
-|  268 | Louis Russell             |  15.8 |        20 |              |               |
-|  269 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  270 | Jared Nunn                |  15.7 |         5 |              |               |
-|  271 | Akash Sharma              |  15.7 |         8 |              |               |
-|  272 | Angie Ng                  |  15.7 |        12 |              |               |
-|  273 | Tanit Follett             |  15.5 |         8 |              |               |
-|  274 | Toni Queck                |  15.5 |        20 |              |               |
-|  275 | Karan Goyal               |  15.5 |        17 |        +0.89 |               |
+|  267 | Karan Goyal               |  15.9 |        18 |        +1.26 |               |
+|  268 | Terry Chang               |  15.8 |        48 |              |         -0.24 |
+|  269 | Louis Russell             |  15.8 |        20 |              |               |
+|  270 | Rich Shapiro              |  15.8 |        82 |              |               |
+|  271 | Jared Nunn                |  15.7 |         5 |              |               |
+|  272 | Akash Sharma              |  15.7 |         8 |              |               |
+|  273 | Angie Ng                  |  15.7 |        12 |              |               |
+|  274 | Tanit Follett             |  15.5 |         8 |              |               |
+|  275 | Toni Queck                |  15.5 |        20 |              |               |
 |  276 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  277 | Peter Duerr               |  15.4 |        24 |              |               |
 |  278 | Kevin Fox                 |  15.3 |         7 |              |               |
@@ -325,10 +325,10 @@ Generated 2017-10-23.
 |  321 | Kent Daniels              |  13.3 |       115 |        -0.05 |         -2.07 |
 |  322 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  323 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  324 | Meldan Heaslip            |  13.2 |        40 |              |         +8.95 |
-|  325 | Field Maloney             |  13.1 |        24 |              |               |
-|  326 | Josh Lebowitz             |  13.1 |        64 |        +0.73 |         +3.54 |
-|  327 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  324 | Field Maloney             |  13.1 |        24 |              |               |
+|  325 | Josh Lebowitz             |  13.1 |        64 |        +0.73 |         +3.54 |
+|  326 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  327 | Meldan Heaslip            |  13.0 |        41 |        -0.19 |         +8.76 |
 |  328 | Lewis Moore               |  13.0 |        69 |              |               |
 |  329 | David Isaksson            |  12.9 |        22 |              |               |
 |  330 | Suluck Chaturabul         |  12.7 |         2 |              |               |

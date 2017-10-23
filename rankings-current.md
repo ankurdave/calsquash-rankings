@@ -19,18 +19,18 @@ Generated 2017-10-23.
 |   15 | Mark Modera        |  20.2 |       337 |        +0.23 |         -0.67 |
 |   16 | Anthony Abel       |  20.0 |        12 |        +0.50 |               |
 |   17 | Jaime Perez        |  19.3 |        29 |        -0.21 |         +0.02 |
-|   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.17 |         -1.26 |
+|   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.16 |         -1.25 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.54 |         +4.26 |
 |   20 | Josh Trauner       |  18.1 |        67 |        -0.09 |         +0.35 |
 |   21 | Matthew Bond       |  18.1 |         3 |              |               |
 |   22 | Sahar Sareminaeni  |  17.3 |        45 |        +0.07 |         +9.42 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
-|   24 | Karan Goyal        |  15.5 |        17 |        +0.89 |               |
+|   24 | Karan Goyal        |  15.9 |        18 |        +1.26 |               |
 |   25 | Craig Hollow       |  14.9 |        33 |        +0.17 |               |
 |   26 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
 |   27 | Kent Daniels       |  13.3 |       115 |        -0.05 |         -2.07 |
-|   28 | Meldan Heaslip     |  13.2 |        40 |              |         +8.95 |
-|   29 | Josh Lebowitz      |  13.1 |        64 |        +0.73 |         +3.54 |
+|   28 | Josh Lebowitz      |  13.1 |        64 |        +0.73 |         +3.54 |
+|   29 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
 |   30 | Raphael Magarik    |  10.7 |        41 |        +0.12 |         +1.69 |
 |   31 | Danielle Craig     |  10.7 |         2 |              |               |
 |   32 | Caroline Palmer    |  10.4 |         5 |        +1.97 |               |
