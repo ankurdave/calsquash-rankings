@@ -1,4 +1,4 @@
-Generated 2017-10-22.
+Generated 2017-10-23.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -42,14 +42,14 @@ Generated 2017-10-22.
 |   38 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
 |   39 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.35 |
 |   40 | Brian Kempenich    |   8.4 |        56 |        +0.67 |         -0.20 |
-|   41 | Zsolt Bartha       |   4.3 |        68 |        +0.33 |         -0.33 |
-|   42 | Avi Flamholz       |   4.1 |         8 |        +0.46 |               |
-|   43 | Saijoscha Heck     |   2.6 |         5 |        +0.17 |               |
-|   44 | Joanna Majkowski   |   1.1 |         3 |              |               |
-|   45 | Duncan MacRae      |   0.6 |        34 |        +0.37 |         +6.18 |
-|   46 | John Hwong         |  -0.7 |         1 |              |               |
-|   47 | Pierre Youssef     |  -2.5 |         1 |              |               |
-|   48 | Ryan van der Harst |  -2.7 |         2 |              |               |
+|   41 | Ryan van der Harst |   5.0 |         4 |              |               |
+|   42 | Zsolt Bartha       |   4.3 |        68 |        +0.37 |         -0.29 |
+|   43 | Avi Flamholz       |   4.1 |         8 |        +0.46 |               |
+|   44 | Saijoscha Heck     |   2.6 |         5 |        +0.17 |               |
+|   45 | Joanna Majkowski   |   1.1 |         3 |              |               |
+|   46 | Duncan MacRae      |   0.8 |        34 |        +0.56 |         +6.37 |
+|   47 | John Hwong         |  -0.7 |         1 |              |               |
+|   48 | Pierre Youssef     |  -2.5 |         1 |              |               |
 |   49 | Cori Land          |  -2.9 |         2 |              |               |
-|   50 | Oly Rillera        |  -7.6 |         1 |              |               |
-|   51 | Navarun Jain       | -12.3 |         5 |              |               |
+|   50 | Oly Rillera        |  -5.0 |         2 |              |               |
+|   51 | Navarun Jain       | -12.3 |         6 |        -0.01 |               |
