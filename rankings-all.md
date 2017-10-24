@@ -78,7 +78,7 @@ Generated 2017-10-24.
 |   74 | Adam Pollak               |  24.5 |        31 |              |               |
 |   75 | Jon Shih                  |  24.4 |        47 |              |               |
 |   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   77 | John Kunze                |  24.4 |       338 |        -0.26 |         -0.36 |
+|   77 | John Kunze                |  24.3 |       339 |        -0.27 |         -0.37 |
 |   78 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   79 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -128,7 +128,7 @@ Generated 2017-10-24.
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Dan Meier                 |  21.9 |        81 |        -0.11 |         -0.83 |
+|  127 | Dan Meier                 |  21.9 |        81 |        -0.11 |         -0.82 |
 |  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -171,11 +171,11 @@ Generated 2017-10-24.
 |  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  168 | Frank Kennan              |  20.1 |        11 |              |               |
 |  169 | Robert Schwartz           |  20.1 |        90 |              |         -0.64 |
-|  170 | Anthony Abel              |  20.0 |        12 |        +0.50 |               |
-|  171 | Shaun Lim                 |  20.0 |        64 |              |         +1.83 |
-|  172 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  173 | Jonathan Francis          |  20.0 |        76 |              |         +0.48 |
-|  174 | Wesley Huang              |  20.0 |         8 |              |               |
+|  170 | Shaun Lim                 |  20.0 |        64 |              |         +1.83 |
+|  171 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  172 | Jonathan Francis          |  20.0 |        76 |              |         +0.48 |
+|  173 | Wesley Huang              |  20.0 |         8 |              |               |
+|  174 | Anthony Abel              |  20.0 |        12 |        +0.45 |               |
 |  175 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  176 | Liam King                 |  19.9 |         6 |              |               |
 |  177 | Lysander Jim              |  19.8 |         6 |              |               |
@@ -199,7 +199,7 @@ Generated 2017-10-24.
 |  195 | Yating Liu                |  19.0 |         7 |              |               |
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  197 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  198 | Ankur Dave                |  18.9 |        92 |        +0.54 |         +4.26 |
+|  198 | Ankur Dave                |  18.9 |        92 |        +0.55 |         +4.27 |
 |  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  201 | Arbi Vartan               |  18.7 |        20 |              |               |
@@ -467,14 +467,14 @@ Generated 2017-10-24.
 |  463 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  464 | Sagar Pilania             |   2.8 |         2 |              |               |
 |  465 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  466 | Saijoscha Heck            |   2.6 |         5 |        +0.17 |               |
-|  467 | David Vogel               |   2.6 |         7 |              |               |
-|  468 | Xavier Vendrell           |   2.5 |         3 |              |               |
-|  469 | Cristhian Daniel          |   2.3 |        19 |              |         +2.25 |
-|  470 | Julia Selezneva           |   2.2 |         5 |              |               |
-|  471 | Phil Lin                  |   2.1 |         1 |              |               |
-|  472 | Alexis Madrigal           |   2.1 |         2 |              |               |
-|  473 | Joanna Majkowski          |   2.1 |         4 |              |               |
+|  466 | Joanna Majkowski          |   2.6 |         5 |              |               |
+|  467 | Saijoscha Heck            |   2.6 |         5 |        +0.17 |               |
+|  468 | David Vogel               |   2.6 |         7 |              |               |
+|  469 | Xavier Vendrell           |   2.5 |         3 |              |               |
+|  470 | Cristhian Daniel          |   2.3 |        19 |              |         +2.25 |
+|  471 | Julia Selezneva           |   2.2 |         5 |              |               |
+|  472 | Phil Lin                  |   2.1 |         1 |              |               |
+|  473 | Alexis Madrigal           |   2.1 |         2 |              |               |
 |  474 | Adeesh Goel               |   1.9 |         3 |              |               |
 |  475 | Heather Dunbar            |   1.8 |         1 |              |               |
 |  476 | Himanshu Chandra          |   1.8 |         4 |              |               |
