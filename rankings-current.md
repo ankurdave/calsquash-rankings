@@ -1,4 +1,4 @@
-Generated 2017-10-23.
+Generated 2017-10-24.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -31,14 +31,14 @@ Generated 2017-10-23.
 |   27 | Kent Daniels       |  13.4 |       116 |        +0.03 |         -1.99 |
 |   28 | Josh Lebowitz      |  13.1 |        64 |        +0.73 |         +3.54 |
 |   29 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
-|   30 | Raphael Magarik    |  10.7 |        41 |        +0.08 |         +1.65 |
+|   30 | Raphael Magarik    |  10.9 |        42 |        +0.29 |         +1.86 |
 |   31 | Danielle Craig     |  10.7 |         2 |              |               |
 |   32 | Caroline Palmer    |  10.4 |         5 |        +1.97 |               |
 |   33 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
 |   34 | Nate Aden          |  10.1 |        41 |        +0.10 |         +0.74 |
-|   35 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
-|   36 | Manuel Coquet      |   9.7 |         6 |        +8.00 |               |
-|   37 | Vishesh Dalal      |   9.0 |         3 |        +2.51 |               |
+|   35 | Vishesh Dalal      |   9.8 |         4 |        +3.25 |               |
+|   36 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
+|   37 | Manuel Coquet      |   9.7 |         6 |        +8.00 |               |
 |   38 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
 |   39 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.36 |
 |   40 | Brian Kempenich    |   8.5 |        57 |        +0.74 |         -0.13 |

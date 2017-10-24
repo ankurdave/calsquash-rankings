@@ -1,4 +1,4 @@
-Generated 2017-10-23.
+Generated 2017-10-24.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -357,8 +357,8 @@ Generated 2017-10-23.
 |  353 | Carlos Filho              |  11.4 |         7 |              |               |
 |  354 | Karan Jain                |  11.3 |        19 |              |               |
 |  355 | Lucas Siow                |  11.0 |        10 |              |               |
-|  356 | Dominick Ng               |  10.9 |        25 |              |               |
-|  357 | Raphael Magarik           |  10.7 |        41 |        +0.08 |         +1.65 |
+|  356 | Raphael Magarik           |  10.9 |        42 |        +0.29 |         +1.86 |
+|  357 | Dominick Ng               |  10.9 |        25 |              |               |
 |  358 | Danielle Craig            |  10.7 |         2 |              |               |
 |  359 | George Bentley            |  10.6 |         4 |              |               |
 |  360 | Sudeep Agarwal            |  10.5 |         3 |              |               |
@@ -378,23 +378,23 @@ Generated 2017-10-23.
 |  374 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  375 | Daniel Schwartz           |   9.8 |        22 |              |         -0.27 |
 |  376 | Myles Gordon              |   9.8 |        42 |              |               |
-|  377 | Rashid Hameed             |   9.8 |         5 |        -0.29 |               |
-|  378 | Manuel Coquet             |   9.7 |         6 |        +8.00 |               |
-|  379 | Jacob Bank                |   9.7 |         1 |              |               |
-|  380 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  381 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  382 | Mark Shapero              |   9.4 |         7 |              |               |
-|  383 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  384 | Max Grass                 |   9.4 |         1 |              |               |
-|  385 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  386 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  387 | Robert Broesler           |   9.4 |         4 |              |               |
-|  388 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  389 | Greg Sperla               |   9.3 |         8 |              |               |
-|  390 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  391 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  392 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  393 | Vishesh Dalal             |   9.0 |         3 |        +2.51 |               |
+|  377 | Vishesh Dalal             |   9.8 |         4 |        +3.25 |               |
+|  378 | Rashid Hameed             |   9.8 |         5 |        -0.29 |               |
+|  379 | Manuel Coquet             |   9.7 |         6 |        +8.00 |               |
+|  380 | Jacob Bank                |   9.7 |         1 |              |               |
+|  381 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  382 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  383 | Mark Shapero              |   9.4 |         7 |              |               |
+|  384 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  385 | Max Grass                 |   9.4 |         1 |              |               |
+|  386 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  387 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  388 | Robert Broesler           |   9.4 |         4 |              |               |
+|  389 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  390 | Greg Sperla               |   9.3 |         8 |              |               |
+|  391 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  392 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  393 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  394 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  395 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  396 | Terence Stotz             |   8.9 |        15 |        -0.16 |               |
