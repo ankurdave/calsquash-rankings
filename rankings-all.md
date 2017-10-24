@@ -7,8 +7,8 @@ Generated 2017-10-23.
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
 |    5 | Eric Katerman             |  33.5 |        64 |              |         +1.98 |
-|    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Ashley Kayler             |  33.3 |       229 |        +0.10 |         -1.79 |
+|    6 | Ashley Kayler             |  33.5 |       230 |        +0.31 |         -1.57 |
+|    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -17,8 +17,8 @@ Generated 2017-10-23.
 |   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
-|   16 | Sam Sternberg             |  31.1 |       164 |        +0.06 |         +0.45 |
-|   17 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
+|   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
+|   17 | Sam Sternberg             |  30.9 |       165 |        -0.12 |         +0.28 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -27,8 +27,8 @@ Generated 2017-10-23.
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
-|   26 | David Woo                 |  29.0 |         7 |        +0.19 |               |
-|   27 | Justin McCrary            |  29.0 |       140 |              |               |
+|   26 | Justin McCrary            |  29.0 |       140 |              |               |
+|   27 | David Woo                 |  29.0 |         7 |        +0.16 |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
@@ -38,7 +38,7 @@ Generated 2017-10-23.
 |   34 | Thomas Littleton          |  27.3 |        17 |        +0.32 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
-|   37 | Frank Kennamer            |  27.0 |       240 |        -0.11 |         -0.43 |
+|   37 | Frank Kennamer            |  27.0 |       240 |        -0.10 |         -0.43 |
 |   38 | Hussain Raza              |  27.0 |        50 |              |               |
 |   39 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   40 | Alan Jose                 |  26.9 |       182 |              |               |
