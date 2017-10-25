@@ -138,9 +138,9 @@ Generated 2017-10-24.
 |  134 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  135 | Reid Johnsen              |  21.5 |        54 |        +0.28 |         -0.50 |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
-|  138 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  139 | Jonathan Hankar           |  21.3 |       216 |        -0.33 |         -0.32 |
+|  137 | Jonathan Hankar           |  21.4 |       217 |        -0.21 |         -0.20 |
+|  138 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
+|  139 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  141 | Adam Jacob                |  21.3 |         3 |              |               |
 |  142 | Vishal Jain               |  21.3 |         6 |              |               |
@@ -166,7 +166,7 @@ Generated 2017-10-24.
 |  162 | Marc Schechter            |  20.4 |        14 |              |               |
 |  163 | Jeff Gordon               |  20.3 |        46 |              |         +0.36 |
 |  164 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  165 | Mark Modera               |  20.2 |       337 |        +0.23 |         -0.67 |
+|  165 | Mark Modera               |  20.2 |       337 |        +0.23 |         -0.66 |
 |  166 | John Grim                 |  20.1 |        13 |              |               |
 |  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  168 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -220,9 +220,9 @@ Generated 2017-10-24.
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.79 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Bob Roller                |  18.2 |         6 |              |               |
-|  219 | Josh Trauner              |  18.1 |        67 |        -0.09 |         +0.35 |
-|  220 | Matthew Bond              |  18.1 |         3 |              |               |
-|  221 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  219 | Matthew Bond              |  18.1 |         3 |              |               |
+|  220 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  221 | Josh Trauner              |  18.0 |        68 |        -0.20 |         +0.24 |
 |  222 | James Chung               |  17.9 |         7 |              |               |
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  224 | Eric Borden               |  17.8 |        44 |              |         +0.20 |
@@ -236,8 +236,8 @@ Generated 2017-10-24.
 |  232 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  233 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  234 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  235 | Craig Riddell             |  17.4 |         8 |              |               |
-|  236 | Sahar Sareminaeni         |  17.3 |        45 |        +0.07 |         +9.42 |
+|  235 | Sahar Sareminaeni         |  17.4 |        47 |        +0.08 |         +9.43 |
+|  236 | Craig Riddell             |  17.4 |         8 |              |               |
 |  237 | Charity Caruthers         |  17.3 |         4 |              |               |
 |  238 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  239 | Ariel Grostern            |  17.3 |        94 |              |               |
@@ -468,7 +468,7 @@ Generated 2017-10-24.
 |  464 | Sagar Pilania             |   2.8 |         2 |              |               |
 |  465 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  466 | Joanna Majkowski          |   2.6 |         5 |              |               |
-|  467 | Saijoscha Heck            |   2.6 |         5 |        +0.17 |               |
+|  467 | Saijoscha Heck            |   2.6 |         5 |        +0.15 |               |
 |  468 | David Vogel               |   2.6 |         7 |              |               |
 |  469 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  470 | Cristhian Daniel          |   2.3 |        19 |              |         +2.25 |
