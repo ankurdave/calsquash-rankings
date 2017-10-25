@@ -357,30 +357,30 @@ Generated 2017-10-24.
 |  353 | Carlos Filho              |  11.4 |         7 |              |               |
 |  354 | Karan Jain                |  11.3 |        19 |              |               |
 |  355 | Lucas Siow                |  11.0 |        10 |              |               |
-|  356 | Raphael Magarik           |  10.9 |        42 |        +0.29 |         +1.86 |
-|  357 | Dominick Ng               |  10.9 |        25 |              |               |
-|  358 | Danielle Craig            |  10.7 |         2 |              |               |
-|  359 | George Bentley            |  10.6 |         4 |              |               |
-|  360 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  361 | Brian Puglise             |  10.4 |         2 |              |               |
-|  362 | Caroline Palmer           |  10.4 |         5 |        +1.97 |               |
-|  363 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  364 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  365 | John Provine              |  10.2 |        16 |              |               |
-|  366 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  367 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  368 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  369 | Sara Bamberger            |  10.1 |         7 |        +4.66 |               |
-|  370 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  371 | Nate Aden                 |  10.1 |        41 |        +0.10 |         +0.74 |
+|  356 | Manuel Coquet             |  10.9 |         7 |        +9.18 |               |
+|  357 | Raphael Magarik           |  10.9 |        42 |        +0.29 |         +1.86 |
+|  358 | Dominick Ng               |  10.9 |        25 |              |               |
+|  359 | Danielle Craig            |  10.7 |         2 |              |               |
+|  360 | George Bentley            |  10.6 |         4 |              |               |
+|  361 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  362 | Brian Puglise             |  10.4 |         2 |              |               |
+|  363 | Caroline Palmer           |  10.4 |         5 |        +1.97 |               |
+|  364 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  365 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  366 | John Provine              |  10.2 |        16 |              |               |
+|  367 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  368 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  369 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  370 | Sara Bamberger            |  10.1 |         7 |        +4.66 |               |
+|  371 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  372 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  373 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
-|  374 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  375 | Daniel Schwartz           |   9.8 |        22 |              |         -0.27 |
-|  376 | Myles Gordon              |   9.8 |        42 |              |               |
-|  377 | Vishesh Dalal             |   9.8 |         4 |        +3.25 |               |
-|  378 | Rashid Hameed             |   9.8 |         5 |        -0.29 |               |
-|  379 | Manuel Coquet             |   9.7 |         6 |        +8.00 |               |
+|  374 | Nate Aden                 |   9.9 |        42 |        -0.06 |         +0.58 |
+|  375 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  376 | Daniel Schwartz           |   9.8 |        22 |              |         -0.27 |
+|  377 | Myles Gordon              |   9.8 |        42 |              |               |
+|  378 | Vishesh Dalal             |   9.8 |         4 |        +3.25 |               |
+|  379 | Rashid Hameed             |   9.8 |         5 |        -0.29 |               |
 |  380 | Jacob Bank                |   9.7 |         1 |              |               |
 |  381 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  382 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
@@ -406,7 +406,7 @@ Generated 2017-10-24.
 |  402 | Nikolai Schnittke         |   8.6 |         4 |              |               |
 |  403 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  404 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  405 | Brian Kempenich           |   8.5 |        57 |        +0.74 |         -0.13 |
+|  405 | Brian Kempenich           |   8.5 |        57 |        +0.77 |         -0.10 |
 |  406 | Sumit Gupta               |   8.5 |        13 |              |               |
 |  407 | Reynold Xin               |   8.3 |         5 |              |               |
 |  408 | Anurag Gupta              |   8.3 |         6 |              |               |
@@ -456,8 +456,8 @@ Generated 2017-10-24.
 |  452 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  453 | Zsolt Bartha              |   4.3 |        68 |        +0.37 |         -0.29 |
 |  454 | Sameer Bajaj              |   4.3 |         4 |              |         +1.51 |
-|  455 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
-|  456 | Avi Flamholz              |   4.1 |         8 |        +0.42 |               |
+|  455 | Avi Flamholz              |   4.2 |         8 |        +0.56 |               |
+|  456 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
 |  457 | Annie Wong                |   4.0 |         3 |              |               |
 |  458 | Ryan                      |   4.0 |         3 |              |               |
 |  459 | Mateo Aceves              |   3.8 |         4 |              |               |
