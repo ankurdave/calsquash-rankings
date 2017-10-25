@@ -28,7 +28,7 @@ Generated 2017-10-25.
 |   24 | Karan Goyal        |  15.9 |        18 |        +1.26 |               |
 |   25 | Craig Hollow       |  14.9 |        33 |        +0.17 |               |
 |   26 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
-|   27 | Kent Daniels       |  13.4 |       116 |        +0.03 |         -1.99 |
+|   27 | Kent Daniels       |  13.6 |       117 |        +0.28 |         -1.74 |
 |   28 | Josh Lebowitz      |  13.1 |        64 |        +0.73 |         +3.54 |
 |   29 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
 |   30 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
@@ -37,9 +37,9 @@ Generated 2017-10-25.
 |   33 | Caroline Palmer    |  10.4 |         5 |        +1.97 |               |
 |   34 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
 |   35 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
-|   36 | Vishesh Dalal      |   9.8 |         4 |        +3.25 |               |
-|   37 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
-|   38 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
+|   36 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
+|   37 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
+|   38 | Vishesh Dalal      |   8.8 |         5 |        +2.24 |               |
 |   39 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.36 |
 |   40 | Brian Kempenich    |   8.5 |        57 |        +0.77 |         -0.10 |
 |   41 | Ryan van der Harst |   5.1 |         4 |              |               |

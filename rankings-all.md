@@ -316,13 +316,13 @@ Generated 2017-10-25.
 |  312 | Tim Browning              |  13.8 |         7 |              |               |
 |  313 | Josephine Lee             |  13.7 |         6 |              |               |
 |  314 | Diego Butrich             |  13.7 |        19 |        -0.40 |         -0.44 |
-|  315 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  316 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  317 | Lars Foleide              |  13.5 |        11 |              |               |
-|  318 | Alex Rennet               |  13.5 |         2 |              |               |
-|  319 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  320 | Jake Toy                  |  13.4 |         5 |              |               |
-|  321 | Kent Daniels              |  13.4 |       116 |        +0.03 |         -1.99 |
+|  315 | Kent Daniels              |  13.6 |       117 |        +0.28 |         -1.74 |
+|  316 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  317 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  318 | Lars Foleide              |  13.5 |        11 |              |               |
+|  319 | Alex Rennet               |  13.5 |         2 |              |               |
+|  320 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  321 | Jake Toy                  |  13.4 |         5 |              |               |
 |  322 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  323 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  324 | Field Maloney             |  13.1 |        24 |              |               |
@@ -379,27 +379,27 @@ Generated 2017-10-25.
 |  375 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  376 | Daniel Schwartz           |   9.8 |        22 |              |         -0.27 |
 |  377 | Myles Gordon              |   9.8 |        42 |              |               |
-|  378 | Vishesh Dalal             |   9.8 |         4 |        +3.25 |               |
-|  379 | Rashid Hameed             |   9.8 |         5 |        -0.29 |               |
-|  380 | Jacob Bank                |   9.7 |         1 |              |               |
-|  381 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  382 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  383 | Mark Shapero              |   9.4 |         7 |              |               |
-|  384 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  385 | Max Grass                 |   9.4 |         1 |              |               |
-|  386 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  387 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  388 | Robert Broesler           |   9.4 |         4 |              |               |
-|  389 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  390 | Greg Sperla               |   9.3 |         8 |              |               |
-|  391 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  392 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  393 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  394 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  395 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  396 | Terence Stotz             |   8.9 |        15 |        -0.16 |               |
-|  397 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  398 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  378 | Rashid Hameed             |   9.8 |         5 |        -0.29 |               |
+|  379 | Jacob Bank                |   9.7 |         1 |              |               |
+|  380 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  381 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  382 | Mark Shapero              |   9.4 |         7 |              |               |
+|  383 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  384 | Max Grass                 |   9.4 |         1 |              |               |
+|  385 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  386 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  387 | Robert Broesler           |   9.4 |         4 |              |               |
+|  388 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  389 | Greg Sperla               |   9.3 |         8 |              |               |
+|  390 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  391 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  392 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  393 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  394 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  395 | Terence Stotz             |   8.9 |        15 |        -0.16 |               |
+|  396 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  397 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  398 | Vishesh Dalal             |   8.8 |         5 |        +2.24 |               |
 |  399 | Duo Wang                  |   8.8 |        81 |        -0.48 |         +0.36 |
 |  400 | Therese Jones             |   8.7 |         6 |              |               |
 |  401 | Steven Yee                |   8.7 |         9 |              |               |
