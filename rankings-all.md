@@ -451,10 +451,10 @@ Generated 2017-10-24.
 |  447 | Catherine Wang            |   5.2 |        10 |              |               |
 |  448 | Ali Umar                  |   5.2 |        13 |              |               |
 |  449 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  450 | Ryan van der Harst        |   5.0 |         4 |              |               |
+|  450 | Ryan van der Harst        |   5.1 |         4 |              |               |
 |  451 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  452 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  453 | Zsolt Bartha              |   4.3 |        68 |        +0.37 |         -0.29 |
+|  453 | Zsolt Bartha              |   4.7 |        69 |        +0.73 |         +0.07 |
 |  454 | Sameer Bajaj              |   4.3 |         4 |              |         +1.51 |
 |  455 | Avi Flamholz              |   4.2 |         8 |        +0.56 |               |
 |  456 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
@@ -518,23 +518,23 @@ Generated 2017-10-24.
 |  514 | Aubrey Shick              |  -0.5 |        30 |              |               |
 |  515 | Lev Marquis               |  -0.6 |         5 |              |               |
 |  516 | Rajiv Bhutani             |  -0.6 |         1 |              |               |
-|  517 | John Hwong                |  -0.7 |         1 |              |               |
-|  518 | Matthew Flairty           |  -1.4 |         2 |              |               |
-|  519 | Nick Firmani              |  -1.6 |         3 |              |               |
-|  520 | Ann Connolly              |  -1.9 |         4 |              |               |
-|  521 | Judah Purcell             |  -2.2 |         1 |              |               |
-|  522 | Pierre Youssef            |  -2.4 |         1 |              |               |
-|  523 | Cori Land                 |  -2.6 |         3 |              |               |
-|  524 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
-|  525 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
-|  526 | James Redfield            |  -2.9 |         3 |              |               |
-|  527 | Jenny Cheng               |  -3.2 |         1 |              |               |
-|  528 | Vipul Gupta               |  -3.3 |         3 |              |               |
-|  529 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  517 | Matthew Flairty           |  -1.4 |         2 |              |               |
+|  518 | Nick Firmani              |  -1.6 |         3 |              |               |
+|  519 | Ann Connolly              |  -1.9 |         4 |              |               |
+|  520 | Judah Purcell             |  -2.2 |         1 |              |               |
+|  521 | Pierre Youssef            |  -2.4 |         1 |              |               |
+|  522 | Cori Land                 |  -2.6 |         3 |              |               |
+|  523 | Farzana Dudhwala          |  -2.7 |         3 |              |               |
+|  524 | Jonathan Helfgott         |  -2.8 |         2 |              |               |
+|  525 | James Redfield            |  -2.9 |         3 |              |               |
+|  526 | Jenny Cheng               |  -3.2 |         1 |              |               |
+|  527 | Vipul Gupta               |  -3.3 |         3 |              |               |
+|  528 | Padma Maitland            |  -3.5 |         4 |              |               |
+|  529 | John Hwong                |  -3.8 |         2 |        -3.05 |               |
 |  530 | Tin Do                    |  -4.0 |         1 |              |               |
 |  531 | Yifan Wu                  |  -4.0 |         7 |              |               |
 |  532 | Susan Grand               |  -4.3 |         3 |              |               |
-|  533 | Oly Rillera               |  -5.0 |         2 |              |               |
+|  533 | Oly Rillera               |  -4.8 |         2 |              |               |
 |  534 | Cecilia Shan Cao          |  -5.1 |         2 |              |               |
 |  535 | Seobin Jung               |  -5.7 |         7 |              |         -2.76 |
 |  536 | Sara Green                |  -5.8 |         1 |              |               |

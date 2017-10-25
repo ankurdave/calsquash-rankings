@@ -42,14 +42,14 @@ Generated 2017-10-24.
 |   38 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
 |   39 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.36 |
 |   40 | Brian Kempenich    |   8.5 |        57 |        +0.77 |         -0.10 |
-|   41 | Ryan van der Harst |   5.0 |         4 |              |               |
-|   42 | Zsolt Bartha       |   4.3 |        68 |        +0.37 |         -0.29 |
+|   41 | Ryan van der Harst |   5.1 |         4 |              |               |
+|   42 | Zsolt Bartha       |   4.7 |        69 |        +0.73 |         +0.07 |
 |   43 | Avi Flamholz       |   4.2 |         8 |        +0.56 |               |
 |   44 | Joanna Majkowski   |   2.6 |         5 |              |               |
 |   45 | Saijoscha Heck     |   2.6 |         5 |        +0.17 |               |
 |   46 | Duncan MacRae      |   0.8 |        34 |        +0.56 |         +6.37 |
-|   47 | John Hwong         |  -0.7 |         1 |              |               |
-|   48 | Pierre Youssef     |  -2.4 |         1 |              |               |
-|   49 | Cori Land          |  -2.6 |         3 |              |               |
-|   50 | Oly Rillera        |  -5.0 |         2 |              |               |
+|   47 | Pierre Youssef     |  -2.4 |         1 |              |               |
+|   48 | Cori Land          |  -2.6 |         3 |              |               |
+|   49 | John Hwong         |  -3.8 |         2 |        -3.05 |               |
+|   50 | Oly Rillera        |  -4.8 |         2 |              |               |
 |   51 | Navarun Jain       | -12.3 |         6 |        -0.01 |               |
