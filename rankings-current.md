@@ -1,17 +1,17 @@
-Generated 2017-10-24.
+Generated 2017-10-25.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
 |    1 | Ashley Kayler      |  33.5 |       230 |        +0.31 |         -1.57 |
 |    2 | Sam Sternberg      |  30.9 |       165 |        -0.12 |         +0.28 |
 |    3 | David Woo          |  29.0 |         7 |        +0.16 |               |
-|    4 | Nick Cobbett       |  28.1 |        49 |              |         +2.45 |
+|    4 | Nick Cobbett       |  28.1 |        50 |        +0.04 |         +2.49 |
 |    5 | Anibhav Singla     |  27.9 |        33 |        +0.12 |               |
 |    6 | Thomas Littleton   |  27.3 |        17 |        +0.32 |               |
 |    7 | Frank Kennamer     |  27.0 |       240 |        -0.10 |         -0.43 |
-|    8 | Jim Veitch         |  24.5 |       468 |        +0.23 |         -0.85 |
+|    8 | Jim Veitch         |  24.4 |       468 |        +0.17 |         -0.92 |
 |    9 | John Kunze         |  24.3 |       339 |        -0.27 |         -0.37 |
-|   10 | Matt Wong          |  24.0 |       102 |        -0.53 |         +1.37 |
+|   10 | Matt Wong          |  24.0 |       102 |        -0.57 |         +1.33 |
 |   11 | Dan Bohn           |  22.9 |       113 |        +0.11 |         -0.22 |
 |   12 | Dan Meier          |  21.9 |        81 |        -0.11 |         -0.82 |
 |   13 | Reid Johnsen       |  21.5 |        54 |        +0.28 |         -0.50 |
@@ -21,8 +21,8 @@ Generated 2017-10-24.
 |   17 | Jaime Perez        |  19.3 |        29 |        -0.21 |         +0.02 |
 |   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.16 |         -1.25 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.55 |         +4.27 |
-|   20 | Matthew Bond       |  18.1 |         3 |              |               |
-|   21 | Josh Trauner       |  18.0 |        68 |        -0.20 |         +0.24 |
+|   20 | Josh Trauner       |  18.0 |        68 |        -0.20 |         +0.24 |
+|   21 | Matthew Bond       |  17.6 |         4 |              |               |
 |   22 | Sahar Sareminaeni  |  17.4 |        47 |        +0.08 |         +9.43 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
 |   24 | Karan Goyal        |  15.9 |        18 |        +1.26 |               |

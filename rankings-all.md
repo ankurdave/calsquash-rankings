@@ -1,4 +1,4 @@
-Generated 2017-10-24.
+Generated 2017-10-25.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -32,7 +32,7 @@ Generated 2017-10-24.
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   31 | Nick Cobbett              |  28.1 |        49 |              |         +2.45 |
+|   31 | Nick Cobbett              |  28.1 |        50 |        +0.04 |         +2.49 |
 |   32 | Anibhav Singla            |  27.9 |        33 |        +0.12 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Thomas Littleton          |  27.3 |        17 |        +0.32 |               |
@@ -74,9 +74,9 @@ Generated 2017-10-24.
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   72 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   73 | Jim Veitch                |  24.5 |       468 |        +0.23 |         -0.85 |
-|   74 | Adam Pollak               |  24.5 |        31 |              |               |
-|   75 | Jon Shih                  |  24.4 |        47 |              |               |
+|   73 | Adam Pollak               |  24.5 |        31 |              |               |
+|   74 | Jon Shih                  |  24.4 |        47 |              |               |
+|   75 | Jim Veitch                |  24.4 |       468 |        +0.17 |         -0.92 |
 |   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   77 | John Kunze                |  24.3 |       339 |        -0.27 |         -0.37 |
 |   78 | Todd Wirsching            |  24.3 |         8 |              |               |
@@ -90,7 +90,7 @@ Generated 2017-10-24.
 |   86 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   87 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   88 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   89 | Matt Wong                 |  24.0 |       102 |        -0.53 |         +1.37 |
+|   89 | Matt Wong                 |  24.0 |       102 |        -0.57 |         +1.33 |
 |   90 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   91 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   92 | Christopher Tsang         |  23.9 |        76 |              |               |
@@ -220,17 +220,17 @@ Generated 2017-10-24.
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.79 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Bob Roller                |  18.2 |         6 |              |               |
-|  219 | Matthew Bond              |  18.1 |         3 |              |               |
-|  220 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  221 | Josh Trauner              |  18.0 |        68 |        -0.20 |         +0.24 |
-|  222 | James Chung               |  17.9 |         7 |              |               |
-|  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  224 | Eric Borden               |  17.8 |        44 |              |         +0.20 |
-|  225 | Troup Howard              |  17.8 |        47 |              |         +0.48 |
-|  226 | Nick Paget                |  17.8 |        35 |              |               |
-|  227 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  229 | George Roche              |  17.7 |        14 |              |               |
+|  219 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  220 | Josh Trauner              |  18.0 |        68 |        -0.20 |         +0.24 |
+|  221 | James Chung               |  17.9 |         7 |              |               |
+|  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  223 | Eric Borden               |  17.8 |        44 |              |         +0.20 |
+|  224 | Troup Howard              |  17.8 |        47 |              |         +0.48 |
+|  225 | Nick Paget                |  17.8 |        35 |              |               |
+|  226 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  227 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  228 | George Roche              |  17.7 |        14 |              |               |
+|  229 | Matthew Bond              |  17.6 |         4 |              |               |
 |  230 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  231 | Subrato Dey               |  17.5 |        26 |              |               |
 |  232 | Antonio Garcia            |  17.5 |        20 |              |               |
