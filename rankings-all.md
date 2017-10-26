@@ -454,7 +454,7 @@ Generated 2017-10-25.
 |  450 | Ryan van der Harst        |   5.1 |         4 |              |               |
 |  451 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  452 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  453 | Zsolt Bartha              |   4.7 |        69 |        +0.73 |         +0.07 |
+|  453 | Zsolt Bartha              |   4.7 |        70 |        +0.76 |         +0.11 |
 |  454 | Sameer Bajaj              |   4.3 |         4 |              |         +1.51 |
 |  455 | Avi Flamholz              |   4.2 |         8 |        +0.56 |               |
 |  456 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
@@ -490,7 +490,7 @@ Generated 2017-10-25.
 |  486 | Alexandra Harmon          |   1.3 |         3 |              |               |
 |  487 | Michael Mann              |   1.1 |         4 |              |               |
 |  488 | Marco Eres                |   1.0 |         5 |              |               |
-|  489 | Duncan MacRae             |   0.8 |        34 |        +0.56 |         +6.37 |
+|  489 | Duncan MacRae             |   0.8 |        35 |        +0.59 |         +6.39 |
 |  490 | Alex Kaplan               |   0.8 |         8 |              |               |
 |  491 | Daniel Wissmann           |   0.7 |         2 |              |               |
 |  492 | Alfonso Rojas             |   0.6 |         8 |              |               |
