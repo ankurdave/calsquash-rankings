@@ -31,25 +31,26 @@ Generated 2017-10-26.
 |   27 | Kent Daniels       |  13.6 |       117 |        +0.28 |         -1.74 |
 |   28 | Josh Lebowitz      |  13.1 |        64 |        +0.73 |         +3.54 |
 |   29 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
-|   30 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
-|   31 | Raphael Magarik    |  10.9 |        42 |        +0.29 |         +1.86 |
-|   32 | Danielle Craig     |  10.7 |         2 |              |               |
-|   33 | Caroline Palmer    |  10.4 |         5 |        +1.97 |               |
-|   34 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
-|   35 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
-|   36 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
-|   37 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
-|   38 | Vishesh Dalal      |   8.8 |         5 |        +2.24 |               |
-|   39 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.36 |
-|   40 | Brian Kempenich    |   8.5 |        57 |        +0.77 |         -0.10 |
-|   41 | Ryan van der Harst |   5.1 |         4 |              |               |
-|   42 | Zsolt Bartha       |   4.7 |        70 |        +0.76 |         +0.11 |
-|   43 | Avi Flamholz       |   4.2 |         8 |        +0.56 |               |
-|   44 | Saijoscha Heck     |   2.9 |         6 |        +0.43 |               |
-|   45 | Joanna Majkowski   |   2.6 |         5 |              |               |
-|   46 | Duncan MacRae      |   0.8 |        35 |        +0.59 |         +6.39 |
-|   47 | Pierre Youssef     |  -2.4 |         1 |              |               |
-|   48 | Cori Land          |  -2.6 |         3 |              |               |
-|   49 | John Hwong         |  -3.8 |         2 |        -3.05 |               |
-|   50 | Oly Rillera        |  -4.8 |         2 |              |               |
-|   51 | Navarun Jain       | -12.3 |         6 |        -0.01 |               |
+|   30 | Daniel Isaacson    |  11.2 |         1 |              |               |
+|   31 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
+|   32 | Raphael Magarik    |  10.9 |        42 |        +0.29 |         +1.86 |
+|   33 | Danielle Craig     |  10.7 |         2 |              |               |
+|   34 | Caroline Palmer    |  10.2 |         6 |        +1.79 |               |
+|   35 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
+|   36 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
+|   37 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
+|   38 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
+|   39 | Vishesh Dalal      |   8.8 |         5 |        +2.24 |               |
+|   40 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.36 |
+|   41 | Brian Kempenich    |   8.5 |        57 |        +0.77 |         -0.10 |
+|   42 | Ryan van der Harst |   5.1 |         4 |              |               |
+|   43 | Zsolt Bartha       |   4.7 |        70 |        +0.76 |         +0.11 |
+|   44 | Avi Flamholz       |   4.2 |         8 |        +0.56 |               |
+|   45 | Saijoscha Heck     |   2.9 |         6 |        +0.43 |               |
+|   46 | Joanna Majkowski   |   2.6 |         5 |              |               |
+|   47 | Duncan MacRae      |   0.8 |        35 |        +0.59 |         +6.39 |
+|   48 | Pierre Youssef     |  -2.4 |         1 |              |               |
+|   49 | Cori Land          |  -2.6 |         3 |              |               |
+|   50 | John Hwong         |  -3.8 |         2 |        -3.05 |               |
+|   51 | Oly Rillera        |  -4.8 |         2 |              |               |
+|   52 | Navarun Jain       | -12.3 |         6 |        -0.01 |               |
