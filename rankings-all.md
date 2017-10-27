@@ -1,4 +1,4 @@
-Generated 2017-10-26.
+Generated 2017-10-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -187,12 +187,12 @@ Generated 2017-10-26.
 |  183 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  184 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  185 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  186 | Jaime Perez               |  19.3 |        29 |        -0.21 |         +0.02 |
-|  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  188 | Greg Adams                |  19.3 |        10 |              |               |
-|  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  190 | John Corcoran             |  19.1 |        49 |              |               |
-|  191 | Mike Jensen-Akula         |  19.1 |       237 |        -0.16 |         -1.25 |
+|  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  187 | Greg Adams                |  19.3 |        10 |              |               |
+|  188 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  189 | John Corcoran             |  19.1 |        49 |              |               |
+|  190 | Mike Jensen-Akula         |  19.1 |       237 |        -0.18 |         -1.26 |
+|  191 | Jaime Perez               |  19.1 |        30 |        -0.44 |         -0.21 |
 |  192 | Kedar Shah                |  19.1 |         9 |              |               |
 |  193 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -260,15 +260,15 @@ Generated 2017-10-26.
 |  256 | Mark Priven               |  16.6 |        72 |              |               |
 |  257 | William Coleman           |  16.5 |        48 |              |               |
 |  258 | Mike Troxell              |  16.5 |         8 |              |               |
-|  259 | Danish Mir                |  16.4 |         1 |              |               |
-|  260 | Paul Chang                |  16.3 |         7 |              |               |
-|  261 | Steven Hahm               |  16.3 |         5 |              |               |
-|  262 | Jules Bowie               |  16.3 |        12 |              |               |
-|  263 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  264 | Jan Strasky               |  16.2 |        12 |              |               |
-|  265 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  266 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  267 | Karan Goyal               |  15.9 |        18 |        +1.26 |               |
+|  259 | Karan Goyal               |  16.4 |        19 |        +1.82 |               |
+|  260 | Danish Mir                |  16.4 |         1 |              |               |
+|  261 | Paul Chang                |  16.3 |         7 |              |               |
+|  262 | Steven Hahm               |  16.3 |         5 |              |               |
+|  263 | Jules Bowie               |  16.3 |        12 |              |               |
+|  264 | Wladislaw Ellis           |  16.2 |        29 |              |               |
+|  265 | Jan Strasky               |  16.2 |        12 |              |               |
+|  266 | Sarah Mcneil              |  16.2 |        24 |              |               |
+|  267 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  268 | Terry Chang               |  15.8 |        48 |              |         -0.24 |
 |  269 | Louis Russell             |  15.8 |        20 |              |               |
 |  270 | Rich Shapiro              |  15.8 |        82 |              |               |

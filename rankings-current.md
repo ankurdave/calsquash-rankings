@@ -1,4 +1,4 @@
-Generated 2017-10-26.
+Generated 2017-10-27.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -18,14 +18,14 @@ Generated 2017-10-26.
 |   14 | Jonathan Hankar    |  21.4 |       217 |        -0.17 |         -0.16 |
 |   15 | Mark Modera        |  20.6 |       340 |        +0.63 |         -0.26 |
 |   16 | Anthony Abel       |  20.0 |        12 |        +0.45 |               |
-|   17 | Jaime Perez        |  19.3 |        29 |        -0.21 |         +0.02 |
-|   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.16 |         -1.25 |
+|   17 | Mike Jensen-Akula  |  19.1 |       237 |        -0.18 |         -1.26 |
+|   18 | Jaime Perez        |  19.1 |        30 |        -0.44 |         -0.21 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.55 |         +4.27 |
 |   20 | Josh Trauner       |  17.8 |        69 |        -0.43 |               |
 |   21 | Matthew Bond       |  17.6 |         4 |              |               |
 |   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.26 |         +9.09 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
-|   24 | Karan Goyal        |  15.9 |        18 |        +1.26 |               |
+|   24 | Karan Goyal        |  16.4 |        19 |        +1.82 |               |
 |   25 | Craig Hollow       |  14.9 |        33 |        +0.17 |               |
 |   26 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
 |   27 | Kent Daniels       |  13.6 |       117 |        +0.28 |         -1.74 |
