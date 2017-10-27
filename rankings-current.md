@@ -14,16 +14,16 @@ Generated 2017-10-26.
 |   10 | Matt Wong          |  24.0 |       102 |        -0.57 |         +1.33 |
 |   11 | Dan Bohn           |  22.9 |       113 |        +0.11 |         -0.22 |
 |   12 | Dan Meier          |  21.9 |        81 |        -0.11 |         -0.82 |
-|   13 | Reid Johnsen       |  21.5 |        54 |        +0.28 |         -0.50 |
+|   13 | Reid Johnsen       |  21.6 |        55 |        +0.41 |         -0.37 |
 |   14 | Jonathan Hankar    |  21.4 |       217 |        -0.17 |         -0.16 |
-|   15 | Mark Modera        |  20.6 |       340 |        +0.64 |         -0.26 |
+|   15 | Mark Modera        |  20.6 |       340 |        +0.63 |         -0.26 |
 |   16 | Anthony Abel       |  20.0 |        12 |        +0.45 |               |
 |   17 | Jaime Perez        |  19.3 |        29 |        -0.21 |         +0.02 |
 |   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.16 |         -1.25 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.55 |         +4.27 |
-|   20 | Josh Trauner       |  17.8 |        69 |        -0.43 |         +0.02 |
+|   20 | Josh Trauner       |  17.8 |        69 |        -0.43 |               |
 |   21 | Matthew Bond       |  17.6 |         4 |              |               |
-|   22 | Sahar Sareminaeni  |  17.1 |        48 |        -0.13 |         +9.22 |
+|   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.26 |         +9.09 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
 |   24 | Karan Goyal        |  15.9 |        18 |        +1.26 |               |
 |   25 | Craig Hollow       |  14.9 |        33 |        +0.17 |               |
@@ -46,7 +46,7 @@ Generated 2017-10-26.
 |   42 | Ryan van der Harst |   5.1 |         4 |              |               |
 |   43 | Zsolt Bartha       |   4.7 |        70 |        +0.76 |         +0.11 |
 |   44 | Avi Flamholz       |   4.2 |         8 |        +0.56 |               |
-|   45 | Saijoscha Heck     |   2.9 |         6 |        +0.43 |               |
+|   45 | Saijoscha Heck     |   2.9 |         6 |        +0.42 |               |
 |   46 | Joanna Majkowski   |   2.6 |         5 |              |               |
 |   47 | Duncan MacRae      |   0.8 |        35 |        +0.59 |         +6.39 |
 |   48 | Pierre Youssef     |  -2.4 |         1 |              |               |

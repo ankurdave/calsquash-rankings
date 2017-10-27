@@ -136,7 +136,7 @@ Generated 2017-10-26.
 |  132 | Omair Azam                |  21.7 |        18 |              |               |
 |  133 | Phin Lee                  |  21.7 |        16 |              |               |
 |  134 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  135 | Reid Johnsen              |  21.5 |        54 |        +0.28 |         -0.50 |
+|  135 | Reid Johnsen              |  21.6 |        55 |        +0.41 |         -0.37 |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
 |  137 | Jonathan Hankar           |  21.4 |       217 |        -0.17 |         -0.16 |
 |  138 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
@@ -157,7 +157,7 @@ Generated 2017-10-26.
 |  153 | Jamie Funk                |  20.8 |        30 |              |               |
 |  154 | Matthew Brett             |  20.7 |        20 |              |               |
 |  155 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  156 | Mark Modera               |  20.6 |       340 |        +0.64 |         -0.26 |
+|  156 | Mark Modera               |  20.6 |       340 |        +0.63 |         -0.26 |
 |  157 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  158 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  159 | Prakash Bathini           |  20.5 |       123 |              |         -0.17 |
@@ -228,7 +228,7 @@ Generated 2017-10-26.
 |  224 | Nick Paget                |  17.8 |        35 |              |               |
 |  225 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  226 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  227 | Josh Trauner              |  17.8 |        69 |        -0.43 |         +0.02 |
+|  227 | Josh Trauner              |  17.8 |        69 |        -0.43 |               |
 |  228 | George Roche              |  17.7 |        14 |              |               |
 |  229 | Matthew Bond              |  17.6 |         4 |              |               |
 |  230 | Jim Kingsbury             |  17.6 |         2 |              |               |
@@ -245,9 +245,9 @@ Generated 2017-10-26.
 |  241 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  242 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  243 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  244 | Sahar Sareminaeni         |  17.1 |        48 |        -0.13 |         +9.22 |
-|  245 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  246 | Neil Conway               |  17.0 |        55 |              |               |
+|  244 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  245 | Neil Conway               |  17.0 |        55 |              |               |
+|  246 | Sahar Sareminaeni         |  17.0 |        49 |        -0.26 |         +9.09 |
 |  247 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  248 | Baxter Leman              |  16.9 |         6 |              |               |
 |  249 | Bobby Hicks               |  16.9 |         2 |              |               |
@@ -465,8 +465,8 @@ Generated 2017-10-26.
 |  461 | Nakul Vakil               |   3.0 |         5 |              |               |
 |  462 | Maria Garzon              |   3.0 |         5 |              |               |
 |  463 | Nadir Shams               |   3.0 |         2 |              |               |
-|  464 | Saijoscha Heck            |   2.9 |         6 |        +0.43 |               |
-|  465 | Ji Seop Oh                |   2.9 |         2 |              |               |
+|  464 | Ji Seop Oh                |   2.9 |         2 |              |               |
+|  465 | Saijoscha Heck            |   2.9 |         6 |        +0.42 |               |
 |  466 | Sagar Pilania             |   2.8 |         2 |              |               |
 |  467 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  468 | Joanna Majkowski          |   2.6 |         5 |              |               |
