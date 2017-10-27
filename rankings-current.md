@@ -26,15 +26,15 @@ Generated 2017-10-27.
 |   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.26 |         +9.09 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
 |   24 | Karan Goyal        |  16.4 |        19 |        +1.82 |               |
-|   25 | Craig Hollow       |  14.9 |        33 |        +0.17 |               |
+|   25 | Craig Hollow       |  15.1 |        34 |        +0.39 |               |
 |   26 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
 |   27 | Kent Daniels       |  13.6 |       117 |        +0.28 |         -1.74 |
 |   28 | Josh Lebowitz      |  13.1 |        64 |        +0.73 |         +3.54 |
 |   29 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
-|   30 | Daniel Isaacson    |  11.2 |         1 |              |               |
-|   31 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
-|   32 | Raphael Magarik    |  10.9 |        42 |        +0.29 |         +1.86 |
-|   33 | Danielle Craig     |  10.7 |         2 |              |               |
+|   30 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
+|   31 | Raphael Magarik    |  10.9 |        42 |        +0.29 |         +1.86 |
+|   32 | Danielle Craig     |  10.7 |         2 |              |               |
+|   33 | Daniel Isaacson    |  10.5 |         2 |              |               |
 |   34 | Caroline Palmer    |  10.2 |         6 |        +1.79 |               |
 |   35 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
 |   36 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |

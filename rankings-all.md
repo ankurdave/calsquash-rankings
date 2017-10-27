@@ -282,13 +282,13 @@ Generated 2017-10-27.
 |  278 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  279 | Grant Buckingham          |  15.2 |         3 |              |               |
 |  280 | James Grant               |  15.2 |         8 |              |               |
-|  281 | Jim Evans                 |  15.1 |       216 |              |               |
-|  282 | Dennis Chan               |  15.1 |         1 |              |               |
-|  283 | Allie Giovanelli          |  15.0 |         4 |              |               |
-|  284 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  285 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
-|  286 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  287 | Craig Hollow              |  14.9 |        33 |        +0.17 |               |
+|  281 | Craig Hollow              |  15.1 |        34 |        +0.39 |               |
+|  282 | Jim Evans                 |  15.1 |       216 |              |               |
+|  283 | Dennis Chan               |  15.1 |         1 |              |               |
+|  284 | Allie Giovanelli          |  15.0 |         4 |              |               |
+|  285 | Patrick Baylis            |  15.0 |        12 |              |               |
+|  286 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  287 | Mimi Zhang                |  14.9 |         6 |              |               |
 |  288 | Jeff Dorman               |  14.9 |        14 |              |               |
 |  289 | Alex Marqusee             |  14.9 |        28 |              |               |
 |  290 | Sergey Dobrinov           |  14.9 |        26 |              |               |
@@ -356,13 +356,13 @@ Generated 2017-10-27.
 |  352 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  353 | Carlos Filho              |  11.4 |         7 |              |               |
 |  354 | Karan Jain                |  11.3 |        19 |              |               |
-|  355 | Daniel Isaacson           |  11.2 |         1 |              |               |
-|  356 | Lucas Siow                |  11.0 |        10 |              |               |
-|  357 | Manuel Coquet             |  10.9 |         7 |        +9.18 |               |
-|  358 | Raphael Magarik           |  10.9 |        42 |        +0.29 |         +1.86 |
-|  359 | Dominick Ng               |  10.9 |        25 |              |               |
-|  360 | Danielle Craig            |  10.7 |         2 |              |               |
-|  361 | George Bentley            |  10.6 |         4 |              |               |
+|  355 | Lucas Siow                |  11.0 |        10 |              |               |
+|  356 | Manuel Coquet             |  10.9 |         7 |        +9.18 |               |
+|  357 | Raphael Magarik           |  10.9 |        42 |        +0.29 |         +1.86 |
+|  358 | Dominick Ng               |  10.9 |        25 |              |               |
+|  359 | Danielle Craig            |  10.7 |         2 |              |               |
+|  360 | George Bentley            |  10.6 |         4 |              |               |
+|  361 | Daniel Isaacson           |  10.5 |         2 |              |               |
 |  362 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  363 | Brian Puglise             |  10.4 |         2 |              |               |
 |  364 | Lewis H. Moore            |  10.3 |         8 |              |               |
