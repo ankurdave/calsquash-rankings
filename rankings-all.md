@@ -18,7 +18,7 @@ Generated 2017-10-26.
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.9 |       165 |        -0.12 |         +0.28 |
+|   17 | Sam Sternberg             |  31.0 |       166 |        -0.08 |         +0.32 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -35,7 +35,7 @@ Generated 2017-10-26.
 |   31 | Nick Cobbett              |  28.1 |        50 |        +0.04 |         +2.49 |
 |   32 | Anibhav Singla            |  27.9 |        33 |        +0.12 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
-|   34 | Thomas Littleton          |  27.3 |        17 |        +0.32 |               |
+|   34 | Thomas Littleton          |  27.3 |        18 |        +0.32 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
 |   37 | Frank Kennamer            |  27.0 |       240 |        -0.10 |         -0.43 |
