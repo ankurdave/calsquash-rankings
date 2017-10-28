@@ -26,19 +26,19 @@ Generated 2017-10-27.
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
-|   25 | Heba Nossier              |  29.2 |        14 |              |               |
-|   26 | Justin McCrary            |  29.0 |       140 |              |               |
-|   27 | David Woo                 |  29.0 |         7 |        +0.16 |               |
+|   25 | David Woo                 |  29.2 |         8 |        +0.39 |               |
+|   26 | Heba Nossier              |  29.2 |        14 |              |               |
+|   27 | Justin McCrary            |  29.0 |       140 |              |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   31 | Nick Cobbett              |  28.1 |        50 |        +0.04 |         +2.49 |
 |   32 | Anibhav Singla            |  27.9 |        33 |        +0.12 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
-|   34 | Thomas Littleton          |  27.3 |        18 |        +0.32 |               |
+|   34 | Thomas Littleton          |  27.3 |        18 |        +0.31 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
-|   37 | Frank Kennamer            |  27.0 |       240 |        -0.10 |         -0.43 |
+|   37 | Frank Kennamer            |  27.0 |       241 |        -0.08 |         -0.40 |
 |   38 | Hussain Raza              |  27.0 |        50 |              |               |
 |   39 | Nauman Sardar             |  26.9 |        40 |              |               |
 |   40 | Alan Jose                 |  26.9 |       182 |              |               |
