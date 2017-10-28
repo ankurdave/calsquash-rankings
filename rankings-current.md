@@ -27,20 +27,20 @@ Generated 2017-10-28.
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
 |   24 | Karan Goyal        |  16.4 |        19 |        +1.82 |               |
 |   25 | Craig Hollow       |  15.1 |        34 |        +0.39 |               |
-|   26 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
-|   27 | Kent Daniels       |  13.6 |       117 |        +0.28 |         -1.74 |
-|   28 | Josh Lebowitz      |  13.1 |        64 |        +0.73 |         +3.54 |
-|   29 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
-|   30 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
-|   31 | Raphael Magarik    |  10.9 |        42 |        +0.29 |         +1.86 |
+|   26 | Kent Daniels       |  13.7 |       117 |        +0.35 |         -1.67 |
+|   27 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
+|   28 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
+|   29 | Josh Lebowitz      |  12.9 |        64 |        +0.57 |         +3.37 |
+|   30 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
+|   31 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
 |   32 | Danielle Craig     |  10.7 |         2 |              |               |
 |   33 | Daniel Isaacson    |  10.5 |         2 |              |               |
 |   34 | Caroline Palmer    |  10.2 |         6 |        +1.79 |               |
-|   35 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
-|   36 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
-|   37 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
-|   38 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
-|   39 | Vishesh Dalal      |   8.8 |         5 |        +2.24 |               |
+|   35 | Vishesh Dalal      |  10.2 |         6 |        +3.67 |               |
+|   36 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
+|   37 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
+|   38 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
+|   39 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
 |   40 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.36 |
 |   41 | Brian Kempenich    |   8.5 |        57 |        +0.77 |         -0.10 |
 |   42 | Ryan van der Harst |   5.1 |         4 |              |               |
@@ -49,8 +49,8 @@ Generated 2017-10-28.
 |   45 | Saijoscha Heck     |   2.9 |         6 |        +0.42 |               |
 |   46 | Joanna Majkowski   |   2.6 |         5 |              |               |
 |   47 | Duncan MacRae      |   0.8 |        35 |        +0.59 |         +6.39 |
-|   48 | Pierre Youssef     |  -2.4 |         1 |              |               |
-|   49 | Cori Land          |  -2.6 |         3 |              |               |
+|   48 | Cori Land          |  -2.0 |         4 |              |               |
+|   49 | Pierre Youssef     |  -2.6 |         1 |              |               |
 |   50 | John Hwong         |  -3.8 |         2 |        -3.05 |               |
 |   51 | Oly Rillera        |  -4.8 |         2 |              |               |
 |   52 | Navarun Jain       | -12.3 |         6 |        -0.01 |               |
