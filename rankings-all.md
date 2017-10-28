@@ -1,4 +1,4 @@
-Generated 2017-10-27.
+Generated 2017-10-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -6,8 +6,8 @@ Generated 2017-10-27.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Eric Katerman             |  33.5 |        64 |              |         +1.98 |
-|    6 | Ashley Kayler             |  33.5 |       230 |        +0.31 |         -1.57 |
+|    5 | Ashley Kayler             |  33.7 |       231 |        +0.53 |         -1.36 |
+|    6 | Eric Katerman             |  33.5 |        64 |              |         +1.98 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
@@ -18,7 +18,7 @@ Generated 2017-10-27.
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  31.0 |       166 |        -0.08 |         +0.32 |
+|   17 | Sam Sternberg             |  30.9 |       166 |        -0.11 |         +0.29 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -26,16 +26,16 @@ Generated 2017-10-27.
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
-|   25 | David Woo                 |  29.2 |         8 |        +0.39 |               |
-|   26 | Heba Nossier              |  29.2 |        14 |              |               |
-|   27 | Justin McCrary            |  29.0 |       140 |              |               |
+|   25 | Heba Nossier              |  29.2 |        14 |              |               |
+|   26 | Justin McCrary            |  29.0 |       140 |              |               |
+|   27 | David Woo                 |  28.9 |         9 |        +0.09 |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   31 | Nick Cobbett              |  28.1 |        50 |        +0.04 |         +2.49 |
 |   32 | Anibhav Singla            |  28.0 |        34 |        +0.15 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
-|   34 | Thomas Littleton          |  27.3 |        18 |        +0.31 |               |
+|   34 | Thomas Littleton          |  27.2 |        18 |        +0.27 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
 |   37 | Frank Kennamer            |  27.0 |       241 |        -0.08 |         -0.40 |
