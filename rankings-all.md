@@ -33,7 +33,7 @@ Generated 2017-10-27.
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   31 | Nick Cobbett              |  28.1 |        50 |        +0.04 |         +2.49 |
-|   32 | Anibhav Singla            |  27.9 |        33 |        +0.12 |               |
+|   32 | Anibhav Singla            |  28.0 |        34 |        +0.15 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Thomas Littleton          |  27.3 |        18 |        +0.31 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
@@ -90,7 +90,7 @@ Generated 2017-10-27.
 |   86 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   87 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   88 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   89 | Matt Wong                 |  24.0 |       102 |        -0.57 |         +1.33 |
+|   89 | Matt Wong                 |  24.0 |       103 |        -0.56 |         +1.34 |
 |   90 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   91 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   92 | Christopher Tsang         |  23.9 |        76 |              |               |

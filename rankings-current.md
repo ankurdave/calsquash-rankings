@@ -6,12 +6,12 @@ Generated 2017-10-27.
 |    2 | Sam Sternberg      |  31.0 |       166 |        -0.08 |         +0.32 |
 |    3 | David Woo          |  29.2 |         8 |        +0.39 |               |
 |    4 | Nick Cobbett       |  28.1 |        50 |        +0.04 |         +2.49 |
-|    5 | Anibhav Singla     |  27.9 |        33 |        +0.12 |               |
+|    5 | Anibhav Singla     |  28.0 |        34 |        +0.15 |               |
 |    6 | Thomas Littleton   |  27.3 |        18 |        +0.31 |               |
 |    7 | Frank Kennamer     |  27.0 |       241 |        -0.08 |         -0.40 |
 |    8 | Jim Veitch         |  24.4 |       468 |        +0.17 |         -0.92 |
 |    9 | John Kunze         |  24.3 |       339 |        -0.27 |         -0.37 |
-|   10 | Matt Wong          |  24.0 |       102 |        -0.57 |         +1.33 |
+|   10 | Matt Wong          |  24.0 |       103 |        -0.56 |         +1.34 |
 |   11 | Dan Bohn           |  22.9 |       113 |        +0.11 |         -0.22 |
 |   12 | Dan Meier          |  21.9 |        81 |        -0.11 |         -0.82 |
 |   13 | Reid Johnsen       |  21.6 |        55 |        +0.41 |         -0.37 |
