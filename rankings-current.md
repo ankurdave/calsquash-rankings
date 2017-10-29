@@ -18,22 +18,22 @@ Generated 2017-10-28.
 |   14 | Jonathan Hankar    |  21.4 |       217 |        -0.17 |         -0.16 |
 |   15 | Mark Modera        |  20.6 |       340 |        +0.63 |         -0.26 |
 |   16 | Anthony Abel       |  20.0 |        12 |        +0.45 |               |
-|   17 | Mike Jensen-Akula  |  19.1 |       237 |        -0.18 |         -1.26 |
-|   18 | Jaime Perez        |  19.1 |        30 |        -0.44 |         -0.21 |
+|   17 | Mike Jensen-Akula  |  19.1 |       237 |        -0.18 |         -1.27 |
+|   18 | Jaime Perez        |  19.1 |        31 |        -0.47 |         -0.24 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.55 |         +4.27 |
 |   20 | Josh Trauner       |  17.8 |        69 |        -0.43 |               |
 |   21 | Matthew Bond       |  17.6 |         4 |              |               |
 |   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.26 |         +9.09 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
-|   24 | Karan Goyal        |  16.4 |        19 |        +1.82 |               |
+|   24 | Karan Goyal        |  16.4 |        19 |        +1.81 |               |
 |   25 | Craig Hollow       |  15.1 |        34 |        +0.39 |               |
 |   26 | Kent Daniels       |  13.7 |       117 |        +0.35 |         -1.67 |
 |   27 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
-|   28 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
-|   29 | Josh Lebowitz      |  12.9 |        64 |        +0.57 |         +3.37 |
-|   30 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
-|   31 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
-|   32 | Danielle Craig     |  10.7 |         2 |              |               |
+|   28 | Danielle Craig     |  13.2 |         3 |        +2.52 |               |
+|   29 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
+|   30 | Josh Lebowitz      |  12.9 |        64 |        +0.57 |         +3.37 |
+|   31 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
+|   32 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
 |   33 | Daniel Isaacson    |  10.5 |         2 |              |               |
 |   34 | Caroline Palmer    |  10.2 |         6 |        +1.79 |               |
 |   35 | Vishesh Dalal      |  10.2 |         6 |        +3.67 |               |
