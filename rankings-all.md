@@ -332,37 +332,37 @@ Generated 2017-10-30.
 |  328 | Lewis Moore               |  13.0 |        69 |              |               |
 |  329 | Josh Lebowitz             |  12.9 |        64 |        +0.57 |         +3.37 |
 |  330 | David Isaksson            |  12.9 |        22 |              |               |
-|  331 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  332 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  333 | Ashley Brooks             |  12.7 |         2 |              |               |
-|  334 | Josh Shiode               |  12.6 |        20 |              |               |
-|  335 | Huw Lester                |  12.5 |         1 |              |               |
-|  336 | Richard Fabini            |  12.4 |         3 |              |               |
-|  337 | Jennifer Rha              |  12.4 |        18 |              |         +0.13 |
-|  338 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
-|  339 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
-|  340 | John Givens               |  12.2 |        13 |              |               |
-|  341 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  342 | Reed Foster               |  12.1 |         8 |              |               |
-|  343 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  344 | Larry Dale                |  11.9 |        29 |              |               |
-|  345 | Aman Gupta                |  11.8 |         3 |              |               |
-|  346 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  347 | Julian Gill               |  11.8 |         1 |              |               |
-|  348 | James Shinn               |  11.7 |       120 |              |               |
-|  349 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  350 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  351 | David Appelfeld           |  11.6 |        26 |              |               |
-|  352 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  353 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  354 | Carlos Filho              |  11.4 |         7 |              |               |
-|  355 | Karan Jain                |  11.3 |        19 |              |               |
-|  356 | Raphael Magarik           |  11.0 |        42 |        +0.40 |         +1.97 |
-|  357 | Lucas Siow                |  11.0 |        10 |              |               |
-|  358 | Manuel Coquet             |  10.9 |         7 |        +9.18 |               |
-|  359 | Dominick Ng               |  10.9 |        25 |              |               |
-|  360 | George Bentley            |  10.6 |         4 |              |               |
-|  361 | Daniel Isaacson           |  10.5 |         2 |              |               |
+|  331 | Daniel Isaacson           |  12.8 |         3 |              |               |
+|  332 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  333 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  334 | Ashley Brooks             |  12.7 |         2 |              |               |
+|  335 | Josh Shiode               |  12.6 |        20 |              |               |
+|  336 | Huw Lester                |  12.5 |         1 |              |               |
+|  337 | Richard Fabini            |  12.4 |         3 |              |               |
+|  338 | Jennifer Rha              |  12.4 |        18 |              |         +0.13 |
+|  339 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
+|  340 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
+|  341 | John Givens               |  12.2 |        13 |              |               |
+|  342 | Sylvan Arevalo            |  12.2 |         3 |              |               |
+|  343 | Reed Foster               |  12.1 |         8 |              |               |
+|  344 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  345 | Larry Dale                |  11.9 |        29 |              |               |
+|  346 | Aman Gupta                |  11.8 |         3 |              |               |
+|  347 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  348 | Julian Gill               |  11.8 |         1 |              |               |
+|  349 | James Shinn               |  11.7 |       120 |              |               |
+|  350 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  351 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  352 | David Appelfeld           |  11.6 |        26 |              |               |
+|  353 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  354 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
+|  355 | Carlos Filho              |  11.4 |         7 |              |               |
+|  356 | Karan Jain                |  11.3 |        19 |              |               |
+|  357 | Raphael Magarik           |  11.0 |        42 |        +0.40 |         +1.97 |
+|  358 | Lucas Siow                |  11.0 |        10 |              |               |
+|  359 | Manuel Coquet             |  10.9 |         7 |        +9.18 |               |
+|  360 | Dominick Ng               |  10.9 |        25 |              |               |
+|  361 | George Bentley            |  10.6 |         4 |              |               |
 |  362 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  363 | Brian Puglise             |  10.4 |         2 |              |               |
 |  364 | Lewis H. Moore            |  10.3 |         8 |              |               |
@@ -373,17 +373,17 @@ Generated 2017-10-30.
 |  369 | Vishesh Dalal             |  10.2 |         6 |        +3.67 |               |
 |  370 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  371 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  372 | Sara Bamberger            |  10.1 |         7 |        +4.66 |               |
-|  373 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  374 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  375 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
-|  376 | Nate Aden                 |   9.9 |        42 |        -0.06 |         +0.58 |
-|  377 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  378 | Daniel Schwartz           |   9.8 |        22 |              |         -0.27 |
-|  379 | Myles Gordon              |   9.8 |        42 |              |               |
-|  380 | Rashid Hameed             |   9.8 |         5 |        -0.29 |               |
-|  381 | Jacob Bank                |   9.7 |         1 |              |               |
-|  382 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  372 | Sung-Jin Oh               |  10.1 |         6 |              |               |
+|  373 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  374 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
+|  375 | Nate Aden                 |   9.9 |        42 |        -0.06 |         +0.58 |
+|  376 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  377 | Daniel Schwartz           |   9.8 |        22 |              |         -0.27 |
+|  378 | Myles Gordon              |   9.8 |        42 |              |               |
+|  379 | Sara Bamberger            |   9.8 |         8 |        +4.30 |               |
+|  380 | Jacob Bank                |   9.7 |         1 |              |               |
+|  381 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  382 | Rashid Hameed             |   9.6 |         5 |        -0.40 |               |
 |  383 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  384 | Mark Shapero              |   9.4 |         7 |              |               |
 |  385 | Kevin Pollock             |   9.4 |        28 |              |               |

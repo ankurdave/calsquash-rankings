@@ -32,14 +32,14 @@ Generated 2017-10-30.
 |   28 | Danielle Craig     |  13.2 |         3 |        +2.52 |               |
 |   29 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
 |   30 | Josh Lebowitz      |  12.9 |        64 |        +0.57 |         +3.37 |
-|   31 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
-|   32 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
-|   33 | Daniel Isaacson    |  10.5 |         2 |              |               |
+|   31 | Daniel Isaacson    |  12.8 |         3 |              |               |
+|   32 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
+|   33 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
 |   34 | Caroline Palmer    |  10.2 |         6 |        +1.79 |               |
 |   35 | Vishesh Dalal      |  10.2 |         6 |        +3.67 |               |
-|   36 | Sara Bamberger     |  10.1 |         7 |        +4.66 |               |
-|   37 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
-|   38 | Rashid Hameed      |   9.8 |         5 |        -0.29 |               |
+|   36 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
+|   37 | Sara Bamberger     |   9.8 |         8 |        +4.30 |               |
+|   38 | Rashid Hameed      |   9.6 |         5 |        -0.40 |               |
 |   39 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
 |   40 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.36 |
 |   41 | Brian Kempenich    |   8.5 |        57 |        +0.77 |         -0.10 |
