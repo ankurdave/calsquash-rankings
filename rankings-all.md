@@ -78,7 +78,7 @@ Generated 2017-10-30.
 |   74 | Jon Shih                  |  24.4 |        47 |              |               |
 |   75 | Jim Veitch                |  24.4 |       468 |        +0.17 |         -0.92 |
 |   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   77 | John Kunze                |  24.3 |       339 |        -0.27 |         -0.37 |
+|   77 | John Kunze                |  24.3 |       339 |        -0.28 |         -0.38 |
 |   78 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   79 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -103,10 +103,10 @@ Generated 2017-10-30.
 |   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |  100 | Garvin Heath              |  23.4 |        28 |              |               |
 |  101 | Daniel Greengard          |  23.1 |        37 |              |               |
-|  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|  103 | Joe Farrell               |  23.0 |        30 |              |               |
-|  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Dan Bohn                  |  22.9 |       113 |        +0.11 |         -0.22 |
+|  102 | Dan Bohn                  |  23.1 |       114 |        +0.23 |         -0.10 |
+|  103 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|  104 | Joe Farrell               |  23.0 |        30 |              |               |
+|  105 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  108 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -128,7 +128,7 @@ Generated 2017-10-30.
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Dan Meier                 |  21.9 |        81 |        -0.11 |         -0.82 |
+|  127 | Dan Meier                 |  21.9 |        81 |        -0.10 |         -0.82 |
 |  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -175,9 +175,9 @@ Generated 2017-10-30.
 |  171 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  172 | Jonathan Francis          |  20.0 |        76 |              |         +0.48 |
 |  173 | Wesley Huang              |  20.0 |         8 |              |               |
-|  174 | Anthony Abel              |  20.0 |        12 |        +0.45 |               |
-|  175 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  176 | Liam King                 |  19.9 |         6 |              |               |
+|  174 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  175 | Liam King                 |  19.9 |         6 |              |               |
+|  176 | Anthony Abel              |  19.9 |        13 |        +0.36 |               |
 |  177 | Lysander Jim              |  19.8 |         6 |              |               |
 |  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
@@ -199,7 +199,7 @@ Generated 2017-10-30.
 |  195 | Yating Liu                |  19.0 |         7 |              |               |
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  197 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  198 | Ankur Dave                |  18.9 |        92 |        +0.55 |         +4.27 |
+|  198 | Ankur Dave                |  18.9 |        92 |        +0.55 |         +4.28 |
 |  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  201 | Arbi Vartan               |  18.7 |        20 |              |               |
