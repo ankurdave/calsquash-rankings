@@ -43,14 +43,14 @@ Generated 2017-10-30.
 |   39 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
 |   40 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.36 |
 |   41 | Brian Kempenich    |   8.5 |        57 |        +0.77 |         -0.10 |
-|   42 | Ryan van der Harst |   5.1 |         4 |              |               |
-|   43 | Zsolt Bartha       |   4.7 |        70 |        +0.76 |         +0.11 |
-|   44 | Avi Flamholz       |   4.2 |         8 |        +0.56 |               |
-|   45 | Saijoscha Heck     |   2.9 |         6 |        +0.41 |               |
-|   46 | Joanna Majkowski   |   2.6 |         5 |              |               |
-|   47 | Duncan MacRae      |   0.8 |        35 |        +0.59 |         +6.39 |
+|   42 | Zsolt Bartha       |   4.7 |        70 |        +0.73 |         +0.07 |
+|   43 | Avi Flamholz       |   4.2 |         8 |        +0.56 |               |
+|   44 | Saijoscha Heck     |   2.9 |         6 |        +0.41 |               |
+|   45 | Joanna Majkowski   |   2.6 |         5 |              |               |
+|   46 | Duncan MacRae      |   0.8 |        36 |        +0.56 |         +6.37 |
+|   47 | Ryan van der Harst |  -1.0 |         4 |              |               |
 |   48 | Cori Land          |  -2.0 |         4 |              |               |
 |   49 | Pierre Youssef     |  -2.6 |         1 |              |               |
 |   50 | John Hwong         |  -3.8 |         2 |        -3.05 |               |
-|   51 | Oly Rillera        |  -4.8 |         2 |              |               |
-|   52 | Navarun Jain       | -12.3 |         6 |        -0.01 |               |
+|   51 | Oly Rillera        |  -7.3 |         2 |              |               |
+|   52 | Navarun Jain       | -12.4 |         7 |        -0.10 |               |
