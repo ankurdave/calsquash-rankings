@@ -1,4 +1,4 @@
-Generated 2017-10-29.
+Generated 2017-10-30.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -14,16 +14,16 @@ Generated 2017-10-29.
 |   10 | Matt Wong          |  24.0 |       103 |        -0.56 |         +1.34 |
 |   11 | Dan Bohn           |  22.9 |       113 |        +0.11 |         -0.22 |
 |   12 | Dan Meier          |  21.9 |        81 |        -0.11 |         -0.82 |
-|   13 | Jonathan Hankar    |  21.6 |       218 |              |               |
+|   13 | Jonathan Hankar    |  21.7 |       219 |        +0.13 |         +0.14 |
 |   14 | Reid Johnsen       |  21.5 |        56 |        +0.26 |         -0.52 |
-|   15 | Mark Modera        |  20.6 |       340 |        +0.64 |         -0.26 |
+|   15 | Mark Modera        |  20.6 |       340 |        +0.64 |         -0.25 |
 |   16 | Anthony Abel       |  20.0 |        12 |        +0.45 |               |
 |   17 | Mike Jensen-Akula  |  19.1 |       237 |        -0.18 |         -1.27 |
 |   18 | Jaime Perez        |  19.1 |        31 |        -0.47 |         -0.24 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.55 |         +4.27 |
-|   20 | Josh Trauner       |  17.8 |        69 |        -0.43 |               |
-|   21 | Matthew Bond       |  17.6 |         4 |              |               |
-|   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.26 |         +9.09 |
+|   20 | Matthew Bond       |  17.6 |         4 |              |               |
+|   21 | Josh Trauner       |  17.6 |        70 |        -0.58 |         -0.13 |
+|   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.27 |         +9.08 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
 |   24 | Karan Goyal        |  16.4 |        19 |        +1.81 |               |
 |   25 | Craig Hollow       |  15.1 |        34 |        +0.39 |               |
@@ -46,7 +46,7 @@ Generated 2017-10-29.
 |   42 | Ryan van der Harst |   5.1 |         4 |              |               |
 |   43 | Zsolt Bartha       |   4.7 |        70 |        +0.76 |         +0.11 |
 |   44 | Avi Flamholz       |   4.2 |         8 |        +0.56 |               |
-|   45 | Saijoscha Heck     |   2.9 |         6 |        +0.42 |               |
+|   45 | Saijoscha Heck     |   2.9 |         6 |        +0.41 |               |
 |   46 | Joanna Majkowski   |   2.6 |         5 |              |               |
 |   47 | Duncan MacRae      |   0.8 |        35 |        +0.59 |         +6.39 |
 |   48 | Cori Land          |  -2.0 |         4 |              |               |

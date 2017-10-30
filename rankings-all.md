@@ -1,4 +1,4 @@
-Generated 2017-10-29.
+Generated 2017-10-30.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -132,11 +132,11 @@ Generated 2017-10-29.
 |  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  131 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  132 | Omair Azam                |  21.7 |        18 |              |               |
-|  133 | Phin Lee                  |  21.7 |        16 |              |               |
-|  134 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  135 | Jonathan Hankar           |  21.6 |       218 |              |               |
+|  131 | Jonathan Hankar           |  21.7 |       219 |        +0.13 |         +0.14 |
+|  132 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  133 | Omair Azam                |  21.7 |        18 |              |               |
+|  134 | Phin Lee                  |  21.7 |        16 |              |               |
+|  135 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
 |  137 | Reid Johnsen              |  21.5 |        56 |        +0.26 |         -0.52 |
 |  138 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
@@ -157,7 +157,7 @@ Generated 2017-10-29.
 |  153 | Jamie Funk                |  20.8 |        30 |              |               |
 |  154 | Matthew Brett             |  20.7 |        20 |              |               |
 |  155 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  156 | Mark Modera               |  20.6 |       340 |        +0.64 |         -0.26 |
+|  156 | Mark Modera               |  20.6 |       340 |        +0.64 |         -0.25 |
 |  157 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  158 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  159 | Prakash Bathini           |  20.5 |       123 |              |         -0.17 |
@@ -228,9 +228,9 @@ Generated 2017-10-29.
 |  224 | Nick Paget                |  17.8 |        35 |              |               |
 |  225 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  226 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  227 | Josh Trauner              |  17.8 |        69 |        -0.43 |               |
-|  228 | George Roche              |  17.7 |        14 |              |               |
-|  229 | Matthew Bond              |  17.6 |         4 |              |               |
+|  227 | George Roche              |  17.7 |        14 |              |               |
+|  228 | Matthew Bond              |  17.6 |         4 |              |               |
+|  229 | Josh Trauner              |  17.6 |        70 |        -0.58 |         -0.13 |
 |  230 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  231 | Subrato Dey               |  17.5 |        26 |              |               |
 |  232 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -247,8 +247,8 @@ Generated 2017-10-29.
 |  243 | Lucas Cheon               |  17.2 |        19 |              |               |
 |  244 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  245 | Neil Conway               |  17.0 |        55 |              |               |
-|  246 | Sahar Sareminaeni         |  17.0 |        49 |        -0.26 |         +9.09 |
-|  247 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  246 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  247 | Sahar Sareminaeni         |  17.0 |        49 |        -0.27 |         +9.08 |
 |  248 | Baxter Leman              |  16.9 |         6 |              |               |
 |  249 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  250 | Allan Dafoe               |  16.8 |        43 |              |               |
@@ -466,7 +466,7 @@ Generated 2017-10-29.
 |  462 | Maria Garzon              |   3.0 |         5 |              |               |
 |  463 | Nadir Shams               |   3.0 |         2 |              |               |
 |  464 | Ji Seop Oh                |   2.9 |         2 |              |               |
-|  465 | Saijoscha Heck            |   2.9 |         6 |        +0.42 |               |
+|  465 | Saijoscha Heck            |   2.9 |         6 |        +0.41 |               |
 |  466 | Sagar Pilania             |   2.8 |         2 |              |               |
 |  467 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  468 | Joanna Majkowski          |   2.6 |         5 |              |               |
