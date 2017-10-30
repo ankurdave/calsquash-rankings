@@ -1,4 +1,4 @@
-Generated 2017-10-28.
+Generated 2017-10-29.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -136,9 +136,9 @@ Generated 2017-10-28.
 |  132 | Omair Azam                |  21.7 |        18 |              |               |
 |  133 | Phin Lee                  |  21.7 |        16 |              |               |
 |  134 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  135 | Reid Johnsen              |  21.6 |        55 |        +0.41 |         -0.37 |
+|  135 | Jonathan Hankar           |  21.6 |       218 |              |               |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Jonathan Hankar           |  21.4 |       217 |        -0.17 |         -0.16 |
+|  137 | Reid Johnsen              |  21.5 |        56 |        +0.26 |         -0.52 |
 |  138 | Jared Bard                |  21.3 |        46 |              |         +0.37 |
 |  139 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -157,7 +157,7 @@ Generated 2017-10-28.
 |  153 | Jamie Funk                |  20.8 |        30 |              |               |
 |  154 | Matthew Brett             |  20.7 |        20 |              |               |
 |  155 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  156 | Mark Modera               |  20.6 |       340 |        +0.63 |         -0.26 |
+|  156 | Mark Modera               |  20.6 |       340 |        +0.64 |         -0.26 |
 |  157 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  158 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  159 | Prakash Bathini           |  20.5 |       123 |              |         -0.17 |
