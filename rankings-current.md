@@ -26,21 +26,21 @@ Generated 2017-10-31.
 |   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.27 |         +9.08 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
 |   24 | Karan Goyal        |  16.4 |        19 |        +1.81 |               |
-|   25 | Craig Hollow       |  15.1 |        34 |        +0.39 |               |
+|   25 | Craig Hollow       |  15.3 |        35 |        +0.58 |               |
 |   26 | Kent Daniels       |  13.7 |       117 |        +0.35 |         -1.67 |
 |   27 | Diego Butrich      |  13.7 |        19 |        -0.40 |         -0.44 |
 |   28 | Danielle Craig     |  13.2 |         3 |        +2.52 |               |
 |   29 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
 |   30 | Josh Lebowitz      |  12.9 |        64 |        +0.57 |         +3.37 |
-|   31 | Daniel Isaacson    |  12.8 |         3 |              |               |
-|   32 | Caroline Palmer    |  11.6 |         7 |        +3.19 |               |
+|   31 | Daniel Isaacson    |  12.6 |         3 |              |               |
+|   32 | Caroline Palmer    |  11.6 |         7 |        +3.17 |               |
 |   33 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
 |   34 | Manuel Coquet      |  10.9 |         7 |        +9.14 |               |
 |   35 | Vishesh Dalal      |  10.2 |         6 |        +3.67 |               |
 |   36 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
-|   37 | Sara Bamberger     |   9.8 |         8 |        +4.30 |               |
-|   38 | Terence Stotz      |   9.4 |        16 |        +0.38 |               |
-|   39 | Rashid Hameed      |   9.1 |         6 |        -0.96 |               |
+|   37 | Terence Stotz      |   9.4 |        16 |        +0.38 |               |
+|   38 | Sara Bamberger     |   9.3 |         9 |        +3.86 |               |
+|   39 | Rashid Hameed      |   9.0 |         6 |        -1.09 |               |
 |   40 | Brian Kempenich    |   8.5 |        57 |        +0.76 |         -0.11 |
 |   41 | Duo Wang           |   8.5 |        82 |        -0.72 |         +0.12 |
 |   42 | Zsolt Bartha       |   4.7 |        70 |        +0.73 |         +0.07 |
