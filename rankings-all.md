@@ -73,12 +73,12 @@ Generated 2017-10-30.
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   72 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   73 | Adam Pollak               |  24.5 |        31 |              |               |
-|   74 | Jon Shih                  |  24.4 |        47 |              |               |
-|   75 | Jim Veitch                |  24.4 |       468 |        +0.17 |         -0.92 |
-|   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   77 | John Kunze                |  24.3 |       339 |        -0.28 |         -0.38 |
+|   72 | John Kunze                |  24.5 |       340 |        -0.10 |         -0.20 |
+|   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   74 | Adam Pollak               |  24.5 |        31 |              |               |
+|   75 | Jon Shih                  |  24.4 |        47 |              |               |
+|   76 | Jim Veitch                |  24.4 |       468 |        +0.17 |         -0.92 |
+|   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   78 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   79 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
@@ -128,11 +128,11 @@ Generated 2017-10-30.
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Dan Meier                 |  21.9 |        81 |        -0.10 |         -0.82 |
-|  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  131 | Jonathan Hankar           |  21.7 |       219 |        +0.13 |         +0.14 |
+|  127 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  130 | Jonathan Hankar           |  21.7 |       219 |        +0.13 |         +0.14 |
+|  131 | Dan Meier                 |  21.7 |        82 |        -0.28 |         -1.00 |
 |  132 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  133 | Omair Azam                |  21.7 |        18 |              |               |
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
@@ -199,7 +199,7 @@ Generated 2017-10-30.
 |  195 | Yating Liu                |  19.0 |         7 |              |               |
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  197 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  198 | Ankur Dave                |  18.9 |        92 |        +0.55 |         +4.28 |
+|  198 | Ankur Dave                |  18.9 |        92 |        +0.55 |         +4.27 |
 |  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  201 | Arbi Vartan               |  18.7 |        20 |              |               |

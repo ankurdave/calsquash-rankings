@@ -9,18 +9,18 @@ Generated 2017-10-30.
 |    5 | Anibhav Singla     |  28.0 |        34 |        +0.15 |               |
 |    6 | Thomas Littleton   |  27.2 |        18 |        +0.27 |               |
 |    7 | Frank Kennamer     |  27.0 |       241 |        -0.08 |         -0.40 |
-|    8 | Jim Veitch         |  24.4 |       468 |        +0.17 |         -0.92 |
-|    9 | John Kunze         |  24.3 |       339 |        -0.28 |         -0.38 |
+|    8 | John Kunze         |  24.5 |       340 |        -0.10 |         -0.20 |
+|    9 | Jim Veitch         |  24.4 |       468 |        +0.17 |         -0.92 |
 |   10 | Matt Wong          |  24.0 |       103 |        -0.56 |         +1.34 |
 |   11 | Dan Bohn           |  23.1 |       114 |        +0.23 |         -0.10 |
-|   12 | Dan Meier          |  21.9 |        81 |        -0.10 |         -0.82 |
-|   13 | Jonathan Hankar    |  21.7 |       219 |        +0.13 |         +0.14 |
+|   12 | Jonathan Hankar    |  21.7 |       219 |        +0.13 |         +0.14 |
+|   13 | Dan Meier          |  21.7 |        82 |        -0.28 |         -1.00 |
 |   14 | Reid Johnsen       |  21.5 |        56 |        +0.26 |         -0.52 |
 |   15 | Mark Modera        |  20.6 |       340 |        +0.64 |         -0.25 |
 |   16 | Anthony Abel       |  19.9 |        13 |        +0.36 |               |
 |   17 | Mike Jensen-Akula  |  19.1 |       237 |        -0.18 |         -1.27 |
 |   18 | Jaime Perez        |  19.1 |        31 |        -0.47 |         -0.24 |
-|   19 | Ankur Dave         |  18.9 |        92 |        +0.55 |         +4.28 |
+|   19 | Ankur Dave         |  18.9 |        92 |        +0.55 |         +4.27 |
 |   20 | Matthew Bond       |  17.6 |         4 |              |               |
 |   21 | Josh Trauner       |  17.6 |        70 |        -0.58 |         -0.13 |
 |   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.27 |         +9.08 |
