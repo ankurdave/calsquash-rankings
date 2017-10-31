@@ -9,18 +9,18 @@ Generated 2017-10-31.
 |    5 | Anibhav Singla     |  28.0 |        34 |        +0.15 |               |
 |    6 | Thomas Littleton   |  27.2 |        18 |        +0.27 |               |
 |    7 | Frank Kennamer     |  27.0 |       241 |        -0.08 |         -0.40 |
-|    8 | John Kunze         |  24.5 |       340 |        -0.10 |         -0.20 |
+|    8 | John Kunze         |  24.5 |       340 |        -0.10 |         -0.19 |
 |    9 | Jim Veitch         |  24.4 |       468 |        +0.17 |         -0.92 |
 |   10 | Matt Wong          |  24.0 |       103 |        -0.56 |         +1.34 |
-|   11 | Dan Bohn           |  23.1 |       114 |        +0.23 |         -0.10 |
-|   12 | Jonathan Hankar    |  21.7 |       219 |        +0.13 |         +0.14 |
-|   13 | Dan Meier          |  21.7 |        82 |        -0.28 |         -1.00 |
+|   11 | Dan Bohn           |  23.2 |       114 |        +0.31 |         -0.01 |
+|   12 | Dan Meier          |  21.8 |        83 |        -0.21 |         -0.93 |
+|   13 | Jonathan Hankar    |  21.7 |       219 |        +0.13 |         +0.14 |
 |   14 | Reid Johnsen       |  21.5 |        56 |        +0.26 |         -0.52 |
 |   15 | Mark Modera        |  20.6 |       340 |        +0.64 |         -0.25 |
-|   16 | Anthony Abel       |  19.9 |        13 |        +0.36 |               |
+|   16 | Anthony Abel       |  19.7 |        14 |        +0.21 |               |
 |   17 | Mike Jensen-Akula  |  19.1 |       237 |        -0.18 |         -1.27 |
 |   18 | Jaime Perez        |  19.1 |        31 |        -0.47 |         -0.24 |
-|   19 | Ankur Dave         |  18.9 |        92 |        +0.55 |         +4.27 |
+|   19 | Ankur Dave         |  18.9 |        92 |        +0.52 |         +4.25 |
 |   20 | Matthew Bond       |  17.6 |         4 |              |               |
 |   21 | Josh Trauner       |  17.6 |        70 |        -0.58 |         -0.13 |
 |   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.27 |         +9.08 |
@@ -46,7 +46,7 @@ Generated 2017-10-31.
 |   42 | Zsolt Bartha       |   4.7 |        70 |        +0.73 |         +0.07 |
 |   43 | Avi Flamholz       |   4.2 |         8 |        +0.56 |               |
 |   44 | Saijoscha Heck     |   2.9 |         6 |        +0.41 |               |
-|   45 | Joanna Majkowski   |   2.6 |         5 |              |               |
+|   45 | Joanna Majkowski   |   2.8 |         5 |              |               |
 |   46 | Duncan MacRae      |   0.8 |        36 |        +0.56 |         +6.37 |
 |   47 | Ryan van der Harst |  -1.0 |         4 |              |               |
 |   48 | Cori Land          |  -2.0 |         4 |              |               |

@@ -73,7 +73,7 @@ Generated 2017-10-31.
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   72 | John Kunze                |  24.5 |       340 |        -0.10 |         -0.20 |
+|   72 | John Kunze                |  24.5 |       340 |        -0.10 |         -0.19 |
 |   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   74 | Adam Pollak               |  24.5 |        31 |              |               |
 |   75 | Jon Shih                  |  24.4 |        47 |              |               |
@@ -102,8 +102,8 @@ Generated 2017-10-31.
 |   98 | Amy Lee                   |  23.6 |        56 |              |               |
 |   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |  100 | Garvin Heath              |  23.4 |        28 |              |               |
-|  101 | Daniel Greengard          |  23.1 |        37 |              |               |
-|  102 | Dan Bohn                  |  23.1 |       114 |        +0.23 |         -0.10 |
+|  101 | Dan Bohn                  |  23.2 |       114 |        +0.31 |         -0.01 |
+|  102 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  103 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  104 | Joe Farrell               |  23.0 |        30 |              |               |
 |  105 | Lyle Fearnley             |  23.0 |        30 |              |               |
@@ -128,11 +128,11 @@ Generated 2017-10-31.
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  128 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  129 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  130 | Jonathan Hankar           |  21.7 |       219 |        +0.13 |         +0.14 |
-|  131 | Dan Meier                 |  21.7 |        82 |        -0.28 |         -1.00 |
+|  127 | Dan Meier                 |  21.8 |        83 |        -0.21 |         -0.93 |
+|  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  131 | Jonathan Hankar           |  21.7 |       219 |        +0.13 |         +0.14 |
 |  132 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  133 | Omair Azam                |  21.7 |        18 |              |               |
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
@@ -177,10 +177,10 @@ Generated 2017-10-31.
 |  173 | Wesley Huang              |  20.0 |         8 |              |               |
 |  174 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  175 | Liam King                 |  19.9 |         6 |              |               |
-|  176 | Anthony Abel              |  19.9 |        13 |        +0.36 |               |
-|  177 | Lysander Jim              |  19.8 |         6 |              |               |
-|  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  176 | Lysander Jim              |  19.8 |         6 |              |               |
+|  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  178 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  179 | Anthony Abel              |  19.7 |        14 |        +0.21 |               |
 |  180 | Mike Delanty              |  19.7 |        12 |              |               |
 |  181 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  182 | Andrew Proudfoot          |  19.6 |        26 |              |               |
@@ -199,8 +199,8 @@ Generated 2017-10-31.
 |  195 | Yating Liu                |  19.0 |         7 |              |               |
 |  196 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  197 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  198 | Ankur Dave                |  18.9 |        92 |        +0.55 |         +4.27 |
-|  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  198 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  199 | Ankur Dave                |  18.9 |        92 |        +0.52 |         +4.25 |
 |  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  201 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  202 | Peter Dering              |  18.7 |         9 |              |               |
@@ -466,9 +466,9 @@ Generated 2017-10-31.
 |  462 | Nadir Shams               |   3.0 |         2 |              |               |
 |  463 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  464 | Saijoscha Heck            |   2.9 |         6 |        +0.41 |               |
-|  465 | Sagar Pilania             |   2.8 |         2 |              |               |
-|  466 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  467 | Joanna Majkowski          |   2.6 |         5 |              |               |
+|  465 | Joanna Majkowski          |   2.8 |         5 |              |               |
+|  466 | Sagar Pilania             |   2.8 |         2 |              |               |
+|  467 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  468 | David Vogel               |   2.6 |         7 |              |               |
 |  469 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  470 | Cristhian Daniel          |   2.3 |        19 |              |         +2.25 |
