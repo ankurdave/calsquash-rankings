@@ -360,8 +360,8 @@ Generated 2017-10-30.
 |  356 | Karan Jain                |  11.3 |        19 |              |               |
 |  357 | Raphael Magarik           |  11.0 |        42 |        +0.40 |         +1.97 |
 |  358 | Lucas Siow                |  11.0 |        10 |              |               |
-|  359 | Manuel Coquet             |  10.9 |         7 |        +9.18 |               |
-|  360 | Dominick Ng               |  10.9 |        25 |              |               |
+|  359 | Dominick Ng               |  10.9 |        25 |              |               |
+|  360 | Manuel Coquet             |  10.9 |         7 |        +9.14 |               |
 |  361 | George Bentley            |  10.6 |         4 |              |               |
 |  362 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  363 | Brian Puglise             |  10.4 |         2 |              |               |
@@ -385,29 +385,29 @@ Generated 2017-10-30.
 |  381 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  382 | Rashid Hameed             |   9.6 |         5 |        -0.40 |               |
 |  383 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  384 | Mark Shapero              |   9.4 |         7 |              |               |
-|  385 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  386 | Max Grass                 |   9.4 |         1 |              |               |
-|  387 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  388 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  389 | Robert Broesler           |   9.4 |         4 |              |               |
-|  390 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  391 | Greg Sperla               |   9.3 |         8 |              |               |
-|  392 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  393 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  394 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  395 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  396 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  397 | Terence Stotz             |   8.9 |        15 |        -0.16 |               |
+|  384 | Terence Stotz             |   9.4 |        16 |        +0.38 |               |
+|  385 | Mark Shapero              |   9.4 |         7 |              |               |
+|  386 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  387 | Max Grass                 |   9.4 |         1 |              |               |
+|  388 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  389 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  390 | Robert Broesler           |   9.4 |         4 |              |               |
+|  391 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  392 | Greg Sperla               |   9.3 |         8 |              |               |
+|  393 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  394 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  395 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  396 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  397 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  398 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  399 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  400 | Duo Wang                  |   8.8 |        81 |        -0.48 |         +0.36 |
-|  401 | Therese Jones             |   8.7 |         6 |              |               |
-|  402 | Steven Yee                |   8.7 |         9 |              |               |
-|  403 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  404 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  405 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  406 | Brian Kempenich           |   8.5 |        57 |        +0.77 |         -0.10 |
+|  400 | Therese Jones             |   8.7 |         6 |              |               |
+|  401 | Steven Yee                |   8.7 |         9 |              |               |
+|  402 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  403 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  404 | Jonas Hansen              |   8.6 |        14 |              |               |
+|  405 | Brian Kempenich           |   8.5 |        57 |        +0.76 |         -0.11 |
+|  406 | Duo Wang                  |   8.5 |        82 |        -0.72 |         +0.12 |
 |  407 | Sumit Gupta               |   8.5 |        13 |              |               |
 |  408 | Reynold Xin               |   8.3 |         5 |              |               |
 |  409 | Anurag Gupta              |   8.3 |         6 |              |               |
@@ -456,8 +456,8 @@ Generated 2017-10-30.
 |  452 | Tammy J Faridi            |   4.7 |        27 |              |               |
 |  453 | Zsolt Bartha              |   4.7 |        70 |        +0.73 |         +0.07 |
 |  454 | Sameer Bajaj              |   4.3 |         4 |              |         +1.51 |
-|  455 | Avi Flamholz              |   4.2 |         8 |        +0.56 |               |
-|  456 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
+|  455 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
+|  456 | Avi Flamholz              |   4.2 |         8 |        +0.56 |               |
 |  457 | Annie Wong                |   4.0 |         3 |              |               |
 |  458 | Ryan                      |   4.0 |         3 |              |               |
 |  459 | Mateo Aceves              |   3.8 |         4 |              |               |

@@ -34,15 +34,15 @@ Generated 2017-10-30.
 |   30 | Josh Lebowitz      |  12.9 |        64 |        +0.57 |         +3.37 |
 |   31 | Daniel Isaacson    |  12.8 |         3 |              |               |
 |   32 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
-|   33 | Manuel Coquet      |  10.9 |         7 |        +9.18 |               |
+|   33 | Manuel Coquet      |  10.9 |         7 |        +9.14 |               |
 |   34 | Caroline Palmer    |  10.2 |         6 |        +1.79 |               |
 |   35 | Vishesh Dalal      |  10.2 |         6 |        +3.67 |               |
 |   36 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
 |   37 | Sara Bamberger     |   9.8 |         8 |        +4.30 |               |
 |   38 | Rashid Hameed      |   9.6 |         5 |        -0.40 |               |
-|   39 | Terence Stotz      |   8.9 |        15 |        -0.16 |               |
-|   40 | Duo Wang           |   8.8 |        81 |        -0.48 |         +0.36 |
-|   41 | Brian Kempenich    |   8.5 |        57 |        +0.77 |         -0.10 |
+|   39 | Terence Stotz      |   9.4 |        16 |        +0.38 |               |
+|   40 | Brian Kempenich    |   8.5 |        57 |        +0.76 |         -0.11 |
+|   41 | Duo Wang           |   8.5 |        82 |        -0.72 |         +0.12 |
 |   42 | Zsolt Bartha       |   4.7 |        70 |        +0.73 |         +0.07 |
 |   43 | Avi Flamholz       |   4.2 |         8 |        +0.56 |               |
 |   44 | Saijoscha Heck     |   2.9 |         6 |        +0.41 |               |
