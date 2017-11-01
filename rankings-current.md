@@ -26,21 +26,21 @@ Generated 2017-10-31.
 |   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.27 |         +9.08 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
 |   24 | Karan Goyal        |  16.4 |        19 |        +1.81 |               |
-|   25 | Craig Hollow       |  15.6 |        36 |        +0.87 |               |
-|   26 | Kent Daniels       |  13.7 |       117 |        +0.35 |         -1.67 |
-|   27 | Diego Butrich      |  13.4 |        20 |        -0.69 |         -0.72 |
+|   25 | Craig Hollow       |  15.6 |        36 |        +0.82 |               |
+|   26 | Diego Butrich      |  13.8 |        21 |        -0.33 |         -0.36 |
+|   27 | Kent Daniels       |  13.7 |       117 |        +0.35 |         -1.67 |
 |   28 | Danielle Craig     |  13.3 |         3 |        +2.67 |               |
 |   29 | Josh Lebowitz      |  12.9 |        64 |        +0.57 |         +3.37 |
 |   30 | Meldan Heaslip     |  12.9 |        42 |        -0.30 |         +8.65 |
-|   31 | Daniel Isaacson    |  12.7 |         3 |              |               |
-|   32 | Caroline Palmer    |  11.7 |         7 |        +3.23 |               |
-|   33 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
+|   31 | Daniel Isaacson    |  11.6 |         3 |              |               |
+|   32 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
+|   33 | Caroline Palmer    |  10.9 |         8 |        +2.46 |               |
 |   34 | Manuel Coquet      |  10.9 |         7 |        +9.14 |               |
 |   35 | Vishesh Dalal      |  10.2 |         6 |        +3.67 |               |
 |   36 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
-|   37 | Terence Stotz      |   9.4 |        16 |        +0.38 |               |
-|   38 | Sara Bamberger     |   9.3 |         9 |        +3.83 |               |
-|   39 | Rashid Hameed      |   9.0 |         6 |        -1.08 |               |
+|   37 | Sara Bamberger     |   9.5 |         9 |        +4.04 |               |
+|   38 | Terence Stotz      |   9.4 |        16 |        +0.38 |               |
+|   39 | Rashid Hameed      |   8.6 |         6 |        -1.45 |               |
 |   40 | Brian Kempenich    |   8.5 |        57 |        +0.76 |         -0.11 |
 |   41 | Duo Wang           |   8.5 |        82 |        -0.72 |         +0.12 |
 |   42 | Zsolt Bartha       |   4.7 |        70 |        +0.73 |         +0.07 |
