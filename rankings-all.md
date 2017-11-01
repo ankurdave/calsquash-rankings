@@ -190,9 +190,9 @@ Generated 2017-10-31.
 |  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  187 | Greg Adams                |  19.3 |        10 |              |               |
 |  188 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  189 | John Corcoran             |  19.1 |        49 |              |               |
-|  190 | Mike Jensen-Akula         |  19.1 |       237 |        -0.18 |         -1.27 |
-|  191 | Jaime Perez               |  19.1 |        31 |        -0.47 |         -0.24 |
+|  189 | Jaime Perez               |  19.2 |        32 |        -0.39 |         -0.16 |
+|  190 | John Corcoran             |  19.1 |        49 |              |               |
+|  191 | Mike Jensen-Akula         |  19.1 |       237 |        -0.18 |         -1.27 |
 |  192 | Kedar Shah                |  19.1 |         9 |              |               |
 |  193 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -323,15 +323,15 @@ Generated 2017-10-31.
 |  319 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  320 | Diego Butrich             |  13.4 |        20 |        -0.69 |         -0.72 |
 |  321 | Jake Toy                  |  13.4 |         5 |              |               |
-|  322 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  323 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  324 | Danielle Craig            |  13.2 |         3 |        +2.52 |               |
+|  322 | Danielle Craig            |  13.3 |         3 |        +2.67 |               |
+|  323 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  324 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  325 | Field Maloney             |  13.1 |        24 |              |               |
 |  326 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  327 | Meldan Heaslip            |  13.0 |        41 |        -0.19 |         +8.76 |
-|  328 | Lewis Moore               |  13.0 |        69 |              |               |
-|  329 | Josh Lebowitz             |  12.9 |        64 |        +0.57 |         +3.37 |
-|  330 | David Isaksson            |  12.9 |        22 |              |               |
+|  327 | Lewis Moore               |  13.0 |        69 |              |               |
+|  328 | Josh Lebowitz             |  12.9 |        64 |        +0.57 |         +3.37 |
+|  329 | David Isaksson            |  12.9 |        22 |              |               |
+|  330 | Meldan Heaslip            |  12.9 |        42 |        -0.30 |         +8.65 |
 |  331 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  332 | Daniel Isaacson           |  12.7 |         3 |              |               |
 |  333 | Aadityeshwar Deo          |  12.7 |         1 |              |               |

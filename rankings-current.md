@@ -18,8 +18,8 @@ Generated 2017-10-31.
 |   14 | Reid Johnsen       |  21.5 |        56 |        +0.26 |         -0.52 |
 |   15 | Mark Modera        |  20.6 |       340 |        +0.64 |         -0.25 |
 |   16 | Anthony Abel       |  19.7 |        14 |        +0.21 |               |
-|   17 | Mike Jensen-Akula  |  19.1 |       237 |        -0.18 |         -1.27 |
-|   18 | Jaime Perez        |  19.1 |        31 |        -0.47 |         -0.24 |
+|   17 | Jaime Perez        |  19.2 |        32 |        -0.39 |         -0.16 |
+|   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.18 |         -1.27 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.52 |         +4.25 |
 |   20 | Matthew Bond       |  17.6 |         4 |              |               |
 |   21 | Josh Trauner       |  17.6 |        70 |        -0.58 |         -0.13 |
@@ -29,9 +29,9 @@ Generated 2017-10-31.
 |   25 | Craig Hollow       |  15.6 |        36 |        +0.87 |               |
 |   26 | Kent Daniels       |  13.7 |       117 |        +0.35 |         -1.67 |
 |   27 | Diego Butrich      |  13.4 |        20 |        -0.69 |         -0.72 |
-|   28 | Danielle Craig     |  13.2 |         3 |        +2.52 |               |
-|   29 | Meldan Heaslip     |  13.0 |        41 |        -0.19 |         +8.76 |
-|   30 | Josh Lebowitz      |  12.9 |        64 |        +0.57 |         +3.37 |
+|   28 | Danielle Craig     |  13.3 |         3 |        +2.67 |               |
+|   29 | Josh Lebowitz      |  12.9 |        64 |        +0.57 |         +3.37 |
+|   30 | Meldan Heaslip     |  12.9 |        42 |        -0.30 |         +8.65 |
 |   31 | Daniel Isaacson    |  12.7 |         3 |              |               |
 |   32 | Caroline Palmer    |  11.7 |         7 |        +3.23 |               |
 |   33 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
