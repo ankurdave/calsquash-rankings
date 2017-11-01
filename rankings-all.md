@@ -72,8 +72,8 @@ Generated 2017-10-31.
 |   68 | Orion Hodson              |  24.8 |        31 |              |               |
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   71 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   72 | John Kunze                |  24.5 |       340 |        -0.10 |         -0.19 |
+|   71 | John Kunze                |  24.5 |       341 |        -0.07 |         -0.17 |
+|   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   74 | Adam Pollak               |  24.5 |        31 |              |               |
 |   75 | Jon Shih                  |  24.4 |        47 |              |               |
@@ -102,7 +102,7 @@ Generated 2017-10-31.
 |   98 | Amy Lee                   |  23.6 |        56 |              |               |
 |   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |  100 | Garvin Heath              |  23.4 |        28 |              |               |
-|  101 | Dan Bohn                  |  23.2 |       114 |        +0.31 |         -0.01 |
+|  101 | Dan Bohn                  |  23.1 |       115 |        +0.30 |         -0.03 |
 |  102 | Daniel Greengard          |  23.1 |        37 |              |               |
 |  103 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  104 | Joe Farrell               |  23.0 |        30 |              |               |
@@ -179,8 +179,8 @@ Generated 2017-10-31.
 |  175 | Liam King                 |  19.9 |         6 |              |               |
 |  176 | Lysander Jim              |  19.8 |         6 |              |               |
 |  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  178 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  179 | Anthony Abel              |  19.7 |        14 |        +0.21 |               |
+|  178 | Anthony Abel              |  19.7 |        14 |        +0.21 |               |
+|  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  180 | Mike Delanty              |  19.7 |        12 |              |               |
 |  181 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  182 | Andrew Proudfoot          |  19.6 |        26 |              |               |
@@ -275,11 +275,11 @@ Generated 2017-10-31.
 |  271 | Jared Nunn                |  15.7 |         5 |              |               |
 |  272 | Akash Sharma              |  15.7 |         8 |              |               |
 |  273 | Angie Ng                  |  15.7 |        12 |              |               |
-|  274 | Tanit Follett             |  15.5 |         8 |              |               |
-|  275 | Toni Queck                |  15.5 |        20 |              |               |
-|  276 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  277 | Peter Duerr               |  15.4 |        24 |              |               |
-|  278 | Craig Hollow              |  15.3 |        35 |        +0.58 |               |
+|  274 | Craig Hollow              |  15.6 |        36 |        +0.87 |               |
+|  275 | Tanit Follett             |  15.5 |         8 |              |               |
+|  276 | Toni Queck                |  15.5 |        20 |              |               |
+|  277 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  278 | Peter Duerr               |  15.4 |        24 |              |               |
 |  279 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  280 | Grant Buckingham          |  15.2 |         3 |              |               |
 |  281 | James Grant               |  15.2 |         8 |              |               |
@@ -316,12 +316,12 @@ Generated 2017-10-31.
 |  312 | Tim Browning              |  13.8 |         7 |              |               |
 |  313 | Josephine Lee             |  13.7 |         6 |              |               |
 |  314 | Kent Daniels              |  13.7 |       117 |        +0.35 |         -1.67 |
-|  315 | Diego Butrich             |  13.7 |        19 |        -0.40 |         -0.44 |
-|  316 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  317 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  318 | Lars Foleide              |  13.5 |        11 |              |               |
-|  319 | Alex Rennet               |  13.5 |         2 |              |               |
-|  320 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  315 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  316 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  317 | Lars Foleide              |  13.5 |        11 |              |               |
+|  318 | Alex Rennet               |  13.5 |         2 |              |               |
+|  319 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  320 | Diego Butrich             |  13.4 |        20 |        -0.69 |         -0.72 |
 |  321 | Jake Toy                  |  13.4 |         5 |              |               |
 |  322 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  323 | Sameer Abraham            |  13.2 |        24 |              |               |
@@ -333,10 +333,10 @@ Generated 2017-10-31.
 |  329 | Josh Lebowitz             |  12.9 |        64 |        +0.57 |         +3.37 |
 |  330 | David Isaksson            |  12.9 |        22 |              |               |
 |  331 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  332 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  333 | Ashley Brooks             |  12.7 |         2 |              |               |
-|  334 | Josh Shiode               |  12.6 |        20 |              |               |
-|  335 | Daniel Isaacson           |  12.6 |         3 |              |               |
+|  332 | Daniel Isaacson           |  12.7 |         3 |              |               |
+|  333 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  334 | Ashley Brooks             |  12.7 |         2 |              |               |
+|  335 | Josh Shiode               |  12.6 |        20 |              |               |
 |  336 | Huw Lester                |  12.5 |         1 |              |               |
 |  337 | Richard Fabini            |  12.4 |         3 |              |               |
 |  338 | Jennifer Rha              |  12.4 |        18 |              |         +0.13 |
@@ -352,9 +352,9 @@ Generated 2017-10-31.
 |  348 | Julian Gill               |  11.8 |         1 |              |               |
 |  349 | James Shinn               |  11.7 |       120 |              |               |
 |  350 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  351 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  352 | David Appelfeld           |  11.6 |        26 |              |               |
-|  353 | Caroline Palmer           |  11.6 |         7 |        +3.17 |               |
+|  351 | Caroline Palmer           |  11.7 |         7 |        +3.23 |               |
+|  352 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  353 | David Appelfeld           |  11.6 |        26 |              |               |
 |  354 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  355 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  356 | Carlos Filho              |  11.4 |         7 |              |               |
@@ -390,15 +390,15 @@ Generated 2017-10-31.
 |  386 | Alexander Porcaro         |   9.4 |         2 |              |               |
 |  387 | Rob Cuthrell              |   9.4 |        11 |              |               |
 |  388 | Robert Broesler           |   9.4 |         4 |              |               |
-|  389 | Sara Bamberger            |   9.3 |         9 |        +3.86 |               |
-|  390 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  391 | Greg Sperla               |   9.3 |         8 |              |               |
+|  389 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  390 | Greg Sperla               |   9.3 |         8 |              |               |
+|  391 | Sara Bamberger            |   9.3 |         9 |        +3.83 |               |
 |  392 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  393 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  394 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  395 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  396 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  397 | Rashid Hameed             |   9.0 |         6 |        -1.09 |               |
+|  397 | Rashid Hameed             |   9.0 |         6 |        -1.08 |               |
 |  398 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  399 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  400 | Therese Jones             |   8.7 |         6 |              |               |
