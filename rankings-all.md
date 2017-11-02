@@ -29,11 +29,11 @@ Generated 2017-11-02.
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
 |   27 | David Woo                 |  28.9 |         9 |        +0.09 |               |
-|   28 | Ali Rahim                 |  28.4 |        24 |              |               |
-|   29 | Mikael Rehn               |  28.3 |         5 |              |               |
-|   30 | Nick Cobbett              |  28.3 |        51 |        +0.19 |         +2.64 |
+|   28 | Nick Cobbett              |  28.4 |        52 |        +0.34 |         +2.79 |
+|   29 | Ali Rahim                 |  28.4 |        24 |              |               |
+|   30 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   32 | Anibhav Singla            |  28.0 |        34 |        +0.15 |               |
+|   32 | Anibhav Singla            |  27.9 |        34 |        +0.14 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Thomas Littleton          |  27.2 |        18 |        +0.27 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
@@ -90,10 +90,10 @@ Generated 2017-11-02.
 |   86 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   87 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   88 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   89 | Matt Wong                 |  24.0 |       103 |        -0.56 |         +1.34 |
-|   90 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   91 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   92 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   89 | Ignacio Canals            |  24.0 |        21 |              |               |
+|   90 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   91 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   92 | Matt Wong                 |  23.9 |       104 |        -0.70 |         +1.20 |
 |   93 | Joseff Farrell            |  23.8 |         5 |              |               |
 |   94 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.50 |
 |   95 | Matt Waid                 |  23.7 |        51 |              |               |
@@ -230,8 +230,8 @@ Generated 2017-11-02.
 |  226 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  227 | George Roche              |  17.7 |        14 |              |               |
 |  228 | Josh Trauner              |  17.6 |        70 |        -0.58 |         -0.13 |
-|  229 | Matthew Bond              |  17.6 |         4 |              |               |
-|  230 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  229 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  230 | Matthew Bond              |  17.5 |         4 |              |               |
 |  231 | Subrato Dey               |  17.5 |        26 |              |               |
 |  232 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  233 | Sam Trachtman             |  17.4 |         5 |              |               |

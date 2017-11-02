@@ -5,13 +5,13 @@ Generated 2017-11-02.
 |    1 | Ashley Kayler      |  33.7 |       231 |        +0.53 |         -1.36 |
 |    2 | Sam Sternberg      |  30.9 |       166 |        -0.11 |         +0.29 |
 |    3 | David Woo          |  28.9 |         9 |        +0.09 |               |
-|    4 | Nick Cobbett       |  28.3 |        51 |        +0.19 |         +2.64 |
-|    5 | Anibhav Singla     |  28.0 |        34 |        +0.15 |               |
+|    4 | Nick Cobbett       |  28.4 |        52 |        +0.34 |         +2.79 |
+|    5 | Anibhav Singla     |  27.9 |        34 |        +0.14 |               |
 |    6 | Thomas Littleton   |  27.2 |        18 |        +0.27 |               |
 |    7 | Frank Kennamer     |  27.0 |       241 |        -0.08 |         -0.40 |
 |    8 | John Kunze         |  24.5 |       341 |        -0.07 |         -0.17 |
 |    9 | Jim Veitch         |  24.3 |       469 |        +0.03 |         -1.06 |
-|   10 | Matt Wong          |  24.0 |       103 |        -0.56 |         +1.34 |
+|   10 | Matt Wong          |  23.9 |       104 |        -0.70 |         +1.20 |
 |   11 | Dan Bohn           |  23.1 |       115 |        +0.30 |         -0.03 |
 |   12 | Dan Meier          |  21.8 |        83 |        -0.21 |         -0.93 |
 |   13 | Jonathan Hankar    |  21.7 |       219 |        +0.13 |         +0.14 |
@@ -22,7 +22,7 @@ Generated 2017-11-02.
 |   18 | Mike Jensen-Akula  |  19.1 |       237 |        -0.18 |         -1.27 |
 |   19 | Ankur Dave         |  18.9 |        92 |        +0.52 |         +4.25 |
 |   20 | Josh Trauner       |  17.6 |        70 |        -0.58 |         -0.13 |
-|   21 | Matthew Bond       |  17.6 |         4 |              |               |
+|   21 | Matthew Bond       |  17.5 |         4 |              |               |
 |   22 | Sahar Sareminaeni  |  17.0 |        49 |        -0.27 |         +9.08 |
 |   23 | Chris Flores       |  16.7 |       327 |              |         -0.11 |
 |   24 | Karan Goyal        |  16.4 |        19 |        +1.81 |               |
