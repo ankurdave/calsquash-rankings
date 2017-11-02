@@ -1,4 +1,4 @@
-Generated 2017-11-01.
+Generated 2017-11-02.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -31,8 +31,8 @@ Generated 2017-11-01.
 |   27 | David Woo                 |  28.9 |         9 |        +0.09 |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Mikael Rehn               |  28.3 |         5 |              |               |
-|   30 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   31 | Nick Cobbett              |  28.1 |        50 |        +0.04 |         +2.49 |
+|   30 | Nick Cobbett              |  28.3 |        51 |        +0.19 |         +2.64 |
+|   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   32 | Anibhav Singla            |  28.0 |        34 |        +0.15 |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Thomas Littleton          |  27.2 |        18 |        +0.27 |               |
@@ -77,10 +77,10 @@ Generated 2017-11-01.
 |   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   74 | Adam Pollak               |  24.5 |        31 |              |               |
 |   75 | Jon Shih                  |  24.4 |        47 |              |               |
-|   76 | Jim Veitch                |  24.4 |       468 |        +0.17 |         -0.92 |
-|   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   79 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   77 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   78 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   79 | Jim Veitch                |  24.3 |       469 |        +0.03 |         -1.06 |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   81 | Toby Reiner               |  24.2 |       159 |              |               |
 |   82 | Himanshu Jatia            |  24.2 |         4 |              |               |
@@ -229,8 +229,8 @@ Generated 2017-11-01.
 |  225 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  226 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  227 | George Roche              |  17.7 |        14 |              |               |
-|  228 | Matthew Bond              |  17.6 |         4 |              |               |
-|  229 | Josh Trauner              |  17.6 |        70 |        -0.58 |         -0.13 |
+|  228 | Josh Trauner              |  17.6 |        70 |        -0.58 |         -0.13 |
+|  229 | Matthew Bond              |  17.6 |         4 |              |               |
 |  230 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  231 | Subrato Dey               |  17.5 |        26 |              |               |
 |  232 | Antonio Garcia            |  17.5 |        20 |              |               |
