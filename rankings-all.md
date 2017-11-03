@@ -358,11 +358,11 @@ Generated 2017-11-02.
 |  354 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  355 | Carlos Filho              |  11.4 |         7 |              |               |
 |  356 | Karan Jain                |  11.3 |        19 |              |               |
-|  357 | Raphael Magarik           |  11.0 |        42 |        +0.40 |         +1.97 |
-|  358 | Lucas Siow                |  11.0 |        10 |              |               |
-|  359 | Dominick Ng               |  10.9 |        25 |              |               |
-|  360 | Caroline Palmer           |  10.9 |         8 |        +2.46 |               |
-|  361 | Manuel Coquet             |  10.9 |         7 |        +9.14 |               |
+|  357 | Manuel Coquet             |  11.2 |         7 |        +9.43 |               |
+|  358 | Raphael Magarik           |  11.0 |        42 |        +0.40 |         +1.97 |
+|  359 | Lucas Siow                |  11.0 |        10 |              |               |
+|  360 | Dominick Ng               |  10.9 |        25 |              |               |
+|  361 | Caroline Palmer           |  10.9 |         8 |        +2.46 |               |
 |  362 | George Bentley            |  10.6 |         4 |              |               |
 |  363 | Sudeep Agarwal            |  10.5 |         3 |              |               |
 |  364 | Brian Puglise             |  10.4 |         2 |              |               |
@@ -376,15 +376,15 @@ Generated 2017-11-02.
 |  372 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  373 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  374 | Reto Sutter               |  10.0 |        52 |              |         -0.48 |
-|  375 | Nate Aden                 |   9.9 |        42 |        -0.06 |         +0.58 |
-|  376 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  375 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  376 | Nate Aden                 |   9.9 |        42 |        -0.11 |         +0.53 |
 |  377 | Daniel Schwartz           |   9.8 |        22 |              |         -0.27 |
 |  378 | Myles Gordon              |   9.8 |        42 |              |               |
 |  379 | Jacob Bank                |   9.7 |         1 |              |               |
 |  380 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  381 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  382 | Sara Bamberger            |   9.5 |         9 |        +4.04 |               |
-|  383 | Terence Stotz             |   9.4 |        16 |        +0.38 |               |
+|  381 | Terence Stotz             |   9.6 |        16 |        +0.51 |               |
+|  382 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  383 | Sara Bamberger            |   9.5 |         9 |        +4.04 |               |
 |  384 | Mark Shapero              |   9.4 |         7 |              |               |
 |  385 | Kevin Pollock             |   9.4 |        28 |              |               |
 |  386 | Max Grass                 |   9.4 |         1 |              |               |
@@ -406,9 +406,9 @@ Generated 2017-11-02.
 |  402 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  403 | Rashid Hameed             |   8.6 |         6 |        -1.45 |               |
 |  404 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  405 | Brian Kempenich           |   8.5 |        57 |        +0.76 |         -0.11 |
-|  406 | Duo Wang                  |   8.5 |        82 |        -0.72 |         +0.12 |
-|  407 | Sumit Gupta               |   8.5 |        13 |              |               |
+|  405 | Sumit Gupta               |   8.5 |        13 |              |               |
+|  406 | Brian Kempenich           |   8.5 |        57 |        +0.69 |         -0.18 |
+|  407 | Duo Wang                  |   8.4 |        83 |        -0.83 |               |
 |  408 | Reynold Xin               |   8.3 |         5 |              |               |
 |  409 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  410 | Fahad Riyadh              |   8.2 |         5 |              |               |
@@ -443,21 +443,21 @@ Generated 2017-11-02.
 |  439 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  440 | Norman Bonney             |   6.0 |         3 |              |               |
 |  441 | Rohan Relan               |   6.0 |         4 |              |               |
-|  442 | David Zhu                 |   5.8 |         2 |              |               |
-|  443 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  444 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  445 | Manu Vaish                |   5.5 |         1 |              |               |
-|  446 | Emily Moylan              |   5.2 |        17 |              |               |
-|  447 | Mohammad Salama           |   5.2 |         5 |              |               |
-|  448 | Catherine Wang            |   5.2 |        10 |              |               |
-|  449 | Ali Umar                  |   5.2 |        13 |              |               |
-|  450 | Martin Rasmussen          |   5.2 |         6 |              |               |
-|  451 | Nikhil Srivastava         |   5.0 |        16 |              |               |
-|  452 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  453 | Zsolt Bartha              |   4.7 |        70 |        +0.73 |         +0.07 |
-|  454 | Sameer Bajaj              |   4.3 |         4 |              |         +1.51 |
-|  455 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
-|  456 | Avi Flamholz              |   4.2 |         8 |        +0.56 |               |
+|  442 | Avi Flamholz              |   6.0 |         9 |        +2.30 |               |
+|  443 | David Zhu                 |   5.8 |         2 |              |               |
+|  444 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  445 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  446 | Manu Vaish                |   5.5 |         1 |              |               |
+|  447 | Emily Moylan              |   5.2 |        17 |              |               |
+|  448 | Mohammad Salama           |   5.2 |         5 |              |               |
+|  449 | Catherine Wang            |   5.2 |        10 |              |               |
+|  450 | Ali Umar                  |   5.2 |        13 |              |               |
+|  451 | Martin Rasmussen          |   5.2 |         6 |              |               |
+|  452 | Nikhil Srivastava         |   5.0 |        16 |              |               |
+|  453 | Tammy J Faridi            |   4.7 |        27 |              |               |
+|  454 | Zsolt Bartha              |   4.7 |        70 |        +0.73 |         +0.07 |
+|  455 | Sameer Bajaj              |   4.3 |         4 |              |         +1.51 |
+|  456 | Anuj Dawar                |   4.2 |        15 |              |         +1.73 |
 |  457 | Annie Wong                |   4.0 |         3 |              |               |
 |  458 | Ryan                      |   4.0 |         3 |              |               |
 |  459 | Mateo Aceves              |   3.8 |         4 |              |               |

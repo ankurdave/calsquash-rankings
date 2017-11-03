@@ -33,18 +33,18 @@ Generated 2017-11-02.
 |   29 | Josh Lebowitz      |  12.9 |        64 |        +0.57 |         +3.37 |
 |   30 | Meldan Heaslip     |  12.9 |        42 |        -0.30 |         +8.65 |
 |   31 | Daniel Isaacson    |  11.6 |         3 |              |               |
-|   32 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
-|   33 | Caroline Palmer    |  10.9 |         8 |        +2.46 |               |
-|   34 | Manuel Coquet      |  10.9 |         7 |        +9.14 |               |
+|   32 | Manuel Coquet      |  11.2 |         7 |        +9.43 |               |
+|   33 | Raphael Magarik    |  11.0 |        42 |        +0.40 |         +1.97 |
+|   34 | Caroline Palmer    |  10.9 |         8 |        +2.46 |               |
 |   35 | Vishesh Dalal      |  10.2 |         6 |        +3.67 |               |
-|   36 | Nate Aden          |   9.9 |        42 |        -0.06 |         +0.58 |
-|   37 | Sara Bamberger     |   9.5 |         9 |        +4.04 |               |
-|   38 | Terence Stotz      |   9.4 |        16 |        +0.38 |               |
+|   36 | Nate Aden          |   9.9 |        42 |        -0.11 |         +0.53 |
+|   37 | Terence Stotz      |   9.6 |        16 |        +0.51 |               |
+|   38 | Sara Bamberger     |   9.5 |         9 |        +4.04 |               |
 |   39 | Rashid Hameed      |   8.6 |         6 |        -1.45 |               |
-|   40 | Brian Kempenich    |   8.5 |        57 |        +0.76 |         -0.11 |
-|   41 | Duo Wang           |   8.5 |        82 |        -0.72 |         +0.12 |
-|   42 | Zsolt Bartha       |   4.7 |        70 |        +0.73 |         +0.07 |
-|   43 | Avi Flamholz       |   4.2 |         8 |        +0.56 |               |
+|   40 | Brian Kempenich    |   8.5 |        57 |        +0.69 |         -0.18 |
+|   41 | Duo Wang           |   8.4 |        83 |        -0.83 |               |
+|   42 | Avi Flamholz       |   6.0 |         9 |        +2.30 |               |
+|   43 | Zsolt Bartha       |   4.7 |        70 |        +0.73 |         +0.07 |
 |   44 | Saijoscha Heck     |   2.9 |         6 |        +0.41 |               |
 |   45 | Joanna Majkowski   |   2.8 |         5 |              |               |
 |   46 | Duncan MacRae      |   0.8 |        36 |        +0.56 |         +6.37 |
