@@ -6,8 +6,8 @@ Generated 2017-11-05.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Ashley Kayler             |  33.7 |       231 |              |         -1.36 |
-|    6 | Eric Katerman             |  33.5 |        64 |              |         +2.04 |
+|    5 | Eric Katerman             |  33.7 |        65 |        +0.21 |         +2.25 |
+|    6 | Ashley Kayler             |  33.5 |       232 |        -0.18 |         -1.53 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
