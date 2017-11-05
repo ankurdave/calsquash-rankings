@@ -359,8 +359,8 @@ Generated 2017-11-05.
 |  355 | Carlos Filho              |  11.4 |         7 |              |               |
 |  356 | Karan Jain                |  11.3 |        19 |              |               |
 |  357 | Manuel Coquet             |  11.2 |         7 |              |               |
-|  358 | Raphael Magarik           |  11.0 |        42 |              |         +2.27 |
-|  359 | Lucas Siow                |  11.0 |        10 |              |               |
+|  358 | Lucas Siow                |  11.0 |        10 |              |               |
+|  359 | Raphael Magarik           |  11.0 |        43 |        -0.04 |         +2.22 |
 |  360 | Dominick Ng               |  10.9 |        25 |              |               |
 |  361 | Caroline Palmer           |  10.9 |         8 |              |               |
 |  362 | George Bentley            |  10.6 |         4 |              |               |
@@ -390,21 +390,21 @@ Generated 2017-11-05.
 |  386 | Max Grass                 |   9.4 |         1 |              |               |
 |  387 | Alexander Porcaro         |   9.4 |         2 |              |               |
 |  388 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  389 | Robert Broesler           |   9.4 |         4 |              |               |
-|  390 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  391 | Greg Sperla               |   9.3 |         8 |              |               |
-|  392 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  393 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  394 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  395 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  396 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  397 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  398 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  399 | Therese Jones             |   8.7 |         6 |              |               |
-|  400 | Steven Yee                |   8.7 |         9 |              |               |
-|  401 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  402 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  403 | Rashid Hameed             |   8.6 |         6 |              |               |
+|  389 | Rashid Hameed             |   9.4 |         7 |        +0.76 |               |
+|  390 | Robert Broesler           |   9.4 |         4 |              |               |
+|  391 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  392 | Greg Sperla               |   9.3 |         8 |              |               |
+|  393 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  394 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  395 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  396 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  397 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  398 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  399 | Nicholas Bauer            |   8.8 |        16 |              |               |
+|  400 | Therese Jones             |   8.7 |         6 |              |               |
+|  401 | Steven Yee                |   8.7 |         9 |              |               |
+|  402 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  403 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  404 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  405 | Sumit Gupta               |   8.5 |        13 |              |               |
 |  406 | Brian Kempenich           |   8.5 |        57 |              |         -0.09 |
