@@ -1,4 +1,4 @@
-Generated 2017-11-06.
+Generated 2017-11-07.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -376,13 +376,13 @@ Generated 2017-11-06.
 |  372 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  373 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  374 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
-|  375 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  376 | Nate Aden                 |   9.9 |        42 |              |         -0.11 |
-|  377 | Daniel Schwartz           |   9.8 |        22 |              |         -0.69 |
-|  378 | Myles Gordon              |   9.8 |        42 |              |               |
-|  379 | Jacob Bank                |   9.7 |         1 |              |               |
-|  380 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  381 | Terence Stotz             |   9.6 |        16 |              |               |
+|  375 | Terence Stotz             |  10.0 |        17 |        +0.40 |               |
+|  376 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  377 | Nate Aden                 |   9.9 |        42 |              |         -0.11 |
+|  378 | Daniel Schwartz           |   9.8 |        22 |              |         -0.69 |
+|  379 | Myles Gordon              |   9.8 |        42 |              |               |
+|  380 | Jacob Bank                |   9.7 |         1 |              |               |
+|  381 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  382 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  383 | Sara Bamberger            |   9.5 |         9 |              |               |
 |  384 | Mark Shapero              |   9.4 |         7 |              |               |
@@ -443,11 +443,11 @@ Generated 2017-11-06.
 |  439 | Rafael Silberblatt        |   6.1 |         5 |              |               |
 |  440 | Norman Bonney             |   6.0 |         3 |              |               |
 |  441 | Rohan Relan               |   6.0 |         4 |              |               |
-|  442 | Avi Flamholz              |   6.0 |         9 |              |               |
-|  443 | David Zhu                 |   5.8 |         2 |              |               |
-|  444 | Ivan Rothman              |   5.7 |         5 |              |               |
-|  445 | Gwendal Rannou            |   5.6 |        13 |              |               |
-|  446 | Manu Vaish                |   5.5 |         1 |              |               |
+|  442 | David Zhu                 |   5.8 |         2 |              |               |
+|  443 | Ivan Rothman              |   5.7 |         5 |              |               |
+|  444 | Gwendal Rannou            |   5.6 |        13 |              |               |
+|  445 | Manu Vaish                |   5.5 |         1 |              |               |
+|  446 | Avi Flamholz              |   5.4 |        10 |        -0.52 |               |
 |  447 | Emily Moylan              |   5.2 |        17 |              |               |
 |  448 | Mohammad Salama           |   5.2 |         5 |              |               |
 |  449 | Catherine Wang            |   5.2 |        10 |              |               |

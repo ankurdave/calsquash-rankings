@@ -1,4 +1,4 @@
-Generated 2017-11-06.
+Generated 2017-11-07.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -39,13 +39,13 @@ Generated 2017-11-06.
 |   35 | Manuel Coquet      |  11.2 |         7 |              |               |
 |   36 | Raphael Magarik    |  11.0 |        43 |        -0.04 |         +2.22 |
 |   37 | Vishesh Dalal      |  10.2 |         6 |              |               |
-|   38 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
-|   39 | Terence Stotz      |   9.6 |        16 |              |               |
+|   38 | Terence Stotz      |  10.0 |        17 |        +0.40 |               |
+|   39 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
 |   40 | Sara Bamberger     |   9.5 |         9 |              |               |
 |   41 | Rashid Hameed      |   9.4 |         7 |        +0.76 |               |
 |   42 | Brian Kempenich    |   8.5 |        57 |              |         -0.09 |
 |   43 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
-|   44 | Avi Flamholz       |   6.0 |         9 |              |               |
+|   44 | Avi Flamholz       |   5.4 |        10 |        -0.52 |               |
 |   45 | Zsolt Bartha       |   4.7 |        70 |              |         +0.28 |
 |   46 | Joanna Majkowski   |   2.8 |         5 |              |               |
 |   47 | Duncan MacRae      |   0.8 |        36 |              |         +7.00 |
