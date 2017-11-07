@@ -36,9 +36,9 @@ Generated 2017-11-07.
 |   32 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
 |   33 | Meldan Heaslip     |  12.9 |        42 |              |         +3.97 |
 |   34 | Daniel Isaacson    |  11.6 |         3 |              |               |
-|   35 | Manuel Coquet      |  11.2 |         7 |              |               |
-|   36 | Raphael Magarik    |  11.0 |        43 |        -0.04 |         +2.22 |
-|   37 | Vishesh Dalal      |  10.2 |         6 |              |               |
+|   35 | Raphael Magarik    |  11.4 |        44 |        +0.39 |         +2.66 |
+|   36 | Vishesh Dalal      |  10.2 |         6 |              |               |
+|   37 | Manuel Coquet      |  10.0 |         8 |        -1.12 |               |
 |   38 | Terence Stotz      |  10.0 |        17 |        +0.40 |               |
 |   39 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
 |   40 | Sara Bamberger     |   9.5 |         9 |              |               |

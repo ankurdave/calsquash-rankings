@@ -356,24 +356,24 @@ Generated 2017-11-07.
 |  352 | David Appelfeld           |  11.6 |        26 |              |               |
 |  353 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  354 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  355 | Carlos Filho              |  11.4 |         7 |              |               |
-|  356 | Karan Jain                |  11.3 |        19 |              |               |
-|  357 | Manuel Coquet             |  11.2 |         7 |              |               |
+|  355 | Raphael Magarik           |  11.4 |        44 |        +0.39 |         +2.66 |
+|  356 | Carlos Filho              |  11.4 |         7 |              |               |
+|  357 | Karan Jain                |  11.3 |        19 |              |               |
 |  358 | Lucas Siow                |  11.0 |        10 |              |               |
-|  359 | Raphael Magarik           |  11.0 |        43 |        -0.04 |         +2.22 |
-|  360 | Dominick Ng               |  10.9 |        25 |              |               |
-|  361 | Caroline Palmer           |  10.9 |         8 |              |               |
-|  362 | George Bentley            |  10.6 |         4 |              |               |
-|  363 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  364 | Brian Puglise             |  10.4 |         2 |              |               |
-|  365 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  366 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  367 | John Provine              |  10.2 |        16 |              |               |
-|  368 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  369 | Vishesh Dalal             |  10.2 |         6 |              |               |
-|  370 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  371 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  372 | Sung-Jin Oh               |  10.1 |         6 |              |               |
+|  359 | Dominick Ng               |  10.9 |        25 |              |               |
+|  360 | Caroline Palmer           |  10.9 |         8 |              |               |
+|  361 | George Bentley            |  10.6 |         4 |              |               |
+|  362 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  363 | Brian Puglise             |  10.4 |         2 |              |               |
+|  364 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  365 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  366 | John Provine              |  10.2 |        16 |              |               |
+|  367 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  368 | Vishesh Dalal             |  10.2 |         6 |              |               |
+|  369 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  370 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  371 | Sung-Jin Oh               |  10.1 |         6 |              |               |
+|  372 | Manuel Coquet             |  10.0 |         8 |        -1.12 |               |
 |  373 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  374 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
 |  375 | Terence Stotz             |  10.0 |        17 |        +0.40 |               |
