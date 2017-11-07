@@ -373,10 +373,10 @@ Generated 2017-11-07.
 |  369 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  370 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  371 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  372 | Manuel Coquet             |  10.0 |         8 |        -1.12 |               |
-|  373 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  374 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
-|  375 | Terence Stotz             |  10.0 |        17 |        +0.40 |               |
+|  372 | Terence Stotz             |  10.1 |        18 |        +0.49 |               |
+|  373 | Manuel Coquet             |  10.0 |         8 |        -1.12 |               |
+|  374 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  375 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
 |  376 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  377 | Nate Aden                 |   9.9 |        42 |              |         -0.11 |
 |  378 | Daniel Schwartz           |   9.8 |        22 |              |         -0.69 |
@@ -447,7 +447,7 @@ Generated 2017-11-07.
 |  443 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  444 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  445 | Manu Vaish                |   5.5 |         1 |              |               |
-|  446 | Avi Flamholz              |   5.4 |        10 |        -0.52 |               |
+|  446 | Avi Flamholz              |   5.4 |        10 |        -0.51 |               |
 |  447 | Emily Moylan              |   5.2 |        17 |              |               |
 |  448 | Mohammad Salama           |   5.2 |         5 |              |               |
 |  449 | Catherine Wang            |   5.2 |        10 |              |               |
@@ -490,8 +490,8 @@ Generated 2017-11-07.
 |  486 | Alexandra Harmon          |   1.3 |         3 |              |               |
 |  487 | Michael Mann              |   1.1 |         4 |              |               |
 |  488 | Marco Eres                |   1.0 |         5 |              |               |
-|  489 | Duncan MacRae             |   0.8 |        36 |              |         +7.00 |
-|  490 | Alex Kaplan               |   0.8 |         8 |              |               |
+|  489 | Alex Kaplan               |   0.8 |         8 |              |               |
+|  490 | Duncan MacRae             |   0.7 |        37 |        -0.08 |         +6.92 |
 |  491 | Daniel Wissmann           |   0.7 |         2 |              |               |
 |  492 | Alfonso Rojas             |   0.6 |         8 |              |               |
 |  493 | Ben Geller                |   0.6 |         4 |              |               |

@@ -38,17 +38,17 @@ Generated 2017-11-07.
 |   34 | Daniel Isaacson    |  11.6 |         3 |              |               |
 |   35 | Raphael Magarik    |  11.4 |        44 |        +0.39 |         +2.66 |
 |   36 | Vishesh Dalal      |  10.2 |         6 |              |               |
-|   37 | Manuel Coquet      |  10.0 |         8 |        -1.12 |               |
-|   38 | Terence Stotz      |  10.0 |        17 |        +0.40 |               |
+|   37 | Terence Stotz      |  10.1 |        18 |        +0.49 |               |
+|   38 | Manuel Coquet      |  10.0 |         8 |        -1.12 |               |
 |   39 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
 |   40 | Sara Bamberger     |   9.5 |         9 |              |               |
 |   41 | Rashid Hameed      |   9.4 |         7 |        +0.76 |               |
 |   42 | Brian Kempenich    |   8.5 |        57 |              |         -0.09 |
 |   43 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
-|   44 | Avi Flamholz       |   5.4 |        10 |        -0.52 |               |
+|   44 | Avi Flamholz       |   5.4 |        10 |        -0.51 |               |
 |   45 | Zsolt Bartha       |   4.7 |        70 |              |         +0.28 |
 |   46 | Joanna Majkowski   |   2.8 |         5 |              |               |
-|   47 | Duncan MacRae      |   0.8 |        36 |              |         +7.00 |
+|   47 | Duncan MacRae      |   0.7 |        37 |        -0.08 |         +6.92 |
 |   48 | Ryan van der Harst |  -1.0 |         4 |              |               |
 |   49 | Cori Land          |  -2.0 |         4 |              |               |
 |   50 | John Hwong         |  -3.8 |         2 |              |               |
