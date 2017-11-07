@@ -138,13 +138,13 @@ Generated 2017-11-07.
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
 |  135 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Reid Johnsen              |  21.5 |        56 |              |         -0.22 |
-|  138 | Jared Bard                |  21.3 |        46 |              |         +0.54 |
-|  139 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  140 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  141 | Adam Jacob                |  21.3 |         3 |              |               |
-|  142 | Vishal Jain               |  21.3 |         6 |              |         +1.22 |
-|  143 | Casey Harelson            |  21.2 |        20 |              |               |
+|  137 | Jared Bard                |  21.3 |        46 |              |         +0.54 |
+|  138 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  139 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  140 | Adam Jacob                |  21.3 |         3 |              |               |
+|  141 | Vishal Jain               |  21.3 |         6 |              |         +1.22 |
+|  142 | Casey Harelson            |  21.2 |        20 |              |               |
+|  143 | Reid Johnsen              |  21.2 |        57 |        -0.28 |         -0.50 |
 |  144 | Philip Bildner            |  21.2 |        22 |              |               |
 |  145 | Darren Morgan             |  21.2 |        11 |              |               |
 |  146 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
@@ -190,17 +190,17 @@ Generated 2017-11-07.
 |  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  187 | Greg Adams                |  19.3 |        10 |              |               |
 |  188 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  189 | Jaime Perez               |  19.2 |        32 |              |         +0.05 |
-|  190 | John Corcoran             |  19.1 |        49 |              |               |
-|  191 | Mike Jensen-Akula         |  19.1 |       237 |              |         -1.43 |
-|  192 | Kedar Shah                |  19.1 |         9 |              |               |
-|  193 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  194 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  195 | Yating Liu                |  19.0 |         7 |              |               |
-|  196 | Ronald Dahl               |  18.9 |        51 |              |               |
-|  197 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  198 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  199 | Ankur Dave                |  18.9 |        92 |              |         +3.77 |
+|  189 | Ankur Dave                |  19.2 |        93 |        +0.31 |         +4.08 |
+|  190 | Jaime Perez               |  19.2 |        32 |              |         +0.05 |
+|  191 | John Corcoran             |  19.1 |        49 |              |               |
+|  192 | Mike Jensen-Akula         |  19.1 |       237 |              |         -1.43 |
+|  193 | Kedar Shah                |  19.1 |         9 |              |               |
+|  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  195 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  196 | Yating Liu                |  19.0 |         7 |              |               |
+|  197 | Ronald Dahl               |  18.9 |        51 |              |               |
+|  198 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  201 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  202 | Peter Dering              |  18.7 |         9 |              |               |
