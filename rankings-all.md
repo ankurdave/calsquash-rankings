@@ -192,8 +192,8 @@ Generated 2017-11-07.
 |  188 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  189 | Ankur Dave                |  19.2 |        93 |        +0.31 |         +4.08 |
 |  190 | Jaime Perez               |  19.2 |        32 |              |         +0.05 |
-|  191 | John Corcoran             |  19.1 |        49 |              |               |
-|  192 | Mike Jensen-Akula         |  19.1 |       237 |              |         -1.43 |
+|  191 | Mike Jensen-Akula         |  19.2 |       238 |        +0.03 |         -1.40 |
+|  192 | John Corcoran             |  19.1 |        49 |              |               |
 |  193 | Kedar Shah                |  19.1 |         9 |              |               |
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  195 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -275,7 +275,7 @@ Generated 2017-11-07.
 |  271 | Jared Nunn                |  15.7 |         5 |              |               |
 |  272 | Akash Sharma              |  15.7 |         8 |              |               |
 |  273 | Angie Ng                  |  15.7 |        12 |              |               |
-|  274 | Craig Hollow              |  15.6 |        36 |              |        +13.63 |
+|  274 | Craig Hollow              |  15.6 |        37 |              |        +13.63 |
 |  275 | Tanit Follett             |  15.5 |         8 |              |               |
 |  276 | Toni Queck                |  15.5 |        20 |              |               |
 |  277 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |

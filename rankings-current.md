@@ -22,14 +22,14 @@ Generated 2017-11-07.
 |   18 | Anthony Abel       |  19.7 |        14 |              |               |
 |   19 | Ankur Dave         |  19.2 |        93 |        +0.31 |         +4.08 |
 |   20 | Jaime Perez        |  19.2 |        32 |              |         +0.05 |
-|   21 | Mike Jensen-Akula  |  19.1 |       237 |              |         -1.43 |
+|   21 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
 |   22 | Dror Matalon       |  18.5 |       379 |              |         -0.01 |
 |   23 | Josh Trauner       |  17.6 |        70 |              |         -0.18 |
 |   24 | Matthew Bond       |  17.5 |         4 |              |               |
 |   25 | Sahar Sareminaeni  |  17.0 |        49 |              |         +2.79 |
 |   26 | David Bratt        |  16.7 |        31 |              |         -0.14 |
 |   27 | Karan Goyal        |  16.4 |        19 |              |               |
-|   28 | Craig Hollow       |  15.6 |        36 |              |        +13.63 |
+|   28 | Craig Hollow       |  15.6 |        37 |              |        +13.63 |
 |   29 | Diego Butrich      |  13.8 |        21 |              |         -0.83 |
 |   30 | Kent Daniels       |  13.7 |       117 |              |         -1.20 |
 |   31 | Danielle Craig     |  13.3 |         3 |              |               |
