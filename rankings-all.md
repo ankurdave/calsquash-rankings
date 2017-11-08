@@ -1,4 +1,4 @@
-Generated 2017-11-07.
+Generated 2017-11-08.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -6,8 +6,8 @@ Generated 2017-11-07.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Eric Katerman             |  33.7 |        65 |        +0.21 |         +2.25 |
-|    6 | Ashley Kayler             |  33.5 |       232 |        -0.18 |         -1.53 |
+|    5 | Eric Katerman             |  33.8 |        66 |        +0.32 |         +2.36 |
+|    6 | Ashley Kayler             |  33.5 |       232 |        -0.17 |         -1.53 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
@@ -29,8 +29,8 @@ Generated 2017-11-07.
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
 |   27 | David Woo                 |  28.9 |         9 |              |               |
-|   28 | Nick Cobbett              |  28.4 |        52 |              |         +1.83 |
-|   29 | Ali Rahim                 |  28.4 |        24 |              |               |
+|   28 | Ali Rahim                 |  28.4 |        24 |              |               |
+|   29 | Nick Cobbett              |  28.3 |        53 |        -0.13 |         +1.69 |
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   32 | Anibhav Singla            |  27.9 |        34 |              |         +7.43 |
