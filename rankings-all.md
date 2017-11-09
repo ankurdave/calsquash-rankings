@@ -332,27 +332,27 @@ Generated 2017-11-09.
 |  328 | Josh Lebowitz             |  12.9 |        64 |              |         +2.66 |
 |  329 | David Isaksson            |  12.9 |        22 |              |               |
 |  330 | Meldan Heaslip            |  12.9 |        42 |              |         +3.97 |
-|  331 | Suluck Chaturabul         |  12.7 |         2 |              |               |
-|  332 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
-|  333 | Ashley Brooks             |  12.7 |         2 |              |               |
-|  334 | Josh Shiode               |  12.6 |        20 |              |               |
-|  335 | Huw Lester                |  12.5 |         1 |              |               |
-|  336 | Richard Fabini            |  12.4 |         3 |              |               |
-|  337 | Jennifer Rha              |  12.4 |        18 |              |               |
-|  338 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
-|  339 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
-|  340 | John Givens               |  12.2 |        13 |              |               |
-|  341 | Sylvan Arevalo            |  12.2 |         3 |              |               |
-|  342 | Reed Foster               |  12.1 |         8 |              |               |
-|  343 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  344 | Larry Dale                |  11.9 |        29 |              |               |
-|  345 | Aman Gupta                |  11.8 |         3 |              |               |
-|  346 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  347 | Julian Gill               |  11.8 |         1 |              |               |
-|  348 | James Shinn               |  11.7 |       120 |              |               |
-|  349 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  350 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  351 | Daniel Isaacson           |  11.6 |         3 |              |               |
+|  331 | Daniel Isaacson           |  12.9 |         4 |        +1.27 |               |
+|  332 | Suluck Chaturabul         |  12.7 |         2 |              |               |
+|  333 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
+|  334 | Ashley Brooks             |  12.7 |         2 |              |               |
+|  335 | Josh Shiode               |  12.6 |        20 |              |               |
+|  336 | Huw Lester                |  12.5 |         1 |              |               |
+|  337 | Richard Fabini            |  12.4 |         3 |              |               |
+|  338 | Jennifer Rha              |  12.4 |        18 |              |               |
+|  339 | Rodrigo Calmet            |  12.4 |         8 |              |         +1.61 |
+|  340 | Carl Schreck              |  12.2 |         4 |              |         -7.97 |
+|  341 | John Givens               |  12.2 |        13 |              |               |
+|  342 | Sylvan Arevalo            |  12.2 |         3 |              |               |
+|  343 | Reed Foster               |  12.1 |         8 |              |               |
+|  344 | Axel Eriksson             |  12.0 |         5 |              |               |
+|  345 | Larry Dale                |  11.9 |        29 |              |               |
+|  346 | Aman Gupta                |  11.8 |         3 |              |               |
+|  347 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  348 | Julian Gill               |  11.8 |         1 |              |               |
+|  349 | James Shinn               |  11.7 |       120 |              |               |
+|  350 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  351 | Min Joon Seo              |  11.6 |         3 |              |               |
 |  352 | David Appelfeld           |  11.6 |        26 |              |               |
 |  353 | Virginie Letschert        |  11.6 |        18 |              |               |
 |  354 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
@@ -362,14 +362,14 @@ Generated 2017-11-09.
 |  358 | Lucas Siow                |  11.0 |        10 |              |               |
 |  359 | Dominick Ng               |  10.9 |        25 |              |               |
 |  360 | Caroline Palmer           |  10.9 |         8 |              |               |
-|  361 | George Bentley            |  10.6 |         4 |              |               |
-|  362 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  363 | Brian Puglise             |  10.4 |         2 |              |               |
-|  364 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  365 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  366 | John Provine              |  10.2 |        16 |              |               |
-|  367 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  368 | Vishesh Dalal             |  10.2 |         6 |              |               |
+|  361 | Vishesh Dalal             |  10.7 |         7 |        +0.55 |               |
+|  362 | George Bentley            |  10.6 |         4 |              |               |
+|  363 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  364 | Brian Puglise             |  10.4 |         2 |              |               |
+|  365 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  366 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  367 | John Provine              |  10.2 |        16 |              |               |
+|  368 | Anthony Patterson         |  10.2 |         6 |              |               |
 |  369 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  370 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  371 | Sung-Jin Oh               |  10.1 |         6 |              |               |
