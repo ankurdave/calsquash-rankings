@@ -36,15 +36,15 @@ Generated 2017-11-09.
 |   32 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
 |   33 | Meldan Heaslip     |  12.9 |        42 |              |         +3.97 |
 |   34 | Daniel Isaacson    |  12.9 |         4 |        +1.27 |               |
-|   35 | Raphael Magarik    |  11.4 |        44 |        +0.39 |         +2.66 |
+|   35 | Raphael Magarik    |  11.6 |        45 |        +0.60 |         +2.87 |
 |   36 | Vishesh Dalal      |  10.7 |         7 |        +0.55 |               |
 |   37 | Terence Stotz      |  10.1 |        18 |        +0.49 |               |
 |   38 | Manuel Coquet      |  10.0 |         8 |        -1.12 |               |
 |   39 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
 |   40 | Sara Bamberger     |   9.5 |         9 |              |               |
 |   41 | Rashid Hameed      |   9.4 |         7 |        +0.76 |               |
-|   42 | Brian Kempenich    |   8.5 |        57 |              |         -0.09 |
-|   43 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
+|   42 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
+|   43 | Brian Kempenich    |   8.3 |        58 |        -0.17 |         -0.26 |
 |   44 | Avi Flamholz       |   5.4 |        10 |        -0.51 |               |
 |   45 | Zsolt Bartha       |   4.7 |        70 |              |         +0.28 |
 |   46 | Joanna Majkowski   |   2.8 |         5 |              |               |

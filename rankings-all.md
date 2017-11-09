@@ -352,11 +352,11 @@ Generated 2017-11-09.
 |  348 | Julian Gill               |  11.8 |         1 |              |               |
 |  349 | James Shinn               |  11.7 |       120 |              |               |
 |  350 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  351 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  352 | David Appelfeld           |  11.6 |        26 |              |               |
-|  353 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  354 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  355 | Raphael Magarik           |  11.4 |        44 |        +0.39 |         +2.66 |
+|  351 | Raphael Magarik           |  11.6 |        45 |        +0.60 |         +2.87 |
+|  352 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  353 | David Appelfeld           |  11.6 |        26 |              |               |
+|  354 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  355 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  356 | Carlos Filho              |  11.4 |         7 |              |               |
 |  357 | Karan Jain                |  11.3 |        19 |              |               |
 |  358 | Lucas Siow                |  11.0 |        10 |              |               |
@@ -407,9 +407,9 @@ Generated 2017-11-09.
 |  403 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  404 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  405 | Sumit Gupta               |   8.5 |        13 |              |               |
-|  406 | Brian Kempenich           |   8.5 |        57 |              |         -0.09 |
-|  407 | Duo Wang                  |   8.4 |        83 |              |         +0.13 |
-|  408 | Reynold Xin               |   8.3 |         5 |              |               |
+|  406 | Duo Wang                  |   8.4 |        83 |              |         +0.13 |
+|  407 | Reynold Xin               |   8.3 |         5 |              |               |
+|  408 | Brian Kempenich           |   8.3 |        58 |        -0.17 |         -0.26 |
 |  409 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  410 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  411 | Vishnu Narayanan          |   8.2 |        12 |              |               |
