@@ -1,4 +1,4 @@
-Generated 2017-11-08.
+Generated 2017-11-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -187,11 +187,11 @@ Generated 2017-11-08.
 |  183 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  184 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  185 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  187 | Greg Adams                |  19.3 |        10 |              |               |
-|  188 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  189 | Ankur Dave                |  19.2 |        93 |        +0.31 |         +4.08 |
-|  190 | Jaime Perez               |  19.2 |        32 |              |         +0.05 |
+|  186 | Jaime Perez               |  19.3 |        33 |        +0.17 |         +0.22 |
+|  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  188 | Greg Adams                |  19.3 |        10 |              |               |
+|  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  190 | Ankur Dave                |  19.2 |        93 |        +0.31 |         +4.08 |
 |  191 | Mike Jensen-Akula         |  19.2 |       238 |        +0.03 |         -1.40 |
 |  192 | John Corcoran             |  19.1 |        49 |              |               |
 |  193 | Kedar Shah                |  19.1 |         9 |              |               |
@@ -209,13 +209,13 @@ Generated 2017-11-08.
 |  205 | Kedar Viswanathan         |  18.6 |        16 |              |               |
 |  206 | Allan Sly                 |  18.6 |        29 |              |               |
 |  207 | Jason Facchin             |  18.5 |         3 |              |               |
-|  208 | Dror Matalon              |  18.5 |       379 |              |         -0.01 |
-|  209 | Yan Liu                   |  18.5 |        10 |              |               |
-|  210 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  211 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  212 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  213 | John Eng                  |  18.4 |        28 |              |               |
-|  214 | Natalie Leung             |  18.4 |         1 |              |               |
+|  208 | Yan Liu                   |  18.5 |        10 |              |               |
+|  209 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  210 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  211 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  212 | John Eng                  |  18.4 |        28 |              |               |
+|  213 | Natalie Leung             |  18.4 |         1 |              |               |
+|  214 | Dror Matalon              |  18.4 |       380 |        -0.12 |         -0.14 |
 |  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.56 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |

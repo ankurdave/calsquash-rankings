@@ -1,4 +1,4 @@
-Generated 2017-11-08.
+Generated 2017-11-09.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -20,10 +20,10 @@ Generated 2017-11-08.
 |   16 | Reid Johnsen       |  21.2 |        57 |        -0.28 |         -0.50 |
 |   17 | Mark Modera        |  20.6 |       340 |              |         -0.71 |
 |   18 | Anthony Abel       |  19.7 |        14 |              |               |
-|   19 | Ankur Dave         |  19.2 |        93 |        +0.31 |         +4.08 |
-|   20 | Jaime Perez        |  19.2 |        32 |              |         +0.05 |
+|   19 | Jaime Perez        |  19.3 |        33 |        +0.17 |         +0.22 |
+|   20 | Ankur Dave         |  19.2 |        93 |        +0.31 |         +4.08 |
 |   21 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
-|   22 | Dror Matalon       |  18.5 |       379 |              |         -0.01 |
+|   22 | Dror Matalon       |  18.4 |       380 |        -0.12 |         -0.14 |
 |   23 | Josh Trauner       |  17.6 |        70 |              |         -0.18 |
 |   24 | Matthew Bond       |  17.5 |         4 |              |               |
 |   25 | Sahar Sareminaeni  |  17.0 |        49 |              |         +2.79 |
