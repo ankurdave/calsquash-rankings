@@ -74,13 +74,13 @@ Generated 2017-11-08.
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | John Kunze                |  24.5 |       341 |              |         -0.09 |
 |   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   74 | Adam Pollak               |  24.5 |        31 |              |               |
-|   75 | Jon Shih                  |  24.4 |        47 |              |               |
-|   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   77 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   78 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   79 | Jim Veitch                |  24.3 |       469 |              |         -0.73 |
+|   73 | Jim Veitch                |  24.5 |       470 |        +0.24 |         -0.49 |
+|   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   75 | Adam Pollak               |  24.5 |        31 |              |               |
+|   76 | Jon Shih                  |  24.4 |        47 |              |               |
+|   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   79 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   81 | Toby Reiner               |  24.2 |       159 |              |               |
 |   82 | Himanshu Jatia            |  24.2 |         4 |              |               |
@@ -102,11 +102,11 @@ Generated 2017-11-08.
 |   98 | Amy Lee                   |  23.6 |        56 |              |               |
 |   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |  100 | Garvin Heath              |  23.4 |        28 |              |               |
-|  101 | Dan Bohn                  |  23.1 |       115 |              |         -0.07 |
-|  102 | Daniel Greengard          |  23.1 |        37 |              |               |
-|  103 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|  104 | Joe Farrell               |  23.0 |        30 |              |               |
-|  105 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  101 | Daniel Greengard          |  23.1 |        37 |              |               |
+|  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|  103 | Joe Farrell               |  23.0 |        30 |              |               |
+|  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
+|  105 | Dan Bohn                  |  22.9 |       116 |        -0.22 |         -0.29 |
 |  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  108 | Julian Marshall           |  22.7 |        31 |              |               |

@@ -11,10 +11,10 @@ Generated 2017-11-08.
 |    7 | Thomas Littleton   |  27.2 |        18 |              |               |
 |    8 | Frank Kennamer     |  27.0 |       241 |              |         +0.13 |
 |    9 | John Kunze         |  24.5 |       341 |              |         -0.09 |
-|   10 | Jim Veitch         |  24.3 |       469 |              |         -0.73 |
+|   10 | Jim Veitch         |  24.5 |       470 |        +0.24 |         -0.49 |
 |   11 | Matt Wong          |  23.9 |       104 |              |         +0.67 |
 |   12 | Aditya Guntuboyina |  23.8 |        80 |              |         +0.50 |
-|   13 | Dan Bohn           |  23.1 |       115 |              |         -0.07 |
+|   13 | Dan Bohn           |  22.9 |       116 |        -0.22 |         -0.29 |
 |   14 | Dan Meier          |  21.8 |        83 |              |         -1.23 |
 |   15 | Jonathan Hankar    |  21.7 |       219 |              |         -0.12 |
 |   16 | Reid Johnsen       |  21.2 |        57 |        -0.28 |         -0.50 |
