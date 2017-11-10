@@ -31,17 +31,17 @@ Generated 2017-11-09.
 |   27 | Karan Goyal        |  16.4 |        19 |              |               |
 |   28 | Craig Hollow       |  15.6 |        37 |              |        +13.63 |
 |   29 | Diego Butrich      |  13.8 |        21 |              |         -0.83 |
-|   30 | Kent Daniels       |  13.7 |       117 |              |         -1.20 |
+|   30 | Kent Daniels       |  13.6 |       118 |        -0.12 |         -1.32 |
 |   31 | Danielle Craig     |  13.3 |         3 |              |               |
 |   32 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
 |   33 | Meldan Heaslip     |  12.9 |        42 |              |         +3.97 |
 |   34 | Daniel Isaacson    |  12.9 |         4 |        +1.27 |               |
 |   35 | Raphael Magarik    |  11.6 |        45 |        +0.60 |         +2.87 |
 |   36 | Vishesh Dalal      |  10.7 |         7 |        +0.55 |               |
-|   37 | Terence Stotz      |  10.1 |        18 |        +0.49 |               |
-|   38 | Manuel Coquet      |  10.0 |         8 |        -1.12 |               |
-|   39 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
-|   40 | Sara Bamberger     |   9.5 |         9 |              |               |
+|   37 | Sara Bamberger     |  10.6 |        10 |        +1.12 |               |
+|   38 | Terence Stotz      |  10.1 |        18 |        +0.49 |               |
+|   39 | Manuel Coquet      |  10.0 |         8 |        -1.12 |               |
+|   40 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
 |   41 | Rashid Hameed      |   9.4 |         7 |        +0.76 |               |
 |   42 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
 |   43 | Brian Kempenich    |   8.3 |        58 |        -0.17 |         -0.26 |

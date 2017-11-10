@@ -316,7 +316,7 @@ Generated 2017-11-09.
 |  312 | Tim Browning              |  13.8 |         7 |              |               |
 |  313 | Diego Butrich             |  13.8 |        21 |              |         -0.83 |
 |  314 | Josephine Lee             |  13.7 |         6 |              |               |
-|  315 | Kent Daniels              |  13.7 |       117 |              |         -1.20 |
+|  315 | Kent Daniels              |  13.6 |       118 |        -0.12 |         -1.32 |
 |  316 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  317 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  318 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -363,28 +363,28 @@ Generated 2017-11-09.
 |  359 | Dominick Ng               |  10.9 |        25 |              |               |
 |  360 | Caroline Palmer           |  10.9 |         8 |              |               |
 |  361 | Vishesh Dalal             |  10.7 |         7 |        +0.55 |               |
-|  362 | George Bentley            |  10.6 |         4 |              |               |
-|  363 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  364 | Brian Puglise             |  10.4 |         2 |              |               |
-|  365 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  366 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  367 | John Provine              |  10.2 |        16 |              |               |
-|  368 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  369 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  370 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  371 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  372 | Terence Stotz             |  10.1 |        18 |        +0.49 |               |
-|  373 | Manuel Coquet             |  10.0 |         8 |        -1.12 |               |
-|  374 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  375 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
-|  376 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  377 | Nate Aden                 |   9.9 |        42 |              |         -0.11 |
-|  378 | Daniel Schwartz           |   9.8 |        22 |              |         -0.69 |
-|  379 | Myles Gordon              |   9.8 |        42 |              |               |
-|  380 | Jacob Bank                |   9.7 |         1 |              |               |
-|  381 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  382 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  383 | Sara Bamberger            |   9.5 |         9 |              |               |
+|  362 | Sara Bamberger            |  10.6 |        10 |        +1.12 |               |
+|  363 | George Bentley            |  10.6 |         4 |              |               |
+|  364 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  365 | Brian Puglise             |  10.4 |         2 |              |               |
+|  366 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  367 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  368 | John Provine              |  10.2 |        16 |              |               |
+|  369 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  370 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  371 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  372 | Sung-Jin Oh               |  10.1 |         6 |              |               |
+|  373 | Terence Stotz             |  10.1 |        18 |        +0.49 |               |
+|  374 | Manuel Coquet             |  10.0 |         8 |        -1.12 |               |
+|  375 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  376 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
+|  377 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  378 | Nate Aden                 |   9.9 |        42 |              |         -0.11 |
+|  379 | Daniel Schwartz           |   9.8 |        22 |              |         -0.69 |
+|  380 | Myles Gordon              |   9.8 |        42 |              |               |
+|  381 | Jacob Bank                |   9.7 |         1 |              |               |
+|  382 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  383 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  384 | Mark Shapero              |   9.4 |         7 |              |               |
 |  385 | Kevin Pollock             |   9.4 |        28 |              |               |
 |  386 | Max Grass                 |   9.4 |         1 |              |               |
