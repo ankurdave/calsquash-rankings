@@ -138,13 +138,13 @@ Generated 2017-11-09.
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
 |  135 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Jared Bard                |  21.3 |        46 |              |         +0.54 |
-|  138 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  139 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  140 | Adam Jacob                |  21.3 |         3 |              |               |
-|  141 | Vishal Jain               |  21.3 |         6 |              |         +1.22 |
-|  142 | Casey Harelson            |  21.2 |        20 |              |               |
-|  143 | Reid Johnsen              |  21.2 |        57 |        -0.28 |         -0.50 |
+|  137 | Reid Johnsen              |  21.3 |        59 |        -0.12 |         -0.34 |
+|  138 | Jared Bard                |  21.3 |        46 |              |         +0.54 |
+|  139 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  140 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  141 | Adam Jacob                |  21.3 |         3 |              |               |
+|  142 | Vishal Jain               |  21.3 |         6 |              |         +1.22 |
+|  143 | Casey Harelson            |  21.2 |        20 |              |               |
 |  144 | Philip Bildner            |  21.2 |        22 |              |               |
 |  145 | Darren Morgan             |  21.2 |        11 |              |               |
 |  146 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
@@ -187,13 +187,13 @@ Generated 2017-11-09.
 |  183 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  184 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  185 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  186 | Jaime Perez               |  19.3 |        33 |        +0.17 |         +0.22 |
-|  187 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  188 | Greg Adams                |  19.3 |        10 |              |               |
-|  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  190 | Ankur Dave                |  19.2 |        93 |        +0.31 |         +4.08 |
-|  191 | Mike Jensen-Akula         |  19.2 |       238 |        +0.03 |         -1.40 |
-|  192 | John Corcoran             |  19.1 |        49 |              |               |
+|  186 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  187 | Greg Adams                |  19.3 |        10 |              |               |
+|  188 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  189 | Ankur Dave                |  19.2 |        93 |        +0.32 |         +4.09 |
+|  190 | Mike Jensen-Akula         |  19.2 |       238 |        +0.03 |         -1.40 |
+|  191 | John Corcoran             |  19.1 |        49 |              |               |
+|  192 | Jaime Perez               |  19.1 |        34 |        -0.03 |         +0.03 |
 |  193 | Kedar Shah                |  19.1 |         9 |              |               |
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  195 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -215,7 +215,7 @@ Generated 2017-11-09.
 |  211 | Javed Ahmed               |  18.5 |        58 |              |               |
 |  212 | John Eng                  |  18.4 |        28 |              |               |
 |  213 | Natalie Leung             |  18.4 |         1 |              |               |
-|  214 | Dror Matalon              |  18.4 |       380 |        -0.12 |         -0.14 |
+|  214 | Dror Matalon              |  18.4 |       380 |        -0.13 |         -0.15 |
 |  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.56 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
@@ -246,9 +246,9 @@ Generated 2017-11-09.
 |  242 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  243 | Lucas Cheon               |  17.2 |        19 |              |               |
 |  244 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  245 | Neil Conway               |  17.0 |        55 |              |               |
-|  246 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  247 | Sahar Sareminaeni         |  17.0 |        49 |              |         +2.79 |
+|  245 | Sahar Sareminaeni         |  17.0 |        50 |        +0.03 |         +2.83 |
+|  246 | Neil Conway               |  17.0 |        55 |              |               |
+|  247 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  248 | Baxter Leman              |  16.9 |         6 |              |               |
 |  249 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  250 | Allan Dafoe               |  16.8 |        43 |              |               |
