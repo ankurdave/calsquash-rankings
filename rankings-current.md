@@ -1,4 +1,4 @@
-Generated 2017-11-09.
+Generated 2017-11-10.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -24,12 +24,12 @@ Generated 2017-11-09.
 |   20 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
 |   21 | Jaime Perez        |  19.1 |        34 |        -0.03 |         +0.03 |
 |   22 | Dror Matalon       |  18.4 |       380 |        -0.13 |         -0.15 |
-|   23 | Josh Trauner       |  17.6 |        70 |              |         -0.18 |
+|   23 | Josh Trauner       |  17.8 |        71 |        +0.21 |         +0.03 |
 |   24 | Matthew Bond       |  17.5 |         4 |              |               |
 |   25 | Sahar Sareminaeni  |  17.0 |        50 |        +0.03 |         +2.83 |
 |   26 | David Bratt        |  16.7 |        31 |              |         -0.14 |
 |   27 | Karan Goyal        |  16.4 |        19 |              |               |
-|   28 | Craig Hollow       |  15.6 |        37 |              |        +13.63 |
+|   28 | Craig Hollow       |  15.3 |        38 |        -0.23 |        +13.40 |
 |   29 | Diego Butrich      |  13.8 |        21 |              |         -0.83 |
 |   30 | Kent Daniels       |  13.6 |       118 |        -0.12 |         -1.32 |
 |   31 | Danielle Craig     |  13.3 |         3 |              |               |

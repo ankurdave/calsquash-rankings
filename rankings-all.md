@@ -1,4 +1,4 @@
-Generated 2017-11-09.
+Generated 2017-11-10.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -226,10 +226,10 @@ Generated 2017-11-09.
 |  222 | Eric Borden               |  17.8 |        44 |              |         -0.17 |
 |  223 | Troup Howard              |  17.8 |        47 |              |         +0.50 |
 |  224 | Nick Paget                |  17.8 |        35 |              |               |
-|  225 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  226 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  227 | George Roche              |  17.7 |        14 |              |               |
-|  228 | Josh Trauner              |  17.6 |        70 |              |         -0.18 |
+|  225 | Josh Trauner              |  17.8 |        71 |        +0.21 |         +0.03 |
+|  226 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  227 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  228 | George Roche              |  17.7 |        14 |              |               |
 |  229 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  230 | Matthew Bond              |  17.5 |         4 |              |               |
 |  231 | Subrato Dey               |  17.5 |        26 |              |               |
@@ -275,11 +275,11 @@ Generated 2017-11-09.
 |  271 | Jared Nunn                |  15.7 |         5 |              |               |
 |  272 | Akash Sharma              |  15.7 |         8 |              |               |
 |  273 | Angie Ng                  |  15.7 |        12 |              |               |
-|  274 | Craig Hollow              |  15.6 |        37 |              |        +13.63 |
-|  275 | Tanit Follett             |  15.5 |         8 |              |               |
-|  276 | Toni Queck                |  15.5 |        20 |              |               |
-|  277 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  278 | Peter Duerr               |  15.4 |        24 |              |               |
+|  274 | Tanit Follett             |  15.5 |         8 |              |               |
+|  275 | Toni Queck                |  15.5 |        20 |              |               |
+|  276 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  277 | Peter Duerr               |  15.4 |        24 |              |               |
+|  278 | Craig Hollow              |  15.3 |        38 |        -0.23 |        +13.40 |
 |  279 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  280 | Grant Buckingham          |  15.2 |         3 |              |               |
 |  281 | James Grant               |  15.2 |         8 |              |               |
