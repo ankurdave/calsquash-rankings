@@ -18,14 +18,14 @@ Generated 2017-11-10.
 |   14 | Dan Meier          |  21.8 |        83 |              |         -1.23 |
 |   15 | Jonathan Hankar    |  21.7 |       219 |              |         -0.12 |
 |   16 | Reid Johnsen       |  21.3 |        59 |        -0.12 |         -0.34 |
-|   17 | Mark Modera        |  20.6 |       340 |              |         -0.71 |
-|   18 | Anthony Abel       |  19.7 |        14 |              |               |
-|   19 | Ankur Dave         |  19.2 |        93 |        +0.32 |         +4.09 |
-|   20 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
-|   21 | Jaime Perez        |  19.1 |        34 |        -0.03 |         +0.03 |
-|   22 | Dror Matalon       |  18.4 |       380 |        -0.13 |         -0.15 |
-|   23 | Josh Trauner       |  17.8 |        71 |        +0.21 |         +0.03 |
-|   24 | Matthew Bond       |  17.5 |         4 |              |               |
+|   17 | Mark Modera        |  20.4 |       341 |        -0.18 |         -0.90 |
+|   18 | Matthew Bond       |  19.8 |         5 |        +2.30 |               |
+|   19 | Anthony Abel       |  19.7 |        14 |              |               |
+|   20 | Ankur Dave         |  19.2 |        93 |        +0.32 |         +4.09 |
+|   21 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
+|   22 | Jaime Perez        |  19.1 |        34 |        -0.03 |         +0.03 |
+|   23 | Dror Matalon       |  18.4 |       380 |        -0.13 |         -0.15 |
+|   24 | Josh Trauner       |  17.8 |        71 |        +0.21 |         +0.03 |
 |   25 | Sahar Sareminaeni  |  17.0 |        50 |        +0.03 |         +2.83 |
 |   26 | David Bratt        |  16.7 |        31 |              |         -0.14 |
 |   27 | Karan Goyal        |  16.4 |        19 |              |               |
