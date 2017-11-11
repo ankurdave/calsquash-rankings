@@ -2,11 +2,11 @@ Generated 2017-11-10.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
-|    1 | Eric Katerman      |  33.8 |        66 |        +0.32 |         +2.36 |
+|    1 | Eric Katerman      |  33.9 |        67 |        +0.38 |         +2.42 |
 |    2 | Ashley Kayler      |  33.5 |       232 |        -0.17 |         -1.53 |
-|    3 | Sam Sternberg      |  30.9 |       166 |              |         +0.42 |
+|    3 | Sam Sternberg      |  30.9 |       167 |        -0.05 |         +0.38 |
 |    4 | David Woo          |  28.9 |         9 |              |               |
-|    5 | Nick Cobbett       |  28.3 |        53 |        -0.13 |         +1.69 |
+|    5 | Nick Cobbett       |  28.3 |        53 |        -0.13 |         +1.70 |
 |    6 | Anibhav Singla     |  27.9 |        34 |              |         +7.43 |
 |    7 | Thomas Littleton   |  27.2 |        18 |              |               |
 |    8 | Frank Kennamer     |  27.0 |       241 |              |         +0.13 |

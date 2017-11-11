@@ -5,8 +5,8 @@ Generated 2017-11-10.
 |    1 | Colin Grant               |  36.8 |        28 |              |         +2.22 |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
-|    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Eric Katerman             |  33.8 |        66 |        +0.32 |         +2.36 |
+|    4 | Eric Katerman             |  33.9 |        67 |        +0.38 |         +2.42 |
+|    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Ashley Kayler             |  33.5 |       232 |        -0.17 |         -1.53 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
@@ -18,7 +18,7 @@ Generated 2017-11-10.
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
 |   15 | Mads Kristensen           |  31.1 |        33 |              |               |
 |   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.9 |       166 |              |         +0.42 |
+|   17 | Sam Sternberg             |  30.9 |       167 |        -0.05 |         +0.38 |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -30,7 +30,7 @@ Generated 2017-11-10.
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
 |   27 | David Woo                 |  28.9 |         9 |              |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
-|   29 | Nick Cobbett              |  28.3 |        53 |        -0.13 |         +1.69 |
+|   29 | Nick Cobbett              |  28.3 |        53 |        -0.13 |         +1.70 |
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   32 | Anibhav Singla            |  27.9 |        34 |              |         +7.43 |
