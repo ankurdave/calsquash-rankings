@@ -15,12 +15,12 @@ Generated 2017-11-12.
 |   11 | Matt Wong          |  23.9 |       105 |        +0.07 |         +0.74 |
 |   12 | Aditya Guntuboyina |  23.8 |        80 |              |         +0.50 |
 |   13 | Dan Bohn           |  22.9 |       116 |        -0.22 |         -0.29 |
-|   14 | Dan Meier          |  21.8 |        83 |              |         -1.23 |
-|   15 | Jonathan Hankar    |  21.7 |       219 |              |         -0.12 |
+|   14 | Jonathan Hankar    |  21.9 |       220 |        +0.12 |               |
+|   15 | Dan Meier          |  21.8 |        83 |              |         -1.23 |
 |   16 | Reid Johnsen       |  21.3 |        59 |        -0.12 |         -0.34 |
-|   17 | Mark Modera        |  20.4 |       341 |        -0.20 |         -0.92 |
+|   17 | Mark Modera        |  20.3 |       342 |        -0.31 |         -1.02 |
 |   18 | Anthony Abel       |  19.7 |        14 |              |               |
-|   19 | Matthew Bond       |  19.7 |         6 |        +2.18 |               |
+|   19 | Matthew Bond       |  19.7 |         6 |        +2.16 |               |
 |   20 | Ankur Dave         |  19.2 |        93 |        +0.32 |         +4.09 |
 |   21 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
 |   22 | Jaime Perez        |  19.1 |        34 |        -0.03 |         +0.03 |

@@ -128,11 +128,11 @@ Generated 2017-11-12.
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Dan Meier                 |  21.8 |        83 |              |         -1.23 |
-|  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  131 | Jonathan Hankar           |  21.7 |       219 |              |         -0.12 |
+|  127 | Jonathan Hankar           |  21.9 |       220 |        +0.12 |               |
+|  128 | Dan Meier                 |  21.8 |        83 |              |         -1.23 |
+|  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  131 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
 |  132 | Charlie Weiss             |  21.7 |        70 |              |               |
 |  133 | Omair Azam                |  21.7 |        18 |              |               |
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
@@ -163,10 +163,10 @@ Generated 2017-11-12.
 |  159 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  160 | Andrew Green              |  20.5 |        52 |              |               |
 |  161 | Steven Sloman             |  20.4 |        10 |              |               |
-|  162 | Mark Modera               |  20.4 |       341 |        -0.20 |         -0.92 |
-|  163 | Marc Schechter            |  20.4 |        14 |              |               |
-|  164 | Jeff Gordon               |  20.3 |        46 |              |         +0.40 |
-|  165 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  162 | Marc Schechter            |  20.4 |        14 |              |               |
+|  163 | Jeff Gordon               |  20.3 |        46 |              |         +0.40 |
+|  164 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  165 | Mark Modera               |  20.3 |       342 |        -0.31 |         -1.02 |
 |  166 | John Grim                 |  20.1 |        13 |              |               |
 |  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  168 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -181,7 +181,7 @@ Generated 2017-11-12.
 |  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  178 | Anthony Abel              |  19.7 |        14 |              |               |
 |  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  180 | Matthew Bond              |  19.7 |         6 |        +2.18 |               |
+|  180 | Matthew Bond              |  19.7 |         6 |        +2.16 |               |
 |  181 | Mike Delanty              |  19.7 |        12 |              |               |
 |  182 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
