@@ -1,4 +1,4 @@
-Generated 2017-11-12.
+Generated 2017-11-13.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -18,9 +18,9 @@ Generated 2017-11-12.
 |   14 | Jonathan Hankar    |  21.9 |       220 |        +0.12 |               |
 |   15 | Dan Meier          |  21.8 |        83 |              |         -1.23 |
 |   16 | Reid Johnsen       |  21.3 |        59 |        -0.12 |         -0.34 |
-|   17 | Mark Modera        |  20.3 |       342 |        -0.31 |         -1.02 |
-|   18 | Anthony Abel       |  19.7 |        14 |              |               |
-|   19 | Matthew Bond       |  19.7 |         6 |        +2.16 |               |
+|   17 | Mark Modera        |  20.3 |       343 |        -0.34 |         -1.05 |
+|   18 | Anthony Abel       |  20.1 |        15 |        +0.31 |               |
+|   19 | Matthew Bond       |  19.7 |         6 |        +2.15 |               |
 |   20 | Ankur Dave         |  19.2 |        93 |        +0.32 |         +4.09 |
 |   21 | Mike Jensen-Akula  |  19.2 |       238 |        +0.04 |         -1.39 |
 |   22 | Jaime Perez        |  19.1 |        34 |        -0.03 |         +0.03 |

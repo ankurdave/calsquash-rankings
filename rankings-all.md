@@ -1,4 +1,4 @@
-Generated 2017-11-12.
+Generated 2017-11-13.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -166,23 +166,23 @@ Generated 2017-11-12.
 |  162 | Marc Schechter            |  20.4 |        14 |              |               |
 |  163 | Jeff Gordon               |  20.3 |        46 |              |         +0.40 |
 |  164 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  165 | Mark Modera               |  20.3 |       342 |        -0.31 |         -1.02 |
+|  165 | Mark Modera               |  20.3 |       343 |        -0.34 |         -1.05 |
 |  166 | John Grim                 |  20.1 |        13 |              |               |
 |  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  168 | Frank Kennan              |  20.1 |        11 |              |               |
 |  169 | Robert Schwartz           |  20.1 |        90 |              |         -0.22 |
-|  170 | Shaun Lim                 |  20.0 |        64 |              |         +1.72 |
-|  171 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  172 | Jonathan Francis          |  20.0 |        76 |              |         +0.14 |
-|  173 | Wesley Huang              |  20.0 |         8 |              |               |
-|  174 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  175 | Liam King                 |  19.9 |         6 |              |               |
-|  176 | Lysander Jim              |  19.8 |         6 |              |               |
-|  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  178 | Anthony Abel              |  19.7 |        14 |              |               |
+|  170 | Anthony Abel              |  20.1 |        15 |        +0.31 |               |
+|  171 | Shaun Lim                 |  20.0 |        64 |              |         +1.72 |
+|  172 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  173 | Jonathan Francis          |  20.0 |        76 |              |         +0.14 |
+|  174 | Wesley Huang              |  20.0 |         8 |              |               |
+|  175 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  176 | Liam King                 |  19.9 |         6 |              |               |
+|  177 | Lysander Jim              |  19.8 |         6 |              |               |
+|  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  180 | Matthew Bond              |  19.7 |         6 |        +2.16 |               |
-|  181 | Mike Delanty              |  19.7 |        12 |              |               |
+|  180 | Mike Delanty              |  19.7 |        12 |              |               |
+|  181 | Matthew Bond              |  19.7 |         6 |        +2.15 |               |
 |  182 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  184 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
