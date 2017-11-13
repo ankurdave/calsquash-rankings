@@ -1,4 +1,4 @@
-Generated 2017-11-10.
+Generated 2017-11-12.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -12,15 +12,15 @@ Generated 2017-11-10.
 |    8 | Frank Kennamer     |  27.0 |       241 |              |         +0.13 |
 |    9 | John Kunze         |  24.5 |       341 |              |         -0.09 |
 |   10 | Jim Veitch         |  24.5 |       470 |        +0.24 |         -0.49 |
-|   11 | Matt Wong          |  23.9 |       104 |              |         +0.67 |
+|   11 | Matt Wong          |  23.9 |       105 |        +0.07 |         +0.74 |
 |   12 | Aditya Guntuboyina |  23.8 |        80 |              |         +0.50 |
 |   13 | Dan Bohn           |  22.9 |       116 |        -0.22 |         -0.29 |
 |   14 | Dan Meier          |  21.8 |        83 |              |         -1.23 |
 |   15 | Jonathan Hankar    |  21.7 |       219 |              |         -0.12 |
 |   16 | Reid Johnsen       |  21.3 |        59 |        -0.12 |         -0.34 |
-|   17 | Mark Modera        |  20.4 |       341 |        -0.18 |         -0.90 |
-|   18 | Matthew Bond       |  19.8 |         5 |        +2.30 |               |
-|   19 | Anthony Abel       |  19.7 |        14 |              |               |
+|   17 | Mark Modera        |  20.4 |       341 |        -0.20 |         -0.92 |
+|   18 | Anthony Abel       |  19.7 |        14 |              |               |
+|   19 | Matthew Bond       |  19.7 |         6 |        +2.18 |               |
 |   20 | Ankur Dave         |  19.2 |        93 |        +0.32 |         +4.09 |
 |   21 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
 |   22 | Jaime Perez        |  19.1 |        34 |        -0.03 |         +0.03 |

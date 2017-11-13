@@ -1,4 +1,4 @@
-Generated 2017-11-10.
+Generated 2017-11-12.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -91,9 +91,9 @@ Generated 2017-11-10.
 |   87 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   88 | Whit Eldredge             |  24.0 |         2 |              |               |
 |   89 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   90 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   91 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   92 | Matt Wong                 |  23.9 |       104 |              |         +0.67 |
+|   90 | Matt Wong                 |  23.9 |       105 |        +0.07 |         +0.74 |
+|   91 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   92 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   93 | Joseff Farrell            |  23.8 |         5 |              |               |
 |   94 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.50 |
 |   95 | Matt Waid                 |  23.7 |        51 |              |               |
@@ -163,7 +163,7 @@ Generated 2017-11-10.
 |  159 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  160 | Andrew Green              |  20.5 |        52 |              |               |
 |  161 | Steven Sloman             |  20.4 |        10 |              |               |
-|  162 | Mark Modera               |  20.4 |       341 |        -0.18 |         -0.90 |
+|  162 | Mark Modera               |  20.4 |       341 |        -0.20 |         -0.92 |
 |  163 | Marc Schechter            |  20.4 |        14 |              |               |
 |  164 | Jeff Gordon               |  20.3 |        46 |              |         +0.40 |
 |  165 | Anirudh Todi              |  20.3 |         3 |              |               |
@@ -177,11 +177,11 @@ Generated 2017-11-10.
 |  173 | Wesley Huang              |  20.0 |         8 |              |               |
 |  174 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  175 | Liam King                 |  19.9 |         6 |              |               |
-|  176 | Matthew Bond              |  19.8 |         5 |        +2.30 |               |
-|  177 | Lysander Jim              |  19.8 |         6 |              |               |
-|  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  179 | Anthony Abel              |  19.7 |        14 |              |               |
-|  180 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  176 | Lysander Jim              |  19.8 |         6 |              |               |
+|  177 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  178 | Anthony Abel              |  19.7 |        14 |              |               |
+|  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  180 | Matthew Bond              |  19.7 |         6 |        +2.18 |               |
 |  181 | Mike Delanty              |  19.7 |        12 |              |               |
 |  182 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
