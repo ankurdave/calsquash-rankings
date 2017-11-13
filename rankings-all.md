@@ -192,7 +192,7 @@ Generated 2017-11-12.
 |  188 | Greg Adams                |  19.3 |        10 |              |               |
 |  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  190 | Ankur Dave                |  19.2 |        93 |        +0.32 |         +4.09 |
-|  191 | Mike Jensen-Akula         |  19.2 |       238 |        +0.03 |         -1.40 |
+|  191 | Mike Jensen-Akula         |  19.2 |       238 |        +0.04 |         -1.39 |
 |  192 | John Corcoran             |  19.1 |        49 |              |               |
 |  193 | Jaime Perez               |  19.1 |        34 |        -0.03 |         +0.03 |
 |  194 | Kedar Shah                |  19.1 |         9 |              |               |
@@ -226,8 +226,8 @@ Generated 2017-11-12.
 |  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  223 | Eric Borden               |  17.8 |        44 |              |         -0.17 |
 |  224 | Troup Howard              |  17.8 |        47 |              |         +0.50 |
-|  225 | Nick Paget                |  17.8 |        35 |              |               |
-|  226 | Josh Trauner              |  17.8 |        71 |        +0.21 |         +0.03 |
+|  225 | Josh Trauner              |  17.8 |        71 |        +0.22 |         +0.04 |
+|  226 | Nick Paget                |  17.8 |        35 |              |               |
 |  227 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  229 | George Roche              |  17.7 |        14 |              |               |
@@ -256,10 +256,10 @@ Generated 2017-11-12.
 |  252 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  253 | Chris Flores              |  16.7 |       327 |              |         +0.11 |
 |  254 | David Shabelman           |  16.7 |        30 |              |               |
-|  255 | David Bratt               |  16.7 |        31 |              |         -0.14 |
-|  256 | Mark Priven               |  16.6 |        72 |              |               |
-|  257 | William Coleman           |  16.5 |        48 |              |               |
-|  258 | Mike Troxell              |  16.5 |         8 |              |               |
+|  255 | Mark Priven               |  16.6 |        72 |              |               |
+|  256 | William Coleman           |  16.5 |        48 |              |               |
+|  257 | Mike Troxell              |  16.5 |         8 |              |               |
+|  258 | David Bratt               |  16.4 |        32 |        -0.23 |         -0.37 |
 |  259 | Karan Goyal               |  16.4 |        19 |              |               |
 |  260 | Danish Mir                |  16.4 |         1 |              |               |
 |  261 | Paul Chang                |  16.3 |         7 |              |               |
@@ -275,11 +275,11 @@ Generated 2017-11-12.
 |  271 | Jared Nunn                |  15.7 |         5 |              |               |
 |  272 | Akash Sharma              |  15.7 |         8 |              |               |
 |  273 | Angie Ng                  |  15.7 |        12 |              |               |
-|  274 | Tanit Follett             |  15.5 |         8 |              |               |
-|  275 | Toni Queck                |  15.5 |        20 |              |               |
-|  276 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
-|  277 | Peter Duerr               |  15.4 |        24 |              |               |
-|  278 | Craig Hollow              |  15.3 |        38 |        -0.23 |        +13.40 |
+|  274 | Craig Hollow              |  15.6 |        39 |        +0.05 |        +13.68 |
+|  275 | Tanit Follett             |  15.5 |         8 |              |               |
+|  276 | Toni Queck                |  15.5 |        20 |              |               |
+|  277 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
+|  278 | Peter Duerr               |  15.4 |        24 |              |               |
 |  279 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  280 | Grant Buckingham          |  15.2 |         3 |              |               |
 |  281 | James Grant               |  15.2 |         8 |              |               |
