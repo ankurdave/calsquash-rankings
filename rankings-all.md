@@ -35,7 +35,7 @@ Generated 2017-11-13.
 |   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   32 | Anibhav Singla            |  27.9 |        34 |              |         +7.43 |
 |   33 | Grant French              |  27.5 |       125 |              |               |
-|   34 | Thomas Littleton          |  27.2 |        18 |              |               |
+|   34 | Thomas Littleton          |  27.5 |        19 |        +0.22 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
 |   37 | Frank Kennamer            |  27.0 |       241 |              |         +0.13 |
@@ -106,7 +106,7 @@ Generated 2017-11-13.
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
 |  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Dan Bohn                  |  22.9 |       116 |        -0.22 |         -0.29 |
+|  105 | Dan Bohn                  |  22.8 |       117 |        -0.35 |         -0.42 |
 |  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  108 | Julian Marshall           |  22.7 |        31 |              |               |
