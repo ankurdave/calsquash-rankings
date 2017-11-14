@@ -7,7 +7,7 @@ Generated 2017-11-13.
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Eric Katerman             |  33.9 |        67 |        +0.38 |         +2.42 |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
-|    6 | Ashley Kayler             |  33.5 |       232 |        -0.17 |         -1.53 |
+|    6 | Ashley Kayler             |  33.7 |       233 |              |         -1.37 |
 |    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
@@ -28,7 +28,7 @@ Generated 2017-11-13.
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
-|   27 | David Woo                 |  28.9 |         9 |              |               |
+|   27 | David Woo                 |  28.6 |        10 |        -0.27 |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Nick Cobbett              |  28.3 |        53 |        -0.13 |         +1.70 |
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
