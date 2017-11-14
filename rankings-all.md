@@ -192,7 +192,7 @@ Generated 2017-11-14.
 |  188 | Greg Adams                |  19.3 |        10 |              |               |
 |  189 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  190 | Ankur Dave                |  19.2 |        93 |        +0.32 |         +4.09 |
-|  191 | Mike Jensen-Akula         |  19.2 |       238 |        +0.04 |         -1.39 |
+|  191 | Mike Jensen-Akula         |  19.2 |       238 |        +0.03 |         -1.40 |
 |  192 | John Corcoran             |  19.1 |        49 |              |               |
 |  193 | Jaime Perez               |  19.1 |        34 |        -0.03 |         +0.03 |
 |  194 | Kedar Shah                |  19.1 |         9 |              |               |
@@ -272,10 +272,10 @@ Generated 2017-11-14.
 |  268 | Terry Chang               |  15.8 |        48 |              |               |
 |  269 | Louis Russell             |  15.8 |        20 |              |               |
 |  270 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  271 | Jared Nunn                |  15.7 |         5 |              |               |
-|  272 | Akash Sharma              |  15.7 |         8 |              |               |
-|  273 | Angie Ng                  |  15.7 |        12 |              |               |
-|  274 | Craig Hollow              |  15.6 |        39 |        +0.05 |        +13.68 |
+|  271 | Craig Hollow              |  15.7 |        40 |        +0.14 |        +13.77 |
+|  272 | Jared Nunn                |  15.7 |         5 |              |               |
+|  273 | Akash Sharma              |  15.7 |         8 |              |               |
+|  274 | Angie Ng                  |  15.7 |        12 |              |               |
 |  275 | Tanit Follett             |  15.5 |         8 |              |               |
 |  276 | Toni Queck                |  15.5 |        20 |              |               |
 |  277 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
@@ -466,9 +466,9 @@ Generated 2017-11-14.
 |  462 | Nadir Shams               |   3.0 |         2 |              |               |
 |  463 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  464 | Saijoscha Heck            |   2.9 |         6 |              |               |
-|  465 | Joanna Majkowski          |   2.8 |         5 |              |               |
-|  466 | Sagar Pilania             |   2.8 |         2 |              |               |
-|  467 | Pedrum Mohageri           |   2.7 |         8 |              |               |
+|  465 | Sagar Pilania             |   2.8 |         2 |              |               |
+|  466 | Pedrum Mohageri           |   2.7 |         8 |              |               |
+|  467 | Joanna Majkowski          |   2.7 |         6 |        -0.13 |               |
 |  468 | David Vogel               |   2.6 |         7 |              |               |
 |  469 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  470 | Cristhian Daniel          |   2.3 |        19 |              |         +0.54 |

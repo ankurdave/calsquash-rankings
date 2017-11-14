@@ -22,14 +22,14 @@ Generated 2017-11-14.
 |   18 | Anthony Abel       |  20.1 |        15 |        +0.31 |               |
 |   19 | Matthew Bond       |  19.7 |         6 |        +2.15 |               |
 |   20 | Ankur Dave         |  19.2 |        93 |        +0.32 |         +4.09 |
-|   21 | Mike Jensen-Akula  |  19.2 |       238 |        +0.04 |         -1.39 |
+|   21 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
 |   22 | Jaime Perez        |  19.1 |        34 |        -0.03 |         +0.03 |
 |   23 | Dror Matalon       |  18.4 |       380 |        -0.13 |         -0.15 |
 |   24 | Josh Trauner       |  17.8 |        71 |        +0.22 |         +0.04 |
 |   25 | Sahar Sareminaeni  |  17.0 |        50 |        +0.03 |         +2.83 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
 |   27 | Karan Goyal        |  16.4 |        19 |              |               |
-|   28 | Craig Hollow       |  15.6 |        39 |        +0.05 |        +13.68 |
+|   28 | Craig Hollow       |  15.7 |        40 |        +0.14 |        +13.77 |
 |   29 | Diego Butrich      |  13.8 |        21 |              |         -0.83 |
 |   30 | Kent Daniels       |  13.6 |       118 |        -0.07 |         -1.27 |
 |   31 | Danielle Craig     |  13.3 |         3 |              |               |
@@ -47,7 +47,7 @@ Generated 2017-11-14.
 |   43 | Brian Kempenich    |   8.3 |        58 |        -0.17 |         -0.26 |
 |   44 | Avi Flamholz       |   5.4 |        10 |        -0.51 |               |
 |   45 | Zsolt Bartha       |   4.7 |        70 |              |         +0.28 |
-|   46 | Joanna Majkowski   |   2.8 |         5 |              |               |
+|   46 | Joanna Majkowski   |   2.7 |         6 |        -0.13 |               |
 |   47 | Duncan MacRae      |   0.7 |        37 |        -0.08 |         +6.92 |
 |   48 | Ryan van der Harst |  -1.0 |         4 |              |               |
 |   49 | Cori Land          |  -2.0 |         4 |              |               |
