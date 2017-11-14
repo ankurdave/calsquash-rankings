@@ -1,4 +1,4 @@
-Generated 2017-11-13.
+Generated 2017-11-14.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -316,7 +316,7 @@ Generated 2017-11-13.
 |  312 | Tim Browning              |  13.8 |         7 |              |               |
 |  313 | Diego Butrich             |  13.8 |        21 |              |         -0.83 |
 |  314 | Josephine Lee             |  13.7 |         6 |              |               |
-|  315 | Kent Daniels              |  13.6 |       118 |        -0.12 |         -1.32 |
+|  315 | Kent Daniels              |  13.6 |       118 |        -0.07 |         -1.27 |
 |  316 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  317 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  318 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -350,35 +350,35 @@ Generated 2017-11-13.
 |  346 | Aman Gupta                |  11.8 |         3 |              |               |
 |  347 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  348 | Julian Gill               |  11.8 |         1 |              |               |
-|  349 | James Shinn               |  11.7 |       120 |              |               |
-|  350 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  351 | Raphael Magarik           |  11.6 |        45 |        +0.60 |         +2.87 |
-|  352 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  353 | David Appelfeld           |  11.6 |        26 |              |               |
-|  354 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  355 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  356 | Carlos Filho              |  11.4 |         7 |              |               |
-|  357 | Karan Jain                |  11.3 |        19 |              |               |
-|  358 | Lucas Siow                |  11.0 |        10 |              |               |
-|  359 | Dominick Ng               |  10.9 |        25 |              |               |
-|  360 | Caroline Palmer           |  10.9 |         8 |              |               |
-|  361 | Vishesh Dalal             |  10.7 |         7 |        +0.55 |               |
-|  362 | Sara Bamberger            |  10.6 |        10 |        +1.12 |               |
-|  363 | George Bentley            |  10.6 |         4 |              |               |
-|  364 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  365 | Brian Puglise             |  10.4 |         2 |              |               |
-|  366 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  367 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  368 | John Provine              |  10.2 |        16 |              |               |
-|  369 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  370 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  371 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  372 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  373 | Terence Stotz             |  10.1 |        18 |        +0.49 |               |
-|  374 | Manuel Coquet             |  10.0 |         8 |        -1.12 |               |
-|  375 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  376 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
-|  377 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  349 | Sara Bamberger            |  11.7 |        11 |        +2.20 |               |
+|  350 | James Shinn               |  11.7 |       120 |              |               |
+|  351 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  352 | Raphael Magarik           |  11.6 |        45 |        +0.60 |         +2.87 |
+|  353 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  354 | David Appelfeld           |  11.6 |        26 |              |               |
+|  355 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  356 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
+|  357 | Carlos Filho              |  11.4 |         7 |              |               |
+|  358 | Karan Jain                |  11.3 |        19 |              |               |
+|  359 | Lucas Siow                |  11.0 |        10 |              |               |
+|  360 | Dominick Ng               |  10.9 |        25 |              |               |
+|  361 | Caroline Palmer           |  10.9 |         8 |              |               |
+|  362 | George Bentley            |  10.6 |         4 |              |               |
+|  363 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  364 | Brian Puglise             |  10.4 |         2 |              |               |
+|  365 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  366 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  367 | John Provine              |  10.2 |        16 |              |               |
+|  368 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  369 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  370 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  371 | Sung-Jin Oh               |  10.1 |         6 |              |               |
+|  372 | Terence Stotz             |  10.1 |        18 |        +0.49 |               |
+|  373 | Manuel Coquet             |  10.0 |         8 |        -1.12 |               |
+|  374 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  375 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
+|  376 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  377 | Vishesh Dalal             |   9.9 |         8 |        -0.29 |               |
 |  378 | Nate Aden                 |   9.9 |        42 |              |         -0.11 |
 |  379 | Daniel Schwartz           |   9.8 |        22 |              |         -0.69 |
 |  380 | Myles Gordon              |   9.8 |        42 |              |               |

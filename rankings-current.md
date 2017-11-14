@@ -1,4 +1,4 @@
-Generated 2017-11-13.
+Generated 2017-11-14.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -31,16 +31,16 @@ Generated 2017-11-13.
 |   27 | Karan Goyal        |  16.4 |        19 |              |               |
 |   28 | Craig Hollow       |  15.6 |        39 |        +0.05 |        +13.68 |
 |   29 | Diego Butrich      |  13.8 |        21 |              |         -0.83 |
-|   30 | Kent Daniels       |  13.6 |       118 |        -0.12 |         -1.32 |
+|   30 | Kent Daniels       |  13.6 |       118 |        -0.07 |         -1.27 |
 |   31 | Danielle Craig     |  13.3 |         3 |              |               |
 |   32 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
 |   33 | Meldan Heaslip     |  12.9 |        42 |              |         +3.97 |
 |   34 | Daniel Isaacson    |  12.9 |         4 |        +1.27 |               |
-|   35 | Raphael Magarik    |  11.6 |        45 |        +0.60 |         +2.87 |
-|   36 | Vishesh Dalal      |  10.7 |         7 |        +0.55 |               |
-|   37 | Sara Bamberger     |  10.6 |        10 |        +1.12 |               |
-|   38 | Terence Stotz      |  10.1 |        18 |        +0.49 |               |
-|   39 | Manuel Coquet      |  10.0 |         8 |        -1.12 |               |
+|   35 | Sara Bamberger     |  11.7 |        11 |        +2.20 |               |
+|   36 | Raphael Magarik    |  11.6 |        45 |        +0.60 |         +2.87 |
+|   37 | Terence Stotz      |  10.1 |        18 |        +0.49 |               |
+|   38 | Manuel Coquet      |  10.0 |         8 |        -1.12 |               |
+|   39 | Vishesh Dalal      |   9.9 |         8 |        -0.29 |               |
 |   40 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
 |   41 | Rashid Hameed      |   9.4 |         7 |        +0.76 |               |
 |   42 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
