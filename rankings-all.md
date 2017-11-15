@@ -34,7 +34,7 @@ Generated 2017-11-15.
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   32 | Anibhav Singla            |  27.9 |        34 |              |         +7.43 |
-|   33 | Thomas Littleton          |  27.5 |        20 |        +0.29 |               |
+|   33 | Thomas Littleton          |  27.5 |        20 |        +0.30 |               |
 |   34 | Grant French              |  27.5 |       125 |              |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
@@ -67,20 +67,20 @@ Generated 2017-11-15.
 |   63 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   64 | Madhav Pai                |  24.9 |         5 |              |               |
 |   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   67 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   68 | Orion Hodson              |  24.8 |        31 |              |               |
-|   69 | Martin Stokes             |  24.7 |        12 |              |               |
-|   70 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   71 | John Kunze                |  24.5 |       341 |              |         -0.09 |
+|   66 | Jim Veitch                |  24.8 |       472 |        +0.50 |         -0.23 |
+|   67 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   68 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   69 | Orion Hodson              |  24.8 |        31 |              |               |
+|   70 | Martin Stokes             |  24.7 |        12 |              |               |
+|   71 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   73 | Jim Veitch                |  24.5 |       471 |        +0.23 |         -0.50 |
-|   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
-|   75 | Adam Pollak               |  24.5 |        31 |              |               |
-|   76 | Jon Shih                  |  24.4 |        47 |              |               |
-|   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   79 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
+|   74 | Adam Pollak               |  24.5 |        31 |              |               |
+|   75 | Jon Shih                  |  24.4 |        47 |              |               |
+|   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   77 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   78 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   79 | John Kunze                |  24.3 |       342 |        -0.26 |         -0.35 |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   81 | Toby Reiner               |  24.2 |       159 |              |               |
 |   82 | Himanshu Jatia            |  24.2 |         4 |              |               |
