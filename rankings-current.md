@@ -17,14 +17,14 @@ Generated 2017-11-14.
 |   13 | Dan Bohn           |  22.8 |       117 |        -0.35 |         -0.42 |
 |   14 | Jonathan Hankar    |  21.9 |       220 |        +0.12 |               |
 |   15 | Dan Meier          |  21.8 |        83 |              |         -1.23 |
-|   16 | Reid Johnsen       |  21.3 |        59 |        -0.12 |         -0.34 |
+|   16 | Reid Johnsen       |  21.4 |        59 |        -0.11 |         -0.33 |
 |   17 | Mark Modera        |  20.3 |       343 |        -0.34 |         -1.05 |
 |   18 | Anthony Abel       |  20.1 |        15 |        +0.31 |               |
 |   19 | Matthew Bond       |  19.7 |         6 |        +2.15 |               |
-|   20 | Ankur Dave         |  19.2 |        93 |        +0.32 |         +4.09 |
+|   20 | Ankur Dave         |  19.4 |        94 |        +0.57 |         +4.34 |
 |   21 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
 |   22 | Jaime Perez        |  19.1 |        34 |        -0.03 |         +0.03 |
-|   23 | Dror Matalon       |  18.4 |       380 |        -0.13 |         -0.15 |
+|   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.39 |
 |   24 | Josh Trauner       |  17.8 |        71 |        +0.22 |         +0.04 |
 |   25 | Sahar Sareminaeni  |  17.0 |        50 |        +0.03 |         +2.83 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
