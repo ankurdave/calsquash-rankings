@@ -1,4 +1,4 @@
-Generated 2017-11-14.
+Generated 2017-11-15.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -189,12 +189,12 @@ Generated 2017-11-14.
 |  185 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  186 | Ankur Dave                |  19.4 |        94 |        +0.57 |         +4.34 |
 |  187 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  188 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  189 | Greg Adams                |  19.3 |        10 |              |               |
-|  190 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  191 | Mike Jensen-Akula         |  19.2 |       238 |        +0.03 |         -1.40 |
-|  192 | John Corcoran             |  19.1 |        49 |              |               |
-|  193 | Jaime Perez               |  19.1 |        34 |        -0.03 |         +0.03 |
+|  188 | Jaime Perez               |  19.3 |        35 |        +0.19 |         +0.25 |
+|  189 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  190 | Greg Adams                |  19.3 |        10 |              |               |
+|  191 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  192 | Mike Jensen-Akula         |  19.2 |       238 |        +0.03 |         -1.40 |
+|  193 | John Corcoran             |  19.1 |        49 |              |               |
 |  194 | Kedar Shah                |  19.1 |         9 |              |               |
 |  195 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  196 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -260,14 +260,14 @@ Generated 2017-11-14.
 |  256 | William Coleman           |  16.5 |        48 |              |               |
 |  257 | Mike Troxell              |  16.5 |         8 |              |               |
 |  258 | David Bratt               |  16.4 |        32 |        -0.23 |         -0.37 |
-|  259 | Karan Goyal               |  16.4 |        19 |              |               |
-|  260 | Danish Mir                |  16.4 |         1 |              |               |
-|  261 | Paul Chang                |  16.3 |         7 |              |               |
-|  262 | Steven Hahm               |  16.3 |         5 |              |               |
-|  263 | Jules Bowie               |  16.3 |        12 |              |               |
-|  264 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  265 | Jan Strasky               |  16.2 |        12 |              |               |
-|  266 | Sarah Mcneil              |  16.2 |        24 |              |               |
+|  259 | Danish Mir                |  16.4 |         1 |              |               |
+|  260 | Paul Chang                |  16.3 |         7 |              |               |
+|  261 | Steven Hahm               |  16.3 |         5 |              |               |
+|  262 | Jules Bowie               |  16.3 |        12 |              |               |
+|  263 | Wladislaw Ellis           |  16.2 |        29 |              |               |
+|  264 | Jan Strasky               |  16.2 |        12 |              |               |
+|  265 | Sarah Mcneil              |  16.2 |        24 |              |               |
+|  266 | Karan Goyal               |  16.2 |        20 |        -0.27 |               |
 |  267 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  268 | Terry Chang               |  15.8 |        48 |              |               |
 |  269 | Louis Russell             |  15.8 |        20 |              |               |

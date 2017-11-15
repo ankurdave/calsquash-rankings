@@ -1,4 +1,4 @@
-Generated 2017-11-14.
+Generated 2017-11-15.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -22,13 +22,13 @@ Generated 2017-11-14.
 |   18 | Anthony Abel       |  20.1 |        15 |        +0.31 |               |
 |   19 | Matthew Bond       |  19.7 |         6 |        +2.15 |               |
 |   20 | Ankur Dave         |  19.4 |        94 |        +0.57 |         +4.34 |
-|   21 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
-|   22 | Jaime Perez        |  19.1 |        34 |        -0.03 |         +0.03 |
+|   21 | Jaime Perez        |  19.3 |        35 |        +0.19 |         +0.25 |
+|   22 | Mike Jensen-Akula  |  19.2 |       238 |        +0.03 |         -1.40 |
 |   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.39 |
 |   24 | Josh Trauner       |  17.8 |        71 |        +0.22 |         +0.04 |
 |   25 | Sahar Sareminaeni  |  17.0 |        50 |        +0.03 |         +2.83 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
-|   27 | Karan Goyal        |  16.4 |        19 |              |               |
+|   27 | Karan Goyal        |  16.2 |        20 |        -0.27 |               |
 |   28 | Craig Hollow       |  15.7 |        40 |        +0.14 |        +13.77 |
 |   29 | Diego Butrich      |  13.8 |        21 |              |         -0.83 |
 |   30 | Kent Daniels       |  13.6 |       118 |        -0.07 |         -1.27 |
