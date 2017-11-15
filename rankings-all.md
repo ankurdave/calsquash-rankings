@@ -34,8 +34,8 @@ Generated 2017-11-14.
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   32 | Anibhav Singla            |  27.9 |        34 |              |         +7.43 |
-|   33 | Grant French              |  27.5 |       125 |              |               |
-|   34 | Thomas Littleton          |  27.5 |        19 |        +0.22 |               |
+|   33 | Thomas Littleton          |  27.5 |        20 |        +0.29 |               |
+|   34 | Grant French              |  27.5 |       125 |              |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
 |   37 | Frank Kennamer            |  27.0 |       241 |              |         +0.13 |
@@ -74,7 +74,7 @@ Generated 2017-11-14.
 |   70 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   71 | John Kunze                |  24.5 |       341 |              |         -0.09 |
 |   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   73 | Jim Veitch                |  24.5 |       470 |        +0.24 |         -0.49 |
+|   73 | Jim Veitch                |  24.5 |       471 |        +0.23 |         -0.50 |
 |   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |
 |   76 | Jon Shih                  |  24.4 |        47 |              |               |
