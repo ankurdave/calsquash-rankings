@@ -193,7 +193,7 @@ Generated 2017-11-15.
 |  189 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  190 | Greg Adams                |  19.3 |        10 |              |               |
 |  191 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  192 | Mike Jensen-Akula         |  19.2 |       238 |        +0.03 |         -1.40 |
+|  192 | Mike Jensen-Akula         |  19.2 |       239 |        +0.06 |         -1.37 |
 |  193 | John Corcoran             |  19.1 |        49 |              |               |
 |  194 | Kedar Shah                |  19.1 |         9 |              |               |
 |  195 | Narayan Sankaran          |  19.1 |        24 |              |               |
@@ -272,7 +272,7 @@ Generated 2017-11-15.
 |  268 | Terry Chang               |  15.8 |        48 |              |               |
 |  269 | Louis Russell             |  15.8 |        20 |              |               |
 |  270 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  271 | Craig Hollow              |  15.7 |        40 |        +0.14 |        +13.77 |
+|  271 | Craig Hollow              |  15.7 |        40 |        +0.13 |        +13.76 |
 |  272 | Jared Nunn                |  15.7 |         5 |              |               |
 |  273 | Akash Sharma              |  15.7 |         8 |              |               |
 |  274 | Angie Ng                  |  15.7 |        12 |              |               |
@@ -466,9 +466,9 @@ Generated 2017-11-15.
 |  462 | Nadir Shams               |   3.0 |         2 |              |               |
 |  463 | Ji Seop Oh                |   2.9 |         2 |              |               |
 |  464 | Saijoscha Heck            |   2.9 |         6 |              |               |
-|  465 | Sagar Pilania             |   2.8 |         2 |              |               |
-|  466 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  467 | Joanna Majkowski          |   2.7 |         6 |        -0.13 |               |
+|  465 | Joanna Majkowski          |   2.8 |         7 |        -0.06 |               |
+|  466 | Sagar Pilania             |   2.8 |         2 |              |               |
+|  467 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  468 | David Vogel               |   2.6 |         7 |              |               |
 |  469 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  470 | Cristhian Daniel          |   2.3 |        19 |              |         +0.54 |
