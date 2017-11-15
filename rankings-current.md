@@ -31,16 +31,16 @@ Generated 2017-11-15.
 |   27 | Karan Goyal        |  16.2 |        20 |        -0.27 |               |
 |   28 | Craig Hollow       |  15.7 |        40 |        +0.14 |        +13.77 |
 |   29 | Diego Butrich      |  13.8 |        21 |              |         -0.83 |
-|   30 | Kent Daniels       |  13.6 |       118 |        -0.07 |         -1.27 |
+|   30 | Kent Daniels       |  13.4 |       119 |        -0.25 |         -1.45 |
 |   31 | Danielle Craig     |  13.3 |         3 |              |               |
 |   32 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
 |   33 | Meldan Heaslip     |  12.9 |        42 |              |         +3.97 |
 |   34 | Daniel Isaacson    |  12.9 |         4 |        +1.27 |               |
-|   35 | Sara Bamberger     |  11.7 |        11 |        +2.20 |               |
+|   35 | Sara Bamberger     |  11.7 |        11 |        +2.16 |               |
 |   36 | Raphael Magarik    |  11.6 |        45 |        +0.60 |         +2.87 |
-|   37 | Terence Stotz      |  10.1 |        18 |        +0.49 |               |
-|   38 | Manuel Coquet      |  10.0 |         8 |        -1.12 |               |
-|   39 | Vishesh Dalal      |   9.9 |         8 |        -0.29 |               |
+|   37 | Vishesh Dalal      |  11.1 |         9 |        +0.90 |               |
+|   38 | Terence Stotz      |  10.1 |        18 |        +0.49 |               |
+|   39 | Manuel Coquet      |  10.0 |         8 |        -1.12 |               |
 |   40 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
 |   41 | Rashid Hameed      |   9.4 |         7 |        +0.76 |               |
 |   42 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
