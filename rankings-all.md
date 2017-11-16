@@ -1,4 +1,4 @@
-Generated 2017-11-15.
+Generated 2017-11-16.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -314,8 +314,8 @@ Generated 2017-11-15.
 |  310 | Gurj Johal                |  13.8 |         2 |              |               |
 |  311 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  312 | Tim Browning              |  13.8 |         7 |              |               |
-|  313 | Diego Butrich             |  13.8 |        21 |              |         -0.83 |
-|  314 | Josephine Lee             |  13.7 |         6 |              |               |
+|  313 | Josephine Lee             |  13.7 |         6 |              |               |
+|  314 | Diego Butrich             |  13.7 |        22 |        -0.02 |         -0.85 |
 |  315 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  316 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  317 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -350,10 +350,10 @@ Generated 2017-11-15.
 |  346 | Aman Gupta                |  11.8 |         3 |              |               |
 |  347 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  348 | Julian Gill               |  11.8 |         1 |              |               |
-|  349 | James Shinn               |  11.7 |       120 |              |               |
-|  350 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  351 | Sara Bamberger            |  11.7 |        11 |        +2.16 |               |
-|  352 | Raphael Magarik           |  11.6 |        45 |        +0.60 |         +2.87 |
+|  349 | Raphael Magarik           |  11.7 |        46 |        +0.70 |         +2.97 |
+|  350 | James Shinn               |  11.7 |       120 |              |               |
+|  351 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  352 | Sara Bamberger            |  11.7 |        11 |        +2.16 |               |
 |  353 | Min Joon Seo              |  11.6 |         3 |              |               |
 |  354 | David Appelfeld           |  11.6 |        26 |              |               |
 |  355 | Virginie Letschert        |  11.6 |        18 |              |               |
