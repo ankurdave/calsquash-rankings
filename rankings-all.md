@@ -128,7 +128,7 @@ Generated 2017-11-16.
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Jonathan Hankar           |  21.9 |       220 |        +0.12 |               |
+|  127 | Jonathan Hankar           |  21.9 |       221 |        +0.16 |         +0.04 |
 |  128 | Dan Meier                 |  21.8 |        83 |              |         -1.23 |
 |  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
@@ -166,7 +166,7 @@ Generated 2017-11-16.
 |  162 | Marc Schechter            |  20.4 |        14 |              |               |
 |  163 | Jeff Gordon               |  20.3 |        46 |              |         +0.40 |
 |  164 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  165 | Mark Modera               |  20.3 |       343 |        -0.34 |         -1.05 |
+|  165 | Mark Modera               |  20.3 |       343 |        -0.35 |         -1.06 |
 |  166 | John Grim                 |  20.1 |        13 |              |               |
 |  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  168 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -178,11 +178,11 @@ Generated 2017-11-16.
 |  174 | Wesley Huang              |  20.0 |         8 |              |               |
 |  175 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  176 | Liam King                 |  19.9 |         6 |              |               |
-|  177 | Lysander Jim              |  19.8 |         6 |              |               |
-|  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  180 | Mike Delanty              |  19.7 |        12 |              |               |
-|  181 | Matthew Bond              |  19.7 |         6 |        +2.15 |               |
+|  177 | Matthew Bond              |  19.8 |         7 |        +2.28 |               |
+|  178 | Lysander Jim              |  19.8 |         6 |              |               |
+|  179 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  180 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  181 | Mike Delanty              |  19.7 |        12 |              |               |
 |  182 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  184 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
