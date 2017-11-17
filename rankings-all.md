@@ -369,12 +369,12 @@ Generated 2017-11-16.
 |  365 | Brian Puglise             |  10.4 |         2 |              |               |
 |  366 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  367 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  368 | John Provine              |  10.2 |        16 |              |               |
-|  369 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  370 | Nicholas DuBroff          |  10.2 |         8 |              |               |
-|  371 | Max Oltersdorf            |  10.2 |         8 |              |               |
-|  372 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  373 | Terence Stotz             |  10.1 |        18 |        +0.49 |               |
+|  368 | Terence Stotz             |  10.3 |        19 |        +0.68 |               |
+|  369 | John Provine              |  10.2 |        16 |              |               |
+|  370 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  371 | Nicholas DuBroff          |  10.2 |         8 |              |               |
+|  372 | Max Oltersdorf            |  10.2 |         8 |              |               |
+|  373 | Sung-Jin Oh               |  10.1 |         6 |              |               |
 |  374 | Manuel Coquet             |  10.0 |         8 |        -1.12 |               |
 |  375 | Ed Rubin                  |  10.0 |        14 |              |               |
 |  376 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
@@ -447,7 +447,7 @@ Generated 2017-11-16.
 |  443 | Ivan Rothman              |   5.7 |         5 |              |               |
 |  444 | Gwendal Rannou            |   5.6 |        13 |              |               |
 |  445 | Manu Vaish                |   5.5 |         1 |              |               |
-|  446 | Avi Flamholz              |   5.4 |        10 |        -0.51 |               |
+|  446 | Avi Flamholz              |   5.4 |        10 |        -0.52 |               |
 |  447 | Emily Moylan              |   5.2 |        17 |              |               |
 |  448 | Mohammad Salama           |   5.2 |         5 |              |               |
 |  449 | Catherine Wang            |   5.2 |        10 |              |               |
@@ -455,7 +455,7 @@ Generated 2017-11-16.
 |  451 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  452 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  453 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  454 | Zsolt Bartha              |   4.7 |        70 |              |         +0.28 |
+|  454 | Zsolt Bartha              |   4.6 |        71 |        -0.12 |         +0.16 |
 |  455 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  456 | Anuj Dawar                |   4.2 |        15 |              |         +1.70 |
 |  457 | Annie Wong                |   4.0 |         3 |              |               |
@@ -491,7 +491,7 @@ Generated 2017-11-16.
 |  487 | Michael Mann              |   1.1 |         4 |              |               |
 |  488 | Marco Eres                |   1.0 |         5 |              |               |
 |  489 | Alex Kaplan               |   0.8 |         8 |              |               |
-|  490 | Duncan MacRae             |   0.7 |        37 |        -0.08 |         +6.92 |
+|  490 | Duncan MacRae             |   0.7 |        37 |        -0.07 |         +6.92 |
 |  491 | Daniel Wissmann           |   0.7 |         2 |              |               |
 |  492 | Alfonso Rojas             |   0.6 |         8 |              |               |
 |  493 | Ben Geller                |   0.6 |         4 |              |               |
