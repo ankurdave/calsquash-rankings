@@ -25,11 +25,11 @@ Generated 2017-11-16.
 |   21 | Jaime Perez        |  19.3 |        35 |        +0.19 |         +0.25 |
 |   22 | Mike Jensen-Akula  |  19.2 |       239 |        +0.06 |         -1.37 |
 |   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.39 |
-|   24 | Josh Trauner       |  17.8 |        71 |        +0.22 |         +0.04 |
+|   24 | Josh Trauner       |  17.8 |        72 |        +0.23 |         +0.05 |
 |   25 | Sahar Sareminaeni  |  17.0 |        50 |        +0.03 |         +2.83 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
 |   27 | Karan Goyal        |  16.2 |        20 |        -0.27 |               |
-|   28 | Craig Hollow       |  15.7 |        40 |        +0.13 |        +13.76 |
+|   28 | Craig Hollow       |  15.7 |        40 |        +0.13 |        +13.77 |
 |   29 | Diego Butrich      |  13.7 |        22 |        -0.02 |         -0.85 |
 |   30 | Kent Daniels       |  13.4 |       119 |        -0.25 |         -1.45 |
 |   31 | Danielle Craig     |  13.3 |         3 |              |               |
@@ -45,12 +45,13 @@ Generated 2017-11-16.
 |   41 | Rashid Hameed      |   9.4 |         7 |        +0.76 |               |
 |   42 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
 |   43 | Brian Kempenich    |   8.3 |        58 |        -0.17 |         -0.26 |
-|   44 | Avi Flamholz       |   5.4 |        10 |        -0.52 |               |
-|   45 | Zsolt Bartha       |   4.6 |        71 |        -0.12 |         +0.16 |
-|   46 | Joanna Majkowski   |   2.8 |         7 |        -0.06 |               |
-|   47 | Duncan MacRae      |   0.7 |        37 |        -0.07 |         +6.92 |
-|   48 | Ryan van der Harst |  -1.0 |         4 |              |               |
-|   49 | Cori Land          |  -2.0 |         4 |              |               |
-|   50 | John Hwong         |  -3.8 |         2 |              |               |
-|   51 | Oly Rillera        |  -7.3 |         2 |              |               |
-|   52 | Navarun Jain       | -12.4 |         7 |              |               |
+|   44 | Romit Chakraborty  |   6.0 |         1 |              |               |
+|   45 | Avi Flamholz       |   5.4 |        10 |        -0.52 |               |
+|   46 | Zsolt Bartha       |   4.6 |        71 |        -0.12 |         +0.16 |
+|   47 | Joanna Majkowski   |   2.8 |         7 |        -0.06 |               |
+|   48 | Duncan MacRae      |   0.7 |        37 |        -0.07 |         +6.92 |
+|   49 | Ryan van der Harst |  -1.0 |         4 |              |               |
+|   50 | Cori Land          |  -2.0 |         4 |              |               |
+|   51 | John Hwong         |  -3.8 |         2 |              |               |
+|   52 | Oly Rillera        |  -7.3 |         2 |              |               |
+|   53 | Navarun Jain       | -12.4 |         7 |              |               |
