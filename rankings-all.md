@@ -307,15 +307,15 @@ Generated 2017-11-17.
 |  303 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  304 | Adam Soliman              |  14.2 |        32 |              |               |
 |  305 | Charles Denby             |  14.2 |         5 |              |               |
-|  306 | Neil Sachs                |  14.1 |        12 |              |               |
-|  307 | Rupert Myers              |  14.0 |        27 |              |               |
-|  308 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  309 | Mekoce Walker             |  13.8 |        38 |              |               |
-|  310 | Gurj Johal                |  13.8 |         2 |              |               |
-|  311 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  312 | Tim Browning              |  13.8 |         7 |              |               |
-|  313 | Josephine Lee             |  13.7 |         6 |              |               |
-|  314 | Diego Butrich             |  13.7 |        22 |        -0.02 |         -0.85 |
+|  306 | Diego Butrich             |  14.1 |        24 |        +0.38 |         -0.44 |
+|  307 | Neil Sachs                |  14.1 |        12 |              |               |
+|  308 | Rupert Myers              |  14.0 |        27 |              |               |
+|  309 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
+|  310 | Mekoce Walker             |  13.8 |        38 |              |               |
+|  311 | Gurj Johal                |  13.8 |         2 |              |               |
+|  312 | Freeden Ouer              |  13.8 |         1 |              |               |
+|  313 | Tim Browning              |  13.8 |         7 |              |               |
+|  314 | Josephine Lee             |  13.7 |         6 |              |               |
 |  315 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  316 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  317 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -350,7 +350,7 @@ Generated 2017-11-17.
 |  346 | Aman Gupta                |  11.8 |         3 |              |               |
 |  347 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  348 | Julian Gill               |  11.8 |         1 |              |               |
-|  349 | Raphael Magarik           |  11.7 |        46 |        +0.70 |         +2.97 |
+|  349 | Raphael Magarik           |  11.7 |        46 |        +0.72 |         +2.99 |
 |  350 | James Shinn               |  11.7 |       120 |              |               |
 |  351 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  352 | Sara Bamberger            |  11.7 |        11 |        +2.16 |               |
@@ -375,16 +375,16 @@ Generated 2017-11-17.
 |  371 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  372 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  373 | Sung-Jin Oh               |  10.1 |         6 |              |               |
-|  374 | Manuel Coquet             |  10.0 |         8 |        -1.12 |               |
-|  375 | Ed Rubin                  |  10.0 |        14 |              |               |
-|  376 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
-|  377 | Lucy Fairweather          |   9.9 |        11 |              |               |
-|  378 | Nate Aden                 |   9.9 |        42 |              |         -0.11 |
-|  379 | Daniel Schwartz           |   9.8 |        22 |              |         -0.69 |
-|  380 | Myles Gordon              |   9.8 |        42 |              |               |
-|  381 | Jacob Bank                |   9.7 |         1 |              |               |
-|  382 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  383 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  374 | Ed Rubin                  |  10.0 |        14 |              |               |
+|  375 | Reto Sutter               |  10.0 |        52 |              |         -0.10 |
+|  376 | Lucy Fairweather          |   9.9 |        11 |              |               |
+|  377 | Nate Aden                 |   9.9 |        42 |              |         -0.11 |
+|  378 | Daniel Schwartz           |   9.8 |        22 |              |         -0.69 |
+|  379 | Myles Gordon              |   9.8 |        42 |              |               |
+|  380 | Jacob Bank                |   9.7 |         1 |              |               |
+|  381 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  382 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  383 | Manuel Coquet             |   9.5 |         9 |        -1.64 |               |
 |  384 | Mark Shapero              |   9.4 |         7 |              |               |
 |  385 | Kevin Pollock             |   9.4 |        28 |              |               |
 |  386 | Max Grass                 |   9.4 |         1 |              |               |
@@ -409,10 +409,10 @@ Generated 2017-11-17.
 |  405 | Sumit Gupta               |   8.5 |        13 |              |               |
 |  406 | Duo Wang                  |   8.4 |        83 |              |         +0.13 |
 |  407 | Reynold Xin               |   8.3 |         5 |              |               |
-|  408 | Brian Kempenich           |   8.3 |        58 |        -0.17 |         -0.26 |
-|  409 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  410 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  411 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  408 | Anurag Gupta              |   8.3 |         6 |              |               |
+|  409 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  410 | Vishnu Narayanan          |   8.2 |        12 |              |               |
+|  411 | Brian Kempenich           |   8.2 |        59 |        -0.28 |         -0.37 |
 |  412 | Phil Hartmeyer            |   8.2 |         3 |              |               |
 |  413 | John Coates               |   8.1 |         9 |              |               |
 |  414 | Vito Sciaraffia           |   8.1 |         5 |              |               |
