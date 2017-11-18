@@ -34,7 +34,7 @@ Generated 2017-11-17.
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   32 | Anibhav Singla            |  27.9 |        34 |              |         +7.43 |
-|   33 | Thomas Littleton          |  27.5 |        20 |        +0.30 |               |
+|   33 | Thomas Littleton          |  27.5 |        20 |        +0.29 |               |
 |   34 | Grant French              |  27.5 |       125 |              |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
@@ -106,8 +106,8 @@ Generated 2017-11-17.
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
 |  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Dan Bohn                  |  22.8 |       117 |        -0.35 |         -0.42 |
-|  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
+|  105 | Andrew Pritchard          |  22.7 |        16 |              |               |
+|  106 | Dan Bohn                  |  22.7 |       118 |        -0.47 |         -0.54 |
 |  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  108 | Julian Marshall           |  22.7 |        31 |              |               |
 |  109 | Gautam Tankha             |  22.6 |         7 |              |               |
@@ -127,9 +127,9 @@ Generated 2017-11-17.
 |  123 | Blake Woodard             |  22.0 |        10 |              |               |
 |  124 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Jonathan Hankar           |  21.9 |       221 |        +0.16 |         +0.04 |
-|  128 | Dan Meier                 |  21.8 |        83 |              |         -1.23 |
+|  126 | Dan Meier                 |  21.9 |        84 |        +0.15 |         -1.09 |
+|  127 | Jan Beranek               |  21.9 |        46 |              |               |
+|  128 | Jonathan Hankar           |  21.9 |       221 |        +0.16 |         +0.04 |
 |  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  131 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
