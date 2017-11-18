@@ -17,18 +17,18 @@ Generated 2017-11-17.
 |   13 | Dan Bohn           |  22.7 |       118 |        -0.47 |         -0.54 |
 |   14 | Dan Meier          |  21.9 |        84 |        +0.15 |         -1.09 |
 |   15 | Jonathan Hankar    |  21.9 |       221 |        +0.16 |         +0.04 |
-|   16 | Reid Johnsen       |  21.4 |        59 |        -0.11 |         -0.33 |
+|   16 | Reid Johnsen       |  21.4 |        59 |        -0.10 |         -0.32 |
 |   17 | Mark Modera        |  20.3 |       343 |        -0.35 |         -1.06 |
 |   18 | Anthony Abel       |  20.1 |        15 |        +0.31 |               |
 |   19 | Matthew Bond       |  19.8 |         7 |        +2.28 |               |
-|   20 | Ankur Dave         |  19.4 |        94 |        +0.57 |         +4.34 |
-|   21 | Jaime Perez        |  19.3 |        35 |        +0.19 |         +0.25 |
+|   20 | Ankur Dave         |  19.6 |        95 |        +0.76 |         +4.53 |
+|   21 | Jaime Perez        |  19.3 |        35 |        +0.18 |         +0.23 |
 |   22 | Mike Jensen-Akula  |  19.2 |       239 |        +0.06 |         -1.37 |
-|   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.39 |
+|   23 | Dror Matalon       |  18.2 |       381 |        -0.37 |         -0.38 |
 |   24 | Josh Trauner       |  17.8 |        72 |        +0.23 |         +0.05 |
 |   25 | Sahar Sareminaeni  |  17.0 |        50 |        +0.03 |         +2.83 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
-|   27 | Karan Goyal        |  16.2 |        20 |        -0.27 |               |
+|   27 | Karan Goyal        |  15.9 |        21 |        -0.53 |               |
 |   28 | Craig Hollow       |  15.7 |        40 |        +0.13 |        +13.77 |
 |   29 | Diego Butrich      |  14.1 |        24 |        +0.38 |         -0.44 |
 |   30 | Kent Daniels       |  13.4 |       119 |        -0.25 |         -1.45 |

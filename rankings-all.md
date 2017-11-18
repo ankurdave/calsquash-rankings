@@ -138,7 +138,7 @@ Generated 2017-11-17.
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
 |  135 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Reid Johnsen              |  21.4 |        59 |        -0.11 |         -0.33 |
+|  137 | Reid Johnsen              |  21.4 |        59 |        -0.10 |         -0.32 |
 |  138 | Jared Bard                |  21.3 |        46 |              |         +0.54 |
 |  139 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -186,10 +186,10 @@ Generated 2017-11-17.
 |  182 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  184 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  185 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  186 | Ankur Dave                |  19.4 |        94 |        +0.57 |         +4.34 |
+|  185 | Ankur Dave                |  19.6 |        95 |        +0.76 |         +4.53 |
+|  186 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  187 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  188 | Jaime Perez               |  19.3 |        35 |        +0.19 |         +0.25 |
+|  188 | Jaime Perez               |  19.3 |        35 |        +0.18 |         +0.23 |
 |  189 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  190 | Greg Adams                |  19.3 |        10 |              |               |
 |  191 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
@@ -219,7 +219,7 @@ Generated 2017-11-17.
 |  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.56 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  218 | Dror Matalon              |  18.2 |       381 |        -0.38 |         -0.39 |
+|  218 | Dror Matalon              |  18.2 |       381 |        -0.37 |         -0.38 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
 |  220 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  221 | James Chung               |  17.9 |         7 |              |               |
@@ -267,8 +267,8 @@ Generated 2017-11-17.
 |  263 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  264 | Jan Strasky               |  16.2 |        12 |              |               |
 |  265 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  266 | Karan Goyal               |  16.2 |        20 |        -0.27 |               |
-|  267 | Marc Bensadoun            |  16.1 |         5 |              |               |
+|  266 | Marc Bensadoun            |  16.1 |         5 |              |               |
+|  267 | Karan Goyal               |  15.9 |        21 |        -0.53 |               |
 |  268 | Terry Chang               |  15.8 |        48 |              |               |
 |  269 | Louis Russell             |  15.8 |        20 |              |               |
 |  270 | Rich Shapiro              |  15.8 |        82 |              |               |
