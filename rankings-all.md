@@ -1,4 +1,4 @@
-Generated 2017-11-17.
+Generated 2017-11-18.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -7,8 +7,8 @@ Generated 2017-11-17.
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Eric Katerman             |  33.9 |        67 |        +0.38 |         +2.42 |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
-|    6 | Ashley Kayler             |  33.7 |       233 |              |         -1.37 |
-|    7 | Dominic Gaffney           |  33.4 |        54 |              |               |
+|    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
+|    7 | Ashley Kayler             |  33.4 |       234 |        -0.30 |         -1.66 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -16,9 +16,9 @@ Generated 2017-11-17.
 |   12 | Victor Noguera Neutelings |  32.2 |        11 |              |               |
 |   13 | Rees Sweeney-Taylor       |  32.0 |        87 |              |               |
 |   14 | Jeff Grant                |  31.3 |       207 |              |               |
-|   15 | Mads Kristensen           |  31.1 |        33 |              |               |
-|   16 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
-|   17 | Sam Sternberg             |  30.9 |       167 |        -0.05 |         +0.38 |
+|   15 | Sam Sternberg             |  31.2 |       168 |        +0.25 |         +0.67 |
+|   16 | Mads Kristensen           |  31.1 |        33 |              |               |
+|   17 | Shaun Tay Zi Xuan         |  31.0 |         4 |              |               |
 |   18 | Chris Goodman-Smith       |  30.3 |        11 |              |               |
 |   19 | Umesh Vazirani            |  30.1 |        27 |              |               |
 |   20 | Ben Faber                 |  29.8 |        15 |              |               |
@@ -28,7 +28,7 @@ Generated 2017-11-17.
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
-|   27 | David Woo                 |  28.6 |        10 |        -0.27 |               |
+|   27 | David Woo                 |  28.6 |        10 |        -0.29 |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Nick Cobbett              |  28.3 |        53 |        -0.13 |         +1.70 |
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
