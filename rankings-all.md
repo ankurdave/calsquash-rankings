@@ -138,7 +138,7 @@ Generated 2017-11-18.
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
 |  135 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Reid Johnsen              |  21.4 |        59 |        -0.10 |         -0.32 |
+|  137 | Reid Johnsen              |  21.4 |        59 |        -0.09 |         -0.31 |
 |  138 | Jared Bard                |  21.3 |        46 |              |         +0.54 |
 |  139 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -189,11 +189,11 @@ Generated 2017-11-18.
 |  185 | Ankur Dave                |  19.6 |        95 |        +0.76 |         +4.53 |
 |  186 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  187 | Roberto Gonzalez          |  19.4 |         3 |              |               |
-|  188 | Jaime Perez               |  19.3 |        35 |        +0.18 |         +0.23 |
-|  189 | Thomas Scanlon            |  19.3 |        20 |              |               |
-|  190 | Greg Adams                |  19.3 |        10 |              |               |
-|  191 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  192 | Mike Jensen-Akula         |  19.2 |       239 |        +0.06 |         -1.37 |
+|  188 | Thomas Scanlon            |  19.3 |        20 |              |               |
+|  189 | Greg Adams                |  19.3 |        10 |              |               |
+|  190 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
+|  191 | Mike Jensen-Akula         |  19.2 |       239 |        +0.06 |         -1.37 |
+|  192 | Jaime Perez               |  19.2 |        36 |              |         +0.06 |
 |  193 | John Corcoran             |  19.1 |        49 |              |               |
 |  194 | Kedar Shah                |  19.1 |         9 |              |               |
 |  195 | Narayan Sankaran          |  19.1 |        24 |              |               |
@@ -219,7 +219,7 @@ Generated 2017-11-18.
 |  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.56 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  218 | Dror Matalon              |  18.2 |       381 |        -0.37 |         -0.38 |
+|  218 | Dror Matalon              |  18.2 |       381 |        -0.38 |         -0.39 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
 |  220 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  221 | James Chung               |  17.9 |         7 |              |               |
@@ -241,12 +241,12 @@ Generated 2017-11-18.
 |  237 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  238 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  239 | Zach Brown                |  17.3 |         3 |              |               |
-|  240 | William Seles             |  17.2 |        15 |              |               |
-|  241 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  242 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  243 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  244 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  245 | Sahar Sareminaeni         |  17.0 |        50 |        +0.03 |         +2.83 |
+|  240 | Sahar Sareminaeni         |  17.3 |        51 |        +0.25 |         +3.04 |
+|  241 | William Seles             |  17.2 |        15 |              |               |
+|  242 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  243 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  244 | Lucas Cheon               |  17.2 |        19 |              |               |
+|  245 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  246 | Neil Conway               |  17.0 |        55 |              |               |
 |  247 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  248 | Baxter Leman              |  16.9 |         6 |              |               |
@@ -268,7 +268,7 @@ Generated 2017-11-18.
 |  264 | Jan Strasky               |  16.2 |        12 |              |               |
 |  265 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  266 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  267 | Karan Goyal               |  15.9 |        21 |        -0.53 |               |
+|  267 | Karan Goyal               |  15.9 |        21 |        -0.54 |               |
 |  268 | Terry Chang               |  15.8 |        48 |              |               |
 |  269 | Louis Russell             |  15.8 |        20 |              |               |
 |  270 | Rich Shapiro              |  15.8 |        82 |              |               |
