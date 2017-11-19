@@ -219,7 +219,7 @@ Generated 2017-11-19.
 |  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.56 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  218 | Dror Matalon              |  18.2 |       381 |        -0.38 |         -0.39 |
+|  218 | Dror Matalon              |  18.2 |       381 |        -0.37 |         -0.38 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
 |  220 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  221 | James Chung               |  17.9 |         7 |              |               |
@@ -268,7 +268,7 @@ Generated 2017-11-19.
 |  264 | Jan Strasky               |  16.2 |        12 |              |               |
 |  265 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  266 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  267 | Karan Goyal               |  15.9 |        21 |        -0.54 |               |
+|  267 | Karan Goyal               |  15.9 |        21 |        -0.55 |               |
 |  268 | Terry Chang               |  15.8 |        48 |              |               |
 |  269 | Louis Russell             |  15.8 |        20 |              |               |
 |  270 | Rich Shapiro              |  15.8 |        82 |              |               |

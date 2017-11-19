@@ -24,11 +24,11 @@ Generated 2017-11-19.
 |   20 | Ankur Dave         |  19.6 |        95 |        +0.76 |         +4.53 |
 |   21 | Mike Jensen-Akula  |  19.2 |       239 |        +0.06 |         -1.37 |
 |   22 | Jaime Perez        |  19.2 |        36 |              |         +0.06 |
-|   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.39 |
+|   23 | Dror Matalon       |  18.2 |       381 |        -0.37 |         -0.38 |
 |   24 | Josh Trauner       |  17.8 |        72 |        +0.23 |         +0.05 |
 |   25 | Sahar Sareminaeni  |  17.3 |        51 |        +0.25 |         +3.04 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
-|   27 | Karan Goyal        |  15.9 |        21 |        -0.54 |               |
+|   27 | Karan Goyal        |  15.9 |        21 |        -0.55 |               |
 |   28 | Craig Hollow       |  15.7 |        40 |        +0.13 |        +13.77 |
 |   29 | Diego Butrich      |  14.1 |        24 |        +0.38 |         -0.44 |
 |   30 | Kent Daniels       |  13.4 |       119 |        -0.25 |         -1.45 |
