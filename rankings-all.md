@@ -34,8 +34,8 @@ Generated 2017-11-19.
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   32 | Anibhav Singla            |  27.9 |        34 |              |         +7.43 |
-|   33 | Thomas Littleton          |  27.5 |        20 |        +0.29 |               |
-|   34 | Grant French              |  27.5 |       125 |              |               |
+|   33 | Grant French              |  27.5 |       125 |              |               |
+|   34 | Thomas Littleton          |  27.4 |        21 |        +0.17 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
 |   37 | Frank Kennamer            |  27.0 |       241 |              |         +0.13 |
@@ -76,11 +76,11 @@ Generated 2017-11-19.
 |   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   74 | Adam Pollak               |  24.5 |        31 |              |               |
-|   75 | Jon Shih                  |  24.4 |        47 |              |               |
-|   76 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   77 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   78 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   79 | John Kunze                |  24.3 |       342 |        -0.26 |         -0.35 |
+|   75 | John Kunze                |  24.4 |       343 |        -0.12 |         -0.21 |
+|   76 | Jon Shih                  |  24.4 |        47 |              |               |
+|   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
+|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   79 | Harlan Yu                 |  24.3 |        19 |              |               |
 |   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
 |   81 | Toby Reiner               |  24.2 |       159 |              |               |
 |   82 | Himanshu Jatia            |  24.2 |         4 |              |               |
@@ -150,40 +150,40 @@ Generated 2017-11-19.
 |  146 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  147 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  148 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  149 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  150 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  151 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  152 | Robert Isaac              |  20.8 |        17 |              |         -1.04 |
-|  153 | Jamie Funk                |  20.8 |        30 |              |               |
-|  154 | Matthew Brett             |  20.7 |        20 |              |               |
-|  155 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  156 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  157 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  158 | Prakash Bathini           |  20.5 |       123 |              |         -0.17 |
-|  159 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  160 | Andrew Green              |  20.5 |        52 |              |               |
-|  161 | Steven Sloman             |  20.4 |        10 |              |               |
-|  162 | Marc Schechter            |  20.4 |        14 |              |               |
-|  163 | Jeff Gordon               |  20.3 |        46 |              |         +0.40 |
-|  164 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  165 | Mark Modera               |  20.3 |       343 |        -0.35 |         -1.06 |
-|  166 | John Grim                 |  20.1 |        13 |              |               |
-|  167 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  168 | Frank Kennan              |  20.1 |        11 |              |               |
-|  169 | Robert Schwartz           |  20.1 |        90 |              |         -0.22 |
-|  170 | Anthony Abel              |  20.1 |        15 |        +0.31 |               |
+|  149 | Matthew Bond              |  20.9 |         8 |        +3.38 |               |
+|  150 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  151 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  152 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  153 | Robert Isaac              |  20.8 |        17 |              |         -1.04 |
+|  154 | Jamie Funk                |  20.8 |        30 |              |               |
+|  155 | Matthew Brett             |  20.7 |        20 |              |               |
+|  156 | Jeff Bird                 |  20.7 |        38 |              |               |
+|  157 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  158 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  159 | Prakash Bathini           |  20.5 |       123 |              |         -0.17 |
+|  160 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  161 | Andrew Green              |  20.5 |        52 |              |               |
+|  162 | Steven Sloman             |  20.4 |        10 |              |               |
+|  163 | Marc Schechter            |  20.4 |        14 |              |               |
+|  164 | Jeff Gordon               |  20.3 |        46 |              |         +0.40 |
+|  165 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  166 | Mark Modera               |  20.3 |       343 |        -0.32 |         -1.04 |
+|  167 | John Grim                 |  20.1 |        13 |              |               |
+|  168 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  169 | Frank Kennan              |  20.1 |        11 |              |               |
+|  170 | Robert Schwartz           |  20.1 |        90 |              |         -0.22 |
 |  171 | Shaun Lim                 |  20.0 |        64 |              |         +1.72 |
 |  172 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  173 | Jonathan Francis          |  20.0 |        76 |              |         +0.14 |
 |  174 | Wesley Huang              |  20.0 |         8 |              |               |
 |  175 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  176 | Liam King                 |  19.9 |         6 |              |               |
-|  177 | Matthew Bond              |  19.8 |         7 |        +2.28 |               |
-|  178 | Lysander Jim              |  19.8 |         6 |              |               |
-|  179 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  180 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  181 | Mike Delanty              |  19.7 |        12 |              |               |
-|  182 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  177 | Lysander Jim              |  19.8 |         6 |              |               |
+|  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  180 | Mike Delanty              |  19.7 |        12 |              |               |
+|  181 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  182 | Anthony Abel              |  19.7 |        16 |        -0.08 |               |
 |  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  184 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  185 | Ankur Dave                |  19.6 |        95 |        +0.76 |         +4.53 |

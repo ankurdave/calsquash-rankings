@@ -8,19 +8,19 @@ Generated 2017-11-19.
 |    4 | David Woo          |  28.6 |        10 |        -0.29 |               |
 |    5 | Nick Cobbett       |  28.3 |        53 |        -0.13 |         +1.70 |
 |    6 | Anibhav Singla     |  27.9 |        34 |              |         +7.43 |
-|    7 | Thomas Littleton   |  27.5 |        20 |        +0.29 |               |
+|    7 | Thomas Littleton   |  27.4 |        21 |        +0.17 |               |
 |    8 | Frank Kennamer     |  27.0 |       241 |              |         +0.13 |
 |    9 | Jim Veitch         |  24.8 |       472 |        +0.50 |         -0.23 |
-|   10 | John Kunze         |  24.3 |       342 |        -0.26 |         -0.35 |
+|   10 | John Kunze         |  24.4 |       343 |        -0.12 |         -0.21 |
 |   11 | Matt Wong          |  23.9 |       105 |        +0.07 |         +0.74 |
 |   12 | Aditya Guntuboyina |  23.8 |        80 |              |         +0.50 |
 |   13 | Dan Bohn           |  22.7 |       118 |        -0.47 |         -0.54 |
 |   14 | Dan Meier          |  21.9 |        84 |        +0.15 |         -1.09 |
 |   15 | Jonathan Hankar    |  21.9 |       221 |        +0.16 |         +0.04 |
 |   16 | Reid Johnsen       |  21.4 |        59 |        -0.09 |         -0.31 |
-|   17 | Mark Modera        |  20.3 |       343 |        -0.35 |         -1.06 |
-|   18 | Anthony Abel       |  20.1 |        15 |        +0.31 |               |
-|   19 | Matthew Bond       |  19.8 |         7 |        +2.28 |               |
+|   17 | Matthew Bond       |  20.9 |         8 |        +3.38 |               |
+|   18 | Mark Modera        |  20.3 |       343 |        -0.32 |         -1.04 |
+|   19 | Anthony Abel       |  19.7 |        16 |        -0.08 |               |
 |   20 | Ankur Dave         |  19.6 |        95 |        +0.76 |         +4.53 |
 |   21 | Mike Jensen-Akula  |  19.2 |       239 |        +0.06 |         -1.37 |
 |   22 | Jaime Perez        |  19.2 |        36 |              |         +0.06 |
