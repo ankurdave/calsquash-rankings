@@ -1,4 +1,4 @@
-Generated 2017-11-19.
+Generated 2017-11-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -124,12 +124,12 @@ Generated 2017-11-19.
 |  120 | Niklas Linde              |  22.1 |        23 |              |               |
 |  121 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  123 | Blake Woodard             |  22.0 |        10 |              |               |
-|  124 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  126 | Dan Meier                 |  21.9 |        84 |        +0.15 |         -1.09 |
-|  127 | Jan Beranek               |  21.9 |        46 |              |               |
-|  128 | Jonathan Hankar           |  21.9 |       221 |        +0.16 |         +0.04 |
+|  123 | Jonathan Hankar           |  22.0 |       222 |        +0.27 |         +0.15 |
+|  124 | Blake Woodard             |  22.0 |        10 |              |               |
+|  125 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  127 | Dan Meier                 |  21.9 |        84 |        +0.15 |         -1.09 |
+|  128 | Jan Beranek               |  21.9 |        46 |              |               |
 |  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  131 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -183,11 +183,11 @@ Generated 2017-11-19.
 |  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
 |  180 | Mike Delanty              |  19.7 |        12 |              |               |
 |  181 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  182 | Anthony Abel              |  19.7 |        16 |        -0.08 |               |
-|  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
-|  184 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  185 | Ankur Dave                |  19.6 |        95 |        +0.76 |         +4.53 |
-|  186 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  182 | Andrew Proudfoot          |  19.6 |        26 |              |               |
+|  183 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  184 | Ankur Dave                |  19.6 |        95 |        +0.76 |         +4.53 |
+|  185 | Jacob Kersey              |  19.6 |        15 |              |               |
+|  186 | Anthony Abel              |  19.6 |        17 |        -0.19 |               |
 |  187 | Roberto Gonzalez          |  19.4 |         3 |              |               |
 |  188 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  189 | Greg Adams                |  19.3 |        10 |              |               |

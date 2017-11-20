@@ -1,4 +1,4 @@
-Generated 2017-11-19.
+Generated 2017-11-20.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -15,13 +15,13 @@ Generated 2017-11-19.
 |   11 | Matt Wong          |  23.9 |       105 |        +0.07 |         +0.74 |
 |   12 | Aditya Guntuboyina |  23.8 |        80 |              |         +0.50 |
 |   13 | Dan Bohn           |  22.7 |       118 |        -0.47 |         -0.54 |
-|   14 | Dan Meier          |  21.9 |        84 |        +0.15 |         -1.09 |
-|   15 | Jonathan Hankar    |  21.9 |       221 |        +0.16 |         +0.04 |
+|   14 | Jonathan Hankar    |  22.0 |       222 |        +0.27 |         +0.15 |
+|   15 | Dan Meier          |  21.9 |        84 |        +0.15 |         -1.09 |
 |   16 | Reid Johnsen       |  21.4 |        59 |        -0.09 |         -0.31 |
 |   17 | Matthew Bond       |  20.9 |         8 |        +3.38 |               |
 |   18 | Mark Modera        |  20.3 |       343 |        -0.32 |         -1.04 |
-|   19 | Anthony Abel       |  19.7 |        16 |        -0.08 |               |
-|   20 | Ankur Dave         |  19.6 |        95 |        +0.76 |         +4.53 |
+|   19 | Ankur Dave         |  19.6 |        95 |        +0.76 |         +4.53 |
+|   20 | Anthony Abel       |  19.6 |        17 |        -0.19 |               |
 |   21 | Mike Jensen-Akula  |  19.2 |       239 |        +0.06 |         -1.37 |
 |   22 | Jaime Perez        |  19.2 |        36 |              |         +0.06 |
 |   23 | Dror Matalon       |  18.2 |       381 |        -0.37 |         -0.38 |
