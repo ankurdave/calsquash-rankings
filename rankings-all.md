@@ -138,7 +138,7 @@ Generated 2017-11-21.
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
 |  135 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Reid Johnsen              |  21.4 |        59 |        -0.09 |         -0.31 |
+|  137 | Reid Johnsen              |  21.4 |        59 |        -0.08 |         -0.30 |
 |  138 | Jared Bard                |  21.3 |        46 |              |         +0.54 |
 |  139 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -178,14 +178,14 @@ Generated 2017-11-21.
 |  174 | Wesley Huang              |  20.0 |         8 |              |               |
 |  175 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  176 | Liam King                 |  19.9 |         6 |              |               |
-|  177 | Lysander Jim              |  19.8 |         6 |              |               |
-|  178 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  179 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  180 | Mike Delanty              |  19.7 |        12 |              |               |
-|  181 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  182 | Andrew Proudfoot          |  19.6 |        26 |              |               |
-|  183 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  184 | Ankur Dave                |  19.6 |        95 |        +0.76 |         +4.53 |
+|  177 | Ankur Dave                |  19.9 |        96 |        +1.00 |         +4.77 |
+|  178 | Lysander Jim              |  19.8 |         6 |              |               |
+|  179 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  180 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  181 | Mike Delanty              |  19.7 |        12 |              |               |
+|  182 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
+|  184 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  185 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  186 | Anthony Abel              |  19.6 |        17 |        -0.19 |               |
 |  187 | Roberto Gonzalez          |  19.4 |         3 |              |               |
@@ -193,14 +193,14 @@ Generated 2017-11-21.
 |  189 | Greg Adams                |  19.3 |        10 |              |               |
 |  190 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  191 | Mike Jensen-Akula         |  19.2 |       239 |        +0.06 |         -1.37 |
-|  192 | Jaime Perez               |  19.2 |        36 |              |         +0.06 |
-|  193 | John Corcoran             |  19.1 |        49 |              |               |
-|  194 | Kedar Shah                |  19.1 |         9 |              |               |
-|  195 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  196 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  197 | Yating Liu                |  19.0 |         7 |              |               |
-|  198 | Ronald Dahl               |  18.9 |        51 |              |               |
-|  199 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  192 | John Corcoran             |  19.1 |        49 |              |               |
+|  193 | Kedar Shah                |  19.1 |         9 |              |               |
+|  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
+|  195 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  196 | Yating Liu                |  19.0 |         7 |              |               |
+|  197 | Ronald Dahl               |  18.9 |        51 |              |               |
+|  198 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  199 | Jaime Perez               |  18.9 |        37 |        -0.25 |         -0.20 |
 |  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  201 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  202 | Arbi Vartan               |  18.7 |        20 |              |               |
@@ -219,7 +219,7 @@ Generated 2017-11-21.
 |  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.56 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  218 | Dror Matalon              |  18.2 |       381 |        -0.37 |         -0.38 |
+|  218 | Dror Matalon              |  18.2 |       381 |        -0.37 |         -0.39 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
 |  220 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  221 | James Chung               |  17.9 |         7 |              |               |
