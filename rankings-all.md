@@ -95,7 +95,7 @@ Generated 2017-11-20.
 |   91 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   92 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   93 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   94 | Aditya Guntuboyina        |  23.8 |        80 |              |         +0.50 |
+|   94 | Aditya Guntuboyina        |  23.8 |        81 |        +0.02 |         +0.52 |
 |   95 | Matt Waid                 |  23.7 |        51 |              |               |
 |   96 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   97 | Nader Shoaibi             |  23.7 |        64 |              |               |
@@ -167,7 +167,7 @@ Generated 2017-11-20.
 |  163 | Marc Schechter            |  20.4 |        14 |              |               |
 |  164 | Jeff Gordon               |  20.3 |        46 |              |         +0.40 |
 |  165 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  166 | Mark Modera               |  20.3 |       343 |        -0.32 |         -1.04 |
+|  166 | Mark Modera               |  20.3 |       344 |        -0.35 |         -1.06 |
 |  167 | John Grim                 |  20.1 |        13 |              |               |
 |  168 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  169 | Frank Kennan              |  20.1 |        11 |              |               |
