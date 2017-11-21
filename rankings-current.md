@@ -33,12 +33,12 @@ Generated 2017-11-21.
 |   29 | Diego Butrich      |  14.1 |        24 |        +0.38 |         -0.44 |
 |   30 | Kent Daniels       |  13.4 |       119 |        -0.25 |         -1.45 |
 |   31 | Danielle Craig     |  13.3 |         3 |              |               |
-|   32 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
-|   33 | Meldan Heaslip     |  12.9 |        42 |              |         +3.97 |
+|   32 | Meldan Heaslip     |  13.2 |        43 |        +0.29 |         +4.26 |
+|   33 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
 |   34 | Daniel Isaacson    |  12.9 |         4 |        +1.27 |               |
 |   35 | Raphael Magarik    |  11.7 |        46 |        +0.72 |         +2.99 |
 |   36 | Sara Bamberger     |  11.7 |        11 |        +2.16 |               |
-|   37 | Vishesh Dalal      |  11.1 |         9 |        +0.90 |               |
+|   37 | Vishesh Dalal      |  10.5 |        10 |        +0.29 |               |
 |   38 | Terence Stotz      |  10.3 |        19 |        +0.68 |               |
 |   39 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
 |   40 | Manuel Coquet      |   9.5 |         9 |        -1.64 |               |

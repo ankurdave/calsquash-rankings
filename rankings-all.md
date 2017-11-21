@@ -326,12 +326,12 @@ Generated 2017-11-21.
 |  322 | Danielle Craig            |  13.3 |         3 |              |               |
 |  323 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  324 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  325 | Field Maloney             |  13.1 |        24 |              |               |
-|  326 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  327 | Lewis Moore               |  13.0 |        69 |              |               |
-|  328 | Josh Lebowitz             |  12.9 |        64 |              |         +2.66 |
-|  329 | David Isaksson            |  12.9 |        22 |              |               |
-|  330 | Meldan Heaslip            |  12.9 |        42 |              |         +3.97 |
+|  325 | Meldan Heaslip            |  13.2 |        43 |        +0.29 |         +4.26 |
+|  326 | Field Maloney             |  13.1 |        24 |              |               |
+|  327 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  328 | Lewis Moore               |  13.0 |        69 |              |               |
+|  329 | Josh Lebowitz             |  12.9 |        64 |              |         +2.66 |
+|  330 | David Isaksson            |  12.9 |        22 |              |               |
 |  331 | Daniel Isaacson           |  12.9 |         4 |        +1.27 |               |
 |  332 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  333 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
@@ -360,12 +360,12 @@ Generated 2017-11-21.
 |  356 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  357 | Carlos Filho              |  11.4 |         7 |              |               |
 |  358 | Karan Jain                |  11.3 |        19 |              |               |
-|  359 | Vishesh Dalal             |  11.1 |         9 |        +0.90 |               |
-|  360 | Lucas Siow                |  11.0 |        10 |              |               |
-|  361 | Dominick Ng               |  10.9 |        25 |              |               |
-|  362 | Caroline Palmer           |  10.9 |         8 |              |               |
-|  363 | George Bentley            |  10.6 |         4 |              |               |
-|  364 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  359 | Lucas Siow                |  11.0 |        10 |              |               |
+|  360 | Dominick Ng               |  10.9 |        25 |              |               |
+|  361 | Caroline Palmer           |  10.9 |         8 |              |               |
+|  362 | George Bentley            |  10.6 |         4 |              |               |
+|  363 | Sudeep Agarwal            |  10.5 |         3 |              |               |
+|  364 | Vishesh Dalal             |  10.5 |        10 |        +0.29 |               |
 |  365 | Brian Puglise             |  10.4 |         2 |              |               |
 |  366 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  367 | Prasad Santhanam          |  10.3 |         7 |              |               |
