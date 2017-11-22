@@ -12,16 +12,16 @@ Generated 2017-11-21.
 |    8 | Frank Kennamer     |  26.8 |       242 |        -0.17 |         -0.04 |
 |    9 | Jim Veitch         |  24.8 |       472 |        +0.50 |         -0.23 |
 |   10 | John Kunze         |  24.4 |       343 |        -0.12 |         -0.21 |
-|   11 | Matt Wong          |  23.9 |       105 |        +0.07 |         +0.74 |
-|   12 | Aditya Guntuboyina |  23.8 |        81 |        +0.02 |         +0.52 |
+|   11 | Aditya Guntuboyina |  24.0 |        82 |        +0.22 |         +0.71 |
+|   12 | Matt Wong          |  23.9 |       105 |        +0.07 |         +0.74 |
 |   13 | Dan Bohn           |  22.8 |       119 |        -0.30 |         -0.37 |
-|   14 | Jonathan Hankar    |  22.0 |       222 |        +0.27 |         +0.15 |
-|   15 | Dan Meier          |  22.0 |        84 |        +0.16 |         -1.07 |
+|   14 | Dan Meier          |  22.0 |        84 |        +0.16 |         -1.07 |
+|   15 | Jonathan Hankar    |  21.8 |       223 |        +0.10 |         -0.02 |
 |   16 | Reid Johnsen       |  21.4 |        59 |        -0.08 |         -0.30 |
-|   17 | Matthew Bond       |  20.9 |         8 |        +3.38 |               |
+|   17 | Matthew Bond       |  20.9 |         8 |        +3.34 |               |
 |   18 | Mark Modera        |  20.3 |       344 |        -0.35 |         -1.06 |
 |   19 | Ankur Dave         |  19.9 |        96 |        +1.00 |         +4.77 |
-|   20 | Anthony Abel       |  19.6 |        17 |        -0.19 |               |
+|   20 | Anthony Abel       |  19.5 |        17 |        -0.20 |               |
 |   21 | Mike Jensen-Akula  |  19.2 |       239 |        +0.06 |         -1.37 |
 |   22 | Jaime Perez        |  18.9 |        37 |        -0.25 |         -0.20 |
 |   23 | Dror Matalon       |  18.2 |       381 |        -0.37 |         -0.39 |

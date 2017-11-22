@@ -90,12 +90,12 @@ Generated 2017-11-21.
 |   86 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   87 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   88 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   89 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   90 | Matt Wong                 |  23.9 |       105 |        +0.07 |         +0.74 |
-|   91 | Glenn Forrester           |  23.9 |       355 |              |               |
-|   92 | Christopher Tsang         |  23.9 |        76 |              |               |
-|   93 | Joseff Farrell            |  23.8 |         5 |              |               |
-|   94 | Aditya Guntuboyina        |  23.8 |        81 |        +0.02 |         +0.52 |
+|   89 | Aditya Guntuboyina        |  24.0 |        82 |        +0.22 |         +0.71 |
+|   90 | Ignacio Canals            |  24.0 |        21 |              |               |
+|   91 | Matt Wong                 |  23.9 |       105 |        +0.07 |         +0.74 |
+|   92 | Glenn Forrester           |  23.9 |       355 |              |               |
+|   93 | Christopher Tsang         |  23.9 |        76 |              |               |
+|   94 | Joseff Farrell            |  23.8 |         5 |              |               |
 |   95 | Matt Waid                 |  23.7 |        51 |              |               |
 |   96 | Sonesh Surana             |  23.7 |        95 |              |               |
 |   97 | Nader Shoaibi             |  23.7 |        64 |              |               |
@@ -124,12 +124,12 @@ Generated 2017-11-21.
 |  120 | Niklas Linde              |  22.1 |        23 |              |               |
 |  121 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  123 | Jonathan Hankar           |  22.0 |       222 |        +0.27 |         +0.15 |
-|  124 | Blake Woodard             |  22.0 |        10 |              |               |
-|  125 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  127 | Dan Meier                 |  22.0 |        84 |        +0.16 |         -1.07 |
-|  128 | Jan Beranek               |  21.9 |        46 |              |               |
+|  123 | Blake Woodard             |  22.0 |        10 |              |               |
+|  124 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  126 | Dan Meier                 |  22.0 |        84 |        +0.16 |         -1.07 |
+|  127 | Jan Beranek               |  21.9 |        46 |              |               |
+|  128 | Jonathan Hankar           |  21.8 |       223 |        +0.10 |         -0.02 |
 |  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  131 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -150,9 +150,9 @@ Generated 2017-11-21.
 |  146 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  147 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  148 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  149 | Matthew Bond              |  20.9 |         8 |        +3.38 |               |
-|  150 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  151 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  149 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  150 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  151 | Matthew Bond              |  20.9 |         8 |        +3.34 |               |
 |  152 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  153 | Robert Isaac              |  20.8 |        17 |              |         -1.04 |
 |  154 | Jamie Funk                |  20.8 |        30 |              |               |
@@ -187,7 +187,7 @@ Generated 2017-11-21.
 |  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  184 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
 |  185 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  186 | Anthony Abel              |  19.6 |        17 |        -0.19 |               |
+|  186 | Anthony Abel              |  19.5 |        17 |        -0.20 |               |
 |  187 | Roberto Gonzalez          |  19.4 |         3 |              |               |
 |  188 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  189 | Greg Adams                |  19.3 |        10 |              |               |
