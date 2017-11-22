@@ -1,4 +1,4 @@
-Generated 2017-11-21.
+Generated 2017-11-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -67,16 +67,16 @@ Generated 2017-11-21.
 |   63 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   64 | Madhav Pai                |  24.9 |         5 |              |               |
 |   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   66 | Jim Veitch                |  24.8 |       472 |        +0.50 |         -0.23 |
-|   67 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   68 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   69 | Orion Hodson              |  24.8 |        31 |              |               |
+|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   67 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   68 | Orion Hodson              |  24.8 |        31 |              |               |
+|   69 | Jim Veitch                |  24.7 |       473 |        +0.45 |         -0.28 |
 |   70 | Martin Stokes             |  24.7 |        12 |              |               |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   74 | Adam Pollak               |  24.5 |        31 |              |               |
-|   75 | John Kunze                |  24.4 |       343 |        -0.12 |         -0.21 |
+|   75 | John Kunze                |  24.4 |       343 |        -0.13 |         -0.22 |
 |   76 | Jon Shih                  |  24.4 |        47 |              |               |
 |   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   78 | Todd Wirsching            |  24.3 |         8 |              |               |
@@ -123,11 +123,11 @@ Generated 2017-11-21.
 |  119 | Britta Gardner            |  22.1 |        16 |              |               |
 |  120 | Niklas Linde              |  22.1 |        23 |              |               |
 |  121 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  123 | Blake Woodard             |  22.0 |        10 |              |               |
-|  124 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  126 | Dan Meier                 |  22.0 |        84 |        +0.16 |         -1.07 |
+|  122 | Dan Meier                 |  22.0 |        85 |        +0.23 |         -1.01 |
+|  123 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  124 | Blake Woodard             |  22.0 |        10 |              |               |
+|  125 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  127 | Jan Beranek               |  21.9 |        46 |              |               |
 |  128 | Jonathan Hankar           |  21.8 |       223 |        +0.10 |         -0.02 |
 |  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
