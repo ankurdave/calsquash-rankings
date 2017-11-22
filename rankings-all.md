@@ -35,14 +35,14 @@ Generated 2017-11-21.
 |   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   32 | Anibhav Singla            |  28.0 |        35 |        +0.10 |         +7.52 |
 |   33 | Grant French              |  27.5 |       125 |              |               |
-|   34 | Thomas Littleton          |  27.4 |        21 |        +0.17 |               |
+|   34 | Thomas Littleton          |  27.4 |        21 |        +0.15 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
-|   37 | Frank Kennamer            |  27.0 |       241 |              |         +0.13 |
-|   38 | Hussain Raza              |  27.0 |        50 |              |               |
-|   39 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   40 | Alan Jose                 |  26.9 |       182 |              |               |
-|   41 | Michael Best              |  26.9 |        21 |              |               |
+|   37 | Hussain Raza              |  27.0 |        50 |              |               |
+|   38 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   39 | Alan Jose                 |  26.9 |       182 |              |               |
+|   40 | Michael Best              |  26.9 |        21 |              |               |
+|   41 | Frank Kennamer            |  26.8 |       242 |        -0.17 |         -0.04 |
 |   42 | Josh Taylor               |  26.8 |        40 |              |               |
 |   43 | David Hwang               |  26.8 |        44 |              |               |
 |   44 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
@@ -106,8 +106,8 @@ Generated 2017-11-21.
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
 |  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Andrew Pritchard          |  22.7 |        16 |              |               |
-|  106 | Dan Bohn                  |  22.7 |       118 |        -0.47 |         -0.54 |
+|  105 | Dan Bohn                  |  22.8 |       119 |        -0.30 |         -0.37 |
+|  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  108 | Julian Marshall           |  22.7 |        31 |              |               |
 |  109 | Gautam Tankha             |  22.6 |         7 |              |               |
@@ -128,7 +128,7 @@ Generated 2017-11-21.
 |  124 | Blake Woodard             |  22.0 |        10 |              |               |
 |  125 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  127 | Dan Meier                 |  21.9 |        84 |        +0.15 |         -1.09 |
+|  127 | Dan Meier                 |  22.0 |        84 |        +0.16 |         -1.07 |
 |  128 | Jan Beranek               |  21.9 |        46 |              |               |
 |  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
