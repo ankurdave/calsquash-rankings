@@ -5,7 +5,7 @@ Generated 2017-11-21.
 |    1 | Colin Grant               |  36.8 |        28 |              |         +2.22 |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
-|    4 | Eric Katerman             |  33.9 |        67 |        +0.38 |         +2.42 |
+|    4 | Eric Katerman             |  33.9 |        68 |        +0.38 |         +2.42 |
 |    5 | Paul Valiant              |  33.9 |        63 |              |               |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Ashley Kayler             |  33.3 |       235 |        -0.35 |         -1.70 |
@@ -28,7 +28,7 @@ Generated 2017-11-21.
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
-|   27 | David Woo                 |  28.6 |        10 |        -0.29 |               |
+|   27 | David Woo                 |  28.8 |        11 |        -0.15 |               |
 |   28 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   29 | Nick Cobbett              |  28.3 |        53 |        -0.13 |         +1.70 |
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
