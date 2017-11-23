@@ -138,7 +138,7 @@ Generated 2017-11-22.
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
 |  135 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Reid Johnsen              |  21.4 |        59 |        -0.08 |         -0.30 |
+|  137 | Reid Johnsen              |  21.4 |        59 |        -0.07 |         -0.29 |
 |  138 | Jared Bard                |  21.3 |        46 |              |         +0.54 |
 |  139 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
@@ -172,13 +172,13 @@ Generated 2017-11-22.
 |  168 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  169 | Frank Kennan              |  20.1 |        11 |              |               |
 |  170 | Robert Schwartz           |  20.1 |        90 |              |         -0.22 |
-|  171 | Shaun Lim                 |  20.0 |        64 |              |         +1.72 |
-|  172 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  173 | Jonathan Francis          |  20.0 |        76 |              |         +0.14 |
-|  174 | Wesley Huang              |  20.0 |         8 |              |               |
-|  175 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  176 | Liam King                 |  19.9 |         6 |              |               |
-|  177 | Ankur Dave                |  19.9 |        96 |        +1.00 |         +4.77 |
+|  171 | Ankur Dave                |  20.0 |        97 |        +1.19 |         +4.96 |
+|  172 | Shaun Lim                 |  20.0 |        64 |              |         +1.72 |
+|  173 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  174 | Jonathan Francis          |  20.0 |        76 |              |         +0.14 |
+|  175 | Wesley Huang              |  20.0 |         8 |              |               |
+|  176 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  177 | Liam King                 |  19.9 |         6 |              |               |
 |  178 | Lysander Jim              |  19.8 |         6 |              |               |
 |  179 | Sebastien Biraud          |  19.7 |        60 |              |               |
 |  180 | Suneesh Kaul              |  19.7 |         3 |              |               |
@@ -200,7 +200,7 @@ Generated 2017-11-22.
 |  196 | Yating Liu                |  19.0 |         7 |              |               |
 |  197 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  198 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  199 | Jaime Perez               |  18.9 |        37 |        -0.25 |         -0.20 |
+|  199 | Jaime Perez               |  18.9 |        37 |        -0.27 |         -0.21 |
 |  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  201 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  202 | Arbi Vartan               |  18.7 |        20 |              |               |
@@ -219,7 +219,7 @@ Generated 2017-11-22.
 |  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  216 | Kenny Bell                |  18.2 |       124 |              |         -0.56 |
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  218 | Dror Matalon              |  18.2 |       381 |        -0.37 |         -0.39 |
+|  218 | Dror Matalon              |  18.2 |       381 |        -0.38 |         -0.40 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
 |  220 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  221 | James Chung               |  17.9 |         7 |              |               |
@@ -241,11 +241,11 @@ Generated 2017-11-22.
 |  237 | Ben Ailes                 |  17.3 |        48 |              |               |
 |  238 | Ariel Grostern            |  17.3 |        94 |              |               |
 |  239 | Zach Brown                |  17.3 |         3 |              |               |
-|  240 | Sahar Sareminaeni         |  17.3 |        51 |        +0.25 |         +3.04 |
-|  241 | William Seles             |  17.2 |        15 |              |               |
-|  242 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  243 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  244 | Lucas Cheon               |  17.2 |        19 |              |               |
+|  240 | William Seles             |  17.2 |        15 |              |               |
+|  241 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  242 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  243 | Lucas Cheon               |  17.2 |        19 |              |               |
+|  244 | Sahar Sareminaeni         |  17.1 |        52 |        +0.06 |         +2.86 |
 |  245 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  246 | Neil Conway               |  17.0 |        55 |              |               |
 |  247 | Michael Cianfrocco        |  17.0 |        18 |              |               |
@@ -268,7 +268,7 @@ Generated 2017-11-22.
 |  264 | Jan Strasky               |  16.2 |        12 |              |               |
 |  265 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  266 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  267 | Karan Goyal               |  15.9 |        21 |        -0.55 |               |
+|  267 | Karan Goyal               |  15.9 |        21 |        -0.53 |               |
 |  268 | Terry Chang               |  15.8 |        48 |              |               |
 |  269 | Louis Russell             |  15.8 |        20 |              |               |
 |  270 | Rich Shapiro              |  15.8 |        82 |              |               |

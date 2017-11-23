@@ -17,18 +17,18 @@ Generated 2017-11-22.
 |   13 | Dan Bohn           |  22.8 |       119 |        -0.30 |         -0.37 |
 |   14 | Dan Meier          |  22.0 |        85 |        +0.23 |         -1.01 |
 |   15 | Jonathan Hankar    |  21.8 |       223 |        +0.10 |         -0.02 |
-|   16 | Reid Johnsen       |  21.4 |        59 |        -0.08 |         -0.30 |
+|   16 | Reid Johnsen       |  21.4 |        59 |        -0.07 |         -0.29 |
 |   17 | Matthew Bond       |  20.9 |         8 |        +3.34 |               |
 |   18 | Mark Modera        |  20.3 |       344 |        -0.35 |         -1.06 |
-|   19 | Ankur Dave         |  19.9 |        96 |        +1.00 |         +4.77 |
+|   19 | Ankur Dave         |  20.0 |        97 |        +1.19 |         +4.96 |
 |   20 | Anthony Abel       |  19.5 |        17 |        -0.20 |               |
 |   21 | Mike Jensen-Akula  |  19.2 |       239 |        +0.06 |         -1.37 |
-|   22 | Jaime Perez        |  18.9 |        37 |        -0.25 |         -0.20 |
-|   23 | Dror Matalon       |  18.2 |       381 |        -0.37 |         -0.39 |
+|   22 | Jaime Perez        |  18.9 |        37 |        -0.27 |         -0.21 |
+|   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.40 |
 |   24 | Josh Trauner       |  17.8 |        72 |        +0.23 |         +0.05 |
-|   25 | Sahar Sareminaeni  |  17.3 |        51 |        +0.25 |         +3.04 |
+|   25 | Sahar Sareminaeni  |  17.1 |        52 |        +0.06 |         +2.86 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
-|   27 | Karan Goyal        |  15.9 |        21 |        -0.55 |               |
+|   27 | Karan Goyal        |  15.9 |        21 |        -0.53 |               |
 |   28 | Craig Hollow       |  15.7 |        40 |        +0.13 |        +13.77 |
 |   29 | Diego Butrich      |  14.1 |        24 |        +0.38 |         -0.44 |
 |   30 | Kent Daniels       |  13.4 |       119 |        -0.25 |         -1.45 |
