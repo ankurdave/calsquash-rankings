@@ -1,4 +1,4 @@
-Generated 2017-11-22.
+Generated 2017-11-24.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -9,13 +9,13 @@ Generated 2017-11-22.
 |    5 | Nick Cobbett       |  28.4 |        54 |        -0.04 |         +1.78 |
 |    6 | Anibhav Singla     |  28.0 |        35 |        +0.10 |         +7.52 |
 |    7 | Thomas Littleton   |  27.4 |        21 |        +0.15 |               |
-|    8 | Frank Kennamer     |  26.8 |       242 |        -0.17 |         -0.04 |
-|    9 | Jim Veitch         |  24.7 |       473 |        +0.45 |         -0.28 |
+|    8 | Frank Kennamer     |  27.0 |       243 |        +0.02 |         +0.14 |
+|    9 | Jim Veitch         |  24.6 |       474 |        +0.30 |         -0.43 |
 |   10 | John Kunze         |  24.4 |       343 |        -0.13 |         -0.22 |
 |   11 | Aditya Guntuboyina |  24.0 |        82 |        +0.22 |         +0.71 |
 |   12 | Matt Wong          |  23.9 |       105 |        +0.07 |         +0.74 |
 |   13 | Dan Bohn           |  22.8 |       119 |        -0.30 |         -0.37 |
-|   14 | Dan Meier          |  22.0 |        85 |        +0.23 |         -1.01 |
+|   14 | Dan Meier          |  22.0 |        85 |        +0.21 |         -1.02 |
 |   15 | Jonathan Hankar    |  21.8 |       223 |        +0.10 |         -0.02 |
 |   16 | Reid Johnsen       |  21.4 |        59 |        -0.07 |         -0.29 |
 |   17 | Matthew Bond       |  20.9 |         8 |        +3.34 |               |

@@ -1,4 +1,4 @@
-Generated 2017-11-22.
+Generated 2017-11-24.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -38,11 +38,11 @@ Generated 2017-11-22.
 |   34 | Thomas Littleton          |  27.4 |        21 |        +0.15 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
-|   37 | Hussain Raza              |  27.0 |        50 |              |               |
-|   38 | Nauman Sardar             |  26.9 |        40 |              |               |
-|   39 | Alan Jose                 |  26.9 |       182 |              |               |
-|   40 | Michael Best              |  26.9 |        21 |              |               |
-|   41 | Frank Kennamer            |  26.8 |       242 |        -0.17 |         -0.04 |
+|   37 | Frank Kennamer            |  27.0 |       243 |        +0.02 |         +0.14 |
+|   38 | Hussain Raza              |  27.0 |        50 |              |               |
+|   39 | Nauman Sardar             |  26.9 |        40 |              |               |
+|   40 | Alan Jose                 |  26.9 |       182 |              |               |
+|   41 | Michael Best              |  26.9 |        21 |              |               |
 |   42 | Josh Taylor               |  26.8 |        40 |              |               |
 |   43 | David Hwang               |  26.8 |        44 |              |               |
 |   44 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
@@ -70,14 +70,14 @@ Generated 2017-11-22.
 |   66 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   67 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   68 | Orion Hodson              |  24.8 |        31 |              |               |
-|   69 | Jim Veitch                |  24.7 |       473 |        +0.45 |         -0.28 |
-|   70 | Martin Stokes             |  24.7 |        12 |              |               |
-|   71 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   69 | Martin Stokes             |  24.7 |        12 |              |               |
+|   70 | Christian Fuentes         |  24.6 |         8 |              |               |
+|   71 | Jim Veitch                |  24.6 |       474 |        +0.30 |         -0.43 |
 |   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   74 | Adam Pollak               |  24.5 |        31 |              |               |
-|   75 | John Kunze                |  24.4 |       343 |        -0.13 |         -0.22 |
-|   76 | Jon Shih                  |  24.4 |        47 |              |               |
+|   75 | Jon Shih                  |  24.4 |        47 |              |               |
+|   76 | John Kunze                |  24.4 |       343 |        -0.13 |         -0.22 |
 |   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   78 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   79 | Harlan Yu                 |  24.3 |        19 |              |               |
@@ -123,8 +123,8 @@ Generated 2017-11-22.
 |  119 | Britta Gardner            |  22.1 |        16 |              |               |
 |  120 | Niklas Linde              |  22.1 |        23 |              |               |
 |  121 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  122 | Dan Meier                 |  22.0 |        85 |        +0.23 |         -1.01 |
-|  123 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  123 | Dan Meier                 |  22.0 |        85 |        +0.21 |         -1.02 |
 |  124 | Blake Woodard             |  22.0 |        10 |              |               |
 |  125 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
