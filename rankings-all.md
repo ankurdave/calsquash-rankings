@@ -34,8 +34,8 @@ Generated 2017-11-24.
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   32 | Anibhav Singla            |  28.0 |        35 |        +0.10 |         +7.52 |
-|   33 | Grant French              |  27.5 |       125 |              |               |
-|   34 | Thomas Littleton          |  27.4 |        21 |        +0.15 |               |
+|   33 | Thomas Littleton          |  27.5 |        22 |        +0.29 |               |
+|   34 | Grant French              |  27.5 |       125 |              |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
 |   37 | Frank Kennamer            |  27.0 |       243 |        +0.02 |         +0.14 |
@@ -76,8 +76,8 @@ Generated 2017-11-24.
 |   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   73 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   74 | Adam Pollak               |  24.5 |        31 |              |               |
-|   75 | Jon Shih                  |  24.4 |        47 |              |               |
-|   76 | John Kunze                |  24.4 |       343 |        -0.13 |         -0.22 |
+|   75 | John Kunze                |  24.4 |       343 |        -0.13 |         -0.22 |
+|   76 | Jon Shih                  |  24.4 |        47 |              |               |
 |   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
 |   78 | Todd Wirsching            |  24.3 |         8 |              |               |
 |   79 | Harlan Yu                 |  24.3 |        19 |              |               |
@@ -124,11 +124,11 @@ Generated 2017-11-24.
 |  120 | Niklas Linde              |  22.1 |        23 |              |               |
 |  121 | Errick Ceppas             |  22.0 |         6 |              |               |
 |  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  123 | Dan Meier                 |  22.0 |        85 |        +0.21 |         -1.02 |
-|  124 | Blake Woodard             |  22.0 |        10 |              |               |
-|  125 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  127 | Jan Beranek               |  21.9 |        46 |              |               |
+|  123 | Blake Woodard             |  22.0 |        10 |              |               |
+|  124 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  126 | Jan Beranek               |  21.9 |        46 |              |               |
+|  127 | Dan Meier                 |  21.9 |        86 |        +0.11 |         -1.12 |
 |  128 | Jonathan Hankar           |  21.8 |       223 |        +0.10 |         -0.02 |
 |  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
