@@ -22,14 +22,14 @@ Generated 2017-11-24.
 |   18 | Mark Modera        |  20.3 |       344 |        -0.35 |         -1.06 |
 |   19 | Ankur Dave         |  20.0 |        97 |        +1.19 |         +4.96 |
 |   20 | Anthony Abel       |  19.5 |        17 |        -0.20 |               |
-|   21 | Mike Jensen-Akula  |  19.2 |       239 |        +0.06 |         -1.37 |
+|   21 | Mike Jensen-Akula  |  19.3 |       240 |        +0.22 |         -1.21 |
 |   22 | Jaime Perez        |  18.9 |        37 |        -0.27 |         -0.21 |
 |   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.40 |
-|   24 | Josh Trauner       |  17.8 |        72 |        +0.23 |         +0.05 |
+|   24 | Josh Trauner       |  18.0 |        72 |        +0.38 |         +0.20 |
 |   25 | Sahar Sareminaeni  |  17.1 |        52 |        +0.06 |         +2.86 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
 |   27 | Karan Goyal        |  15.9 |        21 |        -0.53 |               |
-|   28 | Craig Hollow       |  15.7 |        40 |        +0.13 |        +13.77 |
+|   28 | Craig Hollow       |  15.7 |        40 |        +0.14 |        +13.78 |
 |   29 | Diego Butrich      |  14.1 |        24 |        +0.38 |         -0.44 |
 |   30 | Kent Daniels       |  13.4 |       119 |        -0.25 |         -1.45 |
 |   31 | Danielle Craig     |  13.3 |         3 |              |               |
@@ -37,15 +37,15 @@ Generated 2017-11-24.
 |   33 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
 |   34 | Daniel Isaacson    |  12.9 |         4 |        +1.27 |               |
 |   35 | Raphael Magarik    |  11.7 |        46 |        +0.72 |         +2.99 |
-|   36 | Sara Bamberger     |  11.7 |        11 |        +2.16 |               |
-|   37 | Vishesh Dalal      |  10.5 |        10 |        +0.29 |               |
-|   38 | Terence Stotz      |  10.3 |        19 |        +0.68 |               |
-|   39 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
-|   40 | Manuel Coquet      |   9.5 |         9 |        -1.64 |               |
-|   41 | Rashid Hameed      |   9.4 |         7 |        +0.76 |               |
-|   42 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
-|   43 | Brian Kempenich    |   8.2 |        59 |        -0.28 |         -0.37 |
-|   44 | Romit Chakraborty  |   6.0 |         1 |              |               |
+|   36 | Romit Chakraborty  |  11.7 |         2 |              |               |
+|   37 | Sara Bamberger     |  11.7 |        11 |        +2.16 |               |
+|   38 | Vishesh Dalal      |  10.5 |        10 |        +0.29 |               |
+|   39 | Terence Stotz      |  10.3 |        19 |        +0.68 |               |
+|   40 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
+|   41 | Manuel Coquet      |   9.5 |         9 |        -1.64 |               |
+|   42 | Rashid Hameed      |   9.4 |         7 |        +0.76 |               |
+|   43 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
+|   44 | Brian Kempenich    |   8.2 |        59 |        -0.28 |         -0.37 |
 |   45 | Avi Flamholz       |   5.4 |        10 |        -0.52 |               |
 |   46 | Zsolt Bartha       |   4.6 |        71 |        -0.12 |         +0.16 |
 |   47 | Joanna Majkowski   |   2.8 |         7 |        -0.06 |               |
