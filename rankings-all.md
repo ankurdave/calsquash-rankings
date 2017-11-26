@@ -1,12 +1,12 @@
-Generated 2017-11-24.
+Generated 2017-11-25.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
 |    1 | Colin Grant               |  36.8 |        28 |              |         +2.22 |
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
-|    4 | Eric Katerman             |  33.9 |        68 |        +0.38 |         +2.42 |
-|    5 | Paul Valiant              |  33.9 |        63 |              |               |
+|    4 | Paul Valiant              |  33.9 |        63 |              |               |
+|    5 | Eric Katerman             |  33.7 |        69 |        +0.15 |         +2.19 |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Ashley Kayler             |  33.3 |       235 |        -0.35 |         -1.71 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
@@ -31,9 +31,9 @@ Generated 2017-11-24.
 |   27 | David Woo                 |  28.8 |        11 |        -0.15 |               |
 |   28 | Nick Cobbett              |  28.4 |        54 |        -0.04 |         +1.78 |
 |   29 | Ali Rahim                 |  28.4 |        24 |              |               |
-|   30 | Mikael Rehn               |  28.3 |         5 |              |               |
-|   31 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   32 | Anibhav Singla            |  28.0 |        35 |        +0.10 |         +7.52 |
+|   30 | Anibhav Singla            |  28.4 |        36 |        +0.44 |         +7.87 |
+|   31 | Mikael Rehn               |  28.3 |         5 |              |               |
+|   32 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   33 | Thomas Littleton          |  27.5 |        22 |        +0.29 |               |
 |   34 | Grant French              |  27.5 |       125 |              |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
