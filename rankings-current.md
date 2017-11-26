@@ -47,10 +47,10 @@ Generated 2017-11-25.
 |   43 | Duo Wang           |   8.4 |        83 |              |         +0.13 |
 |   44 | Brian Kempenich    |   8.2 |        59 |        -0.28 |         -0.37 |
 |   45 | Avi Flamholz       |   5.4 |        10 |        -0.52 |               |
-|   46 | Zsolt Bartha       |   4.6 |        71 |        -0.12 |         +0.16 |
-|   47 | Joanna Majkowski   |   2.8 |         7 |        -0.06 |               |
-|   48 | Duncan MacRae      |   0.7 |        37 |        -0.07 |         +6.92 |
-|   49 | Ryan van der Harst |  -1.0 |         4 |              |               |
+|   46 | Zsolt Bartha       |   4.4 |        72 |        -0.24 |         +0.04 |
+|   47 | Ryan van der Harst |   4.2 |         5 |        +5.27 |               |
+|   48 | Joanna Majkowski   |   2.8 |         7 |        -0.06 |               |
+|   49 | Duncan MacRae      |   0.7 |        37 |        -0.07 |         +6.92 |
 |   50 | Cori Land          |  -2.0 |         4 |              |               |
 |   51 | John Hwong         |  -3.8 |         2 |              |               |
 |   52 | Oly Rillera        |  -7.3 |         2 |              |               |
