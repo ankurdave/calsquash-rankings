@@ -1,4 +1,4 @@
-Generated 2017-11-25.
+Generated 2017-11-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -90,7 +90,7 @@ Generated 2017-11-25.
 |   86 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   87 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   88 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   89 | Aditya Guntuboyina        |  24.0 |        82 |        +0.22 |         +0.71 |
+|   89 | Aditya Guntuboyina        |  24.0 |        83 |        +0.23 |         +0.72 |
 |   90 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   91 | Matt Wong                 |  23.9 |       105 |        +0.07 |         +0.74 |
 |   92 | Glenn Forrester           |  23.9 |       355 |              |               |
@@ -186,8 +186,8 @@ Generated 2017-11-25.
 |  182 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  184 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  185 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  186 | Anthony Abel              |  19.5 |        17 |        -0.20 |               |
+|  185 | Anthony Abel              |  19.6 |        18 |        -0.14 |               |
+|  186 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  187 | Roberto Gonzalez          |  19.4 |         3 |              |               |
 |  188 | Mike Jensen-Akula         |  19.3 |       240 |        +0.22 |         -1.21 |
 |  189 | Thomas Scanlon            |  19.3 |        20 |              |               |
