@@ -1,4 +1,4 @@
-Generated 2017-11-27.
+Generated 2017-11-28.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -8,7 +8,7 @@ Generated 2017-11-27.
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
 |    5 | Eric Katerman             |  33.7 |        69 |        +0.15 |         +2.19 |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Ashley Kayler             |  33.3 |       235 |        -0.35 |         -1.71 |
+|    7 | Ashley Kayler             |  33.2 |       236 |        -0.53 |         -1.89 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -29,9 +29,9 @@ Generated 2017-11-27.
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
 |   27 | David Woo                 |  28.8 |        11 |        -0.15 |               |
-|   28 | Nick Cobbett              |  28.4 |        54 |        -0.04 |         +1.78 |
+|   28 | Nick Cobbett              |  28.6 |        55 |        +0.18 |         +2.01 |
 |   29 | Ali Rahim                 |  28.4 |        24 |              |               |
-|   30 | Anibhav Singla            |  28.4 |        36 |        +0.44 |         +7.87 |
+|   30 | Anibhav Singla            |  28.4 |        36 |        +0.43 |         +7.86 |
 |   31 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   32 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   33 | Thomas Littleton          |  27.6 |        22 |        +0.33 |               |
