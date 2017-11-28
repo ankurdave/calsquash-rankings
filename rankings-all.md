@@ -1,4 +1,4 @@
-Generated 2017-11-26.
+Generated 2017-11-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -90,9 +90,9 @@ Generated 2017-11-26.
 |   86 | Benjamin Vicuna           |  24.1 |        50 |              |               |
 |   87 | Ivo Plsek                 |  24.1 |        60 |              |               |
 |   88 | Whit Eldredge             |  24.0 |         2 |              |               |
-|   89 | Aditya Guntuboyina        |  24.0 |        83 |        +0.23 |         +0.72 |
+|   89 | Matt Wong                 |  24.0 |       106 |        +0.15 |         +0.82 |
 |   90 | Ignacio Canals            |  24.0 |        21 |              |               |
-|   91 | Matt Wong                 |  23.9 |       105 |        +0.07 |         +0.74 |
+|   91 | Aditya Guntuboyina        |  23.9 |        84 |        +0.16 |         +0.66 |
 |   92 | Glenn Forrester           |  23.9 |       355 |              |               |
 |   93 | Christopher Tsang         |  23.9 |        76 |              |               |
 |   94 | Joseff Farrell            |  23.8 |         5 |              |               |
@@ -129,7 +129,7 @@ Generated 2017-11-26.
 |  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  126 | Jan Beranek               |  21.9 |        46 |              |               |
 |  127 | Dan Meier                 |  21.9 |        86 |        +0.12 |         -1.11 |
-|  128 | Jonathan Hankar           |  21.8 |       223 |        +0.10 |         -0.02 |
+|  128 | Jonathan Hankar           |  21.9 |       223 |        +0.12 |               |
 |  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
 |  131 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
@@ -152,8 +152,8 @@ Generated 2017-11-26.
 |  148 | Paz Grimberg              |  21.0 |        17 |              |               |
 |  149 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  150 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  151 | Matthew Bond              |  20.9 |         8 |        +3.34 |               |
-|  152 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  151 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  152 | Matthew Bond              |  20.9 |         8 |        +3.33 |               |
 |  153 | Robert Isaac              |  20.8 |        17 |              |         -1.04 |
 |  154 | Jamie Funk                |  20.8 |        30 |              |               |
 |  155 | Matthew Brett             |  20.7 |        20 |              |               |
@@ -167,7 +167,7 @@ Generated 2017-11-26.
 |  163 | Marc Schechter            |  20.4 |        14 |              |               |
 |  164 | Jeff Gordon               |  20.3 |        46 |              |         +0.40 |
 |  165 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  166 | Mark Modera               |  20.3 |       344 |        -0.35 |         -1.06 |
+|  166 | Mark Modera               |  20.2 |       344 |        -0.38 |         -1.09 |
 |  167 | John Grim                 |  20.1 |        13 |              |               |
 |  168 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  169 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -186,7 +186,7 @@ Generated 2017-11-26.
 |  182 | Sridhar Rajaram           |  19.7 |        30 |              |               |
 |  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
 |  184 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  185 | Anthony Abel              |  19.6 |        18 |        -0.14 |               |
+|  185 | Anthony Abel              |  19.6 |        18 |        -0.11 |               |
 |  186 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  187 | Roberto Gonzalez          |  19.4 |         3 |              |               |
 |  188 | Mike Jensen-Akula         |  19.3 |       240 |        +0.22 |         -1.21 |
