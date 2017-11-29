@@ -6,9 +6,9 @@ Generated 2017-11-28.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Eric Katerman             |  33.7 |        69 |        +0.15 |         +2.19 |
+|    5 | Eric Katerman             |  33.7 |        69 |        +0.19 |         +2.23 |
 |    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    7 | Ashley Kayler             |  33.2 |       236 |        -0.53 |         -1.89 |
+|    7 | Ashley Kayler             |  33.1 |       236 |        -0.55 |         -1.91 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -28,11 +28,11 @@ Generated 2017-11-28.
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
 |   25 | Heba Nossier              |  29.2 |        14 |              |               |
 |   26 | Justin McCrary            |  29.0 |       140 |              |               |
-|   27 | David Woo                 |  28.8 |        11 |        -0.15 |               |
-|   28 | Nick Cobbett              |  28.6 |        55 |        +0.18 |         +2.01 |
+|   27 | Nick Cobbett              |  28.8 |        56 |        +0.38 |         +2.21 |
+|   28 | David Woo                 |  28.7 |        11 |        -0.17 |               |
 |   29 | Ali Rahim                 |  28.4 |        24 |              |               |
-|   30 | Anibhav Singla            |  28.4 |        36 |        +0.43 |         +7.86 |
-|   31 | Mikael Rehn               |  28.3 |         5 |              |               |
+|   30 | Mikael Rehn               |  28.3 |         5 |              |               |
+|   31 | Anibhav Singla            |  28.2 |        37 |        +0.26 |         +7.68 |
 |   32 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   33 | Thomas Littleton          |  27.6 |        22 |        +0.33 |               |
 |   34 | Grant French              |  27.5 |       125 |              |               |
