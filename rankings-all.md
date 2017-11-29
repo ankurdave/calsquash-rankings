@@ -307,7 +307,7 @@ Generated 2017-11-28.
 |  303 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  304 | Adam Soliman              |  14.2 |        32 |              |               |
 |  305 | Charles Denby             |  14.2 |         5 |              |               |
-|  306 | Diego Butrich             |  14.1 |        24 |        +0.38 |         -0.44 |
+|  306 | Diego Butrich             |  14.1 |        24 |        +0.39 |         -0.44 |
 |  307 | Neil Sachs                |  14.1 |        12 |              |               |
 |  308 | Rupert Myers              |  14.0 |        27 |              |               |
 |  309 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
@@ -350,8 +350,8 @@ Generated 2017-11-28.
 |  346 | Aman Gupta                |  11.8 |         3 |              |               |
 |  347 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  348 | Julian Gill               |  11.8 |         1 |              |               |
-|  349 | Raphael Magarik           |  11.7 |        46 |        +0.72 |         +2.99 |
-|  350 | Romit Chakraborty         |  11.7 |         2 |              |               |
+|  349 | Romit Chakraborty         |  11.7 |         2 |              |               |
+|  350 | Raphael Magarik           |  11.7 |        46 |        +0.68 |         +2.94 |
 |  351 | James Shinn               |  11.7 |       120 |              |               |
 |  352 | Sara Bamberger            |  11.7 |        12 |        +2.19 |               |
 |  353 | Tim O'Connell             |  11.7 |         3 |              |               |
@@ -385,13 +385,13 @@ Generated 2017-11-28.
 |  381 | Jacob Bank                |   9.7 |         1 |              |               |
 |  382 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  383 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  384 | Manuel Coquet             |   9.5 |         9 |        -1.64 |               |
-|  385 | Mark Shapero              |   9.4 |         7 |              |               |
-|  386 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  387 | Max Grass                 |   9.4 |         1 |              |               |
-|  388 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  389 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  390 | Rashid Hameed             |   9.4 |         7 |        +0.76 |               |
+|  384 | Manuel Coquet             |   9.5 |         9 |        -1.63 |               |
+|  385 | Rashid Hameed             |   9.5 |         7 |        +0.90 |               |
+|  386 | Mark Shapero              |   9.4 |         7 |              |               |
+|  387 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  388 | Max Grass                 |   9.4 |         1 |              |               |
+|  389 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  390 | Rob Cuthrell              |   9.4 |        11 |              |               |
 |  391 | Robert Broesler           |   9.4 |         4 |              |               |
 |  392 | Raunak Bhinge             |   9.3 |         8 |              |               |
 |  393 | Greg Sperla               |   9.3 |         8 |              |               |
