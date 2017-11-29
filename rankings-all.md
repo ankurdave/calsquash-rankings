@@ -66,11 +66,11 @@ Generated 2017-11-29.
 |   62 | Ben Seelig                |  25.0 |        69 |              |               |
 |   63 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   64 | Madhav Pai                |  24.9 |         5 |              |               |
-|   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
-|   67 | Sushil Shetty             |  24.8 |        23 |              |               |
-|   68 | Orion Hodson              |  24.8 |        31 |              |               |
-|   69 | John Kunze                |  24.7 |       344 |        +0.14 |         +0.05 |
+|   65 | John Kunze                |  24.9 |       345 |        +0.34 |         +0.25 |
+|   66 | Shrinu Kushagra           |  24.8 |        12 |              |               |
+|   67 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   68 | Sushil Shetty             |  24.8 |        23 |              |               |
+|   69 | Orion Hodson              |  24.8 |        31 |              |               |
 |   70 | Martin Stokes             |  24.7 |        12 |              |               |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
@@ -106,10 +106,10 @@ Generated 2017-11-29.
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
 |  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Dan Bohn                  |  22.8 |       119 |        -0.34 |         -0.41 |
-|  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
-|  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  108 | Julian Marshall           |  22.7 |        31 |              |               |
+|  105 | Andrew Pritchard          |  22.7 |        16 |              |               |
+|  106 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  107 | Julian Marshall           |  22.7 |        31 |              |               |
+|  108 | Dan Bohn                  |  22.6 |       120 |        -0.54 |         -0.61 |
 |  109 | Gautam Tankha             |  22.6 |         7 |              |               |
 |  110 | Dev Millstein             |  22.6 |        92 |              |               |
 |  111 | Sardar Nauman             |  22.4 |         4 |              |               |
