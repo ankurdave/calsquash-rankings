@@ -320,13 +320,13 @@ Generated 2017-11-28.
 |  316 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  317 | Lars Foleide              |  13.5 |        11 |              |               |
 |  318 | Alex Rennet               |  13.5 |         2 |              |               |
-|  319 | Kent Daniels              |  13.4 |       119 |        -0.25 |         -1.45 |
+|  319 | Kent Daniels              |  13.4 |       119 |        -0.27 |         -1.47 |
 |  320 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  321 | Jake Toy                  |  13.4 |         5 |              |               |
 |  322 | Danielle Craig            |  13.3 |         3 |              |               |
 |  323 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  324 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  325 | Meldan Heaslip            |  13.2 |        43 |        +0.29 |         +4.26 |
+|  324 | Meldan Heaslip            |  13.2 |        44 |        +0.37 |         +4.34 |
+|  325 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  326 | Field Maloney             |  13.1 |        24 |              |               |
 |  327 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  328 | Lewis Moore               |  13.0 |        69 |              |               |
@@ -353,8 +353,8 @@ Generated 2017-11-28.
 |  349 | Raphael Magarik           |  11.7 |        46 |        +0.72 |         +2.99 |
 |  350 | Romit Chakraborty         |  11.7 |         2 |              |               |
 |  351 | James Shinn               |  11.7 |       120 |              |               |
-|  352 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  353 | Sara Bamberger            |  11.7 |        11 |        +2.16 |               |
+|  352 | Sara Bamberger            |  11.7 |        12 |        +2.19 |               |
+|  353 | Tim O'Connell             |  11.7 |         3 |              |               |
 |  354 | Min Joon Seo              |  11.6 |         3 |              |               |
 |  355 | David Appelfeld           |  11.6 |        26 |              |               |
 |  356 | Virginie Letschert        |  11.6 |        18 |              |               |
@@ -366,7 +366,7 @@ Generated 2017-11-28.
 |  362 | Caroline Palmer           |  10.9 |         8 |              |               |
 |  363 | George Bentley            |  10.6 |         4 |              |               |
 |  364 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  365 | Vishesh Dalal             |  10.5 |        10 |        +0.29 |               |
+|  365 | Vishesh Dalal             |  10.5 |        10 |        +0.30 |               |
 |  366 | Brian Puglise             |  10.4 |         2 |              |               |
 |  367 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  368 | Prasad Santhanam          |  10.3 |         7 |              |               |
