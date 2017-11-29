@@ -43,10 +43,10 @@ Generated 2017-11-29.
 |   39 | Alan Jose                 |  26.9 |       182 |              |               |
 |   40 | Michael Best              |  26.9 |        21 |              |               |
 |   41 | Josh Taylor               |  26.8 |        40 |              |               |
-|   42 | Frank Kennamer            |  26.8 |       244 |        -0.21 |         -0.08 |
-|   43 | David Hwang               |  26.8 |        44 |              |               |
-|   44 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
-|   45 | Gary Golding              |  26.5 |         6 |              |               |
+|   42 | David Hwang               |  26.8 |        44 |              |               |
+|   43 | Ethan Kerr                |  26.7 |        14 |              |         +0.33 |
+|   44 | Gary Golding              |  26.5 |         6 |              |               |
+|   45 | Frank Kennamer            |  26.4 |       245 |        -0.57 |         -0.44 |
 |   46 | Amos Vernon               |  26.4 |        30 |              |               |
 |   47 | Andrew Moylan             |  26.3 |        95 |              |               |
 |   48 | Mikey Zarem               |  26.1 |         8 |              |               |
@@ -73,8 +73,8 @@ Generated 2017-11-29.
 |   69 | Orion Hodson              |  24.8 |        31 |              |               |
 |   70 | Martin Stokes             |  24.7 |        12 |              |               |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   72 | Annie Rein-Weston         |  24.5 |        18 |              |               |
-|   73 | Jim Veitch                |  24.5 |       474 |        +0.28 |         -0.45 |
+|   72 | Jim Veitch                |  24.6 |       474 |        +0.30 |         -0.43 |
+|   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |
 |   76 | Jon Shih                  |  24.4 |        47 |              |               |
@@ -115,20 +115,20 @@ Generated 2017-11-29.
 |  111 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  112 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  113 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  114 | Robert Geiger             |  22.2 |         8 |              |               |
-|  115 | Aaron Socha               |  22.2 |        24 |              |               |
-|  116 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  117 | Benjamin Adler            |  22.2 |         7 |              |               |
-|  118 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  119 | Britta Gardner            |  22.1 |        16 |              |               |
-|  120 | Niklas Linde              |  22.1 |        23 |              |               |
-|  121 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  122 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  123 | Blake Woodard             |  22.0 |        10 |              |               |
-|  124 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  125 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  126 | Jan Beranek               |  21.9 |        46 |              |               |
-|  127 | Dan Meier                 |  21.9 |        86 |        +0.12 |         -1.11 |
+|  114 | Dan Meier                 |  22.3 |        87 |        +0.48 |         -0.76 |
+|  115 | Robert Geiger             |  22.2 |         8 |              |               |
+|  116 | Aaron Socha               |  22.2 |        24 |              |               |
+|  117 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  118 | Benjamin Adler            |  22.2 |         7 |              |               |
+|  119 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  120 | Britta Gardner            |  22.1 |        16 |              |               |
+|  121 | Niklas Linde              |  22.1 |        23 |              |               |
+|  122 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  123 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  124 | Blake Woodard             |  22.0 |        10 |              |               |
+|  125 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  127 | Jan Beranek               |  21.9 |        46 |              |               |
 |  128 | Jonathan Hankar           |  21.8 |       223 |        +0.08 |         -0.04 |
 |  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
 |  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
