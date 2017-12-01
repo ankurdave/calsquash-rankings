@@ -79,13 +79,13 @@ Generated 2017-11-30.
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |
 |   76 | Jon Shih                  |  24.4 |        47 |              |               |
 |   77 | Kameshwar Poolla          |  24.4 |        11 |              |               |
-|   78 | Todd Wirsching            |  24.3 |         8 |              |               |
-|   79 | Harlan Yu                 |  24.3 |        19 |              |               |
-|   80 | Lakshya Rustagi           |  24.2 |         2 |              |               |
-|   81 | Toby Reiner               |  24.2 |       159 |              |               |
-|   82 | Himanshu Jatia            |  24.2 |         4 |              |               |
-|   83 | Matthew Elliott           |  24.2 |         7 |              |               |
-|   84 | Matt Wong                 |  24.2 |       107 |        +0.31 |         +0.98 |
+|   78 | Matt Wong                 |  24.4 |       108 |        +0.50 |         +1.17 |
+|   79 | Todd Wirsching            |  24.3 |         8 |              |               |
+|   80 | Harlan Yu                 |  24.3 |        19 |              |               |
+|   81 | Lakshya Rustagi           |  24.2 |         2 |              |               |
+|   82 | Toby Reiner               |  24.2 |       159 |              |               |
+|   83 | Himanshu Jatia            |  24.2 |         4 |              |               |
+|   84 | Matthew Elliott           |  24.2 |         7 |              |               |
 |   85 | Robert Jeng               |  24.1 |        26 |              |               |
 |   86 | Vyas Sekar                |  24.1 |        17 |              |               |
 |   87 | Benjamin Vicuna           |  24.1 |        50 |              |               |
@@ -129,14 +129,14 @@ Generated 2017-11-30.
 |  125 | Ian MacDonald             |  22.0 |        59 |              |               |
 |  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
 |  127 | Jan Beranek               |  21.9 |        46 |              |               |
-|  128 | Jonathan Hankar           |  21.8 |       223 |        +0.08 |         -0.04 |
-|  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  131 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  132 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  133 | Omair Azam                |  21.7 |        18 |              |               |
-|  134 | Phin Lee                  |  21.7 |        16 |              |               |
-|  135 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  131 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  132 | Omair Azam                |  21.7 |        18 |              |               |
+|  133 | Phin Lee                  |  21.7 |        16 |              |               |
+|  134 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  135 | Jonathan Hankar           |  21.6 |       224 |        -0.11 |         -0.23 |
 |  136 | Dante Popple              |  21.5 |        17 |              |               |
 |  137 | Reid Johnsen              |  21.4 |        59 |        -0.07 |         -0.29 |
 |  138 | Jared Bard                |  21.3 |        46 |              |         +0.54 |
