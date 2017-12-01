@@ -8,14 +8,14 @@ Generated 2017-11-30.
 |    4 | Nick Cobbett       |  28.8 |        56 |        +0.38 |         +2.21 |
 |    5 | David Woo          |  28.7 |        11 |        -0.17 |               |
 |    6 | Anibhav Singla     |  28.2 |        37 |        +0.26 |         +7.68 |
-|    7 | Thomas Littleton   |  27.6 |        22 |        +0.33 |               |
-|    8 | Frank Kennamer     |  26.4 |       245 |        -0.57 |         -0.44 |
-|    9 | John Kunze         |  24.9 |       345 |        +0.34 |         +0.25 |
+|    7 | Thomas Littleton   |  27.6 |        22 |        +0.32 |               |
+|    8 | Frank Kennamer     |  26.4 |       245 |        -0.58 |         -0.45 |
+|    9 | John Kunze         |  24.9 |       346 |        +0.39 |         +0.30 |
 |   10 | Jim Veitch         |  24.6 |       474 |        +0.30 |         -0.43 |
 |   11 | Matt Wong          |  24.4 |       108 |        +0.50 |         +1.17 |
 |   12 | Aditya Guntuboyina |  24.0 |        84 |        +0.19 |         +0.68 |
-|   13 | Dan Bohn           |  22.6 |       120 |        -0.54 |         -0.61 |
-|   14 | Dan Meier          |  22.3 |        87 |        +0.48 |         -0.76 |
+|   13 | Dan Bohn           |  22.6 |       120 |        -0.53 |         -0.60 |
+|   14 | Dan Meier          |  22.2 |        88 |        +0.44 |         -0.80 |
 |   15 | Jonathan Hankar    |  21.6 |       224 |        -0.11 |         -0.23 |
 |   16 | Reid Johnsen       |  21.4 |        59 |        -0.07 |         -0.29 |
 |   17 | Matthew Bond       |  20.9 |         8 |        +3.31 |               |
