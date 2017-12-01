@@ -22,21 +22,21 @@ Generated 2017-11-30.
 |   18 | Mark Modera        |  20.2 |       344 |        -0.40 |         -1.11 |
 |   19 | Ankur Dave         |  20.0 |        97 |        +1.19 |         +4.96 |
 |   20 | Anthony Abel       |  19.4 |        19 |        -0.30 |               |
-|   21 | Mike Jensen-Akula  |  19.3 |       240 |        +0.22 |         -1.21 |
+|   21 | Mike Jensen-Akula  |  19.1 |       240 |        -0.04 |         -1.47 |
 |   22 | Jaime Perez        |  18.9 |        37 |        -0.27 |         -0.21 |
 |   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.40 |
-|   24 | Josh Trauner       |  18.0 |        72 |        +0.38 |         +0.20 |
+|   24 | Josh Trauner       |  18.0 |        72 |        +0.34 |         +0.16 |
 |   25 | Sahar Sareminaeni  |  17.1 |        52 |        +0.06 |         +2.86 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
 |   27 | Karan Goyal        |  15.9 |        21 |        -0.53 |               |
-|   28 | Craig Hollow       |  15.7 |        40 |        +0.14 |        +13.78 |
+|   28 | Craig Hollow       |  15.7 |        40 |        +0.13 |        +13.76 |
 |   29 | Diego Butrich      |  14.1 |        24 |        +0.39 |         -0.44 |
-|   30 | Kent Daniels       |  13.4 |       119 |        -0.27 |         -1.47 |
-|   31 | Danielle Craig     |  13.3 |         3 |              |               |
-|   32 | Meldan Heaslip     |  13.2 |        44 |        +0.37 |         +4.34 |
-|   33 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
-|   34 | Daniel Isaacson    |  12.9 |         4 |        +1.27 |               |
-|   35 | Romit Chakraborty  |  11.7 |         2 |              |               |
+|   30 | Romit Chakraborty  |  13.8 |         3 |              |               |
+|   31 | Kent Daniels       |  13.4 |       119 |        -0.27 |         -1.47 |
+|   32 | Danielle Craig     |  13.3 |         3 |              |               |
+|   33 | Meldan Heaslip     |  13.2 |        44 |        +0.37 |         +4.34 |
+|   34 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
+|   35 | Daniel Isaacson    |  12.9 |         4 |        +1.27 |               |
 |   36 | Raphael Magarik    |  11.7 |        46 |        +0.68 |         +2.94 |
 |   37 | Sara Bamberger     |  11.7 |        12 |        +2.19 |               |
 |   38 | Vishesh Dalal      |  10.5 |        10 |        +0.30 |               |
@@ -49,7 +49,7 @@ Generated 2017-11-30.
 |   45 | Avi Flamholz       |   5.4 |        10 |        -0.52 |               |
 |   46 | Zsolt Bartha       |   4.4 |        72 |        -0.24 |         +0.04 |
 |   47 | Ryan van der Harst |   4.2 |         5 |        +5.27 |               |
-|   48 | Joanna Majkowski   |   2.8 |         7 |        -0.06 |               |
+|   48 | Joanna Majkowski   |   2.6 |         8 |        -0.22 |               |
 |   49 | Duncan MacRae      |   0.7 |        37 |        -0.07 |         +6.92 |
 |   50 | Cori Land          |  -2.0 |         4 |              |               |
 |   51 | John Hwong         |  -3.8 |         2 |              |               |
