@@ -1,4 +1,4 @@
-Generated 2017-12-01.
+Generated 2017-12-02.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -12,16 +12,16 @@ Generated 2017-12-01.
 |    8 | Frank Kennamer     |  26.4 |       245 |        -0.58 |         -0.45 |
 |    9 | John Kunze         |  24.9 |       346 |        +0.39 |         +0.30 |
 |   10 | Jim Veitch         |  24.6 |       474 |        +0.30 |         -0.43 |
-|   11 | Matt Wong          |  24.4 |       108 |        +0.50 |         +1.17 |
-|   12 | Aditya Guntuboyina |  24.0 |        84 |        +0.19 |         +0.68 |
+|   11 | Matt Wong          |  24.0 |       109 |        +0.15 |         +0.82 |
+|   12 | Aditya Guntuboyina |  23.9 |        84 |        +0.17 |         +0.66 |
 |   13 | Dan Bohn           |  22.6 |       120 |        -0.53 |         -0.60 |
 |   14 | Dan Meier          |  22.2 |        88 |        +0.44 |         -0.80 |
-|   15 | Jonathan Hankar    |  21.6 |       224 |        -0.11 |         -0.23 |
+|   15 | Jonathan Hankar    |  21.6 |       224 |        -0.10 |         -0.22 |
 |   16 | Reid Johnsen       |  21.4 |        59 |        -0.07 |         -0.29 |
-|   17 | Matthew Bond       |  20.9 |         8 |        +3.31 |               |
-|   18 | Mark Modera        |  20.2 |       344 |        -0.40 |         -1.11 |
+|   17 | Matthew Bond       |  20.8 |         8 |        +3.30 |               |
+|   18 | Mark Modera        |  20.6 |       345 |        -0.05 |         -0.76 |
 |   19 | Ankur Dave         |  20.0 |        97 |        +1.19 |         +4.96 |
-|   20 | Anthony Abel       |  19.4 |        19 |        -0.30 |               |
+|   20 | Anthony Abel       |  19.5 |        19 |        -0.27 |               |
 |   21 | Mike Jensen-Akula  |  19.1 |       240 |        +0.03 |         -1.40 |
 |   22 | Jaime Perez        |  18.9 |        37 |        -0.27 |         -0.21 |
 |   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.40 |
