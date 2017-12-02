@@ -22,15 +22,15 @@ Generated 2017-12-02.
 |   18 | Mark Modera        |  20.6 |       345 |        -0.05 |         -0.76 |
 |   19 | Ankur Dave         |  20.0 |        97 |        +1.19 |         +4.96 |
 |   20 | Anthony Abel       |  19.5 |        19 |        -0.27 |               |
-|   21 | Mike Jensen-Akula  |  19.1 |       240 |        +0.03 |         -1.40 |
+|   21 | Mike Jensen-Akula  |  19.2 |       240 |        +0.03 |         -1.40 |
 |   22 | Jaime Perez        |  18.9 |        37 |        -0.27 |         -0.21 |
 |   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.40 |
-|   24 | Josh Trauner       |  17.9 |        73 |        +0.27 |         +0.09 |
+|   24 | Josh Trauner       |  17.9 |        73 |        +0.24 |         +0.06 |
 |   25 | Sahar Sareminaeni  |  17.1 |        52 |        +0.06 |         +2.86 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
 |   27 | Karan Goyal        |  15.9 |        21 |        -0.53 |               |
 |   28 | Romit Chakraborty  |  15.8 |         4 |              |               |
-|   29 | Craig Hollow       |  15.5 |        41 |        -0.10 |        +13.54 |
+|   29 | Craig Hollow       |  15.5 |        41 |        -0.09 |        +13.55 |
 |   30 | Diego Butrich      |  14.1 |        24 |        +0.39 |         -0.44 |
 |   31 | Meldan Heaslip     |  13.4 |        45 |        +0.49 |         +4.47 |
 |   32 | Danielle Craig     |  13.3 |         3 |              |               |
@@ -49,7 +49,7 @@ Generated 2017-12-02.
 |   45 | Avi Flamholz       |   5.4 |        10 |        -0.52 |               |
 |   46 | Zsolt Bartha       |   4.4 |        72 |        -0.24 |         +0.04 |
 |   47 | Ryan van der Harst |   4.2 |         5 |        +5.27 |               |
-|   48 | Joanna Majkowski   |   2.7 |         9 |        -0.13 |               |
+|   48 | Joanna Majkowski   |   2.7 |         9 |        -0.14 |               |
 |   49 | Duncan MacRae      |   0.7 |        37 |        -0.07 |         +6.92 |
 |   50 | Cori Land          |  -2.0 |         4 |              |               |
 |   51 | John Hwong         |  -3.8 |         2 |              |               |

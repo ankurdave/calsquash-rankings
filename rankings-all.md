@@ -192,7 +192,7 @@ Generated 2017-12-02.
 |  188 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  189 | Greg Adams                |  19.3 |        10 |              |               |
 |  190 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  191 | Mike Jensen-Akula         |  19.1 |       240 |        +0.03 |         -1.40 |
+|  191 | Mike Jensen-Akula         |  19.2 |       240 |        +0.03 |         -1.40 |
 |  192 | John Corcoran             |  19.1 |        49 |              |               |
 |  193 | Kedar Shah                |  19.1 |         9 |              |               |
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
@@ -222,9 +222,9 @@ Generated 2017-12-02.
 |  218 | Dror Matalon              |  18.2 |       381 |        -0.38 |         -0.40 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
 |  220 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  221 | Josh Trauner              |  17.9 |        73 |        +0.27 |         +0.09 |
-|  222 | James Chung               |  17.9 |         7 |              |               |
-|  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  221 | James Chung               |  17.9 |         7 |              |               |
+|  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  223 | Josh Trauner              |  17.9 |        73 |        +0.24 |         +0.06 |
 |  224 | Eric Borden               |  17.8 |        44 |              |         -0.17 |
 |  225 | Troup Howard              |  17.8 |        47 |              |         +0.50 |
 |  226 | Nick Paget                |  17.8 |        35 |              |               |
@@ -270,15 +270,15 @@ Generated 2017-12-02.
 |  266 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  267 | Karan Goyal               |  15.9 |        21 |        -0.53 |               |
 |  268 | Terry Chang               |  15.8 |        48 |              |               |
-|  269 | Louis Russell             |  15.8 |        20 |              |               |
-|  270 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  271 | Romit Chakraborty         |  15.8 |         4 |              |               |
+|  269 | Romit Chakraborty         |  15.8 |         4 |              |               |
+|  270 | Louis Russell             |  15.8 |        20 |              |               |
+|  271 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  272 | Jared Nunn                |  15.7 |         5 |              |               |
 |  273 | Akash Sharma              |  15.7 |         8 |              |               |
 |  274 | Angie Ng                  |  15.7 |        12 |              |               |
 |  275 | Tanit Follett             |  15.5 |         8 |              |               |
 |  276 | Toni Queck                |  15.5 |        20 |              |               |
-|  277 | Craig Hollow              |  15.5 |        41 |        -0.10 |        +13.54 |
+|  277 | Craig Hollow              |  15.5 |        41 |        -0.09 |        +13.55 |
 |  278 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  279 | Peter Duerr               |  15.4 |        24 |              |               |
 |  280 | Kevin Fox                 |  15.3 |         7 |              |               |
@@ -470,7 +470,7 @@ Generated 2017-12-02.
 |  466 | Saijoscha Heck            |   2.9 |         6 |              |               |
 |  467 | Sagar Pilania             |   2.8 |         2 |              |               |
 |  468 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  469 | Joanna Majkowski          |   2.7 |         9 |        -0.13 |               |
+|  469 | Joanna Majkowski          |   2.7 |         9 |        -0.14 |               |
 |  470 | David Vogel               |   2.6 |         7 |              |               |
 |  471 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  472 | Cristhian Daniel          |   2.3 |        19 |              |         +0.54 |
