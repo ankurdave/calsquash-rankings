@@ -32,14 +32,14 @@ Generated 2017-12-01.
 |   28 | Craig Hollow       |  15.7 |        40 |        +0.12 |        +13.76 |
 |   29 | Diego Butrich      |  14.1 |        24 |        +0.39 |         -0.44 |
 |   30 | Romit Chakraborty  |  13.7 |         3 |              |               |
-|   31 | Kent Daniels       |  13.4 |       119 |        -0.27 |         -1.47 |
+|   31 | Meldan Heaslip     |  13.4 |        45 |        +0.49 |         +4.47 |
 |   32 | Danielle Craig     |  13.3 |         3 |              |               |
-|   33 | Meldan Heaslip     |  13.2 |        44 |        +0.37 |         +4.34 |
+|   33 | Kent Daniels       |  13.3 |       120 |        -0.36 |         -1.57 |
 |   34 | Josh Lebowitz      |  12.9 |        64 |              |         +2.66 |
 |   35 | Daniel Isaacson    |  12.9 |         4 |        +1.27 |               |
 |   36 | Raphael Magarik    |  11.7 |        46 |        +0.68 |         +2.94 |
 |   37 | Sara Bamberger     |  11.7 |        12 |        +2.19 |               |
-|   38 | Vishesh Dalal      |  10.5 |        10 |        +0.30 |               |
+|   38 | Vishesh Dalal      |  10.5 |        10 |        +0.29 |               |
 |   39 | Terence Stotz      |  10.3 |        19 |        +0.68 |               |
 |   40 | Nate Aden          |   9.9 |        42 |              |         -0.11 |
 |   41 | Manuel Coquet      |   9.5 |         9 |        -1.63 |               |
