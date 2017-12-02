@@ -1,4 +1,4 @@
-Generated 2017-11-30.
+Generated 2017-12-01.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -22,16 +22,16 @@ Generated 2017-11-30.
 |   18 | Mark Modera        |  20.2 |       344 |        -0.40 |         -1.11 |
 |   19 | Ankur Dave         |  20.0 |        97 |        +1.19 |         +4.96 |
 |   20 | Anthony Abel       |  19.4 |        19 |        -0.30 |               |
-|   21 | Mike Jensen-Akula  |  19.1 |       240 |        -0.04 |         -1.47 |
+|   21 | Mike Jensen-Akula  |  19.1 |       240 |        -0.07 |         -1.50 |
 |   22 | Jaime Perez        |  18.9 |        37 |        -0.27 |         -0.21 |
 |   23 | Dror Matalon       |  18.2 |       381 |        -0.38 |         -0.40 |
-|   24 | Josh Trauner       |  18.0 |        72 |        +0.34 |         +0.16 |
+|   24 | Josh Trauner       |  17.9 |        73 |        +0.28 |         +0.10 |
 |   25 | Sahar Sareminaeni  |  17.1 |        52 |        +0.06 |         +2.86 |
 |   26 | David Bratt        |  16.4 |        32 |        -0.23 |         -0.37 |
 |   27 | Karan Goyal        |  15.9 |        21 |        -0.53 |               |
-|   28 | Craig Hollow       |  15.7 |        40 |        +0.13 |        +13.76 |
+|   28 | Craig Hollow       |  15.7 |        40 |        +0.12 |        +13.76 |
 |   29 | Diego Butrich      |  14.1 |        24 |        +0.39 |         -0.44 |
-|   30 | Romit Chakraborty  |  13.8 |         3 |              |               |
+|   30 | Romit Chakraborty  |  13.7 |         3 |              |               |
 |   31 | Kent Daniels       |  13.4 |       119 |        -0.27 |         -1.47 |
 |   32 | Danielle Craig     |  13.3 |         3 |              |               |
 |   33 | Meldan Heaslip     |  13.2 |        44 |        +0.37 |         +4.34 |
@@ -49,7 +49,7 @@ Generated 2017-11-30.
 |   45 | Avi Flamholz       |   5.4 |        10 |        -0.52 |               |
 |   46 | Zsolt Bartha       |   4.4 |        72 |        -0.24 |         +0.04 |
 |   47 | Ryan van der Harst |   4.2 |         5 |        +5.27 |               |
-|   48 | Joanna Majkowski   |   2.6 |         8 |        -0.22 |               |
+|   48 | Joanna Majkowski   |   2.7 |         9 |        -0.15 |               |
 |   49 | Duncan MacRae      |   0.7 |        37 |        -0.07 |         +6.92 |
 |   50 | Cori Land          |  -2.0 |         4 |              |               |
 |   51 | John Hwong         |  -3.8 |         2 |              |               |

@@ -1,4 +1,4 @@
-Generated 2017-11-30.
+Generated 2017-12-01.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -193,7 +193,7 @@ Generated 2017-11-30.
 |  189 | Greg Adams                |  19.3 |        10 |              |               |
 |  190 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  191 | John Corcoran             |  19.1 |        49 |              |               |
-|  192 | Mike Jensen-Akula         |  19.1 |       240 |        -0.04 |         -1.47 |
+|  192 | Mike Jensen-Akula         |  19.1 |       240 |        -0.07 |         -1.50 |
 |  193 | Kedar Shah                |  19.1 |         9 |              |               |
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  195 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -222,7 +222,7 @@ Generated 2017-11-30.
 |  218 | Dror Matalon              |  18.2 |       381 |        -0.38 |         -0.40 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
 |  220 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  221 | Josh Trauner              |  18.0 |        72 |        +0.34 |         +0.16 |
+|  221 | Josh Trauner              |  17.9 |        73 |        +0.28 |         +0.10 |
 |  222 | James Chung               |  17.9 |         7 |              |               |
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  224 | Eric Borden               |  17.8 |        44 |              |         -0.17 |
@@ -272,7 +272,7 @@ Generated 2017-11-30.
 |  268 | Terry Chang               |  15.8 |        48 |              |               |
 |  269 | Louis Russell             |  15.8 |        20 |              |               |
 |  270 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  271 | Craig Hollow              |  15.7 |        40 |        +0.13 |        +13.76 |
+|  271 | Craig Hollow              |  15.7 |        40 |        +0.12 |        +13.76 |
 |  272 | Jared Nunn                |  15.7 |         5 |              |               |
 |  273 | Akash Sharma              |  15.7 |         8 |              |               |
 |  274 | Angie Ng                  |  15.7 |        12 |              |               |
@@ -312,11 +312,11 @@ Generated 2017-11-30.
 |  308 | Rupert Myers              |  14.0 |        27 |              |               |
 |  309 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
 |  310 | Mekoce Walker             |  13.8 |        38 |              |               |
-|  311 | Romit Chakraborty         |  13.8 |         3 |              |               |
-|  312 | Gurj Johal                |  13.8 |         2 |              |               |
-|  313 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  314 | Tim Browning              |  13.8 |         7 |              |               |
-|  315 | Josephine Lee             |  13.7 |         6 |              |               |
+|  311 | Gurj Johal                |  13.8 |         2 |              |               |
+|  312 | Freeden Ouer              |  13.8 |         1 |              |               |
+|  313 | Tim Browning              |  13.8 |         7 |              |               |
+|  314 | Josephine Lee             |  13.7 |         6 |              |               |
+|  315 | Romit Chakraborty         |  13.7 |         3 |              |               |
 |  316 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  317 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  318 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -470,7 +470,7 @@ Generated 2017-11-30.
 |  466 | Saijoscha Heck            |   2.9 |         6 |              |               |
 |  467 | Sagar Pilania             |   2.8 |         2 |              |               |
 |  468 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  469 | Joanna Majkowski          |   2.6 |         8 |        -0.22 |               |
+|  469 | Joanna Majkowski          |   2.7 |         9 |        -0.15 |               |
 |  470 | David Vogel               |   2.6 |         7 |              |               |
 |  471 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  472 | Cristhian Daniel          |   2.3 |        19 |              |         +0.54 |
