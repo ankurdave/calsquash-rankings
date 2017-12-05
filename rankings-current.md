@@ -1,4 +1,4 @@
-Generated 2017-12-04.
+Generated 2017-12-05.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -34,11 +34,11 @@ Generated 2017-12-04.
 |   30 | Kent Daniels       |  13.3 |       120 |              |         -1.40 |
 |   31 | Josh Lebowitz      |  12.9 |        64 |              |         +2.22 |
 |   32 | Daniel Isaacson    |  12.9 |         4 |              |               |
-|   33 | Raphael Magarik    |  11.7 |        46 |              |         +2.86 |
+|   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
 |   34 | Sara Bamberger     |  11.7 |        12 |              |               |
 |   35 | Caroline Palmer    |  10.9 |         8 |              |               |
-|   36 | Vishesh Dalal      |  10.5 |        10 |              |               |
-|   37 | Terence Stotz      |  10.3 |        19 |              |               |
+|   36 | Terence Stotz      |  10.3 |        19 |              |               |
+|   37 | Vishesh Dalal      |  10.2 |        11 |        -0.26 |               |
 |   38 | Manuel Coquet      |   9.5 |         9 |              |               |
 |   39 | Rashid Hameed      |   9.5 |         7 |              |               |
 |   40 | Brian Kempenich    |   8.2 |        59 |              |         -0.34 |

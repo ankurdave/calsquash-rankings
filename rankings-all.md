@@ -1,4 +1,4 @@
-Generated 2017-12-04.
+Generated 2017-12-05.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -347,11 +347,11 @@ Generated 2017-12-04.
 |  343 | Sylvan Arevalo            |  12.2 |         3 |              |               |
 |  344 | Reed Foster               |  12.1 |         8 |              |               |
 |  345 | Axel Eriksson             |  12.0 |         5 |              |               |
-|  346 | Larry Dale                |  11.9 |        29 |              |               |
-|  347 | Aman Gupta                |  11.8 |         3 |              |               |
-|  348 | Mitchell O'Connell        |  11.8 |        32 |              |               |
-|  349 | Julian Gill               |  11.8 |         1 |              |               |
-|  350 | Raphael Magarik           |  11.7 |        46 |              |         +2.86 |
+|  346 | Raphael Magarik           |  11.9 |        47 |        +0.22 |         +3.08 |
+|  347 | Larry Dale                |  11.9 |        29 |              |               |
+|  348 | Aman Gupta                |  11.8 |         3 |              |               |
+|  349 | Mitchell O'Connell        |  11.8 |        32 |              |               |
+|  350 | Julian Gill               |  11.8 |         1 |              |               |
 |  351 | Sara Bamberger            |  11.7 |        12 |              |               |
 |  352 | James Shinn               |  11.7 |       120 |              |               |
 |  353 | Tim O'Connell             |  11.7 |         3 |              |               |
@@ -366,13 +366,13 @@ Generated 2017-12-04.
 |  362 | Caroline Palmer           |  10.9 |         8 |              |               |
 |  363 | George Bentley            |  10.6 |         4 |              |               |
 |  364 | Sudeep Agarwal            |  10.5 |         3 |              |               |
-|  365 | Vishesh Dalal             |  10.5 |        10 |              |               |
-|  366 | Brian Puglise             |  10.4 |         2 |              |               |
-|  367 | Lewis H. Moore            |  10.3 |         8 |              |               |
-|  368 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  369 | Terence Stotz             |  10.3 |        19 |              |               |
-|  370 | John Provine              |  10.2 |        16 |              |               |
-|  371 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  365 | Brian Puglise             |  10.4 |         2 |              |               |
+|  366 | Lewis H. Moore            |  10.3 |         8 |              |               |
+|  367 | Prasad Santhanam          |  10.3 |         7 |              |               |
+|  368 | Terence Stotz             |  10.3 |        19 |              |               |
+|  369 | John Provine              |  10.2 |        16 |              |               |
+|  370 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  371 | Vishesh Dalal             |  10.2 |        11 |        -0.26 |               |
 |  372 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  373 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  374 | Sung-Jin Oh               |  10.1 |         6 |              |               |
