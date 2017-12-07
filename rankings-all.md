@@ -136,24 +136,24 @@ Generated 2017-12-06.
 |  132 | Omair Azam                |  21.7 |        18 |              |               |
 |  133 | Phin Lee                  |  21.7 |        16 |              |               |
 |  134 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  135 | Jonathan Hankar           |  21.6 |       224 |              |         -0.67 |
-|  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Reid Johnsen              |  21.4 |        59 |              |         -0.61 |
-|  138 | Jared Bard                |  21.3 |        46 |              |         +0.87 |
-|  139 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  140 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  141 | Adam Jacob                |  21.3 |         3 |              |               |
-|  142 | Vishal Jain               |  21.3 |         6 |              |               |
-|  143 | Casey Harelson            |  21.2 |        20 |              |               |
-|  144 | Philip Bildner            |  21.2 |        22 |              |               |
-|  145 | Darren Morgan             |  21.2 |        11 |              |               |
-|  146 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
-|  147 | Jeff Diamond              |  21.1 |        44 |              |               |
-|  148 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  149 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  150 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  151 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  152 | Matthew Bond              |  20.8 |         8 |              |               |
+|  135 | Jonathan Hankar           |  21.6 |       225 |        -0.08 |         -0.75 |
+|  136 | Matthew Bond              |  21.5 |         9 |        +0.66 |               |
+|  137 | Dante Popple              |  21.5 |        17 |              |               |
+|  138 | Reid Johnsen              |  21.4 |        59 |              |         -0.61 |
+|  139 | Jared Bard                |  21.3 |        46 |              |         +0.87 |
+|  140 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  141 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  142 | Adam Jacob                |  21.3 |         3 |              |               |
+|  143 | Vishal Jain               |  21.3 |         6 |              |               |
+|  144 | Casey Harelson            |  21.2 |        20 |              |               |
+|  145 | Philip Bildner            |  21.2 |        22 |              |               |
+|  146 | Darren Morgan             |  21.2 |        11 |              |               |
+|  147 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
+|  148 | Jeff Diamond              |  21.1 |        44 |              |               |
+|  149 | Paz Grimberg              |  21.0 |        17 |              |               |
+|  150 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  151 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  152 | Joseph Farrell            |  20.9 |         8 |              |               |
 |  153 | Robert Isaac              |  20.8 |        17 |              |               |
 |  154 | Jamie Funk                |  20.8 |        30 |              |               |
 |  155 | Matthew Brett             |  20.7 |        20 |              |               |
