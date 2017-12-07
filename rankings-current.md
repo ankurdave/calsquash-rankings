@@ -1,4 +1,4 @@
-Generated 2017-12-06.
+Generated 2017-12-07.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -42,8 +42,9 @@ Generated 2017-12-06.
 |   38 | Manuel Coquet      |   9.5 |         9 |              |               |
 |   39 | Rashid Hameed      |   9.5 |         7 |              |               |
 |   40 | Brian Kempenich    |   8.2 |        59 |              |         -0.34 |
-|   41 | Avi Flamholz       |   5.4 |        10 |              |               |
+|   41 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
 |   42 | Zsolt Bartha       |   4.4 |        72 |              |         +0.02 |
 |   43 | Ryan van der Harst |   4.2 |         5 |              |               |
 |   44 | Joanna Majkowski   |   2.7 |         9 |              |               |
-|   45 | Duncan MacRae      |   0.7 |        37 |              |         +7.00 |
+|   45 | Stephen Harrell    |   1.2 |         1 |              |               |
+|   46 | Duncan MacRae      |   0.7 |        37 |              |         +7.00 |
