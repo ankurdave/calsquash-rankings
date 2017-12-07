@@ -1,4 +1,4 @@
-Generated 2017-12-05.
+Generated 2017-12-06.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -6,8 +6,8 @@ Generated 2017-12-05.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Eric Katerman             |  33.7 |        69 |              |         +1.89 |
-|    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
+|    5 | Dominic Gaffney           |  33.4 |        54 |              |               |
+|    6 | Eric Katerman             |  33.4 |        70 |        -0.35 |         +1.54 |
 |    7 | Ashley Kayler             |  33.1 |       236 |              |         -1.91 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
@@ -26,9 +26,9 @@ Generated 2017-12-05.
 |   22 | Alex Jermyn               |  29.3 |         3 |              |               |
 |   23 | Tiko Shah                 |  29.3 |       198 |              |               |
 |   24 | Jehan Engineer            |  29.2 |         9 |              |               |
-|   25 | Heba Nossier              |  29.2 |        14 |              |               |
-|   26 | Justin McCrary            |  29.0 |       140 |              |               |
-|   27 | Nick Cobbett              |  28.8 |        56 |              |         +1.95 |
+|   25 | Nick Cobbett              |  29.2 |        57 |        +0.40 |         +2.34 |
+|   26 | Heba Nossier              |  29.2 |        14 |              |               |
+|   27 | Justin McCrary            |  29.0 |       140 |              |               |
 |   28 | David Woo                 |  28.7 |        11 |              |               |
 |   29 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
