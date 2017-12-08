@@ -1,4 +1,4 @@
-Generated 2017-12-07.
+Generated 2017-12-08.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -12,10 +12,10 @@ Generated 2017-12-07.
 |    8 | Jim Veitch         |  24.6 |       474 |              |         -0.30 |
 |    9 | Matt Wong          |  24.0 |       109 |              |         +0.41 |
 |   10 | Aditya Guntuboyina |  23.9 |        84 |              |         +0.66 |
-|   11 | Jonathan Hankar    |  21.6 |       225 |        -0.08 |         -0.75 |
-|   12 | Matthew Bond       |  21.5 |         9 |        +0.66 |               |
+|   11 | Matthew Bond       |  22.3 |        10 |        +1.43 |               |
+|   12 | Jonathan Hankar    |  21.6 |       225 |        -0.06 |         -0.73 |
 |   13 | Reid Johnsen       |  21.4 |        59 |              |         -0.61 |
-|   14 | Jared Bard         |  21.3 |        46 |              |         +0.87 |
+|   14 | Jared Bard         |  21.1 |        47 |        -0.21 |         +0.66 |
 |   15 | Mark Modera        |  20.6 |       345 |              |         -0.21 |
 |   16 | Ankur Dave         |  20.0 |        97 |              |         +4.50 |
 |   17 | Anthony Abel       |  19.5 |        19 |              |               |

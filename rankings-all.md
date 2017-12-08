@@ -1,4 +1,4 @@
-Generated 2017-12-07.
+Generated 2017-12-08.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -115,39 +115,39 @@ Generated 2017-12-07.
 |  111 | Sardar Nauman             |  22.4 |         4 |              |               |
 |  112 | Zarah Rahman              |  22.4 |        13 |              |               |
 |  113 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  114 | Dan Meier                 |  22.2 |        88 |              |         -0.55 |
-|  115 | Robert Geiger             |  22.2 |         8 |              |               |
-|  116 | Aaron Socha               |  22.2 |        24 |              |               |
-|  117 | Robert Ashmore            |  22.2 |       104 |              |               |
-|  118 | Benjamin Adler            |  22.2 |         7 |              |               |
-|  119 | Dennis Dornan             |  22.1 |        12 |              |               |
-|  120 | Britta Gardner            |  22.1 |        16 |              |               |
-|  121 | Niklas Linde              |  22.1 |        23 |              |               |
-|  122 | Errick Ceppas             |  22.0 |         6 |              |               |
-|  123 | Nacho Quaglio             |  22.0 |         3 |              |               |
-|  124 | Blake Woodard             |  22.0 |        10 |              |               |
-|  125 | Ian MacDonald             |  22.0 |        59 |              |               |
-|  126 | Andrew Lawrie             |  22.0 |        46 |              |               |
-|  127 | Jan Beranek               |  21.9 |        46 |              |               |
-|  128 | Saurabh Bajaj             |  21.8 |        22 |              |               |
-|  129 | Doug Kreutzer             |  21.8 |        10 |              |               |
-|  130 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
-|  131 | Charlie Weiss             |  21.7 |        70 |              |               |
-|  132 | Omair Azam                |  21.7 |        18 |              |               |
-|  133 | Phin Lee                  |  21.7 |        16 |              |               |
-|  134 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  135 | Jonathan Hankar           |  21.6 |       225 |        -0.08 |         -0.75 |
-|  136 | Matthew Bond              |  21.5 |         9 |        +0.66 |               |
+|  114 | Matthew Bond              |  22.3 |        10 |        +1.43 |               |
+|  115 | Dan Meier                 |  22.2 |        88 |              |         -0.55 |
+|  116 | Robert Geiger             |  22.2 |         8 |              |               |
+|  117 | Aaron Socha               |  22.2 |        24 |              |               |
+|  118 | Robert Ashmore            |  22.2 |       104 |              |               |
+|  119 | Benjamin Adler            |  22.2 |         7 |              |               |
+|  120 | Dennis Dornan             |  22.1 |        12 |              |               |
+|  121 | Britta Gardner            |  22.1 |        16 |              |               |
+|  122 | Niklas Linde              |  22.1 |        23 |              |               |
+|  123 | Errick Ceppas             |  22.0 |         6 |              |               |
+|  124 | Nacho Quaglio             |  22.0 |         3 |              |               |
+|  125 | Blake Woodard             |  22.0 |        10 |              |               |
+|  126 | Ian MacDonald             |  22.0 |        59 |              |               |
+|  127 | Andrew Lawrie             |  22.0 |        46 |              |               |
+|  128 | Jan Beranek               |  21.9 |        46 |              |               |
+|  129 | Saurabh Bajaj             |  21.8 |        22 |              |               |
+|  130 | Doug Kreutzer             |  21.8 |        10 |              |               |
+|  131 | Rishabh Kasliwal          |  21.8 |        26 |              |               |
+|  132 | Charlie Weiss             |  21.7 |        70 |              |               |
+|  133 | Omair Azam                |  21.7 |        18 |              |               |
+|  134 | Phin Lee                  |  21.7 |        16 |              |               |
+|  135 | Tim Bruckner              |  21.7 |        10 |              |               |
+|  136 | Jonathan Hankar           |  21.6 |       225 |        -0.06 |         -0.73 |
 |  137 | Dante Popple              |  21.5 |        17 |              |               |
 |  138 | Reid Johnsen              |  21.4 |        59 |              |         -0.61 |
-|  139 | Jared Bard                |  21.3 |        46 |              |         +0.87 |
-|  140 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  141 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  142 | Adam Jacob                |  21.3 |         3 |              |               |
-|  143 | Vishal Jain               |  21.3 |         6 |              |               |
-|  144 | Casey Harelson            |  21.2 |        20 |              |               |
-|  145 | Philip Bildner            |  21.2 |        22 |              |               |
-|  146 | Darren Morgan             |  21.2 |        11 |              |               |
+|  139 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  140 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  141 | Adam Jacob                |  21.3 |         3 |              |               |
+|  142 | Vishal Jain               |  21.3 |         6 |              |               |
+|  143 | Casey Harelson            |  21.2 |        20 |              |               |
+|  144 | Philip Bildner            |  21.2 |        22 |              |               |
+|  145 | Darren Morgan             |  21.2 |        11 |              |               |
+|  146 | Jared Bard                |  21.1 |        47 |        -0.21 |         +0.66 |
 |  147 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  148 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  149 | Paz Grimberg              |  21.0 |        17 |              |               |
