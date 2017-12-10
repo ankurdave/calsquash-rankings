@@ -1,4 +1,4 @@
-Generated 2017-12-08.
+Generated 2017-12-09.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -31,7 +31,7 @@ Generated 2017-12-08.
 |   27 | Craig Hollow       |  15.5 |        41 |              |        +13.47 |
 |   28 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
 |   29 | Meldan Heaslip     |  13.4 |        45 |              |         +3.02 |
-|   30 | Kent Daniels       |  13.3 |       120 |              |         -1.40 |
+|   30 | Kent Daniels       |  13.2 |       121 |        -0.08 |         -1.49 |
 |   31 | Josh Lebowitz      |  12.9 |        64 |              |         +2.22 |
 |   32 | Daniel Isaacson    |  12.9 |         4 |              |               |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
@@ -45,6 +45,6 @@ Generated 2017-12-08.
 |   41 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
 |   42 | Zsolt Bartha       |   4.4 |        72 |              |         +0.02 |
 |   43 | Ryan van der Harst |   4.2 |         5 |              |               |
-|   44 | Joanna Majkowski   |   2.7 |         9 |              |               |
+|   44 | Joanna Majkowski   |   4.0 |        10 |        +1.32 |               |
 |   45 | Stephen Harrell    |   1.2 |         1 |              |               |
 |   46 | Duncan MacRae      |   0.7 |        37 |              |         +7.00 |

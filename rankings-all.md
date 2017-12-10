@@ -1,4 +1,4 @@
-Generated 2017-12-08.
+Generated 2017-12-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -325,8 +325,8 @@ Generated 2017-12-08.
 |  321 | Jake Toy                  |  13.4 |         5 |              |               |
 |  322 | Meldan Heaslip            |  13.4 |        45 |              |         +3.02 |
 |  323 | Danielle Craig            |  13.3 |         3 |              |               |
-|  324 | Kent Daniels              |  13.3 |       120 |              |         -1.40 |
-|  325 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  324 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  325 | Kent Daniels              |  13.2 |       121 |        -0.08 |         -1.49 |
 |  326 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  327 | Field Maloney             |  13.1 |        24 |              |               |
 |  328 | Saumil Chheda             |  13.0 |         1 |              |               |
@@ -461,16 +461,16 @@ Generated 2017-12-08.
 |  457 | Anuj Dawar                |   4.2 |        15 |              |         +1.38 |
 |  458 | Ryan van der Harst        |   4.2 |         5 |              |               |
 |  459 | Annie Wong                |   4.0 |         3 |              |               |
-|  460 | Ryan                      |   4.0 |         3 |              |               |
-|  461 | Mateo Aceves              |   3.8 |         4 |              |               |
-|  462 | Nakul Vakil               |   3.0 |         5 |              |               |
-|  463 | Maria Garzon              |   3.0 |         5 |              |               |
-|  464 | Nadir Shams               |   3.0 |         2 |              |               |
-|  465 | Ji Seop Oh                |   2.9 |         2 |              |               |
-|  466 | Saijoscha Heck            |   2.9 |         6 |              |               |
-|  467 | Sagar Pilania             |   2.8 |         2 |              |               |
-|  468 | Pedrum Mohageri           |   2.7 |         8 |              |               |
-|  469 | Joanna Majkowski          |   2.7 |         9 |              |               |
+|  460 | Joanna Majkowski          |   4.0 |        10 |        +1.32 |               |
+|  461 | Ryan                      |   4.0 |         3 |              |               |
+|  462 | Mateo Aceves              |   3.8 |         4 |              |               |
+|  463 | Nakul Vakil               |   3.0 |         5 |              |               |
+|  464 | Maria Garzon              |   3.0 |         5 |              |               |
+|  465 | Nadir Shams               |   3.0 |         2 |              |               |
+|  466 | Ji Seop Oh                |   2.9 |         2 |              |               |
+|  467 | Saijoscha Heck            |   2.9 |         6 |              |               |
+|  468 | Sagar Pilania             |   2.8 |         2 |              |               |
+|  469 | Pedrum Mohageri           |   2.7 |         8 |              |               |
 |  470 | David Vogel               |   2.6 |         7 |              |               |
 |  471 | Xavier Vendrell           |   2.5 |         3 |              |               |
 |  472 | Cristhian Daniel          |   2.3 |        19 |              |         -0.20 |
