@@ -30,10 +30,10 @@ Generated 2017-12-11.
 |   26 | Romit Chakraborty  |  15.8 |         4 |              |               |
 |   27 | Craig Hollow       |  15.5 |        41 |              |        +13.47 |
 |   28 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
-|   29 | Meldan Heaslip     |  13.4 |        45 |              |         +3.02 |
-|   30 | Kent Daniels       |  13.2 |       121 |        -0.08 |         -1.49 |
-|   31 | Josh Lebowitz      |  12.9 |        64 |              |         +2.22 |
-|   32 | Daniel Isaacson    |  12.9 |         4 |              |               |
+|   29 | Daniel Isaacson    |  13.5 |         5 |        +0.66 |               |
+|   30 | Meldan Heaslip     |  13.4 |        45 |              |         +3.02 |
+|   31 | Kent Daniels       |  13.2 |       121 |        -0.08 |         -1.49 |
+|   32 | Josh Lebowitz      |  12.9 |        64 |              |         +2.22 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
 |   34 | Sara Bamberger     |  11.7 |        12 |              |               |
 |   35 | Caroline Palmer    |  10.9 |         8 |              |               |
@@ -45,6 +45,6 @@ Generated 2017-12-11.
 |   41 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
 |   42 | Zsolt Bartha       |   4.4 |        72 |              |         +0.02 |
 |   43 | Ryan van der Harst |   4.2 |         5 |              |               |
-|   44 | Joanna Majkowski   |   4.0 |        10 |        +1.32 |               |
+|   44 | Joanna Majkowski   |   3.9 |        11 |        +1.25 |               |
 |   45 | Stephen Harrell    |   1.2 |         1 |              |               |
 |   46 | Duncan MacRae      |   0.7 |        37 |              |         +7.00 |

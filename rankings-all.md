@@ -318,22 +318,22 @@ Generated 2017-12-11.
 |  314 | Tim Browning              |  13.8 |         7 |              |               |
 |  315 | Josephine Lee             |  13.7 |         6 |              |               |
 |  316 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  317 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  318 | Lars Foleide              |  13.5 |        11 |              |               |
-|  319 | Alex Rennet               |  13.5 |         2 |              |               |
-|  320 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  321 | Jake Toy                  |  13.4 |         5 |              |               |
-|  322 | Meldan Heaslip            |  13.4 |        45 |              |         +3.02 |
-|  323 | Danielle Craig            |  13.3 |         3 |              |               |
-|  324 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  325 | Kent Daniels              |  13.2 |       121 |        -0.08 |         -1.49 |
-|  326 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  327 | Field Maloney             |  13.1 |        24 |              |               |
-|  328 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  329 | Lewis Moore               |  13.0 |        69 |              |               |
-|  330 | Josh Lebowitz             |  12.9 |        64 |              |         +2.22 |
-|  331 | David Isaksson            |  12.9 |        22 |              |               |
-|  332 | Daniel Isaacson           |  12.9 |         4 |              |               |
+|  317 | Daniel Isaacson           |  13.5 |         5 |        +0.66 |               |
+|  318 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  319 | Lars Foleide              |  13.5 |        11 |              |               |
+|  320 | Alex Rennet               |  13.5 |         2 |              |               |
+|  321 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  322 | Jake Toy                  |  13.4 |         5 |              |               |
+|  323 | Meldan Heaslip            |  13.4 |        45 |              |         +3.02 |
+|  324 | Danielle Craig            |  13.3 |         3 |              |               |
+|  325 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  326 | Kent Daniels              |  13.2 |       121 |        -0.08 |         -1.49 |
+|  327 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  328 | Field Maloney             |  13.1 |        24 |              |               |
+|  329 | Saumil Chheda             |  13.0 |         1 |              |               |
+|  330 | Lewis Moore               |  13.0 |        69 |              |               |
+|  331 | Josh Lebowitz             |  12.9 |        64 |              |         +2.22 |
+|  332 | David Isaksson            |  12.9 |        22 |              |               |
 |  333 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  334 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
 |  335 | Ashley Brooks             |  12.7 |         2 |              |               |
@@ -461,8 +461,8 @@ Generated 2017-12-11.
 |  457 | Anuj Dawar                |   4.2 |        15 |              |         +1.38 |
 |  458 | Ryan van der Harst        |   4.2 |         5 |              |               |
 |  459 | Annie Wong                |   4.0 |         3 |              |               |
-|  460 | Joanna Majkowski          |   4.0 |        10 |        +1.32 |               |
-|  461 | Ryan                      |   4.0 |         3 |              |               |
+|  460 | Ryan                      |   4.0 |         3 |              |               |
+|  461 | Joanna Majkowski          |   3.9 |        11 |        +1.25 |               |
 |  462 | Mateo Aceves              |   3.8 |         4 |              |               |
 |  463 | Nakul Vakil               |   3.0 |         5 |              |               |
 |  464 | Maria Garzon              |   3.0 |         5 |              |               |
