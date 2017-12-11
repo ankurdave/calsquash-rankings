@@ -1,4 +1,4 @@
-Generated 2017-12-09.
+Generated 2017-12-11.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -6,8 +6,8 @@ Generated 2017-12-09.
 |    2 | Thomas Lowish             |  34.8 |        14 |              |               |
 |    3 | Robert Lynn               |  34.4 |         7 |              |               |
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
-|    5 | Dominic Gaffney           |  33.4 |        54 |              |               |
-|    6 | Eric Katerman             |  33.4 |        70 |        -0.35 |         +1.54 |
+|    5 | Eric Katerman             |  33.5 |        71 |        -0.25 |         +1.64 |
+|    6 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    7 | Ashley Kayler             |  33.1 |       236 |              |         -1.91 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
@@ -34,8 +34,8 @@ Generated 2017-12-09.
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   31 | Anibhav Singla            |  28.2 |        37 |              |         +5.94 |
 |   32 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   33 | Thomas Littleton          |  27.6 |        22 |              |               |
-|   34 | Grant French              |  27.5 |       125 |              |               |
+|   33 | Grant French              |  27.5 |       125 |              |               |
+|   34 | Thomas Littleton          |  27.4 |        23 |        -0.14 |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
 |   37 | Hussain Raza              |  27.0 |        50 |              |               |
