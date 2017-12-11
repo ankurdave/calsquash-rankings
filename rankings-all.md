@@ -106,16 +106,16 @@ Generated 2017-12-11.
 |  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
 |  103 | Joe Farrell               |  23.0 |        30 |              |               |
 |  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Andrew Pritchard          |  22.7 |        16 |              |               |
-|  106 | Bhuvan Jain               |  22.7 |        18 |              |               |
-|  107 | Julian Marshall           |  22.7 |        31 |              |               |
-|  108 | Dan Bohn                  |  22.6 |       120 |              |         -0.49 |
-|  109 | Gautam Tankha             |  22.6 |         7 |              |               |
-|  110 | Dev Millstein             |  22.6 |        92 |              |               |
-|  111 | Sardar Nauman             |  22.4 |         4 |              |               |
-|  112 | Zarah Rahman              |  22.4 |        13 |              |               |
-|  113 | Sunil Bhave               |  22.3 |        26 |              |               |
-|  114 | Matthew Bond              |  22.3 |        10 |        +1.43 |               |
+|  105 | Matthew Bond              |  22.9 |        11 |        +2.08 |               |
+|  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
+|  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
+|  108 | Julian Marshall           |  22.7 |        31 |              |               |
+|  109 | Dan Bohn                  |  22.6 |       120 |              |         -0.49 |
+|  110 | Gautam Tankha             |  22.6 |         7 |              |               |
+|  111 | Dev Millstein             |  22.6 |        92 |              |               |
+|  112 | Sardar Nauman             |  22.4 |         4 |              |               |
+|  113 | Zarah Rahman              |  22.4 |        13 |              |               |
+|  114 | Sunil Bhave               |  22.3 |        26 |              |               |
 |  115 | Dan Meier                 |  22.2 |        88 |              |         -0.55 |
 |  116 | Robert Geiger             |  22.2 |         8 |              |               |
 |  117 | Aaron Socha               |  22.2 |        24 |              |               |
@@ -139,11 +139,11 @@ Generated 2017-12-11.
 |  135 | Tim Bruckner              |  21.7 |        10 |              |               |
 |  136 | Jonathan Hankar           |  21.6 |       225 |        -0.06 |         -0.73 |
 |  137 | Dante Popple              |  21.5 |        17 |              |               |
-|  138 | Reid Johnsen              |  21.4 |        59 |              |         -0.61 |
-|  139 | Ian Lunt                  |  21.3 |         9 |              |               |
-|  140 | Thomas Krussig            |  21.3 |        16 |              |               |
-|  141 | Adam Jacob                |  21.3 |         3 |              |               |
-|  142 | Vishal Jain               |  21.3 |         6 |              |               |
+|  138 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  139 | Thomas Krussig            |  21.3 |        16 |              |               |
+|  140 | Adam Jacob                |  21.3 |         3 |              |               |
+|  141 | Vishal Jain               |  21.3 |         6 |              |               |
+|  142 | Reid Johnsen              |  21.2 |        60 |        -0.18 |         -0.79 |
 |  143 | Casey Harelson            |  21.2 |        20 |              |               |
 |  144 | Philip Bildner            |  21.2 |        22 |              |               |
 |  145 | Darren Morgan             |  21.2 |        11 |              |               |

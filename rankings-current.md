@@ -12,9 +12,9 @@ Generated 2017-12-11.
 |    8 | Jim Veitch         |  24.6 |       474 |              |         -0.30 |
 |    9 | Matt Wong          |  24.0 |       109 |              |         +0.41 |
 |   10 | Aditya Guntuboyina |  23.9 |        84 |              |         +0.66 |
-|   11 | Matthew Bond       |  22.3 |        10 |        +1.43 |               |
+|   11 | Matthew Bond       |  22.9 |        11 |        +2.08 |               |
 |   12 | Jonathan Hankar    |  21.6 |       225 |        -0.06 |         -0.73 |
-|   13 | Reid Johnsen       |  21.4 |        59 |              |         -0.61 |
+|   13 | Reid Johnsen       |  21.2 |        60 |        -0.18 |         -0.79 |
 |   14 | Jared Bard         |  21.1 |        47 |        -0.21 |         +0.66 |
 |   15 | Mark Modera        |  20.6 |       345 |              |         -0.21 |
 |   16 | Ankur Dave         |  20.0 |        97 |              |         +4.50 |
