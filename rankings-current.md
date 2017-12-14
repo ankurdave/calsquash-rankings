@@ -29,10 +29,10 @@ Generated 2017-12-14.
 |   25 | Terry Chang        |  15.8 |        48 |              |               |
 |   26 | Romit Chakraborty  |  15.8 |         4 |              |               |
 |   27 | Craig Hollow       |  15.5 |        41 |              |        +13.47 |
-|   28 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
-|   29 | Daniel Isaacson    |  13.5 |         5 |        +0.66 |               |
+|   28 | Daniel Isaacson    |  14.2 |         6 |        +1.32 |               |
+|   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
 |   30 | Meldan Heaslip     |  13.4 |        45 |              |         +3.02 |
-|   31 | Kent Daniels       |  13.2 |       121 |        -0.08 |         -1.49 |
+|   31 | Kent Daniels       |  13.3 |       122 |        -0.06 |         -1.47 |
 |   32 | Josh Lebowitz      |  12.9 |        64 |              |         +2.22 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
 |   34 | Sara Bamberger     |  11.7 |        12 |              |               |

@@ -308,17 +308,17 @@ Generated 2017-12-14.
 |  304 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  305 | Adam Soliman              |  14.2 |        32 |              |               |
 |  306 | Charles Denby             |  14.2 |         5 |              |               |
-|  307 | Diego Butrich             |  14.1 |        24 |              |         -0.44 |
-|  308 | Neil Sachs                |  14.1 |        12 |              |               |
-|  309 | Rupert Myers              |  14.0 |        27 |              |               |
-|  310 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
-|  311 | Mekoce Walker             |  13.8 |        38 |              |               |
-|  312 | Gurj Johal                |  13.8 |         2 |              |               |
-|  313 | Freeden Ouer              |  13.8 |         1 |              |               |
-|  314 | Tim Browning              |  13.8 |         7 |              |               |
-|  315 | Josephine Lee             |  13.7 |         6 |              |               |
-|  316 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  317 | Daniel Isaacson           |  13.5 |         5 |        +0.66 |               |
+|  307 | Daniel Isaacson           |  14.2 |         6 |        +1.32 |               |
+|  308 | Diego Butrich             |  14.1 |        24 |              |         -0.44 |
+|  309 | Neil Sachs                |  14.1 |        12 |              |               |
+|  310 | Rupert Myers              |  14.0 |        27 |              |               |
+|  311 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
+|  312 | Mekoce Walker             |  13.8 |        38 |              |               |
+|  313 | Gurj Johal                |  13.8 |         2 |              |               |
+|  314 | Freeden Ouer              |  13.8 |         1 |              |               |
+|  315 | Tim Browning              |  13.8 |         7 |              |               |
+|  316 | Josephine Lee             |  13.7 |         6 |              |               |
+|  317 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  318 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  319 | Lars Foleide              |  13.5 |        11 |              |               |
 |  320 | Alex Rennet               |  13.5 |         2 |              |               |
@@ -326,8 +326,8 @@ Generated 2017-12-14.
 |  322 | Jake Toy                  |  13.4 |         5 |              |               |
 |  323 | Meldan Heaslip            |  13.4 |        45 |              |         +3.02 |
 |  324 | Danielle Craig            |  13.3 |         3 |              |               |
-|  325 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  326 | Kent Daniels              |  13.2 |       121 |        -0.08 |         -1.49 |
+|  325 | Kent Daniels              |  13.3 |       122 |        -0.06 |         -1.47 |
+|  326 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  327 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  328 | Field Maloney             |  13.1 |        24 |              |               |
 |  329 | Saumil Chheda             |  13.0 |         1 |              |               |
