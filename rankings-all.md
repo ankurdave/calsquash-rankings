@@ -1,4 +1,4 @@
-Generated 2017-12-14.
+Generated 2017-12-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -32,7 +32,7 @@ Generated 2017-12-14.
 |   28 | David Woo                 |  28.7 |        11 |              |               |
 |   29 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   30 | Mikael Rehn               |  28.3 |         5 |              |               |
-|   31 | Anibhav Singla            |  28.2 |        37 |              |         +5.94 |
+|   31 | Anibhav Singla            |  28.2 |        38 |        +0.02 |         +5.97 |
 |   32 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Thomas Littleton          |  27.4 |        23 |        -0.14 |               |
@@ -73,7 +73,7 @@ Generated 2017-12-14.
 |   69 | Orion Hodson              |  24.8 |        31 |              |               |
 |   70 | Martin Stokes             |  24.7 |        12 |              |               |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   72 | Jim Veitch                |  24.6 |       474 |              |         -0.30 |
+|   72 | Jim Veitch                |  24.6 |       475 |              |         -0.29 |
 |   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |
@@ -331,8 +331,8 @@ Generated 2017-12-14.
 |  327 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  328 | Field Maloney             |  13.1 |        24 |              |               |
 |  329 | Saumil Chheda             |  13.0 |         1 |              |               |
-|  330 | Lewis Moore               |  13.0 |        69 |              |               |
-|  331 | Josh Lebowitz             |  12.9 |        64 |              |         +2.22 |
+|  330 | Josh Lebowitz             |  13.0 |        65 |        +0.09 |         +2.31 |
+|  331 | Lewis Moore               |  13.0 |        69 |              |               |
 |  332 | David Isaksson            |  12.9 |        22 |              |               |
 |  333 | Suluck Chaturabul         |  12.7 |         2 |              |               |
 |  334 | Aadityeshwar Deo          |  12.7 |         1 |              |               |
@@ -369,10 +369,10 @@ Generated 2017-12-14.
 |  365 | Brian Puglise             |  10.4 |         2 |              |               |
 |  366 | Lewis H. Moore            |  10.3 |         8 |              |               |
 |  367 | Prasad Santhanam          |  10.3 |         7 |              |               |
-|  368 | Terence Stotz             |  10.3 |        19 |              |               |
-|  369 | John Provine              |  10.2 |        16 |              |               |
-|  370 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  371 | Vishesh Dalal             |  10.2 |        11 |        -0.26 |               |
+|  368 | John Provine              |  10.2 |        16 |              |               |
+|  369 | Anthony Patterson         |  10.2 |         6 |              |               |
+|  370 | Vishesh Dalal             |  10.2 |        11 |        -0.26 |               |
+|  371 | Terence Stotz             |  10.2 |        20 |        -0.05 |               |
 |  372 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  373 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  374 | Sung-Jin Oh               |  10.1 |         6 |              |               |

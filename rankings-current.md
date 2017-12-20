@@ -1,4 +1,4 @@
-Generated 2017-12-14.
+Generated 2017-12-20.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -6,10 +6,10 @@ Generated 2017-12-14.
 |    2 | Ashley Kayler      |  33.1 |       236 |              |         -1.91 |
 |    3 | Sam Sternberg      |  31.1 |       169 |              |         +1.06 |
 |    4 | Nick Cobbett       |  29.2 |        57 |        +0.40 |         +2.34 |
-|    5 | Anibhav Singla     |  28.2 |        37 |              |         +5.94 |
+|    5 | Anibhav Singla     |  28.2 |        38 |        +0.02 |         +5.97 |
 |    6 | Thomas Littleton   |  27.4 |        23 |        -0.14 |               |
 |    7 | John Kunze         |  24.9 |       346 |              |         +0.68 |
-|    8 | Jim Veitch         |  24.6 |       474 |              |         -0.30 |
+|    8 | Jim Veitch         |  24.6 |       475 |              |         -0.29 |
 |    9 | Matt Wong          |  24.0 |       109 |              |         +0.41 |
 |   10 | Aditya Guntuboyina |  23.9 |        84 |              |         +0.66 |
 |   11 | Matthew Bond       |  22.9 |        11 |        +2.08 |               |
@@ -33,12 +33,12 @@ Generated 2017-12-14.
 |   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
 |   30 | Meldan Heaslip     |  13.4 |        45 |              |         +3.02 |
 |   31 | Kent Daniels       |  13.3 |       122 |        -0.06 |         -1.47 |
-|   32 | Josh Lebowitz      |  12.9 |        64 |              |         +2.22 |
+|   32 | Josh Lebowitz      |  13.0 |        65 |        +0.09 |         +2.31 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
 |   34 | Sara Bamberger     |  11.7 |        12 |              |               |
 |   35 | Caroline Palmer    |  10.9 |         8 |              |               |
-|   36 | Terence Stotz      |  10.3 |        19 |              |               |
-|   37 | Vishesh Dalal      |  10.2 |        11 |        -0.26 |               |
+|   36 | Vishesh Dalal      |  10.2 |        11 |        -0.26 |               |
+|   37 | Terence Stotz      |  10.2 |        20 |        -0.05 |               |
 |   38 | Manuel Coquet      |   9.5 |         9 |              |               |
 |   39 | Rashid Hameed      |   9.5 |         7 |              |               |
 |   40 | Brian Kempenich    |   8.2 |        59 |              |         -0.34 |
