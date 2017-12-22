@@ -1,4 +1,4 @@
-Generated 2017-12-20.
+Generated 2017-12-22.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -222,9 +222,9 @@ Generated 2017-12-20.
 |  218 | Dror Matalon              |  18.2 |       381 |              |         -0.04 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
 |  220 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  221 | James Chung               |  17.9 |         7 |              |               |
-|  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  223 | Josh Trauner              |  17.9 |        73 |              |         +0.19 |
+|  221 | Josh Trauner              |  18.0 |        74 |        +0.15 |         +0.34 |
+|  222 | James Chung               |  17.9 |         7 |              |               |
+|  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  224 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
 |  225 | Troup Howard              |  17.8 |        47 |              |         +0.12 |
 |  226 | Nick Paget                |  17.8 |        35 |              |               |
@@ -245,10 +245,10 @@ Generated 2017-12-20.
 |  241 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  242 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  243 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  244 | Sahar Sareminaeni         |  17.1 |        52 |              |         +1.55 |
-|  245 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  246 | Neil Conway               |  17.0 |        55 |              |               |
-|  247 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  244 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  245 | Neil Conway               |  17.0 |        55 |              |               |
+|  246 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  247 | Sahar Sareminaeni         |  16.9 |        53 |        -0.13 |         +1.43 |
 |  248 | Baxter Leman              |  16.9 |         6 |              |               |
 |  249 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  250 | Allan Dafoe               |  16.8 |        43 |              |               |

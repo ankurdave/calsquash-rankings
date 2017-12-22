@@ -1,4 +1,4 @@
-Generated 2017-12-20.
+Generated 2017-12-22.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -22,8 +22,8 @@ Generated 2017-12-20.
 |   18 | Mike Jensen-Akula  |  19.2 |       240 |              |         -1.40 |
 |   19 | Jaime Perez        |  18.9 |        37 |              |         -0.43 |
 |   20 | Dror Matalon       |  18.2 |       381 |              |         -0.04 |
-|   21 | Josh Trauner       |  17.9 |        73 |              |         +0.19 |
-|   22 | Sahar Sareminaeni  |  17.1 |        52 |              |         +1.55 |
+|   21 | Josh Trauner       |  18.0 |        74 |        +0.15 |         +0.34 |
+|   22 | Sahar Sareminaeni  |  16.9 |        53 |        -0.13 |         +1.43 |
 |   23 | David Bratt        |  16.4 |        32 |              |         -0.17 |
 |   24 | Karan Goyal        |  15.9 |        21 |              |               |
 |   25 | Terry Chang        |  15.8 |        48 |              |               |
