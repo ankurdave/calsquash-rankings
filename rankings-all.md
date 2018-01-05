@@ -1,4 +1,4 @@
-Generated 2018-01-01.
+Generated 2018-01-05.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -200,9 +200,9 @@ Generated 2018-01-01.
 |  196 | Yating Liu                |  19.0 |         7 |              |               |
 |  197 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  198 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  199 | Jaime Perez               |  18.9 |        37 |              |         -0.43 |
-|  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  201 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  201 | Jaime Perez               |  18.8 |        38 |        -0.12 |         -0.55 |
 |  202 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  203 | Peter Dering              |  18.7 |         9 |              |               |
 |  204 | Sushant Jain              |  18.7 |        12 |              |               |
@@ -221,8 +221,8 @@ Generated 2018-01-01.
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Dror Matalon              |  18.2 |       381 |              |         -0.04 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
-|  220 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  221 | Josh Trauner              |  18.0 |        74 |        +0.15 |         +0.34 |
+|  220 | Josh Trauner              |  18.1 |        75 |        +0.30 |         +0.49 |
+|  221 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  222 | James Chung               |  17.9 |         7 |              |               |
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  224 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
@@ -248,7 +248,7 @@ Generated 2018-01-01.
 |  244 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  245 | Neil Conway               |  17.0 |        55 |              |               |
 |  246 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  247 | Sahar Sareminaeni         |  16.9 |        53 |        -0.13 |         +1.43 |
+|  247 | Sahar Sareminaeni         |  17.0 |        53 |        -0.12 |         +1.43 |
 |  248 | Baxter Leman              |  16.9 |         6 |              |               |
 |  249 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  250 | Allan Dafoe               |  16.8 |        43 |              |               |
