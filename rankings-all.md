@@ -1,4 +1,4 @@
-Generated 2018-01-07.
+Generated 2018-01-08.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -273,12 +273,12 @@ Generated 2018-01-07.
 |  269 | Romit Chakraborty         |  15.8 |         4 |              |               |
 |  270 | Louis Russell             |  15.8 |        20 |              |               |
 |  271 | Rich Shapiro              |  15.8 |        82 |              |               |
-|  272 | Jared Nunn                |  15.7 |         5 |              |               |
-|  273 | Akash Sharma              |  15.7 |         8 |              |               |
-|  274 | Angie Ng                  |  15.7 |        12 |              |               |
-|  275 | Tanit Follett             |  15.5 |         8 |              |               |
-|  276 | Toni Queck                |  15.5 |        20 |              |               |
-|  277 | Craig Hollow              |  15.5 |        41 |              |        +13.47 |
+|  272 | Craig Hollow              |  15.7 |        42 |        +0.23 |        +13.70 |
+|  273 | Jared Nunn                |  15.7 |         5 |              |               |
+|  274 | Akash Sharma              |  15.7 |         8 |              |               |
+|  275 | Angie Ng                  |  15.7 |        12 |              |               |
+|  276 | Tanit Follett             |  15.5 |         8 |              |               |
+|  277 | Toni Queck                |  15.5 |        20 |              |               |
 |  278 | Marco Gonzalez-Navarro    |  15.4 |        32 |              |               |
 |  279 | Peter Duerr               |  15.4 |        24 |              |               |
 |  280 | Kevin Fox                 |  15.3 |         7 |              |               |
@@ -324,11 +324,11 @@ Generated 2018-01-07.
 |  320 | Alex Rennet               |  13.5 |         2 |              |               |
 |  321 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  322 | Jake Toy                  |  13.4 |         5 |              |               |
-|  323 | Meldan Heaslip            |  13.4 |        45 |              |         +3.02 |
-|  324 | Danielle Craig            |  13.3 |         3 |              |               |
-|  325 | Kent Daniels              |  13.3 |       122 |        -0.06 |         -1.47 |
-|  326 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  327 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  323 | Danielle Craig            |  13.3 |         3 |              |               |
+|  324 | Kent Daniels              |  13.3 |       122 |        -0.06 |         -1.47 |
+|  325 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  326 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  327 | Meldan Heaslip            |  13.2 |        46 |        -0.19 |         +2.83 |
 |  328 | Field Maloney             |  13.1 |        24 |              |               |
 |  329 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  330 | Josh Lebowitz             |  13.0 |        65 |        +0.09 |         +2.31 |

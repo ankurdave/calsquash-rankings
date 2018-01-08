@@ -1,4 +1,4 @@
-Generated 2018-01-07.
+Generated 2018-01-08.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -28,11 +28,11 @@ Generated 2018-01-07.
 |   24 | Karan Goyal        |  15.9 |        21 |              |               |
 |   25 | Terry Chang        |  15.8 |        48 |              |               |
 |   26 | Romit Chakraborty  |  15.8 |         4 |              |               |
-|   27 | Craig Hollow       |  15.5 |        41 |              |        +13.47 |
+|   27 | Craig Hollow       |  15.7 |        42 |        +0.23 |        +13.70 |
 |   28 | Daniel Isaacson    |  14.2 |         6 |        +1.32 |               |
 |   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
-|   30 | Meldan Heaslip     |  13.4 |        45 |              |         +3.02 |
-|   31 | Kent Daniels       |  13.3 |       122 |        -0.06 |         -1.47 |
+|   30 | Kent Daniels       |  13.3 |       122 |        -0.06 |         -1.47 |
+|   31 | Meldan Heaslip     |  13.2 |        46 |        -0.19 |         +2.83 |
 |   32 | Josh Lebowitz      |  13.0 |        65 |        +0.09 |         +2.31 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
 |   34 | Sara Bamberger     |  11.7 |        12 |              |               |
