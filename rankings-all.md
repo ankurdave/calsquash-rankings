@@ -158,8 +158,8 @@ Generated 2018-01-08.
 |  154 | Jamie Funk                |  20.8 |        30 |              |               |
 |  155 | Matthew Brett             |  20.7 |        20 |              |               |
 |  156 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  157 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  158 | Mark Modera               |  20.6 |       345 |              |         -0.21 |
+|  157 | Mark Modera               |  20.6 |       346 |        +0.06 |         -0.15 |
+|  158 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  159 | Natalie Bratwood          |  20.5 |         5 |              |               |
 |  160 | Prakash Bathini           |  20.5 |       123 |              |               |
 |  161 | Leor Lovinger             |  20.5 |         6 |              |               |
@@ -221,7 +221,7 @@ Generated 2018-01-08.
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Dror Matalon              |  18.2 |       381 |              |         -0.04 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
-|  220 | Josh Trauner              |  18.1 |        75 |        +0.30 |         +0.49 |
+|  220 | Josh Trauner              |  18.1 |        76 |        +0.24 |         +0.43 |
 |  221 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  222 | James Chung               |  17.9 |         7 |              |               |
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |

@@ -16,13 +16,13 @@ Generated 2018-01-08.
 |   12 | Jared Bard         |  21.4 |        48 |        +0.10 |         +0.96 |
 |   13 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |
 |   14 | Reid Johnsen       |  21.2 |        60 |        -0.18 |         -0.79 |
-|   15 | Mark Modera        |  20.6 |       345 |              |         -0.21 |
+|   15 | Mark Modera        |  20.6 |       346 |        +0.06 |         -0.15 |
 |   16 | Ankur Dave         |  20.0 |        97 |              |         +4.50 |
 |   17 | Anthony Abel       |  19.5 |        19 |              |               |
 |   18 | Mike Jensen-Akula  |  19.2 |       240 |              |         -1.40 |
 |   19 | Jaime Perez        |  18.8 |        38 |        -0.12 |         -0.55 |
 |   20 | Dror Matalon       |  18.2 |       381 |              |         -0.04 |
-|   21 | Josh Trauner       |  18.1 |        75 |        +0.30 |         +0.49 |
+|   21 | Josh Trauner       |  18.1 |        76 |        +0.24 |         +0.43 |
 |   22 | Sahar Sareminaeni  |  17.0 |        53 |        -0.12 |         +1.43 |
 |   23 | David Bratt        |  16.4 |        32 |              |         -0.17 |
 |   24 | Karan Goyal        |  15.9 |        21 |              |               |
