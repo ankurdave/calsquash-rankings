@@ -1,4 +1,4 @@
-Generated 2018-01-05.
+Generated 2018-01-07.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -13,9 +13,9 @@ Generated 2018-01-05.
 |    9 | Matt Wong          |  24.0 |       109 |              |         +0.41 |
 |   10 | Aditya Guntuboyina |  23.9 |        84 |              |         +0.66 |
 |   11 | Matthew Bond       |  22.9 |        11 |        +2.08 |               |
-|   12 | Jonathan Hankar    |  21.6 |       225 |        -0.06 |         -0.73 |
-|   13 | Reid Johnsen       |  21.2 |        60 |        -0.18 |         -0.79 |
-|   14 | Jared Bard         |  21.1 |        47 |        -0.21 |         +0.66 |
+|   12 | Jared Bard         |  21.4 |        48 |        +0.10 |         +0.96 |
+|   13 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |
+|   14 | Reid Johnsen       |  21.2 |        60 |        -0.18 |         -0.79 |
 |   15 | Mark Modera        |  20.6 |       345 |              |         -0.21 |
 |   16 | Ankur Dave         |  20.0 |        97 |              |         +4.50 |
 |   17 | Anthony Abel       |  19.5 |        19 |              |               |
