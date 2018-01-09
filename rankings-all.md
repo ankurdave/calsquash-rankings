@@ -158,13 +158,13 @@ Generated 2018-01-08.
 |  154 | Jamie Funk                |  20.8 |        30 |              |               |
 |  155 | Matthew Brett             |  20.7 |        20 |              |               |
 |  156 | Jeff Bird                 |  20.7 |        38 |              |               |
-|  157 | Mark Modera               |  20.6 |       346 |        +0.06 |         -0.15 |
-|  158 | Andres Ramirez            |  20.6 |         8 |              |               |
-|  159 | Natalie Bratwood          |  20.5 |         5 |              |               |
-|  160 | Prakash Bathini           |  20.5 |       123 |              |               |
-|  161 | Leor Lovinger             |  20.5 |         6 |              |               |
-|  162 | Andrew Green              |  20.5 |        52 |              |               |
-|  163 | Steven Sloman             |  20.4 |        10 |              |               |
+|  157 | Andres Ramirez            |  20.6 |         8 |              |               |
+|  158 | Natalie Bratwood          |  20.5 |         5 |              |               |
+|  159 | Prakash Bathini           |  20.5 |       123 |              |               |
+|  160 | Leor Lovinger             |  20.5 |         6 |              |               |
+|  161 | Andrew Green              |  20.5 |        52 |              |               |
+|  162 | Steven Sloman             |  20.4 |        10 |              |               |
+|  163 | Mark Modera               |  20.4 |       347 |        -0.16 |         -0.37 |
 |  164 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
 |  165 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
 |  166 | Anirudh Todi              |  20.3 |         3 |              |               |
@@ -198,11 +198,11 @@ Generated 2018-01-08.
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  195 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  196 | Yating Liu                |  19.0 |         7 |              |               |
-|  197 | Ronald Dahl               |  18.9 |        51 |              |               |
-|  198 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  200 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  201 | Jaime Perez               |  18.8 |        38 |        -0.12 |         -0.55 |
+|  197 | Jaime Perez               |  19.0 |        39 |        +0.14 |         -0.29 |
+|  198 | Ronald Dahl               |  18.9 |        51 |              |               |
+|  199 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
+|  201 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  202 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  203 | Peter Dering              |  18.7 |         9 |              |               |
 |  204 | Sushant Jain              |  18.7 |        12 |              |               |
@@ -221,7 +221,7 @@ Generated 2018-01-08.
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Dror Matalon              |  18.2 |       381 |              |         -0.04 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
-|  220 | Josh Trauner              |  18.1 |        76 |        +0.24 |         +0.43 |
+|  220 | Josh Trauner              |  18.1 |        76 |        +0.25 |         +0.45 |
 |  221 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  222 | James Chung               |  17.9 |         7 |              |               |
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
@@ -248,7 +248,7 @@ Generated 2018-01-08.
 |  244 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  245 | Neil Conway               |  17.0 |        55 |              |               |
 |  246 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  247 | Sahar Sareminaeni         |  17.0 |        53 |        -0.12 |         +1.43 |
+|  247 | Sahar Sareminaeni         |  16.9 |        53 |        -0.13 |         +1.43 |
 |  248 | Baxter Leman              |  16.9 |         6 |              |               |
 |  249 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  250 | Allan Dafoe               |  16.8 |        43 |              |               |
