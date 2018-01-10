@@ -1,4 +1,4 @@
-Generated 2018-01-08.
+Generated 2018-01-09.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -221,8 +221,8 @@ Generated 2018-01-08.
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Dror Matalon              |  18.2 |       381 |              |         -0.04 |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
-|  220 | Josh Trauner              |  18.1 |        76 |        +0.25 |         +0.45 |
-|  221 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  220 | Jamie Paterson            |  18.1 |         4 |              |               |
+|  221 | Josh Trauner              |  18.1 |        77 |        +0.21 |         +0.40 |
 |  222 | James Chung               |  17.9 |         7 |              |               |
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  224 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
@@ -245,32 +245,32 @@ Generated 2018-01-08.
 |  241 | Wolfram Pohl              |  17.2 |        60 |              |               |
 |  242 | Zaid Shlah                |  17.2 |         8 |              |               |
 |  243 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  244 | Vipul Singhvi             |  17.1 |         8 |              |               |
-|  245 | Neil Conway               |  17.0 |        55 |              |               |
-|  246 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  247 | Sahar Sareminaeni         |  16.9 |        53 |        -0.13 |         +1.43 |
-|  248 | Baxter Leman              |  16.9 |         6 |              |               |
-|  249 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  250 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  251 | Wayne Heiser              |  16.7 |        61 |              |         -1.00 |
-|  252 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  253 | Chris Flores              |  16.7 |       327 |              |         +0.13 |
-|  254 | David Shabelman           |  16.7 |        30 |              |               |
-|  255 | Mark Priven               |  16.6 |        72 |              |               |
-|  256 | William Coleman           |  16.5 |        48 |              |               |
-|  257 | Mike Troxell              |  16.5 |         8 |              |               |
-|  258 | David Bratt               |  16.4 |        32 |              |         -0.17 |
-|  259 | Danish Mir                |  16.4 |         1 |              |               |
-|  260 | Paul Chang                |  16.3 |         7 |              |               |
-|  261 | Steven Hahm               |  16.3 |         5 |              |               |
-|  262 | Jules Bowie               |  16.3 |        12 |              |               |
-|  263 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  264 | Jan Strasky               |  16.2 |        12 |              |               |
-|  265 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  266 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  267 | Karan Goyal               |  15.9 |        21 |              |               |
-|  268 | Terry Chang               |  15.8 |        48 |              |               |
-|  269 | Romit Chakraborty         |  15.8 |         4 |              |               |
+|  244 | Romit Chakraborty         |  17.1 |         5 |        +1.27 |               |
+|  245 | Vipul Singhvi             |  17.1 |         8 |              |               |
+|  246 | Neil Conway               |  17.0 |        55 |              |               |
+|  247 | Michael Cianfrocco        |  17.0 |        18 |              |               |
+|  248 | Sahar Sareminaeni         |  16.9 |        53 |        -0.13 |         +1.42 |
+|  249 | Baxter Leman              |  16.9 |         6 |              |               |
+|  250 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  251 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  252 | Wayne Heiser              |  16.7 |        61 |              |         -1.00 |
+|  253 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  254 | Chris Flores              |  16.7 |       327 |              |         +0.13 |
+|  255 | David Shabelman           |  16.7 |        30 |              |               |
+|  256 | Mark Priven               |  16.6 |        72 |              |               |
+|  257 | William Coleman           |  16.5 |        48 |              |               |
+|  258 | Mike Troxell              |  16.5 |         8 |              |               |
+|  259 | David Bratt               |  16.4 |        32 |              |         -0.17 |
+|  260 | Danish Mir                |  16.4 |         1 |              |               |
+|  261 | Paul Chang                |  16.3 |         7 |              |               |
+|  262 | Steven Hahm               |  16.3 |         5 |              |               |
+|  263 | Jules Bowie               |  16.3 |        12 |              |               |
+|  264 | Wladislaw Ellis           |  16.2 |        29 |              |               |
+|  265 | Jan Strasky               |  16.2 |        12 |              |               |
+|  266 | Sarah Mcneil              |  16.2 |        24 |              |               |
+|  267 | Marc Bensadoun            |  16.1 |         5 |              |               |
+|  268 | Karan Goyal               |  15.9 |        21 |              |               |
+|  269 | Terry Chang               |  15.8 |        48 |              |               |
 |  270 | Louis Russell             |  15.8 |        20 |              |               |
 |  271 | Rich Shapiro              |  15.8 |        82 |              |               |
 |  272 | Craig Hollow              |  15.7 |        42 |        +0.23 |        +13.70 |

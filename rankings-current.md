@@ -1,4 +1,4 @@
-Generated 2018-01-08.
+Generated 2018-01-09.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -22,12 +22,12 @@ Generated 2018-01-08.
 |   18 | Mike Jensen-Akula  |  19.2 |       240 |              |         -1.40 |
 |   19 | Jaime Perez        |  19.0 |        39 |        +0.14 |         -0.29 |
 |   20 | Dror Matalon       |  18.2 |       381 |              |         -0.04 |
-|   21 | Josh Trauner       |  18.1 |        76 |        +0.25 |         +0.45 |
-|   22 | Sahar Sareminaeni  |  16.9 |        53 |        -0.13 |         +1.43 |
-|   23 | David Bratt        |  16.4 |        32 |              |         -0.17 |
-|   24 | Karan Goyal        |  15.9 |        21 |              |               |
-|   25 | Terry Chang        |  15.8 |        48 |              |               |
-|   26 | Romit Chakraborty  |  15.8 |         4 |              |               |
+|   21 | Josh Trauner       |  18.1 |        77 |        +0.21 |         +0.40 |
+|   22 | Romit Chakraborty  |  17.1 |         5 |        +1.27 |               |
+|   23 | Sahar Sareminaeni  |  16.9 |        53 |        -0.13 |         +1.42 |
+|   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
+|   25 | Karan Goyal        |  15.9 |        21 |              |               |
+|   26 | Terry Chang        |  15.8 |        48 |              |               |
 |   27 | Craig Hollow       |  15.7 |        42 |        +0.23 |        +13.70 |
 |   28 | Daniel Isaacson    |  14.2 |         6 |        +1.32 |               |
 |   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
