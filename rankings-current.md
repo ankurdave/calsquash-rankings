@@ -1,4 +1,4 @@
-Generated 2018-01-09.
+Generated 2018-01-12.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -21,19 +21,19 @@ Generated 2018-01-09.
 |   17 | Anthony Abel       |  19.5 |        19 |              |               |
 |   18 | Mike Jensen-Akula  |  19.2 |       240 |              |         -1.40 |
 |   19 | Jaime Perez        |  19.0 |        39 |        +0.14 |         -0.29 |
-|   20 | Dror Matalon       |  18.2 |       381 |              |         -0.04 |
-|   21 | Josh Trauner       |  18.1 |        77 |        +0.21 |         +0.40 |
+|   20 | Josh Trauner       |  18.1 |        77 |        +0.21 |         +0.40 |
+|   21 | Dror Matalon       |  17.8 |       382 |        -0.33 |         -0.37 |
 |   22 | Romit Chakraborty  |  17.1 |         5 |        +1.27 |               |
 |   23 | Sahar Sareminaeni  |  16.9 |        53 |        -0.13 |         +1.42 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
-|   25 | Karan Goyal        |  15.9 |        21 |              |               |
-|   26 | Terry Chang        |  15.8 |        48 |              |               |
-|   27 | Craig Hollow       |  15.7 |        42 |        +0.23 |        +13.70 |
+|   25 | Craig Hollow       |  16.1 |        43 |        +0.65 |        +14.12 |
+|   26 | Karan Goyal        |  15.9 |        21 |              |               |
+|   27 | Terry Chang        |  15.8 |        48 |              |               |
 |   28 | Daniel Isaacson    |  14.2 |         6 |        +1.32 |               |
 |   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
 |   30 | Kent Daniels       |  13.3 |       122 |        -0.06 |         -1.47 |
 |   31 | Meldan Heaslip     |  13.2 |        46 |        -0.19 |         +2.83 |
-|   32 | Josh Lebowitz      |  13.0 |        65 |        +0.09 |         +2.31 |
+|   32 | Josh Lebowitz      |  13.1 |        66 |        +0.12 |         +2.34 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
 |   34 | Sara Bamberger     |  11.7 |        12 |              |               |
 |   35 | Caroline Palmer    |  10.9 |         8 |              |               |
@@ -41,10 +41,10 @@ Generated 2018-01-09.
 |   37 | Terence Stotz      |  10.2 |        20 |        -0.05 |               |
 |   38 | Manuel Coquet      |   9.5 |         9 |              |               |
 |   39 | Rashid Hameed      |   9.5 |         7 |              |               |
-|   40 | Brian Kempenich    |   8.2 |        59 |              |         -0.34 |
-|   41 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
-|   42 | Zsolt Bartha       |   4.4 |        72 |              |         +0.02 |
-|   43 | Ryan van der Harst |   4.2 |         5 |              |               |
+|   40 | Ryan van der Harst |   8.6 |         6 |        +4.36 |               |
+|   41 | Brian Kempenich    |   8.2 |        59 |              |         -0.34 |
+|   42 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
+|   43 | Zsolt Bartha       |   4.4 |        72 |              |         +0.02 |
 |   44 | Joanna Majkowski   |   3.9 |        11 |        +1.25 |               |
 |   45 | Stephen Harrell    |   1.2 |         1 |              |               |
 |   46 | Duncan MacRae      |   0.7 |        37 |              |         +7.00 |
