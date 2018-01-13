@@ -163,7 +163,7 @@ Generated 2018-01-13.
 |  159 | Prakash Bathini           |  20.5 |       123 |              |               |
 |  160 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  161 | Andrew Green              |  20.5 |        52 |              |               |
-|  162 | Mark Modera               |  20.4 |       348 |        -0.12 |         -0.33 |
+|  162 | Mark Modera               |  20.5 |       348 |        -0.11 |         -0.32 |
 |  163 | Steven Sloman             |  20.4 |        10 |              |               |
 |  164 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
 |  165 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
@@ -196,9 +196,9 @@ Generated 2018-01-13.
 |  192 | John Corcoran             |  19.1 |        49 |              |               |
 |  193 | Kedar Shah                |  19.1 |         9 |              |               |
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  195 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  196 | Yating Liu                |  19.0 |         7 |              |               |
-|  197 | Jaime Perez               |  19.0 |        39 |        +0.14 |         -0.29 |
+|  195 | Jaime Perez               |  19.1 |        40 |        +0.16 |         -0.27 |
+|  196 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  197 | Yating Liu                |  19.0 |         7 |              |               |
 |  198 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  199 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
@@ -221,20 +221,20 @@ Generated 2018-01-13.
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Bob Roller                |  18.2 |         6 |              |               |
 |  219 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  220 | Josh Trauner              |  18.1 |        77 |        +0.21 |         +0.40 |
-|  221 | James Chung               |  17.9 |         7 |              |               |
-|  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  223 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
-|  224 | Troup Howard              |  17.8 |        47 |              |         +0.12 |
-|  225 | Dror Matalon              |  17.8 |       382 |        -0.33 |         -0.37 |
-|  226 | Nick Paget                |  17.8 |        35 |              |               |
-|  227 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  229 | George Roche              |  17.7 |        14 |              |               |
-|  230 | Jim Kingsbury             |  17.6 |         2 |              |               |
-|  231 | Subrato Dey               |  17.5 |        26 |              |               |
-|  232 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  233 | Romit Chakraborty         |  17.4 |         6 |        +1.65 |               |
+|  220 | Romit Chakraborty         |  18.1 |         7 |        +2.26 |               |
+|  221 | Josh Trauner              |  18.1 |        77 |        +0.21 |         +0.40 |
+|  222 | James Chung               |  17.9 |         7 |              |               |
+|  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  224 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
+|  225 | Troup Howard              |  17.8 |        47 |              |         +0.12 |
+|  226 | Dror Matalon              |  17.8 |       382 |        -0.33 |         -0.37 |
+|  227 | Nick Paget                |  17.8 |        35 |              |               |
+|  228 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  229 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  230 | George Roche              |  17.7 |        14 |              |               |
+|  231 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  232 | Subrato Dey               |  17.5 |        26 |              |               |
+|  233 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  234 | Sam Trachtman             |  17.4 |         5 |              |               |
 |  235 | Juliet Lamont             |  17.4 |        58 |              |               |
 |  236 | Craig Riddell             |  17.4 |         8 |              |               |

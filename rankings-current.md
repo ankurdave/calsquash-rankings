@@ -16,14 +16,14 @@ Generated 2018-01-13.
 |   12 | Jared Bard         |  21.4 |        48 |        +0.10 |         +0.96 |
 |   13 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |
 |   14 | Reid Johnsen       |  21.2 |        60 |        -0.18 |         -0.79 |
-|   15 | Mark Modera        |  20.4 |       348 |        -0.12 |         -0.33 |
+|   15 | Mark Modera        |  20.5 |       348 |        -0.11 |         -0.32 |
 |   16 | Ankur Dave         |  20.0 |        97 |              |         +4.50 |
 |   17 | Anthony Abel       |  19.5 |        19 |              |               |
 |   18 | Mike Jensen-Akula  |  19.2 |       240 |              |         -1.40 |
-|   19 | Jaime Perez        |  19.0 |        39 |        +0.14 |         -0.29 |
-|   20 | Josh Trauner       |  18.1 |        77 |        +0.21 |         +0.40 |
-|   21 | Dror Matalon       |  17.8 |       382 |        -0.33 |         -0.37 |
-|   22 | Romit Chakraborty  |  17.4 |         6 |        +1.65 |               |
+|   19 | Jaime Perez        |  19.1 |        40 |        +0.16 |         -0.27 |
+|   20 | Romit Chakraborty  |  18.1 |         7 |        +2.26 |               |
+|   21 | Josh Trauner       |  18.1 |        77 |        +0.21 |         +0.40 |
+|   22 | Dror Matalon       |  17.8 |       382 |        -0.33 |         -0.37 |
 |   23 | Sahar Sareminaeni  |  16.9 |        53 |        -0.13 |         +1.42 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
 |   25 | Craig Hollow       |  16.1 |        43 |        +0.65 |        +14.12 |
