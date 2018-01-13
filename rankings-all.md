@@ -1,4 +1,4 @@
-Generated 2018-01-12.
+Generated 2018-01-13.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -163,8 +163,8 @@ Generated 2018-01-12.
 |  159 | Prakash Bathini           |  20.5 |       123 |              |               |
 |  160 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  161 | Andrew Green              |  20.5 |        52 |              |               |
-|  162 | Steven Sloman             |  20.4 |        10 |              |               |
-|  163 | Mark Modera               |  20.4 |       347 |        -0.16 |         -0.37 |
+|  162 | Mark Modera               |  20.4 |       348 |        -0.12 |         -0.33 |
+|  163 | Steven Sloman             |  20.4 |        10 |              |               |
 |  164 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
 |  165 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
 |  166 | Anirudh Todi              |  20.3 |         3 |              |               |
@@ -234,18 +234,18 @@ Generated 2018-01-12.
 |  230 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  231 | Subrato Dey               |  17.5 |        26 |              |               |
 |  232 | Antonio Garcia            |  17.5 |        20 |              |               |
-|  233 | Sam Trachtman             |  17.4 |         5 |              |               |
-|  234 | Juliet Lamont             |  17.4 |        58 |              |               |
-|  235 | Craig Riddell             |  17.4 |         8 |              |               |
-|  236 | Charity Caruthers         |  17.3 |         4 |              |               |
-|  237 | Ben Ailes                 |  17.3 |        48 |              |               |
-|  238 | Ariel Grostern            |  17.3 |        94 |              |               |
-|  239 | Zach Brown                |  17.3 |         3 |              |               |
-|  240 | William Seles             |  17.2 |        15 |              |               |
-|  241 | Wolfram Pohl              |  17.2 |        60 |              |               |
-|  242 | Zaid Shlah                |  17.2 |         8 |              |               |
-|  243 | Lucas Cheon               |  17.2 |        19 |              |               |
-|  244 | Romit Chakraborty         |  17.1 |         5 |        +1.27 |               |
+|  233 | Romit Chakraborty         |  17.4 |         6 |        +1.65 |               |
+|  234 | Sam Trachtman             |  17.4 |         5 |              |               |
+|  235 | Juliet Lamont             |  17.4 |        58 |              |               |
+|  236 | Craig Riddell             |  17.4 |         8 |              |               |
+|  237 | Charity Caruthers         |  17.3 |         4 |              |               |
+|  238 | Ben Ailes                 |  17.3 |        48 |              |               |
+|  239 | Ariel Grostern            |  17.3 |        94 |              |               |
+|  240 | Zach Brown                |  17.3 |         3 |              |               |
+|  241 | William Seles             |  17.2 |        15 |              |               |
+|  242 | Wolfram Pohl              |  17.2 |        60 |              |               |
+|  243 | Zaid Shlah                |  17.2 |         8 |              |               |
+|  244 | Lucas Cheon               |  17.2 |        19 |              |               |
 |  245 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  246 | Neil Conway               |  17.0 |        55 |              |               |
 |  247 | Michael Cianfrocco        |  17.0 |        18 |              |               |

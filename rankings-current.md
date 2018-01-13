@@ -1,4 +1,4 @@
-Generated 2018-01-12.
+Generated 2018-01-13.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -16,14 +16,14 @@ Generated 2018-01-12.
 |   12 | Jared Bard         |  21.4 |        48 |        +0.10 |         +0.96 |
 |   13 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |
 |   14 | Reid Johnsen       |  21.2 |        60 |        -0.18 |         -0.79 |
-|   15 | Mark Modera        |  20.4 |       347 |        -0.16 |         -0.37 |
+|   15 | Mark Modera        |  20.4 |       348 |        -0.12 |         -0.33 |
 |   16 | Ankur Dave         |  20.0 |        97 |              |         +4.50 |
 |   17 | Anthony Abel       |  19.5 |        19 |              |               |
 |   18 | Mike Jensen-Akula  |  19.2 |       240 |              |         -1.40 |
 |   19 | Jaime Perez        |  19.0 |        39 |        +0.14 |         -0.29 |
 |   20 | Josh Trauner       |  18.1 |        77 |        +0.21 |         +0.40 |
 |   21 | Dror Matalon       |  17.8 |       382 |        -0.33 |         -0.37 |
-|   22 | Romit Chakraborty  |  17.1 |         5 |        +1.27 |               |
+|   22 | Romit Chakraborty  |  17.4 |         6 |        +1.65 |               |
 |   23 | Sahar Sareminaeni  |  16.9 |        53 |        -0.13 |         +1.42 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
 |   25 | Craig Hollow       |  16.1 |        43 |        +0.65 |        +14.12 |
