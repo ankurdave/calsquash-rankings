@@ -31,7 +31,7 @@ Generated 2018-01-12.
 |   27 | Terry Chang        |  15.8 |        48 |              |               |
 |   28 | Daniel Isaacson    |  14.2 |         6 |        +1.32 |               |
 |   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
-|   30 | Kent Daniels       |  13.3 |       122 |        -0.06 |         -1.47 |
+|   30 | Kent Daniels       |  13.5 |       123 |        +0.13 |         -1.27 |
 |   31 | Meldan Heaslip     |  13.2 |        46 |        -0.19 |         +2.83 |
 |   32 | Josh Lebowitz      |  13.1 |        66 |        +0.12 |         +2.34 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
@@ -40,7 +40,7 @@ Generated 2018-01-12.
 |   36 | Vishesh Dalal      |  10.2 |        11 |        -0.26 |               |
 |   37 | Terence Stotz      |  10.2 |        20 |        -0.05 |               |
 |   38 | Manuel Coquet      |   9.5 |         9 |              |               |
-|   39 | Rashid Hameed      |   9.5 |         7 |              |               |
+|   39 | Rashid Hameed      |   9.1 |         8 |        -0.43 |               |
 |   40 | Ryan van der Harst |   8.6 |         6 |        +4.36 |               |
 |   41 | Brian Kempenich    |   8.2 |        59 |              |         -0.34 |
 |   42 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |

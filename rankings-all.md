@@ -322,10 +322,10 @@ Generated 2018-01-12.
 |  318 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  319 | Lars Foleide              |  13.5 |        11 |              |               |
 |  320 | Alex Rennet               |  13.5 |         2 |              |               |
-|  321 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  322 | Jake Toy                  |  13.4 |         5 |              |               |
-|  323 | Danielle Craig            |  13.3 |         3 |              |               |
-|  324 | Kent Daniels              |  13.3 |       122 |        -0.06 |         -1.47 |
+|  321 | Kent Daniels              |  13.5 |       123 |        +0.13 |         -1.27 |
+|  322 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  323 | Jake Toy                  |  13.4 |         5 |              |               |
+|  324 | Danielle Craig            |  13.3 |         3 |              |               |
 |  325 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  326 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  327 | Meldan Heaslip            |  13.2 |        46 |        -0.19 |         +2.83 |
@@ -386,17 +386,17 @@ Generated 2018-01-12.
 |  382 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  383 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
 |  384 | Manuel Coquet             |   9.5 |         9 |              |               |
-|  385 | Rashid Hameed             |   9.5 |         7 |              |               |
-|  386 | Mark Shapero              |   9.4 |         7 |              |               |
-|  387 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  388 | Max Grass                 |   9.4 |         1 |              |               |
-|  389 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  390 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  391 | Robert Broesler           |   9.4 |         4 |              |               |
-|  392 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  393 | Greg Sperla               |   9.3 |         8 |              |               |
-|  394 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  395 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  385 | Mark Shapero              |   9.4 |         7 |              |               |
+|  386 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  387 | Max Grass                 |   9.4 |         1 |              |               |
+|  388 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  389 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  390 | Robert Broesler           |   9.4 |         4 |              |               |
+|  391 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  392 | Greg Sperla               |   9.3 |         8 |              |               |
+|  393 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  394 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  395 | Rashid Hameed             |   9.1 |         8 |        -0.43 |               |
 |  396 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  397 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  398 | Laura Dobbs               |   9.0 |        26 |              |               |
