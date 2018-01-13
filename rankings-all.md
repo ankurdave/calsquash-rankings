@@ -30,9 +30,9 @@ Generated 2018-01-13.
 |   26 | Heba Nossier              |  29.2 |        14 |              |               |
 |   27 | Justin McCrary            |  29.0 |       140 |              |               |
 |   28 | David Woo                 |  28.7 |        11 |              |               |
-|   29 | Ali Rahim                 |  28.4 |        24 |              |               |
-|   30 | Mikael Rehn               |  28.3 |         5 |              |               |
-|   31 | Anibhav Singla            |  28.2 |        38 |        +0.02 |         +5.97 |
+|   29 | Anibhav Singla            |  28.4 |        39 |        +0.22 |         +6.16 |
+|   30 | Ali Rahim                 |  28.4 |        24 |              |               |
+|   31 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   32 | Rodrigo Cabral            |  28.1 |        29 |              |               |
 |   33 | Grant French              |  27.5 |       125 |              |               |
 |   34 | Thomas Littleton          |  27.4 |        23 |        -0.14 |               |
@@ -65,15 +65,15 @@ Generated 2018-01-13.
 |   61 | Sam McCormick             |  25.0 |        38 |              |         +2.29 |
 |   62 | Ben Seelig                |  25.0 |        69 |              |               |
 |   63 | Jaime Paterson            |  24.9 |         1 |              |               |
-|   64 | John Kunze                |  24.9 |       346 |              |         +0.68 |
-|   65 | Madhav Pai                |  24.9 |         5 |              |               |
-|   66 | Shrinu Kushagra           |  24.8 |        12 |              |               |
+|   64 | Madhav Pai                |  24.9 |         5 |              |               |
+|   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
+|   66 | John Kunze                |  24.8 |       347 |        -0.16 |         +0.52 |
 |   67 | Kelvin Wong               |  24.8 |        44 |              |               |
 |   68 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   69 | Orion Hodson              |  24.8 |        31 |              |               |
 |   70 | Martin Stokes             |  24.7 |        12 |              |               |
 |   71 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   72 | Jim Veitch                |  24.6 |       475 |              |         -0.29 |
+|   72 | Jim Veitch                |  24.6 |       475 |        +0.01 |         -0.28 |
 |   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |

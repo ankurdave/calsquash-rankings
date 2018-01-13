@@ -6,10 +6,10 @@ Generated 2018-01-13.
 |    2 | Ashley Kayler      |  33.3 |       237 |        +0.13 |         -1.78 |
 |    3 | Sam Sternberg      |  31.1 |       169 |              |         +1.06 |
 |    4 | Nick Cobbett       |  29.2 |        57 |        +0.39 |         +2.34 |
-|    5 | Anibhav Singla     |  28.2 |        38 |        +0.02 |         +5.97 |
+|    5 | Anibhav Singla     |  28.4 |        39 |        +0.22 |         +6.16 |
 |    6 | Thomas Littleton   |  27.4 |        23 |        -0.14 |               |
-|    7 | John Kunze         |  24.9 |       346 |              |         +0.68 |
-|    8 | Jim Veitch         |  24.6 |       475 |              |         -0.29 |
+|    7 | John Kunze         |  24.8 |       347 |        -0.16 |         +0.52 |
+|    8 | Jim Veitch         |  24.6 |       475 |        +0.01 |         -0.28 |
 |    9 | Matt Wong          |  24.0 |       109 |              |         +0.41 |
 |   10 | Aditya Guntuboyina |  23.9 |        84 |              |         +0.66 |
 |   11 | Matthew Bond       |  22.9 |        11 |        +2.08 |               |
