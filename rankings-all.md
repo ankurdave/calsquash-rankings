@@ -1,4 +1,4 @@
-Generated 2018-01-13.
+Generated 2018-01-15.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -227,11 +227,11 @@ Generated 2018-01-13.
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  224 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
 |  225 | Troup Howard              |  17.8 |        47 |              |         +0.12 |
-|  226 | Dror Matalon              |  17.8 |       382 |        -0.33 |         -0.37 |
-|  227 | Nick Paget                |  17.8 |        35 |              |               |
-|  228 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  229 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  230 | George Roche              |  17.7 |        14 |              |               |
+|  226 | Nick Paget                |  17.8 |        35 |              |               |
+|  227 | Chris Harrelson           |  17.8 |        47 |              |               |
+|  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  229 | George Roche              |  17.7 |        14 |              |               |
+|  230 | Dror Matalon              |  17.6 |       383 |        -0.52 |         -0.56 |
 |  231 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  232 | Subrato Dey               |  17.5 |        26 |              |               |
 |  233 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -268,7 +268,7 @@ Generated 2018-01-13.
 |  264 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  265 | Jan Strasky               |  16.2 |        12 |              |               |
 |  266 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  267 | Craig Hollow              |  16.1 |        43 |        +0.65 |        +14.12 |
+|  267 | Craig Hollow              |  16.1 |        43 |        +0.64 |        +14.11 |
 |  268 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  269 | Karan Goyal               |  15.9 |        21 |              |               |
 |  270 | Terry Chang               |  15.8 |        48 |              |               |
@@ -324,11 +324,11 @@ Generated 2018-01-13.
 |  320 | Alex Rennet               |  13.5 |         2 |              |               |
 |  321 | Kent Daniels              |  13.5 |       123 |        +0.13 |         -1.27 |
 |  322 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  323 | Jake Toy                  |  13.4 |         5 |              |               |
-|  324 | Danielle Craig            |  13.3 |         3 |              |               |
-|  325 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  326 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  327 | Meldan Heaslip            |  13.2 |        46 |        -0.19 |         +2.83 |
+|  323 | Meldan Heaslip            |  13.4 |        47 |        +0.02 |         +3.04 |
+|  324 | Jake Toy                  |  13.4 |         5 |              |               |
+|  325 | Danielle Craig            |  13.3 |         3 |              |               |
+|  326 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  327 | Sameer Abraham            |  13.2 |        24 |              |               |
 |  328 | Field Maloney             |  13.1 |        24 |              |               |
 |  329 | Josh Lebowitz             |  13.1 |        66 |        +0.12 |         +2.34 |
 |  330 | Saumil Chheda             |  13.0 |         1 |              |               |

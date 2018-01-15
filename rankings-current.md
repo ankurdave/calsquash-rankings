@@ -1,4 +1,4 @@
-Generated 2018-01-13.
+Generated 2018-01-15.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -23,16 +23,16 @@ Generated 2018-01-13.
 |   19 | Jaime Perez        |  19.1 |        40 |        +0.16 |         -0.27 |
 |   20 | Romit Chakraborty  |  18.1 |         7 |        +2.26 |               |
 |   21 | Josh Trauner       |  18.1 |        77 |        +0.21 |         +0.40 |
-|   22 | Dror Matalon       |  17.8 |       382 |        -0.33 |         -0.37 |
+|   22 | Dror Matalon       |  17.6 |       383 |        -0.52 |         -0.56 |
 |   23 | Sahar Sareminaeni  |  16.9 |        53 |        -0.13 |         +1.42 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
-|   25 | Craig Hollow       |  16.1 |        43 |        +0.65 |        +14.12 |
+|   25 | Craig Hollow       |  16.1 |        43 |        +0.64 |        +14.11 |
 |   26 | Karan Goyal        |  15.9 |        21 |              |               |
 |   27 | Terry Chang        |  15.8 |        48 |              |               |
 |   28 | Daniel Isaacson    |  14.2 |         6 |        +1.32 |               |
 |   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
 |   30 | Kent Daniels       |  13.5 |       123 |        +0.13 |         -1.27 |
-|   31 | Meldan Heaslip     |  13.2 |        46 |        -0.19 |         +2.83 |
+|   31 | Meldan Heaslip     |  13.4 |        47 |        +0.02 |         +3.04 |
 |   32 | Josh Lebowitz      |  13.1 |        66 |        +0.12 |         +2.34 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
 |   34 | Sara Bamberger     |  11.7 |        12 |              |               |
