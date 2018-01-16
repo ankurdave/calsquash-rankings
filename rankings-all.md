@@ -327,10 +327,10 @@ Generated 2018-01-15.
 |  323 | Meldan Heaslip            |  13.4 |        47 |        +0.02 |         +3.04 |
 |  324 | Jake Toy                  |  13.4 |         5 |              |               |
 |  325 | Danielle Craig            |  13.3 |         3 |              |               |
-|  326 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  327 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  328 | Field Maloney             |  13.1 |        24 |              |               |
-|  329 | Josh Lebowitz             |  13.1 |        66 |        +0.12 |         +2.34 |
+|  326 | Josh Lebowitz             |  13.3 |        67 |        +0.34 |         +2.56 |
+|  327 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  328 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  329 | Field Maloney             |  13.1 |        24 |              |               |
 |  330 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  331 | Lewis Moore               |  13.0 |        69 |              |               |
 |  332 | David Isaksson            |  12.9 |        22 |              |               |
@@ -371,8 +371,8 @@ Generated 2018-01-15.
 |  367 | Prasad Santhanam          |  10.3 |         7 |              |               |
 |  368 | John Provine              |  10.2 |        16 |              |               |
 |  369 | Anthony Patterson         |  10.2 |         6 |              |               |
-|  370 | Vishesh Dalal             |  10.2 |        11 |        -0.26 |               |
-|  371 | Terence Stotz             |  10.2 |        20 |        -0.05 |               |
+|  370 | Terence Stotz             |  10.2 |        20 |        -0.03 |               |
+|  371 | Vishesh Dalal             |  10.2 |        11 |        -0.26 |               |
 |  372 | Nicholas DuBroff          |  10.2 |         8 |              |               |
 |  373 | Max Oltersdorf            |  10.2 |         8 |              |               |
 |  374 | Sung-Jin Oh               |  10.1 |         6 |              |               |
@@ -385,29 +385,29 @@ Generated 2018-01-15.
 |  381 | Jacob Bank                |   9.7 |         1 |              |               |
 |  382 | Gene Zubovich             |   9.7 |        19 |              |               |
 |  383 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  384 | Manuel Coquet             |   9.5 |         9 |              |               |
-|  385 | Mark Shapero              |   9.4 |         7 |              |               |
-|  386 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  387 | Max Grass                 |   9.4 |         1 |              |               |
-|  388 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  389 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  390 | Robert Broesler           |   9.4 |         4 |              |               |
-|  391 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  392 | Greg Sperla               |   9.3 |         8 |              |               |
-|  393 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  394 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  395 | Rashid Hameed             |   9.1 |         8 |        -0.43 |               |
-|  396 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  384 | Mark Shapero              |   9.4 |         7 |              |               |
+|  385 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  386 | Max Grass                 |   9.4 |         1 |              |               |
+|  387 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  388 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  389 | Robert Broesler           |   9.4 |         4 |              |               |
+|  390 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  391 | Greg Sperla               |   9.3 |         8 |              |               |
+|  392 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  393 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  394 | Rashid Hameed             |   9.1 |         8 |        -0.43 |               |
+|  395 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  396 | Manuel Coquet             |   9.0 |        10 |        -0.52 |               |
 |  397 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  398 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  399 | Anshuman Tiwari           |   8.8 |         2 |              |               |
 |  400 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  401 | Therese Jones             |   8.7 |         6 |              |               |
-|  402 | Steven Yee                |   8.7 |         9 |              |               |
-|  403 | Nikolai Schnittke         |   8.6 |         4 |              |               |
-|  404 | Joseph Duggan             |   8.6 |         8 |              |               |
-|  405 | Jonas Hansen              |   8.6 |        14 |              |               |
-|  406 | Ryan van der Harst        |   8.6 |         6 |        +4.36 |               |
+|  401 | Ryan van der Harst        |   8.7 |         6 |        +4.49 |               |
+|  402 | Therese Jones             |   8.7 |         6 |              |               |
+|  403 | Steven Yee                |   8.7 |         9 |              |               |
+|  404 | Nikolai Schnittke         |   8.6 |         4 |              |               |
+|  405 | Joseph Duggan             |   8.6 |         8 |              |               |
+|  406 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  407 | Sumit Gupta               |   8.5 |        13 |              |               |
 |  408 | Duo Wang                  |   8.4 |        83 |              |         -0.08 |
 |  409 | Reynold Xin               |   8.3 |         5 |              |               |
