@@ -1,4 +1,4 @@
-Generated 2018-01-15.
+Generated 2018-01-16.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -163,31 +163,31 @@ Generated 2018-01-15.
 |  159 | Prakash Bathini           |  20.5 |       123 |              |               |
 |  160 | Leor Lovinger             |  20.5 |         6 |              |               |
 |  161 | Andrew Green              |  20.5 |        52 |              |               |
-|  162 | Mark Modera               |  20.5 |       348 |        -0.11 |         -0.32 |
-|  163 | Steven Sloman             |  20.4 |        10 |              |               |
-|  164 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
-|  165 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
-|  166 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  162 | Steven Sloman             |  20.4 |        10 |              |               |
+|  163 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
+|  164 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
+|  165 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  166 | Mark Modera               |  20.2 |       349 |        -0.33 |         -0.54 |
 |  167 | John Grim                 |  20.1 |        13 |              |               |
 |  168 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  169 | Frank Kennan              |  20.1 |        11 |              |               |
 |  170 | Robert Schwartz           |  20.1 |        90 |              |         -0.30 |
 |  171 | Ankur Dave                |  20.0 |        97 |              |         +4.50 |
-|  172 | Shaun Lim                 |  20.0 |        64 |              |         +1.73 |
-|  173 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  174 | Jonathan Francis          |  20.0 |        76 |              |         +0.37 |
-|  175 | Wesley Huang              |  20.0 |         8 |              |               |
-|  176 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  177 | Liam King                 |  19.9 |         6 |              |               |
-|  178 | Lysander Jim              |  19.8 |         6 |              |               |
-|  179 | Sebastien Biraud          |  19.7 |        60 |              |               |
-|  180 | Suneesh Kaul              |  19.7 |         3 |              |               |
-|  181 | Mike Delanty              |  19.7 |        12 |              |               |
-|  182 | Sridhar Rajaram           |  19.7 |        30 |              |               |
-|  183 | Andrew Proudfoot          |  19.6 |        26 |              |               |
-|  184 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
-|  185 | Jacob Kersey              |  19.6 |        15 |              |               |
-|  186 | Anthony Abel              |  19.5 |        19 |              |               |
+|  172 | Anthony Abel              |  20.0 |        20 |        +0.53 |               |
+|  173 | Shaun Lim                 |  20.0 |        64 |              |         +1.73 |
+|  174 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  175 | Jonathan Francis          |  20.0 |        76 |              |         +0.37 |
+|  176 | Wesley Huang              |  20.0 |         8 |              |               |
+|  177 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  178 | Liam King                 |  19.9 |         6 |              |               |
+|  179 | Lysander Jim              |  19.8 |         6 |              |               |
+|  180 | Sebastien Biraud          |  19.7 |        60 |              |               |
+|  181 | Suneesh Kaul              |  19.7 |         3 |              |               |
+|  182 | Mike Delanty              |  19.7 |        12 |              |               |
+|  183 | Sridhar Rajaram           |  19.7 |        30 |              |               |
+|  184 | Andrew Proudfoot          |  19.6 |        26 |              |               |
+|  185 | Sailesh Krishnamurthy     |  19.6 |        15 |              |               |
+|  186 | Jacob Kersey              |  19.6 |        15 |              |               |
 |  187 | Roberto Gonzalez          |  19.4 |         3 |              |               |
 |  188 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  189 | Greg Adams                |  19.3 |        10 |              |               |
@@ -196,8 +196,8 @@ Generated 2018-01-15.
 |  192 | John Corcoran             |  19.1 |        49 |              |               |
 |  193 | Kedar Shah                |  19.1 |         9 |              |               |
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
-|  195 | Jaime Perez               |  19.1 |        40 |        +0.16 |         -0.27 |
-|  196 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  195 | Tuyen Le                  |  19.0 |         5 |              |               |
+|  196 | Jaime Perez               |  19.0 |        40 |        +0.15 |         -0.28 |
 |  197 | Yating Liu                |  19.0 |         7 |              |               |
 |  198 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  199 | Hari Dhavala              |  18.9 |        27 |              |               |
@@ -221,8 +221,8 @@ Generated 2018-01-15.
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Bob Roller                |  18.2 |         6 |              |               |
 |  219 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  220 | Romit Chakraborty         |  18.1 |         7 |        +2.26 |               |
-|  221 | Josh Trauner              |  18.1 |        77 |        +0.21 |         +0.40 |
+|  220 | Josh Trauner              |  18.0 |        77 |        +0.20 |         +0.39 |
+|  221 | Romit Chakraborty         |  18.0 |         7 |        +2.21 |               |
 |  222 | James Chung               |  17.9 |         7 |              |               |
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  224 | Eric Borden               |  17.8 |        44 |              |         -0.42 |

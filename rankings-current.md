@@ -1,4 +1,4 @@
-Generated 2018-01-15.
+Generated 2018-01-16.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -16,13 +16,13 @@ Generated 2018-01-15.
 |   12 | Jared Bard         |  21.4 |        48 |        +0.10 |         +0.96 |
 |   13 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |
 |   14 | Reid Johnsen       |  21.2 |        60 |        -0.18 |         -0.79 |
-|   15 | Mark Modera        |  20.5 |       348 |        -0.11 |         -0.32 |
+|   15 | Mark Modera        |  20.2 |       349 |        -0.33 |         -0.54 |
 |   16 | Ankur Dave         |  20.0 |        97 |              |         +4.50 |
-|   17 | Anthony Abel       |  19.5 |        19 |              |               |
+|   17 | Anthony Abel       |  20.0 |        20 |        +0.53 |               |
 |   18 | Mike Jensen-Akula  |  19.2 |       240 |              |         -1.40 |
-|   19 | Jaime Perez        |  19.1 |        40 |        +0.16 |         -0.27 |
-|   20 | Romit Chakraborty  |  18.1 |         7 |        +2.26 |               |
-|   21 | Josh Trauner       |  18.1 |        77 |        +0.21 |         +0.40 |
+|   19 | Jaime Perez        |  19.0 |        40 |        +0.15 |         -0.28 |
+|   20 | Josh Trauner       |  18.0 |        77 |        +0.20 |         +0.39 |
+|   21 | Romit Chakraborty  |  18.0 |         7 |        +2.21 |               |
 |   22 | Dror Matalon       |  17.6 |       383 |        -0.52 |         -0.56 |
 |   23 | Sahar Sareminaeni  |  16.9 |        53 |        -0.13 |         +1.42 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
