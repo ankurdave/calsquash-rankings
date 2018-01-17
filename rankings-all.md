@@ -67,13 +67,13 @@ Generated 2018-01-16.
 |   63 | Jaime Paterson            |  24.9 |         1 |              |               |
 |   64 | Madhav Pai                |  24.9 |         5 |              |               |
 |   65 | Shrinu Kushagra           |  24.8 |        12 |              |               |
-|   66 | John Kunze                |  24.8 |       347 |        -0.16 |         +0.52 |
-|   67 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   66 | Kelvin Wong               |  24.8 |        44 |              |               |
+|   67 | Jim Veitch                |  24.8 |       476 |        +0.20 |         -0.10 |
 |   68 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   69 | Orion Hodson              |  24.8 |        31 |              |               |
 |   70 | Martin Stokes             |  24.7 |        12 |              |               |
-|   71 | Christian Fuentes         |  24.6 |         8 |              |               |
-|   72 | Jim Veitch                |  24.6 |       475 |        +0.01 |         -0.28 |
+|   71 | John Kunze                |  24.6 |       348 |        -0.32 |         +0.35 |
+|   72 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |
 |   74 | Greg Jizmagian            |  24.5 |        22 |              |               |
 |   75 | Adam Pollak               |  24.5 |        31 |              |               |

@@ -8,8 +8,8 @@ Generated 2018-01-16.
 |    4 | Nick Cobbett       |  29.2 |        57 |        +0.39 |         +2.34 |
 |    5 | Anibhav Singla     |  28.4 |        39 |        +0.22 |         +6.16 |
 |    6 | Thomas Littleton   |  27.4 |        23 |        -0.14 |               |
-|    7 | John Kunze         |  24.8 |       347 |        -0.16 |         +0.52 |
-|    8 | Jim Veitch         |  24.6 |       475 |        +0.01 |         -0.28 |
+|    7 | Jim Veitch         |  24.8 |       476 |        +0.20 |         -0.10 |
+|    8 | John Kunze         |  24.6 |       348 |        -0.32 |         +0.35 |
 |    9 | Matt Wong          |  24.0 |       109 |              |         +0.41 |
 |   10 | Aditya Guntuboyina |  23.9 |        84 |              |         +0.66 |
 |   11 | Matthew Bond       |  22.9 |        11 |        +2.08 |               |
