@@ -31,18 +31,18 @@ Generated 2018-01-16.
 |   27 | Terry Chang        |  15.8 |        48 |              |               |
 |   28 | Daniel Isaacson    |  14.2 |         6 |        +1.32 |               |
 |   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
-|   30 | Kent Daniels       |  13.5 |       123 |        +0.13 |         -1.27 |
-|   31 | Meldan Heaslip     |  13.4 |        47 |        +0.02 |         +3.04 |
+|   30 | Meldan Heaslip     |  13.6 |        48 |        +0.28 |         +3.30 |
+|   31 | Kent Daniels       |  13.5 |       123 |        +0.13 |         -1.27 |
 |   32 | Josh Lebowitz      |  13.3 |        67 |        +0.34 |         +2.56 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
-|   34 | Sara Bamberger     |  11.7 |        12 |              |               |
+|   34 | Sara Bamberger     |  11.2 |        13 |        -0.49 |               |
 |   35 | Caroline Palmer    |  10.9 |         8 |              |               |
 |   36 | Terence Stotz      |  10.2 |        20 |        -0.03 |               |
 |   37 | Vishesh Dalal      |  10.2 |        11 |        -0.26 |               |
-|   38 | Rashid Hameed      |   9.1 |         8 |        -0.43 |               |
-|   39 | Manuel Coquet      |   9.0 |        10 |        -0.52 |               |
-|   40 | Ryan van der Harst |   8.7 |         6 |        +4.49 |               |
-|   41 | Brian Kempenich    |   8.2 |        59 |              |         -0.34 |
+|   38 | Ryan van der Harst |   9.3 |         7 |        +5.08 |               |
+|   39 | Rashid Hameed      |   9.1 |         8 |        -0.43 |               |
+|   40 | Manuel Coquet      |   9.0 |        10 |        -0.52 |               |
+|   41 | Brian Kempenich    |   8.2 |        60 |        +0.07 |         -0.27 |
 |   42 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
 |   43 | Zsolt Bartha       |   4.4 |        72 |              |         +0.02 |
 |   44 | Joanna Majkowski   |   3.9 |        11 |        +1.25 |               |

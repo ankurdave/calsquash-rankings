@@ -318,13 +318,13 @@ Generated 2018-01-16.
 |  314 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  315 | Tim Browning              |  13.8 |         7 |              |               |
 |  316 | Josephine Lee             |  13.7 |         6 |              |               |
-|  317 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  318 | Mohammed Shamma           |  13.5 |         5 |              |               |
-|  319 | Lars Foleide              |  13.5 |        11 |              |               |
-|  320 | Alex Rennet               |  13.5 |         2 |              |               |
-|  321 | Kent Daniels              |  13.5 |       123 |        +0.13 |         -1.27 |
-|  322 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  323 | Meldan Heaslip            |  13.4 |        47 |        +0.02 |         +3.04 |
+|  317 | Meldan Heaslip            |  13.6 |        48 |        +0.28 |         +3.30 |
+|  318 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  319 | Mohammed Shamma           |  13.5 |         5 |              |               |
+|  320 | Lars Foleide              |  13.5 |        11 |              |               |
+|  321 | Alex Rennet               |  13.5 |         2 |              |               |
+|  322 | Kent Daniels              |  13.5 |       123 |        +0.13 |         -1.27 |
+|  323 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  324 | Jake Toy                  |  13.4 |         5 |              |               |
 |  325 | Danielle Craig            |  13.3 |         3 |              |               |
 |  326 | Josh Lebowitz             |  13.3 |        67 |        +0.34 |         +2.56 |
@@ -352,15 +352,15 @@ Generated 2018-01-16.
 |  348 | Aman Gupta                |  11.8 |         3 |              |               |
 |  349 | Mitchell O'Connell        |  11.8 |        32 |              |               |
 |  350 | Julian Gill               |  11.8 |         1 |              |               |
-|  351 | Sara Bamberger            |  11.7 |        12 |              |               |
-|  352 | James Shinn               |  11.7 |       120 |              |               |
-|  353 | Tim O'Connell             |  11.7 |         3 |              |               |
-|  354 | Min Joon Seo              |  11.6 |         3 |              |               |
-|  355 | David Appelfeld           |  11.6 |        26 |              |               |
-|  356 | Virginie Letschert        |  11.6 |        18 |              |               |
-|  357 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
-|  358 | Carlos Filho              |  11.4 |         7 |              |               |
-|  359 | Karan Jain                |  11.3 |        19 |              |               |
+|  351 | James Shinn               |  11.7 |       120 |              |               |
+|  352 | Tim O'Connell             |  11.7 |         3 |              |               |
+|  353 | Min Joon Seo              |  11.6 |         3 |              |               |
+|  354 | David Appelfeld           |  11.6 |        26 |              |               |
+|  355 | Virginie Letschert        |  11.6 |        18 |              |               |
+|  356 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
+|  357 | Carlos Filho              |  11.4 |         7 |              |               |
+|  358 | Karan Jain                |  11.3 |        19 |              |               |
+|  359 | Sara Bamberger            |  11.2 |        13 |        -0.49 |               |
 |  360 | Lucas Siow                |  11.0 |        10 |              |               |
 |  361 | Dominick Ng               |  10.9 |        25 |              |               |
 |  362 | Caroline Palmer           |  10.9 |         8 |              |               |
@@ -391,18 +391,18 @@ Generated 2018-01-16.
 |  387 | Alexander Porcaro         |   9.4 |         2 |              |               |
 |  388 | Rob Cuthrell              |   9.4 |        11 |              |               |
 |  389 | Robert Broesler           |   9.4 |         4 |              |               |
-|  390 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  391 | Greg Sperla               |   9.3 |         8 |              |               |
-|  392 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  393 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  394 | Rashid Hameed             |   9.1 |         8 |        -0.43 |               |
-|  395 | Janeau Janssen            |   9.1 |        14 |              |               |
-|  396 | Manuel Coquet             |   9.0 |        10 |        -0.52 |               |
-|  397 | Michael Friedlander       |   9.0 |         3 |              |               |
-|  398 | Laura Dobbs               |   9.0 |        26 |              |               |
-|  399 | Anshuman Tiwari           |   8.8 |         2 |              |               |
-|  400 | Nicholas Bauer            |   8.8 |        16 |              |               |
-|  401 | Ryan van der Harst        |   8.7 |         6 |        +4.49 |               |
+|  390 | Ryan van der Harst        |   9.3 |         7 |        +5.08 |               |
+|  391 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  392 | Greg Sperla               |   9.3 |         8 |              |               |
+|  393 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  394 | Erdem Ovacik              |   9.2 |        10 |              |               |
+|  395 | Rashid Hameed             |   9.1 |         8 |        -0.43 |               |
+|  396 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  397 | Manuel Coquet             |   9.0 |        10 |        -0.52 |               |
+|  398 | Michael Friedlander       |   9.0 |         3 |              |               |
+|  399 | Laura Dobbs               |   9.0 |        26 |              |               |
+|  400 | Anshuman Tiwari           |   8.8 |         2 |              |               |
+|  401 | Nicholas Bauer            |   8.8 |        16 |              |               |
 |  402 | Therese Jones             |   8.7 |         6 |              |               |
 |  403 | Steven Yee                |   8.7 |         9 |              |               |
 |  404 | Nikolai Schnittke         |   8.6 |         4 |              |               |
@@ -412,9 +412,9 @@ Generated 2018-01-16.
 |  408 | Duo Wang                  |   8.4 |        83 |              |         -0.08 |
 |  409 | Reynold Xin               |   8.3 |         5 |              |               |
 |  410 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  411 | Fahad Riyadh              |   8.2 |         5 |              |               |
-|  412 | Vishnu Narayanan          |   8.2 |        12 |              |               |
-|  413 | Brian Kempenich           |   8.2 |        59 |              |         -0.34 |
+|  411 | Brian Kempenich           |   8.2 |        60 |        +0.07 |         -0.27 |
+|  412 | Fahad Riyadh              |   8.2 |         5 |              |               |
+|  413 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  414 | Phil Hartmeyer            |   8.2 |         3 |              |               |
 |  415 | John Coates               |   8.1 |         9 |              |               |
 |  416 | Vito Sciaraffia           |   8.1 |         5 |              |               |
