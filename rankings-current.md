@@ -1,4 +1,4 @@
-Generated 2018-01-17.
+Generated 2018-01-18.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -46,5 +46,5 @@ Generated 2018-01-17.
 |   42 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
 |   43 | Zsolt Bartha       |   4.4 |        72 |              |         +0.02 |
 |   44 | Joanna Majkowski   |   3.9 |        11 |        +1.25 |               |
-|   45 | Stephen Harrell    |   1.2 |         1 |              |               |
-|   46 | Duncan MacRae      |   0.7 |        37 |              |         +7.00 |
+|   45 | Stephen Harrell    |   3.8 |         2 |              |               |
+|   46 | Duncan MacRae      |   0.7 |        38 |        -0.06 |         +6.94 |
