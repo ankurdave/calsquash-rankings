@@ -1,4 +1,4 @@
-Generated 2018-01-18.
+Generated 2018-01-19.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -166,14 +166,14 @@ Generated 2018-01-18.
 |  162 | Steven Sloman             |  20.4 |        10 |              |               |
 |  163 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
 |  164 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
-|  165 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  166 | Mark Modera               |  20.2 |       349 |        -0.33 |         -0.54 |
-|  167 | John Grim                 |  20.1 |        13 |              |               |
-|  168 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  169 | Frank Kennan              |  20.1 |        11 |              |               |
-|  170 | Robert Schwartz           |  20.1 |        90 |              |         -0.30 |
-|  171 | Ankur Dave                |  20.0 |        97 |              |         +4.50 |
-|  172 | Anthony Abel              |  20.0 |        20 |        +0.53 |               |
+|  165 | Anthony Abel              |  20.3 |        21 |        +0.86 |               |
+|  166 | Anirudh Todi              |  20.3 |         3 |              |               |
+|  167 | Mark Modera               |  20.2 |       349 |        -0.35 |         -0.56 |
+|  168 | John Grim                 |  20.1 |        13 |              |               |
+|  169 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  170 | Frank Kennan              |  20.1 |        11 |              |               |
+|  171 | Robert Schwartz           |  20.1 |        90 |              |         -0.30 |
+|  172 | Ankur Dave                |  20.0 |        97 |              |         +4.50 |
 |  173 | Shaun Lim                 |  20.0 |        64 |              |         +1.73 |
 |  174 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
 |  175 | Jonathan Francis          |  20.0 |        76 |              |         +0.37 |
@@ -197,8 +197,8 @@ Generated 2018-01-18.
 |  193 | Kedar Shah                |  19.1 |         9 |              |               |
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  195 | Tuyen Le                  |  19.0 |         5 |              |               |
-|  196 | Jaime Perez               |  19.0 |        40 |        +0.15 |         -0.28 |
-|  197 | Yating Liu                |  19.0 |         7 |              |               |
+|  196 | Yating Liu                |  19.0 |         7 |              |               |
+|  197 | Jaime Perez               |  19.0 |        40 |        +0.12 |         -0.31 |
 |  198 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  199 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
@@ -221,8 +221,8 @@ Generated 2018-01-18.
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Bob Roller                |  18.2 |         6 |              |               |
 |  219 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  220 | Josh Trauner              |  18.0 |        77 |        +0.20 |         +0.39 |
-|  221 | Romit Chakraborty         |  18.0 |         7 |        +2.21 |               |
+|  220 | Romit Chakraborty         |  18.0 |         7 |        +2.18 |               |
+|  221 | Josh Trauner              |  17.9 |        78 |        +0.03 |         +0.23 |
 |  222 | James Chung               |  17.9 |         7 |              |               |
 |  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  224 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
