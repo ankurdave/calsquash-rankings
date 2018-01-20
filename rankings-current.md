@@ -43,8 +43,8 @@ Generated 2018-01-19.
 |   39 | Rashid Hameed      |   9.1 |         8 |        -0.43 |               |
 |   40 | Manuel Coquet      |   9.0 |        10 |        -0.52 |               |
 |   41 | Brian Kempenich    |   8.2 |        60 |        +0.07 |         -0.27 |
-|   42 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
-|   43 | Zsolt Bartha       |   4.4 |        72 |              |         +0.02 |
-|   44 | Joanna Majkowski   |   3.9 |        11 |        +1.25 |               |
-|   45 | Stephen Harrell    |   3.8 |         2 |              |               |
+|   42 | Stephen Harrell    |   6.6 |         3 |              |               |
+|   43 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
+|   44 | Zsolt Bartha       |   4.4 |        73 |        -0.07 |         -0.05 |
+|   45 | Joanna Majkowski   |   3.9 |        11 |        +1.25 |               |
 |   46 | Duncan MacRae      |   0.7 |        38 |        -0.06 |         +6.94 |
