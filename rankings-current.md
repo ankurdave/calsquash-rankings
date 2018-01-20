@@ -33,16 +33,16 @@ Generated 2018-01-20.
 |   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
 |   30 | Meldan Heaslip     |  13.7 |        49 |        +0.36 |         +3.38 |
 |   31 | Kent Daniels       |  13.5 |       123 |        +0.13 |         -1.27 |
-|   32 | Josh Lebowitz      |  13.3 |        67 |        +0.34 |         +2.56 |
+|   32 | Josh Lebowitz      |  13.3 |        67 |        +0.35 |         +2.57 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
 |   34 | Sara Bamberger     |  11.2 |        13 |        -0.49 |               |
 |   35 | Caroline Palmer    |  10.9 |         8 |              |               |
-|   36 | Terence Stotz      |  10.2 |        20 |        -0.03 |               |
-|   37 | Vishesh Dalal      |  10.2 |        11 |        -0.26 |               |
-|   38 | Ryan van der Harst |   9.3 |         7 |        +5.08 |               |
-|   39 | Rashid Hameed      |   9.1 |         8 |        -0.43 |               |
-|   40 | Manuel Coquet      |   9.0 |        10 |        -0.52 |               |
-|   41 | Brian Kempenich    |   8.2 |        60 |        +0.07 |         -0.27 |
+|   36 | Ryan van der Harst |  10.5 |         8 |        +6.33 |               |
+|   37 | Terence Stotz      |  10.2 |        20 |        -0.03 |               |
+|   38 | Vishesh Dalal      |  10.2 |        11 |        -0.26 |               |
+|   39 | Manuel Coquet      |   9.1 |        11 |        -0.38 |               |
+|   40 | Rashid Hameed      |   9.1 |         8 |        -0.43 |               |
+|   41 | Brian Kempenich    |   8.3 |        60 |        +0.08 |         -0.26 |
 |   42 | Stephen Harrell    |   6.6 |         3 |              |               |
 |   43 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
 |   44 | Zsolt Bartha       |   4.4 |        73 |        -0.07 |         -0.05 |
