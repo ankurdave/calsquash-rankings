@@ -102,11 +102,11 @@ Generated 2018-01-20.
 |   98 | Amy Lee                   |  23.6 |        56 |              |               |
 |   99 | Matt Wild                 |  23.5 |        31 |              |         +0.52 |
 |  100 | Garvin Heath              |  23.4 |        28 |              |               |
-|  101 | Daniel Greengard          |  23.1 |        37 |              |               |
-|  102 | Anubhav Gupta             |  23.0 |         8 |              |               |
-|  103 | Joe Farrell               |  23.0 |        30 |              |               |
-|  104 | Lyle Fearnley             |  23.0 |        30 |              |               |
-|  105 | Matthew Bond              |  22.9 |        11 |        +2.08 |               |
+|  101 | Matthew Bond              |  23.4 |        12 |        +2.53 |               |
+|  102 | Daniel Greengard          |  23.1 |        37 |              |               |
+|  103 | Anubhav Gupta             |  23.0 |         8 |              |               |
+|  104 | Joe Farrell               |  23.0 |        30 |              |               |
+|  105 | Lyle Fearnley             |  23.0 |        30 |              |               |
 |  106 | Andrew Pritchard          |  22.7 |        16 |              |               |
 |  107 | Bhuvan Jain               |  22.7 |        18 |              |               |
 |  108 | Julian Marshall           |  22.7 |        31 |              |               |
@@ -144,7 +144,7 @@ Generated 2018-01-20.
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  141 | Adam Jacob                |  21.3 |         3 |              |               |
 |  142 | Vishal Jain               |  21.3 |         6 |              |               |
-|  143 | Reid Johnsen              |  21.2 |        60 |        -0.18 |         -0.79 |
+|  143 | Reid Johnsen              |  21.2 |        60 |        -0.17 |         -0.78 |
 |  144 | Casey Harelson            |  21.2 |        20 |              |               |
 |  145 | Philip Bildner            |  21.2 |        22 |              |               |
 |  146 | Darren Morgan             |  21.2 |        11 |              |               |
@@ -173,12 +173,12 @@ Generated 2018-01-20.
 |  169 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  170 | Frank Kennan              |  20.1 |        11 |              |               |
 |  171 | Robert Schwartz           |  20.1 |        90 |              |         -0.30 |
-|  172 | Ankur Dave                |  20.0 |        97 |              |         +4.50 |
-|  173 | Shaun Lim                 |  20.0 |        64 |              |         +1.73 |
-|  174 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  175 | Jonathan Francis          |  20.0 |        76 |              |         +0.37 |
-|  176 | Wesley Huang              |  20.0 |         8 |              |               |
-|  177 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  172 | Shaun Lim                 |  20.0 |        64 |              |         +1.73 |
+|  173 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  174 | Jonathan Francis          |  20.0 |        76 |              |         +0.37 |
+|  175 | Wesley Huang              |  20.0 |         8 |              |               |
+|  176 | Jaime Vidal               |  19.9 |         8 |              |               |
+|  177 | Ankur Dave                |  19.9 |        98 |        -0.15 |         +4.35 |
 |  178 | Liam King                 |  19.9 |         6 |              |               |
 |  179 | Lysander Jim              |  19.8 |         6 |              |               |
 |  180 | Sebastien Biraud          |  19.7 |        60 |              |               |

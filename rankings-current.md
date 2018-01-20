@@ -12,13 +12,13 @@ Generated 2018-01-20.
 |    8 | John Kunze         |  24.6 |       348 |        -0.32 |         +0.35 |
 |    9 | Matt Wong          |  24.0 |       109 |              |         +0.41 |
 |   10 | Aditya Guntuboyina |  23.9 |        84 |              |         +0.66 |
-|   11 | Matthew Bond       |  22.9 |        11 |        +2.08 |               |
+|   11 | Matthew Bond       |  23.4 |        12 |        +2.53 |               |
 |   12 | Jared Bard         |  21.4 |        48 |        +0.10 |         +0.96 |
 |   13 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |
-|   14 | Reid Johnsen       |  21.2 |        60 |        -0.18 |         -0.79 |
+|   14 | Reid Johnsen       |  21.2 |        60 |        -0.17 |         -0.78 |
 |   15 | Anthony Abel       |  20.3 |        21 |        +0.86 |               |
 |   16 | Mark Modera        |  20.2 |       349 |        -0.35 |         -0.56 |
-|   17 | Ankur Dave         |  20.0 |        97 |              |         +4.50 |
+|   17 | Ankur Dave         |  19.9 |        98 |        -0.15 |         +4.35 |
 |   18 | Mike Jensen-Akula  |  19.1 |       241 |        -0.09 |         -1.48 |
 |   19 | Jaime Perez        |  19.0 |        40 |        +0.12 |         -0.31 |
 |   20 | Romit Chakraborty  |  18.0 |         7 |        +2.18 |               |
