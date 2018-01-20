@@ -1,4 +1,4 @@
-Generated 2018-01-19.
+Generated 2018-01-20.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -192,8 +192,8 @@ Generated 2018-01-19.
 |  188 | Thomas Scanlon            |  19.3 |        20 |              |               |
 |  189 | Greg Adams                |  19.3 |        10 |              |               |
 |  190 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
-|  191 | Mike Jensen-Akula         |  19.2 |       240 |              |         -1.40 |
-|  192 | John Corcoran             |  19.1 |        49 |              |               |
+|  191 | John Corcoran             |  19.1 |        49 |              |               |
+|  192 | Mike Jensen-Akula         |  19.1 |       241 |        -0.09 |         -1.48 |
 |  193 | Kedar Shah                |  19.1 |         9 |              |               |
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  195 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -231,7 +231,7 @@ Generated 2018-01-19.
 |  227 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  229 | George Roche              |  17.7 |        14 |              |               |
-|  230 | Dror Matalon              |  17.6 |       383 |        -0.52 |         -0.56 |
+|  230 | Dror Matalon              |  17.7 |       383 |        -0.51 |         -0.55 |
 |  231 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  232 | Subrato Dey               |  17.5 |        26 |              |               |
 |  233 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -318,7 +318,7 @@ Generated 2018-01-19.
 |  314 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  315 | Tim Browning              |  13.8 |         7 |              |               |
 |  316 | Josephine Lee             |  13.7 |         6 |              |               |
-|  317 | Meldan Heaslip            |  13.6 |        48 |        +0.28 |         +3.30 |
+|  317 | Meldan Heaslip            |  13.7 |        49 |        +0.36 |         +3.38 |
 |  318 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  319 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  320 | Lars Foleide              |  13.5 |        11 |              |               |

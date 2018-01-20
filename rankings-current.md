@@ -1,4 +1,4 @@
-Generated 2018-01-19.
+Generated 2018-01-20.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -19,11 +19,11 @@ Generated 2018-01-19.
 |   15 | Anthony Abel       |  20.3 |        21 |        +0.86 |               |
 |   16 | Mark Modera        |  20.2 |       349 |        -0.35 |         -0.56 |
 |   17 | Ankur Dave         |  20.0 |        97 |              |         +4.50 |
-|   18 | Mike Jensen-Akula  |  19.2 |       240 |              |         -1.40 |
+|   18 | Mike Jensen-Akula  |  19.1 |       241 |        -0.09 |         -1.48 |
 |   19 | Jaime Perez        |  19.0 |        40 |        +0.12 |         -0.31 |
 |   20 | Romit Chakraborty  |  18.0 |         7 |        +2.18 |               |
 |   21 | Josh Trauner       |  17.9 |        78 |        +0.03 |         +0.23 |
-|   22 | Dror Matalon       |  17.6 |       383 |        -0.52 |         -0.56 |
+|   22 | Dror Matalon       |  17.7 |       383 |        -0.51 |         -0.55 |
 |   23 | Sahar Sareminaeni  |  16.9 |        53 |        -0.13 |         +1.42 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
 |   25 | Craig Hollow       |  16.1 |        43 |        +0.64 |        +14.11 |
@@ -31,7 +31,7 @@ Generated 2018-01-19.
 |   27 | Terry Chang        |  15.8 |        48 |              |               |
 |   28 | Daniel Isaacson    |  14.2 |         6 |        +1.32 |               |
 |   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
-|   30 | Meldan Heaslip     |  13.6 |        48 |        +0.28 |         +3.30 |
+|   30 | Meldan Heaslip     |  13.7 |        49 |        +0.36 |         +3.38 |
 |   31 | Kent Daniels       |  13.5 |       123 |        +0.13 |         -1.27 |
 |   32 | Josh Lebowitz      |  13.3 |        67 |        +0.34 |         +2.56 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
