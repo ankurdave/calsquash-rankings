@@ -1,4 +1,4 @@
-Generated 2018-01-20.
+Generated 2018-01-21.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -8,7 +8,7 @@ Generated 2018-01-20.
 |    4 | Paul Valiant              |  33.9 |        63 |              |               |
 |    5 | Dominic Gaffney           |  33.4 |        54 |              |               |
 |    6 | Eric Katerman             |  33.4 |        72 |        -0.33 |         +1.56 |
-|    7 | Ashley Kayler             |  33.3 |       237 |        +0.13 |         -1.78 |
+|    7 | Ashley Kayler             |  33.2 |       238 |        +0.07 |         -1.84 |
 |    8 | Tom Bilyard               |  33.0 |         5 |              |               |
 |    9 | Louis Morrill             |  32.7 |        10 |              |               |
 |   10 | Tanu Sankalia             |  32.6 |        94 |              |               |
@@ -34,8 +34,8 @@ Generated 2018-01-20.
 |   30 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   31 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   32 | Rodrigo Cabral            |  28.1 |        29 |              |               |
-|   33 | Grant French              |  27.5 |       125 |              |               |
-|   34 | Thomas Littleton          |  27.4 |        23 |        -0.14 |               |
+|   33 | Thomas Littleton          |  27.5 |        24 |        -0.03 |               |
+|   34 | Grant French              |  27.5 |       125 |              |               |
 |   35 | Stephen Dang              |  27.2 |        34 |              |               |
 |   36 | Samer Shehata             |  27.2 |        29 |              |               |
 |   37 | Hussain Raza              |  27.0 |        50 |              |               |
