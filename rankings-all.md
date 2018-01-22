@@ -327,10 +327,10 @@ Generated 2018-01-21.
 |  323 | Joe Hyde                  |  13.4 |        68 |              |               |
 |  324 | Jake Toy                  |  13.4 |         5 |              |               |
 |  325 | Danielle Craig            |  13.3 |         3 |              |               |
-|  326 | Josh Lebowitz             |  13.3 |        67 |        +0.35 |         +2.57 |
-|  327 | Ulf Baumann               |  13.3 |         4 |              |               |
-|  328 | Sameer Abraham            |  13.2 |        24 |              |               |
-|  329 | Field Maloney             |  13.1 |        24 |              |               |
+|  326 | Ulf Baumann               |  13.3 |         4 |              |               |
+|  327 | Sameer Abraham            |  13.2 |        24 |              |               |
+|  328 | Field Maloney             |  13.1 |        24 |              |               |
+|  329 | Josh Lebowitz             |  13.1 |        68 |        +0.15 |         +2.37 |
 |  330 | Saumil Chheda             |  13.0 |         1 |              |               |
 |  331 | Lewis Moore               |  13.0 |        69 |              |               |
 |  332 | David Isaksson            |  12.9 |        22 |              |               |
@@ -409,10 +409,10 @@ Generated 2018-01-21.
 |  405 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  406 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  407 | Sumit Gupta               |   8.5 |        13 |              |               |
-|  408 | Duo Wang                  |   8.4 |        83 |              |         -0.08 |
-|  409 | Reynold Xin               |   8.3 |         5 |              |               |
-|  410 | Anurag Gupta              |   8.3 |         6 |              |               |
-|  411 | Brian Kempenich           |   8.3 |        60 |        +0.08 |         -0.26 |
+|  408 | Brian Kempenich           |   8.5 |        61 |        +0.30 |         -0.03 |
+|  409 | Duo Wang                  |   8.4 |        83 |              |         -0.08 |
+|  410 | Reynold Xin               |   8.3 |         5 |              |               |
+|  411 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  412 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  413 | Vishnu Narayanan          |   8.2 |        12 |              |               |
 |  414 | Phil Hartmeyer            |   8.2 |         3 |              |               |
