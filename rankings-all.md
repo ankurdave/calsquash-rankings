@@ -168,7 +168,7 @@ Generated 2018-01-23.
 |  164 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
 |  165 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
 |  166 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  167 | Mark Modera               |  20.2 |       349 |        -0.35 |         -0.56 |
+|  167 | Mark Modera               |  20.2 |       349 |        -0.37 |         -0.58 |
 |  168 | John Grim                 |  20.1 |        13 |              |               |
 |  169 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  170 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -198,10 +198,10 @@ Generated 2018-01-23.
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  195 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  196 | Yating Liu                |  19.0 |         7 |              |               |
-|  197 | Ronald Dahl               |  18.9 |        51 |              |               |
-|  198 | Hari Dhavala              |  18.9 |        27 |              |               |
-|  199 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  200 | Jaime Perez               |  18.8 |        41 |        -0.06 |         -0.50 |
+|  197 | Jaime Perez               |  18.9 |        42 |        +0.06 |         -0.37 |
+|  198 | Ronald Dahl               |  18.9 |        51 |              |               |
+|  199 | Hari Dhavala              |  18.9 |        27 |              |               |
+|  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
 |  201 | Viraj Paropkari           |  18.8 |        16 |              |               |
 |  202 | Arbi Vartan               |  18.7 |        20 |              |               |
 |  203 | Peter Dering              |  18.7 |         9 |              |               |
@@ -222,11 +222,11 @@ Generated 2018-01-23.
 |  218 | Bob Roller                |  18.2 |         6 |              |               |
 |  219 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  220 | Romit Chakraborty         |  17.9 |         7 |        +2.14 |               |
-|  221 | Josh Trauner              |  17.9 |        78 |        +0.02 |         +0.21 |
-|  222 | James Chung               |  17.9 |         7 |              |               |
-|  223 | Andres Rodriguez          |  17.9 |        55 |              |               |
-|  224 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
-|  225 | Troup Howard              |  17.8 |        47 |              |         +0.12 |
+|  221 | James Chung               |  17.9 |         7 |              |               |
+|  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
+|  223 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
+|  224 | Troup Howard              |  17.8 |        47 |              |         +0.12 |
+|  225 | Josh Trauner              |  17.8 |        78 |        -0.03 |         +0.17 |
 |  226 | Nick Paget                |  17.8 |        35 |              |               |
 |  227 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
@@ -249,9 +249,9 @@ Generated 2018-01-23.
 |  245 | Vipul Singhvi             |  17.1 |         8 |              |               |
 |  246 | Neil Conway               |  17.0 |        55 |              |               |
 |  247 | Michael Cianfrocco        |  17.0 |        18 |              |               |
-|  248 | Sahar Sareminaeni         |  16.9 |        53 |        -0.13 |         +1.42 |
-|  249 | Baxter Leman              |  16.9 |         6 |              |               |
-|  250 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  248 | Baxter Leman              |  16.9 |         6 |              |               |
+|  249 | Bobby Hicks               |  16.9 |         2 |              |               |
+|  250 | Sahar Sareminaeni         |  16.9 |        54 |        -0.20 |         +1.36 |
 |  251 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  252 | Wayne Heiser              |  16.7 |        61 |              |         -1.00 |
 |  253 | Chinghway Lim             |  16.7 |        10 |              |               |
