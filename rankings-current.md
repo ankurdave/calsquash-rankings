@@ -45,6 +45,6 @@ Generated 2018-01-23.
 |   41 | Brian Kempenich    |   8.5 |        61 |        +0.30 |         -0.03 |
 |   42 | Stephen Harrell    |   6.6 |         3 |              |               |
 |   43 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
-|   44 | Zsolt Bartha       |   4.4 |        73 |        -0.07 |         -0.05 |
+|   44 | Zsolt Bartha       |   4.6 |        74 |        +0.13 |         +0.15 |
 |   45 | Joanna Majkowski   |   3.9 |        11 |        +1.25 |               |
-|   46 | Duncan MacRae      |   0.7 |        38 |        -0.06 |         +6.94 |
+|   46 | Duncan MacRae      |   0.4 |        39 |        -0.29 |         +6.71 |

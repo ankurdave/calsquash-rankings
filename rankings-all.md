@@ -458,7 +458,7 @@ Generated 2018-01-23.
 |  454 | Martin Rasmussen          |   5.2 |         6 |              |               |
 |  455 | Nikhil Srivastava         |   5.0 |        16 |              |               |
 |  456 | Tammy J Faridi            |   4.7 |        27 |              |               |
-|  457 | Zsolt Bartha              |   4.4 |        73 |        -0.07 |         -0.05 |
+|  457 | Zsolt Bartha              |   4.6 |        74 |        +0.13 |         +0.15 |
 |  458 | Sameer Bajaj              |   4.3 |         4 |              |               |
 |  459 | Anuj Dawar                |   4.2 |        15 |              |         +1.38 |
 |  460 | Annie Wong                |   4.0 |         3 |              |               |
@@ -495,13 +495,13 @@ Generated 2018-01-23.
 |  491 | Marco Eres                |   1.0 |         5 |              |               |
 |  492 | Alex Kaplan               |   0.8 |         8 |              |               |
 |  493 | Daniel Wissmann           |   0.7 |         2 |              |               |
-|  494 | Duncan MacRae             |   0.7 |        38 |        -0.06 |         +6.94 |
-|  495 | Alfonso Rojas             |   0.6 |         8 |              |               |
-|  496 | Ben Geller                |   0.6 |         4 |              |               |
-|  497 | Seth Garz                 |   0.6 |         1 |              |               |
-|  498 | James Aylott              |   0.6 |         3 |              |               |
-|  499 | Ashley Mercer             |   0.5 |         5 |              |               |
-|  500 | Laurie Choi               |   0.5 |         2 |              |               |
+|  494 | Alfonso Rojas             |   0.6 |         8 |              |               |
+|  495 | Ben Geller                |   0.6 |         4 |              |               |
+|  496 | Seth Garz                 |   0.6 |         1 |              |               |
+|  497 | James Aylott              |   0.6 |         3 |              |               |
+|  498 | Ashley Mercer             |   0.5 |         5 |              |               |
+|  499 | Laurie Choi               |   0.5 |         2 |              |               |
+|  500 | Duncan MacRae             |   0.4 |        39 |        -0.29 |         +6.71 |
 |  501 | Anne Iversen              |   0.4 |         3 |              |               |
 |  502 | Nathaniel Rice            |   0.4 |         3 |              |               |
 |  503 | Stuart Fox                |   0.2 |         1 |              |               |
