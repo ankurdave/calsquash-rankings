@@ -1,4 +1,4 @@
-Generated 2018-01-23.
+Generated 2018-01-24.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -193,7 +193,7 @@ Generated 2018-01-23.
 |  189 | Greg Adams                |  19.3 |        10 |              |               |
 |  190 | Shridhar Mubaraq Mishra   |  19.2 |        13 |              |               |
 |  191 | John Corcoran             |  19.1 |        49 |              |               |
-|  192 | Mike Jensen-Akula         |  19.1 |       241 |        -0.09 |         -1.48 |
+|  192 | Mike Jensen-Akula         |  19.1 |       241 |        -0.09 |         -1.49 |
 |  193 | Kedar Shah                |  19.1 |         9 |              |               |
 |  194 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  195 | Tuyen Le                  |  19.0 |         5 |              |               |
@@ -231,7 +231,7 @@ Generated 2018-01-23.
 |  227 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  229 | George Roche              |  17.7 |        14 |              |               |
-|  230 | Dror Matalon              |  17.7 |       383 |        -0.51 |         -0.55 |
+|  230 | Dror Matalon              |  17.6 |       383 |        -0.52 |         -0.56 |
 |  231 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  232 | Subrato Dey               |  17.5 |        26 |              |               |
 |  233 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -266,11 +266,11 @@ Generated 2018-01-23.
 |  262 | Steven Hahm               |  16.3 |         5 |              |               |
 |  263 | Jules Bowie               |  16.3 |        12 |              |               |
 |  264 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  265 | Jan Strasky               |  16.2 |        12 |              |               |
-|  266 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  267 | Craig Hollow              |  16.1 |        43 |        +0.64 |        +14.11 |
-|  268 | Marc Bensadoun            |  16.1 |         5 |              |               |
-|  269 | Karan Goyal               |  15.9 |        21 |              |               |
+|  265 | Karan Goyal               |  16.2 |        22 |        +0.29 |               |
+|  266 | Jan Strasky               |  16.2 |        12 |              |               |
+|  267 | Sarah Mcneil              |  16.2 |        24 |              |               |
+|  268 | Craig Hollow              |  16.1 |        43 |        +0.64 |        +14.10 |
+|  269 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  270 | Terry Chang               |  15.8 |        48 |              |               |
 |  271 | Louis Russell             |  15.8 |        20 |              |               |
 |  272 | Rich Shapiro              |  15.8 |        82 |              |               |
@@ -318,7 +318,7 @@ Generated 2018-01-23.
 |  314 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  315 | Tim Browning              |  13.8 |         7 |              |               |
 |  316 | Josephine Lee             |  13.7 |         6 |              |               |
-|  317 | Meldan Heaslip            |  13.7 |        49 |        +0.36 |         +3.38 |
+|  317 | Meldan Heaslip            |  13.6 |        50 |        +0.21 |         +3.23 |
 |  318 | Kunal Talwar              |  13.6 |         1 |              |               |
 |  319 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  320 | Lars Foleide              |  13.5 |        11 |              |               |
@@ -360,7 +360,7 @@ Generated 2018-01-23.
 |  356 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  357 | Carlos Filho              |  11.4 |         7 |              |               |
 |  358 | Karan Jain                |  11.3 |        19 |              |               |
-|  359 | Sara Bamberger            |  11.2 |        13 |        -0.49 |               |
+|  359 | Sara Bamberger            |  11.2 |        13 |        -0.50 |               |
 |  360 | Lucas Siow                |  11.0 |        10 |              |               |
 |  361 | Dominick Ng               |  10.9 |        25 |              |               |
 |  362 | Caroline Palmer           |  10.9 |         8 |              |               |

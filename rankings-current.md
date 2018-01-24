@@ -1,4 +1,4 @@
-Generated 2018-01-23.
+Generated 2018-01-24.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -19,23 +19,23 @@ Generated 2018-01-23.
 |   15 | Anthony Abel       |  20.7 |        22 |        +1.23 |               |
 |   16 | Mark Modera        |  20.2 |       349 |        -0.37 |         -0.58 |
 |   17 | Ankur Dave         |  19.9 |        98 |        -0.15 |         +4.35 |
-|   18 | Mike Jensen-Akula  |  19.1 |       241 |        -0.09 |         -1.48 |
+|   18 | Mike Jensen-Akula  |  19.1 |       241 |        -0.09 |         -1.49 |
 |   19 | Jaime Perez        |  18.9 |        42 |        +0.06 |         -0.37 |
 |   20 | Romit Chakraborty  |  17.9 |         7 |        +2.14 |               |
 |   21 | Josh Trauner       |  17.8 |        78 |        -0.03 |         +0.17 |
-|   22 | Dror Matalon       |  17.7 |       383 |        -0.51 |         -0.55 |
+|   22 | Dror Matalon       |  17.6 |       383 |        -0.52 |         -0.56 |
 |   23 | Sahar Sareminaeni  |  16.9 |        54 |        -0.20 |         +1.36 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
-|   25 | Craig Hollow       |  16.1 |        43 |        +0.64 |        +14.11 |
-|   26 | Karan Goyal        |  15.9 |        21 |              |               |
+|   25 | Karan Goyal        |  16.2 |        22 |        +0.29 |               |
+|   26 | Craig Hollow       |  16.1 |        43 |        +0.64 |        +14.10 |
 |   27 | Terry Chang        |  15.8 |        48 |              |               |
 |   28 | Daniel Isaacson    |  14.2 |         6 |        +1.32 |               |
 |   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
-|   30 | Meldan Heaslip     |  13.7 |        49 |        +0.36 |         +3.38 |
+|   30 | Meldan Heaslip     |  13.6 |        50 |        +0.21 |         +3.23 |
 |   31 | Kent Daniels       |  13.5 |       123 |        +0.13 |         -1.27 |
 |   32 | Josh Lebowitz      |  13.1 |        68 |        +0.15 |         +2.37 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
-|   34 | Sara Bamberger     |  11.2 |        13 |        -0.49 |               |
+|   34 | Sara Bamberger     |  11.2 |        13 |        -0.50 |               |
 |   35 | Caroline Palmer    |  10.9 |         8 |              |               |
 |   36 | Ryan van der Harst |  10.5 |         8 |        +6.33 |               |
 |   37 | Terence Stotz      |  10.2 |        20 |        -0.03 |               |
