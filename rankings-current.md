@@ -29,10 +29,10 @@ Generated 2018-01-24.
 |   25 | Karan Goyal        |  16.2 |        22 |        +0.29 |               |
 |   26 | Craig Hollow       |  16.1 |        43 |        +0.64 |        +14.10 |
 |   27 | Terry Chang        |  15.8 |        48 |              |               |
-|   28 | Daniel Isaacson    |  14.2 |         6 |        +1.32 |               |
-|   29 | Diego Butrich      |  14.1 |        24 |              |         -0.44 |
+|   28 | Diego Butrich      |  14.4 |        26 |        +0.28 |         -0.16 |
+|   29 | Daniel Isaacson    |  14.1 |         6 |        +1.27 |               |
 |   30 | Meldan Heaslip     |  13.6 |        50 |        +0.21 |         +3.23 |
-|   31 | Kent Daniels       |  13.5 |       123 |        +0.13 |         -1.27 |
+|   31 | Kent Daniels       |  13.4 |       124 |        +0.03 |         -1.37 |
 |   32 | Josh Lebowitz      |  13.1 |        68 |        +0.15 |         +2.37 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
 |   34 | Sara Bamberger     |  11.2 |        13 |        -0.50 |               |
@@ -46,5 +46,5 @@ Generated 2018-01-24.
 |   42 | Stephen Harrell    |   6.6 |         3 |              |               |
 |   43 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
 |   44 | Zsolt Bartha       |   4.6 |        74 |        +0.13 |         +0.15 |
-|   45 | Joanna Majkowski   |   3.9 |        11 |        +1.25 |               |
+|   45 | Joanna Majkowski   |   3.8 |        12 |        +1.07 |               |
 |   46 | Duncan MacRae      |   0.4 |        39 |        -0.29 |         +6.71 |

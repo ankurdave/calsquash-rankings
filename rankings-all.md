@@ -303,13 +303,13 @@ Generated 2018-01-24.
 |  299 | Shai Vardi                |  14.5 |         4 |              |               |
 |  300 | Nicholas Monsees          |  14.5 |         5 |              |               |
 |  301 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.44 |
-|  302 | Max Woodworth             |  14.4 |         7 |              |               |
-|  303 | Juliet Shih               |  14.4 |        11 |              |               |
-|  304 | Khurram Mahmood           |  14.3 |         3 |              |               |
-|  305 | Adam Soliman              |  14.2 |        32 |              |               |
-|  306 | Charles Denby             |  14.2 |         5 |              |               |
-|  307 | Daniel Isaacson           |  14.2 |         6 |        +1.32 |               |
-|  308 | Diego Butrich             |  14.1 |        24 |              |         -0.44 |
+|  302 | Diego Butrich             |  14.4 |        26 |        +0.28 |         -0.16 |
+|  303 | Max Woodworth             |  14.4 |         7 |              |               |
+|  304 | Juliet Shih               |  14.4 |        11 |              |               |
+|  305 | Khurram Mahmood           |  14.3 |         3 |              |               |
+|  306 | Adam Soliman              |  14.2 |        32 |              |               |
+|  307 | Charles Denby             |  14.2 |         5 |              |               |
+|  308 | Daniel Isaacson           |  14.1 |         6 |        +1.27 |               |
 |  309 | Neil Sachs                |  14.1 |        12 |              |               |
 |  310 | Rupert Myers              |  14.0 |        27 |              |               |
 |  311 | Tuong-Vi Faber            |  13.9 |        32 |              |               |
@@ -323,9 +323,9 @@ Generated 2018-01-24.
 |  319 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  320 | Lars Foleide              |  13.5 |        11 |              |               |
 |  321 | Alex Rennet               |  13.5 |         2 |              |               |
-|  322 | Kent Daniels              |  13.5 |       123 |        +0.13 |         -1.27 |
-|  323 | Joe Hyde                  |  13.4 |        68 |              |               |
-|  324 | Jake Toy                  |  13.4 |         5 |              |               |
+|  322 | Joe Hyde                  |  13.4 |        68 |              |               |
+|  323 | Jake Toy                  |  13.4 |         5 |              |               |
+|  324 | Kent Daniels              |  13.4 |       124 |        +0.03 |         -1.37 |
 |  325 | Danielle Craig            |  13.3 |         3 |              |               |
 |  326 | Ulf Baumann               |  13.3 |         4 |              |               |
 |  327 | Sameer Abraham            |  13.2 |        24 |              |               |
@@ -397,8 +397,8 @@ Generated 2018-01-24.
 |  393 | Anosha Siripala           |   9.2 |        10 |              |               |
 |  394 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  395 | Manuel Coquet             |   9.1 |        11 |        -0.38 |               |
-|  396 | Rashid Hameed             |   9.1 |         8 |        -0.43 |               |
-|  397 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  396 | Janeau Janssen            |   9.1 |        14 |              |               |
+|  397 | Rashid Hameed             |   9.1 |         8 |        -0.43 |               |
 |  398 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  399 | Laura Dobbs               |   9.0 |        26 |              |               |
 |  400 | Anshuman Tiwari           |   8.8 |         2 |              |               |
@@ -463,8 +463,8 @@ Generated 2018-01-24.
 |  459 | Anuj Dawar                |   4.2 |        15 |              |         +1.38 |
 |  460 | Annie Wong                |   4.0 |         3 |              |               |
 |  461 | Ryan                      |   4.0 |         3 |              |               |
-|  462 | Joanna Majkowski          |   3.9 |        11 |        +1.25 |               |
-|  463 | Mateo Aceves              |   3.8 |         4 |              |               |
+|  462 | Mateo Aceves              |   3.8 |         4 |              |               |
+|  463 | Joanna Majkowski          |   3.8 |        12 |        +1.07 |               |
 |  464 | Nakul Vakil               |   3.0 |         5 |              |               |
 |  465 | Maria Garzon              |   3.0 |         5 |              |               |
 |  466 | Nadir Shams               |   3.0 |         2 |              |               |
