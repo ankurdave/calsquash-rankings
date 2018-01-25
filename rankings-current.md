@@ -29,10 +29,10 @@ Generated 2018-01-25.
 |   25 | Karan Goyal        |  16.2 |        22 |        +0.29 |               |
 |   26 | Craig Hollow       |  16.1 |        43 |        +0.64 |        +14.10 |
 |   27 | Terry Chang        |  15.8 |        48 |              |               |
-|   28 | Diego Butrich      |  14.4 |        26 |        +0.28 |         -0.16 |
-|   29 | Daniel Isaacson    |  14.1 |         6 |        +1.27 |               |
+|   28 | Diego Butrich      |  14.5 |        26 |        +0.34 |         -0.10 |
+|   29 | Daniel Isaacson    |  14.3 |         6 |        +1.48 |               |
 |   30 | Meldan Heaslip     |  13.6 |        50 |        +0.21 |         +3.23 |
-|   31 | Kent Daniels       |  13.4 |       124 |        +0.03 |         -1.37 |
+|   31 | Kent Daniels       |  13.3 |       124 |              |         -1.40 |
 |   32 | Josh Lebowitz      |  13.1 |        68 |        +0.15 |         +2.37 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
 |   34 | Sara Bamberger     |  11.2 |        13 |        -0.50 |               |
@@ -41,10 +41,10 @@ Generated 2018-01-25.
 |   37 | Terence Stotz      |  10.2 |        20 |        -0.03 |               |
 |   38 | Vishesh Dalal      |  10.2 |        11 |        -0.26 |               |
 |   39 | Manuel Coquet      |   9.1 |        11 |        -0.38 |               |
-|   40 | Rashid Hameed      |   9.1 |         8 |        -0.43 |               |
-|   41 | Brian Kempenich    |   8.5 |        61 |        +0.30 |         -0.03 |
+|   40 | Brian Kempenich    |   8.5 |        61 |        +0.30 |         -0.03 |
+|   41 | Rashid Hameed      |   8.3 |         9 |        -1.15 |               |
 |   42 | Stephen Harrell    |   6.6 |         3 |              |               |
-|   43 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
-|   44 | Zsolt Bartha       |   4.6 |        74 |        +0.13 |         +0.15 |
-|   45 | Joanna Majkowski   |   3.8 |        12 |        +1.07 |               |
+|   43 | Joanna Majkowski   |   6.3 |        13 |        +3.61 |               |
+|   44 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |
+|   45 | Zsolt Bartha       |   4.6 |        74 |        +0.13 |         +0.15 |
 |   46 | Duncan MacRae      |   0.4 |        39 |        -0.29 |         +6.71 |
