@@ -137,15 +137,15 @@ Generated 2018-01-25.
 |  133 | Omair Azam                |  21.7 |        18 |              |               |
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
 |  135 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  136 | Dante Popple              |  21.5 |        17 |              |               |
-|  137 | Jared Bard                |  21.4 |        48 |        +0.10 |         +0.96 |
+|  136 | Jared Bard                |  21.5 |        49 |        +0.19 |         +1.05 |
+|  137 | Dante Popple              |  21.5 |        17 |              |               |
 |  138 | Jonathan Hankar           |  21.3 |       226 |        -0.33 |         -1.00 |
 |  139 | Ian Lunt                  |  21.3 |         9 |              |               |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  141 | Adam Jacob                |  21.3 |         3 |              |               |
 |  142 | Vishal Jain               |  21.3 |         6 |              |               |
-|  143 | Reid Johnsen              |  21.2 |        60 |        -0.17 |         -0.78 |
-|  144 | Casey Harelson            |  21.2 |        20 |              |               |
+|  143 | Casey Harelson            |  21.2 |        20 |              |               |
+|  144 | Reid Johnsen              |  21.2 |        61 |        -0.22 |         -0.83 |
 |  145 | Philip Bildner            |  21.2 |        22 |              |               |
 |  146 | Darren Morgan             |  21.2 |        11 |              |               |
 |  147 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |

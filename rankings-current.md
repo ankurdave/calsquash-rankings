@@ -13,9 +13,9 @@ Generated 2018-01-25.
 |    9 | Matt Wong          |  24.1 |       110 |        +0.13 |         +0.53 |
 |   10 | Aditya Guntuboyina |  23.9 |        84 |              |         +0.66 |
 |   11 | Matthew Bond       |  23.4 |        12 |        +2.53 |               |
-|   12 | Jared Bard         |  21.4 |        48 |        +0.10 |         +0.96 |
+|   12 | Jared Bard         |  21.5 |        49 |        +0.19 |         +1.05 |
 |   13 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |
-|   14 | Reid Johnsen       |  21.2 |        60 |        -0.17 |         -0.78 |
+|   14 | Reid Johnsen       |  21.2 |        61 |        -0.22 |         -0.83 |
 |   15 | Anthony Abel       |  21.0 |        23 |        +1.48 |               |
 |   16 | Mark Modera        |  20.2 |       349 |        -0.36 |         -0.57 |
 |   17 | Ankur Dave         |  19.9 |        98 |        -0.15 |         +4.35 |
