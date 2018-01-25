@@ -284,29 +284,29 @@ Generated 2018-01-25.
 |  280 | Kevin Fox                 |  15.3 |         7 |              |               |
 |  281 | Grant Buckingham          |  15.2 |         3 |              |               |
 |  282 | James Grant               |  15.2 |         8 |              |         +4.97 |
-|  283 | Jim Evans                 |  15.1 |       216 |              |               |
-|  284 | Dennis Chan               |  15.1 |         1 |              |               |
-|  285 | Allie Giovanelli          |  15.0 |         4 |              |               |
-|  286 | Patrick Baylis            |  15.0 |        12 |              |               |
-|  287 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
-|  288 | Mimi Zhang                |  14.9 |         6 |              |               |
-|  289 | Jeff Dorman               |  14.9 |        14 |              |               |
-|  290 | Alex Marqusee             |  14.9 |        28 |              |               |
-|  291 | Sergey Dobrinov           |  14.9 |        26 |              |               |
-|  292 | Paul Norberg              |  14.8 |         8 |              |               |
-|  293 | Frederick Bayles          |  14.8 |         8 |              |               |
-|  294 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
-|  295 | David Elfant              |  14.7 |         2 |              |               |
-|  296 | Ansul Rajgha              |  14.7 |        15 |              |               |
-|  297 | Margaret Chapman          |  14.6 |         6 |              |               |
-|  298 | Jee Hwan Kim              |  14.6 |         7 |              |               |
-|  299 | Shai Vardi                |  14.5 |         4 |              |               |
-|  300 | Nicholas Monsees          |  14.5 |         5 |              |               |
-|  301 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.44 |
-|  302 | Diego Butrich             |  14.5 |        26 |        +0.34 |         -0.10 |
-|  303 | Max Woodworth             |  14.4 |         7 |              |               |
-|  304 | Juliet Shih               |  14.4 |        11 |              |               |
-|  305 | Daniel Isaacson           |  14.3 |         6 |        +1.48 |               |
+|  283 | Daniel Isaacson           |  15.1 |         7 |        +2.25 |               |
+|  284 | Jim Evans                 |  15.1 |       216 |              |               |
+|  285 | Dennis Chan               |  15.1 |         1 |              |               |
+|  286 | Allie Giovanelli          |  15.0 |         4 |              |               |
+|  287 | Patrick Baylis            |  15.0 |        12 |              |               |
+|  288 | Guillaume Eric Sandoz     |  15.0 |        22 |              |               |
+|  289 | Mimi Zhang                |  14.9 |         6 |              |               |
+|  290 | Jeff Dorman               |  14.9 |        14 |              |               |
+|  291 | Alex Marqusee             |  14.9 |        28 |              |               |
+|  292 | Sergey Dobrinov           |  14.9 |        26 |              |               |
+|  293 | Paul Norberg              |  14.8 |         8 |              |               |
+|  294 | Frederick Bayles          |  14.8 |         8 |              |               |
+|  295 | Marghoob Mohiyuddin       |  14.7 |        31 |              |               |
+|  296 | David Elfant              |  14.7 |         2 |              |               |
+|  297 | Ansul Rajgha              |  14.7 |        15 |              |               |
+|  298 | Margaret Chapman          |  14.6 |         6 |              |               |
+|  299 | Jee Hwan Kim              |  14.6 |         7 |              |               |
+|  300 | Shai Vardi                |  14.5 |         4 |              |               |
+|  301 | Nicholas Monsees          |  14.5 |         5 |              |               |
+|  302 | Nikhil Paranjape          |  14.5 |        45 |              |         +1.44 |
+|  303 | Diego Butrich             |  14.5 |        27 |        +0.32 |         -0.12 |
+|  304 | Max Woodworth             |  14.4 |         7 |              |               |
+|  305 | Juliet Shih               |  14.4 |        11 |              |               |
 |  306 | Khurram Mahmood           |  14.3 |         3 |              |               |
 |  307 | Adam Soliman              |  14.2 |        32 |              |               |
 |  308 | Charles Denby             |  14.2 |         5 |              |               |
@@ -442,7 +442,7 @@ Generated 2018-01-25.
 |  438 | Mikel Shybut              |   6.5 |         4 |              |               |
 |  439 | Markus Boese              |   6.5 |         1 |              |               |
 |  440 | Dav Clark                 |   6.4 |         6 |              |               |
-|  441 | Joanna Majkowski          |   6.3 |        13 |        +3.61 |               |
+|  441 | Joanna Majkowski          |   6.3 |        13 |        +3.62 |               |
 |  442 | Nicolas Huber             |   6.2 |         4 |              |               |
 |  443 | Avi Flamholz              |   6.1 |        11 |        +0.63 |               |
 |  444 | Rafael Silberblatt        |   6.1 |         5 |              |               |
