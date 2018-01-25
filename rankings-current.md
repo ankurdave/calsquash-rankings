@@ -1,4 +1,4 @@
-Generated 2018-01-24.
+Generated 2018-01-25.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -16,15 +16,15 @@ Generated 2018-01-24.
 |   12 | Jared Bard         |  21.4 |        48 |        +0.10 |         +0.96 |
 |   13 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |
 |   14 | Reid Johnsen       |  21.2 |        60 |        -0.17 |         -0.78 |
-|   15 | Anthony Abel       |  20.7 |        22 |        +1.23 |               |
-|   16 | Mark Modera        |  20.2 |       349 |        -0.37 |         -0.58 |
+|   15 | Anthony Abel       |  21.0 |        23 |        +1.48 |               |
+|   16 | Mark Modera        |  20.2 |       349 |        -0.36 |         -0.57 |
 |   17 | Ankur Dave         |  19.9 |        98 |        -0.15 |         +4.35 |
 |   18 | Mike Jensen-Akula  |  19.1 |       241 |        -0.09 |         -1.49 |
 |   19 | Jaime Perez        |  18.9 |        42 |        +0.06 |         -0.37 |
 |   20 | Romit Chakraborty  |  17.9 |         7 |        +2.14 |               |
 |   21 | Josh Trauner       |  17.8 |        78 |        -0.03 |         +0.17 |
 |   22 | Dror Matalon       |  17.6 |       383 |        -0.52 |         -0.56 |
-|   23 | Sahar Sareminaeni  |  16.9 |        54 |        -0.20 |         +1.36 |
+|   23 | Sahar Sareminaeni  |  16.7 |        55 |        -0.36 |         +1.20 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
 |   25 | Karan Goyal        |  16.2 |        22 |        +0.29 |               |
 |   26 | Craig Hollow       |  16.1 |        43 |        +0.64 |        +14.10 |

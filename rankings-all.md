@@ -1,4 +1,4 @@
-Generated 2018-01-24.
+Generated 2018-01-25.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -151,13 +151,13 @@ Generated 2018-01-24.
 |  147 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  148 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  149 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  150 | Geoffrey Barrows          |  20.9 |        14 |              |               |
-|  151 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
-|  152 | Joseph Farrell            |  20.9 |         8 |              |               |
-|  153 | Robert Isaac              |  20.8 |        17 |              |               |
-|  154 | Jamie Funk                |  20.8 |        30 |              |               |
-|  155 | Matthew Brett             |  20.7 |        20 |              |               |
-|  156 | Anthony Abel              |  20.7 |        22 |        +1.23 |               |
+|  150 | Anthony Abel              |  21.0 |        23 |        +1.48 |               |
+|  151 | Geoffrey Barrows          |  20.9 |        14 |              |               |
+|  152 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
+|  153 | Joseph Farrell            |  20.9 |         8 |              |               |
+|  154 | Robert Isaac              |  20.8 |        17 |              |               |
+|  155 | Jamie Funk                |  20.8 |        30 |              |               |
+|  156 | Matthew Brett             |  20.7 |        20 |              |               |
 |  157 | Jeff Bird                 |  20.7 |        38 |              |               |
 |  158 | Andres Ramirez            |  20.6 |         8 |              |               |
 |  159 | Natalie Bratwood          |  20.5 |         5 |              |               |
@@ -168,7 +168,7 @@ Generated 2018-01-24.
 |  164 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
 |  165 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
 |  166 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  167 | Mark Modera               |  20.2 |       349 |        -0.37 |         -0.58 |
+|  167 | Mark Modera               |  20.2 |       349 |        -0.36 |         -0.57 |
 |  168 | John Grim                 |  20.1 |        13 |              |               |
 |  169 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  170 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -251,8 +251,8 @@ Generated 2018-01-24.
 |  247 | Michael Cianfrocco        |  17.0 |        18 |              |               |
 |  248 | Baxter Leman              |  16.9 |         6 |              |               |
 |  249 | Bobby Hicks               |  16.9 |         2 |              |               |
-|  250 | Sahar Sareminaeni         |  16.9 |        54 |        -0.20 |         +1.36 |
-|  251 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  250 | Allan Dafoe               |  16.8 |        43 |              |               |
+|  251 | Sahar Sareminaeni         |  16.7 |        55 |        -0.36 |         +1.20 |
 |  252 | Wayne Heiser              |  16.7 |        61 |              |         -1.00 |
 |  253 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  254 | Chris Flores              |  16.7 |       327 |              |         +0.13 |
