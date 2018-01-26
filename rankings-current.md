@@ -1,4 +1,4 @@
-Generated 2018-01-25.
+Generated 2018-01-26.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -23,19 +23,19 @@ Generated 2018-01-25.
 |   19 | Jaime Perez        |  18.9 |        42 |        +0.06 |         -0.37 |
 |   20 | Romit Chakraborty  |  17.9 |         7 |        +2.15 |               |
 |   21 | Josh Trauner       |  17.8 |        78 |        -0.03 |         +0.17 |
-|   22 | Dror Matalon       |  17.6 |       383 |        -0.52 |         -0.56 |
+|   22 | Dror Matalon       |  17.7 |       383 |        -0.52 |         -0.56 |
 |   23 | Sahar Sareminaeni  |  16.7 |        56 |        -0.37 |         +1.18 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
-|   25 | Karan Goyal        |  16.2 |        22 |        +0.29 |               |
-|   26 | Craig Hollow       |  16.1 |        43 |        +0.64 |        +14.10 |
+|   25 | Craig Hollow       |  16.3 |        44 |        +0.83 |        +14.30 |
+|   26 | Karan Goyal        |  16.2 |        22 |        +0.29 |               |
 |   27 | Terry Chang        |  15.8 |        48 |              |               |
 |   28 | Daniel Isaacson    |  15.1 |         7 |        +2.25 |               |
 |   29 | Diego Butrich      |  14.5 |        27 |        +0.32 |         -0.12 |
-|   30 | Meldan Heaslip     |  13.6 |        50 |        +0.21 |         +3.23 |
+|   30 | Meldan Heaslip     |  13.6 |        50 |        +0.19 |         +3.21 |
 |   31 | Kent Daniels       |  13.3 |       124 |              |         -1.40 |
 |   32 | Josh Lebowitz      |  13.1 |        68 |        +0.15 |         +2.37 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
-|   34 | Sara Bamberger     |  11.2 |        13 |        -0.50 |               |
+|   34 | Sara Bamberger     |  10.9 |        14 |        -0.78 |               |
 |   35 | Caroline Palmer    |  10.9 |         8 |              |               |
 |   36 | Ryan van der Harst |  10.5 |         8 |        +6.33 |               |
 |   37 | Terence Stotz      |  10.2 |        20 |        -0.03 |               |

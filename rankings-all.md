@@ -1,4 +1,4 @@
-Generated 2018-01-25.
+Generated 2018-01-26.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -231,7 +231,7 @@ Generated 2018-01-25.
 |  227 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  229 | George Roche              |  17.7 |        14 |              |               |
-|  230 | Dror Matalon              |  17.6 |       383 |        -0.52 |         -0.56 |
+|  230 | Dror Matalon              |  17.7 |       383 |        -0.52 |         -0.56 |
 |  231 | Jim Kingsbury             |  17.6 |         2 |              |               |
 |  232 | Subrato Dey               |  17.5 |        26 |              |               |
 |  233 | Antonio Garcia            |  17.5 |        20 |              |               |
@@ -264,12 +264,12 @@ Generated 2018-01-25.
 |  260 | Danish Mir                |  16.4 |         1 |              |               |
 |  261 | Paul Chang                |  16.3 |         7 |              |               |
 |  262 | Steven Hahm               |  16.3 |         5 |              |               |
-|  263 | Jules Bowie               |  16.3 |        12 |              |               |
-|  264 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  265 | Karan Goyal               |  16.2 |        22 |        +0.29 |               |
-|  266 | Jan Strasky               |  16.2 |        12 |              |               |
-|  267 | Sarah Mcneil              |  16.2 |        24 |              |               |
-|  268 | Craig Hollow              |  16.1 |        43 |        +0.64 |        +14.10 |
+|  263 | Craig Hollow              |  16.3 |        44 |        +0.83 |        +14.30 |
+|  264 | Jules Bowie               |  16.3 |        12 |              |               |
+|  265 | Wladislaw Ellis           |  16.2 |        29 |              |               |
+|  266 | Karan Goyal               |  16.2 |        22 |        +0.29 |               |
+|  267 | Jan Strasky               |  16.2 |        12 |              |               |
+|  268 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  269 | Marc Bensadoun            |  16.1 |         5 |              |               |
 |  270 | Terry Chang               |  15.8 |        48 |              |               |
 |  271 | Louis Russell             |  15.8 |        20 |              |               |
@@ -318,8 +318,8 @@ Generated 2018-01-25.
 |  314 | Freeden Ouer              |  13.8 |         1 |              |               |
 |  315 | Tim Browning              |  13.8 |         7 |              |               |
 |  316 | Josephine Lee             |  13.7 |         6 |              |               |
-|  317 | Meldan Heaslip            |  13.6 |        50 |        +0.21 |         +3.23 |
-|  318 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  317 | Kunal Talwar              |  13.6 |         1 |              |               |
+|  318 | Meldan Heaslip            |  13.6 |        50 |        +0.19 |         +3.21 |
 |  319 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  320 | Lars Foleide              |  13.5 |        11 |              |               |
 |  321 | Alex Rennet               |  13.5 |         2 |              |               |
@@ -360,8 +360,8 @@ Generated 2018-01-25.
 |  356 | Deepak Dasalukunte        |  11.6 |         9 |              |               |
 |  357 | Carlos Filho              |  11.4 |         7 |              |               |
 |  358 | Karan Jain                |  11.3 |        19 |              |               |
-|  359 | Sara Bamberger            |  11.2 |        13 |        -0.50 |               |
-|  360 | Lucas Siow                |  11.0 |        10 |              |               |
+|  359 | Lucas Siow                |  11.0 |        10 |              |               |
+|  360 | Sara Bamberger            |  10.9 |        14 |        -0.78 |               |
 |  361 | Dominick Ng               |  10.9 |        25 |              |               |
 |  362 | Caroline Palmer           |  10.9 |         8 |              |               |
 |  363 | George Bentley            |  10.6 |         4 |              |               |
