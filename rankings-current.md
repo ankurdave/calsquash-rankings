@@ -17,14 +17,14 @@ Generated 2018-01-25.
 |   13 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |
 |   14 | Reid Johnsen       |  21.2 |        61 |        -0.22 |         -0.83 |
 |   15 | Anthony Abel       |  21.0 |        23 |        +1.48 |               |
-|   16 | Mark Modera        |  20.2 |       349 |        -0.36 |         -0.57 |
+|   16 | Mark Modera        |  20.2 |       350 |        -0.34 |         -0.55 |
 |   17 | Ankur Dave         |  19.9 |        98 |        -0.15 |         +4.35 |
 |   18 | Mike Jensen-Akula  |  19.1 |       241 |        -0.09 |         -1.49 |
 |   19 | Jaime Perez        |  18.9 |        42 |        +0.06 |         -0.37 |
-|   20 | Romit Chakraborty  |  17.9 |         7 |        +2.14 |               |
+|   20 | Romit Chakraborty  |  17.9 |         7 |        +2.15 |               |
 |   21 | Josh Trauner       |  17.8 |        78 |        -0.03 |         +0.17 |
 |   22 | Dror Matalon       |  17.6 |       383 |        -0.52 |         -0.56 |
-|   23 | Sahar Sareminaeni  |  16.7 |        55 |        -0.36 |         +1.20 |
+|   23 | Sahar Sareminaeni  |  16.7 |        56 |        -0.37 |         +1.18 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
 |   25 | Karan Goyal        |  16.2 |        22 |        +0.29 |               |
 |   26 | Craig Hollow       |  16.1 |        43 |        +0.64 |        +14.10 |

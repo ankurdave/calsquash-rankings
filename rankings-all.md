@@ -168,7 +168,7 @@ Generated 2018-01-25.
 |  164 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
 |  165 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
 |  166 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  167 | Mark Modera               |  20.2 |       349 |        -0.36 |         -0.57 |
+|  167 | Mark Modera               |  20.2 |       350 |        -0.34 |         -0.55 |
 |  168 | John Grim                 |  20.1 |        13 |              |               |
 |  169 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  170 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -221,7 +221,7 @@ Generated 2018-01-25.
 |  217 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  218 | Bob Roller                |  18.2 |         6 |              |               |
 |  219 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  220 | Romit Chakraborty         |  17.9 |         7 |        +2.14 |               |
+|  220 | Romit Chakraborty         |  17.9 |         7 |        +2.15 |               |
 |  221 | James Chung               |  17.9 |         7 |              |               |
 |  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  223 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
@@ -252,8 +252,8 @@ Generated 2018-01-25.
 |  248 | Baxter Leman              |  16.9 |         6 |              |               |
 |  249 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  250 | Allan Dafoe               |  16.8 |        43 |              |               |
-|  251 | Sahar Sareminaeni         |  16.7 |        55 |        -0.36 |         +1.20 |
-|  252 | Wayne Heiser              |  16.7 |        61 |              |         -1.00 |
+|  251 | Wayne Heiser              |  16.7 |        61 |              |         -1.00 |
+|  252 | Sahar Sareminaeni         |  16.7 |        56 |        -0.37 |         +1.18 |
 |  253 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  254 | Chris Flores              |  16.7 |       327 |              |         +0.13 |
 |  255 | David Shabelman           |  16.7 |        30 |              |               |
