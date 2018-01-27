@@ -151,7 +151,7 @@ Generated 2018-01-26.
 |  147 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  148 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  149 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  150 | Anthony Abel              |  21.0 |        23 |        +1.48 |               |
+|  150 | Anthony Abel              |  21.0 |        24 |        +1.53 |               |
 |  151 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  152 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  153 | Joseph Farrell            |  20.9 |         8 |              |               |
@@ -168,7 +168,7 @@ Generated 2018-01-26.
 |  164 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
 |  165 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
 |  166 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  167 | Mark Modera               |  20.2 |       350 |        -0.34 |         -0.55 |
+|  167 | Mark Modera               |  20.2 |       350 |        -0.34 |         -0.54 |
 |  168 | John Grim                 |  20.1 |        13 |              |               |
 |  169 | Shwetabh Singh            |  20.1 |         6 |              |               |
 |  170 | Frank Kennan              |  20.1 |        11 |              |               |
@@ -217,17 +217,17 @@ Generated 2018-01-26.
 |  213 | John Eng                  |  18.4 |        28 |              |               |
 |  214 | Natalie Leung             |  18.4 |         1 |              |               |
 |  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  216 | Kenny Bell                |  18.2 |       124 |              |               |
-|  217 | Pierre Darancet           |  18.2 |        94 |              |               |
-|  218 | Bob Roller                |  18.2 |         6 |              |               |
-|  219 | Jamie Paterson            |  18.1 |         4 |              |               |
-|  220 | Romit Chakraborty         |  17.9 |         7 |        +2.15 |               |
+|  216 | Romit Chakraborty         |  18.2 |         8 |        +2.45 |               |
+|  217 | Kenny Bell                |  18.2 |       124 |              |               |
+|  218 | Pierre Darancet           |  18.2 |        94 |              |               |
+|  219 | Bob Roller                |  18.2 |         6 |              |               |
+|  220 | Jamie Paterson            |  18.1 |         4 |              |               |
 |  221 | James Chung               |  17.9 |         7 |              |               |
 |  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  223 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
 |  224 | Troup Howard              |  17.8 |        47 |              |         +0.12 |
-|  225 | Josh Trauner              |  17.8 |        78 |        -0.03 |         +0.17 |
-|  226 | Nick Paget                |  17.8 |        35 |              |               |
+|  225 | Nick Paget                |  17.8 |        35 |              |               |
+|  226 | Josh Trauner              |  17.8 |        78 |        -0.03 |         +0.16 |
 |  227 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  229 | George Roche              |  17.7 |        14 |              |               |
