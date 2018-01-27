@@ -1,4 +1,4 @@
-Generated 2018-01-26.
+Generated 2018-01-27.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -137,10 +137,10 @@ Generated 2018-01-26.
 |  133 | Omair Azam                |  21.7 |        18 |              |               |
 |  134 | Phin Lee                  |  21.7 |        16 |              |               |
 |  135 | Tim Bruckner              |  21.7 |        10 |              |               |
-|  136 | Jared Bard                |  21.5 |        49 |        +0.19 |         +1.05 |
-|  137 | Dante Popple              |  21.5 |        17 |              |               |
-|  138 | Jonathan Hankar           |  21.3 |       226 |        -0.33 |         -1.00 |
-|  139 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  136 | Dante Popple              |  21.5 |        17 |              |               |
+|  137 | Jonathan Hankar           |  21.3 |       226 |        -0.33 |         -1.00 |
+|  138 | Ian Lunt                  |  21.3 |         9 |              |               |
+|  139 | Jared Bard                |  21.3 |        50 |        -0.05 |         +0.81 |
 |  140 | Thomas Krussig            |  21.3 |        16 |              |               |
 |  141 | Adam Jacob                |  21.3 |         3 |              |               |
 |  142 | Vishal Jain               |  21.3 |         6 |              |               |
@@ -169,16 +169,16 @@ Generated 2018-01-26.
 |  165 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
 |  166 | Anirudh Todi              |  20.3 |         3 |              |               |
 |  167 | Mark Modera               |  20.2 |       350 |        -0.34 |         -0.54 |
-|  168 | John Grim                 |  20.1 |        13 |              |               |
-|  169 | Shwetabh Singh            |  20.1 |         6 |              |               |
-|  170 | Frank Kennan              |  20.1 |        11 |              |               |
-|  171 | Robert Schwartz           |  20.1 |        90 |              |         -0.30 |
-|  172 | Shaun Lim                 |  20.0 |        64 |              |         +1.73 |
-|  173 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
-|  174 | Jonathan Francis          |  20.0 |        76 |              |         +0.37 |
-|  175 | Wesley Huang              |  20.0 |         8 |              |               |
-|  176 | Jaime Vidal               |  19.9 |         8 |              |               |
-|  177 | Ankur Dave                |  19.9 |        98 |        -0.15 |         +4.35 |
+|  168 | Ankur Dave                |  20.2 |        99 |        +0.11 |         +4.61 |
+|  169 | John Grim                 |  20.1 |        13 |              |               |
+|  170 | Shwetabh Singh            |  20.1 |         6 |              |               |
+|  171 | Frank Kennan              |  20.1 |        11 |              |               |
+|  172 | Robert Schwartz           |  20.1 |        90 |              |         -0.30 |
+|  173 | Shaun Lim                 |  20.0 |        64 |              |         +1.73 |
+|  174 | Matthew Zaragoza-Watkins  |  20.0 |        63 |              |               |
+|  175 | Jonathan Francis          |  20.0 |        76 |              |         +0.37 |
+|  176 | Wesley Huang              |  20.0 |         8 |              |               |
+|  177 | Jaime Vidal               |  19.9 |         8 |              |               |
 |  178 | Liam King                 |  19.9 |         6 |              |               |
 |  179 | Lysander Jim              |  19.8 |         6 |              |               |
 |  180 | Sebastien Biraud          |  19.7 |        60 |              |               |
