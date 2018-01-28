@@ -1,4 +1,4 @@
-Generated 2018-01-27.
+Generated 2018-01-28.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -19,19 +19,19 @@ Generated 2018-01-27.
 |   15 | Anthony Abel       |  21.0 |        24 |        +1.53 |               |
 |   16 | Mark Modera        |  20.2 |       350 |        -0.34 |         -0.54 |
 |   17 | Ankur Dave         |  20.2 |        99 |        +0.11 |         +4.61 |
-|   18 | Mike Jensen-Akula  |  19.1 |       241 |        -0.09 |         -1.49 |
+|   18 | Mike Jensen-Akula  |  19.0 |       242 |        -0.20 |         -1.60 |
 |   19 | Jaime Perez        |  18.9 |        42 |        +0.06 |         -0.37 |
 |   20 | Romit Chakraborty  |  18.2 |         8 |        +2.45 |               |
 |   21 | Josh Trauner       |  17.8 |        78 |        -0.03 |         +0.16 |
-|   22 | Dror Matalon       |  17.7 |       383 |        -0.52 |         -0.56 |
+|   22 | Dror Matalon       |  17.8 |       384 |        -0.38 |         -0.42 |
 |   23 | Sahar Sareminaeni  |  16.7 |        56 |        -0.37 |         +1.18 |
 |   24 | David Bratt        |  16.4 |        32 |              |         -0.17 |
-|   25 | Craig Hollow       |  16.3 |        44 |        +0.83 |        +14.30 |
+|   25 | Craig Hollow       |  16.3 |        44 |        +0.84 |        +14.31 |
 |   26 | Karan Goyal        |  16.2 |        22 |        +0.29 |               |
 |   27 | Terry Chang        |  15.8 |        48 |              |               |
 |   28 | Daniel Isaacson    |  15.1 |         7 |        +2.25 |               |
 |   29 | Diego Butrich      |  14.5 |        27 |        +0.32 |         -0.12 |
-|   30 | Meldan Heaslip     |  13.6 |        50 |        +0.19 |         +3.21 |
+|   30 | Meldan Heaslip     |  13.5 |        50 |        +0.19 |         +3.21 |
 |   31 | Kent Daniels       |  13.3 |       124 |              |         -1.40 |
 |   32 | Josh Lebowitz      |  13.1 |        68 |        +0.15 |         +2.37 |
 |   33 | Raphael Magarik    |  11.9 |        47 |        +0.22 |         +3.08 |
