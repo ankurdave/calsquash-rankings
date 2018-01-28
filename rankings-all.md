@@ -197,7 +197,7 @@ Generated 2018-01-28.
 |  193 | Narayan Sankaran          |  19.1 |        24 |              |               |
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  195 | Yating Liu                |  19.0 |         7 |              |               |
-|  196 | Mike Jensen-Akula         |  19.0 |       242 |        -0.20 |         -1.60 |
+|  196 | Mike Jensen-Akula         |  19.0 |       242 |        -0.19 |         -1.59 |
 |  197 | Jaime Perez               |  18.9 |        42 |        +0.06 |         -0.37 |
 |  198 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  199 | Hari Dhavala              |  18.9 |        27 |              |               |
@@ -229,10 +229,10 @@ Generated 2018-01-28.
 |  225 | Nick Paget                |  17.8 |        35 |              |               |
 |  226 | Josh Trauner              |  17.8 |        78 |        -0.03 |         +0.16 |
 |  227 | Chris Harrelson           |  17.8 |        47 |              |               |
-|  228 | Dror Matalon              |  17.8 |       384 |        -0.38 |         -0.42 |
-|  229 | Ranjit Jhala              |  17.8 |         6 |              |               |
-|  230 | George Roche              |  17.7 |        14 |              |               |
-|  231 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
+|  229 | George Roche              |  17.7 |        14 |              |               |
+|  230 | Jim Kingsbury             |  17.6 |         2 |              |               |
+|  231 | Dror Matalon              |  17.6 |       385 |        -0.59 |         -0.63 |
 |  232 | Subrato Dey               |  17.5 |        26 |              |               |
 |  233 | Antonio Garcia            |  17.5 |        20 |              |               |
 |  234 | Sam Trachtman             |  17.4 |         5 |              |               |
@@ -257,17 +257,17 @@ Generated 2018-01-28.
 |  253 | Chinghway Lim             |  16.7 |        10 |              |               |
 |  254 | Chris Flores              |  16.7 |       327 |              |         +0.13 |
 |  255 | David Shabelman           |  16.7 |        30 |              |               |
-|  256 | Mark Priven               |  16.6 |        72 |              |               |
-|  257 | William Coleman           |  16.5 |        48 |              |               |
-|  258 | Mike Troxell              |  16.5 |         8 |              |               |
-|  259 | David Bratt               |  16.4 |        32 |              |         -0.17 |
-|  260 | Danish Mir                |  16.4 |         1 |              |               |
-|  261 | Craig Hollow              |  16.3 |        44 |        +0.84 |        +14.31 |
+|  256 | Karan Goyal               |  16.6 |        23 |        +0.71 |               |
+|  257 | Mark Priven               |  16.6 |        72 |              |               |
+|  258 | William Coleman           |  16.5 |        48 |              |               |
+|  259 | Mike Troxell              |  16.5 |         8 |              |               |
+|  260 | David Bratt               |  16.4 |        32 |              |         -0.17 |
+|  261 | Danish Mir                |  16.4 |         1 |              |               |
 |  262 | Paul Chang                |  16.3 |         7 |              |               |
 |  263 | Steven Hahm               |  16.3 |         5 |              |               |
-|  264 | Jules Bowie               |  16.3 |        12 |              |               |
-|  265 | Wladislaw Ellis           |  16.2 |        29 |              |               |
-|  266 | Karan Goyal               |  16.2 |        22 |        +0.29 |               |
+|  264 | Craig Hollow              |  16.3 |        44 |        +0.81 |        +14.28 |
+|  265 | Jules Bowie               |  16.3 |        12 |              |               |
+|  266 | Wladislaw Ellis           |  16.2 |        29 |              |               |
 |  267 | Jan Strasky               |  16.2 |        12 |              |               |
 |  268 | Sarah Mcneil              |  16.2 |        24 |              |               |
 |  269 | Marc Bensadoun            |  16.1 |         5 |              |               |
@@ -319,7 +319,7 @@ Generated 2018-01-28.
 |  315 | Tim Browning              |  13.8 |         7 |              |               |
 |  316 | Josephine Lee             |  13.7 |         6 |              |               |
 |  317 | Kunal Talwar              |  13.6 |         1 |              |               |
-|  318 | Meldan Heaslip            |  13.5 |        50 |        +0.19 |         +3.21 |
+|  318 | Meldan Heaslip            |  13.6 |        50 |        +0.20 |         +3.22 |
 |  319 | Mohammed Shamma           |  13.5 |         5 |              |               |
 |  320 | Lars Foleide              |  13.5 |        11 |              |               |
 |  321 | Alex Rennet               |  13.5 |         2 |              |               |
