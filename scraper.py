@@ -4,6 +4,7 @@ import boto3
 import bs4
 import checksumdir
 import errno
+import multiprocessing.pool
 import os
 import os.path
 import requests
@@ -39,9 +40,14 @@ def scrape():
   # Download previous scraper state
   s3 = boto3.client('s3')
   files = s3.list_objects(Bucket=bucket)['Contents']
-  for f in files:
-    print 's3://%s/%s -> %s' % (bucket, f['Key'], os.path.join(scraped_dir, f['Key']))
-    s3.download_file(bucket, f['Key'], os.path.join(scraped_dir, f['Key']))
+
+  def s3_download_file(f):
+    key = f['Key']
+    destination_path = os.path.join(scraped_dir, f['Key'])
+    print 's3://%s/%s -> %s' % (bucket, key, destination_path)
+    s3.download_file(bucket, key, destination_path)
+
+  multiprocessing.pool.ThreadPool(processes=20).map(s3_download_file, files)
 
   print 'Scraper state hash:'
   prev_hash = checksumdir.dirhash(scraped_dir)
