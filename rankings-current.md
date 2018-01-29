@@ -1,4 +1,4 @@
-Generated 2018-01-28.
+Generated 2018-01-29.
 
 | Rank | Player             | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|--------------------|-------|-----------|--------------|---------------|
@@ -6,11 +6,11 @@ Generated 2018-01-28.
 |    2 | Ashley Kayler      |  33.2 |       238 |        +0.07 |         -1.84 |
 |    3 | Sam Sternberg      |  31.1 |       169 |              |         +1.06 |
 |    4 | Nick Cobbett       |  29.2 |        57 |        +0.39 |         +2.34 |
-|    5 | Anibhav Singla     |  28.4 |        39 |        +0.22 |         +6.16 |
+|    5 | Anibhav Singla     |  28.6 |        40 |        +0.38 |         +6.32 |
 |    6 | Thomas Littleton   |  27.5 |        24 |        -0.03 |               |
-|    7 | Jim Veitch         |  24.6 |       477 |        +0.09 |         -0.20 |
+|    7 | Jim Veitch         |  24.6 |       477 |        +0.09 |         -0.21 |
 |    8 | John Kunze         |  24.6 |       348 |        -0.32 |         +0.35 |
-|    9 | Matt Wong          |  24.1 |       110 |        +0.13 |         +0.53 |
+|    9 | Matt Wong          |  24.0 |       111 |              |         +0.41 |
 |   10 | Aditya Guntuboyina |  23.9 |        84 |              |         +0.66 |
 |   11 | Matthew Bond       |  23.4 |        12 |        +2.53 |               |
 |   12 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |

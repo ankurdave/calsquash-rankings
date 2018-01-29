@@ -1,4 +1,4 @@
-Generated 2018-01-28.
+Generated 2018-01-29.
 
 | Rank | Player                    | Skill | # Matches | 1-mo Δ Skill | 12-mo Δ Skill |
 |------|---------------------------|-------|-----------|--------------|---------------|
@@ -30,7 +30,7 @@ Generated 2018-01-28.
 |   26 | Heba Nossier              |  29.2 |        14 |              |               |
 |   27 | Justin McCrary            |  29.0 |       140 |              |               |
 |   28 | David Woo                 |  28.7 |        11 |              |               |
-|   29 | Anibhav Singla            |  28.4 |        39 |        +0.22 |         +6.16 |
+|   29 | Anibhav Singla            |  28.6 |        40 |        +0.38 |         +6.32 |
 |   30 | Ali Rahim                 |  28.4 |        24 |              |               |
 |   31 | Mikael Rehn               |  28.3 |         5 |              |               |
 |   32 | Rodrigo Cabral            |  28.1 |        29 |              |               |
@@ -71,7 +71,7 @@ Generated 2018-01-28.
 |   67 | Sushil Shetty             |  24.8 |        23 |              |               |
 |   68 | Orion Hodson              |  24.8 |        31 |              |               |
 |   69 | Martin Stokes             |  24.7 |        12 |              |               |
-|   70 | Jim Veitch                |  24.6 |       477 |        +0.09 |         -0.20 |
+|   70 | Jim Veitch                |  24.6 |       477 |        +0.09 |         -0.21 |
 |   71 | John Kunze                |  24.6 |       348 |        -0.32 |         +0.35 |
 |   72 | Christian Fuentes         |  24.6 |         8 |              |               |
 |   73 | Annie Rein-Weston         |  24.5 |        18 |              |               |
@@ -87,10 +87,10 @@ Generated 2018-01-28.
 |   83 | Matthew Elliott           |  24.2 |         7 |              |               |
 |   84 | Robert Jeng               |  24.1 |        26 |              |               |
 |   85 | Vyas Sekar                |  24.1 |        17 |              |               |
-|   86 | Matt Wong                 |  24.1 |       110 |        +0.13 |         +0.53 |
-|   87 | Benjamin Vicuna           |  24.1 |        50 |              |               |
-|   88 | Ivo Plsek                 |  24.1 |        60 |              |               |
-|   89 | Whit Eldredge             |  24.0 |         2 |              |               |
+|   86 | Benjamin Vicuna           |  24.1 |        50 |              |               |
+|   87 | Ivo Plsek                 |  24.1 |        60 |              |               |
+|   88 | Whit Eldredge             |  24.0 |         2 |              |               |
+|   89 | Matt Wong                 |  24.0 |       111 |              |         +0.41 |
 |   90 | Ignacio Canals            |  24.0 |        21 |              |               |
 |   91 | Aditya Guntuboyina        |  23.9 |        84 |              |         +0.66 |
 |   92 | Glenn Forrester           |  23.9 |       355 |              |               |
