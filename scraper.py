@@ -18,27 +18,15 @@ current_url = 's4.php?file=current.players'
 
 bucket = 'calsquash-rankings-scraped'
 
+s3 = boto3.client('s3')
+
 def url_to_filename(url):
   if url == base_url + current_url:
     return os.path.join(scraped_dir, 'current.html')
   else:
     return os.path.join(scraped_dir, url.split('/')[-1])
 
-# From http://stackoverflow.com/questions/600268/mkdir-p-functionality-in-python
-def mkdir_p(path):
-  try:
-    os.makedirs(path)
-  except OSError as exc:
-    if exc.errno == errno.EEXIST and os.path.isdir(path):
-      pass
-    else:
-      raise
-
-def scrape():
-  mkdir_p(scraped_dir)
-
-  # Download previous scraper state
-  s3 = boto3.client('s3')
+def download_scraper_state():
   files = s3.list_objects(Bucket=bucket)['Contents']
 
   def s3_download_file(f):
@@ -49,11 +37,16 @@ def scrape():
 
   multiprocessing.pool.ThreadPool(processes=20).map(s3_download_file, files)
 
-  print 'Scraper state hash:'
-  prev_hash = checksumdir.dirhash(scraped_dir)
-  print prev_hash
+def upload_scraper_state(changed_files):
+  for f in changed_files:
+    key = os.path.basename(f)
+    print '%s -> s3://%s/%s' % (f, bucket, key)
+    s3.upload_file(Filename=f, Bucket=bucket, Key=key)
 
-  # Update state with new scraped files
+def checksum_scraper_state():
+  return checksumdir.dirhash(scraped_dir)
+
+def scrape():
   changed_files = []
   seed_urls = [
     'jul03.html', 'aug03.html', 'sep03.html', 'oct03.html', 'nov03.html',
@@ -92,18 +85,17 @@ def scrape():
       if not os.path.isfile(prev_filename):
         urls_stack.append(prev_url)
 
-  # Check for changes
-  print 'New scraper state hash:'
-  new_hash = checksumdir.dirhash(scraped_dir)
-  print new_hash
-  if prev_hash != new_hash:
-    # Upload changed files
-    for f in changed_files:
-      key = os.path.basename(f)
-      print '%s -> s3://%s/%s' % (f, bucket, key)
-      s3.upload_file(Filename=f, Bucket=bucket, Key=key)
+  return changed_files
 
+def scrape_and_recompute():
+  download_scraper_state()
+  prev_hash = checksum_scraper_state()
+  changed_files = scrape()
+  if checksum_scraper_state() != prev_hash:
+    upload_scraper_state(changed_files)
     skill.skill(scraped_dir)
+  else:
+    print 'No new games'
 
 if __name__=='__main__':
-  scrape()
+  scrape_and_recompute()

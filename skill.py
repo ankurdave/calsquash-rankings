@@ -234,6 +234,3 @@ def skill(scraped_dir):
       matches += [(p1, p2, p1_score)]
       return calculate_ratings(matches)
     import pdb; pdb.set_trace()
-
-if __name__=='__main__':
-  main()
