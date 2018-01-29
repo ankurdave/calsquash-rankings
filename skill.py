@@ -8,13 +8,12 @@ import os.path
 import prettytable
 import re
 import sys
+import tempfile
 import trueskill
 
 env = trueskill.TrueSkill(draw_probability=0.0)
 
-script_dir = os.path.dirname(os.path.realpath(__file__))
-
-scraped_dir = os.path.join(script_dir, 'scraped')
+output_dir = tempfile.mkdtemp()
 
 name_substitutions = {
   'Mike Jenson-Akula': 'Mike Jensen-Akula',
@@ -94,7 +93,7 @@ def file_sort(filename):
     month = re.search('^[a-z]+', filename).group()
     return (int(year), month_to_number[month])
 
-def parse_matches():
+def parse_matches(scraped_dir):
   """Parse box league files and return match results.
 
   Return a chronologically-ordered list of tuples (player1, player2,
@@ -202,12 +201,12 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
                  '%+.2f' % (cur_skill - skill_12mo) if skill_12mo else ''])
     i += 1
 
-  with io.open(os.path.join(script_dir, outfile), 'w', encoding='utf8') as f:
+  with io.open(os.path.join(output_dir, outfile), 'w', encoding='utf8') as f:
     f.write(u'Generated %s.\n\n' % datetime.date.today().isoformat())
     f.write(tbl.get_string())
-  print 'Wrote %s.' % outfile
+  print 'Wrote %s.' % os.path.join(output_dir, outfile)
 
-def current_players():
+def current_players(scraped_dir):
   """Return this month's active players."""
   players = []
   with io.open(os.path.join(scraped_dir, 'current.html'), 'r', encoding='utf8') as f:
@@ -217,14 +216,14 @@ def current_players():
                for tr in table.find_all('tr')[1:]]
   return players
 
-def main():
-  matches, current_month_start_pos, trailing_12mo_start_pos = parse_matches()
+def skill(scraped_dir):
+  matches, current_month_start_pos, trailing_12mo_start_pos = parse_matches(scraped_dir)
   ratings_1mo, _ = calculate_ratings(matches[0:current_month_start_pos])
   ratings_12mo, _ = calculate_ratings(matches[0:trailing_12mo_start_pos])
   ratings, num_matches = calculate_ratings(matches)
   print_leaderboard(ratings, num_matches, outfile='rankings-all.md',
                     ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo)
-  cau = set(current_players())
+  cau = set(current_players(scraped_dir))
   print_leaderboard(ratings, num_matches, outfile='rankings-current.md',
                     ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
                     player_pred=lambda r: r[0] in cau)
