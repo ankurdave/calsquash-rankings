@@ -40,9 +40,9 @@ Generated 2018-01-28.
 |   36 | Ryan van der Harst |  10.5 |         8 |        +6.33 |               |
 |   37 | Terence Stotz      |  10.2 |        20 |        -0.03 |               |
 |   38 | Vishesh Dalal      |  10.2 |        11 |        -0.26 |               |
-|   39 | Manuel Coquet      |   9.1 |        11 |        -0.38 |               |
-|   40 | Brian Kempenich    |   8.5 |        61 |        +0.30 |         -0.03 |
-|   41 | Rashid Hameed      |   8.3 |         9 |        -1.15 |               |
+|   39 | Manuel Coquet      |   9.8 |        12 |        +0.30 |               |
+|   40 | Rashid Hameed      |   8.3 |         9 |        -1.15 |               |
+|   41 | Brian Kempenich    |   8.3 |        62 |        +0.11 |         -0.22 |
 |   42 | Stephen Harrell    |   6.6 |         3 |              |               |
 |   43 | Joanna Majkowski   |   6.3 |        13 |        +3.62 |               |
 |   44 | Avi Flamholz       |   6.1 |        11 |        +0.63 |               |

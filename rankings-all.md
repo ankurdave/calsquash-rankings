@@ -381,22 +381,22 @@ Generated 2018-01-28.
 |  377 | Reto Sutter               |  10.0 |        52 |              |         -0.04 |
 |  378 | Lucy Fairweather          |   9.9 |        11 |              |               |
 |  379 | Nate Aden                 |   9.9 |        42 |              |         -0.56 |
-|  380 | Daniel Schwartz           |   9.8 |        22 |              |               |
-|  381 | Myles Gordon              |   9.8 |        42 |              |               |
-|  382 | Jacob Bank                |   9.7 |         1 |              |               |
-|  383 | Gene Zubovich             |   9.7 |        19 |              |               |
-|  384 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
-|  385 | Mark Shapero              |   9.4 |         7 |              |               |
-|  386 | Kevin Pollock             |   9.4 |        28 |              |               |
-|  387 | Max Grass                 |   9.4 |         1 |              |               |
-|  388 | Alexander Porcaro         |   9.4 |         2 |              |               |
-|  389 | Rob Cuthrell              |   9.4 |        11 |              |               |
-|  390 | Robert Broesler           |   9.4 |         4 |              |               |
-|  391 | Raunak Bhinge             |   9.3 |         8 |              |               |
-|  392 | Greg Sperla               |   9.3 |         8 |              |               |
-|  393 | Anosha Siripala           |   9.2 |        10 |              |               |
-|  394 | Erdem Ovacik              |   9.2 |        10 |              |               |
-|  395 | Manuel Coquet             |   9.1 |        11 |        -0.38 |               |
+|  380 | Manuel Coquet             |   9.8 |        12 |        +0.30 |               |
+|  381 | Daniel Schwartz           |   9.8 |        22 |              |               |
+|  382 | Myles Gordon              |   9.8 |        42 |              |               |
+|  383 | Jacob Bank                |   9.7 |         1 |              |               |
+|  384 | Gene Zubovich             |   9.7 |        19 |              |               |
+|  385 | Peter Ledochowitsch       |   9.5 |        27 |              |               |
+|  386 | Mark Shapero              |   9.4 |         7 |              |               |
+|  387 | Kevin Pollock             |   9.4 |        28 |              |               |
+|  388 | Max Grass                 |   9.4 |         1 |              |               |
+|  389 | Alexander Porcaro         |   9.4 |         2 |              |               |
+|  390 | Rob Cuthrell              |   9.4 |        11 |              |               |
+|  391 | Robert Broesler           |   9.4 |         4 |              |               |
+|  392 | Raunak Bhinge             |   9.3 |         8 |              |               |
+|  393 | Greg Sperla               |   9.3 |         8 |              |               |
+|  394 | Anosha Siripala           |   9.2 |        10 |              |               |
+|  395 | Erdem Ovacik              |   9.2 |        10 |              |               |
 |  396 | Janeau Janssen            |   9.1 |        14 |              |               |
 |  397 | Michael Friedlander       |   9.0 |         3 |              |               |
 |  398 | Laura Dobbs               |   9.0 |        26 |              |               |
@@ -408,10 +408,10 @@ Generated 2018-01-28.
 |  404 | Joseph Duggan             |   8.6 |         8 |              |               |
 |  405 | Jonas Hansen              |   8.6 |        14 |              |               |
 |  406 | Sumit Gupta               |   8.5 |        13 |              |               |
-|  407 | Brian Kempenich           |   8.5 |        61 |        +0.30 |         -0.03 |
-|  408 | Duo Wang                  |   8.4 |        83 |              |         -0.08 |
-|  409 | Rashid Hameed             |   8.3 |         9 |        -1.15 |               |
-|  410 | Reynold Xin               |   8.3 |         5 |              |               |
+|  407 | Duo Wang                  |   8.4 |        83 |              |         -0.08 |
+|  408 | Rashid Hameed             |   8.3 |         9 |        -1.15 |               |
+|  409 | Reynold Xin               |   8.3 |         5 |              |               |
+|  410 | Brian Kempenich           |   8.3 |        62 |        +0.11 |         -0.22 |
 |  411 | Anurag Gupta              |   8.3 |         6 |              |               |
 |  412 | Fahad Riyadh              |   8.2 |         5 |              |               |
 |  413 | Vishnu Narayanan          |   8.2 |        12 |              |               |
