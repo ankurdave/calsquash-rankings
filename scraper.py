@@ -1,17 +1,25 @@
 #!/usr/bin/env python
 
+import boto3
 import bs4
+import checksumdir
 import errno
+import multiprocessing.pool
 import os
 import os.path
 import requests
+import skill
+import tempfile
 
-script_dir = os.path.dirname(os.path.realpath(__file__))
-
-scraped_dir = os.path.join(script_dir, 'scraped')
+scraped_dir = tempfile.mkdtemp()
 
 base_url = 'http://www.calsquash.com/boxleague/'
 current_url = 's4.php?file=current.players'
+
+state_bucket = 'calsquash-rankings-scraped'
+rankings_bucket = 'ankurdave.com'
+
+s3 = boto3.client('s3')
 
 def url_to_filename(url):
   if url == base_url + current_url:
@@ -19,19 +27,28 @@ def url_to_filename(url):
   else:
     return os.path.join(scraped_dir, url.split('/')[-1])
 
-# From http://stackoverflow.com/questions/600268/mkdir-p-functionality-in-python
-def mkdir_p(path):
-  try:
-    os.makedirs(path)
-  except OSError as exc:
-    if exc.errno == errno.EEXIST and os.path.isdir(path):
-      pass
-    else:
-      raise
+def download_scraper_state():
+  files = s3.list_objects(Bucket=state_bucket)['Contents']
 
-def main():
-  mkdir_p(scraped_dir)
+  def s3_download_file(f):
+    key = f['Key']
+    destination_path = os.path.join(scraped_dir, f['Key'])
+    print 's3://%s/%s -> %s' % (state_bucket, key, destination_path)
+    s3.download_file(state_bucket, key, destination_path)
 
+  multiprocessing.pool.ThreadPool(processes=8).map(s3_download_file, files)
+
+def upload_scraper_state(changed_files):
+  for f in changed_files:
+    key = os.path.basename(f)
+    print '%s -> s3://%s/%s' % (f, state_bucket, key)
+    s3.upload_file(Filename=f, Bucket=state_bucket, Key=key)
+
+def checksum_scraper_state():
+  return checksumdir.dirhash(scraped_dir)
+
+def scrape():
+  changed_files = []
   seed_urls = [
     'jul03.html', 'aug03.html', 'sep03.html', 'oct03.html', 'nov03.html',
     'feb04.html', 'mar04.html', 'apr04.html', 'may04.html', 'jun04.html',
@@ -52,7 +69,11 @@ def main():
     print '%s -> %s' % (url, filename)
     r = requests.get(url)
     with open(filename, 'w') as f:
-      f.write(r.text.encode('utf8'))
+      for line in r.text.encode('utf8').splitlines(True):
+        # Remove continuously-changing timestamp to enable checksumming
+        if 'Generated on' not in line:
+          f.write(line)
+    changed_files.append(filename)
 
     # Look for link to previous month
     s = bs4.BeautifulSoup(r.text, 'html.parser')
@@ -65,5 +86,26 @@ def main():
       if not os.path.isfile(prev_filename):
         urls_stack.append(prev_url)
 
+  return changed_files
+
+def upload_rankings(files):
+  for f in files:
+    key = os.path.basename(f)
+    print '%s -> s3://%s/%s' % (f, rankings_bucket, key)
+    s3.upload_file(Filename=f, Bucket=rankings_bucket, Key=key,
+                   ExtraArgs={'ContentType': 'text/html',
+                              'CacheControl': 'no-cache'})
+
+def scrape_and_recompute(event=None, context=None):
+  download_scraper_state()
+  prev_hash = checksum_scraper_state()
+  changed_files = scrape()
+  if checksum_scraper_state() != prev_hash:
+    upload_scraper_state(changed_files)
+    ranking_files = skill.skill(scraped_dir)
+    upload_rankings(ranking_files)
+  else:
+    print 'No new games'
+
 if __name__=='__main__':
-  main()
+  scrape_and_recompute()

@@ -1,1 +1,8 @@
+*.pyc
 .env
+terraform.tfvars
+.terraform
+.terraform.*
+terraform.tfstate
+terraform.tfstate.*
+lambda_functions.zip

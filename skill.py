@@ -6,15 +6,16 @@ import io
 import os
 import os.path
 import prettytable
+import pytz
 import re
+import string
 import sys
+import tempfile
 import trueskill
 
 env = trueskill.TrueSkill(draw_probability=0.0)
 
-script_dir = os.path.dirname(os.path.realpath(__file__))
-
-scraped_dir = os.path.join(script_dir, 'scraped')
+output_dir = tempfile.mkdtemp()
 
 name_substitutions = {
   'Mike Jenson-Akula': 'Mike Jensen-Akula',
@@ -94,7 +95,7 @@ def file_sort(filename):
     month = re.search('^[a-z]+', filename).group()
     return (int(year), month_to_number[month])
 
-def parse_matches():
+def parse_matches(scraped_dir):
   """Parse box league files and return match results.
 
   Return a chronologically-ordered list of tuples (player1, player2,
@@ -202,12 +203,18 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
                  '%+.2f' % (cur_skill - skill_12mo) if skill_12mo else ''])
     i += 1
 
-  with io.open(os.path.join(script_dir, outfile), 'w', encoding='utf8') as f:
-    f.write(u'Generated %s.\n\n' % datetime.date.today().isoformat())
-    f.write(tbl.get_string())
-  print 'Wrote %s.' % outfile
+  output_path = os.path.join(output_dir, outfile)
+  with io.open(output_path, 'w', encoding='utf8') as f:
+    with io.open(os.path.join(os.path.dirname(os.path.realpath(__file__)),
+                              'rankings.html.template'), 'r', encoding='utf8') as template:
+      f.write(string.Template(template.read()).substitute(
+        filename=outfile,
+        now=datetime.datetime.now(pytz.timezone('America/Los_Angeles')).strftime('%Y-%m-%d %I:%M %p').replace(" 0", " "),
+        html_table=tbl.get_html_string()))
+  print 'Wrote %s.' % output_path
+  return output_path
 
-def current_players():
+def current_players(scraped_dir):
   """Return this month's active players."""
   players = []
   with io.open(os.path.join(scraped_dir, 'current.html'), 'r', encoding='utf8') as f:
@@ -217,17 +224,20 @@ def current_players():
                for tr in table.find_all('tr')[1:]]
   return players
 
-def main():
-  matches, current_month_start_pos, trailing_12mo_start_pos = parse_matches()
+def skill(scraped_dir):
+  matches, current_month_start_pos, trailing_12mo_start_pos = parse_matches(scraped_dir)
   ratings_1mo, _ = calculate_ratings(matches[0:current_month_start_pos])
   ratings_12mo, _ = calculate_ratings(matches[0:trailing_12mo_start_pos])
   ratings, num_matches = calculate_ratings(matches)
-  print_leaderboard(ratings, num_matches, outfile='rankings-all.md',
-                    ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo)
-  cau = set(current_players())
-  print_leaderboard(ratings, num_matches, outfile='rankings-current.md',
+  output_files = []
+  output_files.append(
+    print_leaderboard(ratings, num_matches, outfile='rankings-all.html',
+                      ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo))
+  cau = set(current_players(scraped_dir))
+  output_files.append(
+    print_leaderboard(ratings, num_matches, outfile='rankings-current.html',
                     ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
-                    player_pred=lambda r: r[0] in cau)
+                      player_pred=lambda r: r[0] in cau))
   if interactive:
     def competitiveness(p1, p2):
       return trueskill.quality_1vs1(ratings[p1], ratings[p2], env=env)
@@ -235,6 +245,4 @@ def main():
       matches += [(p1, p2, p1_score)]
       return calculate_ratings(matches)
     import pdb; pdb.set_trace()
-
-if __name__=='__main__':
-  main()
+  return output_files
