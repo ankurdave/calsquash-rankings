@@ -1,6 +1,6 @@
 beautifulsoup4
 requests
-trueskill
 prettytable
 boto3
 checksumdir
+choix

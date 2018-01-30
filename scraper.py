@@ -33,7 +33,7 @@ def download_scraper_state():
   def s3_download_file(f):
     key = f['Key']
     destination_path = os.path.join(scraped_dir, f['Key'])
-    print 's3://%s/%s -> %s' % (state_bucket, key, destination_path)
+    print('s3://%s/%s -> %s' % (state_bucket, key, destination_path))
     s3.download_file(state_bucket, key, destination_path)
 
   multiprocessing.pool.ThreadPool(processes=20).map(s3_download_file, files)
@@ -41,7 +41,7 @@ def download_scraper_state():
 def upload_scraper_state(changed_files):
   for f in changed_files:
     key = os.path.basename(f)
-    print '%s -> s3://%s/%s' % (f, state_bucket, key)
+    print('%s -> s3://%s/%s' % (f, state_bucket, key))
     s3.upload_file(Filename=f, Bucket=state_bucket, Key=key)
 
 def checksum_scraper_state():
@@ -66,7 +66,7 @@ def scrape():
       continue
 
     # Fetch url
-    print '%s -> %s' % (url, filename)
+    print('%s -> %s' % (url, filename))
     r = requests.get(url)
     with open(filename, 'w') as f:
       for line in r.text.encode('utf8').splitlines(True):
@@ -91,7 +91,7 @@ def scrape():
 def upload_rankings(files):
   for f in files:
     key = os.path.basename(f)
-    print '%s -> s3://%s/%s' % (f, rankings_bucket, key)
+    print('%s -> s3://%s/%s' % (f, rankings_bucket, key))
     s3.upload_file(Filename=f, Bucket=rankings_bucket, Key=key,
                    ExtraArgs={'Content-Type': 'text/html',
                               'CacheControl': 'no-cache'})
@@ -103,7 +103,7 @@ def scrape_and_recompute(event=None, context=None):
   if checksum_scraper_state() != prev_hash:
     upload_scraper_state(changed_files)
   else:
-    print 'No new games'
+    print('No new games')
   ranking_files = skill.skill(scraped_dir)
   upload_rankings(ranking_files)
 

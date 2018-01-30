@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 
 import bs4
+import choix
 import datetime
 import io
+import numpy as np
 import os
 import os.path
 import prettytable
@@ -10,9 +12,6 @@ import re
 import string
 import sys
 import tempfile
-import trueskill
-
-env = trueskill.TrueSkill(draw_probability=0.0)
 
 output_dir = tempfile.mkdtemp()
 
@@ -28,21 +27,13 @@ name_substitutions = {
   'Jesus Nieto Gonzalez11X2(510)612-3830': 'Jesus Nieto Gonzalez',
   'Ken-ichi Ueda': 'Ken-Ichi Ueda',
   'Keni-ichi Ueda': 'Ken-Ichi Ueda',
-  u'Peter D\xc3\xbcrr': 'Peter Duerr',
+  'Peter D\xc3\xbcrr': 'Peter Duerr',
   'Steve Dang': 'Stephen Dang',
   'Wladislav Ellis': 'Wladislaw Ellis',
   'David Applefield': 'David Appelfeld',
   'Saurabh Baja': 'Saurabh Bajaj',
   'Christopher Flores': 'Chris Flores',
 }
-
-# Whether to consider the margin of victory (i.e., the number of games won or
-# lost within a match).
-use_margin_of_victory = True
-
-# Whether to open a Python shell after generating the rankings, enabling
-# interactive querying of the results.
-interactive = False
 
 def canonical_name(name):
   name = re.sub(r'\s+', ' ', name)
@@ -62,7 +53,7 @@ def scores_to_match_results(scores):
 
   """
   match_results = []
-  for (player1, player2), winner_score in scores.iteritems():
+  for (player1, player2), winner_score in scores.items():
     if winner_score >= 4: # player1 is always winner
       loser_score = scores.get((player2, player1))
       if loser_score == 7 - winner_score:
@@ -142,51 +133,47 @@ def calculate_ratings(matches, focus_player=None):
   trueskill.Rating object and num_matches maps player name to the number of
   played matches.
   """
-  players = set([p for p1, p2, p1_score in matches for p in [p1, p2]])
-  ratings = dict([(p, env.create_rating()) for p in players])
+  players = list(set([p for p1, p2, p1_score in matches for p in [p1, p2]]))
+  player_names_to_ids = dict([(p, i) for i, p in enumerate(players)])
   num_matches = dict([(p, 0) for p in players])
-  def add_match(p1, p2, p1_score):
-    if use_margin_of_victory:
-      games_for_p1 = 3
-      games_for_p2 = 6 - p1_score
-      for i in range(games_for_p1):
-        ratings[p1], ratings[p2] = trueskill.rate_1vs1(ratings[p1], ratings[p2], env=env)
-      for i in range(games_for_p2):
-        ratings[p2], ratings[p1] = trueskill.rate_1vs1(ratings[p2], ratings[p1], env=env)
-    else:
-      ratings[p1], ratings[p2] = trueskill.rate_1vs1(ratings[p1], ratings[p2], env=env)
+
+  matches_by_id = []
+  for p1, p2, p1_score in matches:
+    p1_id = player_names_to_ids[p1]
+    p2_id = player_names_to_ids[p2]
+    games_for_p1 = 3
+    games_for_p2 = 6 - p1_score
+    matches_by_id.extend([(p1_id, p2_id)] * games_for_p1)
+    matches_by_id.extend([(p2_id, p1_id)] * games_for_p2)
     num_matches[p1] += 1
     num_matches[p2] += 1
-  for p1, p2, p1_score in matches:
-    add_match(p1, p2, p1_score)
 
-    if focus_player:
-      if focus_player == p1:
-        print '%f -- %s won in %d over %s' % (
-          env.expose(ratings[p1]), p1, 3 + (6 - p1_score), p2)
-      elif focus_player == p2:
-        print '%f -- %s lost in %d to  %s' % (
-          env.expose(ratings[p2]), p2, 3 + (6 - p1_score), p1)
+  ratings_by_id = choix.ilsr_pairwise(len(players), matches_by_id, alpha=0.01)
+
+  ratings = dict([(players[i], r) for i, r in enumerate(ratings_by_id)])
 
   return ratings, num_matches
+
+def expose(rating):
+  return rating
 
 def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
                       player_pred=None):
   """Write ratings as Markdown table to outfile, with optional player filter."""
-  leaderboard = filter(
+  leaderboard = list(filter(
     player_pred, sorted(
-      ratings.iteritems(), key=lambda r: env.expose(r[1]), reverse=True))
+      iter(ratings.items()), key=lambda r: expose(r[1]), reverse=True)))
   tbl = prettytable.PrettyTable()
   tbl.junction_char = '|'
   tbl.hrules = prettytable.HEADER
-  tbl.field_names = ['Rank', 'Player', 'Skill', '# Matches', u'1-mo \u0394 Skill', u'12-mo \u0394 Skill']
-  tbl.align['Rank'] = tbl.align['Skill'] = tbl.align['# Matches'] = tbl.align[u'1-mo \u0394 Skill'] = tbl.align[u'12-mo \u0394 Skill'] = 'r'
+  tbl.field_names = ['Rank', 'Player', 'Skill', '# Matches', '1-mo \u0394 Skill', '12-mo \u0394 Skill']
+  tbl.align['Rank'] = tbl.align['Skill'] = tbl.align['# Matches'] = tbl.align['1-mo \u0394 Skill'] = tbl.align['12-mo \u0394 Skill'] = 'r'
   tbl.align['Player'] = 'l'
   tbl.float_format = '.1'
 
   def get_prev_skill(name, prev_ratings, cur_skill):
     if name in prev_ratings:
-      prev_skill = env.expose(prev_ratings[name])
+      prev_skill = expose(prev_ratings[name])
       if abs(cur_skill - prev_skill) < 0.01:
         return None
       else:
@@ -194,7 +181,7 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
 
   i = 1
   for name, rating in leaderboard:
-    cur_skill = env.expose(rating)
+    cur_skill = expose(rating)
     skill_1mo = get_prev_skill(name, ratings_1mo, cur_skill)
     skill_12mo = get_prev_skill(name, ratings_12mo, cur_skill)
     tbl.add_row([i, name, cur_skill, num_matches[name],
@@ -210,7 +197,7 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
         filename=outfile,
         now=datetime.datetime.now().strftime('%Y-%m-%d %I:%M %p').replace(" 0", " "),
         html_table=tbl.get_html_string()))
-  print 'Wrote %s.' % output_path
+  print('Wrote %s.' % output_path)
   return output_path
 
 def current_players(scraped_dir):
@@ -237,11 +224,4 @@ def skill(scraped_dir):
     print_leaderboard(ratings, num_matches, outfile='rankings-current.html',
                     ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
                       player_pred=lambda r: r[0] in cau))
-  if interactive:
-    def competitiveness(p1, p2):
-      return trueskill.quality_1vs1(ratings[p1], ratings[p2], env=env)
-    def add_match(p1, p2, p1_score, matches):
-      matches += [(p1, p2, p1_score)]
-      return calculate_ratings(matches)
-    import pdb; pdb.set_trace()
   return output_files
