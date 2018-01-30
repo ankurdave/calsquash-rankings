@@ -9,8 +9,9 @@ provider "archive" {
   version = "~> 1.0"
 }
 
-data "aws_s3_bucket" "calsquash-rankings-scraped" {
+resource "aws_s3_bucket" "calsquash-rankings-scraped" {
   bucket = "calsquash-rankings-scraped"
+  acl = "private"
 }
 
 data "archive_file" "lambda_functions" {

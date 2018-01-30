@@ -7,6 +7,7 @@ import os
 import os.path
 import prettytable
 import re
+import string
 import sys
 import tempfile
 import trueskill
@@ -202,8 +203,12 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
     i += 1
 
   with io.open(os.path.join(output_dir, outfile), 'w', encoding='utf8') as f:
-    f.write(u'Generated %s.\n\n' % datetime.date.today().isoformat())
-    f.write(tbl.get_string())
+    with io.open(os.path.join(os.path.dirname(os.path.realpath(__file__)),
+                              'rankings.html.template'), 'r', encoding='utf8') as template:
+      f.write(string.Template(template.read()).substitute(
+        filename=outfile,
+        now=datetime.datetime.now().strftime('%Y-%m-%d %I:%M %p').replace(" 0", " "),
+        html_table=tbl.get_html_string()))
   print 'Wrote %s.' % os.path.join(output_dir, outfile)
 
 def current_players(scraped_dir):
@@ -221,10 +226,10 @@ def skill(scraped_dir):
   ratings_1mo, _ = calculate_ratings(matches[0:current_month_start_pos])
   ratings_12mo, _ = calculate_ratings(matches[0:trailing_12mo_start_pos])
   ratings, num_matches = calculate_ratings(matches)
-  print_leaderboard(ratings, num_matches, outfile='rankings-all.md',
+  print_leaderboard(ratings, num_matches, outfile='rankings-all.html',
                     ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo)
   cau = set(current_players(scraped_dir))
-  print_leaderboard(ratings, num_matches, outfile='rankings-current.md',
+  print_leaderboard(ratings, num_matches, outfile='rankings-current.html',
                     ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
                     player_pred=lambda r: r[0] in cau)
   if interactive:
