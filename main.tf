@@ -93,31 +93,31 @@ resource "aws_iam_role_policy_attachment" "lambda-role-can-write-output-to-s3" {
 }
 
 resource "aws_lambda_function" "calsquash-rankings-scraper" {
-  filename         = "lambda_functions.zip"
-  function_name    = "calsquash-rankings-scraper"
-  role             = "${aws_iam_role.lambda-role.arn}"
-  handler          = "scraper.scrape_and_recompute"
-  runtime          = "python2.7"
-  source_code_hash = "${base64sha256(file("lambda_functions.zip"))}"
-  timeout          = 300
+  filename                       = "lambda_functions.zip"
+  function_name                  = "calsquash-rankings-scraper"
+  role                           = "${aws_iam_role.lambda-role.arn}"
+  handler                        = "scraper.scrape_and_recompute"
+  runtime                        = "python2.7"
+  source_code_hash               = "${base64sha256(file("lambda_functions.zip"))}"
+  timeout                        = 300
+  reserved_concurrent_executions = 1
 }
 
 resource "aws_cloudwatch_event_rule" "scraper-cron" {
-    name = "calsquash-rankings-scraper-event"
-    description = "Scrape calsquash-rankings and recompute rankings."
-    schedule_expression = "rate(2 minutes)"
+  name                = "calsquash-rankings-scraper-event"
+  description         = "Scrape calsquash-rankings and recompute rankings."
+  schedule_expression = "rate(2 minutes)"
 }
 
-
 resource "aws_cloudwatch_event_target" "scraper-cron-lambda-target" {
-    rule = "${aws_cloudwatch_event_rule.scraper-cron.name}"
-    arn = "${aws_lambda_function.calsquash-rankings-scraper.arn}"
+  rule = "${aws_cloudwatch_event_rule.scraper-cron.name}"
+  arn  = "${aws_lambda_function.calsquash-rankings-scraper.arn}"
 }
 
 resource "aws_lambda_permission" "allow-cloudwatch-to-call-lambda" {
-    statement_id = "AllowExecutionFromCloudWatch"
-    action = "lambda:InvokeFunction"
-    function_name = "${aws_lambda_function.calsquash-rankings-scraper.function_name}"
-    principal = "events.amazonaws.com"
-    source_arn = "${aws_cloudwatch_event_rule.scraper-cron.arn}"
+  statement_id  = "AllowExecutionFromCloudWatch"
+  action        = "lambda:InvokeFunction"
+  function_name = "${aws_lambda_function.calsquash-rankings-scraper.function_name}"
+  principal     = "events.amazonaws.com"
+  source_arn    = "${aws_cloudwatch_event_rule.scraper-cron.arn}"
 }
