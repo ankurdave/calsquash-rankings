@@ -151,7 +151,7 @@ Generated 2018-01-29.
 |  147 | Ken-Ichi Ueda             |  21.1 |       181 |              |               |
 |  148 | Jeff Diamond              |  21.1 |        44 |              |               |
 |  149 | Paz Grimberg              |  21.0 |        17 |              |               |
-|  150 | Anthony Abel              |  21.0 |        24 |        +1.53 |               |
+|  150 | Anthony Abel              |  21.0 |        24 |        +1.50 |               |
 |  151 | Geoffrey Barrows          |  20.9 |        14 |              |               |
 |  152 | Allic Sivaramakrishnan    |  20.9 |        22 |              |               |
 |  153 | Joseph Farrell            |  20.9 |         8 |              |               |
@@ -168,7 +168,7 @@ Generated 2018-01-29.
 |  164 | Marc Schechter            |  20.4 |        14 |              |         +0.56 |
 |  165 | Jeff Gordon               |  20.3 |        46 |              |         -0.39 |
 |  166 | Anirudh Todi              |  20.3 |         3 |              |               |
-|  167 | Mark Modera               |  20.2 |       350 |        -0.34 |         -0.54 |
+|  167 | Mark Modera               |  20.3 |       350 |        -0.31 |         -0.51 |
 |  168 | Ankur Dave                |  20.2 |        99 |        +0.11 |         +4.61 |
 |  169 | John Grim                 |  20.1 |        13 |              |               |
 |  170 | Shwetabh Singh            |  20.1 |         6 |              |               |
@@ -198,26 +198,26 @@ Generated 2018-01-29.
 |  194 | Tuyen Le                  |  19.0 |         5 |              |               |
 |  195 | Yating Liu                |  19.0 |         7 |              |               |
 |  196 | Mike Jensen-Akula         |  19.0 |       242 |        -0.19 |         -1.59 |
-|  197 | Jaime Perez               |  18.9 |        42 |        +0.06 |         -0.37 |
+|  197 | Jaime Perez               |  19.0 |        42 |        +0.07 |         -0.36 |
 |  198 | Ronald Dahl               |  18.9 |        51 |              |               |
 |  199 | Hari Dhavala              |  18.9 |        27 |              |               |
 |  200 | Gabriel Kahn              |  18.9 |         5 |              |               |
-|  201 | Viraj Paropkari           |  18.8 |        16 |              |               |
-|  202 | Arbi Vartan               |  18.7 |        20 |              |               |
-|  203 | Peter Dering              |  18.7 |         9 |              |               |
-|  204 | Sushant Jain              |  18.7 |        12 |              |               |
-|  205 | Guillaume Egles           |  18.6 |        11 |              |               |
-|  206 | Kedar Viswanathan         |  18.6 |        16 |              |               |
-|  207 | Allan Sly                 |  18.6 |        29 |              |               |
-|  208 | Jason Facchin             |  18.5 |         3 |              |               |
-|  209 | Yan Liu                   |  18.5 |        10 |              |               |
-|  210 | Akshay Dugar              |  18.5 |         6 |              |               |
-|  211 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
-|  212 | Javed Ahmed               |  18.5 |        58 |              |               |
-|  213 | John Eng                  |  18.4 |        28 |              |               |
-|  214 | Natalie Leung             |  18.4 |         1 |              |               |
-|  215 | Jayanth Kannan            |  18.4 |        20 |              |               |
-|  216 | Romit Chakraborty         |  18.2 |         8 |        +2.45 |               |
+|  201 | Romit Chakraborty         |  18.8 |         9 |        +3.02 |               |
+|  202 | Viraj Paropkari           |  18.8 |        16 |              |               |
+|  203 | Arbi Vartan               |  18.7 |        20 |              |               |
+|  204 | Peter Dering              |  18.7 |         9 |              |               |
+|  205 | Sushant Jain              |  18.7 |        12 |              |               |
+|  206 | Guillaume Egles           |  18.6 |        11 |              |               |
+|  207 | Kedar Viswanathan         |  18.6 |        16 |              |               |
+|  208 | Allan Sly                 |  18.6 |        29 |              |               |
+|  209 | Jason Facchin             |  18.5 |         3 |              |               |
+|  210 | Yan Liu                   |  18.5 |        10 |              |               |
+|  211 | Akshay Dugar              |  18.5 |         6 |              |               |
+|  212 | Athulan Vijayaraghavan    |  18.5 |        29 |              |               |
+|  213 | Javed Ahmed               |  18.5 |        58 |              |               |
+|  214 | John Eng                  |  18.4 |        28 |              |               |
+|  215 | Natalie Leung             |  18.4 |         1 |              |               |
+|  216 | Jayanth Kannan            |  18.4 |        20 |              |               |
 |  217 | Kenny Bell                |  18.2 |       124 |              |               |
 |  218 | Pierre Darancet           |  18.2 |        94 |              |               |
 |  219 | Bob Roller                |  18.2 |         6 |              |               |
@@ -225,9 +225,9 @@ Generated 2018-01-29.
 |  221 | James Chung               |  17.9 |         7 |              |               |
 |  222 | Andres Rodriguez          |  17.9 |        55 |              |               |
 |  223 | Eric Borden               |  17.8 |        44 |              |         -0.42 |
-|  224 | Troup Howard              |  17.8 |        47 |              |         +0.12 |
-|  225 | Nick Paget                |  17.8 |        35 |              |               |
-|  226 | Josh Trauner              |  17.8 |        78 |        -0.03 |         +0.16 |
+|  224 | Josh Trauner              |  17.8 |        78 |        -0.01 |         +0.18 |
+|  225 | Troup Howard              |  17.8 |        47 |              |         +0.12 |
+|  226 | Nick Paget                |  17.8 |        35 |              |               |
 |  227 | Chris Harrelson           |  17.8 |        47 |              |               |
 |  228 | Ranjit Jhala              |  17.8 |         6 |              |               |
 |  229 | George Roche              |  17.7 |        14 |              |               |
@@ -253,13 +253,13 @@ Generated 2018-01-29.
 |  249 | Bobby Hicks               |  16.9 |         2 |              |               |
 |  250 | Allan Dafoe               |  16.8 |        43 |              |               |
 |  251 | Wayne Heiser              |  16.7 |        61 |              |         -1.00 |
-|  252 | Sahar Sareminaeni         |  16.7 |        56 |        -0.37 |         +1.18 |
-|  253 | Chinghway Lim             |  16.7 |        10 |              |               |
-|  254 | Chris Flores              |  16.7 |       327 |              |         +0.13 |
-|  255 | David Shabelman           |  16.7 |        30 |              |               |
-|  256 | Karan Goyal               |  16.6 |        23 |        +0.71 |               |
-|  257 | Mark Priven               |  16.6 |        72 |              |               |
-|  258 | William Coleman           |  16.5 |        48 |              |               |
+|  252 | Chinghway Lim             |  16.7 |        10 |              |               |
+|  253 | Chris Flores              |  16.7 |       327 |              |         +0.13 |
+|  254 | David Shabelman           |  16.7 |        30 |              |               |
+|  255 | Karan Goyal               |  16.6 |        23 |        +0.71 |               |
+|  256 | Mark Priven               |  16.6 |        72 |              |               |
+|  257 | William Coleman           |  16.5 |        48 |              |               |
+|  258 | Sahar Sareminaeni         |  16.5 |        57 |        -0.54 |         +1.02 |
 |  259 | Mike Troxell              |  16.5 |         8 |              |               |
 |  260 | David Bratt               |  16.4 |        32 |              |         -0.17 |
 |  261 | Danish Mir                |  16.4 |         1 |              |               |

@@ -16,16 +16,16 @@ Generated 2018-01-29.
 |   12 | Jonathan Hankar    |  21.3 |       226 |        -0.33 |         -1.00 |
 |   13 | Jared Bard         |  21.3 |        50 |        -0.05 |         +0.81 |
 |   14 | Reid Johnsen       |  21.2 |        61 |        -0.22 |         -0.83 |
-|   15 | Anthony Abel       |  21.0 |        24 |        +1.53 |               |
-|   16 | Mark Modera        |  20.2 |       350 |        -0.34 |         -0.54 |
+|   15 | Anthony Abel       |  21.0 |        24 |        +1.50 |               |
+|   16 | Mark Modera        |  20.3 |       350 |        -0.31 |         -0.51 |
 |   17 | Ankur Dave         |  20.2 |        99 |        +0.11 |         +4.61 |
 |   18 | Mike Jensen-Akula  |  19.0 |       242 |        -0.19 |         -1.59 |
-|   19 | Jaime Perez        |  18.9 |        42 |        +0.06 |         -0.37 |
-|   20 | Romit Chakraborty  |  18.2 |         8 |        +2.45 |               |
-|   21 | Josh Trauner       |  17.8 |        78 |        -0.03 |         +0.16 |
+|   19 | Jaime Perez        |  19.0 |        42 |        +0.07 |         -0.36 |
+|   20 | Romit Chakraborty  |  18.8 |         9 |        +3.02 |               |
+|   21 | Josh Trauner       |  17.8 |        78 |        -0.01 |         +0.18 |
 |   22 | Dror Matalon       |  17.6 |       385 |        -0.59 |         -0.63 |
-|   23 | Sahar Sareminaeni  |  16.7 |        56 |        -0.37 |         +1.18 |
-|   24 | Karan Goyal        |  16.6 |        23 |        +0.71 |               |
+|   23 | Karan Goyal        |  16.6 |        23 |        +0.71 |               |
+|   24 | Sahar Sareminaeni  |  16.5 |        57 |        -0.54 |         +1.02 |
 |   25 | David Bratt        |  16.4 |        32 |              |         -0.17 |
 |   26 | Craig Hollow       |  16.3 |        44 |        +0.81 |        +14.28 |
 |   27 | Terry Chang        |  15.8 |        48 |              |               |
