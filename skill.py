@@ -11,9 +11,8 @@ import re
 import string
 import sys
 import tempfile
-import trueskill
-
-env = trueskill.TrueSkill(draw_probability=0.0)
+import time
+import two_player_trueskill
 
 output_dir = tempfile.mkdtemp()
 
@@ -36,14 +35,6 @@ name_substitutions = {
   'Saurabh Baja': 'Saurabh Bajaj',
   'Christopher Flores': 'Chris Flores',
 }
-
-# Whether to consider the margin of victory (i.e., the number of games won or
-# lost within a match).
-use_margin_of_victory = True
-
-# Whether to open a Python shell after generating the rankings, enabling
-# interactive querying of the results.
-interactive = False
 
 def canonical_name(name):
   name = re.sub(r'\s+', ' ', name)
@@ -106,6 +97,7 @@ def parse_matches(scraped_dir):
   """
   matches = []
 
+  start = time.time()
   sys.stdout.write('Parsing')
   sys.stdout.flush()
   files = sorted(os.listdir(scraped_dir), key=file_sort)
@@ -130,6 +122,7 @@ def parse_matches(scraped_dir):
               scores[(player1, player2)] = score
         matches += scores_to_match_results(scores)
   sys.stdout.write('done.\n')
+  print 'Parsed %d files in %d seconds' % (len(files), time.time() - start)
 
   return matches, current_month_start_pos, trailing_12mo_start_pos
 
@@ -140,43 +133,33 @@ def calculate_ratings(matches, focus_player=None):
   focus_player -- optionally, a player about whom to plot historical results
 
   Return (ratings, num_matches) where ratings maps player name to a
-  trueskill.Rating object and num_matches maps player name to the number of
+  numerical rating and num_matches maps player name to the number of
   played matches.
   """
   players = set([p for p1, p2, p1_score in matches for p in [p1, p2]])
-  ratings = dict([(p, env.create_rating()) for p in players])
-  num_matches = dict([(p, 0) for p in players])
-  def add_match(p1, p2, p1_score):
-    if use_margin_of_victory:
-      games_for_p1 = 3
-      games_for_p2 = 6 - p1_score
-      for i in range(games_for_p1):
-        ratings[p1], ratings[p2] = trueskill.rate_1vs1(ratings[p1], ratings[p2], env=env)
-      for i in range(games_for_p2):
-        ratings[p2], ratings[p1] = trueskill.rate_1vs1(ratings[p2], ratings[p1], env=env)
-    else:
-      ratings[p1], ratings[p2] = trueskill.rate_1vs1(ratings[p1], ratings[p2], env=env)
+  trueskill = two_player_trueskill.TwoPlayerTrueSkill(players)
+  num_matches = {p: 0 for p in players}
+
+  start = time.time()
+  for p1, p2, p1_score in matches:
+    games_for_p1 = 3
+    games_for_p2 = 6 - p1_score
+    for i in range(games_for_p1):
+      trueskill.update(p1, p2)
+    for i in range(games_for_p2):
+      trueskill.update(p2, p1)
     num_matches[p1] += 1
     num_matches[p2] += 1
-  for p1, p2, p1_score in matches:
-    add_match(p1, p2, p1_score)
 
-    if focus_player:
-      if focus_player == p1:
-        print '%f -- %s won in %d over %s' % (
-          env.expose(ratings[p1]), p1, 3 + (6 - p1_score), p2)
-      elif focus_player == p2:
-        print '%f -- %s lost in %d to  %s' % (
-          env.expose(ratings[p2]), p2, 3 + (6 - p1_score), p1)
-
-  return ratings, num_matches
+  print 'Rated %d matches in %d seconds' % (len(matches), time.time() - start)
+  return trueskill.get_ratings(), num_matches
 
 def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
                       player_pred=None):
   """Write ratings as Markdown table to outfile, with optional player filter."""
   leaderboard = filter(
     player_pred, sorted(
-      ratings.iteritems(), key=lambda r: env.expose(r[1]), reverse=True))
+      ratings.iteritems(), key=lambda r: r[1], reverse=True))
   tbl = prettytable.PrettyTable()
   tbl.junction_char = '|'
   tbl.hrules = prettytable.HEADER
@@ -187,7 +170,7 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
 
   def get_prev_skill(name, prev_ratings, cur_skill):
     if name in prev_ratings:
-      prev_skill = env.expose(prev_ratings[name])
+      prev_skill = prev_ratings[name]
       if abs(cur_skill - prev_skill) < 0.01:
         return None
       else:
@@ -195,7 +178,7 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
 
   i = 1
   for name, rating in leaderboard:
-    cur_skill = env.expose(rating)
+    cur_skill = rating
     skill_1mo = get_prev_skill(name, ratings_1mo, cur_skill)
     skill_12mo = get_prev_skill(name, ratings_12mo, cur_skill)
     tbl.add_row([i, name, cur_skill, num_matches[name],
@@ -238,11 +221,4 @@ def skill(scraped_dir):
     print_leaderboard(ratings, num_matches, outfile='rankings-current.html',
                     ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
                       player_pred=lambda r: r[0] in cau))
-  if interactive:
-    def competitiveness(p1, p2):
-      return trueskill.quality_1vs1(ratings[p1], ratings[p2], env=env)
-    def add_match(p1, p2, p1_score, matches):
-      matches += [(p1, p2, p1_score)]
-      return calculate_ratings(matches)
-    import pdb; pdb.set_trace()
   return output_files
