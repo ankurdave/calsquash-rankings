@@ -29,6 +29,11 @@ resource "aws_iam_role" "lambda-role" {
   assume_role_policy = "${data.aws_iam_policy_document.assume-role-for-lambda.json}"
 }
 
+resource "aws_iam_role_policy_attachment" "lambda-role-can-execute-lambdas" {
+  role       = "${aws_iam_role.lambda-role.name}"
+  policy_arn = "arn:aws:iam::aws:policy/AWSLambdaFullAccess"
+}
+
 resource "aws_iam_policy" "access-state-s3-bucket" {
   path        = "/"
   description = "Allows access to S3 bucket for calsquash-rankings scraper and skill calculation state."
