@@ -202,14 +202,16 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
                  '%+.2f' % (cur_skill - skill_12mo) if skill_12mo else ''])
     i += 1
 
-  with io.open(os.path.join(output_dir, outfile), 'w', encoding='utf8') as f:
+  output_path = os.path.join(output_dir, outfile)
+  with io.open(output_path, 'w', encoding='utf8') as f:
     with io.open(os.path.join(os.path.dirname(os.path.realpath(__file__)),
                               'rankings.html.template'), 'r', encoding='utf8') as template:
       f.write(string.Template(template.read()).substitute(
         filename=outfile,
         now=datetime.datetime.now().strftime('%Y-%m-%d %I:%M %p').replace(" 0", " "),
         html_table=tbl.get_html_string()))
-  print 'Wrote %s.' % os.path.join(output_dir, outfile)
+  print 'Wrote %s.' % output_path
+  return output_path
 
 def current_players(scraped_dir):
   """Return this month's active players."""
@@ -226,12 +228,15 @@ def skill(scraped_dir):
   ratings_1mo, _ = calculate_ratings(matches[0:current_month_start_pos])
   ratings_12mo, _ = calculate_ratings(matches[0:trailing_12mo_start_pos])
   ratings, num_matches = calculate_ratings(matches)
-  print_leaderboard(ratings, num_matches, outfile='rankings-all.html',
-                    ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo)
+  output_files = []
+  output_files.append(
+    print_leaderboard(ratings, num_matches, outfile='rankings-all.html',
+                      ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo))
   cau = set(current_players(scraped_dir))
-  print_leaderboard(ratings, num_matches, outfile='rankings-current.html',
+  output_files.append(
+    print_leaderboard(ratings, num_matches, outfile='rankings-current.html',
                     ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
-                    player_pred=lambda r: r[0] in cau)
+                      player_pred=lambda r: r[0] in cau))
   if interactive:
     def competitiveness(p1, p2):
       return trueskill.quality_1vs1(ratings[p1], ratings[p2], env=env)
@@ -239,3 +244,4 @@ def skill(scraped_dir):
       matches += [(p1, p2, p1_score)]
       return calculate_ratings(matches)
     import pdb; pdb.set_trace()
+  return output_files

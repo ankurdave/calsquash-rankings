@@ -18,6 +18,7 @@ data "archive_file" "lambda_functions" {
   type        = "zip"
   source_file = "scraper.py"
   source_file = "skill.py"
+  source_file = "rankings.html.template"
   source_dir = ".env/lib/python2.7/site-packages/"
 
   output_path = "lambda_functions.zip"
