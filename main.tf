@@ -108,3 +108,11 @@ resource "aws_cloudwatch_event_target" "scraper-cron-lambda-target" {
     rule = "${aws_cloudwatch_event_rule.scraper-cron.name}"
     arn = "${aws_lambda_function.calsquash-rankings-scraper.arn}"
 }
+
+resource "aws_lambda_permission" "allow-cloudwatch-to-call-lambda" {
+    statement_id = "AllowExecutionFromCloudWatch"
+    action = "lambda:InvokeFunction"
+    function_name = "${aws_lambda_function.calsquash-rankings-scraper.function_name}"
+    principal = "events.amazonaws.com"
+    source_arn = "${aws_cloudwatch_event_rule.scraper-cron.arn}"
+}
