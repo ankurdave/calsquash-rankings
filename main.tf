@@ -91,7 +91,7 @@ resource "aws_lambda_function" "calsquash-rankings-scraper" {
   filename         = "lambda_functions.zip"
   function_name    = "calsquash-rankings-scraper"
   role             = "${aws_iam_role.lambda-role.arn}"
-  handler          = "scraper.scrape"
+  handler          = "scraper.scrape_and_recompute"
   runtime          = "python2.7"
   source_code_hash = "${base64sha256(file("lambda_functions.zip"))}"
   timeout          = 300

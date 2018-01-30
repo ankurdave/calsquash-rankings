@@ -96,7 +96,7 @@ def upload_rankings(files):
                    ExtraArgs={'Content-Type': 'text/html',
                               'CacheControl': 'no-cache'})
 
-def scrape_and_recompute():
+def scrape_and_recompute(event=None, context=None):
   download_scraper_state()
   prev_hash = checksum_scraper_state()
   changed_files = scrape()
