@@ -39,21 +39,21 @@ def file_sort(filename):
     month = re.search('^[a-z]+', filename).group()
     return (int(year), month_to_number[month])
 
-def calculate_ratings(matches):
+def calculate_ratings(players, matches, prev_trueskill=None):
   """
   Calculate TrueSkill ratings from match history.
 
-  matches -- a list of matches, each a dict {'winner': winner, 'loser': loser,
-  'winner_score': winner_score}
+  players -- a set of player names
+  matches -- a list of matches, each a dict {'winner': winner_name,
+ 'loser': loser_name, 'winner_score': winner_score}
+  prev_trueskill -- an existing set of ratings
 
-  Return (ratings, num_matches) where ratings maps player name to a
-  numerical rating and num_matches maps player name to the number of
-  played matches.
+  Return trueskill where trueskill.get_ratings() maps player name
+  to a numerical rating.
 
   """
-  players = set([p for m in matches for p in [m['winner'], m['loser']]])
-  trueskill = two_player_trueskill.TwoPlayerTrueSkill(players)
-  num_matches = {p: 0 for p in players}
+  trueskill = (prev_trueskill if prev_trueskill
+               else two_player_trueskill.TwoPlayerTrueSkill(players))
 
   start = time.time()
   for m in matches:
@@ -64,11 +64,17 @@ def calculate_ratings(matches):
       trueskill.update(p1, p2)
     for i in range(games_for_p2):
       trueskill.update(p2, p1)
-    num_matches[p1] += 1
-    num_matches[p2] += 1
 
   print 'Rated %d matches in %d seconds' % (len(matches), time.time() - start)
-  return trueskill.get_ratings(), num_matches
+  return trueskill
+
+def calculate_num_matches(players, matches):
+  """Return a dict mapping player name to the number of played matches."""
+  num_matches = {p: 0 for p in players}
+  for m in matches:
+    num_matches[m['winner']] += 1
+    num_matches[m['loser']] += 1
+  return num_matches
 
 def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
                       player_pred=None):
@@ -115,18 +121,26 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
 
 def skill(matches_by_filename, current_players):
   filenames = sorted(matches_by_filename.keys(), key=file_sort)
-  filenames_until_current_month = filenames[0:-1]
-  filenames_until_trailing_12mo = filenames[0:-12]
   def matches_for_filename_list(fs):
     return [m for f in fs for m in matches_by_filename[f]]
 
   all_matches = matches_for_filename_list(filenames)
-  matches_1mo = matches_for_filename_list(filenames_until_current_month)
-  matches_12mo = matches_for_filename_list(filenames_until_trailing_12mo)
+  players = set([p for m in all_matches for p in [m['winner'], m['loser']]])
 
-  ratings, num_matches = calculate_ratings(all_matches)
-  ratings_1mo, _ = calculate_ratings(matches_1mo)
-  ratings_12mo, _ = calculate_ratings(matches_12mo)
+  matches_until_trailing_12mo = matches_for_filename_list(filenames[:-12])
+  matches_12mo_to_1mo = matches_for_filename_list(filenames[-12:-1])
+  matches_current_month = matches_for_filename_list(filenames[-1:])
+
+  trueskill_12mo = calculate_ratings(players, matches_until_trailing_12mo)
+  ratings_12mo = trueskill_12mo.get_ratings()
+
+  trueskill_1mo = calculate_ratings(players, matches_12mo_to_1mo, trueskill_12mo)
+  ratings_1mo = trueskill_1mo.get_ratings()
+
+  trueskill = calculate_ratings(players, matches_current_month, trueskill_1mo)
+  ratings = trueskill.get_ratings()
+
+  num_matches = calculate_num_matches(players, all_matches)
 
   output_files = []
   output_files.append(
