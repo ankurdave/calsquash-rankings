@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import bs4
 import datetime
 import io
 import os
@@ -15,52 +14,6 @@ import time
 import two_player_trueskill
 
 output_dir = tempfile.mkdtemp()
-
-name_substitutions = {
-  'Mike Jenson-Akula': 'Mike Jensen-Akula',
-  'Michael Jensen-Akula': 'Mike Jensen-Akula',
-  'Amy J. Lee': 'Amy Lee',
-  'Ian McDonald': 'Ian MacDonald',
-  'In Woo Cheon': 'Lucas Cheon',
-  'In Woo Lucas Cheon': 'Lucas Cheon',
-  'Lucas In Woo': 'Lucas Cheon',
-  'Jayanthkumar Kannan': 'Jayanth Kannan',
-  'Jesus Nieto Gonzalez11X2(510)612-3830': 'Jesus Nieto Gonzalez',
-  'Ken-ichi Ueda': 'Ken-Ichi Ueda',
-  'Keni-ichi Ueda': 'Ken-Ichi Ueda',
-  u'Peter D\xc3\xbcrr': 'Peter Duerr',
-  'Steve Dang': 'Stephen Dang',
-  'Wladislav Ellis': 'Wladislaw Ellis',
-  'David Applefield': 'David Appelfeld',
-  'Saurabh Baja': 'Saurabh Bajaj',
-  'Christopher Flores': 'Chris Flores',
-}
-
-def canonical_name(name):
-  name = re.sub(r'\s+', ' ', name)
-  if name in name_substitutions:
-    return name_substitutions[name]
-  else:
-    return name
-
-def scores_to_match_results(scores):
-  """Validate match scores and return the results (winner and loser).
-
-  scores -- list of tuples (player1, player2), score_of_player1
-
-  Return a list of tuples (winner, loser, winner_score) if scores contains
-  matching entries for (winner, loser) and (loser, winner) that sum to 7,
-  indicating a successful match.
-
-  """
-  match_results = []
-  for (player1, player2), winner_score in scores.iteritems():
-    if winner_score >= 4: # player1 is always winner
-      loser_score = scores.get((player2, player1))
-      if loser_score == 7 - winner_score:
-        match_results += [(canonical_name(player1), canonical_name(player2),
-                           winner_score)]
-  return match_results
 
 month_to_number = {
   'jan': 1, 'decjan': 1,
@@ -86,62 +39,25 @@ def file_sort(filename):
     month = re.search('^[a-z]+', filename).group()
     return (int(year), month_to_number[month])
 
-def parse_matches(scraped_dir):
-  """Parse box league files and return match results.
-
-  Return a chronologically-ordered list of tuples (player1, player2,
-  player1_score) meaning player1 beat player2, as well as the position within
-  this list corresponding to the start of the current month, and 12-month
-  trailing period.
-
+def calculate_ratings(matches):
   """
-  matches = []
+  Calculate TrueSkill ratings from match history.
 
-  start = time.time()
-  sys.stdout.write('Parsing')
-  sys.stdout.flush()
-  files = sorted(os.listdir(scraped_dir), key=file_sort)
-  for filename in files:
-    sys.stdout.write('.')
-    sys.stdout.flush()
-    if filename == files[-1]:
-      current_month_start_pos = len(matches)
-    if filename == files[-12]:
-      trailing_12mo_start_pos = len(matches)
-    with io.open(os.path.join(scraped_dir, filename), 'r', encoding='utf8') as f:
-      s = bs4.BeautifulSoup(f.read(), 'html.parser')
-      for table in s.find_all('table'):
-        names = [tr.find_all('td')[1].get_text(strip=True)
-                 for tr in table.find_all('tr')[1:]]
-        scores = {}
-        for player1, tr in zip(names, table.find_all('tr')[1:]):
-          for player2, score_cell in zip(names, tr.find_all('td')[2:-3]):
-            score_text = score_cell.get_text(strip=True)
-            if score_text and score_text != 'X' and re.search(r'\d+', score_text):
-              score = int(re.search(r'\d+', score_text).group())
-              scores[(player1, player2)] = score
-        matches += scores_to_match_results(scores)
-  sys.stdout.write('done.\n')
-  print 'Parsed %d files in %d seconds' % (len(files), time.time() - start)
-
-  return matches, current_month_start_pos, trailing_12mo_start_pos
-
-def calculate_ratings(matches, focus_player=None):
-  """Calculate TrueSkill ratings from match history.
-
-  matches -- a list of matches from parse_matches
-  focus_player -- optionally, a player about whom to plot historical results
+  matches -- a list of matches, each a dict {'winner': winner, 'loser': loser,
+  'winner_score': winner_score}
 
   Return (ratings, num_matches) where ratings maps player name to a
   numerical rating and num_matches maps player name to the number of
   played matches.
+
   """
-  players = set([p for p1, p2, p1_score in matches for p in [p1, p2]])
+  players = set([p for m in matches for p in [m['winner'], m['loser']]])
   trueskill = two_player_trueskill.TwoPlayerTrueSkill(players)
   num_matches = {p: 0 for p in players}
 
   start = time.time()
-  for p1, p2, p1_score in matches:
+  for m in matches:
+    p1, p2, p1_score = m['winner'], m['loser'], m['winner_score']
     games_for_p1 = 3
     games_for_p2 = 6 - p1_score
     for i in range(games_for_p1):
@@ -197,28 +113,27 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
   print 'Wrote %s.' % output_path
   return output_path
 
-def current_players(scraped_dir):
-  """Return this month's active players."""
-  players = []
-  with io.open(os.path.join(scraped_dir, 'current.html'), 'r', encoding='utf8') as f:
-    s = bs4.BeautifulSoup(f.read(), 'html.parser')
-    for table in s.find_all('table'):
-      players += [canonical_name(tr.find_all('td')[1].get_text(strip=True))
-               for tr in table.find_all('tr')[1:]]
-  return players
+def skill(matches_by_filename, current_players):
+  filenames = sorted(matches_by_filename.keys(), key=file_sort)
+  filenames_until_current_month = filenames[0:-1]
+  filenames_until_trailing_12mo = filenames[0:-12]
+  def matches_for_filename_list(fs):
+    return [m for f in fs for m in matches_by_filename[f]]
 
-def skill(scraped_dir):
-  matches, current_month_start_pos, trailing_12mo_start_pos = parse_matches(scraped_dir)
-  ratings_1mo, _ = calculate_ratings(matches[0:current_month_start_pos])
-  ratings_12mo, _ = calculate_ratings(matches[0:trailing_12mo_start_pos])
-  ratings, num_matches = calculate_ratings(matches)
+  all_matches = matches_for_filename_list(filenames)
+  matches_1mo = matches_for_filename_list(filenames_until_current_month)
+  matches_12mo = matches_for_filename_list(filenames_until_trailing_12mo)
+
+  ratings, num_matches = calculate_ratings(all_matches)
+  ratings_1mo, _ = calculate_ratings(matches_1mo)
+  ratings_12mo, _ = calculate_ratings(matches_12mo)
+
   output_files = []
   output_files.append(
     print_leaderboard(ratings, num_matches, outfile='rankings-all.html',
                       ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo))
-  cau = set(current_players(scraped_dir))
   output_files.append(
     print_leaderboard(ratings, num_matches, outfile='rankings-current.html',
-                    ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
-                      player_pred=lambda r: r[0] in cau))
+                      ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
+                      player_pred=lambda r: r[0] in current_players))
   return output_files

@@ -9,11 +9,6 @@ provider "archive" {
   version = "~> 1.0"
 }
 
-resource "aws_s3_bucket" "calsquash-rankings-scraped" {
-  bucket = "calsquash-rankings-scraped"
-  acl    = "private"
-}
-
 data "aws_iam_policy_document" "assume-role-for-lambda" {
   statement {
     actions = ["sts:AssumeRole"]
@@ -32,36 +27,6 @@ resource "aws_iam_role" "lambda-role" {
 resource "aws_iam_role_policy_attachment" "lambda-role-can-execute-lambdas" {
   role       = "${aws_iam_role.lambda-role.name}"
   policy_arn = "arn:aws:iam::aws:policy/AWSLambdaFullAccess"
-}
-
-resource "aws_iam_policy" "access-state-s3-bucket" {
-  path        = "/"
-  description = "Allows access to S3 bucket for calsquash-rankings scraper and skill calculation state."
-
-  policy = <<EOF
-{
-    "Version": "2012-10-17",
-    "Statement": [
-        {
-            "Effect": "Allow",
-            "Resource": [
-                "${aws_s3_bucket.calsquash-rankings-scraped.arn}",
-                "${aws_s3_bucket.calsquash-rankings-scraped.arn}/*"
-            ],
-            "Action": [
-                "s3:ListBucket",
-                "s3:GetObject",
-                "s3:PutObject"
-            ]
-        }
-    ]
-}
-EOF
-}
-
-resource "aws_iam_role_policy_attachment" "lambda-role-can-access-state-in-s3" {
-  role       = "${aws_iam_role.lambda-role.name}"
-  policy_arn = "${aws_iam_policy.access-state-s3-bucket.arn}"
 }
 
 resource "aws_iam_policy" "access-output-s3-files" {
@@ -106,7 +71,7 @@ resource "aws_lambda_function" "calsquash-rankings-scraper" {
 resource "aws_cloudwatch_event_rule" "scraper-cron" {
   name                = "calsquash-rankings-scraper-event"
   description         = "Scrape calsquash-rankings and recompute rankings."
-  schedule_expression = "rate(2 minutes)"
+  schedule_expression = "rate(1 minute)"
 }
 
 resource "aws_cloudwatch_event_target" "scraper-cron-lambda-target" {
@@ -120,4 +85,16 @@ resource "aws_lambda_permission" "allow-cloudwatch-to-call-lambda" {
   function_name = "${aws_lambda_function.calsquash-rankings-scraper.function_name}"
   principal     = "events.amazonaws.com"
   source_arn    = "${aws_cloudwatch_event_rule.scraper-cron.arn}"
+}
+
+resource "aws_dynamodb_table" "calsquash-matches-cache" {
+  name           = "calsquash-matches-cache"
+  read_capacity  = 5
+  write_capacity = 5
+  hash_key       = "filename"
+
+  attribute {
+    name = "filename"
+    type = "S"
+  }
 }
