@@ -12,6 +12,8 @@ BETA = SIGMA / 2.
 # Dynamics factor
 TAU = SIGMA / 100.
 
+TAU_SQUARED = TAU * TAU
+
 class Rating:
     def __init__(self, mu=MU, sigma=SIGMA):
         self.mu = mu
@@ -32,40 +34,44 @@ class TwoPlayerTrueSkill:
         self.ratings = dict([(p, Rating()) for p in players])
 
     def update(self, winner, loser):
-        winner_cur_rating = self.ratings[winner]
-        loser_cur_rating = self.ratings[loser]
-        self.ratings[winner] = self.calc_new_rating(
-            winner_cur_rating, loser_cur_rating, a_won=True)
-        self.ratings[loser] = self.calc_new_rating(
-            loser_cur_rating, winner_cur_rating, a_won=False)
+        a = self.ratings[winner]
+        b = self.ratings[loser]
 
-    def get_ratings(self):
-        return {p: r.expose() for p, r in self.ratings.iteritems()}
+        a_sigma_squared = square(a.sigma)
+        b_sigma_squared = square(b.sigma)
 
-    def calc_new_rating(self, a_rating, b_rating, a_won):
-        c = math.sqrt(square(a_rating.sigma)
-                    + square(b_rating.sigma)
-                    + 2. * square(BETA))
+        c = math.sqrt(a_sigma_squared + b_sigma_squared + 2. * square(BETA))
+        c_squared = square(c)
 
-        if a_won:
-            diff = (a_rating.mu - b_rating.mu) / c
-        else:
-            diff = (b_rating.mu - a_rating.mu) / c
-
+        diff = (a.mu - b.mu) / c
         denom = cdf(diff)
         v = pdf(diff) / denom if denom else -diff
         w = v * (v + diff)
         assert(0 < w < 1)
 
-        rank_multiplier = 1. if a_won else -1.
+        a_mean_multiplier = (a_sigma_squared + TAU_SQUARED) / c
+        b_mean_multiplier = (b_sigma_squared + TAU_SQUARED) / c
 
-        mean_multiplier = (square(a_rating.sigma) + square(TAU)) / c
+        a_variance_with_dynamics = a_sigma_squared + TAU_SQUARED
+        a_std_dev_multiplier = a_variance_with_dynamics / c_squared
 
-        variance_with_dynamics = square(a_rating.sigma) + square(TAU)
-        std_dev_multiplier = variance_with_dynamics / square(c)
+        b_variance_with_dynamics = b_sigma_squared + TAU_SQUARED
+        b_std_dev_multiplier = b_variance_with_dynamics / c_squared
 
-        return Rating(a_rating.mu + rank_multiplier * mean_multiplier * v,
-                      math.sqrt(variance_with_dynamics * (1. - w * std_dev_multiplier)))
+        a_new_mu = a.mu + a_mean_multiplier * v
+        a_new_sigma = math.sqrt(a_variance_with_dynamics * (1. - w * a_std_dev_multiplier))
+
+        b_new_mu = b.mu - b_mean_multiplier * v
+        b_new_sigma = math.sqrt(b_variance_with_dynamics * (1. - w * b_std_dev_multiplier))
+
+        self.ratings[winner].mu = a_new_mu
+        self.ratings[winner].sigma = a_new_sigma
+
+        self.ratings[loser].mu = b_new_mu
+        self.ratings[loser].sigma = b_new_sigma
+
+    def get_ratings(self):
+        return {p: r.expose() for p, r in self.ratings.iteritems()}
 
 def square(x): return x * x
 
