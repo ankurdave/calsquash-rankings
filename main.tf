@@ -98,3 +98,15 @@ resource "aws_dynamodb_table" "calsquash-matches-cache" {
     type = "S"
   }
 }
+
+resource "aws_dynamodb_table" "calsquash-player-stats" {
+  name           = "calsquash-player-stats"
+  read_capacity  = 5
+  write_capacity = 5
+  hash_key       = "name"
+
+  attribute {
+    name = "name"
+    type = "S"
+  }
+}

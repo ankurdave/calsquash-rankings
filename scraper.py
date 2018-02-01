@@ -130,5 +130,10 @@ def scrape_and_recompute(event=None, context=None):
   else:
     print 'No new games'
 
+def publish_player_stats(event=None, context=None):
+  matches = scrape()
+  current_players = parser.current_players(os.path.join(scraped_dir, 'current.html'))
+  skill.skill(matches, current_players, dynamodb_player_stats)
+
 if __name__ == '__main__':
   scrape_and_recompute()

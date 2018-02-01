@@ -123,9 +123,9 @@ def calculate_player_history(players, matches_by_date):
     for m in ms:
       p1, p2, p1_score = m['winner'], m['loser'], m['winner_score']
       matches_by_player[p1].append(
-        {'date': date, 'opponent': p2, 'outcome': 'win', 'winner_score': p1_score})
+        {'date': str(date), 'opponent': p2, 'outcome': 'W', 'winner_score': p1_score})
       matches_by_player[p2].append(
-        {'date': date, 'opponent': p1, 'outcome': 'loss', 'winner_score': p1_score})
+        {'date': str(date), 'opponent': p1, 'outcome': 'L', 'winner_score': p1_score})
   return matches_by_player
 
 def skill(matches_by_filename, current_players, dynamodb_player_stats=None):
@@ -135,7 +135,6 @@ def skill(matches_by_filename, current_players, dynamodb_player_stats=None):
   all_matches = [m for d, ms in matches_by_date for m in ms]
   all_players = set([p for m in all_matches for p in [m['winner'], m['loser']]])
 
-  player_history = calculate_player_history(all_players, matches_by_date)
   ratings = calculate_ratings(all_players, matches_by_date)
   num_matches = calculate_num_matches(all_players, all_matches)
 
@@ -144,5 +143,16 @@ def skill(matches_by_filename, current_players, dynamodb_player_stats=None):
     print_leaderboard(all_players, ratings, num_matches, outfile='rankings-all.html'))
   output_files.append(
     print_leaderboard(current_players, ratings, num_matches, outfile='rankings-current.html'))
+
+  if dynamodb_player_stats:
+    player_history = calculate_player_history(all_players, matches_by_date)
+    for p in all_players:
+      rating_history = [r.to_dict() for r in ratings.get_player_rating_history(p)]
+      print '%s: %d ratings, %d matches -> dynamodb' % (
+        p, len(rating_history), len(player_history[p]))
+      dynamodb_player_stats.put_item(
+        Item={'name': p,
+              'ratings': rating_history,
+              'matches': player_history[p]})
 
   return output_files

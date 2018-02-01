@@ -24,6 +24,9 @@ class Rating:
         """Return a conservative estimate of the rating useful for ranking."""
         return self.mu - (MU / SIGMA) * self.sigma
 
+    def to_dict(self):
+        return {'date': str(self.date), 'mu': str(self.mu), 'sigma': str(self.sigma)}
+
 class TwoPlayerTrueSkill:
     """"Specialized implementation of TrueSkill for two-player games with zero
     draw probability.
@@ -77,7 +80,7 @@ class TwoPlayerTrueSkill:
             key=lambda r: r[1],
             reverse=True)]
 
-    def get_player_rating_history(self, player, date):
+    def get_player_rating_history(self, player):
         return self.ratings[player]
 
     def get_player_rating(self, player):
