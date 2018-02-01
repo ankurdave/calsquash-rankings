@@ -37,10 +37,19 @@ class TwoPlayerTrueSkill:
     def __init__(self, players):
         self.ratings = {p: [Rating()] for p in players}
 
-    def update(self, date, winner, loser):
+    def update(self, date, winner, loser, games_for_winner, games_for_loser):
         a = self.ratings[winner][-1]
         b = self.ratings[loser][-1]
 
+        for i in range(games_for_winner):
+            a, b = self.update_helper(date, a, b)
+        for i in range(games_for_loser):
+            b, a = self.update_helper(date, b, a)
+
+        self.ratings[winner].append(a)
+        self.ratings[loser].append(b)
+
+    def update_helper(self, date, a, b):
         a_sigma_squared = square(a.sigma)
         b_sigma_squared = square(b.sigma)
 
@@ -68,8 +77,7 @@ class TwoPlayerTrueSkill:
         b_new_mu = b.mu - b_mean_multiplier * v
         b_new_sigma = math.sqrt(b_variance_with_dynamics * (1. - w * b_std_dev_multiplier))
 
-        self.ratings[winner].append(Rating(date, a_new_mu, a_new_sigma))
-        self.ratings[loser].append(Rating(date, b_new_mu, b_new_sigma))
+        return Rating(date, a_new_mu, a_new_sigma), Rating(date, b_new_mu, b_new_sigma)
 
     def get_final_ratings(self):
         return {p: rs[-1].expose() for p, rs in self.ratings.iteritems()}

@@ -59,10 +59,7 @@ def calculate_ratings(players, matches_by_date):
       p1, p2, p1_score = m['winner'], m['loser'], m['winner_score']
       games_for_p1 = 3
       games_for_p2 = 6 - p1_score
-      for i in range(games_for_p1):
-        ratings.update(date, p1, p2)
-      for i in range(games_for_p2):
-        ratings.update(date, p2, p1)
+      ratings.update(date, p1, p2, games_for_p1, games_for_p2)
 
   print 'Rated %d matches in %d seconds' % (
     len([m for date, ms in matches_by_date for m in ms]),
