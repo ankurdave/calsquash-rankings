@@ -21,6 +21,7 @@ rankings_bucket = 'ankurdave.com'
 s3 = boto3.client('s3')
 dynamodb = boto3.resource('dynamodb')
 dynamodb_match_cache = dynamodb.Table('calsquash-matches-cache')
+dynamodb_player_stats = dynamodb.Table('calsquash-player-stats')
 
 def url_to_filename(url):
   if url == base_url + current_url:

@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import datetime
+import dateutil.relativedelta
 import io
 import os
 import os.path
@@ -30,58 +31,53 @@ month_to_number = {
   'dec': 12
 }
 
-def file_sort(filename):
-  """Return chronological sort key for box league filenames."""
+def filename_to_date(filename):
+  """Return date sort key for box league filenames."""
   if filename == 'current.html':
-    return (99, 0)
+    return datetime.date.today()
   else:
     year = re.search('\d{2}', filename).group()
     month = re.search('^[a-z]+', filename).group()
-    return (int(year), month_to_number[month])
+    return datetime.date(2000 + int(year), month_to_number[month], 1)
 
-def calculate_ratings(players, matches, prev_trueskill=None):
+def calculate_ratings(players, matches_by_date):
   """
   Calculate TrueSkill ratings from match history.
 
   players -- a set of player names
-  matches -- a list of matches, each a dict {'winner': winner_name,
- 'loser': loser_name, 'winner_score': winner_score}
-  prev_trueskill -- an existing set of ratings
+  matches_by_date -- a list [(match_date, [{'winner': winner_name,
+ 'loser': loser_name, 'winner_score': winner_score}])]
 
-  Return trueskill where trueskill.get_ratings() maps player name
-  to a numerical rating.
+  Return a populated TwoPlayerTrueSkill instance.
 
   """
-  trueskill = (prev_trueskill if prev_trueskill
-               else two_player_trueskill.TwoPlayerTrueSkill(players))
+  ratings = two_player_trueskill.TwoPlayerTrueSkill(players)
 
   start = time.time()
-  for m in matches:
-    p1, p2, p1_score = m['winner'], m['loser'], m['winner_score']
-    games_for_p1 = 3
-    games_for_p2 = 6 - p1_score
-    for i in range(games_for_p1):
-      trueskill.update(p1, p2)
-    for i in range(games_for_p2):
-      trueskill.update(p2, p1)
+  for date, ms in matches_by_date:
+    for m in ms:
+      p1, p2, p1_score = m['winner'], m['loser'], m['winner_score']
+      games_for_p1 = 3
+      games_for_p2 = 6 - p1_score
+      for i in range(games_for_p1):
+        ratings.update(date, p1, p2)
+      for i in range(games_for_p2):
+        ratings.update(date, p2, p1)
 
-  print 'Rated %d matches in %d seconds' % (len(matches), time.time() - start)
-  return trueskill
+  print 'Rated %d matches in %d seconds' % (
+    len([m for date, ms in matches_by_date for m in ms]),
+    time.time() - start)
+  return ratings
 
 def calculate_num_matches(players, matches):
-  """Return a dict mapping player name to the number of played matches."""
+  """Return a dict {player_name: num_played_matches}."""
   num_matches = {p: 0 for p in players}
   for m in matches:
     num_matches[m['winner']] += 1
     num_matches[m['loser']] += 1
   return num_matches
 
-def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
-                      player_pred=None):
-  """Write ratings as Markdown table to outfile, with optional player filter."""
-  leaderboard = filter(
-    player_pred, sorted(
-      ratings.iteritems(), key=lambda r: r[1], reverse=True))
+def print_leaderboard(players, ratings, num_matches, outfile):
   tbl = prettytable.PrettyTable()
   tbl.junction_char = '|'
   tbl.hrules = prettytable.HEADER
@@ -90,23 +86,25 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
   tbl.align['Player'] = 'l'
   tbl.float_format = '.1'
 
-  def get_prev_skill(name, prev_ratings, cur_skill):
-    if name in prev_ratings:
-      prev_skill = prev_ratings[name]
-      if abs(cur_skill - prev_skill) < 0.01:
-        return None
+  def delta(x, y):
+      if x is None or y is None or abs(x - y) < 0.01:
+        return ''
       else:
-        return prev_skill
+        return '%+.2f' % (x - y)
+
+  date_1mo_ago = datetime.date.today() + dateutil.relativedelta.relativedelta(months=-1)
+  date_12mo_ago = datetime.date.today() + dateutil.relativedelta.relativedelta(months=-12)
 
   i = 1
-  for name, rating in leaderboard:
-    cur_skill = rating
-    skill_1mo = get_prev_skill(name, ratings_1mo, cur_skill)
-    skill_12mo = get_prev_skill(name, ratings_12mo, cur_skill)
-    tbl.add_row([i, name, cur_skill, num_matches[name],
-                 '%+.2f' % (cur_skill - skill_1mo) if skill_1mo else '',
-                 '%+.2f' % (cur_skill - skill_12mo) if skill_12mo else ''])
-    i += 1
+  for p in ratings.get_sorted_players():
+    if p in players:
+      cur_skill = ratings.get_player_rating(p).expose()
+      skill_change_1mo = delta(
+        cur_skill, ratings.get_player_rating_at_or_before_date(p, date_1mo_ago))
+      skill_change_12mo = delta(
+        cur_skill, ratings.get_player_rating_at_or_before_date(p, date_12mo_ago))
+      tbl.add_row([i, p, cur_skill, num_matches[p], skill_change_1mo, skill_change_12mo])
+      i += 1
 
   output_path = os.path.join(output_dir, outfile)
   with io.open(output_path, 'w', encoding='utf8') as f:
@@ -119,35 +117,32 @@ def print_leaderboard(ratings, num_matches, outfile, ratings_1mo, ratings_12mo,
   print 'Wrote %s.' % output_path
   return output_path
 
-def skill(matches_by_filename, current_players):
-  filenames = sorted(matches_by_filename.keys(), key=file_sort)
-  def matches_for_filename_list(fs):
-    return [m for f in fs for m in matches_by_filename[f]]
+def calculate_player_history(players, matches_by_date):
+  matches_by_player = {p: [] for p in players}
+  for date, ms in matches_by_date:
+    for m in ms:
+      p1, p2, p1_score = m['winner'], m['loser'], m['winner_score']
+      matches_by_player[p1].append(
+        {'date': date, 'opponent': p2, 'outcome': 'win', 'winner_score': p1_score})
+      matches_by_player[p2].append(
+        {'date': date, 'opponent': p1, 'outcome': 'loss', 'winner_score': p1_score})
+  return matches_by_player
 
-  all_matches = matches_for_filename_list(filenames)
-  players = set([p for m in all_matches for p in [m['winner'], m['loser']]])
+def skill(matches_by_filename, current_players, dynamodb_player_stats=None):
+  matches_by_date = sorted([(filename_to_date(f), matches_by_filename[f])
+                            for f in matches_by_filename.iterkeys()])
 
-  matches_until_trailing_12mo = matches_for_filename_list(filenames[:-12])
-  matches_12mo_to_1mo = matches_for_filename_list(filenames[-12:-1])
-  matches_current_month = matches_for_filename_list(filenames[-1:])
+  all_matches = [m for d, ms in matches_by_date for m in ms]
+  all_players = set([p for m in all_matches for p in [m['winner'], m['loser']]])
 
-  trueskill_12mo = calculate_ratings(players, matches_until_trailing_12mo)
-  ratings_12mo = trueskill_12mo.get_ratings()
-
-  trueskill_1mo = calculate_ratings(players, matches_12mo_to_1mo, trueskill_12mo)
-  ratings_1mo = trueskill_1mo.get_ratings()
-
-  trueskill = calculate_ratings(players, matches_current_month, trueskill_1mo)
-  ratings = trueskill.get_ratings()
-
-  num_matches = calculate_num_matches(players, all_matches)
+  player_history = calculate_player_history(all_players, matches_by_date)
+  ratings = calculate_ratings(all_players, matches_by_date)
+  num_matches = calculate_num_matches(all_players, all_matches)
 
   output_files = []
   output_files.append(
-    print_leaderboard(ratings, num_matches, outfile='rankings-all.html',
-                      ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo))
+    print_leaderboard(all_players, ratings, num_matches, outfile='rankings-all.html'))
   output_files.append(
-    print_leaderboard(ratings, num_matches, outfile='rankings-current.html',
-                      ratings_1mo=ratings_1mo, ratings_12mo=ratings_12mo,
-                      player_pred=lambda r: r[0] in current_players))
+    print_leaderboard(current_players, ratings, num_matches, outfile='rankings-current.html'))
+
   return output_files

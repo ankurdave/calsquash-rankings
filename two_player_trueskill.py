@@ -15,9 +15,10 @@ TAU = SIGMA / 100.
 TAU_SQUARED = TAU * TAU
 
 class Rating:
-    def __init__(self, mu=MU, sigma=SIGMA):
+    def __init__(self, date=None, mu=MU, sigma=SIGMA):
         self.mu = mu
         self.sigma = sigma
+        self.date = date
 
     def expose(self):
         """Return a conservative estimate of the rating useful for ranking."""
@@ -31,11 +32,11 @@ class TwoPlayerTrueSkill:
     https://github.com/moserware/Skills/blob/master/Skills/TrueSkill/TwoPlayerTrueSkillCalculator.cs."""
 
     def __init__(self, players):
-        self.ratings = dict([(p, Rating()) for p in players])
+        self.ratings = {p: [Rating()] for p in players}
 
-    def update(self, winner, loser):
-        a = self.ratings[winner]
-        b = self.ratings[loser]
+    def update(self, date, winner, loser):
+        a = self.ratings[winner][-1]
+        b = self.ratings[loser][-1]
 
         a_sigma_squared = square(a.sigma)
         b_sigma_squared = square(b.sigma)
@@ -64,14 +65,28 @@ class TwoPlayerTrueSkill:
         b_new_mu = b.mu - b_mean_multiplier * v
         b_new_sigma = math.sqrt(b_variance_with_dynamics * (1. - w * b_std_dev_multiplier))
 
-        self.ratings[winner].mu = a_new_mu
-        self.ratings[winner].sigma = a_new_sigma
+        self.ratings[winner].append(Rating(date, a_new_mu, a_new_sigma))
+        self.ratings[loser].append(Rating(date, b_new_mu, b_new_sigma))
 
-        self.ratings[loser].mu = b_new_mu
-        self.ratings[loser].sigma = b_new_sigma
+    def get_final_ratings(self):
+        return {p: rs[-1].expose() for p, rs in self.ratings.iteritems()}
 
-    def get_ratings(self):
-        return {p: r.expose() for p, r in self.ratings.iteritems()}
+    def get_sorted_players(self):
+        return [p for p, r in sorted(
+            self.get_final_ratings().iteritems(),
+            key=lambda r: r[1],
+            reverse=True)]
+
+    def get_player_rating_history(self, player, date):
+        return self.ratings[player]
+
+    def get_player_rating(self, player):
+        return self.ratings[player][-1]
+
+    def get_player_rating_at_or_before_date(self, player, date):
+        for r in reversed(self.ratings[player]):
+            if r.date and r.date <= date:
+                return r.expose()
 
 def square(x): return x * x
 
