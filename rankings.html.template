@@ -1,5 +1,10 @@
+<!DOCTYPE html>
+
 <html>
     <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>$filename - calsquash-rankings</title>
         <link rel="stylesheet" href="https://ankurdave.com/calsquash-rankings-style.css">
     </head>
     <body>
