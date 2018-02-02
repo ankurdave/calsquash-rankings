@@ -189,7 +189,10 @@ resource "aws_api_gateway_integration_response" "player-stats-GET" {
   status_code = "${aws_api_gateway_method_response.player-stats-GET.status_code}"
 
   response_templates = {
-    "text/html" = ""
+    "text/html" = <<EOF
+#set($inputRoot = $input.path('$'))
+$inputRoot"
+EOF
   }
 
   depends_on = ["aws_api_gateway_integration.player-stats-GET-from-lambda"]

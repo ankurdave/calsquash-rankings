@@ -64,11 +64,12 @@ def render(event, context):
         os.path.dirname(os.path.realpath(__file__)),
         'player-stats.html.template')
     with io.open(player_stats_template_path, 'r', encoding='utf8') as template:
-        print string.Template(template.read()).substitute(
+        html = string.Template(template.read()).substitute(
             player_name=escape(player_name),
             rating_data=',\n'.join(rating_data),
             num_matches=num_matches,
             match_history_table=tbl.get_html_string())
+        return html
 
 if __name__ == '__main__':
-    render({'name': 'Ankur Dave'}, None)
+    print(render({'name': 'Ankur Dave'}, None))
