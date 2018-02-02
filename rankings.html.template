@@ -1,55 +1,13 @@
 <html>
     <head>
-        <style>
-         body {
-             font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-             font-size: 16px;
-             line-height: 1.5;
-             color: #24292e;
-             background-color: #fff;
-         }
-         p {
-             margin-bottom: 16px;
-         }
-         table {
-             border-spacing: 0;
-             border-collapse: collapse;
-         }
-         tr {
-             border-top: 1px solid #c6cbd1;
-         }
-         th, td {
-             padding: 6px 13px;
-             border: 1px solid #dfe2e5;
-         }
-         th {
-             font-weight: 600;
-         }
-         tr:nth-child(2n) {
-             background-color: #f6f8fa;
-         }
-         a {
-             color: #0366d6;
-             text-decoration: none;
-         }
-         a:hover {
-             text-decoration: underline;
-         }
-         .project, .file {
-             font-weight: 600;
-         }
-         .breadcrumb {
-             color: #586069;
-         }
-         .file {
-             color: #24292e;
-         }
-        </style>
+        <link rel="stylesheet" href="https://ankurdave.com/calsquash-rankings-style.css">
     </head>
     <body>
-        <p class="breadcrumb"><a href="https://github.com/ankurdave/calsquash-rankings" class="project">calsquash-rankings</a> / <span class="file">$filename</span></p>
-        <p>Generated $now.</p>
+        <div id="container">
+            <p class="breadcrumb"><a href="https://github.com/ankurdave/calsquash-rankings" class="project">calsquash-rankings</a> / <span class="file">$filename</span></p>
+            <p>Generated $now.</p>
 
-        $html_table
+            $html_table
+        </div>
 </body>
 </html>
