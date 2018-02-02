@@ -101,7 +101,7 @@ resource "aws_dynamodb_table" "calsquash-matches-cache" {
 
 resource "aws_dynamodb_table" "calsquash-player-stats" {
   name           = "calsquash-player-stats"
-  read_capacity  = 5
+  read_capacity  = 10
   write_capacity = 15
   hash_key       = "name"
 
