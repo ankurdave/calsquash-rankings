@@ -33,6 +33,7 @@
     <body>
         <div id="container">
             <p class="breadcrumb"><a href="https://github.com/ankurdave/calsquash-rankings" class="project">calsquash-rankings</a> / statistics for <span class="file">$player_name</span></p>
+            <p>See rankings for <a href="rankings-current.html">current players</a> and <a href="rankings-all.html">all players</a>.</p>
 
             <h2>Rating History</h2>
             <div style="width:100%;padding-bottom:55%;position:relative">

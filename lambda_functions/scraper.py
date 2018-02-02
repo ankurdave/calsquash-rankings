@@ -115,7 +115,7 @@ def scrape():
 
 def upload_rankings(files):
   for f in files:
-    key = os.path.basename(f)
+    key = 'calsquash-rankings/' + os.path.basename(f)
     print '%s -> s3://%s/%s' % (f, rankings_bucket, key)
     s3.upload_file(Filename=f, Bucket=rankings_bucket, Key=key,
                    ExtraArgs={'ContentType': 'text/html',

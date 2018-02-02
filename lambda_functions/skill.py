@@ -74,7 +74,7 @@ def calculate_num_matches(players, matches):
     num_matches[m['loser']] += 1
   return num_matches
 
-def print_leaderboard(players, ratings, num_matches, outfile):
+def print_leaderboard(players, ratings, num_matches, outfile, description):
   def delta(x, y):
       if x is None or y is None or abs(x - y) < 0.01:
         return ''
@@ -112,6 +112,7 @@ def print_leaderboard(players, ratings, num_matches, outfile):
                               'rankings.html.template'), 'r', encoding='utf8') as template:
       f.write(string.Template(template.read()).substitute(
         filename=outfile,
+        description=description,
         now=datetime.datetime.now(pytz.timezone('America/Los_Angeles')).strftime('%Y-%m-%d %I:%M %p').replace(" 0", " "),
         html_table=html_table))
   print 'Wrote %s.' % output_path
@@ -140,9 +141,11 @@ def skill(matches_by_filename, current_players, dynamodb_player_stats=None):
 
   output_files = []
   output_files.append(
-    print_leaderboard(all_players, ratings, num_matches, outfile='rankings-all.html'))
+    print_leaderboard(all_players, ratings, num_matches, outfile='rankings-all.html',
+                      description="""Rankings for all players. See <a href="rankings-current.html">current players</a>."""))
   output_files.append(
-    print_leaderboard(current_players, ratings, num_matches, outfile='rankings-current.html'))
+    print_leaderboard(current_players, ratings, num_matches, outfile='rankings-current.html',
+                      description="""Rankings for current box league players. See <a href="rankings-all.html">all players</a>."""))
 
   if dynamodb_player_stats:
     player_history = calculate_player_history(all_players, matches_by_date)

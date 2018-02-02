@@ -40,8 +40,8 @@ resource "aws_iam_policy" "access-output-s3-files" {
         {
             "Effect": "Allow",
             "Resource": [
-                "arn:aws:s3:::ankurdave.com/rankings-all.html",
-                "arn:aws:s3:::ankurdave.com/rankings-current.html"
+                "arn:aws:s3:::ankurdave.com/calsquash-rankings/rankings-all.html",
+                "arn:aws:s3:::ankurdave.com/calsquash-rankings/rankings-current.html"
             ],
             "Action": [
                 "s3:PutObject"

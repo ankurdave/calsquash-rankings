@@ -8,7 +8,7 @@ import string
 import urllib
 
 def player_stats_link(player_name):
-    return '<a href="https://ankurdave.com/player-stats.html?%s">%s</a>' % (
+    return '<a href="player-stats?%s">%s</a>' % (
         urllib.urlencode({'name': player_name}), player_name)
 
 def render(event, context):

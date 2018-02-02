@@ -1,1 +1,1 @@
-Moved to <https://ankurdave.com/rankings-all.html>.
+Moved to <https://ankurdave.com/calsquash-rankings/rankings-all.html>.
