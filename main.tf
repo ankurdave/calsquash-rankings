@@ -9,19 +9,19 @@ provider "archive" {
   version = "~> 1.0"
 }
 
-data "aws_iam_policy_document" "assume-role-for-lambda" {
+data "aws_iam_policy_document" "assume-role-for-apigateway-and-lambda" {
   statement {
     actions = ["sts:AssumeRole"]
 
     principals {
       type        = "Service"
-      identifiers = ["lambda.amazonaws.com"]
+      identifiers = ["apigateway.amazonaws.com", "lambda.amazonaws.com"]
     }
   }
 }
 
 resource "aws_iam_role" "lambda-role" {
-  assume_role_policy = "${data.aws_iam_policy_document.assume-role-for-lambda.json}"
+  assume_role_policy = "${data.aws_iam_policy_document.assume-role-for-apigateway-and-lambda.json}"
 }
 
 resource "aws_iam_role_policy_attachment" "lambda-role-can-execute-lambdas" {
