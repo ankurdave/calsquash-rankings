@@ -5,7 +5,7 @@ import dateutil.relativedelta
 import io
 import os
 import os.path
-import prettytable
+import player_stats
 import pytz
 import re
 import string
@@ -75,14 +75,6 @@ def calculate_num_matches(players, matches):
   return num_matches
 
 def print_leaderboard(players, ratings, num_matches, outfile):
-  tbl = prettytable.PrettyTable()
-  tbl.junction_char = '|'
-  tbl.hrules = prettytable.HEADER
-  tbl.field_names = ['Rank', 'Player', 'Skill', '# Matches', u'1-mo \u0394 Skill', u'12-mo \u0394 Skill']
-  tbl.align['Rank'] = tbl.align['Skill'] = tbl.align['# Matches'] = tbl.align[u'1-mo \u0394 Skill'] = tbl.align[u'12-mo \u0394 Skill'] = 'r'
-  tbl.align['Player'] = 'l'
-  tbl.float_format = '.1'
-
   def delta(x, y):
       if x is None or y is None or abs(x - y) < 0.01:
         return ''
@@ -92,6 +84,14 @@ def print_leaderboard(players, ratings, num_matches, outfile):
   date_1mo_ago = datetime.date.today() + dateutil.relativedelta.relativedelta(months=-1)
   date_12mo_ago = datetime.date.today() + dateutil.relativedelta.relativedelta(months=-12)
 
+  rows = []
+  def add_header(fields):
+    rows.append('<tr>%s</tr>' % ''.join(['<th>%s</th>' % (f,) for f in fields]))
+  def add_row(fields):
+    rows.append('<tr>%s</tr>' % ''.join(['<td>%s</td>' % (f,) for f in fields]))
+
+  add_header(['Rank', 'Player', 'Skill', '# Matches', u'1-mo \u0394 Skill', u'12-mo \u0394 Skill'])
+
   i = 1
   for p in ratings.get_sorted_players():
     if p in players:
@@ -100,8 +100,11 @@ def print_leaderboard(players, ratings, num_matches, outfile):
         cur_skill, ratings.get_player_rating_at_or_before_date(p, date_1mo_ago))
       skill_change_12mo = delta(
         cur_skill, ratings.get_player_rating_at_or_before_date(p, date_12mo_ago))
-      tbl.add_row([i, p, cur_skill, num_matches[p], skill_change_1mo, skill_change_12mo])
+      add_row([str(i), player_stats.player_stats_link(p), '%.1f' % cur_skill, str(num_matches[p]),
+               skill_change_1mo, skill_change_12mo])
       i += 1
+
+  html_table = '\n'.join(['<table>'] + rows + ['</table>'])
 
   output_path = os.path.join(output_dir, outfile)
   with io.open(output_path, 'w', encoding='utf8') as f:
@@ -110,7 +113,7 @@ def print_leaderboard(players, ratings, num_matches, outfile):
       f.write(string.Template(template.read()).substitute(
         filename=outfile,
         now=datetime.datetime.now(pytz.timezone('America/Los_Angeles')).strftime('%Y-%m-%d %I:%M %p').replace(" 0", " "),
-        html_table=tbl.get_html_string()))
+        html_table=html_table))
   print 'Wrote %s.' % output_path
   return output_path
 

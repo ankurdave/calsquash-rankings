@@ -122,7 +122,7 @@ def upload_rankings(files):
                               'CacheControl': 'no-cache'})
 
 def scrape_and_recompute(event=None, context=None):
-  if check_for_new_games():
+  if check_for_new_games() or 'force' in event:
     matches = scrape()
     current_players = parser.current_players(os.path.join(scraped_dir, 'current.html'))
     ranking_files = skill.skill(matches, current_players)

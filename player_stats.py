@@ -3,13 +3,13 @@ import datetime
 import dateutil
 import io
 import os
-import prettytable
 import re
 import string
+import urllib
 
-unsafe_chars = re.compile("[^a-zA-Z0-9-' ]+")
-def escape(s):
-    return unsafe_chars.sub('', s)
+def player_stats_link(player_name):
+    return '<a href="https://ankurdave.com/player-stats.html?%s">%s</a>' % (
+        urllib.urlencode({'name': player_name}), player_name)
 
 def render(event, context):
     player_name = event['name']
@@ -19,24 +19,29 @@ def render(event, context):
 
     response = dynamodb_player_stats.get_item(Key={'name': player_name})
     if 'Item' not in response:
-        raise Exception('no such player')
+        return 'No such player'
     player_stats = response['Item']
 
     # Match stats
     num_matches = len(player_stats['matches'])
 
     # Match history
-    tbl = prettytable.PrettyTable()
-    tbl.junction_char = '|'
-    tbl.hrules = prettytable.HEADER
-    tbl.field_names = ['Date', 'Opponent', 'Outcome']
-    tbl.align['Date'] = tbl.align['Opponent'] = tbl.align['Outcome'] = 'l'
+    rows = []
+    def add_header(fields):
+        rows.append('<tr>%s</tr>' % ''.join(['<th>%s</th>' % (f,) for f in fields]))
+    def add_row(fields):
+        rows.append('<tr>%s</tr>' % ''.join(['<td>%s</td>' % (f,) for f in fields]))
+
+    add_header(['Date', 'Opponent', 'Outcome'])
+
     for m in reversed(player_stats['matches']):
         date = datetime.datetime.strptime(m['date'], '%Y-%m-%d').strftime('%b %Y')
         outcome = '%s 3-%d' % (
             'Won' if m['outcome'] == 'W' else 'Lost',
             6 - m['winner_score'])
-        tbl.add_row([date, escape(m['opponent']), outcome])
+        add_row([date, player_stats_link(m['opponent']), outcome])
+
+    html_table = '\n'.join(['<table>'] + rows + ['</table>'])
 
     # Rating history
     rating_data = []
@@ -65,10 +70,10 @@ def render(event, context):
         'player-stats.html.template')
     with io.open(player_stats_template_path, 'r', encoding='utf8') as template:
         html = string.Template(template.read()).substitute(
-            player_name=escape(player_name),
+            player_name=player_name,
             rating_data=',\n'.join(rating_data),
             num_matches=num_matches,
-            match_history_table=tbl.get_html_string())
+            match_history_table=html_table)
         return html
 
 if __name__ == '__main__':

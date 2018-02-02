@@ -1,5 +1,4 @@
 beautifulsoup4
 boto3
-prettytable
 pytz
 requests
