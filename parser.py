@@ -20,6 +20,7 @@ name_substitutions = {
   'David Applefield': 'David Appelfeld',
   'Saurabh Baja': 'Saurabh Bajaj',
   'Christopher Flores': 'Chris Flores',
+  'Jaime Vidal': 'Jaime Perez',
 }
 
 def canonical_name(name):
