@@ -1,10 +1,12 @@
 # Cal Squash Box League TrueSkill Rankings
 
-Rankings of [UC Berkeley box league](http://www.calsquash.com/boxleague/s4.php?file=current.players) squash players using [TrueSkill](http://trueskill.org/).
+Rankings of [UC Berkeley box league](http://www.calsquash.com/boxleague/s4.php?file=current.players) squash players using [TrueSkill](https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/).
 
-See the rankings for [current players](https://ankurdave.com/rankings-current.html) and [all players](https://ankurdave.com/rankings-all.html).
+See the rankings for **[current players](https://ankurdave.com/rankings-current.html)** and **[all players](https://ankurdave.com/rankings-all.html)**.
 
-To deploy on AWS:
+## Building
+
+To build and deploy on AWS:
 
 1. Run `make` to prepare the Lambda function source code.
 

@@ -231,7 +231,7 @@ resource "aws_s3_bucket_object" "css" {
   bucket       = "ankurdave.com"
   key          = "calsquash-rankings-style.css"
   source       = "calsquash-rankings-style.css"
-  etag         = "${md5(file("calsquash-rankings-style.css"))}"
+  etag         = "${md5(file("lambda_functions/calsquash-rankings-style.css"))}"
   acl          = "public-read"
   content_type = "text/css"
 }
