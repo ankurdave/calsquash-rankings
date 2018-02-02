@@ -191,7 +191,7 @@ resource "aws_api_gateway_integration_response" "player-stats-GET" {
   response_templates = {
     "text/html" = <<EOF
 #set($inputRoot = $input.path('$'))
-$inputRoot"
+$inputRoot
 EOF
   }
 
