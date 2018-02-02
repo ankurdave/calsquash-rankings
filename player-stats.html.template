@@ -19,7 +19,7 @@
              data.addColumn({ type: 'number', role: 'interval' });
              data.addRows([$rating_data]);
 
-             var options = {'chartArea': { 'top': 10, 'right': 20, 'bottom': 35, 'left': 30},
+             var options = {'chartArea': { 'top': 10, 'right': 20, 'bottom': 40, 'left': 40},
                             'intervals': { 'style': 'area' },
                             'legend': 'none'};
 
