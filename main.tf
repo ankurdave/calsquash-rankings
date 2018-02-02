@@ -236,23 +236,21 @@ resource "aws_s3_bucket_object" "css" {
   content_type = "text/css"
 }
 
-# resource "aws_cloudwatch_event_rule" "player-stats-cron" {
-#   name                = "calsquash-rankings-player-stats-event"
-#   description         = "Scrape calsquash-rankings and recompute player stats."
-#   schedule_expression = "rate(1 day)"
-# }
+resource "aws_cloudwatch_event_rule" "player-stats-cron" {
+  name                = "calsquash-rankings-player-stats-event"
+  description         = "Scrape calsquash-rankings and recompute player stats."
+  schedule_expression = "rate(1 day)"
+}
 
+resource "aws_cloudwatch_event_target" "player-stats-cron-lambda-target" {
+  rule = "${aws_cloudwatch_event_rule.player-stats-cron.name}"
+  arn  = "${aws_lambda_function.calsquash-publish-player-stats.arn}"
+}
 
-# resource "aws_cloudwatch_event_target" "player-stats-cron-lambda-target" {
-#   rule = "${aws_cloudwatch_event_rule.player-stats-cron.name}"
-#   arn  = "${aws_lambda_function.calsquash-publish-player-stats.arn}"
-# }
-
-
-# resource "aws_lambda_permission" "allow-cloudwatch-to-call-lambda-2" {
-#   statement_id  = "AllowExecutionFromCloudWatch"
-#   action        = "lambda:InvokeFunction"
-#   function_name = "${aws_lambda_function.calsquash-publish-player-stats.function_name}"
-#   principal     = "events.amazonaws.com"
-#   source_arn    = "${aws_cloudwatch_event_rule.player-stats-cron.arn}"
-# }
+resource "aws_lambda_permission" "allow-cloudwatch-to-call-lambda-2" {
+  statement_id  = "AllowExecutionFromCloudWatch"
+  action        = "lambda:InvokeFunction"
+  function_name = "${aws_lambda_function.calsquash-publish-player-stats.function_name}"
+  principal     = "events.amazonaws.com"
+  source_arn    = "${aws_cloudwatch_event_rule.player-stats-cron.arn}"
+}
