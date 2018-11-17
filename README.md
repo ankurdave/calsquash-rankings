@@ -1,6 +1,6 @@
 # Cal Squash Box League TrueSkill Rankings
 
-Rankings of [UC Berkeley box league](http://www.calsquash.com/boxleague/s4.php?file=current.players) squash players using [TrueSkill](https://www.microsoft.com/en-us/research/project/trueskill-ranking-system/).
+Rankings of [UC Berkeley box league](http://www.calsquash.com/boxleague/s4.php?file=current.players) squash players using [TrueSkill Through Time](https://github.com/ankurdave/ttt-scala).
 
 See the rankings for **[current players](https://ankurdave.com/calsquash-rankings/rankings-current.html)** and **[all players](https://ankurdave.com/calsquash-rankings/rankings-all.html)**.
 

@@ -21,8 +21,7 @@
 
              var options = {'chartArea': { 'top': 10, 'right': 20, 'bottom': 40, 'left': 40},
                             'intervals': { 'style': 'area' },
-                            'legend': 'none',
-                            'vAxis': { 'viewWindow': { 'max': 50 }}};
+                            'legend': 'none'};
 
              var chart = new google.visualization.LineChart(
                  document.getElementById('rating_history'));

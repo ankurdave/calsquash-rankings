@@ -8,7 +8,6 @@ import os
 import os.path
 import parser
 import requests
-import skill
 import tempfile
 
 scraped_dir = tempfile.mkdtemp()
@@ -16,12 +15,8 @@ scraped_dir = tempfile.mkdtemp()
 base_url = 'http://www.calsquash.com/boxleague/'
 current_url = 's4.php?file=current.players'
 
-rankings_bucket = 'ankurdave.com'
-
-s3 = boto3.client('s3')
 dynamodb = boto3.resource('dynamodb')
 dynamodb_match_cache = dynamodb.Table('calsquash-matches-cache')
-dynamodb_player_stats = dynamodb.Table('calsquash-player-stats')
 
 def url_to_filename(url):
   if url == base_url + current_url:
@@ -107,33 +102,38 @@ def scrape():
         dynamodb_match_cache.put_item(
           Item={'filename': filename, 'matches': file_matches,
                 'prev_filename': prev_filename})
+      else:
+        prev_entry = dynamodb_match_cache.get_item(
+          Key={'filename': 'current.html'})
+        prev_hash = (prev_entry['Item']['hash']
+               if 'Item' in prev_entry
+                     and 'hash' in prev_entry['Item']
+               else None)
+        current_players = parser.current_players(os.path.join(scraped_dir, 'current.html'))
+        print '%s (%d current players, %d matches, %s prev) -> dynamodb' % (
+          filename, len(current_players), len(file_matches), prev_filename)
+        dynamodb_match_cache.put_item(
+          Item={'filename': filename, 'matches': file_matches,
+                'prev_filename': prev_filename, 'hash': prev_hash,
+                'current_players': current_players})
 
       if prev_url:
         urls_stack.append(base_url + prev_url)
 
   return matches
 
-def upload_rankings(files):
-  for f in files:
-    key = 'calsquash-rankings/' + os.path.basename(f)
-    print '%s -> s3://%s/%s' % (f, rankings_bucket, key)
-    s3.upload_file(Filename=f, Bucket=rankings_bucket, Key=key,
-                   ExtraArgs={'ContentType': 'text/html',
-                              'CacheControl': 'no-cache'})
+def invoke_player_stats():
+  lambda_client = boto3.client('lambda')
+  lambda_client.invoke(
+    FunctionName='calsquash-publish-player-stats',
+    InvocationType='Event')
 
 def scrape_and_recompute(event=None, context=None):
-  if check_for_new_games() or 'force' in event:
-    matches = scrape()
-    current_players = parser.current_players(os.path.join(scraped_dir, 'current.html'))
-    ranking_files = skill.skill(matches, current_players)
-    upload_rankings(ranking_files)
+  if check_for_new_games() or (event is not None and 'force' in event):
+    scrape()
+    invoke_player_stats()
   else:
     print 'No new games'
-
-def publish_player_stats(event=None, context=None):
-  matches = scrape()
-  current_players = parser.current_players(os.path.join(scraped_dir, 'current.html'))
-  skill.skill(matches, current_players, dynamodb_player_stats)
 
 if __name__ == '__main__':
   scrape_and_recompute()
