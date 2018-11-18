@@ -13,30 +13,19 @@ import com.amazonaws.services.s3.AmazonS3ClientBuilder
 import com.amazonaws.services.s3.model.ObjectMetadata
 import com.amazonaws.services.s3.model.PutObjectRequest
 import com.ankurdave.ttt._
+import com.ankurdave.ttt.implicits._
 import com.gu.scanamo._
 import scalatags.Text
 import scalatags.Text.all._
 
-case class Rating(date: String, mu: Double, sigma: Double)
+/** An empty Java type for the Lambda request handler. */
+class EmptyType()
 
-case class PlayerMatchResult(date: String, opponent: String, outcome: String, winner_score: Int)
-
-case class PlayerStats(name: String, ratings: Seq[Rating], matches: Seq[PlayerMatchResult])
-
-case class Match(winner: String, loser: String, winner_score: Int)
-
-case class MonthMatches(
-  filename: String, matches: Option[Seq[Match]], current_players: Option[Set[String]])
-
-object PlayerStatsGenerator {
-  def main(args: Array[String]): Unit = {
-    new PlayerStatsGenerator().generateStats()
+class PlayerStatsGenerator(dryRun: Boolean) extends RequestHandler[EmptyType, String] {
+  def this() {
+    this(false)
   }
-}
 
-class EmptyType() {}
-
-class PlayerStatsGenerator() extends RequestHandler[EmptyType, String] {
   val dateRegex = """^([a-z]+)(\d{2})\.html$""".r
 
   def monthToNumber(month: String) = month match {
@@ -54,14 +43,14 @@ class PlayerStatsGenerator() extends RequestHandler[EmptyType, String] {
     case "dec" => 12
   }
 
-  val currentDate = Date(YearMonth.now())
+  val currentDate = YearMonth.now()
 
-  def filenameToDate(f: String): Date = f match {
+  def filenameToDate(f: String): YearMonth = f match {
     case "current.html" => currentDate
-    case dateRegex(month, year) => Date(YearMonth.of(2000 + year.toInt, monthToNumber(month)))
+    case dateRegex(month, year) => YearMonth.of(2000 + year.toInt, monthToNumber(month))
   }
 
-  def getMatches(): (Seq[(Date, PlayerId, PlayerId, Int)], Set[PlayerId]) = {
+  def getMatches(): (Seq[(YearMonth, PlayerId, PlayerId, Int)], Set[PlayerId]) = {
     val dynamo = AmazonDynamoDBClientBuilder.standard().build()
     val matchTable = Table[MonthMatches]("calsquash-matches-cache")
     println("Scanning dynamodb matches")
@@ -92,20 +81,19 @@ class PlayerStatsGenerator() extends RequestHandler[EmptyType, String] {
   }
 
   def matchesToGames(
-    matches: Seq[(Date, PlayerId, PlayerId, Int)]): Seq[(Date, PlayerId, PlayerId)] = {
+    matches: Seq[(YearMonth, PlayerId, PlayerId, Int)]): Seq[Game[YearMonth]] = {
     (for ((date, winner, loser, winnerScore) <- matches) yield (
-      Seq.fill(3) { (date, winner, loser) }
-        ++ Seq.fill(6 - winnerScore) { (date, loser, winner) })).flatten
+      Seq.fill(3) { Game(date, winner, loser) }
+        ++ Seq.fill(6 - winnerScore) { Game(date, loser, winner) })).flatten
   }
 
   def generateStats(): Unit = {
     val (matches, currentPlayers) = getMatches()
-    val games = matchesToGames(matches)
-    val skillHistory = new TTT(new Matches(games)).run()
+    val skillVariables = new TTT(new Games(matchesToGames(matches))).run()
 
     val players = (for ((d, w, l, ws) <- matches) yield Seq(w, l)).flatten.toSet
 
-    def str(d: Date): String = d.ym.toString + "-01"
+    def str(d: YearMonth): String = d.toString + "-01"
 
     val playerMatchHistory: Map[PlayerId, Seq[PlayerMatchResult]] =
       (for ((d, w, l, ws) <- matches)
@@ -115,7 +103,7 @@ class PlayerStatsGenerator() extends RequestHandler[EmptyType, String] {
         .flatten.groupBy(_._1).mapValues(_.map(_._2).sortBy(_.date))
 
     val playerRatingHistory: Map[PlayerId, Seq[Rating]] =
-      (for (((d, p), r) <- skillHistory.skillVariables.toSeq)
+      (for (((d, p), r) <- skillVariables.toSeq)
       yield (p, Rating(str(d), r.mu, r.sigma)))
         .groupBy(_._1).mapValues(_.map(_._2).sortBy(_.date))
 
@@ -137,10 +125,10 @@ class PlayerStatsGenerator() extends RequestHandler[EmptyType, String] {
           if playerMatchHistory.contains(p)
           numMatches = playerMatchHistory(p).size
           curSkill = playerRatingHistory(p).last
-          lastMonthDate = Date(currentDate.ym.minusMonths(1))
-          lastMonthSkill = skillHistory.skillVariables.get((lastMonthDate, p))
-          lastYearDate = Date(currentDate.ym.minusMonths(12))
-          lastYearSkill = skillHistory.skillVariables.get((lastYearDate, p))
+          lastMonthDate = currentDate.minusMonths(1)
+          lastMonthSkill = skillVariables.get((lastMonthDate, p))
+          lastYearDate = currentDate.minusMonths(12)
+          lastYearSkill = skillVariables.get((lastYearDate, p))
         } yield (
           p, curSkill, numMatches,
           skillDeltaToString(curSkill, lastMonthSkill),
@@ -220,7 +208,9 @@ class PlayerStatsGenerator() extends RequestHandler[EmptyType, String] {
       metadata.setCacheControl("no-cache")
       val req = new PutObjectRequest(bucket, key, is, metadata)
       println("%s -> s3://%s/%s".format(key, bucket, key))
-      s3.putObject(req)
+      if (!dryRun) {
+        s3.putObject(req)
+      }
     }
 
     println("Uploading player stats")
@@ -234,7 +224,9 @@ class PlayerStatsGenerator() extends RequestHandler[EmptyType, String] {
         ms = playerMatchHistory(p).sortBy(_.date)
         s = PlayerStats(p.name, rs, ms)
       } yield s).toSet
-    Scanamo.exec(dynamo)(playerStatsTable.putAll(playerStats))
+    if (!dryRun) {
+      Scanamo.exec(dynamo)(playerStatsTable.putAll(playerStats))
+    }
   }
 
   override def handleRequest(input: EmptyType, context: Context): String = {

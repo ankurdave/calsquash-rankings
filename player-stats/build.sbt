@@ -8,7 +8,9 @@ scalaVersion := "2.12.7"
 
 lazy val root = (project in file(".")).dependsOn(tttProject)
 
-lazy val tttProject = RootProject(uri("git://github.com/ankurdave/ttt-scala.git"))
+val tttVersion = "80ede23b4a11625513083a9afa6e0b6030db9731"
+
+lazy val tttProject = RootProject(uri(s"git://github.com/ankurdave/ttt-scala.git#$tttVersion"))
 
 libraryDependencies += "com.amazonaws" % "aws-lambda-java-core" % "1.1.0"
 
@@ -21,6 +23,8 @@ libraryDependencies += "com.amazonaws" % "aws-java-sdk-s3" % "1.11.452"
 libraryDependencies += "com.gu" %% "scanamo" % "1.0.0-M8"
 
 libraryDependencies += "com.lihaoyi" %% "scalatags" % "0.6.7"
+
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.5" % "test"
 
 javacOptions ++= Seq("-source", "1.8", "-target", "1.8", "-Xlint")
 
