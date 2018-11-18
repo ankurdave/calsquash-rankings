@@ -229,7 +229,7 @@ resource "aws_lambda_function" "calsquash-publish-player-stats" {
   filename         = "player-stats/target/scala-2.12/calsquash-rankings-assembly-0.1.jar"
   function_name    = "calsquash-publish-player-stats"
   role             = "${aws_iam_role.lambda-role.arn}"
-  handler          = "com.ankurdave.calsquashrankings.PlayerStatsGenerator::handleRequest"
+  handler          = "com.ankurdave.calsquashrankings.NewMatchHandler::handleRequest"
   runtime          = "java8"
   source_code_hash = "${base64sha256(file("player-stats/target/scala-2.12/calsquash-rankings-assembly-0.1.jar"))}"
   timeout          = 300
