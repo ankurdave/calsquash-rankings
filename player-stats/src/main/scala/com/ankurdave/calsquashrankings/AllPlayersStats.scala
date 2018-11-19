@@ -36,13 +36,18 @@ object AllPlayersStats {
         pName <- currentPlayers
       } yield PlayerId(pName)).toSet
 
+    // mu and sigma are chosen arbitrarily to resemble the old TrueSkill values and do not
+    // affect rankings
+    val mu = 15.0
+    val sigma = mu / 3.0
+    // beta and tau are chosen to maximize the log-evidence over the squash dataset using a
+    // parameter sweep, meaning they best model players' observed match-to-match performance
+    // variability (beta) and month-to-month change (tau)
+    val beta = sigma * 0.37
+    val tau = sigma * 0.058
     val skillVariables = new TTT(
       new Games(matchesToGames(matches)),
-      mu = 15,
-      sigma = 15 / 3.0,
-      beta = 15 / 3.0,
-      tau = 15 / 30.0,
-      delta = 0.01).run()
+      mu = mu, sigma = sigma, beta = beta, tau = tau, delta = 0.01).run()
 
     new AllPlayersStats(matches, skillVariables, currentPlayers)
   }
