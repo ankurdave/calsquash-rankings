@@ -36,7 +36,13 @@ object AllPlayersStats {
         pName <- currentPlayers
       } yield PlayerId(pName)).toSet
 
-    val skillVariables = new TTT(new Games(matchesToGames(matches))).run()
+    val skillVariables = new TTT(
+      new Games(matchesToGames(matches)),
+      mu = 15,
+      sigma = 15 / 3.0,
+      beta = 15 / 3.0,
+      tau = 15 / 30.0,
+      delta = 0.01).run()
 
     new AllPlayersStats(matches, skillVariables, currentPlayers)
   }
