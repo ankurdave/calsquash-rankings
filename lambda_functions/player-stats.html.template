@@ -17,11 +17,21 @@
              data.addColumn('number', 'Rating');
              data.addColumn({ type: 'number', role: 'interval' });
              data.addColumn({ type: 'number', role: 'interval' });
+             data.addColumn('number', 'Winning opponent rating');
+             data.addColumn({ type: 'string', role: 'tooltip'});
+             data.addColumn('number', 'Losing opponent rating');
+             data.addColumn({ type: 'string', role: 'tooltip'});
              data.addRows([$rating_data]);
 
-             var options = {'chartArea': { 'top': 10, 'right': 20, 'bottom': 40, 'left': 40},
-                            'intervals': { 'style': 'area' },
-                            'legend': 'none'};
+             var options = {'chartArea': { 'top': 10, 'right': 20, 'bottom': 40, left: 40},
+                            'intervals': { 'style': 'area', 'color': '#90CAF9', 'fillOpacity': 0.2 },
+                            'legend': 'none',
+                            'series': {
+                                0: { lineWidth: 2, pointSize: 2, color: '#0D47A1' },
+                                1: { lineWidth: 0, pointSize: 7, color: '#F57C00',
+                                     pointShape: { type: 'triangle', rotation: 180 }},
+                                2: { lineWidth: 0, pointSize: 7, color: '#43A047',
+                                     pointShape: 'triangle' }}};
 
              var chart = new google.visualization.LineChart(
                  document.getElementById('rating_history'));

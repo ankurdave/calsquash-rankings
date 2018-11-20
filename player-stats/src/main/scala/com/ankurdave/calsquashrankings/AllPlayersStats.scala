@@ -101,8 +101,8 @@ class AllPlayersStats(
   val playerMatchHistory: Map[PlayerId, Seq[PlayerMatchResult]] =
     (for ((d, w, l, ws) <- matches)
     yield Seq(
-      (w, PlayerMatchResult(str(d), l.name, "W", ws)),
-      (l, PlayerMatchResult(str(d), w.name, "L", ws))))
+      (w, PlayerMatchResult(str(d), l.name, "W", ws, skillVariables((d, l)).mu)),
+      (l, PlayerMatchResult(str(d), w.name, "L", ws, skillVariables((d, w)).mu))))
       .flatten.groupBy(_._1).mapValues(_.map(_._2).sortBy(_.date))
 
   /** Rating history for each player. */
