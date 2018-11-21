@@ -4,9 +4,7 @@ all: lambda_functions.zip player-stats/target/scala-2.12/calsquash-rankings-asse
 PY_PACKAGE_DIR = lambda_functions/.env/lib/python2.7/site-packages
 LAMBDA_SOURCES = \
 	scraper.py \
-	parser.py \
-	player_stats.py \
-	player-stats.html.template
+	parser.py
 
 lambda_functions.zip: $(PY_PACKAGE_DIR) $(addprefix lambda_functions/,$(LAMBDA_SOURCES))
 	rm -f lambda_functions.zip

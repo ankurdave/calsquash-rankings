@@ -1,5 +1,13 @@
 package com.ankurdave.calsquashrankings
 
+import java.io.File
+import java.util.concurrent.Executors
+
+import scala.concurrent.Await
+import scala.concurrent.ExecutionContext
+import scala.concurrent.Future
+import scala.concurrent.duration.Duration
+
 import com.amazonaws.services.lambda.runtime.{Context, RequestHandler}
 import scalatags.Text.all._
 
@@ -12,31 +20,37 @@ class EmptyType()
  */
 class NewMatchHandler() extends RequestHandler[EmptyType, String] {
   override def handleRequest(input: EmptyType, context: Context): String = {
-    recomputeStats(dryRun = false)
+    recomputeStats(None)
 	"Success"
   }
 
-  def recomputeStats(dryRun: Boolean): Unit = {
+  def recomputeStats(outputDir: Option[File]): Unit = {
     val allPlayersStats = AllPlayersStats.compute()
 
-    allPlayersStats.uploadToDynamo(dryRun)
-
-    val leaderboardAll = Leaderboard(
+    val leaderboardAll = LeaderboardPage(
       allPlayersStats.allPlayers,
       allPlayersStats,
       "rankings-all.html",
       frag(
         "Rankings for all players. See ",
         a(href := "rankings-current.html", "current players"), "."))
-    leaderboardAll.uploadToS3(dryRun)
+    leaderboardAll.uploadToS3(outputDir)
 
-    val leaderboardCurrent = Leaderboard(
+    val leaderboardCurrent = LeaderboardPage(
       allPlayersStats.currentPlayers,
       allPlayersStats,
       "rankings-current.html",
       span(
         "Rankings for current box league players. See ",
         a(href := "rankings-all.html", "all players"), "."))
-    leaderboardCurrent.uploadToS3(dryRun)
+    leaderboardCurrent.uploadToS3(outputDir)
+
+    // Upload the player stats to S3 in parallel
+    implicit val ec = ExecutionContext.fromExecutor(Executors.newFixedThreadPool(32))
+    val futures =
+      for (p <- allPlayersStats.allPlayers) yield Future {
+        PlayerStatsPage(p, allPlayersStats).uploadToS3(outputDir)
+      }
+    Await.result(Future.sequence(futures), Duration.Inf)
   }
 }

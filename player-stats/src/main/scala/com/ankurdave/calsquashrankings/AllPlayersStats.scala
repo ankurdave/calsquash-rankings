@@ -8,8 +8,12 @@ import com.ankurdave.ttt.implicits._
 import com.gu.scanamo._
 
 object AllPlayersStats {
-  /** Computes [[AllPlayersStats]] by fetching match data from DynamoDB and running TTT. */
   def compute(): AllPlayersStats = {
+    val cache = fetchMonthMatches()
+    computeStats(flattenMatches(cache), extractCurrentPlayers(cache))
+  }
+
+  private def fetchMonthMatches(): Seq[MonthMatches] = {
     val dynamo = AmazonDynamoDBClientBuilder.standard().build()
     val matchTable = Table[MonthMatches]("calsquash-matches-cache")
     println("Scanning dynamodb matches")
@@ -18,6 +22,10 @@ object AllPlayersStats {
       result <- Scanamo.exec(dynamo)(matchTable.scan())
     } yield result.right.get
 
+    cache
+  }
+
+  private def flattenMatches(cache: Seq[MonthMatches]): Seq[(YearMonth, PlayerId, PlayerId, Int)] = {
     val matches =
       for {
         MonthMatches(filename, monthMatchesOpt, _) <- cache
@@ -28,6 +36,10 @@ object AllPlayersStats {
         loser = PlayerId(loserStr)
       } yield (date, winner, loser, winnerScore)
 
+    matches
+  }
+
+  private def extractCurrentPlayers(cache: Seq[MonthMatches]): Set[PlayerId] = {
     val currentPlayers =
       (for {
         MonthMatches(filename, _, currentPlayersOpt) <- cache
@@ -36,6 +48,13 @@ object AllPlayersStats {
         pName <- currentPlayers
       } yield PlayerId(pName)).toSet
 
+    currentPlayers
+  }
+
+  private def computeStats(
+      matches: Seq[(YearMonth, PlayerId, PlayerId, Int)],
+      currentPlayers: Set[PlayerId])
+    : AllPlayersStats = {
     // mu and sigma are chosen arbitrarily to resemble the old TrueSkill values and do not
     // affect rankings
     val mu = 15.0
@@ -85,14 +104,25 @@ object AllPlayersStats {
   }
 }
 
+case class PlayerMatchResult(
+  date: YearMonth, opponent: PlayerId, outcome: MatchOutcome, winner_score: Int,
+  opponent_mu: Double)
+
+case class Rating(date: YearMonth, mu: Double, sigma: Double)
+
+sealed trait MatchOutcome
+case object Won extends MatchOutcome {
+  override def toString(): String = "Won"
+}
+case object Lost extends MatchOutcome {
+  override def toString(): String = "Lost"
+}
+
 /** Holds match history and ratings for all players. */
 class AllPlayersStats(
   val matches: Seq[(YearMonth, PlayerId, PlayerId, Int)],
   val skillVariables: Map[(YearMonth, PlayerId), Gaussian],
   val currentPlayers: Set[PlayerId]) {
-
-  /** Converts a YearMonth into an ISO date string for Dynamo. */
-  private def str(d: YearMonth): String = d.toString + "-01"
 
   /** Set of all players. */
   val allPlayers: Set[PlayerId] = (for ((d, w, l, ws) <- matches) yield Seq(w, l)).flatten.toSet
@@ -101,29 +131,13 @@ class AllPlayersStats(
   val playerMatchHistory: Map[PlayerId, Seq[PlayerMatchResult]] =
     (for ((d, w, l, ws) <- matches)
     yield Seq(
-      (w, PlayerMatchResult(str(d), l.name, "W", ws, skillVariables((d, l)).mu)),
-      (l, PlayerMatchResult(str(d), w.name, "L", ws, skillVariables((d, w)).mu))))
+      (w, PlayerMatchResult(d, l, Won, ws, skillVariables((d, l)).mu)),
+      (l, PlayerMatchResult(d, w, Lost, ws, skillVariables((d, w)).mu))))
       .flatten.groupBy(_._1).mapValues(_.map(_._2).sortBy(_.date))
 
   /** Rating history for each player. */
   val playerRatingHistory: Map[PlayerId, Seq[Rating]] =
     (for (((d, p), r) <- skillVariables.toSeq)
-    yield (p, Rating(str(d), r.mu, r.sigma)))
+    yield (p, Rating(d, r.mu, r.sigma)))
       .groupBy(_._1).mapValues(_.map(_._2).sortBy(_.date))
-
-  def uploadToDynamo(dryRun: Boolean): Unit = {
-    val dynamo = AmazonDynamoDBClientBuilder.standard().build()
-    val playerStatsTable = Table[PlayerStats]("calsquash-player-stats")
-    val playerStats: Set[PlayerStats] =
-      (for {
-        p <- allPlayers
-        rs = playerRatingHistory(p).sortBy(_.date)
-        ms = playerMatchHistory(p).sortBy(_.date)
-        s = PlayerStats(p.name, rs, ms)
-      } yield s).toSet
-    if (!dryRun) {
-      Scanamo.exec(dynamo)(playerStatsTable.putAll(playerStats))
-    }
-  }
 }
-

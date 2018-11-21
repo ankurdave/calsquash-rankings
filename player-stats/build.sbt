@@ -24,6 +24,8 @@ libraryDependencies += "com.gu" %% "scanamo" % "1.0.0-M8"
 
 libraryDependencies += "com.lihaoyi" %% "scalatags" % "0.6.7"
 
+libraryDependencies += "com.googlecode.json-simple" % "json-simple" % "1.1.1"
+
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.5" % "test"
 
 javacOptions ++= Seq("-source", "1.8", "-target", "1.8", "-Xlint")
