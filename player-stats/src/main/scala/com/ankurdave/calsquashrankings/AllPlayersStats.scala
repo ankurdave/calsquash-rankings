@@ -55,10 +55,9 @@ object AllPlayersStats {
       matches: Seq[(YearMonth, PlayerId, PlayerId, Int)],
       currentPlayers: Set[PlayerId])
     : AllPlayersStats = {
-    // mu and sigma are chosen arbitrarily to resemble the old TrueSkill values and do not
-    // affect rankings
-    val mu = 15.0
-    val sigma = mu / 3.0
+    // mu and sigma are chosen arbitrarily to resemble US Squash ratings and do not affect rankings
+    val mu = 3.5
+    val sigma = mu / 5.0
     // beta and tau are chosen to maximize the log-evidence over the squash dataset using a
     // parameter sweep, meaning they best model players' observed match-to-match performance
     // variability (beta) and month-to-month change (tau)

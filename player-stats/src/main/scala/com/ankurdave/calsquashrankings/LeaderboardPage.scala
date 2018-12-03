@@ -65,7 +65,7 @@ object LeaderboardPage {
   }
 
   /** Converts a Rating to a string representing its mean. */
-  private def skillToString(skill: Rating): String = "%.1f".format(skill.mu)
+  private def skillToString(skill: Rating): String = "%.2f".format(skill.mu)
 
   /** 
    * Subtracts a skill from a Rating and converts the difference to a string representing the
