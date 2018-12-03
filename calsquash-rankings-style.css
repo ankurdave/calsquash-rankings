@@ -68,3 +68,7 @@ th, td {
 }
 th { font-weight: 600; }
 tr:nth-child(2n) { background-color: #f6f8fa; }
+td.numeric {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+}

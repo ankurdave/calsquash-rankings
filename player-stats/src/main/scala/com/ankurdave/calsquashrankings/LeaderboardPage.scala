@@ -56,12 +56,12 @@ object LeaderboardPage {
             for (((p, curSkill, numMatches, skillDelta1Mo, skillDelta12Mo), i)
               <- entries.zipWithIndex)
             yield tr(
-              td(i + 1),
+              td(i + 1, `class` := "numeric"),
               td(a(href := "player-stats/" + PageUtils.playerStatsFilename(p), p.name)),
-              td(skillToString(curSkill)),
-              td(numMatches),
-              td(skillDelta1Mo),
-              td(skillDelta12Mo))))))
+              td(skillToString(curSkill), `class` := "numeric"),
+              td(numMatches, `class` := "numeric"),
+              td(skillDelta1Mo, `class` := "numeric"),
+              td(skillDelta12Mo, `class` := "numeric"))))))
   }
 
   /** Converts a Rating to a string representing its mean. */
@@ -74,7 +74,7 @@ object LeaderboardPage {
   private def skillDeltaToString(skillA: Rating, skillBOpt: Option[Gaussian]): String =
     skillBOpt match {
       case Some(skillB) if math.abs(skillA.mu - skillB.mu) >= 0.01 =>
-        "%+.2f".format(skillA.mu - skillB.mu)
+        "%+.2f".format(skillA.mu - skillB.mu).replace("-", "\u2212")
       case _ => ""
     }
 
