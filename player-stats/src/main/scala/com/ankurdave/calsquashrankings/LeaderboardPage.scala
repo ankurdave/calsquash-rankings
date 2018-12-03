@@ -24,13 +24,10 @@ object LeaderboardPage {
         if allPlayersStats.playerMatchHistory.contains(p)
         numMatches = allPlayersStats.playerMatchHistory(p).size
         curSkill = allPlayersStats.playerRatingHistory(p).last
-        lastMonthDate = currentDate.minusMonths(1)
-        lastMonthSkill = allPlayersStats.skillVariables.get((lastMonthDate, p))
         lastYearDate = currentDate.minusMonths(12)
         lastYearSkill = allPlayersStats.skillVariables.get((lastYearDate, p))
       } yield (
         p, curSkill, numMatches,
-        skillDeltaToString(curSkill, lastMonthSkill),
         skillDeltaToString(curSkill, lastYearSkill)))
         .toSeq.sortBy(_._2.mu).reverse
 
@@ -51,16 +48,13 @@ object LeaderboardPage {
               th("Player"),
               th("Skill"),
               th("# Matches"),
-              th("1-mo \u0394 Skill"),
               th("12-mo \u0394 Skill")),
-            for (((p, curSkill, numMatches, skillDelta1Mo, skillDelta12Mo), i)
-              <- entries.zipWithIndex)
+            for (((p, curSkill, numMatches, skillDelta12Mo), i) <- entries.zipWithIndex)
             yield tr(
               td(i + 1, `class` := "numeric"),
               td(a(href := "player-stats/" + PageUtils.playerStatsFilename(p), p.name)),
               td(skillToString(curSkill), `class` := "numeric"),
               td(numMatches, `class` := "numeric"),
-              td(skillDelta1Mo, `class` := "numeric"),
               td(skillDelta12Mo, `class` := "numeric"))))))
   }
 
