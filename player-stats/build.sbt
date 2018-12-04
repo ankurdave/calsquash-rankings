@@ -8,7 +8,7 @@ scalaVersion := "2.12.7"
 
 lazy val root = (project in file(".")).dependsOn(tttProject)
 
-val tttVersion = "80ede23b4a11625513083a9afa6e0b6030db9731"
+val tttVersion = "fd478cca390279321cce78008ddb27c01ed94ba2"
 
 lazy val tttProject = RootProject(uri(s"git://github.com/ankurdave/ttt-scala.git#$tttVersion"))
 
