@@ -23,12 +23,12 @@ object PageUtils {
 
     "<!DOCTYPE html>" + html(
       head(
-        meta(attr("http-equiv") := "Content-Type", attr("content") := "text/html; charset=utf-8"),
+        meta(attr("charset") := "UTF-8"),
         meta(name := "viewport", attr("content") := "width=device-width"),
         link(
           rel := "stylesheet",
           href := "https://ankurdave.com/calsquash-rankings-style.css",
-          `type` := "text/css; charset=utf-8"),
+          `type` := "text/css"),
         Text.tags2.title(htmlTitle, " - calsquash-rankings"),
         headers),
       body(
