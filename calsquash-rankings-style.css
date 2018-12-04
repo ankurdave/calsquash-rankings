@@ -30,8 +30,8 @@ body {
 }
 
 @media all and (min-width: 600px) {
-    /* On large screens, everything can have a large margin, including tables.
-       Tables should also not be centered */
+    /* On large screens, everything can have a large margin, including full-width
+       elements. Full-width elements should also not be centered */
     #container > :not(.full-width), #container > .full-width {
         margin-left: 32px;
         margin-right: 32px;
@@ -76,7 +76,6 @@ h2 {
 table {
     border-spacing: 0;
     border-collapse: collapse;
-    margin: 0 -16px;
 }
 tr { border-top: 1px solid #c6cbd1; }
 th, td {
@@ -84,7 +83,6 @@ th, td {
     border: 1px solid #dfe2e5;
 }
 @media all and (min-width: 600px) {
-    table { margin: 0; }
     th, td { padding: 6px 13px; }
 }
 th { font-weight: 600; }
