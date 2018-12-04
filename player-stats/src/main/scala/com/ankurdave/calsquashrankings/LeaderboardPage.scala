@@ -12,6 +12,7 @@ import com.amazonaws.services.s3.model.ObjectMetadata
 import com.amazonaws.services.s3.model.PutObjectRequest
 import com.ankurdave.ttt._
 import scalatags.Text.all._
+import scalatags.Text.tags2.abbr
 
 object LeaderboardPage {
   /** Generates HTML for a leaderboard page containing the given set of players. */
@@ -43,12 +44,15 @@ object LeaderboardPage {
             LocalDateTime.now(ZoneId.of("America/Los_Angeles"))
               .format(DateTimeFormatter.ofPattern("yyyy-MM-dd h:mm a")))),
           table(
+            `class` := "full-width",
             tr(
-              th("Rank"),
+              th(abbr(title := "Rank", span("#")), `class` := "numeric-heading"),
               th("Player"),
-              th("Skill"),
-              th("# Matches"),
-              th("12-mo \u0394 Skill")),
+              th("Skill", `class` := "numeric-heading"),
+              th(abbr(title := "Matches", span("Exp")), `class` := "numeric-heading"),
+              th(
+                abbr(title := "12\u2011mo \u0394\u00A0Skill", span("12m\u00A0\u0394")),
+                `class` := "numeric-heading")),
             for (((p, curSkill, numMatches, skillDelta12Mo), i) <- entries.zipWithIndex)
             yield tr(
               td(i + 1, `class` := "numeric"),

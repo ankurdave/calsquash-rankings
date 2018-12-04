@@ -15,11 +15,27 @@ body {
     margin: 0 auto;
     max-width: 864px;
     text-align: left;
-    padding: 16px;
+    padding: 16px 0;
+}
+
+#container > :not(.full-width) {
+    /* Everything but full-width elements should have a margin */
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+#container > .full-width {
+    /* On small screens, full-width elements should have no margin and be centered */
+    margin: 0 auto;
 }
 
 @media all and (min-width: 600px) {
-    #container { padding: 32px; }
+    /* On large screens, everything can have a large margin, including tables.
+       Tables should also not be centered */
+    #container > :not(.full-width), #container > .full-width {
+        margin-left: 32px;
+        margin-right: 32px;
+    }
 }
 
 /* Text */
@@ -60,15 +76,32 @@ h2 {
 table {
     border-spacing: 0;
     border-collapse: collapse;
+    margin: 0 -16px;
 }
 tr { border-top: 1px solid #c6cbd1; }
 th, td {
-    padding: 6px 13px;
+    padding: 5px;
     border: 1px solid #dfe2e5;
+}
+@media all and (min-width: 600px) {
+    table { margin: 0; }
+    th, td { padding: 6px 13px; }
 }
 th { font-weight: 600; }
 tr:nth-child(2n) { background-color: #f6f8fa; }
+
+th.numeric-heading { text-align: right; }
 td.numeric {
     text-align: right;
-    font-variant-numeric: tabular-nums;
+    font-variant-numeric: lining-nums tabular-nums;
+}
+
+th abbr { cursor: inherit; }
+th abbr[title] {
+    border-bottom: none;
+    text-decoration: none;
+}
+@media all and (min-width: 600px) {
+    th abbr span { display: none; }
+    th abbr:before { content: attr(title); }
 }

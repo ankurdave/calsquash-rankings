@@ -21,18 +21,17 @@ object PlayerStatsPage {
 
     val matchHistoryTable =
       table(
+        `class` := "full-width",
         tr(
-          th("Date"),
+          th("Date", `class` := "numeric-heading"),
           th("Opponent"),
-          th("Outcome")),
+          th("Outcome", `class` := "numeric-heading")),
         for (PlayerMatchResult(date, opponent, outcome, winner_score, _)
           <- allPlayersStats.playerMatchHistory(player).reverse)
         yield tr(
-          td(date.format(monthYearFormat)),
+          td(date.format(monthYearFormat), `class` := "numeric"),
           td(a(href := PageUtils.playerStatsFilename(opponent), opponent.name)),
-          td("%s 3-%d".format(
-            outcome.toString,
-            6 - winner_score))))
+          td("%s 3\u2013%d".format(outcome.toString, 6 - winner_score), `class` := "numeric")))
 
     // Construct a Google Charts row (JavaScript array) for each historical player rating and
     // opponent rating
@@ -113,6 +112,7 @@ object PlayerStatsPage {
 
         h2("Rating History"),
         div(
+          `class` := "full-width",
           style := "width:100%;padding-bottom:55%;position:relative",
           div(
             id := "rating_history",
