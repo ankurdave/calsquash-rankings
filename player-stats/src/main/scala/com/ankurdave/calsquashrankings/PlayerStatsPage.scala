@@ -112,8 +112,7 @@ object PlayerStatsPage {
 
         h2("Rating History"),
         div(
-          `class` := "full-width",
-          style := "width:100%;padding-bottom:55%;position:relative",
+          style := "width:100%;margin:0;padding-bottom:55%;position:relative",
           div(
             id := "rating_history",
             style := "position:absolute;top:0;bottom:0;left:0;right:0;")),
