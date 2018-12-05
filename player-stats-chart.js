@@ -52,17 +52,21 @@ function renderPlayerStats(skillHistory, wins, losses) {
         .range([height, 0]);
 
     // X gridlines
+    var numXTicks = Math.min(width / 42, monthDiff(timeDomain[0], timeDomain[1]))
     svg.append("g")
         .attr("class", "grid")
         .attr("transform", "translate(0," + height + ")")
         .call(d3.axisBottom(xScale)
+              .ticks(numXTicks)
               .tickSize(-height)
               .tickFormat(""));
 
     // Y gridlines
+    var numYTicks = height / 28
     svg.append("g")
         .attr("class", "grid")
         .call(d3.axisLeft(yScale)
+              .ticks(numYTicks)
               .tickSize(-width)
               .tickFormat(""));
 
@@ -70,7 +74,8 @@ function renderPlayerStats(skillHistory, wins, losses) {
     svg.append("g")
         .attr("class", "x axis")
         .attr("transform", "translate(0," + height + ")")
-        .call(d3.axisBottom(xScale))
+        .call(d3.axisBottom(xScale)
+              .ticks(numXTicks))
         .selectAll("text")
         .style("text-anchor", "end")
         .attr("dx", "-.8em")
@@ -80,7 +85,8 @@ function renderPlayerStats(skillHistory, wins, losses) {
     // Y axis
     svg.append("g")
         .attr("class", "y axis")
-        .call(d3.axisLeft(yScale));
+        .call(d3.axisLeft(yScale)
+              .ticks(numYTicks));
 
     // Skill confidence interval
     if (!timeDomainHasZeroExtent) {
@@ -211,4 +217,13 @@ function showTooltip(d) {
 
 function removeTooltip(d) {
     $(d.data).popover('dispose');
+}
+
+// From https://stackoverflow.com/a/2536445
+function monthDiff(d1, d2) {
+    var months;
+    months = (d2.getFullYear() - d1.getFullYear()) * 12;
+    months -= d1.getMonth() + 1;
+    months += d2.getMonth();
+    return months <= 0 ? 0 : months;
 }
