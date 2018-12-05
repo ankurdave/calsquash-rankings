@@ -22,8 +22,9 @@ function renderPlayerStats(skillHistory, wins, losses) {
     var height = outerHeight - margin.top - margin.bottom;
 
     var timeDomain = d3.extent(skillHistory, d => d[0])
+    var timeDomainHasZeroExtent = timeDomain[0] == timeDomain[1]
     // If time domain has zero extent, expand it by one month on either side
-    if (timeDomain[0] == timeDomain[1]) {
+    if (timeDomainHasZeroExtent) {
         timeDomain[0] = new Date(
             timeDomain[0].getFullYear(),
             timeDomain[0].getMonth() - 1,
@@ -81,16 +82,32 @@ function renderPlayerStats(skillHistory, wins, losses) {
         .call(d3.axisLeft(yScale));
 
     // Skill confidence interval
-    var skill_interval = d3
-        .area()
-        .x(d => xScale(d[0]))
-        .y0(d => yScale(d[2]))
-        .y1(d => yScale(d[3]));
+    if (!timeDomainHasZeroExtent) {
+        var skill_interval = d3
+            .area()
+            .x(d => xScale(d[0]))
+            .y0(d => yScale(d[2]))
+            .y1(d => yScale(d[3]));
 
-    svg.append("path")
-        .datum(skillHistory)
-        .attr("class", "skill_interval")
-        .attr("d", skill_interval);
+        svg.append("path")
+            .datum(skillHistory)
+            .attr("class", "skill_interval")
+            .attr("d", skill_interval);
+    } else {
+        // An area plot would be invisible, so use a rectangle of specified width instead
+        svg.selectAll("rect.skill_interval")
+            .data(skillHistory)
+            .enter()
+            .append("rect")
+            .attr("class", "skill_interval")
+            .attr("x", d =>
+                  xScale(new Date(d[0].getFullYear(), d[0].getMonth(), d[0].getDate() - 1)))
+            .attr("y", d => yScale(d[3]))
+            .attr("width", d =>
+                  (xScale(new Date(d[0].getFullYear(), d[0].getMonth(), d[0].getDate() + 1))
+                   - xScale(new Date(d[0].getFullYear(), d[0].getMonth(), d[0].getDate() - 1))))
+            .attr("height", d => yScale(d[2]) - yScale(d[3]))
+    }
 
     // Skill line
     var skill_line = d3.line()
