@@ -5,6 +5,7 @@ function renderPlayerStats(skillHistory, wins, losses) {
     var margin = {top: 10, right: 10, bottom: 60, left: 35};
 
     d3.select("#rating_history_svg").remove();
+    $("#rating_history .popover").remove();
 
     var svg = d3
         .select("#rating_history")
