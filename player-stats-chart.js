@@ -156,8 +156,7 @@ function renderPlayerStats(skillHistory, wins, losses) {
                + "</b><br/>Rating: <b>"
                + d[1].toFixed(3)
                + "</b> \u00B1 <b>"
-               + ((d[3] - d[2]) / 6.0).toFixed(3) // extract the standard
-                                                  // deviation of the interval
+               + ((d[3] - d[2]) / 2.0).toFixed(3)
                + "</b>"))
         .attr("r", 2);
 
