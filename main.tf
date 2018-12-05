@@ -128,6 +128,15 @@ resource "aws_s3_bucket_object" "css" {
   content_type = "text/css"
 }
 
+resource "aws_s3_bucket_object" "js" {
+  bucket       = "ankurdave.com"
+  key          = "calsquash-rankings/player-stats/player-stats-chart.js"
+  source       = "player-stats-chart.js"
+  etag         = "${md5(file("player-stats-chart.js"))}"
+  acl          = "public-read"
+  content_type = "text/javascript"
+}
+
 resource "aws_lambda_permission" "allow-lambda-to-call-player-stats" {
   statement_id  = "AllowInvokeLambdaFromLambda"
   action        = "lambda:InvokeFunction"

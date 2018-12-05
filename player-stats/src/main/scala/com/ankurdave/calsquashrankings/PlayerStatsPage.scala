@@ -33,11 +33,10 @@ object PlayerStatsPage {
           td(a(href := PageUtils.playerStatsFilename(opponent), opponent.name)),
           td("%s 3\u2013%d".format(outcome.toString, 6 - winner_score), `class` := "numeric")))
 
-    // Construct a Google Charts row (JavaScript array) for each historical player rating and
-    // opponent rating
+    // Construct a JavaScript array for each historical player rating and opponent rating
     val playerRatingData =
       for (Rating(date, mu, sigma) <- allPlayersStats.playerRatingHistory(player))
-      yield "[new Date(%d, %d, 1), %f, %f, %f, null, null, null, null]".format(
+      yield "[new Date(%d, %d, 1), %f, %f, %f]".format(
         date.getYear,
         date.getMonthValue - 1,
         mu,
@@ -47,20 +46,16 @@ object PlayerStatsPage {
     val opponentRatingData =
       for (PlayerMatchResult(date, opponent, outcome, winner_score, opponent_mu)
         <- allPlayersStats.playerMatchHistory(player))
-      yield {
-        val rowTemplate =
-          outcome match {
-            case Won =>  """[new Date(%d, %d, 1), null, null, null, null, null, %f, "%s"]"""
-            case Lost => """[new Date(%d, %d, 1), null, null, null, %f, "%s", null, null]"""
-          }
-        rowTemplate.format(
-          date.getYear,
-          date.getMonthValue - 1,
-          opponent_mu,
-          JSONValue.escape(opponent.name))
-      }
+      yield (outcome, """[new Date(%d, %d, 1), %f, "%s"]""".format(
+        date.getYear,
+        date.getMonthValue - 1,
+        opponent_mu,
+        JSONValue.escape(opponent.name)))
+    val (winData, lossData) = opponentRatingData.partition(_._1 == Won)
 
-    val ratingData = (playerRatingData ++ opponentRatingData).mkString(",\n")
+    val skillHistoryJSON = playerRatingData.mkString(",\n")
+    val winsJSON = winData.map(_._2).mkString(",\n")
+    val lossesJSON = lossData.map(_._2).mkString(",\n")
 
     new PlayerStatsPage(player, PageUtils.page(
       player.name,
@@ -68,40 +63,31 @@ object PlayerStatsPage {
       frag(
         script(
           `type` := "text/javascript",
-          src := "https://www.gstatic.com/charts/loader.js"),
+          src := "https://code.jquery.com/jquery-3.3.1.min.js"),
+        script(
+          `type` := "text/javascript",
+          src := "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.bundle.min.js"),
+        script(
+          `type` := "text/javascript",
+          src := "https://d3js.org/d3.v5.min.js"),
+        script(
+          `type` := "text/javascript",
+          src := "https://d3js.org/d3-shape.v1.min.js"),
+        script(
+          `type` := "text/javascript",
+          src := "player-stats-chart.js"),
         script(
           `type` := "text/javascript",
           raw(s"""
-            |google.charts.load('current', { 'packages': ['corechart'] });
-            |google.charts.setOnLoadCallback(drawChart);
-            |window.addEventListener('resize', drawChart);
-            |function drawChart() {
-            |    var data = new google.visualization.DataTable();
-            |    data.addColumn('date', 'Date');
-            |    data.addColumn('number', 'Rating');
-            |    data.addColumn({ type: 'number', role: 'interval' });
-            |    data.addColumn({ type: 'number', role: 'interval' });
-            |    data.addColumn('number', 'Winning opponent rating');
-            |    data.addColumn({ type: 'string', role: 'tooltip'});
-            |    data.addColumn('number', 'Losing opponent rating');
-            |    data.addColumn({ type: 'string', role: 'tooltip'});
-            |    data.addRows([$ratingData]);
-            |    var options = {'chartArea': { 'top': 10, 'right': 20, 'bottom': 40, 'left': 40 },
-            |                   'intervals': {
-            |                       'style': 'area',
-            |                       'color': '#90CAF9',
-            |                       'fillOpacity': 0.2 },
-            |                   'legend': 'none',
-            |                   'series': {
-            |                       0: { lineWidth: 2, pointSize: 2, color: '#0D47A1' },
-            |                       1: { lineWidth: 0, pointSize: 7, color: '#F57C00',
-            |                            pointShape: { type: 'triangle', rotation: 180 }},
-            |                       2: { lineWidth: 0, pointSize: 7, color: '#43A047',
-            |                            pointShape: 'triangle' }}};
-            |    var chart = new google.visualization.LineChart(
-            |        document.getElementById('rating_history'));
-            |    chart.draw(data, options);
-            |}""".stripMargin))),
+            |var skillHistory = [$skillHistoryJSON];
+            |var wins = [$winsJSON];
+            |var losses = [$lossesJSON];
+            |function draw() {
+            |    renderPlayerStats(skillHistory, wins, losses);
+            |}
+            |$$(document).ready(draw);
+            |window.addEventListener("resize", draw);
+            |""".stripMargin))),
       frag(
         p(
           "See rankings for ",
@@ -112,7 +98,8 @@ object PlayerStatsPage {
 
         h2("Rating History"),
         div(
-          style := "width:100%;margin:0;padding-bottom:55%;position:relative",
+          `class` := "full-width",
+          style := "padding-bottom:55%;position:relative",
           div(
             id := "rating_history",
             style := "position:absolute;top:0;bottom:0;left:0;right:0;")),
