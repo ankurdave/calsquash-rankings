@@ -2,7 +2,7 @@ function renderPlayerStats(skillHistory, wins, losses) {
     var outerWidth = $("#rating_history").width();
     var outerHeight = $("#rating_history").height();
 
-    var margin = {top: 10, right: 10, bottom: 50, left: 35};
+    var margin = {top: 10, right: 10, bottom: 60, left: 35};
 
     d3.select("#rating_history_svg").remove();
 
@@ -21,8 +21,20 @@ function renderPlayerStats(skillHistory, wins, losses) {
     var width = outerWidth - margin.left - margin.right;
     var height = outerHeight - margin.top - margin.bottom;
 
+    var timeDomain = d3.extent(skillHistory, d => d[0])
+    // If time domain has zero extent, expand it by one month on either side
+    if (timeDomain[0] == timeDomain[1]) {
+        timeDomain[0] = new Date(
+            timeDomain[0].getFullYear(),
+            timeDomain[0].getMonth() - 1,
+            timeDomain[0].getDate());
+        timeDomain[1] = new Date(
+            timeDomain[1].getFullYear(),
+            timeDomain[1].getMonth() + 1,
+            timeDomain[1].getDate());
+    }
     var xScale = d3.scaleTime()
-        .domain(d3.extent(skillHistory, d => d[0]))
+        .domain(timeDomain)
         .range([0, width]);
 
     var yScale = d3.scaleLinear()
