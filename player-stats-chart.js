@@ -141,7 +141,10 @@ function renderPlayerStats(skillHistory, wins, losses) {
                + " "
                + d[0].getFullYear()
                + "</b><br/>Rating: <b>"
-               + d[1]
+               + d[1].toFixed(3)
+               + "</b> \u00B1 <b>"
+               + ((d[3] - d[2]) / 6.0).toFixed(3) // extract the standard
+                                                  // deviation of the interval
                + "</b>"))
         .attr("r", 2);
 
@@ -157,7 +160,7 @@ function renderPlayerStats(skillHistory, wins, losses) {
         .attr("transform", d => "translate(" + xScale(d[0]) + "," + yScale(d[1]) + ")")
         .attr("data-x", d => xScale(d[0]))
         .attr("data-y", d => yScale(d[1]))
-        .attr("data-label", d => d[2]);
+        .attr("data-label", d => d[2] + " (" + d[1].toFixed(2) + ")");
 
     var invertedTriangle = d3.symbol()
         .type(d3.symbolTriangle)
@@ -171,7 +174,7 @@ function renderPlayerStats(skillHistory, wins, losses) {
         .attr("transform", d => "translate(" + xScale(d[0]) + "," + yScale(d[1]) + ") rotate(180)")
         .attr("data-x", d => xScale(d[0]))
         .attr("data-y", d => yScale(d[1]))
-        .attr("data-label", d => d[2]);
+        .attr("data-label", d => d[2] + " (" + d[1].toFixed(2) + ")");
 
     // Skill points hover with Voronoi
     var voronoi = d3.voronoi()
