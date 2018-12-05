@@ -80,7 +80,13 @@ function renderPlayerStats(skillHistory, wins, losses) {
         .style("text-anchor", "end")
         .attr("dx", "-.8em")
         .attr("dy", ".15em")
-        .attr("transform", "rotate(-35)");
+        .attr("transform", "rotate(-35)")
+        // Delete tick labels that go out of bounds
+        .filter(function() {
+            return this.getBoundingClientRect().x <
+                document.getElementById("rating_history_svg").getBoundingClientRect().x;
+        })
+        .remove();
 
     // Y axis
     svg.append("g")
