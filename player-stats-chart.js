@@ -41,14 +41,14 @@ function renderPlayerStats(skillHistory, wins, losses) {
 
     var yScale = d3.scaleLinear()
         .domain([
-            Math.min(
-                d3.min(skillHistory, d => d[2]),
-                d3.min(wins, d => d[1]),
-                d3.min(losses, d => d[1])),
-            Math.max(
-                d3.max(skillHistory, d => d[3]),
-                d3.max(wins, d => d[1]),
-                d3.max(losses, d => d[1]))]).nice()
+            d3.min(
+                skillHistory.map(d => d[2]).concat(
+                    wins.map(d => d[1]),
+                    losses.map(d => d[1]))),
+            d3.max(
+                skillHistory.map(d => d[3]).concat(
+                    wins.map(d => d[1]),
+                    losses.map(d => d[1])))]).nice()
         .range([height, 0]);
 
     // X gridlines
