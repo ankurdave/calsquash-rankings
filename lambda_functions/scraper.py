@@ -9,6 +9,7 @@ import os.path
 import parser
 import requests
 import tempfile
+import urlparse
 
 scraped_dir = tempfile.mkdtemp()
 
@@ -60,6 +61,9 @@ def check_for_new_games():
 
 def fetch_dynamo_cached_matches():
   return {elem['filename']: elem for elem in dynamodb_match_cache.scan()['Items']}
+
+def is_absolute(url):
+  return bool(urlparse.urlparse(url).netloc)
 
 def scrape():
   dynamo_elems = fetch_dynamo_cached_matches()
@@ -118,7 +122,10 @@ def scrape():
                 'current_players': current_players})
 
       if prev_url:
-        urls_stack.append(base_url + prev_url)
+        if is_absolute(prev_url):
+          urls_stack.append(prev_url)
+        else:
+          urls_stack.append(base_url + prev_url)
 
   return matches
 
