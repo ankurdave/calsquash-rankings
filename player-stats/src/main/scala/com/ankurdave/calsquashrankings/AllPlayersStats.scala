@@ -1,6 +1,12 @@
 package com.ankurdave.calsquashrankings
 
 import java.time.YearMonth
+import java.util.concurrent.Executors
+
+import scala.concurrent.Await
+import scala.concurrent.ExecutionContext
+import scala.concurrent.Future
+import scala.concurrent.duration.Duration
 
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDBClientBuilder
 import com.ankurdave.ttt._
@@ -11,6 +17,32 @@ object AllPlayersStats {
   def compute(): AllPlayersStats = {
     val cache = fetchMonthMatches()
     computeStats(flattenMatches(cache), extractCurrentPlayers(cache))
+  }
+
+  def computeHistorical(): AllPlayersStats = {
+    val cache = fetchMonthMatches().sortBy(mm => filenameToDate(mm.filename))
+
+    implicit val ec = ExecutionContext.fromExecutor(Executors.newFixedThreadPool(4))
+    val futures =
+      for (matchesUntilMonth <- cache.inits; if matchesUntilMonth.nonEmpty) yield Future {
+        val month = filenameToDate(matchesUntilMonth.last.filename)
+        val matches = flattenMatches(matchesUntilMonth)
+        println("Computing ratings for %s (%d matches)".format(month, matches.size))
+
+        val mu = 3.5
+        val sigma = mu / 5.0
+        val beta = sigma * 0.37
+        val tau = sigma * 0.058
+        val skillVariables = new TTT(
+          new Games(matchesToGames(matches)),
+          mu = mu, sigma = sigma, beta = beta, tau = tau, delta = 0.01).run()
+
+        skillVariables.filterKeys { case (d, p) => d == month }
+      }
+
+    val playerSkillsByMonth = Await.result(Future.sequence(futures), Duration.Inf)
+    val skillVariables = playerSkillsByMonth.flatten.toMap
+    new AllPlayersStats(flattenMatches(cache), skillVariables, extractCurrentPlayers(cache))
   }
 
   private def fetchMonthMatches(): Seq[MonthMatches] = {
