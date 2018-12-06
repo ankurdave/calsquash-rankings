@@ -23,6 +23,10 @@ name_substitutions = {
   'Jaime Vidal': 'Jaime Perez',
   'Joseph Farrell': 'Joe Farrell',
   'Joseff Farrell': 'Joe Farrell',
+  'Frank Kennan': 'Frank Kennamer',
+  'Jaime Paterson': 'Jamie Paterson',
+  'Lewis H. Moore': 'Lewis Moore',
+  'Ryan': 'Ryan Akers',
 }
 
 def canonical_name(name):
