@@ -2,19 +2,23 @@ provider "aws" {
   region     = "${var.region}"
   access_key = "${var.access_key}"
   secret_key = "${var.secret_key}"
-  version    = "~> 1.7"
 }
 
 terraform {
+    required_providers {
+        aws = {
+            source = "hashicorp/aws"
+            version = "~> 4.29.0"
+        }
+        archive = {
+            version = "~> 1.0"
+        }
+    }
     backend "s3" {
         bucket = "ankurdave-aws-config"
         key = "calsquash-rankings.tfstate"
         region = "us-east-1"
     }
-}
-
-provider "archive" {
-  version = "~> 1.0"
 }
 
 data "aws_iam_policy_document" "assume-role-for-apigateway-and-lambda" {
@@ -71,8 +75,8 @@ resource "aws_lambda_function" "calsquash-rankings-scraper" {
   function_name                  = "calsquash-rankings-scraper"
   role                           = "${aws_iam_role.lambda-role.arn}"
   handler                        = "scraper.scrape_and_recompute"
-  runtime                        = "python2.7"
-  source_code_hash               = "${base64sha256(file("lambda_functions.zip"))}"
+  runtime                        = "python3.9"
+  source_code_hash               = "${filebase64sha256("lambda_functions.zip")}"
   timeout                        = 300
   reserved_concurrent_executions = 1
 }
@@ -114,25 +118,25 @@ resource "aws_lambda_function" "calsquash-publish-player-stats" {
   role             = "${aws_iam_role.lambda-role.arn}"
   handler          = "com.ankurdave.calsquashrankings.NewMatchHandler::handleRequest"
   runtime          = "java8"
-  source_code_hash = "${base64sha256(file("player-stats/target/scala-2.12/calsquash-rankings-assembly-0.1.jar"))}"
+  source_code_hash = "${filebase64sha256("player-stats/target/scala-2.12/calsquash-rankings-assembly-0.1.jar")}"
   timeout          = 300
   memory_size      = 1024
 }
 
-resource "aws_s3_bucket_object" "css" {
+resource "aws_s3_object" "css" {
   bucket       = "ankurdave.com"
   key          = "calsquash-rankings-style.css"
   source       = "calsquash-rankings-style.css"
-  etag         = "${md5(file("calsquash-rankings-style.css"))}"
+  etag         = "${filemd5("calsquash-rankings-style.css")}"
   acl          = "public-read"
   content_type = "text/css"
 }
 
-resource "aws_s3_bucket_object" "js" {
+resource "aws_s3_object" "js" {
   bucket       = "ankurdave.com"
   key          = "calsquash-rankings/player-stats/player-stats-chart.js"
   source       = "player-stats-chart.js"
-  etag         = "${md5(file("player-stats-chart.js"))}"
+  etag         = "${filemd5("player-stats-chart.js")}"
   acl          = "public-read"
   content_type = "text/javascript"
 }

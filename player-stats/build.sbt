@@ -10,7 +10,7 @@ lazy val root = (project in file(".")).dependsOn(tttProject)
 
 val tttVersion = "fd478cca390279321cce78008ddb27c01ed94ba2"
 
-lazy val tttProject = RootProject(uri(s"git://github.com/ankurdave/ttt-scala.git#$tttVersion"))
+lazy val tttProject = RootProject(uri(s"https://github.com/ankurdave/ttt-scala.git#$tttVersion"))
 
 libraryDependencies += "com.amazonaws" % "aws-lambda-java-core" % "1.1.0"
 
@@ -46,6 +46,6 @@ scalacOptions ++= Seq(
   "-Ywarn-unused-import"
 )
 
-scalacOptions in (Compile, console) := Seq.empty
+Compile / console / scalacOptions := Seq.empty
 
 autoAPIMappings := true

@@ -9,11 +9,11 @@ import os.path
 import parser
 import requests
 import tempfile
-import urlparse
+import urllib.parse
 
 scraped_dir = tempfile.mkdtemp()
 
-base_url = 'http://www.calsquash.com/boxleague/'
+base_url = 'http://www.calsquash.org/boxleague/'
 current_url = 's4.php?file=current.players'
 
 dynamodb = boto3.resource('dynamodb')
@@ -26,10 +26,10 @@ def url_to_filename(url):
     return url.split('/')[-1]
 
 def download_url(url, path):
-  print '%s -> %s' % (url, path)
+  print('%s -> %s' % (url, path))
   r = requests.get(url)
   with open(path, 'w') as f:
-    for line in r.text.encode('utf8').splitlines(True):
+    for line in r.text.splitlines(True):
       # Remove continuously-changing timestamp to enable checksumming
       if 'Generated on' not in line:
         f.write(line)
@@ -44,7 +44,7 @@ def check_for_new_games():
                if 'Item' in prev_entry
                and 'hash' in prev_entry['Item']
                else None)
-  print 'dynamodb -> hash %s' % prev_hash
+  print('dynamodb -> hash %s' % prev_hash)
 
   url = base_url + current_url
   path = os.path.join(scraped_dir, 'current.html')
@@ -53,7 +53,7 @@ def check_for_new_games():
   new_hash = file_hash(path)
   new_games_added = new_hash != prev_hash
   if new_games_added:
-    print 'hash %s -> dynamodb' % new_hash
+    print('hash %s -> dynamodb' % new_hash)
     dynamodb_match_cache.put_item(
       Item={'filename': 'current.html', 'hash': new_hash})
 
@@ -63,7 +63,7 @@ def fetch_dynamo_cached_matches():
   return {elem['filename']: elem for elem in dynamodb_match_cache.scan()['Items']}
 
 def is_absolute(url):
-  return bool(urlparse.urlparse(url).netloc)
+  return bool(urllib.parse.urlparse(url).netloc)
 
 def scrape():
   dynamo_elems = fetch_dynamo_cached_matches()
@@ -82,16 +82,16 @@ def scrape():
     filename = url_to_filename(url)
 
     if filename in matches:
-      print '%s: already seen' % filename
+      print('%s: already seen' % filename)
       continue
     elif filename in dynamo_elems and filename != 'current.html':
-      print '%s: in dynamo cache' % filename
+      print('%s: in dynamo cache' % filename)
       matches[filename] = dynamo_elems[filename]['matches']
       if ('prev_filename' in dynamo_elems[filename]
           and dynamo_elems[filename]['prev_filename']):
         urls_stack.append(base_url + dynamo_elems[filename]['prev_filename'])
     else:
-      print '%s: needs fetch' % filename
+      print('%s: needs fetch' % filename)
       path = os.path.join(scraped_dir, filename)
       if not os.path.isfile(path):
         download_url(url, path)
@@ -101,8 +101,8 @@ def scrape():
       prev_filename = url_to_filename(prev_url) if prev_url else None
 
       if filename != 'current.html':
-        print '%s (%d matches, %s prev) -> dynamodb' % (
-          filename, len(file_matches), prev_filename)
+        print('%s (%d matches, %s prev) -> dynamodb' % (
+          filename, len(file_matches), prev_filename))
         dynamodb_match_cache.put_item(
           Item={'filename': filename, 'matches': file_matches,
                 'prev_filename': prev_filename})
@@ -114,8 +114,8 @@ def scrape():
                      and 'hash' in prev_entry['Item']
                else None)
         current_players = parser.current_players(os.path.join(scraped_dir, 'current.html'))
-        print '%s (%d current players, %d matches, %s prev) -> dynamodb' % (
-          filename, len(current_players), len(file_matches), prev_filename)
+        print('%s (%d current players, %d matches, %s prev) -> dynamodb' % (
+          filename, len(current_players), len(file_matches), prev_filename))
         dynamodb_match_cache.put_item(
           Item={'filename': filename, 'matches': file_matches,
                 'prev_filename': prev_filename, 'hash': prev_hash,
@@ -140,7 +140,7 @@ def scrape_and_recompute(event=None, context=None):
     scrape()
     invoke_player_stats()
   else:
-    print 'No new games'
+    print('No new games')
 
 if __name__ == '__main__':
   scrape_and_recompute()

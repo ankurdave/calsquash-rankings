@@ -48,7 +48,7 @@ def scores_to_match_results(scores):
 
   """
   match_results = []
-  for (player1, player2), winner_score in scores.iteritems():
+  for (player1, player2), winner_score in scores.items():
     if winner_score >= 4: # player1 is always winner
       loser_score = scores.get((player2, player1))
       if loser_score == 7 - winner_score:
