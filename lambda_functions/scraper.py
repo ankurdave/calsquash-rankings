@@ -13,7 +13,7 @@ import urllib.parse
 
 scraped_dir = tempfile.mkdtemp()
 
-base_url = 'http://www.calsquash.org/boxleague/'
+base_url = 'http://www.calsquash.com/boxleague/'
 current_url = 's4.php?file=current.players'
 
 dynamodb = boto3.resource('dynamodb')
