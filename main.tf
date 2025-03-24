@@ -11,7 +11,7 @@ terraform {
             version = "~> 4.29.0"
         }
         archive = {
-            version = "~> 1.0"
+            version = "~> 2.0"
         }
     }
     backend "s3" {

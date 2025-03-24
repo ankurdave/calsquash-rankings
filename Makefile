@@ -1,7 +1,7 @@
 all: lambda_functions.zip player-stats/target/scala-2.12/calsquash-rankings-assembly-0.1.jar
 .PHONY: all player-stats/target/scala-2.12/calsquash-rankings-assembly-0.1.jar
 
-PY_PACKAGE_DIR = lambda_functions/.env/lib/python3.10/site-packages
+PY_PACKAGE_DIR = lambda_functions/.env/lib/python3.13/site-packages
 LAMBDA_SOURCES = \
 	scraper.py \
 	parser.py
